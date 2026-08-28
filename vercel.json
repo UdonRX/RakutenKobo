@@ -1,5 +1,12 @@
 {
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
   "cleanUrls": true,
+  "functions": {
+    "api/kobo.js": {
+      "maxDuration": 10
+    }
+  },
   "headers": [
     {"source":"/sw.js","headers":[{"key":"Cache-Control","value":"public, max-age=0, must-revalidate"}]},
     {"source":"/public/manifest.json","headers":[{"key":"Content-Type","value":"application/manifest+json"}]}

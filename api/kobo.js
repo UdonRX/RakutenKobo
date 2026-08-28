@@ -1,6 +1,7 @@
 const SEARCH_URL = 'https://openapi.rakuten.co.jp/services/api/Kobo/EbookSearch/20170426';
 const GENRE_URL = 'https://openapi.rakuten.co.jp/services/api/Kobo/GenreSearch/20131010';
-const VERSION = '0.1.2';
+const VERSION = '0.1.3';
+const DEFAULT_ORIGIN = 'https://rakuten-kobo.vercel.app';
 const ADULT_WORDS = ['アダルト','成年コミック','成人向け','18禁','官能'];
 const LIGHT_NOVEL_WORDS = ['ライトノベル','ラノベ','電撃文庫','MF文庫J','GA文庫','富士見ファンタジア文庫','ガガガ文庫'];
 
@@ -16,6 +17,10 @@ function credentials() {
     appId: String(process.env.RAKUTEN_APPLICATION_ID || '').trim(),
     accessKey: String(process.env.RAKUTEN_ACCESS_KEY || '').trim()
   };
+}
+
+function allowedOrigin() {
+  return String(process.env.RAKUTEN_ALLOWED_ORIGIN || DEFAULT_ORIGIN).trim().replace(/\/$/, '');
 }
 
 function normalizeItem(item) {
@@ -46,12 +51,11 @@ function isBlocked(item, excludeLightNovel) {
 }
 
 function buildSearchParams(query) {
-  const { appId, accessKey } = credentials();
+  const { appId } = credentials();
   const p = new URLSearchParams({
     format: 'json',
     formatVersion: '2',
     applicationId: appId,
-    accessKey,
     hits: String(Math.min(Math.max(Number(query.hits || 24), 1), 30)),
     page: String(Math.min(Math.max(Number(query.page || 1), 1), 100))
   });
@@ -66,22 +70,12 @@ function buildSearchParams(query) {
   }
 
   if (value) {
-    if (mode === 'title') {
-      p.set('title', value);
-      hasSelector = true;
-    } else if (mode === 'author') {
-      p.set('author', value);
-      hasSelector = true;
-    } else if (mode === 'publisher') {
-      p.set('publisherName', value);
-      hasSelector = true;
-    } else if (mode === 'isbn') {
-      p.set('itemNumber', value);
-      hasSelector = true;
-    } else if (value.length >= 2) {
-      p.set('keyword', value);
-      hasSelector = true;
-    }
+    if (mode === 'title') p.set('title', value);
+    else if (mode === 'author') p.set('author', value);
+    else if (mode === 'publisher') p.set('publisherName', value);
+    else if (mode === 'isbn') p.set('itemNumber', value);
+    else p.set('keyword', value);
+    hasSelector = true;
   }
 
   if (!hasSelector) p.set('koboGenreId', '101');
@@ -105,13 +99,30 @@ function buildSearchParams(query) {
 }
 
 async function fetchRakuten(url) {
-  const response = await fetch(url, { headers: { Accept: 'application/json' } });
-  const data = await response.json().catch(() => ({}));
+  const { accessKey } = credentials();
+  const origin = allowedOrigin();
+  const response = await fetch(url, {
+    headers: {
+      Accept: 'application/json',
+      accessKey,
+      Origin: origin,
+      Referer: `${origin}/`,
+      'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1'
+    }
+  });
+  const text = await response.text();
+  let data = {};
+  try { data = text ? JSON.parse(text) : {}; } catch { data = { raw: text.slice(0, 500) }; }
   return { response, data };
 }
 
 function rakutenError(data, status) {
-  return data?.error_description || data?.error || `Rakuten API ${status}`;
+  return data?.error_description
+    || data?.error
+    || data?.errors?.errorMessage
+    || data?.errors?.message
+    || data?.message
+    || `Rakuten API ${status}`;
 }
 
 async function rakutenSearch(query) {
@@ -138,15 +149,15 @@ async function rakutenSearch(query) {
 
 async function healthCheck() {
   const { appId, accessKey } = credentials();
+  const origin = allowedOrigin();
   if (!appId || !accessKey) {
-    return { ok: false, configured: false, rakutenOk: false, status: null, detail: 'environment variables are missing' };
+    return { ok: false, configured: false, rakutenOk: false, status: null, origin, detail: 'environment variables are missing' };
   }
 
   const p = new URLSearchParams({
     format: 'json',
     formatVersion: '2',
     applicationId: appId,
-    accessKey,
     koboGenreId: '101',
     hits: '1'
   });
@@ -156,7 +167,9 @@ async function healthCheck() {
     configured: true,
     rakutenOk: response.ok,
     status: response.status,
-    detail: response.ok ? 'Rakuten Kobo API authentication succeeded' : rakutenError(data, response.status)
+    origin,
+    detail: response.ok ? 'Rakuten Kobo API authentication succeeded' : rakutenError(data, response.status),
+    upstreamErrorCode: data?.errors?.errorCode ?? null
   };
 }
 
@@ -176,7 +189,6 @@ export default async function handler(req, res) {
         format: 'json',
         formatVersion: '2',
         applicationId: appId,
-        accessKey,
         koboGenreId: String(req.query.genreId || '101')
       });
       const { response, data } = await fetchRakuten(`${GENRE_URL}?${p}`);

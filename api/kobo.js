@@ -1,6 +1,6 @@
 const SEARCH_URL = 'https://openapi.rakuten.co.jp/services/api/Kobo/EbookSearch/20170426';
 const GENRE_URL = 'https://openapi.rakuten.co.jp/services/api/Kobo/GenreSearch/20131010';
-const VERSION = '0.2.0';
+const VERSION = '0.2.1';
 const DEFAULT_ORIGIN = 'https://rakuten-kobo.vercel.app';
 const ADULT_WORDS = ['アダルト','成年コミック','成人向け','18禁','官能','成人漫画','エロティック'];
 const LIGHT_NOVEL_WORDS = ['ライトノベル','ラノベ','電撃文庫','MF文庫J','GA文庫','富士見ファンタジア文庫','ガガガ文庫'];
@@ -36,7 +36,15 @@ function normalizeText(value = '') {
     .replace(/[\s　・･:：!?！？()（）【】\[\]「」『』〈〉《》#＃―ー\-]/g, '');
 }
 
+function highResImage(url, size = 600) {
+  const value = String(url || '').trim();
+  if (!value) return '';
+  if (/([?&])_ex=\d+x\d+/i.test(value)) return value.replace(/([?&])_ex=\d+x\d+/i, `$1_ex=${size}x${size}`);
+  return `${value}${value.includes('?') ? '&' : '?'}_ex=${size}x${size}`;
+}
+
 function normalizeItem(item) {
+  const sourceImage = item.largeImageUrl || item.mediumImageUrl || item.smallImageUrl || '';
   return {
     id: item.itemNumber || item.itemUrl || item.title || item.itemName,
     title: item.title || item.itemName || '',
@@ -44,7 +52,7 @@ function normalizeItem(item) {
     publisher: item.publisherName || '',
     price: Number(item.itemPrice || 0),
     url: item.itemUrl || '',
-    image: item.largeImageUrl || item.mediumImageUrl || item.smallImageUrl || '',
+    image: highResImage(sourceImage, 600),
     caption: item.itemCaption || '',
     salesDate: item.salesDate || '',
     series: item.seriesName || '',
@@ -347,6 +355,7 @@ function matchScore(book, meta) {
     else return -1;
   }
   if (book.salesType === 0) score += 2;
+  if (!/合本|分冊|コミック/i.test(book.title)) score += 1;
   return score;
 }
 
@@ -354,12 +363,14 @@ async function resolveOne(meta) {
   const searches = [meta.title, meta.originalTitle].filter(Boolean);
   const specials = await specialGenrePrefixes();
   for (const title of searches) {
-    const result = await rakutenSearch({ q: title, mode: 'title', hits: 6, sort: 'standard' }, specials);
-    const ranked = (result.items || [])
-      .map(book => ({ book, score: matchScore(book, meta) }))
-      .filter(item => item.score >= 0)
-      .sort((a, b) => b.score - a.score);
-    if (ranked[0]) return { ...ranked[0].book, matchMeta: meta };
+    for (const mode of ['title','keyword']) {
+      const result = await rakutenSearch({ q: title, mode, hits: 10, sort: 'standard' }, specials);
+      const ranked = (result.items || [])
+        .map(book => ({ book, score: matchScore(book, meta) }))
+        .filter(item => item.score >= 0)
+        .sort((a, b) => b.score - a.score);
+      if (ranked[0]) return { ...ranked[0].book, matchMeta: meta };
+    }
   }
   return null;
 }
@@ -372,7 +383,7 @@ async function resolveBatch(entries) {
     const chunk = input.slice(i, i + chunkSize);
     const results = await Promise.all(chunk.map(item => resolveOne(item).catch(() => null)));
     out.push(...results.filter(Boolean));
-    if (i + chunkSize < input.length) await new Promise(resolve => setTimeout(resolve, 90));
+    if (i + chunkSize < input.length) await new Promise(resolve => setTimeout(resolve, 70));
   }
   return out;
 }
@@ -421,7 +432,7 @@ export default async function handler(req, res) {
       if (req.method !== 'POST') return json(res, 405, { error: 'POST only' });
       const body = typeof req.body === 'string' ? JSON.parse(req.body || '{}') : (req.body || {});
       const items = Array.isArray(body.items) ? body.items : [];
-      if (!items.length) return json(res, 200, { items: [], requested: 0 });
+      if (!items.length) return json(res, 200, { items: [], requested: 0, matched: 0 });
       const resolved = await resolveBatch(items);
       return json(res, 200, { items: resolved, requested: Math.min(items.length, MAX_RESOLVE_ITEMS), matched: resolved.length }, 300);
     }

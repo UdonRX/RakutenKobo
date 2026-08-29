@@ -1,37 +1,129 @@
-import { GENRES, AWARDS, AWARD_BOOKS, RANKING_SOURCES, RANKING_SEEDS } from './catalog.js';
-const $ = (s,root=document)=>root.querySelector(s); const $$=(s,root=document)=>[...root.querySelectorAll(s)];
-const state={tab:'popular',period:'week',source:'combined',award:'hontai',genre:null,selected:null,searchOpen:false,favorites:load('kobo-favorites-v1',[]),searchMode:'title',sort:'standard',query:'',books:[],loading:false,error:''};
-const nav=[['popular','人気','◉'],['new','新着','✦'],['awards','受賞作','♛'],['genres','ジャンル','▦']];
-const searchModes=[['title','タイトル'],['keyword','すべて'],['author','著者'],['publisher','出版社'],['isbn','ISBN']];
-const sorts=[['standard','関連順'],['-releaseDate','新しい順'],['-reviewCount','レビュー数'],['-reviewAverage','評価順'],['+itemPrice','安い順'],['-itemPrice','高い順']];
+import { GENRES, AWARD_BOOKS, RANKING_SNAPSHOTS } from './catalog.js';
+import { layout, popularView, newView, awardView, genresView, availableRankingSources } from './ui.js';
+
+const $=(s,r=document)=>r.querySelector(s), $$=(s,r=document)=>[...r.querySelectorAll(s)];
+const load=(k,f)=>{try{return JSON.parse(localStorage.getItem(k)||JSON.stringify(f))}catch{return f}};
+const save=(k,v)=>localStorage.setItem(k,JSON.stringify(v));
+const normalize=(v='')=>String(v).normalize('NFKC').toLowerCase().replace(/[\s　・･:：!?！？()（）【】\[\]「」『』〈〉《》#＃―ー\-]/g,'');
+
+const state={tab:'popular',period:'week',source:'combined',award:'hontai',awardYear:null,genre:null,genreResolved:null,selected:null,searchOpen:false,favoritesOpen:false,favorites:load('kobo-favorites-v1',[]),searchMode:'title',sort:'standard',query:'',books:[],loading:false,error:''};
 let requestToken=0, searchTimer=null;
-function load(k,f){try{return JSON.parse(localStorage.getItem(k)||JSON.stringify(f))}catch{return f}}function save(k,v){localStorage.setItem(k,JSON.stringify(v))}
-function esc(v=''){return String(v).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
-function yen(n){return n?`¥${Number(n).toLocaleString()}`:'価格情報なし'}
-async function api(params){const r=await fetch('/api/kobo?'+new URLSearchParams(params));const d=await r.json().catch(()=>({}));if(!r.ok)throw new Error(d.error||'データを取得できませんでした');return d}
-function dedupe(list){const s=new Set();return list.filter(b=>{const k=((b.series||b.title||'').replace(/\s/g,'')+'|'+(b.author||''));if(s.has(k))return false;s.add(k);return true})}
-function fav(id){return state.favorites.some(b=>b.id===id)}
-function toggleFav(book){state.favorites=fav(book.id)?state.favorites.filter(b=>b.id!==book.id):[book,...state.favorites].slice(0,100);save('kobo-favorites-v1',state.favorites);render()}
-function icon(name){return name==='search'?'⌕':name==='heart'?'♡':name==='close'?'×':'•'}
-function layout(content){return `<div class="app-shell"><header class="topbar"><div><div class="eyebrow">KOBO FINDER</div><h1>${nav.find(n=>n[0]===state.tab)?.[1]||'Kobo Finder'}</h1></div><div class="top-actions"><button class="icon-button" data-action="search">${icon('search')}</button><button class="icon-button fav-button" data-action="favorites">${icon('heart')}${state.favorites.length?`<span>${state.favorites.length}</span>`:''}</button></div></header><main class="content">${content}</main><nav class="bottom-nav">${nav.map(([id,label,ic])=>`<button data-tab="${id}" class="${state.tab===id?'active':''}"><b>${ic}</b><span>${label}</span></button>`).join('')}</nav></div>${state.searchOpen?searchSheet():''}${state.selected?detailSheet(state.selected):''}`}
-function chips(items,current,attr){return `<div class="chips">${items.map(x=>`<button class="${current===x.id?'active':''}" data-${attr}="${x.id}">${esc(x.label)}</button>`).join('')}</div>`}
-function intro(t,x){return `<div class="section-intro"><h2>${esc(t)}</h2><p>${esc(x)}</p></div>`}
-function skeleton(){return `<div class="book-grid">${Array(8).fill('<div class="skeleton-card"><div></div><span></span><span></span></div>').join('')}</div>`}
-function empty(t,x){return `<div class="empty"><div class="empty-icon">▢</div><h3>${esc(t)}</h3><p>${esc(x)}</p></div>`}
-function cards(books,ranked=false){if(state.loading)return skeleton();if(state.error)return empty('本を取得できません',state.error);if(!books.length)return empty('該当するKobo本がありません','条件を変えて探してみてください。');return `<div class="book-grid">${books.map((b,i)=>`<article class="book-card"><button class="cover-button" data-open="${i}">${b.image?`<img src="${esc(b.image)}" alt="" loading="lazy">`:'<div class="cover-placeholder">BOOK</div>'}${ranked?`<b class="rank">${b.ranking?.rank||i+1}</b>`:''}</button><div class="book-meta"><button class="book-title" data-open="${i}">${esc(b.title)}</button><p>${esc(b.author||'著者不明')}</p><div><strong>${yen(b.price)}</strong><button class="heart ${fav(b.id)?'active':''}" data-fav="${i}">${fav(b.id)?'♥':'♡'}</button></div></div></article>`).join('')}</div>`}
-function popularitySeeds(){const bucket=RANKING_SEEDS[state.period]||RANKING_SEEDS.week;if(state.source!=='combined')return (bucket[state.source]||[]).map(([title,author,rank])=>({title,author,rank,source:state.source}));const m=new Map();Object.entries(bucket).forEach(([src,list])=>list.forEach(([title,author,rank])=>{const k=(title+author).replace(/[\s　・･:：!?！？()（）【】\[\]「」]/g,'').toLowerCase(),c=m.get(k)||{title,author,score:0,sources:[]};c.score+=Math.max(10,105-rank*5);c.sources.push({source:src,rank});m.set(k,c)}));return [...m.values()].sort((a,b)=>b.score-a.score).map((x,i)=>({...x,rank:i+1,source:'combined'}))}
-async function loadPopular(){const token=++requestToken;state.loading=true;state.error='';state.books=[];render();try{if(state.source==='kobo'){const d=await api({action:'search',q:'本',sort:'-reviewCount',hits:'24'});if(token===requestToken)state.books=d.items||[]}else{const out=[];for(const seed of popularitySeeds().slice(0,18)){try{const d=await api({action:'search',q:seed.title,mode:'title',hits:'6'});const hit=(d.items||[]).find(b=>!seed.author||(b.author||'').includes(seed.author.split(/[／/]/)[0]))||(d.items||[])[0];if(hit)out.push({...hit,ranking:seed})}catch{}}if(token===requestToken)state.books=dedupe(out)}}catch(e){if(token===requestToken)state.error=e.message}finally{if(token===requestToken){state.loading=false;render()}}}
-async function loadNew(){const t=++requestToken;state.loading=true;state.error='';state.books=[];render();try{const d=await api({action:'search',q:'本',sort:'-releaseDate',hits:'30'});if(t===requestToken)state.books=d.items||[]}catch(e){if(t===requestToken)state.error=e.message}finally{if(t===requestToken){state.loading=false;render()}}}
-async function loadAward(){const t=++requestToken;state.loading=true;state.error='';state.books=[];render();const candidates=AWARD_BOOKS.filter(x=>x.award===state.award).sort((a,b)=>b.year-a.year);const out=[];for(const item of candidates){try{const d=await api({action:'search',q:item.title,mode:'title',hits:'5'});if(d.items?.[0])out.push({...d.items[0],awardMeta:item})}catch{}}if(t===requestToken){state.books=dedupe(out);state.loading=false;render()}}
-async function loadGenre(){if(!state.genre)return;const g=GENRES.find(x=>x.id===state.genre),t=++requestToken;state.loading=true;state.error='';state.books=[];render();try{const d=await api({action:'search',q:g.query,mode:'keyword',sort:'-reviewCount',hits:'30',excludeLightNovel:g.excludeLightNovel?'1':'0'});if(t===requestToken)state.books=d.items||[]}catch(e){if(t===requestToken)state.error=e.message}finally{if(t===requestToken){state.loading=false;render()}}}
-function popularView(){return `<div class="segmented">${[['week','今週'],['month','今月'],['year','今年']].map(([id,l])=>`<button data-period="${id}" class="${state.period===id?'active':''}">${l}</button>`).join('')}</div>${chips(RANKING_SOURCES,state.source,'source')}${intro('いま読まれている本','公開ランキングとKoboレビューを照合し、電子書籍で読める本だけを表示。')}${cards(state.books,true)}<p class="source-note">ランキング出典：丸善ジュンク堂書店（直近7日間全店売上）、トーハン調べ。Koboで販売中の電子書籍に照合して表示。</p>`}
-function newView(){return `${intro('新しく届いた本','発売日の新しい順。予約作品も含まれます。')}${cards(state.books)}`}
-function awardView(){return `${chips(AWARDS,state.award,'award')}${intro(AWARDS.find(a=>a.id===state.award)?.label||'受賞作','受賞作だけでなく候補・ノミネートも。Kobo版がある作品だけを表示。')}${cards(state.books)}`}
-function genresView(){if(!state.genre)return `${intro('ジャンルから探す','小説ではライトノベルを除外。漫画は1カテゴリにまとめ、成人向け作品は表示しません。')}<div class="genre-grid">${GENRES.map(g=>`<button data-genre="${g.id}"><span>${g.emoji}</span><strong>${esc(g.label)}</strong><b>›</b></button>`).join('')}</div>`;const g=GENRES.find(x=>x.id===state.genre);return `<button class="back-pill" data-back-genres>← ジャンル一覧</button>${intro(g.label,'Koboで読める作品をレビュー件数順に表示。')}${cards(state.books)}`}
-function searchSheet(){const hist=load('kobo-search-history-v1',[]);return `<div class="sheet full"><div class="sheet-head"><div class="search-field"><span>⌕</span><input id="search-input" value="${esc(state.query)}" placeholder="本のタイトル・著者を検索"></div><button class="icon-button" data-close-search>×</button></div>${chips(searchModes.map(([id,label])=>({id,label})),state.searchMode,'search-mode')}<div class="sort-row"><span>並び替え</span><select id="sort-select">${sorts.map(([id,l])=>`<option value="${id}" ${state.sort===id?'selected':''}>${l}</option>`).join('')}</select></div><div class="sheet-content">${state.query?cards(state.books):`<div class="history"><h3>最近の検索</h3>${hist.length?hist.map(x=>`<button data-history="${esc(x)}">${esc(x)}<b>›</b></button>`).join(''):'<p>検索履歴はこのiPhone内だけに保存されます。</p>'}</div>`}</div></div>`}
-function detailSheet(b){return `<div class="sheet-backdrop" data-close-detail><div class="sheet detail" data-stop><div class="drag"></div><button class="close-float" data-close-detail>×</button><div class="detail-top"><div class="detail-cover">${b.image?`<img src="${esc(b.image)}" alt="">`:'<div class="cover-placeholder">BOOK</div>'}</div><div><span class="detail-kicker">${esc(b.publisher||'Rakuten Kobo')}</span><h2>${esc(b.title)}</h2><p>${esc(b.author||'')}</p><strong class="detail-price">${yen(b.price)}</strong></div></div><div class="detail-actions"><button data-detail-fav>${fav(b.id)?'♥ 保存済み':'♡ 気になる'}</button><a href="${esc(b.url)}" target="_blank" rel="noreferrer">Koboで見る ↗</a></div><div class="detail-info">${b.series?`<p><b>シリーズ</b><span>${esc(b.series)}</span></p>`:''}${b.salesDate?`<p><b>発売日</b><span>${esc(b.salesDate)}</span></p>`:''}${b.reviewCount?`<p><b>レビュー</b><span>★ ${Number(b.reviewAverage||0).toFixed(1)} / ${Number(b.reviewCount).toLocaleString()}件</span></p>`:''}${b.awardMeta?`<p><b>受賞情報</b><span>${b.awardMeta.year} · ${esc(b.awardMeta.status)}</span></p>`:''}<div class="caption">${esc(b.caption||'商品説明は楽天Koboで確認できます。')}</div></div></div></div>`}
-function favoritesView(){return `<div class="sheet full"><div class="sheet-head"><div><div class="eyebrow">MY LIST</div><h2>気になる本</h2></div><button class="icon-button" data-close-favorites>×</button></div><div class="sheet-content">${state.favorites.length?cards(state.favorites):empty('まだ保存されていません','本の♡を押すと、このiPhoneに保存されます。')}</div></div>`}
-function render(){let view=state.tab==='popular'?popularView():state.tab==='new'?newView():state.tab==='awards'?awardView():genresView();$('#app').innerHTML=layout(view)+(state.favoritesOpen?favoritesView():'');bind();}
-function bind(){$$('[data-tab]').forEach(b=>b.onclick=()=>{state.tab=b.dataset.tab;state.genre=null;state.books=[];state.error='';render();if(state.tab==='popular')loadPopular();if(state.tab==='new')loadNew();if(state.tab==='awards')loadAward()});$('[data-action="search"]')?.addEventListener('click',()=>{state.searchOpen=true;state.books=[];state.error='';render();setTimeout(()=>$('#search-input')?.focus(),30)});$('[data-action="favorites"]')?.addEventListener('click',()=>{state.favoritesOpen=true;render()});$('[data-close-favorites]')?.addEventListener('click',()=>{state.favoritesOpen=false;render()});$$('[data-period]').forEach(b=>b.onclick=()=>{state.period=b.dataset.period;loadPopular()});$$('[data-source]').forEach(b=>b.onclick=()=>{state.source=b.dataset.source;loadPopular()});$$('[data-award]').forEach(b=>b.onclick=()=>{state.award=b.dataset.award;loadAward()});$$('[data-genre]').forEach(b=>b.onclick=()=>{state.genre=b.dataset.genre;loadGenre()});$('[data-back-genres]')?.addEventListener('click',()=>{state.genre=null;state.books=[];render()});$$('[data-open]').forEach(b=>b.onclick=()=>{const source=state.favoritesOpen?state.favorites:state.books;state.selected=source[Number(b.dataset.open)];render()});$$('[data-fav]').forEach(b=>b.onclick=e=>{e.stopPropagation();const source=state.favoritesOpen?state.favorites:state.books;toggleFav(source[Number(b.dataset.fav)])});$('[data-detail-fav]')?.addEventListener('click',()=>toggleFav(state.selected));$$('[data-close-detail]').forEach(x=>x.onclick=()=>{state.selected=null;render()});$('[data-stop]')?.addEventListener('click',e=>e.stopPropagation());$('[data-close-search]')?.addEventListener('click',()=>{state.searchOpen=false;state.query='';state.books=[];state.error='';render()});$$('[data-search-mode]').forEach(b=>b.onclick=()=>{state.searchMode=b.dataset.searchMode;runSearch()});$('#sort-select')?.addEventListener('change',e=>{state.sort=e.target.value;runSearch()});$('#search-input')?.addEventListener('input',e=>{state.query=e.target.value;clearTimeout(searchTimer);searchTimer=setTimeout(runSearch,350)});$$('[data-history]').forEach(b=>b.onclick=()=>{state.query=b.dataset.history;render();runSearch()})}
-async function runSearch(){if(!state.searchOpen||!state.query.trim()){state.books=[];state.error='';render();return}const q=state.query.trim(),t=++requestToken;state.loading=true;state.error='';render();try{const d=await api({action:'search',q,mode:state.searchMode,sort:state.sort,hits:'24'});if(t===requestToken){state.books=d.items||[];const h=load('kobo-search-history-v1',[]);save('kobo-search-history-v1',[q,...h.filter(x=>x!==q)].slice(0,8))}}catch(e){if(t===requestToken)state.error=e.message}finally{if(t===requestToken){state.loading=false;render();setTimeout(()=>{const i=$('#search-input');if(i){i.focus();i.setSelectionRange(i.value.length,i.value.length)}},0)}}}
-if('serviceWorker'in navigator)navigator.serviceWorker.register('/sw.js').catch(()=>{});render();loadPopular();
+
+async function api(params){
+  let response;
+  if(params.action==='resolve'){
+    response=await fetch('/api/kobo?action=resolve',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({items:JSON.parse(params.items||'[]')})});
+  }else response=await fetch('/api/kobo?'+new URLSearchParams(params));
+  const data=await response.json().catch(()=>({}));
+  if(!response.ok) throw new Error(data.detail||data.error||'データを取得できませんでした');
+  return data;
+}
+
+function dedupe(list){const seen=new Set();return list.filter(book=>{const key=`${normalize(book.series||book.title)}|${normalize(book.author)}`;if(seen.has(key))return false;seen.add(key);return true})}
+function fav(id){return state.favorites.some(book=>book.id===id)}
+function toggleFav(book){state.favorites=fav(book.id)?state.favorites.filter(item=>item.id!==book.id):[book,...state.favorites].slice(0,100);save('kobo-favorites-v1',state.favorites);render()}
+
+function awardYears(){return [...new Set(AWARD_BOOKS.filter(item=>item.award===state.award).map(item=>item.year))].sort((a,b)=>b-a)}
+function ensureAwardYear(){const years=awardYears();if(!years.includes(Number(state.awardYear)))state.awardYear=years[0]||null}
+function statusPriority(item){const s=item.status||'';if(s.includes('大賞')||s.includes('受賞'))return 0;if(item.rank)return item.rank;if(s.includes('候補')||s.includes('ノミネート'))return 20;return 30}
+
+function rankingSeeds(){
+  const bucket=RANKING_SNAPSHOTS[state.period]||{};
+  if(state.source!=='combined') return (bucket[state.source]?.items||[]).map(item=>({...item,source:state.source,sources:[{source:state.source,rank:item.rank}]}));
+  const merged=new Map();
+  for(const [source,snap] of Object.entries(bucket)) for(const item of snap.items||[]){
+    const key=`${normalize(item.title)}|${normalize(item.author)}`;
+    const cur=merged.get(key)||{title:item.title,author:item.author,score:0,sources:[]};
+    cur.score+=Math.max(10,105-item.rank*5);cur.sources.push({source,rank:item.rank});merged.set(key,cur);
+  }
+  return [...merged.values()].sort((a,b)=>b.score-a.score).map((item,index)=>({...item,rank:index+1,source:'combined'}));
+}
+
+async function resolveMetadata(entries){
+  if(!entries.length)return [];
+  const data=await api({action:'resolve',items:JSON.stringify(entries.slice(0,12))});
+  return data.items||[];
+}
+
+async function loadPopular(){
+  const token=++requestToken;state.loading=true;state.error='';state.books=[];render();
+  try{
+    if(state.source==='kobo'){
+      const data=await api({action:'search',sort:'reviewCount',hits:'24'});
+      if(token===requestToken)state.books=(data.items||[]).map((book,index)=>({...book,ranking:{rank:index+1,source:'kobo',sources:[{source:'kobo',rank:index+1}]}}));
+    }else{
+      const resolved=await resolveMetadata(rankingSeeds().slice(0,12));
+      if(token===requestToken)state.books=dedupe(resolved.map(book=>({...book,ranking:book.matchMeta})));
+    }
+  }catch(error){if(token===requestToken)state.error=error.message}
+  finally{if(token===requestToken){state.loading=false;render()}}
+}
+
+async function loadNew(){
+  const token=++requestToken;state.loading=true;state.error='';state.books=[];render();
+  try{const data=await api({action:'search',sort:'-releaseDate',hits:'30'});if(token===requestToken)state.books=data.items||[]}
+  catch(error){if(token===requestToken)state.error=error.message}
+  finally{if(token===requestToken){state.loading=false;render()}}
+}
+
+async function loadAward(){
+  ensureAwardYear();const token=++requestToken;state.loading=true;state.error='';state.books=[];render();
+  const entries=AWARD_BOOKS.filter(item=>item.award===state.award&&item.year===Number(state.awardYear)).sort((a,b)=>statusPriority(a)-statusPriority(b));
+  try{const resolved=await resolveMetadata(entries);if(token===requestToken)state.books=dedupe(resolved.map(book=>({...book,awardMeta:book.matchMeta})))}
+  catch(error){if(token===requestToken)state.error=error.message}
+  finally{if(token===requestToken){state.loading=false;render()}}
+}
+
+async function loadGenre(){
+  if(!state.genre)return;const genre=GENRES.find(item=>item.id===state.genre), token=++requestToken;
+  state.loading=true;state.error='';state.books=[];state.genreResolved=null;render();
+  try{
+    const data=await api({action:'search',genreKey:genre.id,genreNames:genre.names.join('|'),parentNames:genre.parentNames.join('|'),fallbackQuery:genre.fallbackQuery,sort:'reviewCount',hits:'30',excludeLightNovel:genre.excludeLightNovel?'1':'0'});
+    if(token===requestToken){state.books=data.items||[];state.genreResolved=data.resolvedGenre||null}
+  }catch(error){if(token===requestToken)state.error=error.message}
+  finally{if(token===requestToken){state.loading=false;render()}}
+}
+
+function currentView(){
+  if(state.tab==='popular')return popularView(state);
+  if(state.tab==='new')return newView(state);
+  if(state.tab==='awards')return awardView(state,awardYears());
+  return genresView(state);
+}
+
+function render(){document.querySelector('#app').innerHTML=layout(state,currentView(),load('kobo-search-history-v1',[]));bind()}
+
+function bind(){
+  $$('[data-tab]').forEach(button=>button.onclick=()=>{state.tab=button.dataset.tab;state.genre=null;state.genreResolved=null;state.books=[];state.error='';if(state.tab==='awards')ensureAwardYear();render();if(state.tab==='popular')loadPopular();if(state.tab==='new')loadNew();if(state.tab==='awards')loadAward()});
+  $('[data-action="search"]')?.addEventListener('click',()=>{state.searchOpen=true;state.books=[];state.error='';render();setTimeout(()=>$('#search-input')?.focus(),30)});
+  $('[data-action="favorites"]')?.addEventListener('click',()=>{state.favoritesOpen=true;render()});
+  $('[data-close-favorites]')?.addEventListener('click',()=>{state.favoritesOpen=false;render()});
+  $$('[data-period]').forEach(button=>button.onclick=()=>{state.period=button.dataset.period;const ids=availableRankingSources(state.period).map(item=>item.id);if(!ids.includes(state.source))state.source='combined';loadPopular()});
+  $$('[data-source]').forEach(button=>button.onclick=()=>{state.source=button.dataset.source;loadPopular()});
+  $$('[data-award]').forEach(button=>button.onclick=()=>{state.award=button.dataset.award;state.awardYear=null;ensureAwardYear();loadAward()});
+  $$('[data-award-year]').forEach(button=>button.onclick=()=>{state.awardYear=Number(button.dataset.awardYear);loadAward()});
+  $$('[data-genre]').forEach(button=>button.onclick=()=>{state.genre=button.dataset.genre;loadGenre()});
+  $('[data-back-genres]')?.addEventListener('click',()=>{state.genre=null;state.genreResolved=null;state.books=[];render()});
+  $$('[data-open]').forEach(button=>button.onclick=()=>{const source=state.favoritesOpen?state.favorites:state.books;state.selected=source[Number(button.dataset.open)];render()});
+  $$('[data-fav]').forEach(button=>button.onclick=event=>{event.stopPropagation();const source=state.favoritesOpen?state.favorites:state.books;toggleFav(source[Number(button.dataset.fav)])});
+  $('[data-detail-fav]')?.addEventListener('click',()=>toggleFav(state.selected));
+  $$('[data-close-detail]').forEach(item=>item.onclick=()=>{state.selected=null;render()}); $('[data-stop]')?.addEventListener('click',event=>event.stopPropagation());
+  $('[data-close-search]')?.addEventListener('click',()=>{state.searchOpen=false;state.query='';state.books=[];state.error='';render()});
+  $$('[data-search-mode]').forEach(button=>button.onclick=()=>{state.searchMode=button.dataset.searchMode;runSearch()});
+  $('#sort-select')?.addEventListener('change',event=>{state.sort=event.target.value;runSearch()});
+  $('#search-input')?.addEventListener('input',event=>{state.query=event.target.value;clearTimeout(searchTimer);searchTimer=setTimeout(runSearch,350)});
+  $$('[data-history]').forEach(button=>button.onclick=()=>{state.query=button.dataset.history;render();runSearch()});
+}
+
+async function runSearch(){
+  if(!state.searchOpen||!state.query.trim()){state.books=[];state.error='';render();return}
+  const query=state.query.trim(), token=++requestToken;state.loading=true;state.error='';render();
+  try{
+    const data=await api({action:'search',q:query,mode:state.searchMode,sort:state.sort,hits:'24'});
+    if(token===requestToken){state.books=data.items||[];const history=load('kobo-search-history-v1',[]);save('kobo-search-history-v1',[query,...history.filter(item=>item!==query)].slice(0,8))}
+  }catch(error){if(token===requestToken)state.error=error.message}
+  finally{if(token===requestToken){state.loading=false;render();setTimeout(()=>{const input=$('#search-input');if(input){input.focus();input.setSelectionRange(input.value.length,input.value.length)}},0)}}
+}
+
+if('serviceWorker'in navigator)navigator.serviceWorker.register('/sw.js').catch(()=>{});
+ensureAwardYear();render();loadPopular();

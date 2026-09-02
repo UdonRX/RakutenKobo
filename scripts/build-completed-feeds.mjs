@@ -54,6 +54,66 @@ function dedupeBooks(list) {
   return out;
 }
 
+function extractVolume(value='') {
+  const text=String(value||'').normalize('NFKC')
+    .replace(/\s*[（(][^）)]*(?:コミックス|コミック|DIGITAL|電子|文庫|新書|単行本|BOOKS?)[^）)]*[）)]\s*$/iu,'')
+    .trim();
+  const patterns=[
+    /(?:第\s*)?(\d{1,3})\s*巻\s*$/u,
+    /[（(]\s*(\d{1,3})\s*[）)]\s*$/u,
+    /(?:^|[\s　])(\d{1,3})\s*$/u
+  ];
+  for(const pattern of patterns) {
+    const m=text.match(pattern);
+    if(m) return Number(m[1]);
+  }
+  return null;
+}
+function titleCore(value='') {
+  let text=simplifyTitle(value)
+    .replace(/\s*[（(][^）)]*[）)]\s*$/u,'')
+    .replace(/\s*\[[^\]]*\]\s*$/u,'')
+    .trim();
+  text=text.replace(/(?:第\s*)?\d{1,3}\s*巻\s*$/u,'').replace(/[（(]\s*\d{1,3}\s*[）)]\s*$/u,'').replace(/(?:^|[\s　])\d{1,3}\s*$/u,'').trim();
+  const split=text.split(/[〜～―—]/u).map(v=>v.trim()).filter(Boolean);
+  if(split[0] && split[0].length>=4) return split[0];
+  return text;
+}
+function flexibleScore(book, candidate) {
+  const bt=normalize(book?.title||''), ct=normalize(candidate?.originalTitle||candidate?.title||'');
+  const bc=normalize(titleCore(book?.title||'')), cc=normalize(titleCore(candidate?.originalTitle||candidate?.title||''));
+  if(!bt || !ct) return -999;
+  let score=0;
+  if(bt===ct) score=130;
+  else if(bt.includes(ct)||ct.includes(bt)) score=95;
+  else if(bc && cc && bc===cc) score=90;
+  else if(bc && cc && (bc.includes(cc)||cc.includes(bc)) && Math.min(bc.length,cc.length)>=4) score=75;
+  else {
+    let common=0;
+    const min=Math.min(bc.length,cc.length);
+    while(common<min && bc[common]===cc[common]) common++;
+    if(min>=6 && common/min>=0.72) score=70;
+    else return -999;
+  }
+  const bv=extractVolume(book?.title||''), cv=extractVolume(candidate?.originalTitle||candidate?.title||'');
+  if(bv!=null && cv!=null) score += bv===cv ? 35 : -120;
+  const ba=normalize(book?.author||''), ca=normalize(candidate?.author||'');
+  if(ba && ca && (ba===ca||ba.includes(ca)||ca.includes(ba))) score+=20;
+  return score;
+}
+function fallbackQueries(candidate) {
+  const original=String(candidate?.originalTitle||candidate?.title||'').trim();
+  const simplified=simplifyTitle(original);
+  const core=titleCore(original);
+  const volume=extractVolume(original);
+  const values=[];
+  if(core && core!==simplified) values.push(volume!=null?`${core} ${volume}`:core);
+  if(simplified && simplified!==original) values.push(simplified);
+  if(core && !values.includes(core)) values.push(core);
+  if(!values.length && simplified) values.push(simplified.slice(0,32));
+  return [...new Set(values.map(v=>v.trim()).filter(v=>v.length>=3))].slice(0,2);
+}
+
 async function fetchJson(url, options={}, timeoutMs=25000, retries=2) {
   let last;
   for(let attempt=0; attempt<=retries; attempt++) {
@@ -82,6 +142,39 @@ async function resolveChunk(chunk) {
   },30000,1);
 }
 
+async function flexibleResolveOne(rawCandidate) {
+  const candidate=candidateForResolve(rawCandidate);
+  let best=null,bestScore=-999;
+  for(const query of fallbackQueries(candidate)) {
+    let data;
+    try {
+      const params=new URLSearchParams({action:'search',q:query,mode:'keyword',hits:'20',sort:'standard'});
+      data=await fetchJson(`${API_BASE}/api/kobo?${params}`,{headers:{Accept:'application/json'}},22000,1);
+    } catch { continue; }
+    for(const book of data.items||[]) {
+      const score=flexibleScore(book,candidate);
+      if(score>bestScore){best=book;bestScore=score}
+    }
+    if(bestScore>=105) break;
+  }
+  return bestScore>=70 && best ? {...best,matchMeta:candidate} : null;
+}
+
+async function recoverFlexible(candidates, matched, target) {
+  let out=dedupeBooks(matched);
+  const matchedTitles=new Set(out.map(book=>candidateTitleKey(book.matchMeta||{})).filter(Boolean));
+  const remaining=candidates.filter(item=>!matchedTitles.has(normalize(item.title))).slice(0,64);
+  for(let i=0;i<remaining.length && out.length<target;i+=4) {
+    const chunk=remaining.slice(i,i+4);
+    const settled=await Promise.allSettled(chunk.map(flexibleResolveOne));
+    for(const result of settled) if(result.status==='fulfilled' && result.value) out.push(result.value);
+    out=dedupeBooks(out);
+    console.log(`Flexible recovery ${Math.min(i+4,remaining.length)}/${remaining.length}; Kobo matches ${out.length}`);
+    if(i+4<remaining.length && out.length<target) await sleep(120);
+  }
+  return out.slice(0,target);
+}
+
 async function resolveCandidates(entries,{target,maxCandidates}) {
   const candidates=(entries||[]).filter(item=>item?.title).slice(0,maxCandidates);
   let matched=[], checked=0, failedBatches=0;
@@ -102,6 +195,7 @@ async function resolveCandidates(entries,{target,maxCandidates}) {
     console.log(`Resolved ${checked}/${candidates.length}; Kobo matches ${matched.length}`);
     if(offset+BATCH_SIZE*CONCURRENCY<candidates.length && matched.length<target) await sleep(180);
   }
+  if(matched.length<target) matched=await recoverFlexible(candidates,matched,target);
   return {items:matched.slice(0,target),checked,candidateCount:candidates.length,failedBatches};
 }
 
@@ -112,10 +206,11 @@ function mergeRankingCandidates(snapshots) {
       if(!item?.title || isAdult(item)) continue;
       const titleKey=normalize(item.title);
       if(!titleKey) continue;
+      let key=titleKey;
+      const existing=merged.get(key);
       const rank=Math.max(1,Number(item.rank||30));
-      const existing=merged.get(titleKey);
       if(!existing) {
-        merged.set(titleKey,{
+        merged.set(key,{
           title:item.title,
           author:item.author||'',
           score:Math.max(5,110-rank*4),
@@ -194,7 +289,7 @@ async function buildPopular(period) {
     const candidates=mergeRankingCandidates(snapshots).slice(0,POPULAR_MAX_CANDIDATES);
     if(!candidates.length) throw new Error(`POPULAR_${period}_NO_CANDIDATES`);
     const resolved=await resolveCandidates(candidates,{target:POPULAR_TARGET,maxCandidates:POPULAR_MAX_CANDIDATES});
-    if(resolved.items.length<4) throw new Error(`POPULAR_${period}_TOO_FEW_${resolved.items.length}`);
+    if(resolved.items.length<1) throw new Error(`POPULAR_${period}_EMPTY`);
 
     const items=resolved.items.map((book,index)=>({
       ...book,

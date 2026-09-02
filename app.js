@@ -5,6 +5,9 @@ const $=(s,r=document)=>r.querySelector(s), $$=(s,r=document)=>[...r.querySelect
 const load=(k,f)=>{try{return JSON.parse(localStorage.getItem(k)||JSON.stringify(f))}catch{return f}};
 const save=(k,v)=>localStorage.setItem(k,JSON.stringify(v));
 const normalize=(v='')=>String(v).normalize('NFKC').toLowerCase().replace(/[\s　・･:：!?！？()（）【】\[\]「」『』〈〉《》#＃―ー\-]/g,'');
+const FEED_CACHE_TTL=6*60*60*1000;
+const FEED_REFRESH_AFTER=30*60*1000;
+const RANKING_CACHE_TTL=6*60*60*1000;
 
 const HONTAI_2024 = [
   ['水車小屋のネネ','津村記久子','2位',2],
@@ -31,6 +34,18 @@ const state={
 };
 let requestToken=0, watchRequestToken=0, searchTimer=null;
 const chipScroll=load('kobo-chip-scroll-v1',{});
+const feedCache=load('kobo-feed-cache-v2',{});
+const rankingCache=load('kobo-ranking-cache-v2',{});
+
+function readCache(store,key,ttl){
+  const entry=store?.[key];if(!entry||!entry.ts)return null;
+  const age=Date.now()-Number(entry.ts);if(age<0||age>ttl)return null;
+  return {...entry,age};
+}
+function writeCache(store,storageKey,key,value){store[key]={ts:Date.now(),...value};save(storageKey,store)}
+function popularCacheKey(){return `popular:${state.period}:${state.source}:${state.genre||'all'}`}
+function newCacheKey(){return `new:${state.genre||'all'}`}
+function saleCacheKey(){return `sale:${state.genre||'all'}`}
 
 async function api(params){
   let response;
@@ -103,8 +118,8 @@ function rankingSeeds(){
 async function resolveMetadata(entries){
   if(!entries.length)return {items:[],requested:0,matched:0};
   const out=[];let requested=0,matched=0;
-  for(let i=0;i<entries.length;i+=10){
-    const chunk=entries.slice(i,i+10);
+  for(let i=0;i<entries.length;i+=12){
+    const chunk=entries.slice(i,i+12);
     const data=await api({action:'resolve',items:JSON.stringify(chunk)});
     out.push(...(data.items||[]));requested+=Number(data.requested||chunk.length);matched+=Number(data.matched||0);
   }
@@ -113,29 +128,64 @@ async function resolveMetadata(entries){
 
 async function ensureRankingData(force=false){
   if(!force&&state.rankingPeriod===state.period&&Object.keys(state.rankingData||{}).length)return;
+  const cached=readCache(rankingCache,state.period,RANKING_CACHE_TTL);
+  if(!force&&cached?.snapshots&&Object.keys(cached.snapshots).length){
+    state.rankingData=cached.snapshots;state.rankingPeriod=state.period;state.rankingUnavailable=cached.unavailable||[];
+    const ids=['combined',...Object.keys(state.rankingData)];if(!ids.includes(state.source))state.source='combined';
+    return;
+  }
   const data=await api({action:'rankings',period:state.period});
   state.rankingData=data.snapshots||{};state.rankingPeriod=state.period;state.rankingUnavailable=data.unavailable||[];
+  writeCache(rankingCache,'kobo-ranking-cache-v2',state.period,{snapshots:state.rankingData,unavailable:state.rankingUnavailable});
   const ids=['combined',...Object.keys(state.rankingData)];if(!ids.includes(state.source))state.source='combined';
 }
 
+async function prepareRankedBooks(items){
+  let books=dedupe((items||[]).map(book=>({...book,ranking:book.matchMeta})));
+  books=await filterByActiveGenre(books);
+  return books;
+}
+
 async function loadPopular({refreshRankings=false}={}){
-  const token=++requestToken;state.loading=true;state.error='';state.books=[];state.popularMeta=null;render();
+  const token=++requestToken,key=popularCacheKey(),cached=readCache(feedCache,key,FEED_CACHE_TTL);
+  state.error='';state.popularMeta=null;
+  if(cached?.books?.length){
+    state.books=cached.books;state.popularMeta=cached.meta||null;state.loading=false;render();recordPrices(state.books);
+    if(!refreshRankings&&cached.age<FEED_REFRESH_AFTER)return;
+  }else{
+    state.loading=true;state.books=[];render();
+  }
   try{
     await ensureRankingData(refreshRankings);
-    const seeds=rankingSeeds().slice(0,30);
-    const resolvedData=await resolveMetadata(seeds);
-    let external=dedupe(resolvedData.items.map(book=>({...book,ranking:book.matchMeta})));
-    external=await filterByActiveGenre(external);
-    external=external.map((book,index)=>({...book,ranking:{...(book.ranking||{}),rank:index+1}}));
-    if(token===requestToken){state.books=external;state.popularMeta={candidates:seeds.length,matched:external.length,rawMatched:resolvedData.items.length};recordPrices(external)}
-  }catch(error){if(token===requestToken)state.error=error.message}
-  finally{if(token===requestToken){state.loading=false;render()}}
+    const seeds=rankingSeeds().slice(0,20),firstSeeds=seeds.slice(0,8),restSeeds=seeds.slice(8);
+    const firstData=await resolveMetadata(firstSeeds);
+    let firstBooks=await prepareRankedBooks(firstData.items);
+    firstBooks=firstBooks.map((book,index)=>({...book,ranking:{...(book.ranking||{}),rank:index+1}}));
+    if(token!==requestToken)return;
+    state.books=firstBooks;state.loading=false;state.popularMeta={candidates:seeds.length,matched:firstBooks.length,rawMatched:firstData.items.length};
+    recordPrices(firstBooks);writeCache(feedCache,'kobo-feed-cache-v2',key,{books:firstBooks,meta:state.popularMeta});render();
+
+    if(!restSeeds.length)return;
+    const restData=await resolveMetadata(restSeeds);
+    let restBooks=await prepareRankedBooks(restData.items);
+    if(token!==requestToken)return;
+    const combined=dedupe([...firstBooks,...restBooks]).map((book,index)=>({...book,ranking:{...(book.ranking||{}),rank:index+1}}));
+    state.books=combined;state.popularMeta={candidates:seeds.length,matched:combined.length,rawMatched:firstData.items.length+restData.items.length};
+    recordPrices(combined);writeCache(feedCache,'kobo-feed-cache-v2',key,{books:combined,meta:state.popularMeta});render();
+  }catch(error){
+    if(token===requestToken&&!state.books.length)state.error=error.message;
+  }finally{
+    if(token===requestToken){state.loading=false;render()}
+  }
 }
 
 async function loadNew(){
-  const token=++requestToken;state.loading=true;state.error='';state.books=[];render();
-  try{const data=await api({action:'search',...genreParams(),sort:'-releaseDate',hits:'30'});if(token===requestToken){state.books=data.items||[];state.genreResolved=data.resolvedGenre||null;recordPrices(state.books)}}
-  catch(error){if(token===requestToken)state.error=error.message}
+  const token=++requestToken,key=newCacheKey(),cached=readCache(feedCache,key,3*60*60*1000);
+  state.error='';
+  if(cached?.books?.length){state.books=cached.books;state.loading=false;render();recordPrices(state.books);if(cached.age<FEED_REFRESH_AFTER)return}
+  else{state.loading=true;state.books=[];render()}
+  try{const data=await api({action:'search',...genreParams(),sort:'-releaseDate',hits:'30'});if(token===requestToken){state.books=data.items||[];state.genreResolved=data.resolvedGenre||null;recordPrices(state.books);writeCache(feedCache,'kobo-feed-cache-v2',key,{books:state.books})}}
+  catch(error){if(token===requestToken&&!state.books.length)state.error=error.message}
   finally{if(token===requestToken){state.loading=false;render()}}
 }
 
@@ -148,11 +198,14 @@ function sortSaleBooks(list){
 }
 
 async function loadSale(){
-  const token=++requestToken;state.loading=true;state.error='';state.books=[];state.saleBooks=[];state.saleMeta=null;render();
+  const token=++requestToken,key=saleCacheKey(),cached=readCache(feedCache,key,6*60*60*1000);
+  state.error='';state.saleMeta=null;
+  if(cached?.books?.length){state.saleBooks=cached.books;state.books=sortSaleBooks(state.saleBooks);state.saleMeta=cached.meta||null;state.loading=false;render();recordPrices(state.saleBooks);if(cached.age<60*60*1000)return}
+  else{state.loading=true;state.books=[];state.saleBooks=[];render()}
   try{
     const data=await api({action:'sales',...genreParams(),page:'1'});
-    if(token===requestToken){state.saleBooks=data.items||[];state.books=sortSaleBooks(state.saleBooks);state.saleMeta={fetchedAt:data.fetchedAt,sourceUrl:data.sourceUrl,parsed:data.parsed,matched:data.matched};state.genreResolved=data.resolvedGenre||null;recordPrices(state.saleBooks)}
-  }catch(error){if(token===requestToken)state.error=error.message}
+    if(token===requestToken){state.saleBooks=data.items||[];state.books=sortSaleBooks(state.saleBooks);state.saleMeta={fetchedAt:data.fetchedAt,sourceUrl:data.sourceUrl,parsed:data.parsed,matched:data.matched};state.genreResolved=data.resolvedGenre||null;recordPrices(state.saleBooks);writeCache(feedCache,'kobo-feed-cache-v2',key,{books:state.saleBooks,meta:state.saleMeta})}
+  }catch(error){if(token===requestToken&&!state.books.length)state.error=error.message}
   finally{if(token===requestToken){state.loading=false;render()}}
 }
 
@@ -231,4 +284,4 @@ async function runSearch(){
 }
 
 if('serviceWorker'in navigator)navigator.serviceWorker.register('/sw.js').catch(()=>{});
-ensureAwardYear();render();loadPopular({refreshRankings:true});
+ensureAwardYear();render();loadPopular();

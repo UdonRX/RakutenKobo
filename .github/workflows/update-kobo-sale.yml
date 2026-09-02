@@ -1,0 +1,57 @@
+name: Update Kobo sale snapshot
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '37 20 * * *'
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/scrape-kobo-sale.mjs'
+      - '.github/workflows/update-kobo-sale.yml'
+      - 'public/sale-snapshot-client.js'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: kobo-sale-snapshot
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out app code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install dependencies
+        run: npm install --ignore-scripts
+
+      - name: Scrape Kobo sale list
+        run: node scripts/scrape-kobo-sale.mjs /tmp/kobo-sale.json
+
+      - name: Publish snapshot to ranking-data branch
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin ranking-data
+          git switch -C ranking-data origin/ranking-data
+          mkdir -p data
+          cp /tmp/kobo-sale.json data/kobo-sale.json
+          git add data/kobo-sale.json
+          if git diff --cached --quiet; then
+            echo "Kobo sale snapshot is unchanged."
+            exit 0
+          fi
+          git commit -m "data: update Kobo sale snapshot"
+          git push origin HEAD:ranking-data

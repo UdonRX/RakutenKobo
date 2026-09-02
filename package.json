@@ -1,9 +1,12 @@
 {
   "name": "rakuten-kobo-finder",
   "private": true,
-  "version": "0.2.1",
+  "version": "0.3.0",
   "type": "module",
   "scripts": {
     "build": "node scripts/build.mjs"
+  },
+  "dependencies": {
+    "cheerio": "1.0.0"
   }
 }

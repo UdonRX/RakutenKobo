@@ -1,0 +1,10 @@
+{
+  "id": "amazon",
+  "label": "Amazon",
+  "attribution": "Amazon.co.jp",
+  "sourceUrl": "https://www.amazon.co.jp/gp/bestsellers/books",
+  "periodLabel": "現在のベストセラー",
+  "updatedAt": null,
+  "live": false,
+  "items": []
+}

@@ -48,7 +48,7 @@ function parse(html) {
       saleEndAt: saleEndAtFromText(text), saleCampaign: campaign?.[1] || '', sourceGenre: genre?.[1]?.trim() || ''
     });
   });
-  return [...found.values()].slice(0, 30);
+  return [...found.values()].slice(0, 100);
 }
 
 const controller = new AbortController();
@@ -67,5 +67,5 @@ try {
   const payload = { sourceUrl: SOURCE_URL, updatedAt: new Date().toISOString(), items };
   await mkdir(dirname(outputPath), { recursive: true });
   await writeFile(outputPath, `${JSON.stringify(payload, null, 2)}\n`, 'utf8');
-  console.log(`Saved ${items.length} sale items to ${outputPath}`);
+  console.log(`Saved ${items.length} sale candidates to ${outputPath}`);
 } finally { clearTimeout(timer); }

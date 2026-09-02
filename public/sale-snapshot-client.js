@@ -1,82 +1,113 @@
 (() => {
-  const originalFetch = window.fetch.bind(window);
-  const SNAPSHOT_URL = 'https://raw.githubusercontent.com/UdonRX/RakutenKobo/ranking-data/data/kobo-sale.json';
-  const CACHE_PREFIX = 'kobo-sale-snapshot-response-v3:';
-  const CACHE_TTL = 6 * 60 * 60 * 1000;
-  const REFRESH_AFTER = 60 * 60 * 1000;
-  const MAX_CANDIDATES = 30;
+  const previousFetch = window.fetch.bind(window);
+  const DATA_URL = 'https://raw.githubusercontent.com/UdonRX/RakutenKobo/ranking-data/data/kobo-sale.json';
+  const CACHE_KEY = 'kobo-completed-sale-v1';
+  const CACHE_TTL = 12 * 60 * 60 * 1000;
+  let activeFeed=null;
 
-  function requestUrl(input) {
+  function urlOf(input) {
     try { return new URL(typeof input === 'string' ? input : input?.url, location.origin); }
     catch { return null; }
   }
-  function isSaleRequest(input) {
-    const url = requestUrl(input);
-    return url?.pathname === '/api/kobo' && url.searchParams.get('action') === 'sales';
+  function isSale(input) {
+    const url=urlOf(input);
+    return url?.pathname==='/api/kobo' && url.searchParams.get('action')==='sales';
   }
-  function cacheKey(input) {
-    const url = requestUrl(input);
-    return `${CACHE_PREFIX}${url?.searchParams.get('genreKey') || 'all'}`;
+  function isResolve(input,init) {
+    const url=urlOf(input);
+    return url?.pathname==='/api/kobo' && url.searchParams.get('action')==='resolve' && String(init?.method||'GET').toUpperCase()==='POST';
   }
-  function readCache(input) {
+  function normalize(value='') {
+    return String(value).normalize('NFKC').toLowerCase().replace(/[〜～]/g,'〜').replace(/[\s　・･:：!?！？()（）【】[\]「」『』〈〉《》#＃―ー\-]/g,'');
+  }
+  function response(data,status=200) {
+    return new Response(JSON.stringify(data),{status,headers:{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store'}});
+  }
+  function readCache() {
     try {
-      const value = JSON.parse(localStorage.getItem(cacheKey(input)) || 'null');
-      if (!value?.ts || !value?.data) return null;
-      const age = Date.now() - Number(value.ts);
-      if (age < 0 || age > CACHE_TTL) return null;
-      return { ...value, age };
+      const value=JSON.parse(localStorage.getItem(CACHE_KEY)||'null');
+      if(!value?.ts||!value?.data)return null;
+      if(Date.now()-Number(value.ts)>CACHE_TTL)return null;
+      return value.data;
     } catch { return null; }
   }
-  function writeCache(input, data) {
-    try { localStorage.setItem(cacheKey(input), JSON.stringify({ ts: Date.now(), data })); } catch {}
+  function writeCache(data) {
+    try { localStorage.setItem(CACHE_KEY,JSON.stringify({ts:Date.now(),data})); } catch {}
   }
-  function jsonResponse(data, status = 200) {
-    return new Response(JSON.stringify(data), { status, headers: { 'Content-Type': 'application/json; charset=utf-8', 'Cache-Control': 'no-store' } });
+  async function readFeed() {
+    const cached=readCache();
+    try {
+      const r=await previousFetch(`${DATA_URL}?t=${Math.floor(Date.now()/900000)}`,{cache:'no-store',mode:'cors'});
+      if(!r.ok)throw new Error(`SALE_${r.status}`);
+      const data=await r.json();
+      if(!data?.completed||!Array.isArray(data.items)||!data.items.length)throw new Error('SALE_INCOMPLETE');
+      activeFeed=data;writeCache(data);return data;
+    } catch(error) {
+      if(cached){activeFeed=cached;return cached}
+      throw error;
+    }
   }
-  async function readSnapshot() {
-    const response = await originalFetch(`${SNAPSHOT_URL}?t=${Math.floor(Date.now() / 1800000)}`, { cache: 'no-store', mode: 'cors' });
-    if (!response.ok) throw new Error(`SALE_SNAPSHOT_${response.status}`);
-    const data = await response.json();
-    if (!Array.isArray(data?.items) || data.items.length < 1) throw new Error('SALE_SNAPSHOT_EMPTY');
-    return data;
-  }
-  function snapshotData(snapshot) {
-    const candidates = snapshot.items
-      .filter(item => item?.title && Number(item?.regularPrice) > Number(item?.salePrice) && Number(item?.salePrice) > 0)
-      .slice(0, MAX_CANDIDATES);
+  function candidateFor(book) {
+    const meta=book.matchMeta||{};
     return {
-      items: [],
-      candidates,
-      page: 1,
-      sourceUrl: snapshot.sourceUrl || 'https://books.rakuten.co.jp/',
-      fetchedAt: snapshot.updatedAt || new Date().toISOString(),
-      parsed: candidates.length,
-      matched: 0,
-      resolvedGenre: null,
-      snapshot: true
+      title:meta.originalTitle||meta.title||book.title,
+      author:meta.author||book.author||'',
+      itemNumber:meta.itemNumber||book.isbn||'',
+      regularPrice:Number(book.regularPrice||meta.regularPrice||0),
+      salePrice:Number(book.salePrice||meta.salePrice||book.price||0),
+      discountPercent:Number(book.discountPercent||meta.discountPercent||0),
+      saleEndAt:book.saleEndAt||meta.saleEndAt||'',
+      saleCampaign:book.saleCampaign||meta.saleCampaign||'',
+      sourceGenre:book.sourceGenre||meta.sourceGenre||''
     };
   }
-  async function refresh(sourceRequest) {
-    const snapshot = await readSnapshot();
-    const data = snapshotData(snapshot);
-    if (data.candidates.length) writeCache(sourceRequest, data);
-    return jsonResponse(data);
+  function findBook(candidate) {
+    if(!activeFeed)return null;
+    const titles=[candidate?.originalTitle,candidate?.title].filter(Boolean).map(normalize);
+    const author=normalize(candidate?.author||'');
+    for(const book of activeFeed.items||[]) {
+      const meta=book.matchMeta||{};
+      const bookTitles=[meta.originalTitle,meta.title,book.title].filter(Boolean).map(normalize);
+      const bookAuthor=normalize(meta.author||book.author||'');
+      if(titles.some(t=>bookTitles.includes(t)) && (!author||!bookAuthor||author===bookAuthor)) return book;
+    }
+    return null;
   }
 
-  window.fetch = async (input, init) => {
-    if (!isSaleRequest(input)) return originalFetch(input, init);
-    const cached = readCache(input);
-    if (cached) {
-      if (cached.age > REFRESH_AFTER) refresh(input).catch(() => {});
-      return jsonResponse(cached.data);
+  window.fetch = async (input,init) => {
+    if(isSale(input)) {
+      try {
+        const feed=await readFeed();
+        return response({
+          completed:true,
+          candidates:(feed.items||[]).map(candidateFor),
+          items:[],
+          page:1,
+          sourceUrl:feed.sourceUrl||'https://books.rakuten.co.jp/',
+          fetchedAt:feed.updatedAt,
+          parsed:Number(feed.candidateCount||feed.items.length),
+          matched:Number(feed.matched||feed.items.length)
+        });
+      } catch {
+        return response({error:'セール完成データを取得できませんでした。',detail:'SALE_COMPLETED_FEED_UNAVAILABLE'},503);
+      }
     }
-    try {
-      return await refresh(input);
-    } catch {
-      const stale = readCache(input);
-      if (stale) return jsonResponse(stale.data);
-      try { return await originalFetch(input, init); }
-      catch { return jsonResponse({ error: 'セール情報を取得できませんでした。少し時間をおいて再読み込みしてください。', detail: 'SALE_SNAPSHOT_UNAVAILABLE' }, 503); }
+
+    if(isResolve(input,init)) {
+      let body={};
+      try { body=typeof init.body==='string'?JSON.parse(init.body):{}; } catch {}
+      const items=Array.isArray(body.items)?body.items:[];
+      const isSaleResolve=items.length>0 && items.some(item=>Number(item?.regularPrice)>0 && Number(item?.salePrice)>0);
+      if(isSaleResolve) {
+        const resolved=[];
+        for(const candidate of items) {
+          const book=findBook(candidate);
+          if(book) resolved.push({...book,matchMeta:candidate});
+        }
+        return response({items:resolved,requested:items.length,matched:resolved.length,completed:true});
+      }
     }
+
+    return previousFetch(input,init);
   };
 })();

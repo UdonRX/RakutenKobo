@@ -1,27 +1,29 @@
-name: Update Kobo sale snapshot
+name: Update completed Kobo feeds
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '37 20 * * *'
+    - cron: '47 */6 * * *'
   push:
     branches: [main]
     paths:
       - 'scripts/scrape-kobo-sale.mjs'
+      - 'scripts/build-completed-feeds.mjs'
       - '.github/workflows/update-kobo-sale.yml'
+      - 'public/amazon-ranking-client.js'
       - 'public/sale-snapshot-client.js'
 
 permissions:
   contents: write
 
 concurrency:
-  group: kobo-sale-snapshot
+  group: completed-kobo-feeds
   cancel-in-progress: false
 
 jobs:
-  scrape:
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 25
     steps:
       - name: Check out app code
         uses: actions/checkout@v4
@@ -36,10 +38,15 @@ jobs:
       - name: Install dependencies
         run: npm install --ignore-scripts
 
-      - name: Scrape Kobo sale list
-        run: node scripts/scrape-kobo-sale.mjs /tmp/kobo-sale.json
+      - name: Collect sale candidates
+        run: node scripts/scrape-kobo-sale.mjs /tmp/kobo-sale-candidates.json
 
-      - name: Publish snapshot to ranking-data branch
+      - name: Build completed Kobo feeds
+        env:
+          KOBO_API_BASE: https://rakuten-kobo.vercel.app
+        run: node scripts/build-completed-feeds.mjs /tmp/kobo-sale-candidates.json /tmp/completed-feeds
+
+      - name: Publish completed feeds to ranking-data branch
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
@@ -47,11 +54,14 @@ jobs:
           git fetch origin ranking-data
           git switch -C ranking-data origin/ranking-data
           mkdir -p data
-          cp /tmp/kobo-sale.json data/kobo-sale.json
-          git add data/kobo-sale.json
+          cp /tmp/completed-feeds/kobo-sale.json data/kobo-sale.json
+          cp /tmp/completed-feeds/popular-week.json data/popular-week.json
+          cp /tmp/completed-feeds/popular-month.json data/popular-month.json
+          cp /tmp/completed-feeds/popular-year.json data/popular-year.json
+          git add data/kobo-sale.json data/popular-week.json data/popular-month.json data/popular-year.json
           if git diff --cached --quiet; then
-            echo "Kobo sale snapshot is unchanged."
+            echo "Completed Kobo feeds are unchanged."
             exit 0
           fi
-          git commit -m "data: update Kobo sale snapshot"
+          git commit -m "data: update completed Kobo feeds"
           git push origin HEAD:ranking-data

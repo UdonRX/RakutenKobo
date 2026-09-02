@@ -1,113 +1,130 @@
 (() => {
-  const originalFetch = window.fetch.bind(window);
-  const SNAPSHOT_URL = 'https://raw.githubusercontent.com/UdonRX/RakutenKobo/ranking-data/data/amazon-ranking.json';
-  const CACHE_PREFIX = 'kobo-ranking-response-v2:';
-  const CACHE_TTL = 6 * 60 * 60 * 1000;
-  const REFRESH_AFTER = 30 * 60 * 1000;
+  const nativeFetch = window.fetch.bind(window);
+  const DATA_BASE = 'https://raw.githubusercontent.com/UdonRX/RakutenKobo/ranking-data/data';
+  const CACHE_PREFIX = 'kobo-completed-popular-v1:';
+  const CACHE_TTL = 12 * 60 * 60 * 1000;
+  const activeFeeds = new Map();
 
-  const FALLBACK = {
-    week: {
-      maruzen: {
-        id: 'maruzen', label: '丸善ジュンク堂', attribution: '丸善ジュンク堂書店調べ',
-        sourceUrl: 'https://www.maruzenjunkudo.co.jp/', periodLabel: '直近7日間', updatedAt: '2026-08-27', live: false,
-        items: [
-          ['永遠の記憶','東野圭吾'],['あなたが誰かを殺した','東野圭吾'],['プレゼント','伊坂幸太郎'],['80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間','林真理子'],['シャーロック・ホームズの凱旋','森見登美彦'],['白鳥とコウモリ（上）','東野圭吾'],['容疑者Xの献身','東野圭吾'],['白鳥とコウモリ（下）','東野圭吾'],['ブラッディダイスの殺人 上','M・W・クレイヴン'],['ブラッディダイスの殺人 下','M・W・クレイヴン']
-        ].map(([title,author],index)=>({title,author,rank:index+1}))
-      },
-      tohan: {
-        id: 'tohan', label: 'トーハン', attribution: 'トーハン調べ',
-        sourceUrl: 'https://www.tohan.jp/bestsellers/', periodLabel: '週間', updatedAt: '2026-08-04', live: false,
-        items: [
-          ['つかめ!理科ダマン 12 最強ロボット決戦!編','シン・テフン'],['夏帆─The Tale of KAHO─','村上春樹'],['80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間','林真理子'],['楽園','夕木春央'],['地球の歩き方 スター・ウォーズ','地球の歩き方編集室'],['ポケモンずかんドリル 小学1年生 夏休みドリル','矢部一夫'],['くもんの夏休みドリル 小学1年生',''],['2026／27 J1&J2&J3選手名鑑','サッカーダイジェスト'],['おとなの学びシリーズ NHK3か月でマスターする ギター','ドクターキャピタル'],['けんぐゎい','朝倉かすみ']
-        ].map(([title,author],index)=>({title,author,rank:index+1}))
-      }
-    },
-    month: {
-      tohan: {
-        id: 'tohan', label: 'トーハン', attribution: 'トーハン調べ', sourceUrl: 'https://www.tohan.jp/bestsellers/', periodLabel: '2026年6月期', updatedAt: '2026-06', live: false,
-        items: [
-          ['GOAT Summer 2026',''],['ファイア・ドーム 上','辻村深月'],['ファイア・ドーム 下','辻村深月'],['80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間','林真理子'],['多類婚姻譚','凪良ゆう'],['100日後に英語がものになる 1日10分 ネイティブ英語書き写し','ブレット・リンゼイ'],['イン・ザ・メガチャーチ','朝井リョウ'],['青天','若林正恭'],['悩みの本──あなたが本気で生きている証','高橋佳子'],['NHK大河ドラマ・ガイド 豊臣兄弟! 後編','']
-        ].map(([title,author],index)=>({title,author,rank:index+1}))
-      }
-    },
-    year: {
-      tohan: {
-        id: 'tohan', label: 'トーハン', attribution: 'トーハン調べ', sourceUrl: 'https://www.tohan.jp/bestsellers/2026_firsthalf_total/', periodLabel: '2026年上半期', updatedAt: '2026-06-01', live: false,
-        items: [
-          ['科学的に証明された すごい習慣大百科','堀田秀吾'],['変な地図','雨穴'],['イン・ザ・メガチャーチ','朝井リョウ'],['成瀬は都を駆け抜ける','宮島未奈'],['TOEIC L&R TEST 出る単特急 金のフレーズ 増補改訂版','TEX加藤'],['WORLD SEIKYO vol.7',''],['暁星','湊かなえ'],['大河の一滴 最終章','五木寛之'],['不滅なるものへの挑戦 霊性の時代を拓くために','大川隆法'],['棺桶まで歩こう','萬田緑平']
-        ].map(([title,author],index)=>({title,author,rank:index+1}))
-      }
-    }
-  };
+  try {
+    // Dynamic ranking/feed caches can bypass the completed JSON loader on a new page load.
+    // Clear them every session; completed JSON has its own local cache below.
+    localStorage.removeItem('kobo-feed-cache-v3');
+    localStorage.removeItem('kobo-ranking-cache-v2');
+    localStorage.removeItem('kobo-sale-snapshot-response-v3:all');
+    localStorage.setItem('kobo-completed-feed-migration-v1', '1');
+  } catch {}
 
-  function requestUrl(input) {
+  function urlOf(input) {
     try { return new URL(typeof input === 'string' ? input : input?.url, location.origin); }
     catch { return null; }
   }
   function rankingPeriod(input) {
-    const url = requestUrl(input);
-    if (url?.pathname !== '/api/kobo' || url.searchParams.get('action') !== 'rankings') return null;
+    const url=urlOf(input);
+    if(url?.pathname!=='/api/kobo' || url.searchParams.get('action')!=='rankings') return null;
     return url.searchParams.get('period') || 'week';
   }
+  function isResolve(input,init) {
+    const url=urlOf(input);
+    return url?.pathname==='/api/kobo' && url.searchParams.get('action')==='resolve' && String(init?.method||'GET').toUpperCase()==='POST';
+  }
+  function normalize(value='') {
+    return String(value).normalize('NFKC').toLowerCase().replace(/[〜～]/g,'〜').replace(/[\s　・･:：!?！？()（）【】[\]「」『』〈〉《》#＃―ー\-]/g,'');
+  }
+  function lookupKeys(item) {
+    const titles=[item?.originalTitle,item?.title].filter(Boolean).map(normalize).filter(Boolean);
+    const author=normalize(item?.author||'');
+    return [...new Set(titles.flatMap(t=>[`${t}|${author}`,t]))];
+  }
+  function feedMaps(feed) {
+    const exact=new Map(), titleOnly=new Map();
+    for(const book of feed?.items||[]) {
+      const meta=book.matchMeta||book.ranking||{};
+      const author=normalize(meta.author||book.author||'');
+      for(const raw of [meta.originalTitle,meta.title,book.title]) {
+        const title=normalize(raw||''); if(!title) continue;
+        exact.set(`${title}|${author}`,book);
+        if(!titleOnly.has(title)) titleOnly.set(title,book);
+      }
+    }
+    return {exact,titleOnly};
+  }
+  function findBook(feed,candidate) {
+    const maps=feedMaps(feed);
+    const keys=lookupKeys(candidate);
+    for(const key of keys) {
+      const hit=key.includes('|')?maps.exact.get(key):maps.titleOnly.get(key);
+      if(hit) return hit;
+    }
+    return null;
+  }
+  function response(data,status=200) {
+    return new Response(JSON.stringify(data),{status,headers:{'Content-Type':'application/json; charset=utf-8','Cache-Control':'no-store'}});
+  }
+  function cacheKey(period){return `${CACHE_PREFIX}${period}`}
   function readCache(period) {
     try {
-      const value = JSON.parse(localStorage.getItem(`${CACHE_PREFIX}${period}`) || 'null');
-      if (!value?.ts || !value?.data) return null;
-      const age = Date.now() - Number(value.ts);
-      if (age < 0 || age > CACHE_TTL) return null;
-      return { ...value, age };
+      const value=JSON.parse(localStorage.getItem(cacheKey(period))||'null');
+      if(!value?.ts||!value?.data)return null;
+      if(Date.now()-Number(value.ts)>CACHE_TTL)return null;
+      return value.data;
     } catch { return null; }
   }
-  function writeCache(period, data) {
-    try { localStorage.setItem(`${CACHE_PREFIX}${period}`, JSON.stringify({ ts: Date.now(), data })); } catch {}
+  function writeCache(period,data) {
+    try { localStorage.setItem(cacheKey(period),JSON.stringify({ts:Date.now(),data})); } catch {}
   }
-  function jsonResponse(data) {
-    return new Response(JSON.stringify(data), { status: 200, headers: { 'Content-Type': 'application/json; charset=utf-8', 'Cache-Control': 'no-store' } });
-  }
-  function fallbackResponse(period) {
-    const snapshots = FALLBACK[period] || {};
-    return { period, snapshots, unavailable: [], fetchedAt: new Date().toISOString(), bootstrap: true };
-  }
-  async function readAmazonSnapshot() {
+  async function readFeed(period) {
+    const cached=readCache(period);
     try {
-      const response = await originalFetch(`${SNAPSHOT_URL}?t=${Math.floor(Date.now() / 1800000)}`, { cache: 'no-store', mode: 'cors' });
-      if (!response.ok) return null;
-      const data = await response.json();
-      return Array.isArray(data?.items) && data.items.length ? data : null;
-    } catch { return null; }
-  }
-  async function fetchFresh(input, init, period) {
-    const [baseResponse, amazon] = await Promise.all([
-      originalFetch(input, init),
-      period === 'week' ? readAmazonSnapshot() : Promise.resolve(null)
-    ]);
-    if (!baseResponse.ok) return baseResponse;
-    const data = await baseResponse.clone().json().catch(() => null);
-    if (!data) return baseResponse;
-    if (amazon) {
-      data.snapshots = { ...(data.snapshots || {}), amazon };
-      data.unavailable = (data.unavailable || []).filter(id => id !== 'amazon');
+      const r=await nativeFetch(`${DATA_BASE}/popular-${period}.json?t=${Math.floor(Date.now()/900000)}`,{cache:'no-store',mode:'cors'});
+      if(!r.ok)throw new Error(`POPULAR_${r.status}`);
+      const data=await r.json();
+      if(!data?.completed||!Array.isArray(data.items)||!data.items.length)throw new Error('POPULAR_INCOMPLETE');
+      writeCache(period,data); activeFeeds.set(period,data); return data;
+    } catch(error) {
+      if(cached){activeFeeds.set(period,cached);return cached}
+      throw error;
     }
-    writeCache(period, data);
-    return jsonResponse(data);
   }
 
   window.fetch = async (input, init) => {
-    const period = rankingPeriod(input);
-    if (!period) return originalFetch(input, init);
-
-    const cached = readCache(period);
-    if (cached) {
-      if (cached.age > REFRESH_AFTER) fetchFresh(input, init, period).catch(() => {});
-      return jsonResponse(cached.data);
+    const period=rankingPeriod(input);
+    if(period) {
+      try {
+        const feed=await readFeed(period);
+        return response({
+          period,
+          completed:true,
+          snapshots:feed.snapshots||{},
+          unavailable:feed.unavailable||[],
+          fetchedAt:feed.updatedAt,
+          completedMatched:feed.matched||feed.items.length
+        });
+      } catch {
+        return response({error:'人気ランキングの準備データを取得できませんでした。',detail:'POPULAR_COMPLETED_FEED_UNAVAILABLE'},503);
+      }
     }
 
-    const fallback = fallbackResponse(period);
-    if (Object.keys(fallback.snapshots).length) {
-      fetchFresh(input, init, period).catch(() => {});
-      return jsonResponse(fallback);
+    if(isResolve(input,init)) {
+      let body={};
+      try { body=typeof init.body==='string'?JSON.parse(init.body):{}; } catch {}
+      const items=Array.isArray(body.items)?body.items:[];
+      const isPopular=items.length>0 && items.some(item=>Array.isArray(item?.sources)||item?.source==='combined'||item?.source);
+      if(isPopular) {
+        const feeds=[...activeFeeds.values()].reverse();
+        if(!feeds.length) return response({items:[],requested:items.length,matched:0,completed:true});
+        const resolved=[];
+        for(const candidate of items) {
+          let book=null;
+          for(const feed of feeds) {
+            book=findBook(feed,candidate);
+            if(book) break;
+          }
+          if(book) resolved.push({...book,matchMeta:candidate});
+        }
+        return response({items:resolved,requested:items.length,matched:resolved.length,completed:true});
+      }
     }
 
-    return fetchFresh(input, init, period);
+    return nativeFetch(input,init);
   };
 })();

@@ -4,7 +4,218 @@
   "attribution": "Amazon.co.jp",
   "sourceUrl": "https://www.amazon.co.jp/gp/bestsellers/books",
   "periodLabel": "現在のベストセラー",
-  "updatedAt": null,
+  "updatedAt": "2026-09-02T14:28:11.475Z",
   "live": false,
-  "items": []
+  "items": [
+    {
+      "rank": 1,
+      "title": "VOCE (2026年11月号)",
+      "author": "講談社",
+      "asin": "B0HGT2MC2Z",
+      "url": "https://www.amazon.co.jp/dp/B0HGT2MC2Z"
+    },
+    {
+      "rank": 2,
+      "title": "JUNON 2026年 11月号［雑誌］《臨増版》",
+      "author": "主婦と生活社",
+      "asin": "B0HFW7MYCW",
+      "url": "https://www.amazon.co.jp/dp/B0HFW7MYCW"
+    },
+    {
+      "rank": 3,
+      "title": "VOCE SPECIAL (2026年11月号)",
+      "author": "講談社",
+      "asin": "B0HGSTYY7W",
+      "url": "https://www.amazon.co.jp/dp/B0HGSTYY7W"
+    },
+    {
+      "rank": 4,
+      "title": "smart（スマート）2026年10号【表紙：吉田仁人（M!LK）】",
+      "author": "宝島社",
+      "asin": "B0H6X79VCL",
+      "url": "https://www.amazon.co.jp/dp/B0H6X79VCL"
+    },
+    {
+      "rank": 5,
+      "title": "anan(アンアン)2026/10/14号 No.2514増刊 スペシャルエディション[跡部景吾]",
+      "author": "anan編集部",
+      "asin": "B0HGFF336Z",
+      "url": "https://www.amazon.co.jp/dp/B0HGFF336Z"
+    },
+    {
+      "rank": 6,
+      "title": "ロッキング・オン・ジャパン 2026年 10 月号 [雑誌]",
+      "author": "",
+      "asin": "B0HBRHYFHV",
+      "url": "https://www.amazon.co.jp/dp/B0HBRHYFHV"
+    },
+    {
+      "rank": 7,
+      "title": "Casa BRUTUS(カーサ ブルータス) 2026年 10月号[ソウル・ライフスタイル・ガイド]",
+      "author": "CasaBRUTUS編集部",
+      "asin": "B0HFRNWK12",
+      "url": "https://www.amazon.co.jp/dp/B0HFRNWK12"
+    },
+    {
+      "rank": 8,
+      "title": "幽冥の岸 十二国記",
+      "author": "小野 不由美",
+      "asin": "4101240663",
+      "url": "https://www.amazon.co.jp/dp/4101240663"
+    },
+    {
+      "rank": 9,
+      "title": "秘密にしたい魅惑のスイーツレシピ",
+      "author": "小林啓吾",
+      "asin": "4651205941",
+      "url": "https://www.amazon.co.jp/dp/4651205941"
+    },
+    {
+      "rank": 10,
+      "title": "FINEBOYS+plus OYASUMI vol.2 [いい夢を、きみと、もっと。/吉田仁人] (HINODE MOOK 809)",
+      "author": "日之出出版",
+      "asin": "4838795211",
+      "url": "https://www.amazon.co.jp/dp/4838795211"
+    },
+    {
+      "rank": 11,
+      "title": "もっと叶う!未来先取り日記【完全版】: 朝3分のなぞり書きで、人生が望み通りに動きだす",
+      "author": "山田ヒロミ",
+      "asin": "4804764976",
+      "url": "https://www.amazon.co.jp/dp/4804764976"
+    },
+    {
+      "rank": 12,
+      "title": "永遠の記憶",
+      "author": "東野 圭吾",
+      "asin": "416392132X",
+      "url": "https://www.amazon.co.jp/dp/416392132X"
+    },
+    {
+      "rank": 13,
+      "title": "キングダム 80 (ヤングジャンプコミックス)",
+      "author": "原 泰久",
+      "asin": "4088942671",
+      "url": "https://www.amazon.co.jp/dp/4088942671"
+    },
+    {
+      "rank": 14,
+      "title": "smart（スマート）2026年11月・12月合併号【10月中旬重版分】",
+      "author": "宝島社",
+      "asin": "B0HBWQGBQ6",
+      "url": "https://www.amazon.co.jp/dp/B0HBWQGBQ6"
+    },
+    {
+      "rank": 15,
+      "title": "ADHDの母が伝えたい 生きづらい女の子が覚えておきたいこと",
+      "author": "なちゅ。",
+      "asin": "4478119023",
+      "url": "https://www.amazon.co.jp/dp/4478119023"
+    },
+    {
+      "rank": 16,
+      "title": "るるぶ■■版 蓋ヶ瀬 (諸書籍)",
+      "author": "柿",
+      "asin": "4533174175",
+      "url": "https://www.amazon.co.jp/dp/4533174175"
+    },
+    {
+      "rank": 17,
+      "title": "ダンダダン 25 (ジャンプコミックス)",
+      "author": "龍 幸伸",
+      "asin": "4088851889",
+      "url": "https://www.amazon.co.jp/dp/4088851889"
+    },
+    {
+      "rank": 18,
+      "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 (幻冬舎新書 803)",
+      "author": "林真理子",
+      "asin": "434498806X",
+      "url": "https://www.amazon.co.jp/dp/434498806X"
+    },
+    {
+      "rank": 19,
+      "title": "トスカーナのワイナリーに嫁いで学んだ マンマのイタリア料理レシピ",
+      "author": "池田 華依",
+      "asin": "4043300271",
+      "url": "https://www.amazon.co.jp/dp/4043300271"
+    },
+    {
+      "rank": 20,
+      "title": "週刊プレイボーイ (37号)",
+      "author": "",
+      "asin": "B0HFP5FY9V",
+      "url": "https://www.amazon.co.jp/dp/B0HFP5FY9V"
+    },
+    {
+      "rank": 21,
+      "title": "働きながら1億貯めるAI株式投資の全手順",
+      "author": "上岡正明",
+      "asin": "4776214806",
+      "url": "https://www.amazon.co.jp/dp/4776214806"
+    },
+    {
+      "rank": 22,
+      "title": "anan(アンアン)2026/10/14号 No.2514[Mrs. GREEN APPLE]",
+      "author": "anan編集部",
+      "asin": "B0HGFBPDW3",
+      "url": "https://www.amazon.co.jp/dp/B0HGFBPDW3"
+    },
+    {
+      "rank": 23,
+      "title": "ブラック・ラグーン (14) (サンデーGXコミックス)",
+      "author": "広江 礼威",
+      "asin": "4091582338",
+      "url": "https://www.amazon.co.jp/dp/4091582338"
+    },
+    {
+      "rank": 24,
+      "title": "女の園の星 ５ (FCswing)",
+      "author": "和山やま",
+      "asin": "4396751044",
+      "url": "https://www.amazon.co.jp/dp/4396751044"
+    },
+    {
+      "rank": 25,
+      "title": "勉強しなくてよかった 市場は未来を知っている",
+      "author": "朝倉慶",
+      "asin": "4828428488",
+      "url": "https://www.amazon.co.jp/dp/4828428488"
+    },
+    {
+      "rank": 26,
+      "title": "戦争犯罪と闘う 国際刑事裁判所は屈しない (文春新書 1496)",
+      "author": "赤根 智子",
+      "asin": "4166614967",
+      "url": "https://www.amazon.co.jp/dp/4166614967"
+    },
+    {
+      "rank": 27,
+      "title": "メイドインアビス (15) (バンブーコミックス)",
+      "author": "つくしあきひと",
+      "asin": "4801990312",
+      "url": "https://www.amazon.co.jp/dp/4801990312"
+    },
+    {
+      "rank": 28,
+      "title": "カグラバチ 12 (ジャンプコミックス)",
+      "author": "外薗 健",
+      "asin": "4088851773",
+      "url": "https://www.amazon.co.jp/dp/4088851773"
+    },
+    {
+      "rank": 29,
+      "title": "otona MUSE（オトナミューズ）2026年11月号",
+      "author": "宝島社",
+      "asin": "B0HBWT61W9",
+      "url": "https://www.amazon.co.jp/dp/B0HBWT61W9"
+    },
+    {
+      "rank": 30,
+      "title": "手紙屋 蛍雪篇 ～私の受験勉強を変えた十通の手紙～ ジュニア版",
+      "author": "喜多川泰",
+      "asin": "4799333232",
+      "url": "https://www.amazon.co.jp/dp/4799333232"
+    }
+  ]
 }

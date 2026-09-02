@@ -8,6 +8,9 @@ const normalize=(v='')=>String(v).normalize('NFKC').toLowerCase().replace(/[\s�
 const FEED_CACHE_TTL=6*60*60*1000;
 const FEED_REFRESH_AFTER=30*60*1000;
 const RANKING_CACHE_TTL=6*60*60*1000;
+const RESOLVE_BATCH_SIZE=4;
+const TARGET_BOOKS=12;
+const MAX_CANDIDATES=30;
 
 const HONTAI_2024 = [
   ['水車小屋のネネ','津村記久子','2位',2],
@@ -34,7 +37,7 @@ const state={
 };
 let requestToken=0, watchRequestToken=0, searchTimer=null;
 const chipScroll=load('kobo-chip-scroll-v1',{});
-const feedCache=load('kobo-feed-cache-v2',{});
+const feedCache=load('kobo-feed-cache-v3',{});
 const rankingCache=load('kobo-ranking-cache-v2',{});
 
 function readCache(store,key,ttl){
@@ -57,7 +60,15 @@ async function api(params){
   return data;
 }
 
-function dedupe(list){const seen=new Set();return list.filter(book=>{const key=`${normalize(book.series||book.title)}|${normalize(book.author)}`;if(seen.has(key))return false;seen.add(key);return true})}
+function dedupe(list){
+  const seen=new Set();
+  return list.filter(book=>{
+    const id=String(book?.id||book?.isbn||'').trim();
+    const key=id?`id:${id}`:`title:${normalize(book?.title)}|${normalize(book?.author)}`;
+    if(!key||seen.has(key))return false;
+    seen.add(key);return true;
+  });
+}
 function fav(id){return state.favorites.some(book=>book.id===id)}
 function watched(id){return state.watchList.some(book=>book.id===id)}
 function toggleFav(book){state.favorites=fav(book.id)?state.favorites.filter(item=>item.id!==book.id):[book,...state.favorites].slice(0,100);save('kobo-favorites-v1',state.favorites);render()}
@@ -93,13 +104,18 @@ function genreParams(){
   return {genreKey:genre.id,genreNames:genre.names.join('|'),parentNames:genre.parentNames.join('|'),fallbackQuery:genre.fallbackQuery,excludeLightNovel:genre.excludeLightNovel?'1':'0'};
 }
 function matchesGenreId(book,resolvedId){return String(book.genreId||'').split('/').map(x=>x.trim()).filter(Boolean).some(id=>id===resolvedId||id.startsWith(resolvedId))}
-async function filterByActiveGenre(books){
-  const genre=activeGenreConfig();if(!genre||!books.length)return books;
+async function activeGenreId(){
+  const genre=activeGenreConfig();if(!genre)return '';
+  if(state.genreResolved?.id)return state.genreResolved.id;
   try{
     const data=await api({action:'genre-resolve',genreKey:genre.id,genreNames:genre.names.join('|'),parentNames:genre.parentNames.join('|')});
-    const id=data.resolvedGenre?.id;state.genreResolved=data.resolvedGenre||null;
-    return id?books.filter(book=>matchesGenreId(book,id)):books;
-  }catch{return books}
+    state.genreResolved=data.resolvedGenre||null;
+    return state.genreResolved?.id||'';
+  }catch{return ''}
+}
+async function filterByActiveGenre(books){
+  const id=await activeGenreId();
+  return id?books.filter(book=>matchesGenreId(book,id)):books;
 }
 
 function rankingSeeds(){
@@ -115,15 +131,57 @@ function rankingSeeds(){
   return [...merged.values()].sort((a,b)=>b.score-a.score||b.sources.length-a.sources.length).map((item,index)=>({...item,rank:index+1,source:'combined'}));
 }
 
+function simplifyResolveTitle(value=''){
+  const full=String(value||'').normalize('NFKC').replace(/[〜～]/g,'〜').replace(/\s+/g,' ').trim();
+  return full
+    .replace(/\s*[（(][^）)]*(?:コミックス|コミック|DIGITAL|電子|文庫|新書|単行本|BOOKS?)[^）)]*[）)]\s*$/iu,'')
+    .replace(/\s*\[[^\]]*(?:電子|DIGITAL|コミック)[^\]]*\]\s*$/iu,'')
+    .trim()||full;
+}
+function resolveCandidate(item){
+  const originalTitle=String(item?.title||'').trim();
+  const title=simplifyResolveTitle(originalTitle);
+  return {...item,title,originalTitle:originalTitle!==title?originalTitle:(item?.originalTitle||'')};
+}
+async function requestResolveChunk(chunk){
+  let firstError=null;
+  for(let attempt=0;attempt<2;attempt++){
+    try{return await api({action:'resolve',items:JSON.stringify(chunk)})}
+    catch(error){firstError=firstError||error;if(attempt===0)await new Promise(resolve=>setTimeout(resolve,180))}
+  }
+  throw firstError||new Error('Kobo照合に失敗しました');
+}
+async function resolveUntilTarget(entries,{target=TARGET_BOOKS,maxCandidates=MAX_CANDIDATES,genreId='',onProgress}={}){
+  const candidates=(entries||[]).slice(0,maxCandidates).map(resolveCandidate);
+  let visible=[],checked=0,rawMatched=0,failedBatches=0,lastError=null;
+  for(let i=0;i<candidates.length&&visible.length<target;i+=RESOLVE_BATCH_SIZE){
+    const chunk=candidates.slice(i,i+RESOLVE_BATCH_SIZE);
+    checked+=chunk.length;
+    try{
+      const data=await requestResolveChunk(chunk);
+      rawMatched+=Number(data.matched||(data.items||[]).length);
+      const accepted=(data.items||[]).filter(book=>!genreId||matchesGenreId(book,genreId));
+      visible=dedupe([...visible,...accepted]).slice(0,target);
+    }catch(error){failedBatches+=1;lastError=error}
+    if(onProgress)await onProgress({items:visible,checked,total:candidates.length,rawMatched,failedBatches,done:visible.length>=target||checked>=candidates.length});
+  }
+  if(!visible.length&&lastError)throw lastError;
+  return {items:visible,checked,total:candidates.length,rawMatched,failedBatches};
+}
+
 async function resolveMetadata(entries){
   if(!entries.length)return {items:[],requested:0,matched:0};
-  const out=[];let requested=0,matched=0;
-  for(let i=0;i<entries.length;i+=12){
-    const chunk=entries.slice(i,i+12);
-    const data=await api({action:'resolve',items:JSON.stringify(chunk)});
-    out.push(...(data.items||[]));requested+=Number(data.requested||chunk.length);matched+=Number(data.matched||0);
+  const out=[];let requested=0,matched=0,lastError=null;
+  for(let i=0;i<entries.length;i+=RESOLVE_BATCH_SIZE){
+    const chunk=entries.slice(i,i+RESOLVE_BATCH_SIZE).map(resolveCandidate);
+    try{
+      const data=await requestResolveChunk(chunk);
+      out.push(...(data.items||[]));requested+=chunk.length;matched+=Number(data.matched||(data.items||[]).length);
+    }catch(error){requested+=chunk.length;lastError=error}
   }
-  return {items:out,requested,matched};
+  const items=dedupe(out);
+  if(!items.length&&lastError)throw lastError;
+  return {items,requested,matched};
 }
 
 async function ensureRankingData(force=false){
@@ -140,43 +198,28 @@ async function ensureRankingData(force=false){
   const ids=['combined',...Object.keys(state.rankingData)];if(!ids.includes(state.source))state.source='combined';
 }
 
-async function prepareRankedBooks(items){
-  let books=dedupe((items||[]).map(book=>({...book,ranking:book.matchMeta})));
-  books=await filterByActiveGenre(books);
-  return books;
-}
-
 async function loadPopular({refreshRankings=false}={}){
   const token=++requestToken,key=popularCacheKey(),cached=readCache(feedCache,key,FEED_CACHE_TTL);
   state.error='';state.popularMeta=null;
-  if(cached?.books?.length){
+  if(cached?.books?.length>=2){
     state.books=cached.books;state.popularMeta=cached.meta||null;state.loading=false;render();recordPrices(state.books);
     if(!refreshRankings&&cached.age<FEED_REFRESH_AFTER)return;
-  }else{
-    state.loading=true;state.books=[];render();
-  }
+  }else{state.loading=true;state.books=[];render()}
   try{
     await ensureRankingData(refreshRankings);
-    const seeds=rankingSeeds().slice(0,20),firstSeeds=seeds.slice(0,8),restSeeds=seeds.slice(8);
-    const firstData=await resolveMetadata(firstSeeds);
-    let firstBooks=await prepareRankedBooks(firstData.items);
-    firstBooks=firstBooks.map((book,index)=>({...book,ranking:{...(book.ranking||{}),rank:index+1}}));
     if(token!==requestToken)return;
-    state.books=firstBooks;state.loading=false;state.popularMeta={candidates:seeds.length,matched:firstBooks.length,rawMatched:firstData.items.length};
-    recordPrices(firstBooks);writeCache(feedCache,'kobo-feed-cache-v2',key,{books:firstBooks,meta:state.popularMeta});render();
-
-    if(!restSeeds.length)return;
-    const restData=await resolveMetadata(restSeeds);
-    let restBooks=await prepareRankedBooks(restData.items);
-    if(token!==requestToken)return;
-    const combined=dedupe([...firstBooks,...restBooks]).map((book,index)=>({...book,ranking:{...(book.ranking||{}),rank:index+1}}));
-    state.books=combined;state.popularMeta={candidates:seeds.length,matched:combined.length,rawMatched:firstData.items.length+restData.items.length};
-    recordPrices(combined);writeCache(feedCache,'kobo-feed-cache-v2',key,{books:combined,meta:state.popularMeta});render();
-  }catch(error){
-    if(token===requestToken&&!state.books.length)state.error=error.message;
-  }finally{
-    if(token===requestToken){state.loading=false;render()}
-  }
+    const seeds=rankingSeeds().slice(0,MAX_CANDIDATES),genreId=await activeGenreId();
+    const result=await resolveUntilTarget(seeds,{genreId,onProgress:async progress=>{
+      if(token!==requestToken)return;
+      const books=progress.items.map((book,index)=>({...book,ranking:{...(book.matchMeta||{}),rank:index+1}}));
+      state.books=books;state.loading=books.length?false:!progress.done;state.error='';
+      state.popularMeta={candidates:seeds.length,checked:progress.checked,matched:books.length,rawMatched:progress.rawMatched,failedBatches:progress.failedBatches};
+      if(books.length){recordPrices(books);writeCache(feedCache,'kobo-feed-cache-v3',key,{books,meta:state.popularMeta})}
+      render();
+    }});
+    if(token===requestToken&&!result.items.length)state.books=[];
+  }catch(error){if(token===requestToken&&!state.books.length)state.error=error.message}
+  finally{if(token===requestToken){state.loading=false;render()}}
 }
 
 async function loadNew(){
@@ -184,7 +227,7 @@ async function loadNew(){
   state.error='';
   if(cached?.books?.length){state.books=cached.books;state.loading=false;render();recordPrices(state.books);if(cached.age<FEED_REFRESH_AFTER)return}
   else{state.loading=true;state.books=[];render()}
-  try{const data=await api({action:'search',...genreParams(),sort:'-releaseDate',hits:'30'});if(token===requestToken){state.books=data.items||[];state.genreResolved=data.resolvedGenre||null;recordPrices(state.books);writeCache(feedCache,'kobo-feed-cache-v2',key,{books:state.books})}}
+  try{const data=await api({action:'search',...genreParams(),sort:'-releaseDate',hits:'30'});if(token===requestToken){state.books=data.items||[];state.genreResolved=data.resolvedGenre||null;recordPrices(state.books);writeCache(feedCache,'kobo-feed-cache-v3',key,{books:state.books})}}
   catch(error){if(token===requestToken&&!state.books.length)state.error=error.message}
   finally{if(token===requestToken){state.loading=false;render()}}
 }
@@ -196,15 +239,35 @@ function sortSaleBooks(list){
   if(state.saleSort==='ending')return books.sort((a,b)=>{const at=a.saleEndAt?new Date(a.saleEndAt).getTime():Infinity,bt=b.saleEndAt?new Date(b.saleEndAt).getTime():Infinity;return at-bt});
   return books;
 }
+function saleBook(book){
+  const meta=book.matchMeta||{};
+  return {...book,price:Number(meta.salePrice||book.price||0),regularPrice:Number(meta.regularPrice||0),salePrice:Number(meta.salePrice||book.price||0),discountPercent:Number(meta.discountPercent||0),saleEndAt:meta.saleEndAt||'',saleCampaign:meta.saleCampaign||'',sourceGenre:meta.sourceGenre||''};
+}
 
 async function loadSale(){
-  const token=++requestToken,key=saleCacheKey(),cached=readCache(feedCache,key,6*60*60*1000);
+  const token=++requestToken,key=saleCacheKey(),cached=readCache(feedCache,key,FEED_CACHE_TTL);
   state.error='';state.saleMeta=null;
-  if(cached?.books?.length){state.saleBooks=cached.books;state.books=sortSaleBooks(state.saleBooks);state.saleMeta=cached.meta||null;state.loading=false;render();recordPrices(state.saleBooks);if(cached.age<60*60*1000)return}
+  if(cached?.books?.length>=2){state.saleBooks=cached.books;state.books=sortSaleBooks(state.saleBooks);state.saleMeta=cached.meta||null;state.loading=false;render();recordPrices(state.saleBooks);if(cached.age<60*60*1000)return}
   else{state.loading=true;state.books=[];state.saleBooks=[];render()}
   try{
     const data=await api({action:'sales',...genreParams(),page:'1'});
-    if(token===requestToken){state.saleBooks=data.items||[];state.books=sortSaleBooks(state.saleBooks);state.saleMeta={fetchedAt:data.fetchedAt,sourceUrl:data.sourceUrl,parsed:data.parsed,matched:data.matched};state.genreResolved=data.resolvedGenre||null;recordPrices(state.saleBooks);writeCache(feedCache,'kobo-feed-cache-v2',key,{books:state.saleBooks,meta:state.saleMeta})}
+    if(token!==requestToken)return;
+    const candidates=Array.isArray(data.candidates)?data.candidates.slice(0,MAX_CANDIDATES):[];
+    if(candidates.length){
+      const genreId=await activeGenreId();
+      await resolveUntilTarget(candidates,{genreId,onProgress:async progress=>{
+        if(token!==requestToken)return;
+        const books=progress.items.map(saleBook);
+        state.saleBooks=books;state.books=sortSaleBooks(books);state.loading=books.length?false:!progress.done;state.error='';
+        state.saleMeta={fetchedAt:data.fetchedAt,sourceUrl:data.sourceUrl,parsed:Number(data.parsed||candidates.length),checked:progress.checked,matched:books.length,rawMatched:progress.rawMatched,failedBatches:progress.failedBatches};
+        if(books.length){recordPrices(books);writeCache(feedCache,'kobo-feed-cache-v3',key,{books,meta:state.saleMeta})}
+        render();
+      }});
+    }else{
+      const books=dedupe(data.items||[]).slice(0,TARGET_BOOKS);
+      state.saleBooks=books;state.books=sortSaleBooks(books);state.saleMeta={fetchedAt:data.fetchedAt,sourceUrl:data.sourceUrl,parsed:data.parsed,matched:books.length};state.genreResolved=data.resolvedGenre||null;recordPrices(books);
+      if(books.length)writeCache(feedCache,'kobo-feed-cache-v3',key,{books,meta:state.saleMeta});
+    }
   }catch(error){if(token===requestToken&&!state.books.length)state.error=error.message}
   finally{if(token===requestToken){state.loading=false;render()}}
 }
@@ -213,7 +276,7 @@ async function loadAward(){
   ensureAwardYear();const token=++requestToken;state.loading=true;state.error='';state.books=[];render();
   const entries=AWARD_DATA.filter(item=>item.award===state.award&&item.year===Number(state.awardYear)).sort((a,b)=>statusPriority(a)-statusPriority(b));
   try{
-    const resolvedData=await resolveMetadata(entries);let books=dedupe(resolvedData.items.map(book=>({...book,awardMeta:book.matchMeta})));books=await filterByActiveGenre(books);
+    const resolvedData=await resolveMetadata(entries);let books=resolvedData.items.map(book=>({...book,awardMeta:book.matchMeta}));books=await filterByActiveGenre(books);
     if(token===requestToken){state.books=books;recordPrices(books)}
   }catch(error){if(token===requestToken)state.error=error.message}
   finally{if(token===requestToken){state.loading=false;render()}}

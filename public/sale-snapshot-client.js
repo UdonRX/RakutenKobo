@@ -1,10 +1,10 @@
 (() => {
   const originalFetch = window.fetch.bind(window);
   const SNAPSHOT_URL = 'https://raw.githubusercontent.com/UdonRX/RakutenKobo/ranking-data/data/kobo-sale.json';
-  const CACHE_PREFIX = 'kobo-sale-snapshot-response-v2:';
+  const CACHE_PREFIX = 'kobo-sale-snapshot-response-v3:';
   const CACHE_TTL = 6 * 60 * 60 * 1000;
   const REFRESH_AFTER = 60 * 60 * 1000;
-  const MAX_ITEMS = 8;
+  const MAX_CANDIDATES = 30;
 
   function requestUrl(input) {
     try { return new URL(typeof input === 'string' ? input : input?.url, location.origin); }
@@ -40,47 +40,26 @@
     if (!Array.isArray(data?.items) || data.items.length < 1) throw new Error('SALE_SNAPSHOT_EMPTY');
     return data;
   }
-  async function resolveSnapshot(snapshot, sourceRequest) {
-    const sourceUrl = requestUrl(sourceRequest);
-    const seeds = snapshot.items.slice(0, MAX_ITEMS);
-    const resolveResponse = await originalFetch('/api/kobo?action=resolve', {
-      method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ items: seeds })
-    });
-    const resolvedData = await resolveResponse.json().catch(() => ({}));
-    if (!resolveResponse.ok) throw new Error(resolvedData.detail || resolvedData.error || 'SALE_RESOLVE_FAILED');
-
-    let items = (resolvedData.items || []).map(book => {
-      const meta = book.matchMeta || {};
-      return {
-        ...book,
-        price: Number(meta.salePrice || book.price || 0), regularPrice: Number(meta.regularPrice || 0), salePrice: Number(meta.salePrice || book.price || 0),
-        discountPercent: Number(meta.discountPercent || 0), saleEndAt: meta.saleEndAt || '', saleCampaign: meta.saleCampaign || '', sourceGenre: meta.sourceGenre || ''
-      };
-    });
-
-    let resolvedGenre = null;
-    const genreKey = sourceUrl?.searchParams.get('genreKey');
-    if (genreKey) {
-      const params = new URLSearchParams({
-        action: 'genre-resolve', genreKey,
-        genreNames: sourceUrl.searchParams.get('genreNames') || '', parentNames: sourceUrl.searchParams.get('parentNames') || ''
-      });
-      const genreResponse = await originalFetch(`/api/kobo?${params}`);
-      const genreData = await genreResponse.json().catch(() => ({}));
-      resolvedGenre = genreData.resolvedGenre || null;
-      const id = resolvedGenre?.id;
-      if (id) items = items.filter(book => String(book.genreId || '').split('/').some(value => value === id || value.startsWith(id)));
-    }
-
+  function snapshotData(snapshot) {
+    const candidates = snapshot.items
+      .filter(item => item?.title && Number(item?.regularPrice) > Number(item?.salePrice) && Number(item?.salePrice) > 0)
+      .slice(0, MAX_CANDIDATES);
     return {
-      items, page: 1, sourceUrl: snapshot.sourceUrl || 'https://books.rakuten.co.jp/', fetchedAt: snapshot.updatedAt || new Date().toISOString(),
-      parsed: snapshot.items.length, matched: Number(resolvedData.matched || items.length), resolvedGenre, snapshot: true
+      items: [],
+      candidates,
+      page: 1,
+      sourceUrl: snapshot.sourceUrl || 'https://books.rakuten.co.jp/',
+      fetchedAt: snapshot.updatedAt || new Date().toISOString(),
+      parsed: candidates.length,
+      matched: 0,
+      resolvedGenre: null,
+      snapshot: true
     };
   }
   async function refresh(sourceRequest) {
     const snapshot = await readSnapshot();
-    const data = await resolveSnapshot(snapshot, sourceRequest);
-    if (data.items.length) writeCache(sourceRequest, data);
+    const data = snapshotData(snapshot);
+    if (data.candidates.length) writeCache(sourceRequest, data);
     return jsonResponse(data);
   }
 

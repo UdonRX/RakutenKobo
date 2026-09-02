@@ -2,10 +2,10 @@
   "kind": "popular",
   "completed": true,
   "period": "year",
-  "updatedAt": "2026-09-02T22:21:12.598Z",
+  "updatedAt": "2026-09-02T22:34:08.528Z",
   "candidateCount": 10,
   "checked": 10,
-  "matched": 8,
+  "matched": 7,
   "failedBatches": 0,
   "unavailable": [],
   "snapshots": {
@@ -39,11 +39,6 @@
           "rank": 4
         },
         {
-          "title": "暁星",
-          "author": "湊かなえ",
-          "rank": 7
-        },
-        {
           "title": "大河の一滴 最終章",
           "author": "五木寛之",
           "rank": 8
@@ -63,100 +58,6 @@
     }
   },
   "items": [
-    {
-      "id": "4524815633410",
-      "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
-      "author": "堀田 秀吾",
-      "publisher": "SBクリエイティブ",
-      "price": 1760,
-      "url": "https://books.rakuten.co.jp/rk/79a1d43cefcb3337b3e2363c5f00a07e/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1658/2000018091658.jpg?_ex=600x600",
-      "caption": "勉強・ダイエット・貯金・目標達成…は習慣化が10割\n仕事、ダイエット、健康管理、勉強、目標達成…すべて成功のカギは「習慣化」にあります。\nしかし間違った習慣を身につけてしまったらその代償は大きくなってしまいます。\n何をどう習慣化すればいいか、そのために重要になるのが「エビデンス」です。\n・もし「A」をしたら「B」をすると、あらかじめ決めておく\n・選択肢は必ず「3つ」用意しておく\n・常にポジティブな言葉を使うーつらさに対する耐性が高まる\n・52分間作業して、17分休憩するー生産性が高まるetc.\n本書は、ハーバード、スタンフォード、オックスフォード…などの研究機関において証明されたテクニックを112個紹介。\n見開き図解入りでわかりやすい。気になったテクニックからはじめられ、情報収集のためにも役立ち、また読みものとしても楽しめる一冊です。\n※カバー画像が異なる場合があります。\n",
-      "salesDate": "2025年07月02日",
-      "series": "",
-      "reviewAverage": 3.7,
-      "reviewCount": 362,
-      "genreId": "101905090",
-      "isbn": "4524815633410",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "科学的に証明された すごい習慣大百科",
-        "author": "堀田秀吾",
-        "score": 106,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 1
-          }
-        ],
-        "source": "combined",
-        "rank": 1,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "科学的に証明された すごい習慣大百科",
-        "author": "堀田秀吾",
-        "score": 106,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 1
-          }
-        ],
-        "source": "combined",
-        "rank": 1,
-        "originalTitle": ""
-      }
-    },
-    {
-      "id": "6681299179860",
-      "title": "暁星",
-      "author": "湊かなえ",
-      "publisher": "双葉社",
-      "price": 1980,
-      "url": "https://books.rakuten.co.jp/rk/eb8de6a46aa935d48709dbfee116c7d2/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4762/2000019204762.jpg?_ex=600x600",
-      "caption": "「ただ、星を守りたかっただけーー」　\n現役の文部科学大臣で文壇の大御所作家でもある清水義之が全国高校生総合文化祭の式典の最中、舞台袖から飛び出してきた男に刺されて死亡する事件がおきた。逮捕された男の名前は永瀬暁、37歳。永瀬は逮捕されたのち、週刊誌に手記を発表しはじめる。そこには、清水が深く関わっているとされる新興宗教に対する恨みが綴られていた。また、式典に出席していた作家は、永瀬の事件を小説として描く。ノンフィクションとフィクション、ふたつの物語が合わさったとき見える景色とは!?\n",
-      "salesDate": "2025年11月27日",
-      "series": "暁星",
-      "reviewAverage": 4.18,
-      "reviewCount": 1124,
-      "genreId": "101902",
-      "isbn": "6681299179860",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "暁星",
-        "author": "湊かなえ",
-        "score": 82,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 7
-          }
-        ],
-        "source": "combined",
-        "rank": 7,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "暁星",
-        "author": "湊かなえ",
-        "score": 82,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 7
-          }
-        ],
-        "source": "combined",
-        "rank": 2,
-        "originalTitle": ""
-      }
-    },
     {
       "id": "6681297998470",
       "title": "変な地図",
@@ -200,7 +101,54 @@
           }
         ],
         "source": "combined",
-        "rank": 3,
+        "rank": 1,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "4524815633410",
+      "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
+      "author": "堀田 秀吾",
+      "publisher": "SBクリエイティブ",
+      "price": 1760,
+      "url": "https://books.rakuten.co.jp/rk/79a1d43cefcb3337b3e2363c5f00a07e/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1658/2000018091658.jpg?_ex=600x600",
+      "caption": "勉強・ダイエット・貯金・目標達成…は習慣化が10割\n仕事、ダイエット、健康管理、勉強、目標達成…すべて成功のカギは「習慣化」にあります。\nしかし間違った習慣を身につけてしまったらその代償は大きくなってしまいます。\n何をどう習慣化すればいいか、そのために重要になるのが「エビデンス」です。\n・もし「A」をしたら「B」をすると、あらかじめ決めておく\n・選択肢は必ず「3つ」用意しておく\n・常にポジティブな言葉を使うーつらさに対する耐性が高まる\n・52分間作業して、17分休憩するー生産性が高まるetc.\n本書は、ハーバード、スタンフォード、オックスフォード…などの研究機関において証明されたテクニックを112個紹介。\n見開き図解入りでわかりやすい。気になったテクニックからはじめられ、情報収集のためにも役立ち、また読みものとしても楽しめる一冊です。\n※カバー画像が異なる場合があります。\n",
+      "salesDate": "2025年07月02日",
+      "series": "",
+      "reviewAverage": 3.7,
+      "reviewCount": 362,
+      "genreId": "101905090",
+      "isbn": "4524815633410",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "科学的に証明された すごい習慣大百科",
+        "author": "堀田秀吾",
+        "score": 106,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 1
+          }
+        ],
+        "source": "combined",
+        "rank": 1,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "科学的に証明された すごい習慣大百科",
+        "author": "堀田秀吾",
+        "score": 106,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 1
+          }
+        ],
+        "source": "combined",
+        "rank": 2,
         "originalTitle": ""
       }
     },
@@ -247,7 +195,7 @@
           }
         ],
         "source": "combined",
-        "rank": 4,
+        "rank": 3,
         "originalTitle": ""
       }
     },
@@ -294,7 +242,7 @@
           }
         ],
         "source": "combined",
-        "rank": 5,
+        "rank": 4,
         "originalTitle": ""
       }
     },
@@ -341,7 +289,7 @@
           }
         ],
         "source": "combined",
-        "rank": 6,
+        "rank": 5,
         "originalTitle": ""
       }
     },
@@ -388,7 +336,7 @@
           }
         ],
         "source": "combined",
-        "rank": 7,
+        "rank": 6,
         "originalTitle": ""
       }
     },
@@ -435,7 +383,7 @@
           }
         ],
         "source": "combined",
-        "rank": 8,
+        "rank": 7,
         "originalTitle": ""
       }
     }
@@ -485,7 +433,7 @@
             }
           ],
           "source": "combined",
-          "rank": 4,
+          "rank": 3,
           "originalTitle": ""
         }
       },
@@ -532,7 +480,7 @@
             }
           ],
           "source": "combined",
-          "rank": 5,
+          "rank": 4,
           "originalTitle": ""
         }
       },
@@ -779,53 +727,6 @@
     ],
     "mystery": [
       {
-        "id": "6681299179860",
-        "title": "暁星",
-        "author": "湊かなえ",
-        "publisher": "双葉社",
-        "price": 1980,
-        "url": "https://books.rakuten.co.jp/rk/eb8de6a46aa935d48709dbfee116c7d2/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4762/2000019204762.jpg?_ex=600x600",
-        "caption": "「ただ、星を守りたかっただけーー」　\n現役の文部科学大臣で文壇の大御所作家でもある清水義之が全国高校生総合文化祭の式典の最中、舞台袖から飛び出してきた男に刺されて死亡する事件がおきた。逮捕された男の名前は永瀬暁、37歳。永瀬は逮捕されたのち、週刊誌に手記を発表しはじめる。そこには、清水が深く関わっているとされる新興宗教に対する恨みが綴られていた。また、式典に出席していた作家は、永瀬の事件を小説として描く。ノンフィクションとフィクション、ふたつの物語が合わさったとき見える景色とは!?\n",
-        "salesDate": "2025年11月27日",
-        "series": "暁星",
-        "reviewAverage": 4.18,
-        "reviewCount": 1124,
-        "genreId": "101902",
-        "isbn": "6681299179860",
-        "salesType": 0,
-        "matchMeta": {
-          "title": "暁星",
-          "author": "湊かなえ",
-          "score": 82,
-          "sources": [
-            {
-              "source": "tohan",
-              "label": "トーハン",
-              "rank": 7
-            }
-          ],
-          "source": "combined",
-          "rank": 7,
-          "originalTitle": ""
-        },
-        "ranking": {
-          "title": "暁星",
-          "author": "湊かなえ",
-          "score": 82,
-          "sources": [
-            {
-              "source": "tohan",
-              "label": "トーハン",
-              "rank": 7
-            }
-          ],
-          "source": "combined",
-          "rank": 2,
-          "originalTitle": ""
-        }
-      },
-      {
         "id": "6681297998470",
         "title": "変な地図",
         "author": "雨穴",
@@ -868,7 +769,7 @@
             }
           ],
           "source": "combined",
-          "rank": 3,
+          "rank": 1,
           "originalTitle": ""
         }
       },
@@ -1110,6 +1011,36 @@
             }
           ],
           "rank": 8
+        }
+      },
+      {
+        "id": "4340009600111",
+        "title": "オーデュボンの祈り（新潮文庫）",
+        "author": "伊坂幸太郎",
+        "publisher": "新潮社",
+        "price": 880,
+        "url": "https://books.rakuten.co.jp/rk/61388e32434133a6835731f58555203d/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3545/2000000153545.jpg?_ex=600x600",
+        "caption": "コンビニ強盗に失敗し逃走していた伊藤は、気付くと見知らぬ島にいた。江戸以来外界から遮断されている“荻島”には、妙な人間ばかりが住んでいた。嘘しか言わない画家、「島の法律として」殺人を許された男、人語を操り「未来が見える」カカシ。次の日カカシが殺される。無残にもバラバラにされ、頭を持ち去られて。未来を見通せるはずのカカシは、なぜ自分の死を阻止出来なかったのか？　伊坂幸太郎、伝説のデビュー作見参！\n",
+        "salesDate": "2008年08月15日",
+        "series": "",
+        "reviewAverage": 4,
+        "reviewCount": 2599,
+        "genreId": "101901006/101902",
+        "isbn": "4340009600111",
+        "salesType": 0,
+        "ranking": {
+          "title": "オーデュボンの祈り（新潮文庫）",
+          "author": "伊坂幸太郎",
+          "source": "kobo",
+          "sources": [
+            {
+              "source": "kobo",
+              "label": "楽天Kobo人気",
+              "rank": 9
+            }
+          ],
+          "rank": 9
         }
       }
     ],
@@ -1459,7 +1390,7 @@
             }
           ],
           "source": "combined",
-          "rank": 1,
+          "rank": 2,
           "originalTitle": ""
         }
       },
@@ -1778,7 +1709,7 @@
             }
           ],
           "source": "combined",
-          "rank": 6,
+          "rank": 5,
           "originalTitle": ""
         }
       },
@@ -1825,7 +1756,7 @@
             }
           ],
           "source": "combined",
-          "rank": 7,
+          "rank": 6,
           "originalTitle": ""
         }
       },
@@ -1872,7 +1803,7 @@
             }
           ],
           "source": "combined",
-          "rank": 8,
+          "rank": 7,
           "originalTitle": ""
         }
       },
@@ -2433,7 +2364,7 @@
             }
           ],
           "source": "combined",
-          "rank": 8,
+          "rank": 7,
           "originalTitle": ""
         }
       },
@@ -4822,7 +4753,308 @@
         }
       }
     ],
-    "essay": [],
+    "essay": [
+      {
+        "id": "4340008041861",
+        "title": "ぼくはイエローでホワイトで、ちょっとブルー　無料お試し版",
+        "author": "ブレイディみかこ",
+        "publisher": "新潮社",
+        "price": 0,
+        "url": "https://books.rakuten.co.jp/rk/e40f1e69323936ccade17ece4c90a642/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7985/2000007477985.jpg?_ex=600x600",
+        "caption": "優等生の「ぼく」が通う元・底辺中学は、毎日が事件の連続。人種差別丸出しの美少年、ジェンダーに悩むサッカー小僧。時には貧富の差でギスギスしたり、アイデンティティに悩んだり。世界の縮図のような日常を、思春期真っ只中の息子とパンクな母ちゃんの著者は、ともに考え悩み乗り越えていく。落涙必至の等身大ノンフィクション。「はじめに」「第１章」「第５章」「第６章」無料お試し特別版！\n",
+        "salesDate": "2019年06月21日",
+        "series": "",
+        "reviewAverage": 4.35,
+        "reviewCount": 1301,
+        "genreId": "101907015004/101901002",
+        "isbn": "4340008041861",
+        "salesType": 0,
+        "ranking": {
+          "title": "ぼくはイエローでホワイトで、ちょっとブルー　無料お試し版",
+          "author": "ブレイディみかこ",
+          "source": "kobo",
+          "sources": [
+            {
+              "source": "kobo",
+              "label": "楽天Kobo人気",
+              "rank": 1
+            }
+          ],
+          "rank": 1
+        }
+      },
+      {
+        "id": "4340008049911",
+        "title": "ぼくはイエローでホワイトで、ちょっとブルー（新潮文庫）",
+        "author": "ブレイディみかこ",
+        "publisher": "新潮社",
+        "price": 737,
+        "url": "https://books.rakuten.co.jp/rk/3fe79c874e6d308781bc289b85040221/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6327/2000009966327.jpg?_ex=600x600",
+        "caption": "人種も貧富の差もごちゃまぜの元底辺中学校に通い始めたぼく。人種差別丸出しの移民の子、アフリカからきたばかりの少女やジェンダーに悩むサッカー小僧。まるで世界の縮図のようなこの学校では、いろいろあって当たり前、みんなぼくの大切な友だちなんだーー。ぼくとパンクな母ちゃんは、ともに考え、ともに悩み、毎日を乗り越えていく。最後はホロリと涙のこぼれる感動のリアルストーリー。（解説・日野剛広）\n",
+        "salesDate": "2021年06月24日",
+        "series": "ぼくはイエローでホワイトで、ちょっとブルー",
+        "reviewAverage": 4.32,
+        "reviewCount": 1029,
+        "genreId": "101907015004/101907010/101907007/101901002/101914",
+        "isbn": "4340008049911",
+        "salesType": 0,
+        "ranking": {
+          "title": "ぼくはイエローでホワイトで、ちょっとブルー（新潮文庫）",
+          "author": "ブレイディみかこ",
+          "source": "kobo",
+          "sources": [
+            {
+              "source": "kobo",
+              "label": "楽天Kobo人気",
+              "rank": 2
+            }
+          ],
+          "rank": 2
+        }
+      },
+      {
+        "id": "4340008630131",
+        "title": "バカの壁（新潮新書）",
+        "author": "養老孟司",
+        "publisher": "新潮社",
+        "price": 946,
+        "url": "https://books.rakuten.co.jp/rk/92251270fc15392aa4209e88937428fb/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9850/2000000169850.jpg?_ex=600x600",
+        "caption": "「話せばわかる」なんて大ウソ！　イタズラ小僧と父親、イスラム原理主義者と米国、若者と老人。互いに話が通じないのは、そこに「バカの壁」が立ちはだかっているからである。その「バカの壁」とは何か……？　いつの間にか私たちを囲む様々な「壁」。それを知ることで世の中が見えてくる！\n",
+        "salesDate": "2009年12月15日",
+        "series": "「壁」シリーズ",
+        "reviewAverage": 3.36,
+        "reviewCount": 866,
+        "genreId": "101907015004/101907002002/101901002",
+        "isbn": "4340008630131",
+        "salesType": 0,
+        "ranking": {
+          "title": "バカの壁（新潮新書）",
+          "author": "養老孟司",
+          "source": "kobo",
+          "sources": [
+            {
+              "source": "kobo",
+              "label": "楽天Kobo人気",
+              "rank": 3
+            }
+          ],
+          "rank": 3
+        }
+      },
+      {
+        "id": "4340008045601",
+        "title": "日日是好日ー「お茶」が教えてくれた15のしあわせー（新潮文庫）",
+        "author": "森下典子",
+        "publisher": "新潮社",
+        "price": 781,
+        "url": "https://books.rakuten.co.jp/rk/14445df0d75033e1be5676a22bec92e5/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1826/2000008551826.jpg?_ex=600x600",
+        "caption": "お茶を習い始めて二十五年。就職につまずき、いつも不安で自分の居場所を探し続けた日々。失恋、父の死という悲しみのなかで、気がつけば、そばに「お茶」があった。がんじがらめの決まりごとの向こうに、やがて見えてきた自由。「ここにいるだけでよい」という心の安息。雨が匂う、雨の一粒一粒が聴こえる……季節を五感で味わう歓びとともに、「いま、生きている！」その感動を鮮やかに綴る。（解説・柳家小三治）\n",
+        "salesDate": "2020年06月12日",
+        "series": "好日シリーズ",
+        "reviewAverage": 4.4,
+        "reviewCount": 862,
+        "genreId": "101907015004/101901002",
+        "isbn": "4340008045601",
+        "salesType": 0,
+        "ranking": {
+          "title": "日日是好日ー「お茶」が教えてくれた15のしあわせー（新潮文庫）",
+          "author": "森下典子",
+          "source": "kobo",
+          "sources": [
+            {
+              "source": "kobo",
+              "label": "楽天Kobo人気",
+              "rank": 4
+            }
+          ],
+          "rank": 4
+        }
+      },
+      {
+        "id": "4910000395128",
+        "title": "さみしい夜にはペンを持て",
+        "author": "古賀史健",
+        "publisher": "ポプラ社",
+        "price": 1650,
+        "url": "https://books.rakuten.co.jp/rk/4fb78f75d9d737ff87a99393aa57358d/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5634/2000013515634.jpg?_ex=600x600",
+        "caption": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。\n『嫌われる勇気』古賀史健が、はじめて13歳に向けて書き下ろした「書くことで自分を好きになる」本。他者より先に、自分との人間関係を構築しよう。うみのなか中学校に通うタコジローが、ヤドカリおじさんに出会い「日記を書く」ことを通じて新しい自分を見つめる寓話。イラストもたっぷりで読書が苦手な子も読みやすい。なんとなくさみしい。なんとなく消えたい。そんな孤独な夜に寄り添い「ひとり」になる勇気が持てる一冊\n",
+        "salesDate": "2023年08月09日",
+        "series": "さみしい夜にはペンを持て",
+        "reviewAverage": 4.33,
+        "reviewCount": 810,
+        "genreId": "101907015004/101905016001/101901002/101916",
+        "isbn": "4910000395128",
+        "salesType": 0,
+        "ranking": {
+          "title": "さみしい夜にはペンを持て",
+          "author": "古賀史健",
+          "source": "kobo",
+          "sources": [
+            {
+              "source": "kobo",
+              "label": "楽天Kobo人気",
+              "rank": 5
+            }
+          ],
+          "rank": 5
+        }
+      },
+      {
+        "id": "4320000597546",
+        "title": "僕には鳥の言葉がわかる",
+        "author": "鈴木俊貴",
+        "publisher": "小学館",
+        "price": 1683,
+        "url": "https://books.rakuten.co.jp/rk/3cd013211c463433821b2ff8fef7cd91/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6425/2000016816425.jpg?_ex=600x600",
+        "caption": "３冠達成！世界の見え方が変わる話題の書！\n【祝・３冠達成】\n◇書店員が選ぶノンフィクション大賞２０２５\n◇第２４回新潮ドキュメント賞\n◇第１３回河合隼雄学芸賞\n爽快な読後感が大人気！\n◎山極壽一さん（総合地球環境学研究所所長）\n「現代のドリトル先生による新しい動物言語学の誕生だ」\n◎俵万智さん（歌人）\n「面白すぎた！やるじゃないか、シジュウカラ。学問って、学ぶこと以上に問うことなのだ。熱い『言葉論』としてもオススメです」\n◎仲野徹さん（生命科学者）\n「内容は深いが、文章は平易にしてユーモアたっぷり。これまで読んだサイエンス本でベスト」\n◎養老孟司さん（解剖学者）\n「好きこそものの上手なれ、という。でも論語ではさらに上があるとする。これを好む者は、これを楽しむ者に如かず。楽しんでやっている人にはかなわない。著者の研究はまさに『これを楽しむ』の境地に入っている」\n：：：：：：：：：：：：：：：：：：：：：：：：\n言葉を持つのは人間だけであり、鳥は感情で鳴いているとしか認識されていなかった「常識」を覆し、「シジュウカラが２０以上の単語を組み合わせて文を作っている」ことを世界で初めて解明した研究者による科学エッセイ。\n※この作品にはカラーが含まれます。\n※本電子書籍に掲載されている二次元バーコードは、端末の機種やアプリの仕様によっては読み取れない場合があります。その際はURLからアクセスしてください。\n（底本　２０２５年１月発売作品）\n",
+        "salesDate": "2025年01月23日",
+        "series": "僕には鳥の言葉がわかる",
+        "reviewAverage": 4.67,
+        "reviewCount": 689,
+        "genreId": "101908006/101907015004/101907005003/101901002/101914",
+        "isbn": "4320000597546",
+        "salesType": 0,
+        "ranking": {
+          "title": "僕には鳥の言葉がわかる",
+          "author": "鈴木俊貴",
+          "source": "kobo",
+          "sources": [
+            {
+              "source": "kobo",
+              "label": "楽天Kobo人気",
+              "rank": 6
+            }
+          ],
+          "rank": 6
+        }
+      },
+      {
+        "id": "4340008645191",
+        "title": "国家の品格（新潮新書）",
+        "author": "藤原正彦",
+        "publisher": "新潮社",
+        "price": 946,
+        "url": "https://books.rakuten.co.jp/rk/a4272271583139a39e80e119ed1df02c/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3113/2000000103113.jpg?_ex=600x600",
+        "caption": "「品格」で流行語大賞も受賞した大ベストセラー。虫の音が美しいと思う心、説明無用「駄目なものは駄目」、「卑怯」はいけないーー日本人は生まれながらにして善徳や品性を持っている。国際化という名のアメリカ化に踊らされてきた日本人は、この誇るべき「国柄」を長らく忘れてきてしまった。いま日本に必要なのは何か？　それは論理よりも情緒、英語よりも国語、民主主義よりも武士道精神であり、「国家の品格」を取り戻すことである！　すべての日本人に誇りと自信を与える画期的日本論。\n",
+        "salesDate": "2009年12月15日",
+        "series": "",
+        "reviewAverage": 3.64,
+        "reviewCount": 687,
+        "genreId": "101907015004/101907010/101907007/101907002002/101901002/101914",
+        "isbn": "4340008645191",
+        "salesType": 0,
+        "ranking": {
+          "title": "国家の品格（新潮新書）",
+          "author": "藤原正彦",
+          "source": "kobo",
+          "sources": [
+            {
+              "source": "kobo",
+              "label": "楽天Kobo人気",
+              "rank": 7
+            }
+          ],
+          "rank": 7
+        }
+      },
+      {
+        "id": "4825575630001",
+        "title": "もものかんづめ",
+        "author": "さくらももこ",
+        "publisher": "集英社",
+        "price": 429,
+        "url": "https://books.rakuten.co.jp/rk/32ecb9f5809a3736b48471afa72762bb/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0686/2000006850686.jpg?_ex=600x600",
+        "caption": "「こんなにおもしろい本があったのか！」と小学生からお年寄りまでを笑いの渦に巻き込んだ爆笑エッセイの金字塔!!　著者が日常で体験した出来事に父ヒロシや母・姉など、いまやお馴染みの家族も登場し、愉快で楽しい笑いが満載の一冊です。「巻末お楽しみ対談」ではもう一度、全身が笑いのツボと化します。描き下ろしカラーイラストつき。\n",
+        "salesDate": "2018年10月19日",
+        "series": "もものかんづめ",
+        "reviewAverage": 4.11,
+        "reviewCount": 668,
+        "genreId": "101907015004/101901002",
+        "isbn": "4825575630001",
+        "salesType": 0,
+        "ranking": {
+          "title": "もものかんづめ",
+          "author": "さくらももこ",
+          "source": "kobo",
+          "sources": [
+            {
+              "source": "kobo",
+              "label": "楽天Kobo人気",
+              "rank": 8
+            }
+          ],
+          "rank": 8
+        }
+      },
+      {
+        "id": "4390000005984",
+        "title": "表参道のセレブ犬とカバーニャ要塞の野良犬",
+        "author": "若林正恭",
+        "publisher": "文藝春秋",
+        "price": 790,
+        "url": "https://books.rakuten.co.jp/rk/093f1649a1ba3d519789ecf716796072/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4575/2000008954575.jpg?_ex=600x600",
+        "caption": "第3回斎藤茂太賞受賞！　選考委員の椎名誠氏に「新しい旅文学の誕生」と絶賛された名作紀行文。\n飛行機の空席は残り1席ーー芸人として多忙を極める著者は、5日間の夏休み、何かに背中を押されるように一人キューバへと旅立った。クラシックカーの排ガス、革命、ヘミングウェイ、青いカリブ海……「日本と逆のシステム」の風景と、そこに生きる人々との交流に心ほぐされた頃、隠された旅の目的が明らかにーー落涙必至のベストセラー紀行文。特別書下ろし3編「モンゴル」「アイスランド」「コロナ後の東京」収録。解説・Creepy Nuts DJ松永。\nいざキューバへ！\nぼくは今から5日間だけ、\n灰色の街と無関係になる。\nロングセラー傑作紀行文\n書下ろし新章\nモンゴル／アイスランド／コロナ後の東京\n俺は誓いました。\nあなたのように\n生々しく生きていこうと。\n（Creepy Nuts DJ松永「解説」より）\n",
+        "salesDate": "2020年10月07日",
+        "series": "",
+        "reviewAverage": 4.32,
+        "reviewCount": 645,
+        "genreId": "101907015004/101901002",
+        "isbn": "4390000005984",
+        "salesType": 0,
+        "ranking": {
+          "title": "表参道のセレブ犬とカバーニャ要塞の野良犬",
+          "author": "若林正恭",
+          "source": "kobo",
+          "sources": [
+            {
+              "source": "kobo",
+              "label": "楽天Kobo人気",
+              "rank": 9
+            }
+          ],
+          "rank": 9
+        }
+      },
+      {
+        "id": "8909122840914",
+        "title": "出会い系サイトで７０人と実際に会ってその人に合いそうな本をすすめまくった１年間のこと",
+        "author": "花田菜々子",
+        "publisher": "河出書房新社",
+        "price": 770,
+        "url": "https://books.rakuten.co.jp/rk/d7b63b0090f93fa1b7fb3075cdd8fec5/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1097/2000008251097.jpg?_ex=600x600",
+        "caption": "読 め ば 勇 気 が 湧 い て く る\n悩みまくる書店員・花田菜々子が初めて書いた、大人のための青春実録私小説。\n12か国・地域で翻訳。世界のベストセラーに。\n累計14万部突破！\n「すべての書籍愛好者にとって魅力的な一冊 」（イギリス・WATERSTONES）\n「ナナコが自分にとって何が最も大切なのかを問い続けるのに付き合いながら、自分自身についてのある真実に気づかされた」　イギリス Goodreads レビューより\n「この本は、別れを経て自分の人生を取り戻し、本の力を借りて自分を超えて成長する女性の力強い自伝」　ドイツ版内容紹介\n「変人の面白エッセイかと思いきや、凡人(と思っている人)全員が刺激される強烈な自己啓発本です。もはや実用書! 」ーー能町みね子\n「シューフィッターみたいに、一人ひとりに対面で本を紹介する。これは究極の書評の形なのかもしれない。」ーー岸本佐知子\n「あなたのことが知りたい」と思うことは簡単だけれど、生きてきた時間も場所も異なる誰かに近づく術を、本当は、誰も知らない。\nそしてだからこそ自らの人生を形作ったものの力を借りて、飛び込んでいくしかなかった。\n花田さんが「本」を信じ、その力で、人という存在を信じ抜くことができたように」ーー最果タヒ\n◎内容\n夫に別れを告げ家を飛び出し、宿無し生活。どん底人生まっしぐらの書店員・花田菜々子。仕事もうまく行かず、疲れた毎日を送る中、願うは「もっと知らない世界を知りたい。広い世界に出て、新しい自分になって、元気になりたい」。そんな彼女がふと思い立って登録したのが、出会い系サイト「X」。プロフィール欄に個性を出すため、悩みに悩んで書いた一言は、「今のあなたにぴったりな本を一冊選んでおすすめさせていただきます」ーーー。\n実際に出会った人達は魑魅魍魎。エロ目的の男、さわやかに虚言癖の男、笑顔がかわいい映像作家……時には自作ポエムを拝見し、かわいい女子に励まされ、優しい女性のコーチングに号泣しながら、今までの日常では絶対に会わなかったような人達に、毎日毎日「その人にぴったりの」本を紹介。え、もしかして、仕事よりもこっちが楽しい!\nサイトの中ではどんどん大人気になる菜々子。だがそこに訪れた転機とは……。\nこれは修行か? 冒険か? 「本」を通して笑って泣いた、衝撃の実録私小説!\n◎目次\nプロローグ 2013年1月、どん底の夜0時\n第1章 東京がこんなにおもしろマッドシティーだったとは\n第2章 私を育ててくれたヴィレッジヴァンガード、その愛\n第3章 出会い系サイトで人生が動き出す\n第4章 ここはどこかへ行く途中の人が集まる場所\n第5章 あなたの助言は床に落ちてるホコリみたい\n第6章 私が逆ナンを身につけるまでーーーーそしてラスボス戦へ\n第7章 人生初のイベントは祖父の屍を越えて\nエピローグ 季節はめぐる、終わりと始まり\nあとがき 2017年秋、本屋の店先で\n",
+        "salesDate": "2020年03月06日",
+        "series": "",
+        "reviewAverage": 4.03,
+        "reviewCount": 495,
+        "genreId": "101907015004/101901002",
+        "isbn": "8909122840914",
+        "salesType": 0,
+        "ranking": {
+          "title": "出会い系サイトで７０人と実際に会ってその人に合いそうな本をすすめまくった１年間のこと",
+          "author": "花田菜々子",
+          "source": "kobo",
+          "sources": [
+            {
+              "source": "kobo",
+              "label": "楽天Kobo人気",
+              "rank": 10
+            }
+          ],
+          "rank": 10
+        }
+      }
+    ],
     "comic": [
       {
         "id": "4310000005017",
@@ -5213,9 +5445,9 @@
     },
     "essay": {
       "target": 10,
-      "matched": 0,
-      "complete": false,
-      "error": "GENRE_UNRESOLVED"
+      "matched": 10,
+      "complete": true,
+      "error": ""
     },
     "comic": {
       "target": 10,

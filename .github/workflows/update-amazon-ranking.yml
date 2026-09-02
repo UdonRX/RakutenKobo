@@ -1,0 +1,67 @@
+name: Update Amazon ranking snapshot
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 21 * * *'
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/scrape-amazon-ranking.mjs'
+      - '.github/workflows/update-amazon-ranking.yml'
+      - 'public/amazon-ranking-client.js'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: amazon-ranking-snapshot
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - name: Check out app code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install scraper dependencies
+        run: |
+          npm install --ignore-scripts
+          npm install --no-save playwright@1.55.0
+          npx playwright install --with-deps chromium
+
+      - name: Scrape Amazon ranking
+        run: node scripts/scrape-amazon-ranking.mjs /tmp/amazon-ranking.json
+
+      - name: Publish snapshot to ranking-data branch
+        shell: bash
+        run: |
+          if [ ! -s /tmp/amazon-ranking.json ]; then
+            echo "No new snapshot was produced; keeping previous data."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin ranking-data
+          git switch -C ranking-data origin/ranking-data
+          mkdir -p data
+          cp /tmp/amazon-ranking.json data/amazon-ranking.json
+          git add data/amazon-ranking.json
+
+          if git diff --cached --quiet; then
+            echo "Amazon ranking is unchanged."
+            exit 0
+          fi
+
+          git commit -m "data: update Amazon ranking snapshot"
+          git push origin HEAD:ranking-data

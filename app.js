@@ -9,8 +9,8 @@ const FEED_CACHE_TTL=6*60*60*1000;
 const FEED_REFRESH_AFTER=30*60*1000;
 const RANKING_CACHE_TTL=6*60*60*1000;
 const RESOLVE_BATCH_SIZE=4;
-const TARGET_BOOKS=12;
-const MAX_CANDIDATES=30;
+const TARGET_BOOKS=30;
+const MAX_CANDIDATES=60;
 
 const HONTAI_2024 = [
   ['水車小屋のネネ','津村記久子','2位',2],
@@ -37,7 +37,7 @@ const state={
 };
 let requestToken=0, watchRequestToken=0, searchTimer=null;
 const chipScroll=load('kobo-chip-scroll-v1',{});
-const feedCache=load('kobo-feed-cache-v3',{});
+const feedCache=load('kobo-feed-cache-v4',{});
 const rankingCache=load('kobo-ranking-cache-v2',{});
 
 function readCache(store,key,ttl){
@@ -192,7 +192,7 @@ async function ensureRankingData(force=false){
     const ids=['combined',...Object.keys(state.rankingData)];if(!ids.includes(state.source))state.source='combined';
     return;
   }
-  const data=await api({action:'rankings',period:state.period});
+  const data=await api({action:'rankings',period:state.period,...genreParams()});
   state.rankingData=data.snapshots||{};state.rankingPeriod=state.period;state.rankingUnavailable=data.unavailable||[];
   writeCache(rankingCache,'kobo-ranking-cache-v2',state.period,{snapshots:state.rankingData,unavailable:state.rankingUnavailable});
   const ids=['combined',...Object.keys(state.rankingData)];if(!ids.includes(state.source))state.source='combined';
@@ -214,7 +214,7 @@ async function loadPopular({refreshRankings=false}={}){
       const books=progress.items.map((book,index)=>({...book,ranking:{...(book.matchMeta||{}),rank:index+1}}));
       state.books=books;state.loading=books.length?false:!progress.done;state.error='';
       state.popularMeta={candidates:seeds.length,checked:progress.checked,matched:books.length,rawMatched:progress.rawMatched,failedBatches:progress.failedBatches};
-      if(books.length){recordPrices(books);writeCache(feedCache,'kobo-feed-cache-v3',key,{books,meta:state.popularMeta})}
+      if(books.length){recordPrices(books);writeCache(feedCache,'kobo-feed-cache-v4',key,{books,meta:state.popularMeta})}
       render();
     }});
     if(token===requestToken&&!result.items.length)state.books=[];
@@ -227,7 +227,7 @@ async function loadNew(){
   state.error='';
   if(cached?.books?.length){state.books=cached.books;state.loading=false;render();recordPrices(state.books);if(cached.age<FEED_REFRESH_AFTER)return}
   else{state.loading=true;state.books=[];render()}
-  try{const data=await api({action:'search',...genreParams(),sort:'-releaseDate',hits:'30'});if(token===requestToken){state.books=data.items||[];state.genreResolved=data.resolvedGenre||null;recordPrices(state.books);writeCache(feedCache,'kobo-feed-cache-v3',key,{books:state.books})}}
+  try{const data=await api({action:'search',...genreParams(),sort:'-releaseDate',hits:'30'});if(token===requestToken){state.books=data.items||[];state.genreResolved=data.resolvedGenre||null;recordPrices(state.books);writeCache(feedCache,'kobo-feed-cache-v4',key,{books:state.books})}}
   catch(error){if(token===requestToken&&!state.books.length)state.error=error.message}
   finally{if(token===requestToken){state.loading=false;render()}}
 }
@@ -260,13 +260,13 @@ async function loadSale(){
         const books=progress.items.map(saleBook);
         state.saleBooks=books;state.books=sortSaleBooks(books);state.loading=books.length?false:!progress.done;state.error='';
         state.saleMeta={fetchedAt:data.fetchedAt,sourceUrl:data.sourceUrl,parsed:Number(data.parsed||candidates.length),checked:progress.checked,matched:books.length,rawMatched:progress.rawMatched,failedBatches:progress.failedBatches};
-        if(books.length){recordPrices(books);writeCache(feedCache,'kobo-feed-cache-v3',key,{books,meta:state.saleMeta})}
+        if(books.length){recordPrices(books);writeCache(feedCache,'kobo-feed-cache-v4',key,{books,meta:state.saleMeta})}
         render();
       }});
     }else{
       const books=dedupe(data.items||[]).slice(0,TARGET_BOOKS);
       state.saleBooks=books;state.books=sortSaleBooks(books);state.saleMeta={fetchedAt:data.fetchedAt,sourceUrl:data.sourceUrl,parsed:data.parsed,matched:books.length};state.genreResolved=data.resolvedGenre||null;recordPrices(books);
-      if(books.length)writeCache(feedCache,'kobo-feed-cache-v3',key,{books,meta:state.saleMeta});
+      if(books.length)writeCache(feedCache,'kobo-feed-cache-v4',key,{books,meta:state.saleMeta});
     }
   }catch(error){if(token===requestToken&&!state.books.length)state.error=error.message}
   finally{if(token===requestToken){state.loading=false;render()}}
@@ -318,7 +318,7 @@ function bind(){
   $$('[data-list-mode]').forEach(button=>button.onclick=()=>{state.listMode=button.dataset.listMode;render();if(state.listMode==='watch')refreshWatchList()});
   $('[data-action="genres"]')?.addEventListener('click',()=>{state.genreSheetOpen=true;render()});
   $$('[data-close-genres]').forEach(item=>item.onclick=()=>{state.genreSheetOpen=false;render()});
-  $$('[data-genre-option]').forEach(button=>button.onclick=event=>{event.stopPropagation();const id=button.dataset.genreOption||null;state.genre=id;state.genreByTab[state.tab]=id;save('kobo-genre-by-tab-v1',state.genreByTab);state.genreResolved=null;state.genreSheetOpen=false;render();reloadCurrent()});
+  $$('[data-genre-option]').forEach(button=>button.onclick=event=>{event.stopPropagation();const id=button.dataset.genreOption||null;state.genre=id;state.genreByTab[state.tab]=id;save('kobo-genre-by-tab-v1',state.genreByTab);state.genreResolved=null;state.genreSheetOpen=false;state.books=[];state.saleBooks=[];render();if(state.tab==='popular')loadPopular({refreshRankings:true});else reloadCurrent()});
   $$('[data-period]').forEach(button=>button.onclick=()=>{state.period=button.dataset.period;state.source='combined';loadPopular({refreshRankings:true})});
   $$('[data-source]').forEach(button=>button.onclick=()=>{state.source=button.dataset.source;loadPopular()});
   $$('[data-sale-sort]').forEach(button=>button.onclick=()=>{state.saleSort=button.dataset.saleSort;state.books=sortSaleBooks(state.saleBooks);render()});

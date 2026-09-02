@@ -1,7 +1,7 @@
 (() => {
   const previousFetch = window.fetch.bind(window);
   const DATA_URL = 'https://raw.githubusercontent.com/UdonRX/RakutenKobo/ranking-data/data/kobo-sale.json';
-  const CACHE_KEY = 'kobo-completed-sale-v1';
+  const CACHE_KEY = 'kobo-completed-sale-v2';
   const CACHE_TTL = 12 * 60 * 60 * 1000;
   let activeFeed=null;
 
@@ -9,9 +9,17 @@
     try { return new URL(typeof input === 'string' ? input : input?.url, location.origin); }
     catch { return null; }
   }
+  function savedGenre() {
+    try { return JSON.parse(localStorage.getItem('kobo-genre-by-tab-v1') || '{}')?.sale || ''; }
+    catch { return ''; }
+  }
   function isSale(input) {
     const url=urlOf(input);
     return url?.pathname==='/api/kobo' && url.searchParams.get('action')==='sales';
+  }
+  function saleGenre(input) {
+    const url=urlOf(input);
+    return url?.searchParams.get('genreKey') || savedGenre() || '';
   }
   function isResolve(input,init) {
     const url=urlOf(input);
@@ -41,9 +49,9 @@
       if(!r.ok)throw new Error(`SALE_${r.status}`);
       const data=await r.json();
       if(!data?.completed||!Array.isArray(data.items)||!data.items.length)throw new Error('SALE_INCOMPLETE');
-      activeFeed=data;writeCache(data);return data;
+      writeCache(data);return data;
     } catch(error) {
-      if(cached){activeFeed=cached;return cached}
+      if(cached)return cached;
       throw error;
     }
   }
@@ -51,6 +59,7 @@
     const meta=book.matchMeta||{};
     return {
       title:meta.originalTitle||meta.title||book.title,
+      originalTitle:meta.originalTitle||'',
       author:meta.author||book.author||'',
       itemNumber:meta.itemNumber||book.isbn||'',
       regularPrice:Number(book.regularPrice||meta.regularPrice||0),
@@ -78,15 +87,22 @@
     if(isSale(input)) {
       try {
         const feed=await readFeed();
+        const genreKey=saleGenre(input);
+        const hasGenreFeed=Boolean(genreKey)&&Array.isArray(feed?.byGenre?.[genreKey]);
+        const selected=hasGenreFeed?feed.byGenre[genreKey]:(feed.items||[]);
+        activeFeed={...feed,items:selected};
         return response({
           completed:true,
-          candidates:(feed.items||[]).map(candidateFor),
+          genreKey,
+          genreTarget:Number(feed.genreTarget||10),
+          genreStatus:genreKey?feed?.genreStatus?.[genreKey]||null:null,
+          candidates:selected.map(candidateFor),
           items:[],
           page:1,
           sourceUrl:feed.sourceUrl||'https://books.rakuten.co.jp/',
           fetchedAt:feed.updatedAt,
-          parsed:Number(feed.candidateCount||feed.items.length),
-          matched:Number(feed.matched||feed.items.length)
+          parsed:Number(hasGenreFeed?selected.length:(feed.candidateCount||selected.length)),
+          matched:selected.length
         });
       } catch {
         return response({error:'セール完成データを取得できませんでした。',detail:'SALE_COMPLETED_FEED_UNAVAILABLE'},503);

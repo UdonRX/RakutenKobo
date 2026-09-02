@@ -9,6 +9,7 @@ on:
     paths:
       - 'scripts/scrape-kobo-sale.mjs'
       - 'scripts/build-completed-feeds.mjs'
+      - 'scripts/enrich-genre-feeds.mjs'
       - '.github/workflows/update-kobo-sale.yml'
       - 'public/amazon-ranking-client.js'
       - 'public/sale-snapshot-client.js'
@@ -18,12 +19,12 @@ permissions:
 
 concurrency:
   group: completed-kobo-feeds
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 35
     steps:
       - name: Check out app code
         uses: actions/checkout@v4
@@ -45,6 +46,11 @@ jobs:
         env:
           KOBO_API_BASE: https://rakuten-kobo.vercel.app
         run: node scripts/build-completed-feeds.mjs /tmp/kobo-sale-candidates.json /tmp/completed-feeds
+
+      - name: Fill each genre to ten Kobo books
+        env:
+          KOBO_API_BASE: https://rakuten-kobo.vercel.app
+        run: node scripts/enrich-genre-feeds.mjs /tmp/completed-feeds
 
       - name: Publish completed feeds to ranking-data branch
         shell: bash

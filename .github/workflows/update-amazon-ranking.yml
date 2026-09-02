@@ -9,7 +9,6 @@ on:
     paths:
       - 'scripts/scrape-amazon-ranking.mjs'
       - '.github/workflows/update-amazon-ranking.yml'
-      - 'public/amazon-ranking-client.js'
 
 permissions:
   contents: write

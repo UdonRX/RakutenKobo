@@ -1,27 +1,32 @@
 (() => {
   const nativeFetch = window.fetch.bind(window);
   const DATA_BASE = 'https://raw.githubusercontent.com/UdonRX/RakutenKobo/ranking-data/data';
-  const CACHE_PREFIX = 'kobo-completed-popular-v1:';
+  const CACHE_PREFIX = 'kobo-completed-popular-v2:';
   const CACHE_TTL = 12 * 60 * 60 * 1000;
   const activeFeeds = new Map();
 
   try {
-    // Dynamic ranking/feed caches can bypass the completed JSON loader on a new page load.
-    // Clear them every session; completed JSON has its own local cache below.
     localStorage.removeItem('kobo-feed-cache-v3');
     localStorage.removeItem('kobo-ranking-cache-v2');
     localStorage.removeItem('kobo-sale-snapshot-response-v3:all');
-    localStorage.setItem('kobo-completed-feed-migration-v1', '1');
+    localStorage.setItem('kobo-completed-feed-migration-v2', '1');
   } catch {}
 
   function urlOf(input) {
     try { return new URL(typeof input === 'string' ? input : input?.url, location.origin); }
     catch { return null; }
   }
-  function rankingPeriod(input) {
+  function savedGenre(tab) {
+    try { return JSON.parse(localStorage.getItem('kobo-genre-by-tab-v1') || '{}')?.[tab] || ''; }
+    catch { return ''; }
+  }
+  function rankingRequest(input) {
     const url=urlOf(input);
     if(url?.pathname!=='/api/kobo' || url.searchParams.get('action')!=='rankings') return null;
-    return url.searchParams.get('period') || 'week';
+    return {
+      period:url.searchParams.get('period') || 'week',
+      genreKey:url.searchParams.get('genreKey') || savedGenre('popular') || ''
+    };
   }
   function isResolve(input,init) {
     const url=urlOf(input);
@@ -50,8 +55,7 @@
   }
   function findBook(feed,candidate) {
     const maps=feedMaps(feed);
-    const keys=lookupKeys(candidate);
-    for(const key of keys) {
+    for(const key of lookupKeys(candidate)) {
       const hit=key.includes('|')?maps.exact.get(key):maps.titleOnly.get(key);
       if(hit) return hit;
     }
@@ -79,25 +83,72 @@
       if(!r.ok)throw new Error(`POPULAR_${r.status}`);
       const data=await r.json();
       if(!data?.completed||!Array.isArray(data.items)||!data.items.length)throw new Error('POPULAR_INCOMPLETE');
-      writeCache(period,data); activeFeeds.set(period,data); return data;
+      writeCache(period,data); return data;
     } catch(error) {
-      if(cached){activeFeeds.set(period,cached);return cached}
+      if(cached)return cached;
       throw error;
     }
   }
+  function selectedItems(feed,genreKey) {
+    if(genreKey && Array.isArray(feed?.byGenre?.[genreKey])) return feed.byGenre[genreKey];
+    return feed.items||[];
+  }
+  function candidateFromBook(book) {
+    const meta=book.ranking||book.matchMeta||{};
+    return {
+      title:meta.originalTitle||meta.title||book.title,
+      originalTitle:meta.originalTitle||'',
+      author:meta.author||book.author||'',
+      source:meta.source||'kobo',
+      sources:Array.isArray(meta.sources)&&meta.sources.length?meta.sources:[{source:'kobo',label:'楽天Kobo人気',rank:meta.rank||0}],
+      rank:Number(meta.rank||0)
+    };
+  }
+  function snapshotsFor(feed,items) {
+    const grouped=new Map();
+    for(const book of items||[]) {
+      const candidate=candidateFromBook(book);
+      for(const sourceInfo of candidate.sources||[]) {
+        const source=sourceInfo.source||'kobo';
+        if(!grouped.has(source)) grouped.set(source,[]);
+        grouped.get(source).push({title:candidate.title,author:candidate.author,rank:Number(sourceInfo.rank||candidate.rank||grouped.get(source).length+1)});
+      }
+    }
+    const out={};
+    for(const [source,itemsForSource] of grouped) {
+      const base=feed?.snapshots?.[source]||{};
+      out[source]={
+        id:source,
+        label:base.label||(source==='kobo'?'楽天Kobo人気':source),
+        attribution:base.attribution||(source==='kobo'?'楽天Kobo':source),
+        sourceUrl:base.sourceUrl||(source==='kobo'?'https://books.rakuten.co.jp/e-book/':''),
+        periodLabel:base.periodLabel||(source==='kobo'?'人気補完':''),
+        updatedAt:feed.updatedAt,
+        live:false,
+        items:itemsForSource
+      };
+    }
+    return out;
+  }
 
   window.fetch = async (input, init) => {
-    const period=rankingPeriod(input);
-    if(period) {
+    const req=rankingRequest(input);
+    if(req) {
       try {
-        const feed=await readFeed(period);
+        const feed=await readFeed(req.period);
+        const items=selectedItems(feed,req.genreKey);
+        const active={...feed,items};
+        activeFeeds.set(`${req.period}:${req.genreKey||'all'}`,active);
         return response({
-          period,
+          period:req.period,
           completed:true,
-          snapshots:feed.snapshots||{},
+          genreKey:req.genreKey,
+          genreTarget:Number(feed.genreTarget||10),
+          genreStatus:req.genreKey?feed?.genreStatus?.[req.genreKey]||null:null,
+          snapshots:snapshotsFor(feed,items),
           unavailable:feed.unavailable||[],
           fetchedAt:feed.updatedAt,
-          completedMatched:feed.matched||feed.items.length
+          completedMatched:items.length
         });
       } catch {
         return response({error:'人気ランキングの準備データを取得できませんでした。',detail:'POPULAR_COMPLETED_FEED_UNAVAILABLE'},503);
@@ -115,10 +166,7 @@
         const resolved=[];
         for(const candidate of items) {
           let book=null;
-          for(const feed of feeds) {
-            book=findBook(feed,candidate);
-            if(book) break;
-          }
+          for(const feed of feeds) { book=findBook(feed,candidate); if(book) break; }
           if(book) resolved.push({...book,matchMeta:candidate});
         }
         return response({items:resolved,requested:items.length,matched:resolved.length,completed:true});

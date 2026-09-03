@@ -23,6 +23,19 @@ function normalizeText(v=''){return String(v).normalize('NFKC').toLowerCase().re
 function invalidTitle(title){return /^\d+\s*件$/.test(title)||/^(レビュー|商品レビュー|もっと見る|一覧)$/.test(title)}
 function saleEndAtFromText(text){const v=cleanText(text);let m=v.match(/(20\d{2})年(\d{1,2})月(\d{1,2})日(?:[（(][^）)]{0,4}[）)])?\s*(\d{1,2}):(\d{2})まで/);if(!m)m=v.match(/(20\d{2})[\/.](\d{1,2})[\/.](\d{1,2})\s*(\d{1,2}):(\d{2})まで/);if(!m)return'';const[,y,mo,d,h,mi]=m;return`${y}-${String(mo).padStart(2,'0')}-${String(d).padStart(2,'0')}T${String(h).padStart(2,'0')}:${mi}:00+09:00`}
 function isExcludedContext(text=''){return ADULT_WORDS.some(w=>text.includes(w))||NON_PRICE_CAMPAIGN_WORDS.some(w=>text.includes(w))}
+function authorFromText(text,title=''){
+  const direct=String(text).match(/(?:著者|作者)[：:]\s*([^\n／]{1,100})/u);if(direct)return cleanText(direct[1]);
+  const lines=cleanText(text).split('\n').map(cleanText).filter(Boolean),titleKey=normalizeText(title);
+  const titleIndex=lines.findIndex(line=>normalizeText(cleanTitle(line))===titleKey||normalizeText(line).includes(titleKey));
+  const numberIndex=lines.findIndex((line,index)=>index>titleIndex&&/^商品番号[：:]/u.test(line));
+  if(titleIndex<0||numberIndex<=titleIndex)return'';
+  for(const line of lines.slice(titleIndex+1,numberIndex)){
+    if(line.length>100||/^(電子|通常価格|セール価格|シリーズ名|レビュー|商品番号)/u.test(line))continue;
+    if(/[円%]|OFF|セール|発売/u.test(line))continue;
+    return line;
+  }
+  return'';
+}
 
 async function fetchText(url,timeoutMs=20000,retries=2){let last;for(let attempt=0;attempt<=retries;attempt++){const c=new AbortController(),timer=setTimeout(()=>c.abort(),timeoutMs);try{const r=await fetch(url,{signal:c.signal,headers:{Accept:'text/html,application/xhtml+xml','Accept-Language':'ja-JP,ja;q=0.9,en;q=0.5','User-Agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/140.0.0.0 Safari/537.36'}});if(!r.ok)throw new Error(`HTTP_${r.status}`);return await r.text()}catch(error){last=error;if(attempt<retries)await sleep(600*(attempt+1))}finally{clearTimeout(timer)}}throw last}
 async function renderHtml(browser,url,{waitMs=1200,timeoutMs=30000}={}){const page=await browser.newPage({userAgent:'Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 Version/18.0 Mobile/15E148 Safari/604.1'});try{await page.goto(url,{waitUntil:'domcontentloaded',timeout:timeoutMs});await page.waitForTimeout(waitMs);return await page.content()}finally{await page.close().catch(()=>{})}}
@@ -31,7 +44,7 @@ async function mapLimit(items,limit,fn){const out=new Array(items.length);let cu
 function findBlock($,element){let node=$(element);for(let i=0;i<9;i++){node=node.parent();if(!node.length)break;const text=cleanText(node.text());if(/通常価格[：:]/.test(text)&&/セール価格[：:]/.test(text))return{node,text}}return null}
 function absoluteBookUrl(href=''){try{const u=new URL(href,'https://books.rakuten.co.jp/');return u.hostname==='books.rakuten.co.jp'&&u.pathname.startsWith('/rk/')?u.href:''}catch{return''}}
 function parseTotalCount(html){const text=cleanText(cheerio.load(html).root().text());const m=text.match(/全\s*([\d,]+)\s*件/u);return m?Number(m[1].replace(/,/g,'')):0}
-function parseSalePage(html,source={}){
+function parseSalePage(html,source={},offset=0){
   const $=cheerio.load(html),found=new Map();
   $('a[href*="/rk/"]').each((_,element)=>{
     const title=cleanTitle($(element).text());if(!title||title.length<2||title.length>180||invalidTitle(title))return;
@@ -39,22 +52,35 @@ function parseSalePage(html,source={}){
     const regular=text.match(/通常価格[：:]\s*([\d,]+)円/),sale=text.match(/セール価格[：:]\s*([\d,]+)円/);if(!regular||!sale)return;
     const regularPrice=Number(regular[1].replace(/,/g,'')),salePrice=Number(sale[1].replace(/,/g,''));if(!regularPrice||!salePrice||salePrice>=regularPrice)return;
     const url=absoluteBookUrl(String($(element).attr('href')||''));if(!url)return;
-    const number=text.match(/商品番号[：:]\s*([0-9A-Za-z-]+)/),genre=text.match(/\d{4}年\d{2}月\d{2}日発売\s*／\s*([^／]+)\s*／/),campaignFromCard=text.match(/(〖[^〗]{2,100}〗[^\n]{0,160})/),author=text.match(/(?:著者|作者)[：:]\s*([^\n／]{1,100})/);
+    const number=text.match(/商品番号[：:]\s*([0-9A-Za-z-]+)/u);
+    const detail=text.match(/(\d{4}年\d{2}月\d{2}日)発売\s*／\s*([^／]+)\s*／\s*([^／]+)\s*／/u);
+    const campaignFromCard=text.match(/(〖[^〗]{2,100}〗[^\n]{0,160})/u);
+    const reviewCountMatch=text.match(/[（(]\s*(?:レビュー)?\s*([\d,]+)\s*件[）)]/u);
+    const reviewAverageMatch=text.match(/([0-5](?:\.\d{1,2})?)\s*[（(]\s*(?:レビュー)?\s*[\d,]+\s*件[）)]/u);
+    const seriesMatch=text.match(/シリーズ名[：:]\s*([^\n]{1,140})/u);
     const img=block.node.find('img').first();const image=String(img.attr('src')||img.attr('data-src')||img.attr('data-original')||'').trim();
     const itemNumber=number?.[1]||'',key=itemNumber||url||normalizeText(title);if(!key||found.has(key))return;
     const campaignLabel=source.label||campaignFromCard?.[1]||'';
-    found.set(key,{title,author:cleanText(author?.[1]||''),itemNumber,url,image,regularPrice,salePrice,discountPercent:Math.max(1,Math.round((1-salePrice/regularPrice)*100)),saleEndAt:source.endAt||saleEndAtFromText(text),saleCampaign:campaignLabel,saleCampaigns:campaignLabel?[campaignLabel]:[],sourceGenre:genre?.[1]?.trim()||'',campaignMerch:source.merch||'',campaignUrl:source.detailUrl||source.url||'',saleSources:[source.type||'rakuten-sale-search']});
+    const reviewCount=Number((reviewCountMatch?.[1]||'0').replace(/,/g,''))||0;
+    const reviewAverage=Number(reviewAverageMatch?.[1]||0)||0;
+    const sourceRank=offset+found.size+1;
+    found.set(key,{
+      title,author:authorFromText(text,title),publisher:cleanText(detail?.[3]||''),series:cleanText(seriesMatch?.[1]||''),itemNumber,url,image,
+      salesDate:cleanText(detail?.[1]||''),reviewAverage,reviewCount,sourceRank,
+      regularPrice,salePrice,discountPercent:Math.max(1,Math.round((1-salePrice/regularPrice)*100)),saleEndAt:source.endAt||saleEndAtFromText(text),
+      saleCampaign:campaignLabel,saleCampaigns:campaignLabel?[campaignLabel]:[],sourceGenre:cleanText(detail?.[2]||''),campaignMerch:source.merch||'',campaignUrl:source.detailUrl||source.url||'',saleSources:[source.type||'rakuten-sale-search']
+    });
   });
   return[...found.values()];
 }
 function pageUrl(source,offset=0){try{const u=new URL(source.url);u.searchParams.set('h',String(PAGE_SIZE));u.searchParams.set('v','1');u.searchParams.delete('maxp');u.searchParams.delete('minp');if(offset>0)u.searchParams.set('o',String(offset));else u.searchParams.delete('o');return u.href}catch{return source.url}}
 async function collectAllPages(source){
-  const firstUrl=pageUrl(source,0),firstHtml=await fetchText(firstUrl,22000,2),first=parseSalePage(firstHtml,source),total=parseTotalCount(firstHtml);
+  const firstUrl=pageUrl(source,0),firstHtml=await fetchText(firstUrl,22000,2),first=parseSalePage(firstHtml,source,0),total=parseTotalCount(firstHtml);
   const pages=total?Math.min(MAX_PAGES_PER_SOURCE,Math.max(1,Math.ceil(total/PAGE_SIZE))):1;
   const all=[...first];console.log(`Sale source ${source.merch}: page 1/${pages}, ${first.length} sale books, total=${total||'unknown'} - ${source.label}`);
-  if(pages>1){const offsets=Array.from({length:pages-1},(_,i)=>(i+1)*PAGE_SIZE);const results=await mapLimit(offsets,PAGE_CONCURRENCY,async offset=>{const html=await fetchText(pageUrl(source,offset),22000,2);const items=parseSalePage(html,source);console.log(`Sale source ${source.merch}: offset ${offset}, ${items.length} sale books`);return items});for(const result of results)if(Array.isArray(result))all.push(...result)}
-  if(!total){let emptyStreak=0;for(let page=2;page<=MAX_PAGES_PER_SOURCE&&emptyStreak<2;page++){const offset=(page-1)*PAGE_SIZE;const items=parseSalePage(await fetchText(pageUrl(source,offset),22000,1),source);if(!items.length)emptyStreak++;else{emptyStreak=0;all.push(...items)}if(page%5===0)console.log(`Sale source ${source.merch}: probed ${page} pages`);}}
-  const merged=new Map();for(const item of all){const key=item.itemNumber||item.url||normalizeText(item.title);if(!merged.has(key))merged.set(key,item)}return{source,total,items:[...merged.values()]};
+  if(pages>1){const offsets=Array.from({length:pages-1},(_,i)=>(i+1)*PAGE_SIZE);const results=await mapLimit(offsets,PAGE_CONCURRENCY,async pageOffset=>{const html=await fetchText(pageUrl(source,pageOffset),22000,2);const items=parseSalePage(html,source,pageOffset);console.log(`Sale source ${source.merch}: offset ${pageOffset}, ${items.length} sale books`);return items});for(const result of results)if(Array.isArray(result))all.push(...result)}
+  if(!total){let emptyStreak=0;for(let page=2;page<=MAX_PAGES_PER_SOURCE&&emptyStreak<2;page++){const pageOffset=(page-1)*PAGE_SIZE;const items=parseSalePage(await fetchText(pageUrl(source,pageOffset),22000,1),source,pageOffset);if(!items.length)emptyStreak++;else{emptyStreak=0;all.push(...items)}if(page%5===0)console.log(`Sale source ${source.merch}: probed ${page} pages`);}}
+  const merged=new Map();for(const item of all){const key=item.itemNumber||item.url||normalizeText(item.title);const prev=merged.get(key);if(!prev){merged.set(key,item);continue}const prefer=Number(item.reviewCount||0)>Number(prev.reviewCount||0)?item:prev;merged.set(key,{...prefer,sourceRank:Math.min(Number(prev.sourceRank||Infinity),Number(item.sourceRank||Infinity))})}return{source,total,items:[...merged.values()]};
 }
 
 function linkContext($,element){let node=$(element),best=cleanText($(element).text());for(let depth=0;depth<8;depth++){node=node.parent();if(!node.length)break;const text=cleanText(node.text());if(text&&text.length<=1800)best=text;if((/OFF|半額|割引|セール|無料|\d+円/.test(text)||/まで/.test(text))&&text.length<=900){best=text;break}}return best}
@@ -78,7 +104,12 @@ try{
   console.log(`Discovered ${campaigns.length} sale sources; crawling every result page`);
   const fetched=await mapLimit(campaigns,SOURCE_CONCURRENCY,collectAllPages);
   const merged=new Map(),sourceCounts={},sourceTotals={};
-  function mergeCandidate(item){const key=item.itemNumber||item.url||normalizeText(item.title);if(!key)return;const prev=merged.get(key);if(!prev){merged.set(key,item);return}const campaigns=[...new Set([...(prev.saleCampaigns||[]),...(item.saleCampaigns||[])].filter(Boolean))],sources=[...new Set([...(prev.saleSources||[]),...(item.saleSources||[])].filter(Boolean))],useNew=Number(item.salePrice||Infinity)<Number(prev.salePrice||Infinity),baseItem=useNew?item:prev;merged.set(key,{...baseItem,saleCampaigns:campaigns,saleCampaign:campaigns[0]||baseItem.saleCampaign||'',saleSources:sources,saleEndAt:[prev.saleEndAt,item.saleEndAt].filter(Boolean).sort()[0]||''})}
+  function mergeCandidate(item){
+    const key=item.itemNumber||item.url||normalizeText(item.title);if(!key)return;const prev=merged.get(key);if(!prev){merged.set(key,item);return}
+    const campaignLabels=[...new Set([...(prev.saleCampaigns||[]),...(item.saleCampaigns||[])].filter(Boolean))],sources=[...new Set([...(prev.saleSources||[]),...(item.saleSources||[])].filter(Boolean))];
+    const useNew=Number(item.salePrice||Infinity)<Number(prev.salePrice||Infinity),baseItem=useNew?item:prev,reviewBest=Number(item.reviewCount||0)>Number(prev.reviewCount||0)?item:prev;
+    merged.set(key,{...baseItem,author:baseItem.author||reviewBest.author||'',publisher:baseItem.publisher||reviewBest.publisher||'',series:baseItem.series||reviewBest.series||'',reviewCount:Math.max(Number(prev.reviewCount||0),Number(item.reviewCount||0)),reviewAverage:Number(reviewBest.reviewAverage||0),sourceRank:Math.min(Number(prev.sourceRank||Infinity),Number(item.sourceRank||Infinity)),saleCampaigns:campaignLabels,saleCampaign:campaignLabels[0]||baseItem.saleCampaign||'',saleSources:sources,saleEndAt:[prev.saleEndAt,item.saleEndAt].filter(Boolean).sort()[0]||''});
+  }
   for(const result of fetched){if(!result||result.error){if(result?.item)console.warn(`Sale source ${result.item.merch} failed: ${result.error}`);continue}sourceCounts[result.source.merch]=result.items.length;sourceTotals[result.source.merch]=result.total||result.items.length;for(const item of result.items)mergeCandidate(item)}
   const items=[...merged.values()];if(items.length<5)throw new Error(`SALE_PARSE_TOO_FEW_${items.length}`);
   const payload={sourceUrl:BASE_SALE_URL,officialSaleIndex:OFFICIAL_INDEX_URL,updatedAt:new Date().toISOString(),exhaustive:true,pageSize:PAGE_SIZE,campaignCount:campaigns.length,campaigns,sourceCounts,sourceTotals,items};

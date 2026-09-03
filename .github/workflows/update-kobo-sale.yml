@@ -12,8 +12,6 @@ on:
       - 'scripts/build-all-sale-feed.mjs'
       - 'scripts/enrich-popular-genres.mjs'
       - '.github/workflows/update-kobo-sale.yml'
-      - 'public/amazon-ranking-client.js'
-      - 'public/sale-snapshot-client.js'
 
 permissions:
   contents: write
@@ -56,7 +54,7 @@ jobs:
           KOBO_API_BASE: https://rakuten-kobo.vercel.app
         run: node scripts/enrich-popular-genres.mjs /tmp/completed-feeds
 
-      - name: Replace sale feed with every verified current Kobo sale book
+      - name: Build curated sale feed from exhaustive scan
         env:
           KOBO_API_BASE: https://rakuten-kobo.vercel.app
         run: node scripts/build-all-sale-feed.mjs /tmp/kobo-sale-candidates.json /tmp/completed-feeds/kobo-sale.json

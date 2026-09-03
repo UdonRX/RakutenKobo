@@ -37,9 +37,12 @@ jobs:
           node-version: '22'
 
       - name: Install dependencies
-        run: npm install --ignore-scripts
+        run: |
+          npm install --ignore-scripts
+          npm install --no-save playwright@1.55.0
+          npx playwright install --with-deps chromium
 
-      - name: Collect sale candidates
+      - name: Collect sale candidates from Rakuten Books and rendered Kobo campaigns
         run: node scripts/scrape-kobo-sale.mjs /tmp/kobo-sale-candidates.json
 
       - name: Build completed Kobo feeds
@@ -47,10 +50,10 @@ jobs:
           KOBO_API_BASE: https://rakuten-kobo.vercel.app
         run: node scripts/build-completed-feeds.mjs /tmp/kobo-sale-candidates.json /tmp/completed-feeds
 
-      - name: Fill each genre to ten Kobo books
+      - name: Fill each genre to ten verified Kobo sale books
         env:
           KOBO_API_BASE: https://rakuten-kobo.vercel.app
-        run: node scripts/enrich-genre-feeds.mjs /tmp/completed-feeds
+        run: node scripts/enrich-genre-feeds.mjs /tmp/completed-feeds /tmp/kobo-sale-candidates.json
 
       - name: Publish completed feeds to ranking-data branch
         shell: bash

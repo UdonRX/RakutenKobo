@@ -1,7 +1,7 @@
 (() => {
   const previousFetch = window.fetch.bind(window);
   const DATA_URL = 'https://raw.githubusercontent.com/UdonRX/RakutenKobo/ranking-data/data/kobo-sale.json';
-  const CACHE_KEY = 'kobo-completed-sale-v2';
+  const CACHE_KEY = 'kobo-completed-sale-v3';
   const CACHE_TTL = 12 * 60 * 60 * 1000;
   let activeFeed=null;
 
@@ -67,7 +67,13 @@
       discountPercent:Number(book.discountPercent||meta.discountPercent||0),
       saleEndAt:book.saleEndAt||meta.saleEndAt||'',
       saleCampaign:book.saleCampaign||meta.saleCampaign||'',
-      sourceGenre:book.sourceGenre||meta.sourceGenre||''
+      saleCampaigns:book.saleCampaigns||meta.saleCampaigns||[],
+      saleSources:book.saleSources||meta.saleSources||[],
+      sourceGenre:book.sourceGenre||meta.sourceGenre||'',
+      saleVerified:Boolean(book.saleVerified),
+      verifiedAt:book.verifiedAt||'',
+      campaignMerch:book.campaignMerch||meta.campaignMerch||'',
+      campaignUrl:book.campaignUrl||meta.campaignUrl||''
     };
   }
   function findBook(candidate) {
@@ -96,10 +102,13 @@
           genreKey,
           genreTarget:Number(feed.genreTarget||10),
           genreStatus:genreKey?feed?.genreStatus?.[genreKey]||null:null,
+          campaignCount:Number(feed.campaignCount||0),
+          saleVerification:feed.saleVerification||'',
           candidates:selected.map(candidateFor),
           items:[],
           page:1,
           sourceUrl:feed.sourceUrl||'https://books.rakuten.co.jp/',
+          officialSaleIndex:feed.officialSaleIndex||'',
           fetchedAt:feed.updatedAt,
           parsed:Number(hasGenreFeed?selected.length:(feed.candidateCount||selected.length)),
           matched:selected.length
@@ -118,7 +127,7 @@
         const resolved=[];
         for(const candidate of items) {
           const book=findBook(candidate);
-          if(book) resolved.push({...book,matchMeta:candidate});
+          if(book?.saleVerified) resolved.push({...book,matchMeta:candidate});
         }
         return response({items:resolved,requested:items.length,matched:resolved.length,completed:true});
       }

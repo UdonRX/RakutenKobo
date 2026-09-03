@@ -2,10 +2,10 @@
   "kind": "popular",
   "completed": true,
   "period": "month",
-  "updatedAt": "2026-09-03T12:36:58.417Z",
+  "updatedAt": "2026-09-03T12:53:20.277Z",
   "candidateCount": 34,
   "checked": 34,
-  "matched": 14,
+  "matched": 15,
   "failedBatches": 0,
   "unavailable": [],
   "snapshots": {
@@ -42,6 +42,11 @@
           "title": "イン・ザ・メガチャーチ",
           "author": "朝井リョウ",
           "rank": 7
+        },
+        {
+          "title": "青天",
+          "author": "若林正恭",
+          "rank": 8
         },
         {
           "title": "悩みの本──あなたが本気で生きている証",
@@ -125,107 +130,50 @@
   },
   "items": [
     {
-      "id": "4310000858457",
-      "title": "多類婚姻譚",
-      "author": "凪良ゆう",
-      "publisher": "講談社",
-      "price": 2090,
-      "url": "https://books.rakuten.co.jp/rk/35543b7edf2e30ee99d978d6e6e59bdd/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9189/2000020649189.jpg?_ex=600x600",
-      "caption": "一緒に生きる。わかりあえないあなたと。\n一番近くにいる他人ーこいびとー。どうして結婚はこんなに難しくなってしまったのだろう。\n『流浪の月』『汝、星のごとく』で二度の本屋大賞を受賞した著者が描く、今そこにある愛のかたち。\nセクシュアリティ/ジェンダー、金銭感覚、世代間格差、成育環境……\nあらゆる価値観の対立の中で現代を生きるわたしたちの祈りと叫び。\n【凪良ゆう　コメント】\n「文芸書としては『星を編む』から２年半、ようやく新刊をお届けできます。\n今作は結婚について。\n婚姻譚と銘打ちながらも、婚姻への道のりがはてしなく遠い!!　これは果たして婚姻譚と言えるのか、と担当さん達と首をかしげる場面もありました。\n読んでくださった方たちと”現代の結婚”について語り合ってみたいです。」\n【収録作　紹介】\n「Thank you for your understanding」\n家族の期待に応え、ついに恋人と帰省する決意を固めた華。\n「Beautiful Dreamer」\n結婚したい。ありふれた夢のはずなのに、東京ではこんなにも遠い。\n「小鳥たち」\n離婚して、実家の書店を継いだ一葉。そこに偶然、初恋の人がやって来てーー。\n「Position Talk」\n入籍を目前にした男女。性差を越え、個としてわかり合える日は来るのか。\n「C'est la vie」\n仕事も恋も、魂を分けあった二人。だが、夢のような時間にはいつか終わりが来る。\n",
-      "salesDate": "2026年05月26日",
-      "series": "多類婚姻譚",
-      "reviewAverage": 4.27,
-      "reviewCount": 464,
-      "genreId": "101901",
-      "isbn": "4310000858457",
+      "id": "4380000407898",
+      "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+      "author": "林真理子",
+      "publisher": "幻冬舎",
+      "price": 982,
+      "url": "https://books.rakuten.co.jp/rk/1e28fc1db6b83578b06b0919e0a52cd7/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0908/2000020490908.jpg?_ex=600x600",
+      "caption": "70代は頭も体もまだ大丈夫。\nそれなりに蓄えもできている。\nでもこれまでと全く同じことをしていたらダメ。\nできないことは諦め、楽しいことを大事にし、人生の新しいステージに立とう。\n同じ年代とばかりつるまず、ダイエットはしない。\n嫌われずに自慢話をするテクニック、お金にキレイな人と思われるおごり方ーー。\n72歳の人気作家が本音で語る「健康」「おしゃれ」「仕事」「お金」「人間関係」「趣味」。\n確実に近づく「その日」を見つめ、今の1分1秒を楽しんで生きるための、痛快・人生論。\n",
+      "salesDate": "2026年05月27日",
+      "series": "",
+      "reviewAverage": 3.42,
+      "reviewCount": 37,
+      "genreId": "101907010004/101909",
+      "isbn": "4380000407898",
       "salesType": 0,
       "matchMeta": {
-        "title": "多類婚姻譚",
-        "author": "凪良ゆう",
-        "score": 100,
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 幻冬舎新書",
+        "author": "",
+        "score": 102,
         "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 5
-          },
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 25
+            "rank": 2
           }
         ],
         "source": "combined",
-        "rank": 5,
-        "originalTitle": ""
+        "rank": 8,
+        "originalTitle": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書"
       },
       "ranking": {
-        "title": "多類婚姻譚",
-        "author": "凪良ゆう",
-        "score": 100,
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 幻冬舎新書",
+        "author": "",
+        "score": 102,
         "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 5
-          },
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 25
+            "rank": 2
           }
         ],
         "source": "combined",
         "rank": 1,
-        "originalTitle": ""
-      }
-    },
-    {
-      "id": "4320000867368",
-      "title": "GOAT Summer 2026",
-      "author": "宮島未奈/尾崎世界観/山内マリコ/梨/麻布競馬場",
-      "publisher": "小学館",
-      "price": 506,
-      "url": "https://books.rakuten.co.jp/rk/f5b51183e72e30a7a80fcb62bd0705ba/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9590/2000020809590.jpg?_ex=600x600",
-      "caption": "大ヒット！話題沸騰の新文芸誌、第4号！\n〇特集「食」\n【小説】\n宮島未奈 尾崎世界観 山内マリコ 市川沙央 梨 麻布競馬場 山口未桜 前川知大 小田雅久仁 佐久間由衣 芦沢央 上條一輝 真下みこと 方丈貴恵 青柳碧人 中西智佐乃 三木三奈 村雲菜月\n【エッセイ】\n角田光代 酒徒 吉川トリコ\n【わたしの偏食 エッセイ】\n伊藤亜和 井上咲楽 けんた食堂 ジェーン・スー 絶対に終電を逃さない女 生湯葉シホ 福徳秀介 穂村弘 吉田恵里香 ヨシダナギ\n【食日記】\nでか美ちゃん\n【対談】\n山極壽一×平野紗季子\n藤原辰史×小林エリカ\n【自炊レッスン】\n山口祐加×ダ・ヴィンチ・恐山\n【私のGOAT本】\n宇多丸 宮部みゆき 山崎怜奈 米澤穂信\n【文学賞】\n第1回GO-mono長編文学賞 受賞作発表\n選考委員長:加藤シゲアキ\n【連載】\n藤ヶ谷太輔\n【ゴートアム短歌賞】\n俵万智×岸田繁\n【出せなかった手紙】\n荒井良二\n【ゴートくんがゆく！】\n印刷博物館編　インタビュー:京極夏彦館長\n【特集】『ファイア・ドーム』（辻村深月）\n他豪華企画多数！\n（底本　2026年6月発売作品）\n※底本綴じ込み付録の「ゴートくんのおべんとうしおり」は、電子書籍には含まれておりません。あらかじめご了承ください。\n※本電子書籍に掲載されている二次元バーコードは、端末の機種やアプリの仕様によっては読み取れない場合があります。その際はURLからアクセスしてください。\n※この作品はカラーが含まれます。\n",
-      "salesDate": "2026年06月10日",
-      "series": "GOAT",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101907015004/101907015001/101901002",
-      "isbn": "4320000867368",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "GOAT Summer 2026",
-        "author": "",
-        "score": 106,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 1
-          }
-        ],
-        "source": "combined",
-        "rank": 6,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "GOAT Summer 2026",
-        "author": "",
-        "score": 106,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 1
-          }
-        ],
-        "source": "combined",
-        "rank": 2,
-        "originalTitle": ""
+        "originalTitle": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書"
       }
     },
     {
@@ -271,50 +219,97 @@
           }
         ],
         "source": "combined",
-        "rank": 3,
+        "rank": 2,
         "originalTitle": "ハヤブサ消防団　森へつづく道"
       }
     },
     {
-      "id": "7225000866451",
-      "title": "悩みの本──あなたが本気で生きている証",
-      "author": "高橋佳子",
-      "publisher": "三宝出版",
-      "price": 1601,
-      "url": "https://books.rakuten.co.jp/rk/e51209b1a73e3e77aedbb241d2881782/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5897/2000020795897.jpg?_ex=600x600",
-      "caption": "人は皆、大なり小なり「悩み」をもっています。\n仕事、人間関係、家庭、健康、将来……。\nあなたは今、何に悩んでいるでしょうか？　その悩みが「早くなくなればいい」「早く解決してスッキリしたい」と思っているかもしれません。\nしかし、実は、「悩み」は、「あなたが本気で生きている証」です。\n本気で生きているからこそ、大切にしたい人やものがあるからこそ、悩む。\n本書は、そうした悩みを単に解決するのではなく、悩みの奥にある意味を見つめ直す本です。\n具体的には、以下の具体的な悩みをテーマに、10の章で構成されています。\n１．就職・転職の壁\n２．仕事での失敗\n３．職場の人間関係\n４．職場での評価\n５．夫婦関係の危機\n６．事業承継の問題\n７．後悔の連鎖\n８．運命への絶望\n９．病の不安\n10．死の恐怖\nこれらは多くの人が人生で直面する悩みです。本書はこれらを通して、なぜ悩みが生まれるのか、その奥にどんな意味があるのか、そこからどう新たな人生を始めることができるのかを見つめてゆきます。\nまた、実際に様々な悩みを経験した人が、どのようにその悩みに向き合い、どのように人生を変えていったのかという具体例も紹介されています。\n本書は、ただ悩みを解決するためのハウツー本ではありません。また、抽象的な人生論でもありません。悩みを通して人生そのものを読み直す本、想像もしなかった新たな人生の扉を開くための本です。\n本を読み終えたとき、きっと、「この悩みには意味があるのかもしれない」「そうか！この考え方いいな、好きだな」と感じていただけると思います。そこからあなたの新しい人生の旅路が始まります。\n",
-      "salesDate": "2026年06月06日",
-      "series": "悩みの本──あなたが本気で生きている証",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101907004090/101907002002/101905016001",
-      "isbn": "7225000866451",
+      "id": "4390000015358",
+      "title": "青天",
+      "author": "若林正恭",
+      "publisher": "文藝春秋",
+      "price": 1900,
+      "url": "https://books.rakuten.co.jp/rk/a6fc1b8794af3eafb7f064fac9c68dfa/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0144/2000019330144.jpg?_ex=600x600",
+      "caption": "オードリー・若林正恭、初小説！\n人にぶつかっていないと、自分が生きているかどうかよくわからなくなるーー\n総大三高の「アリ」こと中村昴が所属するアメフト部は、万年２回戦どまり。相手校の練習を隠し撮りして迎えた高３の引退大会では、強豪・遼西学園に打ち破れた。引退後、みなが受験に向かうなか、勉強にも気持ちが入らず、不良になる覚悟もないまま宙ぶらりんの日々を過ごす。自分自身の不甲斐なさにもがき続けるなかで、アリは再びアメフトと向き合う決意を固める。\n青春の苦みと悦びに満ちた、著者渾身の初小説。\n",
+      "salesDate": "2026年02月20日",
+      "series": "",
+      "reviewAverage": 4.04,
+      "reviewCount": 529,
+      "genreId": "101901",
+      "isbn": "4390000015358",
       "salesType": 0,
       "matchMeta": {
-        "title": "悩みの本──あなたが本気で生きている証",
-        "author": "高橋佳子",
-        "score": 74,
+        "title": "青天",
+        "author": "若林正恭",
+        "score": 78,
         "sources": [
           {
             "source": "tohan",
             "label": "トーハン",
-            "rank": 9
+            "rank": 8
           }
         ],
         "source": "combined",
-        "rank": 17,
+        "rank": 15,
         "originalTitle": ""
       },
       "ranking": {
-        "title": "悩みの本──あなたが本気で生きている証",
-        "author": "高橋佳子",
-        "score": 74,
+        "title": "青天",
+        "author": "若林正恭",
+        "score": 78,
         "sources": [
           {
             "source": "tohan",
             "label": "トーハン",
-            "rank": 9
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 3,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "4310000894648",
+      "title": "殺し屋の出世術",
+      "author": "野宮有",
+      "publisher": "講談社",
+      "price": 2255,
+      "url": "https://books.rakuten.co.jp/rk/a71fc066f4be3e6cad949854e1502098/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0614/2000021290614.jpg?_ex=600x600",
+      "caption": "史上初の快挙！\n本屋大賞6位×江戸川乱歩賞\n『殺し屋の営業術』鳥肌モノの伏線回収ふたたび\n上司を操り、会社を掌握する\n禁断のテクニック教えます。\n〔ミッション〕\n敗者は死。\n命を賭けた出世レースを、営業術で勝利せよ。\n張り巡らされた二重三重のトリック。\nひっくり返すのはダークヒロイン2人！\n仕事で使えるテクニック満載！？\nどんでん返し営業論理ミステリー！！\n【あらすじ】\n凄腕営業マン鳥井が殺人請負会社〈極東コンサルティング〉に入社してから半年。\n個性的な殺し屋たちを束ねながら、順調に業績を重ねていた。\nだが突如、謎の男・鷹見に拉致され、 上部組織〈巣ヶ谷一家〉組長のもとへ連行される。\n告げられたのは、鳥井と鷹見で争う出世レースの開幕。\n勝者には〈極東コンサルティング〉 社長の座が、敗者には死が与えられる。\nもちろん、鳥井に拒否権はない。\n丸腰の営業マンは華麗なるトークを武器に、生き残ることができるのか！？\n情け容赦ない頭脳戦が始まる！\n",
+      "salesDate": "2026年07月28日",
+      "series": "殺し屋の出世術",
+      "reviewAverage": 4.51,
+      "reviewCount": 88,
+      "genreId": "101902",
+      "isbn": "4310000894648",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "殺し屋の出世術",
+        "author": "",
+        "score": 5,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 28
+          }
+        ],
+        "source": "combined",
+        "rank": 33,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "殺し屋の出世術",
+        "author": "",
+        "score": 5,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 28
           }
         ],
         "source": "combined",
@@ -494,50 +489,154 @@
       }
     },
     {
-      "id": "4380000407898",
-      "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-      "author": "林真理子",
-      "publisher": "幻冬舎",
-      "price": 982,
-      "url": "https://books.rakuten.co.jp/rk/1e28fc1db6b83578b06b0919e0a52cd7/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0908/2000020490908.jpg?_ex=600x600",
-      "caption": "70代は頭も体もまだ大丈夫。\nそれなりに蓄えもできている。\nでもこれまでと全く同じことをしていたらダメ。\nできないことは諦め、楽しいことを大事にし、人生の新しいステージに立とう。\n同じ年代とばかりつるまず、ダイエットはしない。\n嫌われずに自慢話をするテクニック、お金にキレイな人と思われるおごり方ーー。\n72歳の人気作家が本音で語る「健康」「おしゃれ」「仕事」「お金」「人間関係」「趣味」。\n確実に近づく「その日」を見つめ、今の1分1秒を楽しんで生きるための、痛快・人生論。\n",
-      "salesDate": "2026年05月27日",
-      "series": "",
-      "reviewAverage": 3.42,
-      "reviewCount": 37,
-      "genreId": "101907010004/101909",
-      "isbn": "4380000407898",
+      "id": "4310000858457",
+      "title": "多類婚姻譚",
+      "author": "凪良ゆう",
+      "publisher": "講談社",
+      "price": 2090,
+      "url": "https://books.rakuten.co.jp/rk/35543b7edf2e30ee99d978d6e6e59bdd/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9189/2000020649189.jpg?_ex=600x600",
+      "caption": "一緒に生きる。わかりあえないあなたと。\n一番近くにいる他人ーこいびとー。どうして結婚はこんなに難しくなってしまったのだろう。\n『流浪の月』『汝、星のごとく』で二度の本屋大賞を受賞した著者が描く、今そこにある愛のかたち。\nセクシュアリティ/ジェンダー、金銭感覚、世代間格差、成育環境……\nあらゆる価値観の対立の中で現代を生きるわたしたちの祈りと叫び。\n【凪良ゆう　コメント】\n「文芸書としては『星を編む』から２年半、ようやく新刊をお届けできます。\n今作は結婚について。\n婚姻譚と銘打ちながらも、婚姻への道のりがはてしなく遠い!!　これは果たして婚姻譚と言えるのか、と担当さん達と首をかしげる場面もありました。\n読んでくださった方たちと”現代の結婚”について語り合ってみたいです。」\n【収録作　紹介】\n「Thank you for your understanding」\n家族の期待に応え、ついに恋人と帰省する決意を固めた華。\n「Beautiful Dreamer」\n結婚したい。ありふれた夢のはずなのに、東京ではこんなにも遠い。\n「小鳥たち」\n離婚して、実家の書店を継いだ一葉。そこに偶然、初恋の人がやって来てーー。\n「Position Talk」\n入籍を目前にした男女。性差を越え、個としてわかり合える日は来るのか。\n「C'est la vie」\n仕事も恋も、魂を分けあった二人。だが、夢のような時間にはいつか終わりが来る。\n",
+      "salesDate": "2026年05月26日",
+      "series": "多類婚姻譚",
+      "reviewAverage": 4.27,
+      "reviewCount": 464,
+      "genreId": "101901",
+      "isbn": "4310000858457",
       "salesType": 0,
       "matchMeta": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 幻冬舎新書",
-        "author": "",
-        "score": 102,
+        "title": "多類婚姻譚",
+        "author": "凪良ゆう",
+        "score": 100,
         "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 5
+          },
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 2
+            "rank": 25
           }
         ],
         "source": "combined",
-        "rank": 8,
-        "originalTitle": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書"
+        "rank": 5,
+        "originalTitle": ""
       },
       "ranking": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 幻冬舎新書",
-        "author": "",
-        "score": 102,
+        "title": "多類婚姻譚",
+        "author": "凪良ゆう",
+        "score": 100,
         "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 5
+          },
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 2
+            "rank": 25
           }
         ],
         "source": "combined",
         "rank": 8,
-        "originalTitle": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書"
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "4320000867368",
+      "title": "GOAT Summer 2026",
+      "author": "宮島未奈/尾崎世界観/山内マリコ/梨/麻布競馬場",
+      "publisher": "小学館",
+      "price": 506,
+      "url": "https://books.rakuten.co.jp/rk/f5b51183e72e30a7a80fcb62bd0705ba/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9590/2000020809590.jpg?_ex=600x600",
+      "caption": "大ヒット！話題沸騰の新文芸誌、第4号！\n〇特集「食」\n【小説】\n宮島未奈 尾崎世界観 山内マリコ 市川沙央 梨 麻布競馬場 山口未桜 前川知大 小田雅久仁 佐久間由衣 芦沢央 上條一輝 真下みこと 方丈貴恵 青柳碧人 中西智佐乃 三木三奈 村雲菜月\n【エッセイ】\n角田光代 酒徒 吉川トリコ\n【わたしの偏食 エッセイ】\n伊藤亜和 井上咲楽 けんた食堂 ジェーン・スー 絶対に終電を逃さない女 生湯葉シホ 福徳秀介 穂村弘 吉田恵里香 ヨシダナギ\n【食日記】\nでか美ちゃん\n【対談】\n山極壽一×平野紗季子\n藤原辰史×小林エリカ\n【自炊レッスン】\n山口祐加×ダ・ヴィンチ・恐山\n【私のGOAT本】\n宇多丸 宮部みゆき 山崎怜奈 米澤穂信\n【文学賞】\n第1回GO-mono長編文学賞 受賞作発表\n選考委員長:加藤シゲアキ\n【連載】\n藤ヶ谷太輔\n【ゴートアム短歌賞】\n俵万智×岸田繁\n【出せなかった手紙】\n荒井良二\n【ゴートくんがゆく！】\n印刷博物館編　インタビュー:京極夏彦館長\n【特集】『ファイア・ドーム』（辻村深月）\n他豪華企画多数！\n（底本　2026年6月発売作品）\n※底本綴じ込み付録の「ゴートくんのおべんとうしおり」は、電子書籍には含まれておりません。あらかじめご了承ください。\n※本電子書籍に掲載されている二次元バーコードは、端末の機種やアプリの仕様によっては読み取れない場合があります。その際はURLからアクセスしてください。\n※この作品はカラーが含まれます。\n",
+      "salesDate": "2026年06月10日",
+      "series": "GOAT",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101907015004/101907015001/101901002",
+      "isbn": "4320000867368",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "GOAT Summer 2026",
+        "author": "",
+        "score": 106,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 1
+          }
+        ],
+        "source": "combined",
+        "rank": 6,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "GOAT Summer 2026",
+        "author": "",
+        "score": 106,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 1
+          }
+        ],
+        "source": "combined",
+        "rank": 9,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "7225000866451",
+      "title": "悩みの本──あなたが本気で生きている証",
+      "author": "高橋佳子",
+      "publisher": "三宝出版",
+      "price": 1601,
+      "url": "https://books.rakuten.co.jp/rk/e51209b1a73e3e77aedbb241d2881782/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5897/2000020795897.jpg?_ex=600x600",
+      "caption": "人は皆、大なり小なり「悩み」をもっています。\n仕事、人間関係、家庭、健康、将来……。\nあなたは今、何に悩んでいるでしょうか？　その悩みが「早くなくなればいい」「早く解決してスッキリしたい」と思っているかもしれません。\nしかし、実は、「悩み」は、「あなたが本気で生きている証」です。\n本気で生きているからこそ、大切にしたい人やものがあるからこそ、悩む。\n本書は、そうした悩みを単に解決するのではなく、悩みの奥にある意味を見つめ直す本です。\n具体的には、以下の具体的な悩みをテーマに、10の章で構成されています。\n１．就職・転職の壁\n２．仕事での失敗\n３．職場の人間関係\n４．職場での評価\n５．夫婦関係の危機\n６．事業承継の問題\n７．後悔の連鎖\n８．運命への絶望\n９．病の不安\n10．死の恐怖\nこれらは多くの人が人生で直面する悩みです。本書はこれらを通して、なぜ悩みが生まれるのか、その奥にどんな意味があるのか、そこからどう新たな人生を始めることができるのかを見つめてゆきます。\nまた、実際に様々な悩みを経験した人が、どのようにその悩みに向き合い、どのように人生を変えていったのかという具体例も紹介されています。\n本書は、ただ悩みを解決するためのハウツー本ではありません。また、抽象的な人生論でもありません。悩みを通して人生そのものを読み直す本、想像もしなかった新たな人生の扉を開くための本です。\n本を読み終えたとき、きっと、「この悩みには意味があるのかもしれない」「そうか！この考え方いいな、好きだな」と感じていただけると思います。そこからあなたの新しい人生の旅路が始まります。\n",
+      "salesDate": "2026年06月06日",
+      "series": "悩みの本──あなたが本気で生きている証",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101907004090/101907002002/101905016001",
+      "isbn": "7225000866451",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "悩みの本──あなたが本気で生きている証",
+        "author": "高橋佳子",
+        "score": 74,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 17,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "悩みの本──あなたが本気で生きている証",
+        "author": "高橋佳子",
+        "score": 74,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 10,
+        "originalTitle": ""
       }
     },
     {
@@ -583,7 +682,7 @@
           }
         ],
         "source": "combined",
-        "rank": 9,
+        "rank": 11,
         "originalTitle": "夏帆 - Ｔｈｅ　Ｔａｌｅ　ｏｆ　ＫＡＨＯ"
       }
     },
@@ -630,7 +729,7 @@
           }
         ],
         "source": "combined",
-        "rank": 10,
+        "rank": 12,
         "originalTitle": ""
       }
     },
@@ -677,7 +776,7 @@
           }
         ],
         "source": "combined",
-        "rank": 11,
+        "rank": 13,
         "originalTitle": "つかめ！理科ダマン 〈１２〉 最強ロボット決戦！編"
       }
     },
@@ -724,7 +823,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12,
+        "rank": 14,
         "originalTitle": ""
       }
     },
@@ -771,164 +870,13 @@
           }
         ],
         "source": "combined",
-        "rank": 13,
+        "rank": 15,
         "originalTitle": "星のカービィ　夢幻の歯車　霧につつまれた大事件！？ 角川つばさ文庫"
-      }
-    },
-    {
-      "id": "4310000894648",
-      "title": "殺し屋の出世術",
-      "author": "野宮有",
-      "publisher": "講談社",
-      "price": 2255,
-      "url": "https://books.rakuten.co.jp/rk/a71fc066f4be3e6cad949854e1502098/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0614/2000021290614.jpg?_ex=600x600",
-      "caption": "史上初の快挙！\n本屋大賞6位×江戸川乱歩賞\n『殺し屋の営業術』鳥肌モノの伏線回収ふたたび\n上司を操り、会社を掌握する\n禁断のテクニック教えます。\n〔ミッション〕\n敗者は死。\n命を賭けた出世レースを、営業術で勝利せよ。\n張り巡らされた二重三重のトリック。\nひっくり返すのはダークヒロイン2人！\n仕事で使えるテクニック満載！？\nどんでん返し営業論理ミステリー！！\n【あらすじ】\n凄腕営業マン鳥井が殺人請負会社〈極東コンサルティング〉に入社してから半年。\n個性的な殺し屋たちを束ねながら、順調に業績を重ねていた。\nだが突如、謎の男・鷹見に拉致され、 上部組織〈巣ヶ谷一家〉組長のもとへ連行される。\n告げられたのは、鳥井と鷹見で争う出世レースの開幕。\n勝者には〈極東コンサルティング〉 社長の座が、敗者には死が与えられる。\nもちろん、鳥井に拒否権はない。\n丸腰の営業マンは華麗なるトークを武器に、生き残ることができるのか！？\n情け容赦ない頭脳戦が始まる！\n",
-      "salesDate": "2026年07月28日",
-      "series": "殺し屋の出世術",
-      "reviewAverage": 4.51,
-      "reviewCount": 88,
-      "genreId": "101902",
-      "isbn": "4310000894648",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "殺し屋の出世術",
-        "author": "",
-        "score": 5,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 28
-          }
-        ],
-        "source": "combined",
-        "rank": 33,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "殺し屋の出世術",
-        "author": "",
-        "score": 5,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 28
-          }
-        ],
-        "source": "combined",
-        "rank": 14,
-        "originalTitle": ""
       }
     }
   ],
   "byGenre": {
     "fiction": [
-      {
-        "id": "4310000858457",
-        "title": "多類婚姻譚",
-        "author": "凪良ゆう",
-        "publisher": "講談社",
-        "price": 2090,
-        "url": "https://books.rakuten.co.jp/rk/35543b7edf2e30ee99d978d6e6e59bdd/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9189/2000020649189.jpg?_ex=600x600",
-        "caption": "一緒に生きる。わかりあえないあなたと。\n一番近くにいる他人ーこいびとー。どうして結婚はこんなに難しくなってしまったのだろう。\n『流浪の月』『汝、星のごとく』で二度の本屋大賞を受賞した著者が描く、今そこにある愛のかたち。\nセクシュアリティ/ジェンダー、金銭感覚、世代間格差、成育環境……\nあらゆる価値観の対立の中で現代を生きるわたしたちの祈りと叫び。\n【凪良ゆう　コメント】\n「文芸書としては『星を編む』から２年半、ようやく新刊をお届けできます。\n今作は結婚について。\n婚姻譚と銘打ちながらも、婚姻への道のりがはてしなく遠い!!　これは果たして婚姻譚と言えるのか、と担当さん達と首をかしげる場面もありました。\n読んでくださった方たちと”現代の結婚”について語り合ってみたいです。」\n【収録作　紹介】\n「Thank you for your understanding」\n家族の期待に応え、ついに恋人と帰省する決意を固めた華。\n「Beautiful Dreamer」\n結婚したい。ありふれた夢のはずなのに、東京ではこんなにも遠い。\n「小鳥たち」\n離婚して、実家の書店を継いだ一葉。そこに偶然、初恋の人がやって来てーー。\n「Position Talk」\n入籍を目前にした男女。性差を越え、個としてわかり合える日は来るのか。\n「C'est la vie」\n仕事も恋も、魂を分けあった二人。だが、夢のような時間にはいつか終わりが来る。\n",
-        "salesDate": "2026年05月26日",
-        "series": "多類婚姻譚",
-        "reviewAverage": 4.27,
-        "reviewCount": 464,
-        "genreId": "101901",
-        "isbn": "4310000858457",
-        "salesType": 0,
-        "matchMeta": {
-          "title": "多類婚姻譚",
-          "author": "凪良ゆう",
-          "score": 100,
-          "sources": [
-            {
-              "source": "tohan",
-              "label": "トーハン",
-              "rank": 5
-            },
-            {
-              "source": "kinokuniya",
-              "label": "紀伊國屋書店",
-              "rank": 25
-            }
-          ],
-          "source": "combined",
-          "rank": 5,
-          "originalTitle": ""
-        },
-        "ranking": {
-          "title": "多類婚姻譚",
-          "author": "凪良ゆう",
-          "score": 100,
-          "sources": [
-            {
-              "source": "tohan",
-              "label": "トーハン",
-              "rank": 5
-            },
-            {
-              "source": "kinokuniya",
-              "label": "紀伊國屋書店",
-              "rank": 25
-            }
-          ],
-          "source": "combined",
-          "rank": 1,
-          "originalTitle": ""
-        }
-      },
-      {
-        "id": "4320000867368",
-        "title": "GOAT Summer 2026",
-        "author": "宮島未奈/尾崎世界観/山内マリコ/梨/麻布競馬場",
-        "publisher": "小学館",
-        "price": 506,
-        "url": "https://books.rakuten.co.jp/rk/f5b51183e72e30a7a80fcb62bd0705ba/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9590/2000020809590.jpg?_ex=600x600",
-        "caption": "大ヒット！話題沸騰の新文芸誌、第4号！\n〇特集「食」\n【小説】\n宮島未奈 尾崎世界観 山内マリコ 市川沙央 梨 麻布競馬場 山口未桜 前川知大 小田雅久仁 佐久間由衣 芦沢央 上條一輝 真下みこと 方丈貴恵 青柳碧人 中西智佐乃 三木三奈 村雲菜月\n【エッセイ】\n角田光代 酒徒 吉川トリコ\n【わたしの偏食 エッセイ】\n伊藤亜和 井上咲楽 けんた食堂 ジェーン・スー 絶対に終電を逃さない女 生湯葉シホ 福徳秀介 穂村弘 吉田恵里香 ヨシダナギ\n【食日記】\nでか美ちゃん\n【対談】\n山極壽一×平野紗季子\n藤原辰史×小林エリカ\n【自炊レッスン】\n山口祐加×ダ・ヴィンチ・恐山\n【私のGOAT本】\n宇多丸 宮部みゆき 山崎怜奈 米澤穂信\n【文学賞】\n第1回GO-mono長編文学賞 受賞作発表\n選考委員長:加藤シゲアキ\n【連載】\n藤ヶ谷太輔\n【ゴートアム短歌賞】\n俵万智×岸田繁\n【出せなかった手紙】\n荒井良二\n【ゴートくんがゆく！】\n印刷博物館編　インタビュー:京極夏彦館長\n【特集】『ファイア・ドーム』（辻村深月）\n他豪華企画多数！\n（底本　2026年6月発売作品）\n※底本綴じ込み付録の「ゴートくんのおべんとうしおり」は、電子書籍には含まれておりません。あらかじめご了承ください。\n※本電子書籍に掲載されている二次元バーコードは、端末の機種やアプリの仕様によっては読み取れない場合があります。その際はURLからアクセスしてください。\n※この作品はカラーが含まれます。\n",
-        "salesDate": "2026年06月10日",
-        "series": "GOAT",
-        "reviewAverage": 0,
-        "reviewCount": 0,
-        "genreId": "101907015004/101907015001/101901002",
-        "isbn": "4320000867368",
-        "salesType": 0,
-        "matchMeta": {
-          "title": "GOAT Summer 2026",
-          "author": "",
-          "score": 106,
-          "sources": [
-            {
-              "source": "tohan",
-              "label": "トーハン",
-              "rank": 1
-            }
-          ],
-          "source": "combined",
-          "rank": 6,
-          "originalTitle": ""
-        },
-        "ranking": {
-          "title": "GOAT Summer 2026",
-          "author": "",
-          "score": 106,
-          "sources": [
-            {
-              "source": "tohan",
-              "label": "トーハン",
-              "rank": 1
-            }
-          ],
-          "source": "combined",
-          "rank": 2,
-          "originalTitle": ""
-        }
-      },
       {
         "id": "4820000903843",
         "title": "ハヤブサ消防団　森へつづく道",
@@ -972,8 +920,55 @@
             }
           ],
           "source": "combined",
-          "rank": 3,
+          "rank": 2,
           "originalTitle": "ハヤブサ消防団　森へつづく道"
+        }
+      },
+      {
+        "id": "4390000015358",
+        "title": "青天",
+        "author": "若林正恭",
+        "publisher": "文藝春秋",
+        "price": 1900,
+        "url": "https://books.rakuten.co.jp/rk/a6fc1b8794af3eafb7f064fac9c68dfa/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0144/2000019330144.jpg?_ex=600x600",
+        "caption": "オードリー・若林正恭、初小説！\n人にぶつかっていないと、自分が生きているかどうかよくわからなくなるーー\n総大三高の「アリ」こと中村昴が所属するアメフト部は、万年２回戦どまり。相手校の練習を隠し撮りして迎えた高３の引退大会では、強豪・遼西学園に打ち破れた。引退後、みなが受験に向かうなか、勉強にも気持ちが入らず、不良になる覚悟もないまま宙ぶらりんの日々を過ごす。自分自身の不甲斐なさにもがき続けるなかで、アリは再びアメフトと向き合う決意を固める。\n青春の苦みと悦びに満ちた、著者渾身の初小説。\n",
+        "salesDate": "2026年02月20日",
+        "series": "",
+        "reviewAverage": 4.04,
+        "reviewCount": 529,
+        "genreId": "101901",
+        "isbn": "4390000015358",
+        "salesType": 0,
+        "matchMeta": {
+          "title": "青天",
+          "author": "若林正恭",
+          "score": 78,
+          "sources": [
+            {
+              "source": "tohan",
+              "label": "トーハン",
+              "rank": 8
+            }
+          ],
+          "source": "combined",
+          "rank": 15,
+          "originalTitle": ""
+        },
+        "ranking": {
+          "title": "青天",
+          "author": "若林正恭",
+          "score": 78,
+          "sources": [
+            {
+              "source": "tohan",
+              "label": "トーハン",
+              "rank": 8
+            }
+          ],
+          "source": "combined",
+          "rank": 3,
+          "originalTitle": ""
         }
       },
       {
@@ -1148,6 +1143,110 @@
         }
       },
       {
+        "id": "4310000858457",
+        "title": "多類婚姻譚",
+        "author": "凪良ゆう",
+        "publisher": "講談社",
+        "price": 2090,
+        "url": "https://books.rakuten.co.jp/rk/35543b7edf2e30ee99d978d6e6e59bdd/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9189/2000020649189.jpg?_ex=600x600",
+        "caption": "一緒に生きる。わかりあえないあなたと。\n一番近くにいる他人ーこいびとー。どうして結婚はこんなに難しくなってしまったのだろう。\n『流浪の月』『汝、星のごとく』で二度の本屋大賞を受賞した著者が描く、今そこにある愛のかたち。\nセクシュアリティ/ジェンダー、金銭感覚、世代間格差、成育環境……\nあらゆる価値観の対立の中で現代を生きるわたしたちの祈りと叫び。\n【凪良ゆう　コメント】\n「文芸書としては『星を編む』から２年半、ようやく新刊をお届けできます。\n今作は結婚について。\n婚姻譚と銘打ちながらも、婚姻への道のりがはてしなく遠い!!　これは果たして婚姻譚と言えるのか、と担当さん達と首をかしげる場面もありました。\n読んでくださった方たちと”現代の結婚”について語り合ってみたいです。」\n【収録作　紹介】\n「Thank you for your understanding」\n家族の期待に応え、ついに恋人と帰省する決意を固めた華。\n「Beautiful Dreamer」\n結婚したい。ありふれた夢のはずなのに、東京ではこんなにも遠い。\n「小鳥たち」\n離婚して、実家の書店を継いだ一葉。そこに偶然、初恋の人がやって来てーー。\n「Position Talk」\n入籍を目前にした男女。性差を越え、個としてわかり合える日は来るのか。\n「C'est la vie」\n仕事も恋も、魂を分けあった二人。だが、夢のような時間にはいつか終わりが来る。\n",
+        "salesDate": "2026年05月26日",
+        "series": "多類婚姻譚",
+        "reviewAverage": 4.27,
+        "reviewCount": 464,
+        "genreId": "101901",
+        "isbn": "4310000858457",
+        "salesType": 0,
+        "matchMeta": {
+          "title": "多類婚姻譚",
+          "author": "凪良ゆう",
+          "score": 100,
+          "sources": [
+            {
+              "source": "tohan",
+              "label": "トーハン",
+              "rank": 5
+            },
+            {
+              "source": "kinokuniya",
+              "label": "紀伊國屋書店",
+              "rank": 25
+            }
+          ],
+          "source": "combined",
+          "rank": 5,
+          "originalTitle": ""
+        },
+        "ranking": {
+          "title": "多類婚姻譚",
+          "author": "凪良ゆう",
+          "score": 100,
+          "sources": [
+            {
+              "source": "tohan",
+              "label": "トーハン",
+              "rank": 5
+            },
+            {
+              "source": "kinokuniya",
+              "label": "紀伊國屋書店",
+              "rank": 25
+            }
+          ],
+          "source": "combined",
+          "rank": 8,
+          "originalTitle": ""
+        }
+      },
+      {
+        "id": "4320000867368",
+        "title": "GOAT Summer 2026",
+        "author": "宮島未奈/尾崎世界観/山内マリコ/梨/麻布競馬場",
+        "publisher": "小学館",
+        "price": 506,
+        "url": "https://books.rakuten.co.jp/rk/f5b51183e72e30a7a80fcb62bd0705ba/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9590/2000020809590.jpg?_ex=600x600",
+        "caption": "大ヒット！話題沸騰の新文芸誌、第4号！\n〇特集「食」\n【小説】\n宮島未奈 尾崎世界観 山内マリコ 市川沙央 梨 麻布競馬場 山口未桜 前川知大 小田雅久仁 佐久間由衣 芦沢央 上條一輝 真下みこと 方丈貴恵 青柳碧人 中西智佐乃 三木三奈 村雲菜月\n【エッセイ】\n角田光代 酒徒 吉川トリコ\n【わたしの偏食 エッセイ】\n伊藤亜和 井上咲楽 けんた食堂 ジェーン・スー 絶対に終電を逃さない女 生湯葉シホ 福徳秀介 穂村弘 吉田恵里香 ヨシダナギ\n【食日記】\nでか美ちゃん\n【対談】\n山極壽一×平野紗季子\n藤原辰史×小林エリカ\n【自炊レッスン】\n山口祐加×ダ・ヴィンチ・恐山\n【私のGOAT本】\n宇多丸 宮部みゆき 山崎怜奈 米澤穂信\n【文学賞】\n第1回GO-mono長編文学賞 受賞作発表\n選考委員長:加藤シゲアキ\n【連載】\n藤ヶ谷太輔\n【ゴートアム短歌賞】\n俵万智×岸田繁\n【出せなかった手紙】\n荒井良二\n【ゴートくんがゆく！】\n印刷博物館編　インタビュー:京極夏彦館長\n【特集】『ファイア・ドーム』（辻村深月）\n他豪華企画多数！\n（底本　2026年6月発売作品）\n※底本綴じ込み付録の「ゴートくんのおべんとうしおり」は、電子書籍には含まれておりません。あらかじめご了承ください。\n※本電子書籍に掲載されている二次元バーコードは、端末の機種やアプリの仕様によっては読み取れない場合があります。その際はURLからアクセスしてください。\n※この作品はカラーが含まれます。\n",
+        "salesDate": "2026年06月10日",
+        "series": "GOAT",
+        "reviewAverage": 0,
+        "reviewCount": 0,
+        "genreId": "101907015004/101907015001/101901002",
+        "isbn": "4320000867368",
+        "salesType": 0,
+        "matchMeta": {
+          "title": "GOAT Summer 2026",
+          "author": "",
+          "score": 106,
+          "sources": [
+            {
+              "source": "tohan",
+              "label": "トーハン",
+              "rank": 1
+            }
+          ],
+          "source": "combined",
+          "rank": 6,
+          "originalTitle": ""
+        },
+        "ranking": {
+          "title": "GOAT Summer 2026",
+          "author": "",
+          "score": 106,
+          "sources": [
+            {
+              "source": "tohan",
+              "label": "トーハン",
+              "rank": 1
+            }
+          ],
+          "source": "combined",
+          "rank": 9,
+          "originalTitle": ""
+        }
+      },
+      {
         "id": "4340008066911",
         "title": "夏帆ーThe Tale of KAHOー",
         "author": "村上春樹",
@@ -1190,7 +1289,7 @@
             }
           ],
           "source": "combined",
-          "rank": 9,
+          "rank": 11,
           "originalTitle": "夏帆 - Ｔｈｅ　Ｔａｌｅ　ｏｆ　ＫＡＨＯ"
         }
       },
@@ -1237,7 +1336,7 @@
             }
           ],
           "source": "combined",
-          "rank": 12,
+          "rank": 14,
           "originalTitle": ""
         }
       },
@@ -1256,23 +1355,6 @@
         "reviewCount": 4670,
         "genreId": "101901",
         "isbn": "4910000287747",
-        "salesType": 0
-      },
-      {
-        "id": "4390000004602",
-        "title": "コンビニ人間",
-        "author": "村田沙耶香",
-        "publisher": "文藝春秋",
-        "price": 690,
-        "url": "https://books.rakuten.co.jp/rk/c9944e9b1e9f36f6b86d5b82d7e39ad8/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9442/2000006719442.jpg?_ex=600x600",
-        "caption": "「普通」とは何か？\n現代の実存を軽やかに問う第155回芥川賞受賞作\n36歳未婚、彼氏なし。コンビニのバイト歴18年目の古倉恵子。\n日々コンビニ食を食べ、夢の中でもレジを打ち、\n「店員」でいるときのみ世界の歯車になれるーー。\n「いらっしゃいませー!!」\nお客様がたてる音に負けじと、今日も声を張り上げる。\nある日、婚活目的の新入り男性・白羽がやってきて、\nそんなコンビニ的生き方は恥ずかしい、と突きつけられるが……。\n累計92万部突破&20カ国語に翻訳決定。\n世界各国でベストセラーの話題の書。\n解説・中村文則\n",
-        "salesDate": "2018年09月04日",
-        "series": "",
-        "reviewAverage": 3.87,
-        "reviewCount": 4438,
-        "genreId": "101901",
-        "isbn": "4390000004602",
         "salesType": 0
       }
     ],
@@ -1320,8 +1402,55 @@
             }
           ],
           "source": "combined",
-          "rank": 3,
+          "rank": 2,
           "originalTitle": "ハヤブサ消防団　森へつづく道"
+        }
+      },
+      {
+        "id": "4310000894648",
+        "title": "殺し屋の出世術",
+        "author": "野宮有",
+        "publisher": "講談社",
+        "price": 2255,
+        "url": "https://books.rakuten.co.jp/rk/a71fc066f4be3e6cad949854e1502098/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0614/2000021290614.jpg?_ex=600x600",
+        "caption": "史上初の快挙！\n本屋大賞6位×江戸川乱歩賞\n『殺し屋の営業術』鳥肌モノの伏線回収ふたたび\n上司を操り、会社を掌握する\n禁断のテクニック教えます。\n〔ミッション〕\n敗者は死。\n命を賭けた出世レースを、営業術で勝利せよ。\n張り巡らされた二重三重のトリック。\nひっくり返すのはダークヒロイン2人！\n仕事で使えるテクニック満載！？\nどんでん返し営業論理ミステリー！！\n【あらすじ】\n凄腕営業マン鳥井が殺人請負会社〈極東コンサルティング〉に入社してから半年。\n個性的な殺し屋たちを束ねながら、順調に業績を重ねていた。\nだが突如、謎の男・鷹見に拉致され、 上部組織〈巣ヶ谷一家〉組長のもとへ連行される。\n告げられたのは、鳥井と鷹見で争う出世レースの開幕。\n勝者には〈極東コンサルティング〉 社長の座が、敗者には死が与えられる。\nもちろん、鳥井に拒否権はない。\n丸腰の営業マンは華麗なるトークを武器に、生き残ることができるのか！？\n情け容赦ない頭脳戦が始まる！\n",
+        "salesDate": "2026年07月28日",
+        "series": "殺し屋の出世術",
+        "reviewAverage": 4.51,
+        "reviewCount": 88,
+        "genreId": "101902",
+        "isbn": "4310000894648",
+        "salesType": 0,
+        "matchMeta": {
+          "title": "殺し屋の出世術",
+          "author": "",
+          "score": 5,
+          "sources": [
+            {
+              "source": "kinokuniya",
+              "label": "紀伊國屋書店",
+              "rank": 28
+            }
+          ],
+          "source": "combined",
+          "rank": 33,
+          "originalTitle": ""
+        },
+        "ranking": {
+          "title": "殺し屋の出世術",
+          "author": "",
+          "score": 5,
+          "sources": [
+            {
+              "source": "kinokuniya",
+              "label": "紀伊國屋書店",
+              "rank": 28
+            }
+          ],
+          "source": "combined",
+          "rank": 4,
+          "originalTitle": ""
         }
       },
       {
@@ -1435,53 +1564,6 @@
           ],
           "source": "combined",
           "rank": 6,
-          "originalTitle": ""
-        }
-      },
-      {
-        "id": "4310000894648",
-        "title": "殺し屋の出世術",
-        "author": "野宮有",
-        "publisher": "講談社",
-        "price": 2255,
-        "url": "https://books.rakuten.co.jp/rk/a71fc066f4be3e6cad949854e1502098/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0614/2000021290614.jpg?_ex=600x600",
-        "caption": "史上初の快挙！\n本屋大賞6位×江戸川乱歩賞\n『殺し屋の営業術』鳥肌モノの伏線回収ふたたび\n上司を操り、会社を掌握する\n禁断のテクニック教えます。\n〔ミッション〕\n敗者は死。\n命を賭けた出世レースを、営業術で勝利せよ。\n張り巡らされた二重三重のトリック。\nひっくり返すのはダークヒロイン2人！\n仕事で使えるテクニック満載！？\nどんでん返し営業論理ミステリー！！\n【あらすじ】\n凄腕営業マン鳥井が殺人請負会社〈極東コンサルティング〉に入社してから半年。\n個性的な殺し屋たちを束ねながら、順調に業績を重ねていた。\nだが突如、謎の男・鷹見に拉致され、 上部組織〈巣ヶ谷一家〉組長のもとへ連行される。\n告げられたのは、鳥井と鷹見で争う出世レースの開幕。\n勝者には〈極東コンサルティング〉 社長の座が、敗者には死が与えられる。\nもちろん、鳥井に拒否権はない。\n丸腰の営業マンは華麗なるトークを武器に、生き残ることができるのか！？\n情け容赦ない頭脳戦が始まる！\n",
-        "salesDate": "2026年07月28日",
-        "series": "殺し屋の出世術",
-        "reviewAverage": 4.51,
-        "reviewCount": 88,
-        "genreId": "101902",
-        "isbn": "4310000894648",
-        "salesType": 0,
-        "matchMeta": {
-          "title": "殺し屋の出世術",
-          "author": "",
-          "score": 5,
-          "sources": [
-            {
-              "source": "kinokuniya",
-              "label": "紀伊國屋書店",
-              "rank": 28
-            }
-          ],
-          "source": "combined",
-          "rank": 33,
-          "originalTitle": ""
-        },
-        "ranking": {
-          "title": "殺し屋の出世術",
-          "author": "",
-          "score": 5,
-          "sources": [
-            {
-              "source": "kinokuniya",
-              "label": "紀伊國屋書店",
-              "rank": 28
-            }
-          ],
-          "source": "combined",
-          "rank": 14,
           "originalTitle": ""
         }
       },
@@ -1804,7 +1886,7 @@
             }
           ],
           "source": "combined",
-          "rank": 4,
+          "rank": 10,
           "originalTitle": ""
         }
       },
@@ -1964,6 +2046,53 @@
     ],
     "humanities": [
       {
+        "id": "4380000407898",
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "author": "林真理子",
+        "publisher": "幻冬舎",
+        "price": 982,
+        "url": "https://books.rakuten.co.jp/rk/1e28fc1db6b83578b06b0919e0a52cd7/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0908/2000020490908.jpg?_ex=600x600",
+        "caption": "70代は頭も体もまだ大丈夫。\nそれなりに蓄えもできている。\nでもこれまでと全く同じことをしていたらダメ。\nできないことは諦め、楽しいことを大事にし、人生の新しいステージに立とう。\n同じ年代とばかりつるまず、ダイエットはしない。\n嫌われずに自慢話をするテクニック、お金にキレイな人と思われるおごり方ーー。\n72歳の人気作家が本音で語る「健康」「おしゃれ」「仕事」「お金」「人間関係」「趣味」。\n確実に近づく「その日」を見つめ、今の1分1秒を楽しんで生きるための、痛快・人生論。\n",
+        "salesDate": "2026年05月27日",
+        "series": "",
+        "reviewAverage": 3.42,
+        "reviewCount": 37,
+        "genreId": "101907010004/101909",
+        "isbn": "4380000407898",
+        "salesType": 0,
+        "matchMeta": {
+          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 幻冬舎新書",
+          "author": "",
+          "score": 102,
+          "sources": [
+            {
+              "source": "kinokuniya",
+              "label": "紀伊國屋書店",
+              "rank": 2
+            }
+          ],
+          "source": "combined",
+          "rank": 8,
+          "originalTitle": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書"
+        },
+        "ranking": {
+          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 幻冬舎新書",
+          "author": "",
+          "score": 102,
+          "sources": [
+            {
+              "source": "kinokuniya",
+              "label": "紀伊國屋書店",
+              "rank": 2
+            }
+          ],
+          "source": "combined",
+          "rank": 1,
+          "originalTitle": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書"
+        }
+      },
+      {
         "id": "4320000867368",
         "title": "GOAT Summer 2026",
         "author": "宮島未奈/尾崎世界観/山内マリコ/梨/麻布競馬場",
@@ -2006,7 +2135,7 @@
             }
           ],
           "source": "combined",
-          "rank": 2,
+          "rank": 9,
           "originalTitle": ""
         }
       },
@@ -2053,55 +2182,8 @@
             }
           ],
           "source": "combined",
-          "rank": 4,
+          "rank": 10,
           "originalTitle": ""
-        }
-      },
-      {
-        "id": "4380000407898",
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-        "author": "林真理子",
-        "publisher": "幻冬舎",
-        "price": 982,
-        "url": "https://books.rakuten.co.jp/rk/1e28fc1db6b83578b06b0919e0a52cd7/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0908/2000020490908.jpg?_ex=600x600",
-        "caption": "70代は頭も体もまだ大丈夫。\nそれなりに蓄えもできている。\nでもこれまでと全く同じことをしていたらダメ。\nできないことは諦め、楽しいことを大事にし、人生の新しいステージに立とう。\n同じ年代とばかりつるまず、ダイエットはしない。\n嫌われずに自慢話をするテクニック、お金にキレイな人と思われるおごり方ーー。\n72歳の人気作家が本音で語る「健康」「おしゃれ」「仕事」「お金」「人間関係」「趣味」。\n確実に近づく「その日」を見つめ、今の1分1秒を楽しんで生きるための、痛快・人生論。\n",
-        "salesDate": "2026年05月27日",
-        "series": "",
-        "reviewAverage": 3.42,
-        "reviewCount": 37,
-        "genreId": "101907010004/101909",
-        "isbn": "4380000407898",
-        "salesType": 0,
-        "matchMeta": {
-          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 幻冬舎新書",
-          "author": "",
-          "score": 102,
-          "sources": [
-            {
-              "source": "kinokuniya",
-              "label": "紀伊國屋書店",
-              "rank": 2
-            }
-          ],
-          "source": "combined",
-          "rank": 8,
-          "originalTitle": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書"
-        },
-        "ranking": {
-          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 幻冬舎新書",
-          "author": "",
-          "score": 102,
-          "sources": [
-            {
-              "source": "kinokuniya",
-              "label": "紀伊國屋書店",
-              "rank": 2
-            }
-          ],
-          "source": "combined",
-          "rank": 8,
-          "originalTitle": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書"
         }
       },
       {
@@ -2440,7 +2522,7 @@
             }
           ],
           "source": "combined",
-          "rank": 11,
+          "rank": 13,
           "originalTitle": "つかめ！理科ダマン 〈１２〉 最強ロボット決戦！編"
         }
       },
@@ -2814,7 +2896,7 @@
             }
           ],
           "source": "combined",
-          "rank": 8,
+          "rank": 1,
           "originalTitle": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書"
         }
       },
@@ -3532,7 +3614,7 @@
             }
           ],
           "source": "combined",
-          "rank": 11,
+          "rank": 13,
           "originalTitle": "つかめ！理科ダマン 〈１２〉 最強ロボット決戦！編"
         }
       },
@@ -3734,7 +3816,7 @@
             }
           ],
           "source": "combined",
-          "rank": 13,
+          "rank": 15,
           "originalTitle": "星のカービィ　夢幻の歯車　霧につつまれた大事件！？ 角川つばさ文庫"
         }
       },
@@ -3936,7 +4018,7 @@
             }
           ],
           "source": "combined",
-          "rank": 2,
+          "rank": 9,
           "originalTitle": ""
         }
       },

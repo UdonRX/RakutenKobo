@@ -10,6 +10,7 @@ on:
       - 'scripts/scrape-kobo-sale.mjs'
       - 'scripts/build-completed-feeds.mjs'
       - 'scripts/enrich-genre-feeds.mjs'
+      - 'scripts/build-all-sale-feed.mjs'
       - '.github/workflows/update-kobo-sale.yml'
       - 'public/amazon-ranking-client.js'
       - 'public/sale-snapshot-client.js'
@@ -24,7 +25,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 35
+    timeout-minutes: 55
     steps:
       - name: Check out app code
         uses: actions/checkout@v4
@@ -42,7 +43,7 @@ jobs:
           npm install --no-save playwright@1.55.0
           npx playwright install --with-deps chromium
 
-      - name: Collect sale candidates from Rakuten Books and rendered Kobo campaigns
+      - name: Collect every sale result from Rakuten Books and Kobo campaigns
         run: node scripts/scrape-kobo-sale.mjs /tmp/kobo-sale-candidates.json
 
       - name: Build completed Kobo feeds
@@ -50,10 +51,15 @@ jobs:
           KOBO_API_BASE: https://rakuten-kobo.vercel.app
         run: node scripts/build-completed-feeds.mjs /tmp/kobo-sale-candidates.json /tmp/completed-feeds
 
-      - name: Fill each genre to ten verified Kobo sale books
+      - name: Fill popular genres and legacy sale metadata
         env:
           KOBO_API_BASE: https://rakuten-kobo.vercel.app
         run: node scripts/enrich-genre-feeds.mjs /tmp/completed-feeds /tmp/kobo-sale-candidates.json
+
+      - name: Replace sale feed with every verified current Kobo sale book
+        env:
+          KOBO_API_BASE: https://rakuten-kobo.vercel.app
+        run: node scripts/build-all-sale-feed.mjs /tmp/kobo-sale-candidates.json /tmp/completed-feeds/kobo-sale.json
 
       - name: Publish completed feeds to ranking-data branch
         shell: bash

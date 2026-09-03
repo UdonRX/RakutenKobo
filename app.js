@@ -48,7 +48,7 @@ function readCache(store,key,ttl){
 function writeCache(store,storageKey,key,value){store[key]={ts:Date.now(),...value};save(storageKey,store)}
 function popularCacheKey(){return `popular:${state.period}:${state.source}:${state.genre||'all'}`}
 function newCacheKey(){return `new:${state.genre||'all'}`}
-function saleCacheKey(){return `sale:${state.genre||'all'}`}
+function saleCacheKey(){return `sale-all:${state.genre||'all'}`}
 
 async function api(params){
   let response;
@@ -245,10 +245,8 @@ function saleBook(book){
 }
 
 async function loadSale(){
-  const token=++requestToken,key=saleCacheKey(),cached=readCache(feedCache,key,FEED_CACHE_TTL);
-  state.error='';state.saleMeta=null;
-  if(cached?.books?.length>=2){state.saleBooks=cached.books;state.books=sortSaleBooks(state.saleBooks);state.saleMeta=cached.meta||null;state.loading=false;render();recordPrices(state.saleBooks);if(cached.age<60*60*1000)return}
-  else{state.loading=true;state.books=[];state.saleBooks=[];render()}
+  const token=++requestToken;
+  state.error='';state.saleMeta=null;state.loading=true;state.books=[];state.saleBooks=[];render();
   try{
     const data=await api({action:'sales',...genreParams(),page:'1'});
     if(token!==requestToken)return;
@@ -260,13 +258,13 @@ async function loadSale(){
         const books=progress.items.map(saleBook);
         state.saleBooks=books;state.books=sortSaleBooks(books);state.loading=books.length?false:!progress.done;state.error='';
         state.saleMeta={fetchedAt:data.fetchedAt,sourceUrl:data.sourceUrl,parsed:Number(data.parsed||candidates.length),checked:progress.checked,matched:books.length,rawMatched:progress.rawMatched,failedBatches:progress.failedBatches};
-        if(books.length){recordPrices(books);writeCache(feedCache,'kobo-feed-cache-v4',key,{books,meta:state.saleMeta})}
         render();
       }});
     }else{
-      const books=dedupe(data.items||[]).slice(0,TARGET_BOOKS);
-      state.saleBooks=books;state.books=sortSaleBooks(books);state.saleMeta={fetchedAt:data.fetchedAt,sourceUrl:data.sourceUrl,parsed:data.parsed,matched:books.length};state.genreResolved=data.resolvedGenre||null;recordPrices(books);
-      if(books.length)writeCache(feedCache,'kobo-feed-cache-v4',key,{books,meta:state.saleMeta});
+      const books=dedupe((data.items||[]).filter(book=>book?.saleVerified!==false));
+      state.saleBooks=books;state.books=sortSaleBooks(books);
+      state.saleMeta={fetchedAt:data.fetchedAt,sourceUrl:data.sourceUrl,parsed:data.parsed,matched:books.length,campaignCount:data.campaignCount,verifiedByApi:data.verifiedByApi,verifiedByListing:data.verifiedByListing,exhaustive:Boolean(data.exhaustive)};
+      state.genreResolved=data.resolvedGenre||null;recordPrices(books);
     }
   }catch(error){if(token===requestToken&&!state.books.length)state.error=error.message}
   finally{if(token===requestToken){state.loading=false;render()}}

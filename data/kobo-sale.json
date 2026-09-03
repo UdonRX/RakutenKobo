@@ -2,1070 +2,12 @@
   "kind": "sale",
   "completed": true,
   "sourceUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-  "updatedAt": "2026-09-03T11:42:58.424Z",
+  "updatedAt": "2026-09-03T11:49:09.113Z",
   "candidateCount": 100,
   "checked": 100,
   "matched": 30,
   "failedBatches": 0,
   "items": [
-    {
-      "id": "4972000116574",
-      "title": "黒猫の剣士〜ブラックなパーティを辞めたらS級冒険者にスカウトされました。今さら「戻ってきて」と言われても「もう遅い」です〜 11",
-      "author": "妹尾尻尾/そら蒼/石田あきら",
-      "publisher": "集英社",
-      "price": 100,
-      "url": "https://books.rakuten.co.jp/rk/0426e08506a5314aae24694e7b6dac10/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2529/2000017122529.jpg?_ex=600x600",
-      "caption": "無能扱い→実は最強の冒険者！　ナインの思い、そして『紅鷹』全ての願いを込めてダリアが打ち込んだ『祖龍剛撃（ゴッド・スマッシュ）』が『邪竜王（ヴァルムント）』の『竜剛』を貫いた！　しかし、自身の滅亡を悟った『邪竜王』は各地に散らばらせた己の分体を集め、ダリアを道連れに空へ飛び去ってしまう。渾身の力を振り絞って必死にダリアを追うナインとエヌ！　最後の死闘が繰り広げられる星の彼方で、2人が辿る運命はーー!?　『邪竜王』討伐から数年後を描いた特別長編番外編も収録。超速の異世界バトルファンタジー、感動の最終巻!!\n",
-      "salesDate": "2025年04月17日",
-      "series": "黒猫の剣士〜ブラックなパーティを辞めたらS級冒険者にスカウトされました。今さら「戻ってきて」と言われても「もう遅い」です〜",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904002006",
-      "isbn": "4972000116574",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "黒猫の剣士〜ブラックなパーティを辞めたらS級冒険者にスカウトされました。今さら「戻ってきて」と言われても「もう遅い」です〜 11",
-        "author": "",
-        "itemNumber": "",
-        "regularPrice": 752,
-        "salePrice": 100,
-        "discountPercent": 87,
-        "saleEndAt": "",
-        "saleCampaign": "楽天ブックス セール一覧",
-        "saleCampaigns": [
-          "楽天ブックス セール一覧"
-        ],
-        "sourceGenre": "",
-        "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-        "saleSources": [
-          "rakuten-sale-search"
-        ],
-        "originalTitle": "黒猫の剣士〜ブラックなパーティを辞めたらS級冒険者にスカウトされました。今さら「戻ってきて」と言われても「もう遅い」です〜 11 （ヤングジャンプコミックスDIGITAL）"
-      },
-      "regularPrice": 752,
-      "salePrice": 100,
-      "discountPercent": 87,
-      "saleEndAt": "",
-      "saleCampaign": "楽天ブックス セール一覧",
-      "sourceGenre": "",
-      "saleCampaigns": [
-        "楽天ブックス セール一覧"
-      ],
-      "saleSources": [
-        "rakuten-sale-search"
-      ],
-      "campaignMerch": "53626",
-      "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-      "saleVerified": true,
-      "verifiedAt": "2026-09-03T11:42:14.362Z"
-    },
-    {
-      "id": "4972000116573",
-      "title": "黒猫の剣士〜ブラックなパーティを辞めたらS級冒険者にスカウトされました。今さら「戻ってきて」と言われても「もう遅い」です〜 10",
-      "author": "妹尾尻尾/そら蒼/石田あきら",
-      "publisher": "集英社",
-      "price": 100,
-      "url": "https://books.rakuten.co.jp/rk/513631a711e9378bb37dc991f9682604/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2543/2000017122543.jpg?_ex=600x600",
-      "caption": "無能扱い→実は最強の冒険者！　育ての父の教えを胸に、実の父ニールとの戦いに挑むナイン。ナインの『七星剣武』に追い詰められたニールはついに氷に覆われた本体の『邪竜王（ヴァルムント）』を復活させた。「たとえ自分が敗れようとも、必ず『紅鷹』の仲間たちが倒してくれる！」　確固たる信頼のもと、『紅鷹』よりひと足先に駆けつけたエヌとともに、ナインは9秒間だけ魔力を爆発的に引き上げる、ナインとエヌに特化した秘術『玖秒の王撃（ナインカウント・ストライク）』で命懸けの戦闘を開始する!!　超速の異世界バトルファンタジー、身魂相打つ第10巻!!\n",
-      "salesDate": "2025年04月17日",
-      "series": "黒猫の剣士〜ブラックなパーティを辞めたらS級冒険者にスカウトされました。今さら「戻ってきて」と言われても「もう遅い」です〜",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904002006",
-      "isbn": "4972000116573",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "黒猫の剣士〜ブラックなパーティを辞めたらS級冒険者にスカウトされました。今さら「戻ってきて」と言われても「もう遅い」です〜 10",
-        "author": "",
-        "itemNumber": "",
-        "regularPrice": 752,
-        "salePrice": 100,
-        "discountPercent": 87,
-        "saleEndAt": "",
-        "saleCampaign": "楽天ブックス セール一覧",
-        "saleCampaigns": [
-          "楽天ブックス セール一覧"
-        ],
-        "sourceGenre": "",
-        "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-        "saleSources": [
-          "rakuten-sale-search"
-        ],
-        "originalTitle": "黒猫の剣士〜ブラックなパーティを辞めたらS級冒険者にスカウトされました。今さら「戻ってきて」と言われても「もう遅い」です〜 10 （ヤングジャンプコミックスDIGITAL）"
-      },
-      "regularPrice": 752,
-      "salePrice": 100,
-      "discountPercent": 87,
-      "saleEndAt": "",
-      "saleCampaign": "楽天ブックス セール一覧",
-      "sourceGenre": "",
-      "saleCampaigns": [
-        "楽天ブックス セール一覧"
-      ],
-      "saleSources": [
-        "rakuten-sale-search"
-      ],
-      "campaignMerch": "53626",
-      "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-      "saleVerified": true,
-      "verifiedAt": "2026-09-03T11:42:14.362Z"
-    },
-    {
-      "id": "4970100700138",
-      "title": "日に流れて橋に行く 1",
-      "author": "日高ショーコ",
-      "publisher": "集英社",
-      "price": 100,
-      "url": "https://books.rakuten.co.jp/rk/6aa8b10ffe3f31d99457f5b92436d24a/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5902/2000005545902.jpg?_ex=600x600",
-      "caption": "【雑誌掲載時の著者カラー原画を収録したリマスター版！】時は明治末。さびれた老舗呉服店に新風を巻き起こす、男たちの物語──。　かつて大きな賑わいを見せていた、老舗呉服店「三つ星」。その三男・星乃虎三郎が、三年ぶりに英国から帰国した。新しい「三つ星」を作ろうと意気込むものの、店の者からはまったく歓迎されず、変わらず優しいのは、長兄の存寅だけ。一方、虎三郎を知っているらしき、謎の男・鷹頭も、「三つ星」再建のため、独自に動いており…。\n",
-      "salesDate": "2017年11月24日",
-      "series": "日に流れて橋に行く",
-      "reviewAverage": 3.88,
-      "reviewCount": 8,
-      "genreId": "101904011006",
-      "isbn": "4970100700138",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "日に流れて橋に行く 1",
-        "author": "",
-        "itemNumber": "",
-        "regularPrice": 794,
-        "salePrice": 100,
-        "discountPercent": 87,
-        "saleEndAt": "",
-        "saleCampaign": "楽天ブックス セール一覧",
-        "saleCampaigns": [
-          "楽天ブックス セール一覧"
-        ],
-        "sourceGenre": "",
-        "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-        "saleSources": [
-          "rakuten-sale-search"
-        ],
-        "originalTitle": "日に流れて橋に行く 1 （マーガレットコミックスDIGITAL）"
-      },
-      "regularPrice": 794,
-      "salePrice": 100,
-      "discountPercent": 87,
-      "saleEndAt": "",
-      "saleCampaign": "楽天ブックス セール一覧",
-      "sourceGenre": "",
-      "saleCampaigns": [
-        "楽天ブックス セール一覧"
-      ],
-      "saleSources": [
-        "rakuten-sale-search"
-      ],
-      "campaignMerch": "53626",
-      "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-      "saleVerified": true,
-      "verifiedAt": "2026-09-03T11:42:14.362Z"
-    },
-    {
-      "id": "4339494600310",
-      "title": "主人公の幼馴染が、脇役の俺にグイグイくる",
-      "author": "駱駝/こむぴ",
-      "publisher": "KADOKAWA",
-      "price": 99,
-      "url": "https://books.rakuten.co.jp/rk/a02d81e1e8d03b97b538374e1b3e473e/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2558/2000016712558.jpg?_ex=600x600",
-      "caption": "　うちの高校にはラブコメ主人公のような奴がいる。パッとしないのに、なぜだか美少女からモテまくるとんでもない男だ。　そんな男のラブコメに、俺は殺された。やってもいない罪を裁かれ、全てを失い、自ら命を断ったんだ。ーーだけど、奇跡が起きた。気がつけば俺は二年前の、高校一年の入学式の朝に戻っていた。　奇跡的に得られた二度目の人生、今度こそラブコメにはーー。「石井和希君、愛しています。結婚しましょう」　なんで!?　主人公の幼馴染かつド本命の女、氷高命が俺に告白を!!??　クラスでは『氷の女帝』なのに、なぜか俺にだけはグイグイきて……！　ちょっと待て、お前が好きなのは俺じゃないだろ!?\n",
-      "salesDate": "2025年01月10日",
-      "series": "主人公の幼馴染が、脇役の俺にグイグイくる",
-      "reviewAverage": 4,
-      "reviewCount": 3,
-      "genreId": "101903001004",
-      "isbn": "4339494600310",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "主人公の幼馴染が、脇役の俺にグイグイくる （電撃文庫）",
-        "author": "",
-        "itemNumber": "",
-        "regularPrice": 770,
-        "salePrice": 99,
-        "discountPercent": 87,
-        "saleEndAt": "",
-        "saleCampaign": "楽天ブックス セール一覧",
-        "saleCampaigns": [
-          "楽天ブックス セール一覧"
-        ],
-        "sourceGenre": "",
-        "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-        "saleSources": [
-          "rakuten-sale-search"
-        ]
-      },
-      "regularPrice": 770,
-      "salePrice": 99,
-      "discountPercent": 87,
-      "saleEndAt": "",
-      "saleCampaign": "楽天ブックス セール一覧",
-      "saleCampaigns": [
-        "楽天ブックス セール一覧"
-      ],
-      "sourceGenre": "",
-      "saleSources": [
-        "rakuten-sale-search"
-      ],
-      "campaignMerch": "53626",
-      "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-      "saleVerified": true,
-      "verifiedAt": "2026-09-03T11:42:19.020Z"
-    },
-    {
-      "id": "4336519800310",
-      "title": "ギャルゲー世界にニューゲームしたら、ヒロイン全員攻略された記憶があって修羅場です……",
-      "author": "ひつじ/かがちさく",
-      "publisher": "KADOKAWA",
-      "price": 99,
-      "url": "https://books.rakuten.co.jp/rk/436202315e5e392a8f029e8066750b22/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9889/2000017809889.jpg?_ex=600x600",
-      "caption": "目を覚ますと俺は、ギャルゲーの主人公・湊理玖として転生していた。さっそくゲームのヒロイン３人と出会うのだが、３人はそれぞれ湊理玖に攻略された記憶があるせいで、修羅場のようなラブコメが始まってしまった！\n",
-      "salesDate": "2025年06月10日",
-      "series": "ギャルゲー世界にニューゲームしたら、ヒロイン全員攻略された記憶があって修羅場です……",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101903001004",
-      "isbn": "4336519800310",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ギャルゲー世界にニューゲームしたら、ヒロイン全員攻略された記憶があって修羅場です......",
-        "author": "",
-        "itemNumber": "",
-        "regularPrice": 770,
-        "salePrice": 99,
-        "discountPercent": 87,
-        "saleEndAt": "",
-        "saleCampaign": "楽天ブックス セール一覧",
-        "saleCampaigns": [
-          "楽天ブックス セール一覧"
-        ],
-        "sourceGenre": "",
-        "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-        "saleSources": [
-          "rakuten-sale-search"
-        ],
-        "originalTitle": "ギャルゲー世界にニューゲームしたら、ヒロイン全員攻略された記憶があって修羅場です…… （電撃文庫）"
-      },
-      "regularPrice": 770,
-      "salePrice": 99,
-      "discountPercent": 87,
-      "saleEndAt": "",
-      "saleCampaign": "楽天ブックス セール一覧",
-      "sourceGenre": "",
-      "saleCampaigns": [
-        "楽天ブックス セール一覧"
-      ],
-      "saleSources": [
-        "rakuten-sale-search"
-      ],
-      "campaignMerch": "53626",
-      "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-      "saleVerified": true,
-      "verifiedAt": "2026-09-03T11:42:14.362Z"
-    },
-    {
-      "id": "8890355004488",
-      "title": "ギャル嫁の秘密（１）",
-      "author": "クドゥー",
-      "publisher": "GANMA!",
-      "price": 110,
-      "url": "https://books.rakuten.co.jp/rk/f50df40fc9863c2cbba6d86f9a401ff0/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6078/2000016196078.jpg?_ex=600x600",
-      "caption": "冬雪は派手な容姿で社内で有名なギャル。業務中はクールだが、同僚でもある旦那の前だけで見せる超甘々な秘密の姿があって……？ （著者名：クドゥー／初出：GANMA!1〜11話掲載分）※単行本描き下ろし収録\n",
-      "salesDate": "2024年10月19日",
-      "series": "ギャル嫁の秘密",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904090",
-      "isbn": "8890355004488",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ギャル嫁の秘密(1) (GANMA!)",
-        "author": "",
-        "itemNumber": "",
-        "regularPrice": 781,
-        "salePrice": 110,
-        "discountPercent": 86,
-        "saleEndAt": "",
-        "saleCampaign": "楽天ブックス セール一覧",
-        "saleCampaigns": [
-          "楽天ブックス セール一覧"
-        ],
-        "sourceGenre": "",
-        "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-        "saleSources": [
-          "rakuten-sale-search"
-        ],
-        "originalTitle": "ギャル嫁の秘密（１） （GANMA!）"
-      },
-      "regularPrice": 781,
-      "salePrice": 110,
-      "discountPercent": 86,
-      "saleEndAt": "",
-      "saleCampaign": "楽天ブックス セール一覧",
-      "sourceGenre": "",
-      "saleCampaigns": [
-        "楽天ブックス セール一覧"
-      ],
-      "saleSources": [
-        "rakuten-sale-search"
-      ],
-      "campaignMerch": "53626",
-      "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-      "saleVerified": true,
-      "verifiedAt": "2026-09-03T11:42:14.362Z"
-    },
-    {
-      "id": "4970100801643",
-      "title": "DOKUROー毒狼ー 1",
-      "author": "猿渡哲也",
-      "publisher": "集英社",
-      "price": 100,
-      "url": "https://books.rakuten.co.jp/rk/fd91214729433d889ea5f68902876cdc/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8166/2000002388166.jpg?_ex=600x600",
-      "caption": "本名・キクチタケオ。暗号名・毒狼〈どくろ〉。　幼い頃、熱心な母親に連れられて宗教団体・涅槃創生会に入信。その後、教団の保安局粛殺班にて最強の暗殺者として暗躍。得意な武器は、特殊金属でできたファングブレードワイヤー。　ある時、教団に背いて脱会。現在、逃亡中…。\n",
-      "salesDate": "2014年10月10日",
-      "series": "DOKUROー毒狼ー",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904002006",
-      "isbn": "4970100801643",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "DOKUROー毒狼ー 1",
-        "author": "",
-        "itemNumber": "",
-        "regularPrice": 617,
-        "salePrice": 100,
-        "discountPercent": 84,
-        "saleEndAt": "",
-        "saleCampaign": "楽天ブックス セール一覧",
-        "saleCampaigns": [
-          "楽天ブックス セール一覧"
-        ],
-        "sourceGenre": "",
-        "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-        "saleSources": [
-          "rakuten-sale-search"
-        ],
-        "originalTitle": "DOKUROー毒狼ー 1 （ヤングジャンプコミックスDIGITAL）"
-      },
-      "regularPrice": 617,
-      "salePrice": 100,
-      "discountPercent": 84,
-      "saleEndAt": "",
-      "saleCampaign": "楽天ブックス セール一覧",
-      "sourceGenre": "",
-      "saleCampaigns": [
-        "楽天ブックス セール一覧"
-      ],
-      "saleSources": [
-        "rakuten-sale-search"
-      ],
-      "campaignMerch": "53626",
-      "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-      "saleVerified": true,
-      "verifiedAt": "2026-09-03T11:42:14.362Z"
-    },
-    {
-      "id": "7328120261630",
-      "title": "ドラゴンクエスト エデンの戦士たち1巻",
-      "author": "藤原カムイ/堀井雄二",
-      "publisher": "スクウェア・エニックス",
-      "price": 100,
-      "url": "https://books.rakuten.co.jp/rk/5434c7f1e8eb3ad0bb88b162950831e1/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9030/2000006729030.jpg?_ex=600x600",
-      "caption": "あの伝説（ドラゴンクエストVII）が、さらにスケールアップ!!　“選ばれし者（アルス・キーファ・マリベル）”の“冒険（さだめ）”が動き出す!!\n",
-      "salesDate": "2012年09月14日",
-      "series": "ドラゴンクエスト エデンの戦士たち",
-      "reviewAverage": 4.5,
-      "reviewCount": 4,
-      "genreId": "101904090",
-      "isbn": "7328120261630",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ドラゴンクエスト エデンの戦士たち1巻",
-        "author": "",
-        "itemNumber": "",
-        "regularPrice": 590,
-        "salePrice": 100,
-        "discountPercent": 83,
-        "saleEndAt": "",
-        "saleCampaign": "楽天ブックス セール一覧",
-        "saleCampaigns": [
-          "楽天ブックス セール一覧"
-        ],
-        "sourceGenre": "",
-        "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-        "saleSources": [
-          "rakuten-sale-search"
-        ],
-        "originalTitle": "ドラゴンクエスト エデンの戦士たち1巻 （ガンガンコミックス）"
-      },
-      "regularPrice": 590,
-      "salePrice": 100,
-      "discountPercent": 83,
-      "saleEndAt": "",
-      "saleCampaign": "楽天ブックス セール一覧",
-      "sourceGenre": "",
-      "saleCampaigns": [
-        "楽天ブックス セール一覧"
-      ],
-      "saleSources": [
-        "rakuten-sale-search"
-      ],
-      "campaignMerch": "53626",
-      "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-      "saleVerified": true,
-      "verifiedAt": "2026-09-03T11:42:14.362Z"
-    },
-    {
-      "id": "4970100802029",
-      "title": "バーテンダー a Paris 1",
-      "author": "城アラキ/加治佐修",
-      "publisher": "集英社",
-      "price": 100,
-      "url": "https://books.rakuten.co.jp/rk/c829381ad99837a6aa97c3eccd898733/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8509/2000002678509.jpg?_ex=600x600",
-      "caption": "バーテンダーの勉強のため単身パリへやってきた佐島蓮。希望に胸を膨らませた蓮だったが、スリに遭い、お金もパスポートも失ってしまう。やがて路地裏のバーへ辿り着くが…!?\n",
-      "salesDate": "2015年01月01日",
-      "series": "バーテンダー a Paris",
-      "reviewAverage": 3,
-      "reviewCount": 5,
-      "genreId": "101904002006",
-      "isbn": "4970100802029",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "バーテンダー a Paris 1",
-        "author": "",
-        "itemNumber": "",
-        "regularPrice": 587,
-        "salePrice": 100,
-        "discountPercent": 83,
-        "saleEndAt": "",
-        "saleCampaign": "楽天ブックス セール一覧",
-        "saleCampaigns": [
-          "楽天ブックス セール一覧"
-        ],
-        "sourceGenre": "",
-        "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-        "saleSources": [
-          "rakuten-sale-search"
-        ],
-        "originalTitle": "バーテンダー a Paris 1 （ヤングジャンプコミックスDIGITAL）"
-      },
-      "regularPrice": 587,
-      "salePrice": 100,
-      "discountPercent": 83,
-      "saleEndAt": "",
-      "saleCampaign": "楽天ブックス セール一覧",
-      "sourceGenre": "",
-      "saleCampaigns": [
-        "楽天ブックス セール一覧"
-      ],
-      "saleSources": [
-        "rakuten-sale-search"
-      ],
-      "campaignMerch": "53626",
-      "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-      "saleVerified": true,
-      "verifiedAt": "2026-09-03T11:42:14.362Z"
-    },
-    {
-      "id": "4970000851136",
-      "title": "キン肉マン 6",
-      "author": "ゆでたまご",
-      "publisher": "集英社",
-      "price": 100,
-      "url": "https://books.rakuten.co.jp/rk/6a3a7907a7b44d6981342b6f4ba10497/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9822/2000000139822.jpg?_ex=600x600",
-      "caption": "【旧版カバーも再録!!】アメリカ超人界の覇権を賭けた、超人タッグ選手権の開催が決定！　キン肉マンは盟友・テリーマンとのコンビ「ザ・マシンガンズ」で参戦！　並み居る強豪を打ち破り、全米の頂点に立つことができるのか!?\n",
-      "salesDate": "2012年06月29日",
-      "series": "キン肉マン",
-      "reviewAverage": 4.33,
-      "reviewCount": 4,
-      "genreId": "101904001007",
-      "isbn": "4970000851136",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "キン肉マン 6",
-        "author": "",
-        "itemNumber": "",
-        "regularPrice": 543,
-        "salePrice": 100,
-        "discountPercent": 82,
-        "saleEndAt": "",
-        "saleCampaign": "楽天ブックス セール一覧",
-        "saleCampaigns": [
-          "楽天ブックス セール一覧"
-        ],
-        "sourceGenre": "",
-        "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-        "saleSources": [
-          "rakuten-sale-search"
-        ],
-        "originalTitle": "キン肉マン 6 （ジャンプコミックスDIGITAL）"
-      },
-      "regularPrice": 543,
-      "salePrice": 100,
-      "discountPercent": 82,
-      "saleEndAt": "",
-      "saleCampaign": "楽天ブックス セール一覧",
-      "sourceGenre": "",
-      "saleCampaigns": [
-        "楽天ブックス セール一覧"
-      ],
-      "saleSources": [
-        "rakuten-sale-search"
-      ],
-      "campaignMerch": "53626",
-      "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-      "saleVerified": true,
-      "verifiedAt": "2026-09-03T11:42:14.362Z"
-    },
-    {
-      "id": "8890355006542",
-      "title": "鬼畜英雄（１１）",
-      "author": "よのき",
-      "publisher": "GANMA!",
-      "price": 396,
-      "url": "https://books.rakuten.co.jp/rk/59b2e43fda993be1bded691ba3cb5c3e/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2697/2000017492697.jpg?_ex=600x600",
-      "caption": "デバフがかかっててもオレ様強すぎない──!?\n死霊使いの幽月と白熱の戦いの末、公開×××で会場を沸かせた\nオレ様の次のお相手は……アンデッドの大群!?!?\n突如訪れた脅威に、蹂躙される囚人と氷原の人々。\nピンチのキミを助けた後は、ダンジョン攻略……？\n奴隷だろうが、監獄長だろうがヤりまくれ！（著者名：よのき/78話〜84話収録)\n",
-      "salesDate": "2025年04月25日",
-      "series": "鬼畜英雄",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904090",
-      "isbn": "8890355006542",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "鬼畜英雄(11) (GANMA!)",
-        "author": "",
-        "itemNumber": "",
-        "regularPrice": 792,
-        "salePrice": 396,
-        "discountPercent": 50,
-        "saleEndAt": "",
-        "saleCampaign": "楽天ブックス セール一覧",
-        "saleCampaigns": [
-          "楽天ブックス セール一覧"
-        ],
-        "sourceGenre": "",
-        "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-        "saleSources": [
-          "rakuten-sale-search"
-        ],
-        "originalTitle": "鬼畜英雄（１１） （GANMA!）"
-      },
-      "regularPrice": 792,
-      "salePrice": 396,
-      "discountPercent": 50,
-      "saleEndAt": "",
-      "saleCampaign": "楽天ブックス セール一覧",
-      "sourceGenre": "",
-      "saleCampaigns": [
-        "楽天ブックス セール一覧"
-      ],
-      "saleSources": [
-        "rakuten-sale-search"
-      ],
-      "campaignMerch": "53626",
-      "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-      "saleVerified": true,
-      "verifiedAt": "2026-09-03T11:42:14.362Z"
-    },
-    {
-      "id": "8910126217120",
-      "title": "没落伯爵令嬢は家族を養いたい@COMIC 第1巻【電子書籍限定描き下ろし漫画付き】",
-      "author": "しろ46/ミコタにう/椎名咲月",
-      "publisher": "TOブックス",
-      "price": 352,
-      "url": "https://books.rakuten.co.jp/rk/ec080801e6c739d8973c0ab69363144b/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1879/2000014121879.jpg?_ex=600x600",
-      "caption": "【電子書籍限定描き下ろし漫画】付き！\n大好きな家族の笑顔を守りたい！\n所持金ゼロから始める、転生タフ令嬢の逆転ダイアリー！\n待望のコミカライズ第１巻！\n原作小説第３巻と同日発売！\n描き下ろし漫画＆原作・ミコタにう先生による書き下ろしSSを収録！\n【あらすじ】\n「私がなんとかしてみせるんだから！」\n異世界の伯爵家令嬢に転生したゲルトルードは、ゲス野郎（亡父）の借金で領地も家屋敷も失い大ピンチに！\nけれど、大好きなお母さまとかわいい妹、そして大切な使用人たちとの生活を守るため、前世の知識を駆使し新生活をスタートさせてーー！？\n家族愛とたくましさでポジティブに逆境を乗り越えていく！\n所持金ゼロから始める、転生タフ令嬢の逆転ダイアリー！\n",
-      "salesDate": "2024年02月01日",
-      "series": "没落伯爵令嬢は家族を養いたい@COMIC",
-      "reviewAverage": 3,
-      "reviewCount": 2,
-      "genreId": "101904090",
-      "isbn": "8910126217120",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "没落伯爵令嬢は家族を養いたい@COMIC 第1巻【電子書籍限定描き下ろし漫画付き】",
-        "author": "",
-        "itemNumber": "",
-        "regularPrice": 704,
-        "salePrice": 352,
-        "discountPercent": 50,
-        "saleEndAt": "",
-        "saleCampaign": "楽天ブックス セール一覧",
-        "saleCampaigns": [
-          "楽天ブックス セール一覧"
-        ],
-        "sourceGenre": "",
-        "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-        "saleSources": [
-          "rakuten-sale-search"
-        ],
-        "originalTitle": "没落伯爵令嬢は家族を養いたい@COMIC 第1巻【電子書籍限定描き下ろし漫画付き】 （Celicaコミックス）"
-      },
-      "regularPrice": 704,
-      "salePrice": 352,
-      "discountPercent": 50,
-      "saleEndAt": "",
-      "saleCampaign": "楽天ブックス セール一覧",
-      "sourceGenre": "",
-      "saleCampaigns": [
-        "楽天ブックス セール一覧"
-      ],
-      "saleSources": [
-        "rakuten-sale-search"
-      ],
-      "campaignMerch": "53626",
-      "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-      "saleVerified": true,
-      "verifiedAt": "2026-09-03T11:42:14.362Z"
-    },
-    {
-      "id": "4332124800300",
-      "title": "百千さん家のあやかし王子　第１巻",
-      "author": "硝音　あや",
-      "publisher": "KADOKAWA",
-      "price": 308,
-      "url": "https://books.rakuten.co.jp/rk/18c87471da903af183dff91a370491ea/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9237/2000000119237.jpg?_ex=600x600",
-      "caption": "１６歳の誕生日。プレゼントにもらったのは古びた「屋敷」。そこで待ち構えていたのは、葵と名乗る謎の高校生。実は葵は人間でありながら、ケモ耳妖怪の「鵺（ぬえ）」に変身する家の守り主だというのだが…。\n",
-      "salesDate": "2013年08月26日",
-      "series": "百千さん家のあやかし王子",
-      "reviewAverage": 2.67,
-      "reviewCount": 4,
-      "genreId": "101904011023",
-      "isbn": "4332124800300",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "百千さん家のあやかし王子　第１巻 （あすかコミックスDX）",
-        "author": "",
-        "itemNumber": "",
-        "regularPrice": 616,
-        "salePrice": 308,
-        "discountPercent": 50,
-        "saleEndAt": "",
-        "saleCampaign": "楽天ブックス セール一覧",
-        "saleCampaigns": [
-          "楽天ブックス セール一覧"
-        ],
-        "sourceGenre": "",
-        "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-        "saleSources": [
-          "rakuten-sale-search"
-        ]
-      },
-      "regularPrice": 616,
-      "salePrice": 308,
-      "discountPercent": 50,
-      "saleEndAt": "",
-      "saleCampaign": "楽天ブックス セール一覧",
-      "saleCampaigns": [
-        "楽天ブックス セール一覧"
-      ],
-      "sourceGenre": "",
-      "saleSources": [
-        "rakuten-sale-search"
-      ],
-      "campaignMerch": "53626",
-      "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-      "saleVerified": true,
-      "verifiedAt": "2026-09-03T11:42:25.383Z"
-    },
-    {
-      "id": "4332454700300",
-      "title": "百千さん家のあやかし王子　第２巻",
-      "author": "硝音　あや",
-      "publisher": "KADOKAWA",
-      "price": 308,
-      "url": "https://books.rakuten.co.jp/rk/16ef1193c9b13fe0bc490fa7a043c44b/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8788/2000000248788.jpg?_ex=600x600",
-      "caption": "人間でありながら「御守様」に指名されてしまったが故に“百千家”から一歩も出られず、存在すらなかったことにされてしまった葵。それを知ったひまりは、なんとかその「呪い」から葵を解き放とうと奮闘するのだが…\n",
-      "salesDate": "2013年11月28日",
-      "series": "百千さん家のあやかし王子",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904011023",
-      "isbn": "4332454700300",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "百千さん家のあやかし王子 第2巻",
-        "author": "",
-        "itemNumber": "",
-        "regularPrice": 616,
-        "salePrice": 308,
-        "discountPercent": 50,
-        "saleEndAt": "",
-        "saleCampaign": "楽天ブックス セール一覧",
-        "saleCampaigns": [
-          "楽天ブックス セール一覧"
-        ],
-        "sourceGenre": "",
-        "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-        "saleSources": [
-          "rakuten-sale-search"
-        ],
-        "originalTitle": "百千さん家のあやかし王子　第２巻 （あすかコミックスDX）"
-      },
-      "regularPrice": 616,
-      "salePrice": 308,
-      "discountPercent": 50,
-      "saleEndAt": "",
-      "saleCampaign": "楽天ブックス セール一覧",
-      "sourceGenre": "",
-      "saleCampaigns": [
-        "楽天ブックス セール一覧"
-      ],
-      "saleSources": [
-        "rakuten-sale-search"
-      ],
-      "campaignMerch": "53626",
-      "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-      "saleVerified": true,
-      "verifiedAt": "2026-09-03T11:42:14.362Z"
-    },
-    {
-      "id": "4380000400509",
-      "title": "溝鼠",
-      "author": "新堂冬樹",
-      "publisher": "幻冬舎",
-      "price": 497,
-      "url": "https://books.rakuten.co.jp/rk/08613243a14b43d7aec9569c4c28b3a5/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0482/2000001710482.jpg?_ex=600x600",
-      "caption": "復讐を請け負う代行屋、鷹場英一。他人の不幸とカネを愛し、対象者に恥辱と絶望を与えることを何よりの生きがいとしている。この日も依頼を受け、女の髪と眉を剃り落とし、頬を切り裂いた。報酬は二百万円。「仕事」は完璧だった。だが、英一の前に九年ぶりに現れた父親に、偽の依頼だったことを明かされる……。人間の欲望を抉り出す、暗黒エンタテインメント超大作！\n",
-      "salesDate": "2009年12月15日",
-      "series": "",
-      "reviewAverage": 3.67,
-      "reviewCount": 4,
-      "genreId": "101901",
-      "isbn": "4380000400509",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "溝鼠",
-        "author": "",
-        "itemNumber": "",
-        "regularPrice": 994,
-        "salePrice": 497,
-        "discountPercent": 50,
-        "saleEndAt": "",
-        "saleCampaign": "楽天ブックス セール一覧",
-        "saleCampaigns": [
-          "楽天ブックス セール一覧"
-        ],
-        "sourceGenre": "",
-        "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-        "saleSources": [
-          "rakuten-sale-search"
-        ],
-        "originalTitle": ""
-      },
-      "regularPrice": 994,
-      "salePrice": 497,
-      "discountPercent": 50,
-      "saleEndAt": "",
-      "saleCampaign": "楽天ブックス セール一覧",
-      "sourceGenre": "",
-      "saleCampaigns": [
-        "楽天ブックス セール一覧"
-      ],
-      "saleSources": [
-        "rakuten-sale-search"
-      ],
-      "campaignMerch": "53626",
-      "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-      "saleVerified": true,
-      "verifiedAt": "2026-09-03T11:42:14.362Z"
-    },
-    {
-      "id": "4380000402397",
-      "title": "図解　脳に悪い７つの習慣",
-      "author": "林成之",
-      "publisher": "幻冬舎",
-      "price": 297,
-      "url": "https://books.rakuten.co.jp/rk/9c02421312de3c7dbe2e056007ea47b3/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2430/2000003002430.jpg?_ex=600x600",
-      "caption": "脳は気持ちや生活習慣で、その働きがよくも悪くもなる。この事実を知らないばかりに、脳力を後退させるのはもったいない。脳に悪い習慣とは、「興味がない」と物事を避ける、「嫌だ」「疲れた」とグチを言う、言われたことをコツコツやる、常に効率を考えている、やりたくないのに我慢して勉強する、スポーツや絵などの趣味がない、めったに人をほめない、の7つ。これらをやめるだけで頭の働きがよくなる理由を、脳の仕組みからわかりやすく解説。\n",
-      "salesDate": "2015年04月24日",
-      "series": "",
-      "reviewAverage": 3.62,
-      "reviewCount": 18,
-      "genreId": "101905017004",
-      "isbn": "4380000402397",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "図解 脳に悪い7つの習慣",
-        "author": "",
-        "itemNumber": "",
-        "regularPrice": 594,
-        "salePrice": 297,
-        "discountPercent": 50,
-        "saleEndAt": "",
-        "saleCampaign": "楽天ブックス セール一覧",
-        "saleCampaigns": [
-          "楽天ブックス セール一覧"
-        ],
-        "sourceGenre": "",
-        "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-        "saleSources": [
-          "rakuten-sale-search"
-        ],
-        "originalTitle": "図解　脳に悪い７つの習慣 （幻冬舎単行本）"
-      },
-      "regularPrice": 594,
-      "salePrice": 297,
-      "discountPercent": 50,
-      "saleEndAt": "",
-      "saleCampaign": "楽天ブックス セール一覧",
-      "sourceGenre": "",
-      "saleCampaigns": [
-        "楽天ブックス セール一覧"
-      ],
-      "saleSources": [
-        "rakuten-sale-search"
-      ],
-      "campaignMerch": "53626",
-      "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-      "saleVerified": true,
-      "verifiedAt": "2026-09-03T11:42:14.362Z"
-    },
-    {
-      "id": "4336552400300",
-      "title": "百千さん家のあやかし王子　第１０巻",
-      "author": "硝音　あや",
-      "publisher": "KADOKAWA",
-      "price": 319,
-      "url": "https://books.rakuten.co.jp/rk/18547929d92134da97bdcd95840231cc/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2548/2000004792548.jpg?_ex=600x600",
-      "caption": "ついに両想いになれたひまりと葵。しかし、「百千の名とオマモリ様の座」を欲する妖＜門番＞が、二人に横恋慕するようにひまりに婚姻を迫ってきて…。ひまりを賭け、鵺（葵）ＶＳ門番の＜いろ鬼＞勝負が始まった！\n",
-      "salesDate": "2016年12月03日",
-      "series": "百千さん家のあやかし王子",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904011023",
-      "isbn": "4336552400300",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "百千さん家のあやかし王子 第10巻",
-        "author": "",
-        "itemNumber": "",
-        "regularPrice": 638,
-        "salePrice": 319,
-        "discountPercent": 50,
-        "saleEndAt": "",
-        "saleCampaign": "楽天ブックス セール一覧",
-        "saleCampaigns": [
-          "楽天ブックス セール一覧"
-        ],
-        "sourceGenre": "",
-        "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-        "saleSources": [
-          "rakuten-sale-search"
-        ],
-        "originalTitle": "百千さん家のあやかし王子　第１０巻 （あすかコミックスDX）"
-      },
-      "regularPrice": 638,
-      "salePrice": 319,
-      "discountPercent": 50,
-      "saleEndAt": "",
-      "saleCampaign": "楽天ブックス セール一覧",
-      "sourceGenre": "",
-      "saleCampaigns": [
-        "楽天ブックス セール一覧"
-      ],
-      "saleSources": [
-        "rakuten-sale-search"
-      ],
-      "campaignMerch": "53626",
-      "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-      "saleVerified": true,
-      "verifiedAt": "2026-09-03T11:42:14.362Z"
-    },
-    {
-      "id": "8910129266594",
-      "title": "没落伯爵令嬢は家族を養いたい@COMIC 第3巻【電子書籍限定描き下ろしマンガ付き】",
-      "author": "しろ46/ミコタにう/椎名咲月",
-      "publisher": "TOブックス",
-      "price": 493,
-      "url": "https://books.rakuten.co.jp/rk/f3e6fbeb6a5a36e38d1992294a814acb/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4982/2000018264982.jpg?_ex=600x600",
-      "caption": "【電子書籍限定描き下ろしマンガ】付き！\nシリーズ累計20万部突破！（電子書籍を含む）\n原作小説第７巻と同日発売！\n所持金ゼロから始める、転生タフ令嬢の逆転ダイアリー！\n待望のコミカライズ第３巻！\n描き下ろし漫画＆原作・ミコタにう先生による書き下ろしSSを収録！\nエクシュタイン公爵から後見人の申し出をされた伯爵家令嬢ゲルトルード。\n問題は山積みだが、何よりもまずは日々の生活が大切！\n家族みんなで楽しくフルーツサンドの開発に取り組むなか、今度は予想外のところから訪問客が!?\n家族愛とたくましさでポジティブに逆境を乗り越えていく！\n所持金ゼロから始める、転生タフ令嬢の逆転ダイアリー第３巻！\n",
-      "salesDate": "2025年10月01日",
-      "series": "没落伯爵令嬢は家族を養いたい@COMIC",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904090",
-      "isbn": "8910129266594",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "没落伯爵令嬢は家族を養いたい@COMIC 第3巻【電子書籍限定描き下ろしマンガ付き】",
-        "author": "",
-        "itemNumber": "",
-        "regularPrice": 704,
-        "salePrice": 493,
-        "discountPercent": 30,
-        "saleEndAt": "",
-        "saleCampaign": "楽天ブックス セール一覧",
-        "saleCampaigns": [
-          "楽天ブックス セール一覧"
-        ],
-        "sourceGenre": "",
-        "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-        "saleSources": [
-          "rakuten-sale-search"
-        ],
-        "originalTitle": "没落伯爵令嬢は家族を養いたい@COMIC 第3巻【電子書籍限定描き下ろしマンガ付き】 （Celicaコミックス）"
-      },
-      "regularPrice": 704,
-      "salePrice": 493,
-      "discountPercent": 30,
-      "saleEndAt": "",
-      "saleCampaign": "楽天ブックス セール一覧",
-      "sourceGenre": "",
-      "saleCampaigns": [
-        "楽天ブックス セール一覧"
-      ],
-      "saleSources": [
-        "rakuten-sale-search"
-      ],
-      "campaignMerch": "53626",
-      "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-      "saleVerified": true,
-      "verifiedAt": "2026-09-03T11:42:14.362Z"
-    },
-    {
-      "id": "4380000401493",
-      "title": "自分なくしの旅",
-      "author": "みうらじゅん",
-      "publisher": "幻冬舎",
-      "price": 439,
-      "url": "https://books.rakuten.co.jp/rk/8981ddfb04e43680920f5b401a095d96/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7791/2000001687791.jpg?_ex=600x600",
-      "caption": "美大を目指し、京都から上京した浪人生の乾純。美術予備校へと通う純の前に“東てる美”に似た美奈が現れた。即、恋に落ちた純は童貞を捨てて、覚えたてのセックスにのめり込んでいく。だが受験を前にして、親の愛情は重くのしかかり、友人たちとの距離は広がり、すべてが混乱のるつぼと化していく……。自分を見失った果てには一体、何があるのか。\n",
-      "salesDate": "2014年01月17日",
-      "series": "",
-      "reviewAverage": 3.36,
-      "reviewCount": 14,
-      "genreId": "101913",
-      "isbn": "4380000401493",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "自分なくしの旅",
-        "author": "",
-        "itemNumber": "",
-        "regularPrice": 627,
-        "salePrice": 439,
-        "discountPercent": 30,
-        "saleEndAt": "",
-        "saleCampaign": "楽天ブックス セール一覧",
-        "saleCampaigns": [
-          "楽天ブックス セール一覧"
-        ],
-        "sourceGenre": "",
-        "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-        "saleSources": [
-          "rakuten-sale-search"
-        ],
-        "originalTitle": "自分なくしの旅 （幻冬舎文庫）"
-      },
-      "regularPrice": 627,
-      "salePrice": 439,
-      "discountPercent": 30,
-      "saleEndAt": "",
-      "saleCampaign": "楽天ブックス セール一覧",
-      "sourceGenre": "",
-      "saleCampaigns": [
-        "楽天ブックス セール一覧"
-      ],
-      "saleSources": [
-        "rakuten-sale-search"
-      ],
-      "campaignMerch": "53626",
-      "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-      "saleVerified": true,
-      "verifiedAt": "2026-09-03T11:42:14.362Z"
-    },
-    {
-      "id": "4380000403022",
-      "title": "「これ」だけ意識すればきれいになる。　自律神経美人をつくる126の習慣",
-      "author": "小林弘幸",
-      "publisher": "幻冬舎",
-      "price": 425,
-      "url": "https://books.rakuten.co.jp/rk/86bed4a832b33755bbbfe86b4420c21f/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4499/2000004164499.jpg?_ex=600x600",
-      "caption": "「細胞のすみずみにまで、きれいな血液を流す」。それが、心身ともに健康で美しくなる鍵なのです。そのためには、「自律神経のバランスを、高いレベルで安定させる」こと。「腸」「食」「呼吸」「水」から、「メンタル」「恋愛」「ファッション」まで、日常生活の中で、自律神経を整えて美しくなるシンプルな習慣を伝授する、「きれい」のヒント満載。\n",
-      "salesDate": "2016年04月12日",
-      "series": "",
-      "reviewAverage": 4.09,
-      "reviewCount": 12,
-      "genreId": "101909014",
-      "isbn": "4380000403022",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "「これ」だけ意識すればきれいになる。 自律神経美人をつくる126の習慣",
-        "author": "",
-        "itemNumber": "",
-        "regularPrice": 606,
-        "salePrice": 425,
-        "discountPercent": 30,
-        "saleEndAt": "",
-        "saleCampaign": "楽天ブックス セール一覧",
-        "saleCampaigns": [
-          "楽天ブックス セール一覧"
-        ],
-        "sourceGenre": "",
-        "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-        "saleSources": [
-          "rakuten-sale-search"
-        ],
-        "originalTitle": "「これ」だけ意識すればきれいになる。　自律神経美人をつくる126の習慣 （幻冬舎文庫）"
-      },
-      "regularPrice": 606,
-      "salePrice": 425,
-      "discountPercent": 30,
-      "saleEndAt": "",
-      "saleCampaign": "楽天ブックス セール一覧",
-      "sourceGenre": "",
-      "saleCampaigns": [
-        "楽天ブックス セール一覧"
-      ],
-      "saleSources": [
-        "rakuten-sale-search"
-      ],
-      "campaignMerch": "53626",
-      "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-      "saleVerified": true,
-      "verifiedAt": "2026-09-03T11:42:14.362Z"
-    },
     {
       "id": "8890355001203",
       "title": "鬼畜英雄（１）",
@@ -1083,10 +25,10 @@
       "isbn": "8890355001203",
       "salesType": 0,
       "matchMeta": {
-        "title": "鬼畜英雄(10) (GANMA!)",
+        "title": "鬼畜英雄(1) (GANMA!)",
         "author": "",
         "itemNumber": "",
-        "regularPrice": 792,
+        "regularPrice": 748,
         "salePrice": 11,
         "discountPercent": 99,
         "saleEndAt": "",
@@ -1096,13 +38,13 @@
         ],
         "sourceGenre": "",
         "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
         "saleSources": [
           "rakuten-sale-search"
         ],
-        "originalTitle": "鬼畜英雄（１０） （GANMA!）"
+        "originalTitle": "鬼畜英雄（１） （GANMA!）"
       },
-      "regularPrice": 792,
+      "regularPrice": 748,
       "salePrice": 11,
       "discountPercent": 99,
       "saleEndAt": "",
@@ -1115,274 +57,9 @@
         "rakuten-sale-search"
       ],
       "campaignMerch": "53626",
-      "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
+      "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
       "saleVerified": true,
-      "verifiedAt": "2026-09-03T11:42:14.362Z"
-    },
-    {
-      "id": "8890355001943",
-      "title": "鬼畜英雄【単話版】（８）",
-      "author": "よのき",
-      "publisher": "GANMA!",
-      "price": 11,
-      "url": "https://books.rakuten.co.jp/rk/84206d56671a3339aa27779bd6b14e87/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3980/2000012903980.jpg?_ex=600x600",
-      "caption": "無双チート淫魔、異世界に降臨!\nどんな女も即ハーレムファンタジー!!\n──魔界に転生し、女性と性行為すればするほど無双チート化する伝説の種族「淫魔(インキュバス)」になった俺。\n金も名誉も女も全部ゲットできたけど、本当に欲しいのはより強力なスキル。\n次は人間かエルフとヤらないとスキルツリーが解放されないので、人間界にテレポート！\n薬師のエルフ少女、SSランクアサシンの冷酷美女をさっそく支配下に!?\n（著者名：よのき／初出：GANMA!8話収録）\n",
-      "salesDate": "2023年05月25日",
-      "series": "鬼畜英雄【単話版】",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904090",
-      "isbn": "8890355001943",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "鬼畜英雄(8) (GANMA!)",
-        "author": "",
-        "itemNumber": "",
-        "regularPrice": 792,
-        "salePrice": 11,
-        "discountPercent": 99,
-        "saleEndAt": "",
-        "saleCampaign": "楽天ブックス セール一覧",
-        "saleCampaigns": [
-          "楽天ブックス セール一覧"
-        ],
-        "sourceGenre": "",
-        "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-        "saleSources": [
-          "rakuten-sale-search"
-        ],
-        "originalTitle": "鬼畜英雄（８） （GANMA!）"
-      },
-      "regularPrice": 792,
-      "salePrice": 11,
-      "discountPercent": 99,
-      "saleEndAt": "",
-      "saleCampaign": "楽天ブックス セール一覧",
-      "sourceGenre": "",
-      "saleCampaigns": [
-        "楽天ブックス セール一覧"
-      ],
-      "saleSources": [
-        "rakuten-sale-search"
-      ],
-      "campaignMerch": "53626",
-      "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-      "saleVerified": true,
-      "verifiedAt": "2026-09-03T11:42:14.362Z"
-    },
-    {
-      "id": "8890090029762",
-      "title": "鬼畜英雄【デジタル修正版】合本版（１）",
-      "author": "よのき",
-      "publisher": "GANMA!",
-      "price": 33,
-      "url": "https://books.rakuten.co.jp/rk/d229d7d6807131e2beaa744abf1e533a/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1526/2000020481526.jpg?_ex=600x600",
-      "caption": "【この合本版は『鬼畜英雄【デジタル修正版】』1〜3巻本編が収録されています。※コミックス収録の描きおろしマンガの収録はございません】\n《1巻あらすじ》\n無双チート淫魔、異世界に降臨！\nどんな女も即ハーレムファンタジー!!\n──魔界に転生し、女性と性行為すればするほど無双チート化する伝説の種族「淫魔(インキュバス)」になった俺。\n金も名誉も女も全部ゲットできたけど、本当に欲しいのはより強力なスキル。\n次は人間かエルフとヤらないとスキルツリーが解放されないので、人間界にテレポート！\n薬師のエルフ少女、SSランクアサシンの冷酷美女をさっそく支配下に!?\n《2巻あらすじ》\n目を付けた薬師のエルフ少女・アウラを救うため、暴虐の悪魔・バトンの根城へ突撃した俺。\n苦も無く蹴散らし彼女と一夜を過ごしたら、噂を聞きつけた猫娘メイド＆狐美人の貴族に誘われ、次は大都市ヘルテラへ！\n女格闘家や名家のお嬢様に手を出しつつ、めざすは光属性無効スキルをゲットするため聖女とのセックス♪　全ての欲望は己が「英雄的行動」のために…!!\n《3巻あらすじ》\n大都市ヘルテラに到着したオレはギルドで早速トラブルに巻き込まれ、貴族のお嬢様の犬になるのだった。\n冒険者ギルドでゴブリンに攫われたシスターを捜す依頼を受けたオレはお嬢様たちと奴らの洞窟に潜入する。\nそこはさらわれた女性たちがゴブリンどもに凌辱の限りを尽くされる地獄だった。\nこみ上げる怒りを押さえつつ、オレは一旦めちゃくちゃエロいシスターとセックスするのだった…!!\n",
-      "salesDate": "2026年05月01日",
-      "series": "鬼畜英雄【デジタル修正版】合本版",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904090",
-      "isbn": "8890090029762",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "鬼畜英雄【デジタル修正版】合本版(1) (GANMA!)",
-        "author": "",
-        "itemNumber": "",
-        "regularPrice": 2024,
-        "salePrice": 33,
-        "discountPercent": 98,
-        "saleEndAt": "",
-        "saleCampaign": "楽天ブックス セール一覧",
-        "saleCampaigns": [
-          "楽天ブックス セール一覧"
-        ],
-        "sourceGenre": "",
-        "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-        "saleSources": [
-          "rakuten-sale-search"
-        ],
-        "originalTitle": "鬼畜英雄【デジタル修正版】合本版（１） （GANMA!）"
-      },
-      "regularPrice": 2024,
-      "salePrice": 33,
-      "discountPercent": 98,
-      "saleEndAt": "",
-      "saleCampaign": "楽天ブックス セール一覧",
-      "sourceGenre": "",
-      "saleCampaigns": [
-        "楽天ブックス セール一覧"
-      ],
-      "saleSources": [
-        "rakuten-sale-search"
-      ],
-      "campaignMerch": "53626",
-      "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-      "saleVerified": true,
-      "verifiedAt": "2026-09-03T11:42:14.362Z"
-    },
-    {
-      "id": "8890090029764",
-      "title": "鬼畜英雄【デジタル修正版】合本版（３）",
-      "author": "よのき",
-      "publisher": "GANMA!",
-      "price": 33,
-      "url": "https://books.rakuten.co.jp/rk/bd602734e8403d9fa283d3f5f3cdb630/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1452/2000020481452.jpg?_ex=600x600",
-      "caption": "【この合本版は『鬼畜英雄【デジタル修正版】』7〜9巻本編が収録されています。※コミックス収録の描きおろしマンガの収録はございません】\n《7巻あらすじ》\n何度も苦戦を強いられてきたゴブリンコンビ・ロミオ＆ボイドとの戦いに決着をつけたタカミチたち一行。しかしヘルテラ城には英雄級上位「ゴブリン女王」が迫っていた。これまでにない最凶の敵にタカミチはどう立ち向かうのか……VSゴブリン編、最大の死闘が幕を開ける\n《8巻あらすじ》\nゴブリンの母としてゴブリンたちを操り、ゴブリン女王の膨大な黒魔力で魔界へと繋がるゲートを開いた、魔眼少女協会副会長アユン。ゲートからは異形の英雄級の群れが溢れ出し、人間界を無慈悲に蹂躙していく。跋扈する災厄に全てを諦めかけたオアシスの前に、タカミチが満を持して見っ参っ!!\n《9巻あらすじ》\nゲートから溢れ出たのは旧知の悪魔たち。ゴブリン女王にも懐かれて無事ゴブリン戦争も終結。見事にヘルテラ領の危機を救ったように見えたタカミチだったが…。突然現れた人間界の「聖人」による攻撃に、思わず「支配領域・東方淫獄魔都」を発動してしまう。ヘルテラ領の人間たちの運命は!?\n",
-      "salesDate": "2026年05月01日",
-      "series": "鬼畜英雄【デジタル修正版】合本版",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904090",
-      "isbn": "8890090029764",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "鬼畜英雄【デジタル修正版】合本版(3) (GANMA!)",
-        "author": "",
-        "itemNumber": "",
-        "regularPrice": 2156,
-        "salePrice": 33,
-        "discountPercent": 98,
-        "saleEndAt": "",
-        "saleCampaign": "楽天ブックス セール一覧",
-        "saleCampaigns": [
-          "楽天ブックス セール一覧"
-        ],
-        "sourceGenre": "",
-        "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-        "saleSources": [
-          "rakuten-sale-search"
-        ],
-        "originalTitle": "鬼畜英雄【デジタル修正版】合本版（３） （GANMA!）"
-      },
-      "regularPrice": 2156,
-      "salePrice": 33,
-      "discountPercent": 98,
-      "saleEndAt": "",
-      "saleCampaign": "楽天ブックス セール一覧",
-      "sourceGenre": "",
-      "saleCampaigns": [
-        "楽天ブックス セール一覧"
-      ],
-      "saleSources": [
-        "rakuten-sale-search"
-      ],
-      "campaignMerch": "53626",
-      "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-      "saleVerified": true,
-      "verifiedAt": "2026-09-03T11:42:14.362Z"
-    },
-    {
-      "id": "8890090029763",
-      "title": "鬼畜英雄【デジタル修正版】合本版（２）",
-      "author": "よのき",
-      "publisher": "GANMA!",
-      "price": 33,
-      "url": "https://books.rakuten.co.jp/rk/d6961d5113b13e7d91481547db15fc43/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1520/2000020481520.jpg?_ex=600x600",
-      "caption": "【この合本版は『鬼畜英雄【デジタル修正版】』4〜6巻本編が収録されています。※コミックス収録の描きおろしマンガの収録はございません】\n《4巻あらすじ》\n「英雄級」の強さを持つゴブリン幹部・ハーグの魔の手から女冒険者たちを救うため、颯爽と助けに入ったオレ。\n愛も道徳も知らずに人間の女と交わる不届き者を即成敗！\nインキュバスの力を使ったハーレムえっちで蘇生どころか強化してみせるも…。\nヘルテラ各地を超強力なゴブリン頭領たちが侵略し、次々と美少女美女を慰み物に!?\nオレの「英雄的行動」で止めてみせる！あの絶対的な悪を!!\n《5巻あらすじ》\nタカミチ城に攻めてきた超巨大ゴブリンを華麗に撃退したオレたち。\n祝杯パーティーのあとには、お待ちかねのムフフな“お楽しみタイム”で心身共にリフレ〜ッシュ♪\nそんな中、徴兵のために多くの兵士が集まった前線基地でゴブリンたちの奇策「人間爆弾」が猛威を振るう事態に。\nさっそく問題解決に駆り出されたと思ったら、必要なのは……オレの大量の精液だってぇ!?\n《6巻あらすじ》\n悪鬼たちを殲滅すべく“月光の人魚姫”は冷たく嗤う。\nゴブリンに占拠された第一要塞を奪還するためにサイレンス家当主・カミラ率いる手練れの英雄級が集結した。\nカミラは英雄級中位の圧倒的な力でロミオたちを追い詰め勝利は目前と思われたが、ゴブリンの母の登場で事態は一変し……!?\nVSゴブリン編、最高潮!!\n",
-      "salesDate": "2026年05月01日",
-      "series": "鬼畜英雄【デジタル修正版】合本版",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904090",
-      "isbn": "8890090029763",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "鬼畜英雄【デジタル修正版】合本版(2) (GANMA!)",
-        "author": "",
-        "itemNumber": "",
-        "regularPrice": 2112,
-        "salePrice": 33,
-        "discountPercent": 98,
-        "saleEndAt": "",
-        "saleCampaign": "楽天ブックス セール一覧",
-        "saleCampaigns": [
-          "楽天ブックス セール一覧"
-        ],
-        "sourceGenre": "",
-        "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-        "saleSources": [
-          "rakuten-sale-search"
-        ],
-        "originalTitle": "鬼畜英雄【デジタル修正版】合本版（２） （GANMA!）"
-      },
-      "regularPrice": 2112,
-      "salePrice": 33,
-      "discountPercent": 98,
-      "saleEndAt": "",
-      "saleCampaign": "楽天ブックス セール一覧",
-      "sourceGenre": "",
-      "saleCampaigns": [
-        "楽天ブックス セール一覧"
-      ],
-      "saleSources": [
-        "rakuten-sale-search"
-      ],
-      "campaignMerch": "53626",
-      "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-      "saleVerified": true,
-      "verifiedAt": "2026-09-03T11:42:14.362Z"
-    },
-    {
-      "id": "4972000016524",
-      "title": "有閑倶楽部 カラー版 1",
-      "author": "一条ゆかり",
-      "publisher": "集英社",
-      "price": 100,
-      "url": "https://books.rakuten.co.jp/rk/099b7b98a6cf394e8f109232c329d25e/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0156/2000007240156.jpg?_ex=600x600",
-      "caption": "【ページ数が多いビッグボリューム版！】【デジタル着色によるフルカラー版！】聖プレジデント学園の生徒会6人組…ご存じ“有閑倶楽部”。アクション担当・悠理と魅録、頭脳担当・野梨子と清四郎、お色気担当・可憐と美童。無敵で過激な面々が巻き起こす、痛快アクション・コメディ!!\n",
-      "salesDate": "2019年04月01日",
-      "series": "有閑倶楽部 カラー版",
-      "reviewAverage": 4,
-      "reviewCount": 1,
-      "genreId": "101904011007",
-      "isbn": "4972000016524",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "有閑倶楽部 カラー版 1",
-        "author": "",
-        "itemNumber": "",
-        "regularPrice": 946,
-        "salePrice": 100,
-        "discountPercent": 89,
-        "saleEndAt": "",
-        "saleCampaign": "楽天ブックス セール一覧",
-        "saleCampaigns": [
-          "楽天ブックス セール一覧"
-        ],
-        "sourceGenre": "",
-        "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-        "saleSources": [
-          "rakuten-sale-search"
-        ],
-        "originalTitle": "有閑倶楽部 カラー版 1 （りぼんマスコットコミックスDIGITAL）"
-      },
-      "regularPrice": 946,
-      "salePrice": 100,
-      "discountPercent": 89,
-      "saleEndAt": "",
-      "saleCampaign": "楽天ブックス セール一覧",
-      "sourceGenre": "",
-      "saleCampaigns": [
-        "楽天ブックス セール一覧"
-      ],
-      "saleSources": [
-        "rakuten-sale-search"
-      ],
-      "campaignMerch": "53626",
-      "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-      "saleVerified": true,
-      "verifiedAt": "2026-09-03T11:42:14.362Z"
+      "verifiedAt": "2026-09-03T11:48:18.223Z"
     },
     {
       "id": "4972000016525",
@@ -1401,7 +78,7 @@
       "isbn": "4972000016525",
       "salesType": 0,
       "matchMeta": {
-        "title": "有閑倶楽部 カラー版 2",
+        "title": "有閑倶楽部 カラー版 2 （りぼんマスコットコミックスDIGITAL）",
         "author": "",
         "itemNumber": "",
         "regularPrice": 946,
@@ -1414,28 +91,27 @@
         ],
         "sourceGenre": "",
         "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
         "saleSources": [
           "rakuten-sale-search"
-        ],
-        "originalTitle": "有閑倶楽部 カラー版 2 （りぼんマスコットコミックスDIGITAL）"
+        ]
       },
       "regularPrice": 946,
       "salePrice": 100,
       "discountPercent": 89,
       "saleEndAt": "",
       "saleCampaign": "楽天ブックス セール一覧",
-      "sourceGenre": "",
       "saleCampaigns": [
         "楽天ブックス セール一覧"
       ],
+      "sourceGenre": "",
       "saleSources": [
         "rakuten-sale-search"
       ],
       "campaignMerch": "53626",
-      "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
+      "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
       "saleVerified": true,
-      "verifiedAt": "2026-09-03T11:42:14.362Z"
+      "verifiedAt": "2026-09-03T11:48:21.639Z"
     },
     {
       "id": "4972000016526",
@@ -1467,7 +143,7 @@
         ],
         "sourceGenre": "",
         "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
         "saleSources": [
           "rakuten-sale-search"
         ],
@@ -1486,9 +162,9 @@
         "rakuten-sale-search"
       ],
       "campaignMerch": "53626",
-      "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
+      "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
       "saleVerified": true,
-      "verifiedAt": "2026-09-03T11:42:14.362Z"
+      "verifiedAt": "2026-09-03T11:48:18.223Z"
     },
     {
       "id": "4972000016527",
@@ -1520,7 +196,7 @@
         ],
         "sourceGenre": "",
         "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
         "saleSources": [
           "rakuten-sale-search"
         ],
@@ -1539,33 +215,33 @@
         "rakuten-sale-search"
       ],
       "campaignMerch": "53626",
-      "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
+      "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
       "saleVerified": true,
-      "verifiedAt": "2026-09-03T11:42:14.362Z"
+      "verifiedAt": "2026-09-03T11:48:18.223Z"
     },
     {
-      "id": "4970300700002",
-      "title": "ぼくの体はツーアウト 3",
-      "author": "よしたに",
+      "id": "4972000116574",
+      "title": "黒猫の剣士〜ブラックなパーティを辞めたらS級冒険者にスカウトされました。今さら「戻ってきて」と言われても「もう遅い」です〜 11",
+      "author": "妹尾尻尾/そら蒼/石田あきら",
       "publisher": "集英社",
       "price": 100,
-      "url": "https://books.rakuten.co.jp/rk/a88d32b44781304496da9b9e3a2a6cfd/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8959/2000003118959.jpg?_ex=600x600",
-      "caption": "【フルカラー版！】ネット、アニメ、ゲーム、大変結構！　けど健康だけは大切に。　オタリーマンの肉体改善コミック!!\n",
-      "salesDate": "2015年05月19日",
-      "series": "ぼくの体はツーアウト",
-      "reviewAverage": 3.5,
-      "reviewCount": 6,
+      "url": "https://books.rakuten.co.jp/rk/0426e08506a5314aae24694e7b6dac10/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2529/2000017122529.jpg?_ex=600x600",
+      "caption": "無能扱い→実は最強の冒険者！　ナインの思い、そして『紅鷹』全ての願いを込めてダリアが打ち込んだ『祖龍剛撃（ゴッド・スマッシュ）』が『邪竜王（ヴァルムント）』の『竜剛』を貫いた！　しかし、自身の滅亡を悟った『邪竜王』は各地に散らばらせた己の分体を集め、ダリアを道連れに空へ飛び去ってしまう。渾身の力を振り絞って必死にダリアを追うナインとエヌ！　最後の死闘が繰り広げられる星の彼方で、2人が辿る運命はーー!?　『邪竜王』討伐から数年後を描いた特別長編番外編も収録。超速の異世界バトルファンタジー、感動の最終巻!!\n",
+      "salesDate": "2025年04月17日",
+      "series": "黒猫の剣士〜ブラックなパーティを辞めたらS級冒険者にスカウトされました。今さら「戻ってきて」と言われても「もう遅い」です〜",
+      "reviewAverage": 0,
+      "reviewCount": 0,
       "genreId": "101904002006",
-      "isbn": "4970300700002",
+      "isbn": "4972000116574",
       "salesType": 0,
       "matchMeta": {
-        "title": "ぼくの体はツーアウト 3",
+        "title": "黒猫の剣士〜ブラックなパーティを辞めたらS級冒険者にスカウトされました。今さら「戻ってきて」と言われても「もう遅い」です〜 11",
         "author": "",
         "itemNumber": "",
-        "regularPrice": 814,
+        "regularPrice": 752,
         "salePrice": 100,
-        "discountPercent": 88,
+        "discountPercent": 87,
         "saleEndAt": "",
         "saleCampaign": "楽天ブックス セール一覧",
         "saleCampaigns": [
@@ -1573,15 +249,15 @@
         ],
         "sourceGenre": "",
         "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
         "saleSources": [
           "rakuten-sale-search"
         ],
-        "originalTitle": "ぼくの体はツーアウト 3 （ヤングジャンプコミックスDIGITAL）"
+        "originalTitle": "黒猫の剣士〜ブラックなパーティを辞めたらS級冒険者にスカウトされました。今さら「戻ってきて」と言われても「もう遅い」です〜 11 （ヤングジャンプコミックスDIGITAL）"
       },
-      "regularPrice": 814,
+      "regularPrice": 752,
       "salePrice": 100,
-      "discountPercent": 88,
+      "discountPercent": 87,
       "saleEndAt": "",
       "saleCampaign": "楽天ブックス セール一覧",
       "sourceGenre": "",
@@ -1592,9 +268,167 @@
         "rakuten-sale-search"
       ],
       "campaignMerch": "53626",
-      "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
+      "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
       "saleVerified": true,
-      "verifiedAt": "2026-09-03T11:42:14.362Z"
+      "verifiedAt": "2026-09-03T11:48:18.223Z"
+    },
+    {
+      "id": "4339494600310",
+      "title": "主人公の幼馴染が、脇役の俺にグイグイくる",
+      "author": "駱駝/こむぴ",
+      "publisher": "KADOKAWA",
+      "price": 99,
+      "url": "https://books.rakuten.co.jp/rk/a02d81e1e8d03b97b538374e1b3e473e/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2558/2000016712558.jpg?_ex=600x600",
+      "caption": "　うちの高校にはラブコメ主人公のような奴がいる。パッとしないのに、なぜだか美少女からモテまくるとんでもない男だ。　そんな男のラブコメに、俺は殺された。やってもいない罪を裁かれ、全てを失い、自ら命を断ったんだ。ーーだけど、奇跡が起きた。気がつけば俺は二年前の、高校一年の入学式の朝に戻っていた。　奇跡的に得られた二度目の人生、今度こそラブコメにはーー。「石井和希君、愛しています。結婚しましょう」　なんで!?　主人公の幼馴染かつド本命の女、氷高命が俺に告白を!!??　クラスでは『氷の女帝』なのに、なぜか俺にだけはグイグイきて……！　ちょっと待て、お前が好きなのは俺じゃないだろ!?\n",
+      "salesDate": "2025年01月10日",
+      "series": "主人公の幼馴染が、脇役の俺にグイグイくる",
+      "reviewAverage": 4,
+      "reviewCount": 3,
+      "genreId": "101903001004",
+      "isbn": "4339494600310",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "主人公の幼馴染が、脇役の俺にグイグイくる",
+        "author": "",
+        "itemNumber": "",
+        "regularPrice": 770,
+        "salePrice": 99,
+        "discountPercent": 87,
+        "saleEndAt": "",
+        "saleCampaign": "楽天ブックス セール一覧",
+        "saleCampaigns": [
+          "楽天ブックス セール一覧"
+        ],
+        "sourceGenre": "",
+        "campaignMerch": "53626",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+        "saleSources": [
+          "rakuten-sale-search"
+        ],
+        "originalTitle": "主人公の幼馴染が、脇役の俺にグイグイくる （電撃文庫）"
+      },
+      "regularPrice": 770,
+      "salePrice": 99,
+      "discountPercent": 87,
+      "saleEndAt": "",
+      "saleCampaign": "楽天ブックス セール一覧",
+      "sourceGenre": "",
+      "saleCampaigns": [
+        "楽天ブックス セール一覧"
+      ],
+      "saleSources": [
+        "rakuten-sale-search"
+      ],
+      "campaignMerch": "53626",
+      "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+      "saleVerified": true,
+      "verifiedAt": "2026-09-03T11:48:18.223Z"
+    },
+    {
+      "id": "4972000070496",
+      "title": "黒猫の剣士〜ブラックなパーティを辞めたらS級冒険者にスカウトされました。今さら「戻ってきて」と言われても「もう遅い」です〜 6",
+      "author": "妹尾尻尾/そら蒼/石田あきら",
+      "publisher": "集英社",
+      "price": 100,
+      "url": "https://books.rakuten.co.jp/rk/66900be48dc838ac9f3635c801c732ed/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6742/2000013746742.jpg?_ex=600x600",
+      "caption": "無能扱い→実は最強の冒険者！　ジリジリと追い詰められながらも、勝ちを確信して攻撃の手を緩めないバンソロミュー。しかし『紅鷹』の面々は、次々と敵の手を読み、覆していく！　領主であるタンミワ卿を逃がし、モンスターまでも召喚したバンソロミューだったが『紅鷹』の圧倒的な頭脳と実力を前に完敗を喫した。首謀者たちは逮捕。これでギルドを巻き込む麻薬事件は無事収束したかに思えたが、闇の根はまだ深く…!?　超速の異世界バトルファンタジー、待望の第6巻!!\n",
+      "salesDate": "2023年11月17日",
+      "series": "黒猫の剣士〜ブラックなパーティを辞めたらS級冒険者にスカウトされました。今さら「戻ってきて」と言われても「もう遅い」です〜",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904002006",
+      "isbn": "4972000070496",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "黒猫の剣士〜ブラックなパーティを辞めたらS級冒険者にスカウトされました。今さら「戻ってきて」と言われても「もう遅い」です〜 6 （ヤングジャンプコミックスDIGITAL）",
+        "author": "",
+        "itemNumber": "",
+        "regularPrice": 680,
+        "salePrice": 100,
+        "discountPercent": 85,
+        "saleEndAt": "",
+        "saleCampaign": "楽天ブックス セール一覧",
+        "saleCampaigns": [
+          "楽天ブックス セール一覧"
+        ],
+        "sourceGenre": "",
+        "campaignMerch": "53626",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+        "saleSources": [
+          "rakuten-sale-search"
+        ]
+      },
+      "regularPrice": 680,
+      "salePrice": 100,
+      "discountPercent": 85,
+      "saleEndAt": "",
+      "saleCampaign": "楽天ブックス セール一覧",
+      "saleCampaigns": [
+        "楽天ブックス セール一覧"
+      ],
+      "sourceGenre": "",
+      "saleSources": [
+        "rakuten-sale-search"
+      ],
+      "campaignMerch": "53626",
+      "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+      "saleVerified": true,
+      "verifiedAt": "2026-09-03T11:48:24.657Z"
+    },
+    {
+      "id": "4972000078327",
+      "title": "黒猫の剣士〜ブラックなパーティを辞めたらS級冒険者にスカウトされました。今さら「戻ってきて」と言われても「もう遅い」です〜 7",
+      "author": "妹尾尻尾/そら蒼/石田あきら",
+      "publisher": "集英社",
+      "price": 100,
+      "url": "https://books.rakuten.co.jp/rk/f57641e84e82307aa6a5afab4f060724/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7433/2000014357433.jpg?_ex=600x600",
+      "caption": "無能扱い→実は最強の冒険者！　鑑定器具にかかった魔術をナインが剣術で斬り、“竜の粉”の成分が“星聖竜・ヴァルムント”から削り取られたものだと判明した。さらに、星聖竜騎士団の団長ニールが真摯に謝罪を述べ、『紅鷹』への邪竜討伐依頼（ドラゴン・クエスト）にも協力を申し出る！　ニールの同行目的に一抹の不安を感じながらも、了承するユージン。リンダ不在の『紅鷹』3人とニールが向かった先では、トルネードドラゴン“ウィドレクト”が猛威をふるっていた。この脅威に4人はどう戦う…!?　超速の異世界バトルファンタジー、待望の第7巻!!\n",
+      "salesDate": "2024年03月18日",
+      "series": "黒猫の剣士〜ブラックなパーティを辞めたらS級冒険者にスカウトされました。今さら「戻ってきて」と言われても「もう遅い」です〜",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904002006",
+      "isbn": "4972000078327",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "黒猫の剣士〜ブラックなパーティを辞めたらS級冒険者にスカウトされました。今さら「戻ってきて」と言われても「もう遅い」です〜 7",
+        "author": "",
+        "itemNumber": "",
+        "regularPrice": 680,
+        "salePrice": 100,
+        "discountPercent": 85,
+        "saleEndAt": "",
+        "saleCampaign": "楽天ブックス セール一覧",
+        "saleCampaigns": [
+          "楽天ブックス セール一覧"
+        ],
+        "sourceGenre": "",
+        "campaignMerch": "53626",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+        "saleSources": [
+          "rakuten-sale-search"
+        ],
+        "originalTitle": "黒猫の剣士〜ブラックなパーティを辞めたらS級冒険者にスカウトされました。今さら「戻ってきて」と言われても「もう遅い」です〜 7 （ヤングジャンプコミックスDIGITAL）"
+      },
+      "regularPrice": 680,
+      "salePrice": 100,
+      "discountPercent": 85,
+      "saleEndAt": "",
+      "saleCampaign": "楽天ブックス セール一覧",
+      "sourceGenre": "",
+      "saleCampaigns": [
+        "楽天ブックス セール一覧"
+      ],
+      "saleSources": [
+        "rakuten-sale-search"
+      ],
+      "campaignMerch": "53626",
+      "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+      "saleVerified": true,
+      "verifiedAt": "2026-09-03T11:48:18.223Z"
     },
     {
       "id": "7328120261631",
@@ -1613,7 +447,7 @@
       "isbn": "7328120261631",
       "salesType": 0,
       "matchMeta": {
-        "title": "ドラゴンクエスト エデンの戦士たち2巻 （ガンガンコミックス）",
+        "title": "ドラゴンクエスト エデンの戦士たち2巻",
         "author": "",
         "itemNumber": "",
         "regularPrice": 590,
@@ -1626,7 +460,60 @@
         ],
         "sourceGenre": "",
         "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+        "saleSources": [
+          "rakuten-sale-search"
+        ],
+        "originalTitle": "ドラゴンクエスト エデンの戦士たち2巻 （ガンガンコミックス）"
+      },
+      "regularPrice": 590,
+      "salePrice": 100,
+      "discountPercent": 83,
+      "saleEndAt": "",
+      "saleCampaign": "楽天ブックス セール一覧",
+      "sourceGenre": "",
+      "saleCampaigns": [
+        "楽天ブックス セール一覧"
+      ],
+      "saleSources": [
+        "rakuten-sale-search"
+      ],
+      "campaignMerch": "53626",
+      "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+      "saleVerified": true,
+      "verifiedAt": "2026-09-03T11:48:18.223Z"
+    },
+    {
+      "id": "7328120261630",
+      "title": "ドラゴンクエスト エデンの戦士たち1巻",
+      "author": "藤原カムイ/堀井雄二",
+      "publisher": "スクウェア・エニックス",
+      "price": 100,
+      "url": "https://books.rakuten.co.jp/rk/5434c7f1e8eb3ad0bb88b162950831e1/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9030/2000006729030.jpg?_ex=600x600",
+      "caption": "あの伝説（ドラゴンクエストVII）が、さらにスケールアップ!!　“選ばれし者（アルス・キーファ・マリベル）”の“冒険（さだめ）”が動き出す!!\n",
+      "salesDate": "2012年09月14日",
+      "series": "ドラゴンクエスト エデンの戦士たち",
+      "reviewAverage": 4.5,
+      "reviewCount": 4,
+      "genreId": "101904090",
+      "isbn": "7328120261630",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ドラゴンクエスト エデンの戦士たち1巻 （ガンガンコミックス）",
+        "author": "",
+        "itemNumber": "",
+        "regularPrice": 590,
+        "salePrice": 100,
+        "discountPercent": 83,
+        "saleEndAt": "",
+        "saleCampaign": "楽天ブックス セール一覧",
+        "saleCampaigns": [
+          "楽天ブックス セール一覧"
+        ],
+        "sourceGenre": "",
+        "campaignMerch": "53626",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
         "saleSources": [
           "rakuten-sale-search"
         ]
@@ -1644,28 +531,186 @@
         "rakuten-sale-search"
       ],
       "campaignMerch": "53626",
-      "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
+      "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
       "saleVerified": true,
-      "verifiedAt": "2026-09-03T11:42:20.187Z"
+      "verifiedAt": "2026-09-03T11:48:27.441Z"
     },
     {
-      "id": "8912121735466",
-      "title": "まちのヤクザとパン屋さん【電子単行本】",
-      "author": "あめのジジ",
-      "publisher": "秋田書店",
-      "price": 385,
-      "url": "https://books.rakuten.co.jp/rk/d8b546af953c3c108196625dc905163d/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3718/2000006253718.jpg?_ex=600x600",
-      "caption": "インテリヤクザの羽鳥は、密かにパン屋巡りをするのが趣味。深夜に営業する、とあるパン屋を発見し、パン職人・綾瀬とパン談議に花を咲かせる羽鳥だったが、目覚めると、彼に美味しく食べられてしまっていて…!? パン屋×ヤクザの“危険”で“おいしい”関係。 ※こちらは巻末に電子版のみの特典ペーパーがついています。\n",
-      "salesDate": "2018年05月16日",
-      "series": "まちのヤクザとパン屋さん【電子単行本】",
-      "reviewAverage": 3,
-      "reviewCount": 4,
-      "genreId": "101940002",
-      "isbn": "8912121735466",
+      "id": "4970100801565",
+      "title": "闘将!! 拉麺男 2",
+      "author": "ゆでたまご",
+      "publisher": "集英社",
+      "price": 100,
+      "url": "https://books.rakuten.co.jp/rk/a18f5948e9313825b7ce8e047f06031f/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4856/2000002324856.jpg?_ex=600x600",
+      "caption": "【初の敗北を味わったラーメンマンは…】親の仇討ちを果たし、弟子のシューマイと共に旅を続けていたラーメンマンは、長年の功績が認められ、少林寺に師範として招かれる。抜群の指導力で人望を集めるラーメンマンであったが、死んだはずの妹の出現に激しく動揺！　なんと玉王率いる将棋七鬼衆に初めての敗北を喫してしまう…!!　人気超人「ラーメンマン」の闘将記・第2巻！\n",
+      "salesDate": "2014年09月29日",
+      "series": "闘将!! 拉麺男",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904001007",
+      "isbn": "4970100801565",
       "salesType": 0,
       "matchMeta": {
-        "title": "まちのヤクザとパン屋さん【電子単行本】 （PRINCESS COMICS DX カチCOMI）",
+        "title": "闘将!! 拉麺男 2",
+        "author": "",
+        "itemNumber": "",
+        "regularPrice": 440,
+        "salePrice": 100,
+        "discountPercent": 77,
+        "saleEndAt": "",
+        "saleCampaign": "楽天ブックス セール一覧",
+        "saleCampaigns": [
+          "楽天ブックス セール一覧"
+        ],
+        "sourceGenre": "",
+        "campaignMerch": "53626",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+        "saleSources": [
+          "rakuten-sale-search"
+        ],
+        "originalTitle": "闘将!! 拉麺男 2 （ジャンプコミックスDIGITAL）"
+      },
+      "regularPrice": 440,
+      "salePrice": 100,
+      "discountPercent": 77,
+      "saleEndAt": "",
+      "saleCampaign": "楽天ブックス セール一覧",
+      "sourceGenre": "",
+      "saleCampaigns": [
+        "楽天ブックス セール一覧"
+      ],
+      "saleSources": [
+        "rakuten-sale-search"
+      ],
+      "campaignMerch": "53626",
+      "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+      "saleVerified": true,
+      "verifiedAt": "2026-09-03T11:48:18.223Z"
+    },
+    {
+      "id": "8910127353004",
+      "title": "没落伯爵令嬢は家族を養いたい@COMIC 第2巻【電子書籍限定描き下ろし漫画付き】",
+      "author": "しろ46/ミコタにう/椎名咲月",
+      "publisher": "TOブックス",
+      "price": 352,
+      "url": "https://books.rakuten.co.jp/rk/7d4c9e75b36e35abb55de7008093e94e/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3696/2000016043696.jpg?_ex=600x600",
+      "caption": "【電子書籍限定描き下ろし漫画】付き！\nシリーズ累計10万部突破！（電子書籍を含む）\n「次にくるライトノベル大賞2023」単行本部門４位！\n原作小説第５巻と同日発売！\n所持金ゼロから始める、転生タフ令嬢の逆転ダイアリー！\n待望のコミカライズ第２巻！\n描き下ろし漫画＆原作・ミコタにう先生による書き下ろしSSを収録！\n【あらすじ】\n前世の知識によるアイデアで生活資金の工面に走る、没落必至の伯爵家令嬢ゲルトルード。\n自分たちだけの力で生きていく方法も模索するなか、亡父の借金相手であるエクシュタイン公爵が家を訪れてーー？\n家族愛とたくましさでポジティブに逆境を乗り越えていく！\n所持金ゼロから始める、転生タフ令嬢の逆転ダイアリー第２巻！\n",
+      "salesDate": "2024年11月15日",
+      "series": "没落伯爵令嬢は家族を養いたい@COMIC",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904090",
+      "isbn": "8910127353004",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "没落伯爵令嬢は家族を養いたい@COMIC 第2巻【電子書籍限定描き下ろし漫画付き】 （Celicaコミックス）",
+        "author": "",
+        "itemNumber": "",
+        "regularPrice": 704,
+        "salePrice": 352,
+        "discountPercent": 50,
+        "saleEndAt": "",
+        "saleCampaign": "楽天ブックス セール一覧",
+        "saleCampaigns": [
+          "楽天ブックス セール一覧"
+        ],
+        "sourceGenre": "",
+        "campaignMerch": "53626",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+        "saleSources": [
+          "rakuten-sale-search"
+        ]
+      },
+      "regularPrice": 704,
+      "salePrice": 352,
+      "discountPercent": 50,
+      "saleEndAt": "",
+      "saleCampaign": "楽天ブックス セール一覧",
+      "saleCampaigns": [
+        "楽天ブックス セール一覧"
+      ],
+      "sourceGenre": "",
+      "saleSources": [
+        "rakuten-sale-search"
+      ],
+      "campaignMerch": "53626",
+      "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+      "saleVerified": true,
+      "verifiedAt": "2026-09-03T11:48:29.989Z"
+    },
+    {
+      "id": "8910126217120",
+      "title": "没落伯爵令嬢は家族を養いたい@COMIC 第1巻【電子書籍限定描き下ろし漫画付き】",
+      "author": "しろ46/ミコタにう/椎名咲月",
+      "publisher": "TOブックス",
+      "price": 352,
+      "url": "https://books.rakuten.co.jp/rk/ec080801e6c739d8973c0ab69363144b/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1879/2000014121879.jpg?_ex=600x600",
+      "caption": "【電子書籍限定描き下ろし漫画】付き！\n大好きな家族の笑顔を守りたい！\n所持金ゼロから始める、転生タフ令嬢の逆転ダイアリー！\n待望のコミカライズ第１巻！\n原作小説第３巻と同日発売！\n描き下ろし漫画＆原作・ミコタにう先生による書き下ろしSSを収録！\n【あらすじ】\n「私がなんとかしてみせるんだから！」\n異世界の伯爵家令嬢に転生したゲルトルードは、ゲス野郎（亡父）の借金で領地も家屋敷も失い大ピンチに！\nけれど、大好きなお母さまとかわいい妹、そして大切な使用人たちとの生活を守るため、前世の知識を駆使し新生活をスタートさせてーー！？\n家族愛とたくましさでポジティブに逆境を乗り越えていく！\n所持金ゼロから始める、転生タフ令嬢の逆転ダイアリー！\n",
+      "salesDate": "2024年02月01日",
+      "series": "没落伯爵令嬢は家族を養いたい@COMIC",
+      "reviewAverage": 3,
+      "reviewCount": 2,
+      "genreId": "101904090",
+      "isbn": "8910126217120",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "没落伯爵令嬢は家族を養いたい@COMIC 第1巻【電子書籍限定描き下ろし漫画付き】",
+        "author": "",
+        "itemNumber": "",
+        "regularPrice": 704,
+        "salePrice": 352,
+        "discountPercent": 50,
+        "saleEndAt": "",
+        "saleCampaign": "楽天ブックス セール一覧",
+        "saleCampaigns": [
+          "楽天ブックス セール一覧"
+        ],
+        "sourceGenre": "",
+        "campaignMerch": "53626",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+        "saleSources": [
+          "rakuten-sale-search"
+        ],
+        "originalTitle": "没落伯爵令嬢は家族を養いたい@COMIC 第1巻【電子書籍限定描き下ろし漫画付き】 （Celicaコミックス）"
+      },
+      "regularPrice": 704,
+      "salePrice": 352,
+      "discountPercent": 50,
+      "saleEndAt": "",
+      "saleCampaign": "楽天ブックス セール一覧",
+      "sourceGenre": "",
+      "saleCampaigns": [
+        "楽天ブックス セール一覧"
+      ],
+      "saleSources": [
+        "rakuten-sale-search"
+      ],
+      "campaignMerch": "53626",
+      "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+      "saleVerified": true,
+      "verifiedAt": "2026-09-03T11:48:18.223Z"
+    },
+    {
+      "id": "7328121993626",
+      "title": "その着せ替え人形は恋をする 2巻",
+      "author": "福田晋一",
+      "publisher": "スクウェア・エニックス",
+      "price": 385,
+      "url": "https://books.rakuten.co.jp/rk/865fd8c06c9b3b42ad863c70842e34e0/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9274/2000006929274.jpg?_ex=600x600",
+      "caption": "雛人形の頭師を目指す主人公、五条新菜は、クラスのギャル、喜多川海夢のコスプレ衣装を作る事に。しかし…タイムリミットはたったの２週間!?　乗り越えた先に、海夢の笑顔があると信じてーー新菜、試練の刻!!　コスプレ活動本格始動でドキドキも大増量の第２巻!!\n",
+      "salesDate": "2018年11月24日",
+      "series": "その着せ替え人形は恋をする",
+      "reviewAverage": 4.41,
+      "reviewCount": 24,
+      "genreId": "101904090",
+      "isbn": "7328121993626",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "その着せ替え人形は恋をする 2巻",
         "author": "",
         "itemNumber": "",
         "regularPrice": 770,
@@ -1678,27 +723,81 @@
         ],
         "sourceGenre": "",
         "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
         "saleSources": [
           "rakuten-sale-search"
-        ]
+        ],
+        "originalTitle": "その着せ替え人形は恋をする 2巻 （ヤングガンガンコミックス）"
       },
       "regularPrice": 770,
       "salePrice": 385,
       "discountPercent": 50,
       "saleEndAt": "",
       "saleCampaign": "楽天ブックス セール一覧",
+      "sourceGenre": "",
       "saleCampaigns": [
         "楽天ブックス セール一覧"
       ],
-      "sourceGenre": "",
       "saleSources": [
         "rakuten-sale-search"
       ],
       "campaignMerch": "53626",
-      "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
+      "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
       "saleVerified": true,
-      "verifiedAt": "2026-09-03T11:42:24.401Z"
+      "verifiedAt": "2026-09-03T11:48:18.223Z"
+    },
+    {
+      "id": "8912120905769",
+      "title": "プリプリ（2）",
+      "author": "千明太郎",
+      "publisher": "秋田書店",
+      "price": 264,
+      "url": "https://books.rakuten.co.jp/rk/8845eb38bd4630f584dd9bcd52a64369/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4164/2000000114164.jpg?_ex=600x600",
+      "caption": "神父養成特別カリキュラムで部活巡りをすることになった神御田クン。今回は聖歌部と退魔部を訪れて、ムフフなことに☆　美少女てんこ盛りラヴリーコメディー!!\n",
+      "salesDate": "2015年12月01日",
+      "series": "プリプリ",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904001002",
+      "isbn": "8912120905769",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "プリプリ(2) (月刊少年チャンピオン)",
+        "author": "",
+        "itemNumber": "",
+        "regularPrice": 528,
+        "salePrice": 264,
+        "discountPercent": 50,
+        "saleEndAt": "",
+        "saleCampaign": "楽天ブックス セール一覧",
+        "saleCampaigns": [
+          "楽天ブックス セール一覧"
+        ],
+        "sourceGenre": "",
+        "campaignMerch": "53626",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+        "saleSources": [
+          "rakuten-sale-search"
+        ],
+        "originalTitle": "プリプリ（2） （月刊少年チャンピオン）"
+      },
+      "regularPrice": 528,
+      "salePrice": 264,
+      "discountPercent": 50,
+      "saleEndAt": "",
+      "saleCampaign": "楽天ブックス セール一覧",
+      "sourceGenre": "",
+      "saleCampaigns": [
+        "楽天ブックス セール一覧"
+      ],
+      "saleSources": [
+        "rakuten-sale-search"
+      ],
+      "campaignMerch": "53626",
+      "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+      "saleVerified": true,
+      "verifiedAt": "2026-09-03T11:48:18.223Z"
     },
     {
       "id": "8912120250440",
@@ -1717,7 +816,7 @@
       "isbn": "8912120250440",
       "salesType": 0,
       "matchMeta": {
-        "title": "タブロウ・ゲート　II （プリンセスGOLD）",
+        "title": "タブロウ・ゲート II (プリンセスGOLD)",
         "author": "",
         "itemNumber": "",
         "regularPrice": 528,
@@ -1730,13 +829,119 @@
         ],
         "sourceGenre": "",
         "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+        "saleSources": [
+          "rakuten-sale-search"
+        ],
+        "originalTitle": "タブロウ・ゲート　II （プリンセスGOLD）"
+      },
+      "regularPrice": 528,
+      "salePrice": 264,
+      "discountPercent": 50,
+      "saleEndAt": "",
+      "saleCampaign": "楽天ブックス セール一覧",
+      "sourceGenre": "",
+      "saleCampaigns": [
+        "楽天ブックス セール一覧"
+      ],
+      "saleSources": [
+        "rakuten-sale-search"
+      ],
+      "campaignMerch": "53626",
+      "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+      "saleVerified": true,
+      "verifiedAt": "2026-09-03T11:48:18.223Z"
+    },
+    {
+      "id": "4332675200300",
+      "title": "百千さん家のあやかし王子　第３巻",
+      "author": "硝音　あや",
+      "publisher": "KADOKAWA",
+      "price": 308,
+      "url": "https://books.rakuten.co.jp/rk/053bb256718c366eac66a8f6eee59a0e/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0849/2000001850849.jpg?_ex=600x600",
+      "caption": "ひまりの“招待”を受け、クラスメイトに混じって死人が百千家に入ってきた。誰が“死人”なのか…うまく見つけられないとクラスメイトに被害がおよぶという…。一方葵は、しだいに鵺になる期間が長くなり…\n",
+      "salesDate": "2014年03月26日",
+      "series": "百千さん家のあやかし王子",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904011023",
+      "isbn": "4332675200300",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "百千さん家のあやかし王子 第3巻",
+        "author": "",
+        "itemNumber": "",
+        "regularPrice": 616,
+        "salePrice": 308,
+        "discountPercent": 50,
+        "saleEndAt": "",
+        "saleCampaign": "楽天ブックス セール一覧",
+        "saleCampaigns": [
+          "楽天ブックス セール一覧"
+        ],
+        "sourceGenre": "",
+        "campaignMerch": "53626",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+        "saleSources": [
+          "rakuten-sale-search"
+        ],
+        "originalTitle": "百千さん家のあやかし王子　第３巻 （あすかコミックスDX）"
+      },
+      "regularPrice": 616,
+      "salePrice": 308,
+      "discountPercent": 50,
+      "saleEndAt": "",
+      "saleCampaign": "楽天ブックス セール一覧",
+      "sourceGenre": "",
+      "saleCampaigns": [
+        "楽天ブックス セール一覧"
+      ],
+      "saleSources": [
+        "rakuten-sale-search"
+      ],
+      "campaignMerch": "53626",
+      "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+      "saleVerified": true,
+      "verifiedAt": "2026-09-03T11:48:18.223Z"
+    },
+    {
+      "id": "4333228200300",
+      "title": "百千さん家のあやかし王子　第４巻",
+      "author": "硝音　あや",
+      "publisher": "KADOKAWA",
+      "price": 308,
+      "url": "https://books.rakuten.co.jp/rk/fe64341ee15c301587634f9383c467b2/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6828/2000002136828.jpg?_ex=600x600",
+      "caption": "「御守様」に任命されたと同時に、世間から存在を消され今では誰も葵のことを覚えているものはいない…そんな中、昔の葵を知る人物がひまりの前に現れて…。\n",
+      "salesDate": "2014年06月26日",
+      "series": "百千さん家のあやかし王子",
+      "reviewAverage": 4,
+      "reviewCount": 1,
+      "genreId": "101904011023",
+      "isbn": "4333228200300",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "百千さん家のあやかし王子　第４巻 （あすかコミックスDX）",
+        "author": "",
+        "itemNumber": "",
+        "regularPrice": 616,
+        "salePrice": 308,
+        "discountPercent": 50,
+        "saleEndAt": "",
+        "saleCampaign": "楽天ブックス セール一覧",
+        "saleCampaigns": [
+          "楽天ブックス セール一覧"
+        ],
+        "sourceGenre": "",
+        "campaignMerch": "53626",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
         "saleSources": [
           "rakuten-sale-search"
         ]
       },
-      "regularPrice": 528,
-      "salePrice": 264,
+      "regularPrice": 616,
+      "salePrice": 308,
       "discountPercent": 50,
       "saleEndAt": "",
       "saleCampaign": "楽天ブックス セール一覧",
@@ -1748,9 +953,326 @@
         "rakuten-sale-search"
       ],
       "campaignMerch": "53626",
-      "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
+      "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
       "saleVerified": true,
-      "verifiedAt": "2026-09-03T11:42:25.383Z"
+      "verifiedAt": "2026-09-03T11:48:34.107Z"
+    },
+    {
+      "id": "4380000402055",
+      "title": "悪夢のエレベーター",
+      "author": "木下半太",
+      "publisher": "幻冬舎",
+      "price": 314,
+      "url": "https://books.rakuten.co.jp/rk/80a0cc25a9243747a0ab27af26735177/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4201/2000002414201.jpg?_ex=600x600",
+      "caption": "後頭部の強烈な痛みで目を覚ますと、緊急停止したエレベーターに、ヤクザ、オカマ、自殺願望の女と閉じ込められていた。浮気相手の部屋から出てきたばかりなのに大ピンチ！？　しかも、三人には犯罪歴があることまで発覚。精神的に追い詰められた密室で、ついに事件が起こる。意外な黒幕は誰だ？　笑いと恐怖に満ちた傑作コメディサスペンス。\n",
+      "salesDate": "2014年10月10日",
+      "series": "",
+      "reviewAverage": 3.29,
+      "reviewCount": 248,
+      "genreId": "101901",
+      "isbn": "4380000402055",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "悪夢のエレベーター",
+        "author": "",
+        "itemNumber": "",
+        "regularPrice": 627,
+        "salePrice": 314,
+        "discountPercent": 50,
+        "saleEndAt": "",
+        "saleCampaign": "楽天ブックス セール一覧",
+        "saleCampaigns": [
+          "楽天ブックス セール一覧"
+        ],
+        "sourceGenre": "",
+        "campaignMerch": "53626",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+        "saleSources": [
+          "rakuten-sale-search"
+        ],
+        "originalTitle": "悪夢のエレベーター （幻冬舎文庫）"
+      },
+      "regularPrice": 627,
+      "salePrice": 314,
+      "discountPercent": 50,
+      "saleEndAt": "",
+      "saleCampaign": "楽天ブックス セール一覧",
+      "sourceGenre": "",
+      "saleCampaigns": [
+        "楽天ブックス セール一覧"
+      ],
+      "saleSources": [
+        "rakuten-sale-search"
+      ],
+      "campaignMerch": "53626",
+      "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+      "saleVerified": true,
+      "verifiedAt": "2026-09-03T11:48:18.223Z"
+    },
+    {
+      "id": "4333977600300",
+      "title": "百千さん家のあやかし王子　第５巻",
+      "author": "硝音　あや",
+      "publisher": "KADOKAWA",
+      "price": 319,
+      "url": "https://books.rakuten.co.jp/rk/1ec8a35fa4653c329ad3c3b521a7df6a/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4894/2000002494894.jpg?_ex=600x600",
+      "caption": "人間界と異界に存在する７つの滝に異変が起きる。その理由を探ると紫を『水蛇』にした龍神に関係があるというのだが…！？\n",
+      "salesDate": "2014年10月25日",
+      "series": "百千さん家のあやかし王子",
+      "reviewAverage": 3,
+      "reviewCount": 1,
+      "genreId": "101904011023",
+      "isbn": "4333977600300",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "百千さん家のあやかし王子 第5巻",
+        "author": "",
+        "itemNumber": "",
+        "regularPrice": 638,
+        "salePrice": 319,
+        "discountPercent": 50,
+        "saleEndAt": "",
+        "saleCampaign": "楽天ブックス セール一覧",
+        "saleCampaigns": [
+          "楽天ブックス セール一覧"
+        ],
+        "sourceGenre": "",
+        "campaignMerch": "53626",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+        "saleSources": [
+          "rakuten-sale-search"
+        ],
+        "originalTitle": "百千さん家のあやかし王子　第５巻 （あすかコミックスDX）"
+      },
+      "regularPrice": 638,
+      "salePrice": 319,
+      "discountPercent": 50,
+      "saleEndAt": "",
+      "saleCampaign": "楽天ブックス セール一覧",
+      "sourceGenre": "",
+      "saleCampaigns": [
+        "楽天ブックス セール一覧"
+      ],
+      "saleSources": [
+        "rakuten-sale-search"
+      ],
+      "campaignMerch": "53626",
+      "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+      "saleVerified": true,
+      "verifiedAt": "2026-09-03T11:48:18.223Z"
+    },
+    {
+      "id": "4334963500300",
+      "title": "百千さん家のあやかし王子　第７巻",
+      "author": "硝音　あや",
+      "publisher": "KADOKAWA",
+      "price": 319,
+      "url": "https://books.rakuten.co.jp/rk/0dcd0259a6c43165be087eb3e13fca8c/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7056/2000003227056.jpg?_ex=600x600",
+      "caption": "葵を百千家から追い出す手掛かりを得るために、古い地図から「七守」の名を探そうとするひまり。さらに、葵のスランプの原因をひも解くと、葵と那智との過去が関係していることを知るのだが…！？\n",
+      "salesDate": "2015年06月26日",
+      "series": "百千さん家のあやかし王子",
+      "reviewAverage": 3,
+      "reviewCount": 1,
+      "genreId": "101904011023",
+      "isbn": "4334963500300",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "百千さん家のあやかし王子　第７巻 （あすかコミックスDX）",
+        "author": "",
+        "itemNumber": "",
+        "regularPrice": 638,
+        "salePrice": 319,
+        "discountPercent": 50,
+        "saleEndAt": "",
+        "saleCampaign": "楽天ブックス セール一覧",
+        "saleCampaigns": [
+          "楽天ブックス セール一覧"
+        ],
+        "sourceGenre": "",
+        "campaignMerch": "53626",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+        "saleSources": [
+          "rakuten-sale-search"
+        ]
+      },
+      "regularPrice": 638,
+      "salePrice": 319,
+      "discountPercent": 50,
+      "saleEndAt": "",
+      "saleCampaign": "楽天ブックス セール一覧",
+      "saleCampaigns": [
+        "楽天ブックス セール一覧"
+      ],
+      "sourceGenre": "",
+      "saleSources": [
+        "rakuten-sale-search"
+      ],
+      "campaignMerch": "53626",
+      "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+      "saleVerified": true,
+      "verifiedAt": "2026-09-03T11:48:34.107Z"
+    },
+    {
+      "id": "4336151400300",
+      "title": "百千さん家のあやかし王子　第９巻",
+      "author": "硝音　あや",
+      "publisher": "KADOKAWA",
+      "price": 319,
+      "url": "https://books.rakuten.co.jp/rk/0feecaadf9eb300a84e0ea0d5cecf92f/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5449/2000004435449.jpg?_ex=600x600",
+      "caption": "ひまりの頑張りで、鵺の姿から人間の姿に戻ることができた葵。葵が百千家の御守様という役割を担うことになった経緯には、ひまりの両親が関係していた。その事実を知ったひまりはーー…！？\n",
+      "salesDate": "2016年06月25日",
+      "series": "百千さん家のあやかし王子",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904011023",
+      "isbn": "4336151400300",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "百千さん家のあやかし王子 第9巻",
+        "author": "",
+        "itemNumber": "",
+        "regularPrice": 638,
+        "salePrice": 319,
+        "discountPercent": 50,
+        "saleEndAt": "",
+        "saleCampaign": "楽天ブックス セール一覧",
+        "saleCampaigns": [
+          "楽天ブックス セール一覧"
+        ],
+        "sourceGenre": "",
+        "campaignMerch": "53626",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+        "saleSources": [
+          "rakuten-sale-search"
+        ],
+        "originalTitle": "百千さん家のあやかし王子　第９巻 （あすかコミックスDX）"
+      },
+      "regularPrice": 638,
+      "salePrice": 319,
+      "discountPercent": 50,
+      "saleEndAt": "",
+      "saleCampaign": "楽天ブックス セール一覧",
+      "sourceGenre": "",
+      "saleCampaigns": [
+        "楽天ブックス セール一覧"
+      ],
+      "saleSources": [
+        "rakuten-sale-search"
+      ],
+      "campaignMerch": "53626",
+      "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+      "saleVerified": true,
+      "verifiedAt": "2026-09-03T11:48:18.223Z"
+    },
+    {
+      "id": "8910129266594",
+      "title": "没落伯爵令嬢は家族を養いたい@COMIC 第3巻【電子書籍限定描き下ろしマンガ付き】",
+      "author": "しろ46/ミコタにう/椎名咲月",
+      "publisher": "TOブックス",
+      "price": 493,
+      "url": "https://books.rakuten.co.jp/rk/f3e6fbeb6a5a36e38d1992294a814acb/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4982/2000018264982.jpg?_ex=600x600",
+      "caption": "【電子書籍限定描き下ろしマンガ】付き！\nシリーズ累計20万部突破！（電子書籍を含む）\n原作小説第７巻と同日発売！\n所持金ゼロから始める、転生タフ令嬢の逆転ダイアリー！\n待望のコミカライズ第３巻！\n描き下ろし漫画＆原作・ミコタにう先生による書き下ろしSSを収録！\nエクシュタイン公爵から後見人の申し出をされた伯爵家令嬢ゲルトルード。\n問題は山積みだが、何よりもまずは日々の生活が大切！\n家族みんなで楽しくフルーツサンドの開発に取り組むなか、今度は予想外のところから訪問客が!?\n家族愛とたくましさでポジティブに逆境を乗り越えていく！\n所持金ゼロから始める、転生タフ令嬢の逆転ダイアリー第３巻！\n",
+      "salesDate": "2025年10月01日",
+      "series": "没落伯爵令嬢は家族を養いたい@COMIC",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904090",
+      "isbn": "8910129266594",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "没落伯爵令嬢は家族を養いたい@COMIC 第3巻【電子書籍限定描き下ろしマンガ付き】",
+        "author": "",
+        "itemNumber": "",
+        "regularPrice": 704,
+        "salePrice": 493,
+        "discountPercent": 30,
+        "saleEndAt": "",
+        "saleCampaign": "楽天ブックス セール一覧",
+        "saleCampaigns": [
+          "楽天ブックス セール一覧"
+        ],
+        "sourceGenre": "",
+        "campaignMerch": "53626",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+        "saleSources": [
+          "rakuten-sale-search"
+        ],
+        "originalTitle": "没落伯爵令嬢は家族を養いたい@COMIC 第3巻【電子書籍限定描き下ろしマンガ付き】 （Celicaコミックス）"
+      },
+      "regularPrice": 704,
+      "salePrice": 493,
+      "discountPercent": 30,
+      "saleEndAt": "",
+      "saleCampaign": "楽天ブックス セール一覧",
+      "sourceGenre": "",
+      "saleCampaigns": [
+        "楽天ブックス セール一覧"
+      ],
+      "saleSources": [
+        "rakuten-sale-search"
+      ],
+      "campaignMerch": "53626",
+      "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+      "saleVerified": true,
+      "verifiedAt": "2026-09-03T11:48:18.223Z"
+    },
+    {
+      "id": "4380000402552",
+      "title": "ツレがうつになりまして。",
+      "author": "細川貂々",
+      "publisher": "幻冬舎",
+      "price": 403,
+      "url": "https://books.rakuten.co.jp/rk/636463cdcaa23a00a9335a9d71efdd05/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1471/2000003241471.jpg?_ex=600x600",
+      "caption": "スーパーサラリーマンだったツレがある日、突然「死にたい」とつぶやいた。会社の激務とストレスでうつ病になってしまったのだ。明るくがんばりやだったツレが、後ろ向きのがんばれない人間になった。もう元気だったツレは戻ってこないの？病気と闘う夫を愛とユーモアで支える日々を描き、大ベストセラーとなった感動の純愛コミックエッセイ。\n",
+      "salesDate": "2015年07月03日",
+      "series": "ツレがうつになりまして。",
+      "reviewAverage": 3.89,
+      "reviewCount": 261,
+      "genreId": "101904",
+      "isbn": "4380000402552",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ツレがうつになりまして。",
+        "author": "",
+        "itemNumber": "",
+        "regularPrice": 575,
+        "salePrice": 403,
+        "discountPercent": 30,
+        "saleEndAt": "",
+        "saleCampaign": "楽天ブックス セール一覧",
+        "saleCampaigns": [
+          "楽天ブックス セール一覧"
+        ],
+        "sourceGenre": "",
+        "campaignMerch": "53626",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+        "saleSources": [
+          "rakuten-sale-search"
+        ],
+        "originalTitle": "ツレがうつになりまして。 （幻冬舎文庫）"
+      },
+      "regularPrice": 575,
+      "salePrice": 403,
+      "discountPercent": 30,
+      "saleEndAt": "",
+      "saleCampaign": "楽天ブックス セール一覧",
+      "sourceGenre": "",
+      "saleCampaigns": [
+        "楽天ブックス セール一覧"
+      ],
+      "saleSources": [
+        "rakuten-sale-search"
+      ],
+      "campaignMerch": "53626",
+      "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+      "saleVerified": true,
+      "verifiedAt": "2026-09-03T11:48:18.223Z"
     },
     {
       "id": "4380000400233",
@@ -1769,7 +1291,7 @@
       "isbn": "4380000400233",
       "salesType": 0,
       "matchMeta": {
-        "title": "ハッピー・リタイアメント （幻冬舎文庫）",
+        "title": "ハッピー・リタイアメント",
         "author": "",
         "itemNumber": "",
         "regularPrice": 605,
@@ -1782,13 +1304,66 @@
         ],
         "sourceGenre": "",
         "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+        "saleSources": [
+          "rakuten-sale-search"
+        ],
+        "originalTitle": "ハッピー・リタイアメント （幻冬舎文庫）"
+      },
+      "regularPrice": 605,
+      "salePrice": 424,
+      "discountPercent": 30,
+      "saleEndAt": "",
+      "saleCampaign": "楽天ブックス セール一覧",
+      "sourceGenre": "",
+      "saleCampaigns": [
+        "楽天ブックス セール一覧"
+      ],
+      "saleSources": [
+        "rakuten-sale-search"
+      ],
+      "campaignMerch": "53626",
+      "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+      "saleVerified": true,
+      "verifiedAt": "2026-09-03T11:48:18.223Z"
+    },
+    {
+      "id": "4380000403022",
+      "title": "「これ」だけ意識すればきれいになる。　自律神経美人をつくる126の習慣",
+      "author": "小林弘幸",
+      "publisher": "幻冬舎",
+      "price": 425,
+      "url": "https://books.rakuten.co.jp/rk/86bed4a832b33755bbbfe86b4420c21f/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4499/2000004164499.jpg?_ex=600x600",
+      "caption": "「細胞のすみずみにまで、きれいな血液を流す」。それが、心身ともに健康で美しくなる鍵なのです。そのためには、「自律神経のバランスを、高いレベルで安定させる」こと。「腸」「食」「呼吸」「水」から、「メンタル」「恋愛」「ファッション」まで、日常生活の中で、自律神経を整えて美しくなるシンプルな習慣を伝授する、「きれい」のヒント満載。\n",
+      "salesDate": "2016年04月12日",
+      "series": "",
+      "reviewAverage": 4.09,
+      "reviewCount": 12,
+      "genreId": "101909014",
+      "isbn": "4380000403022",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "「これ」だけ意識すればきれいになる。　自律神経美人をつくる126の習慣 （幻冬舎文庫）",
+        "author": "",
+        "itemNumber": "",
+        "regularPrice": 606,
+        "salePrice": 425,
+        "discountPercent": 30,
+        "saleEndAt": "",
+        "saleCampaign": "楽天ブックス セール一覧",
+        "saleCampaigns": [
+          "楽天ブックス セール一覧"
+        ],
+        "sourceGenre": "",
+        "campaignMerch": "53626",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
         "saleSources": [
           "rakuten-sale-search"
         ]
       },
-      "regularPrice": 605,
-      "salePrice": 424,
+      "regularPrice": 606,
+      "salePrice": 425,
       "discountPercent": 30,
       "saleEndAt": "",
       "saleCampaign": "楽天ブックス セール一覧",
@@ -1800,84 +1375,658 @@
         "rakuten-sale-search"
       ],
       "campaignMerch": "53626",
-      "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
+      "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
       "saleVerified": true,
-      "verifiedAt": "2026-09-03T11:42:27.966Z"
+      "verifiedAt": "2026-09-03T11:48:36.396Z"
     },
     {
-      "id": "4380000403992",
-      "title": "きょうも傍聴席にいます",
-      "author": "朝日新聞社会部",
-      "publisher": "幻冬舎",
-      "price": 460,
-      "url": "https://books.rakuten.co.jp/rk/d4691366de663104952c050c582a2a90/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8444/2000005698444.jpg?_ex=600x600",
-      "caption": "殺人など事件が起きると、警察、被害者の遺族、容疑者の知人らへの取材に奔走する新聞記者。その記者がほとんど初めて、容疑者本人を目にするのが法廷だ。傍聴席で本人の表情に目をこらし、肉声に耳を澄ましていると、事件は当初報じられたものとは違う様相を帯びてくるーー。自分なら一線を越えずにいられたか? 何が善で何が悪なのか? 記者が紙面の短い記事では伝えきれない思いを託して綴る、朝日新聞デジタル版連載「きょうも傍聴席にいます。」。「泣けた」「他人事ではない」と毎回大きな反響を呼ぶ28編を書籍化。\n",
-      "salesDate": "2017年11月29日",
-      "series": "",
-      "reviewAverage": 3.82,
-      "reviewCount": 11,
-      "genreId": "101907005003",
-      "isbn": "4380000403992",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "きょうも傍聴席にいます （幻冬舎新書）",
-        "author": "",
-        "itemNumber": "",
-        "regularPrice": 920,
-        "salePrice": 460,
-        "discountPercent": 50,
-        "saleEndAt": "",
-        "saleCampaign": "楽天ブックス セール一覧",
-        "saleCampaigns": [
-          "楽天ブックス セール一覧"
-        ],
-        "sourceGenre": "",
-        "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-        "saleSources": [
-          "rakuten-sale-search"
-        ]
-      },
-      "regularPrice": 920,
-      "salePrice": 460,
-      "discountPercent": 50,
-      "saleEndAt": "",
-      "saleCampaign": "楽天ブックス セール一覧",
-      "saleCampaigns": [
-        "楽天ブックス セール一覧"
-      ],
-      "sourceGenre": "",
-      "saleSources": [
-        "rakuten-sale-search"
-      ],
-      "campaignMerch": "53626",
-      "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-      "saleVerified": true,
-      "verifiedAt": "2026-09-03T11:42:40.005Z"
-    },
-    {
-      "id": "8912123663485",
-      "title": "しあわせは食べて寝て待て【分冊版】　1",
-      "author": "水凪トリ",
-      "publisher": "秋田書店",
-      "price": 55,
-      "url": "https://books.rakuten.co.jp/rk/93c39d78722d378daf36d3b4ea147d5d/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3542/2000009923542.jpg?_ex=600x600",
-      "caption": "身体の不調で、週4回のパート暮らしをしている麦巻さとこ。これ以上ないくらい落ち込んだ日に見つけたのは、小さな団地の一室。大家・鈴さんと”料理番”司に出会い、自分なりのしあわせを見つけて…。 ※こちらの商品は「しあわせは食べて寝て待て」を【分冊】した商品です。内容が重複いたしますのでご購入の際にご注意ください。\n",
-      "salesDate": "2021年07月05日",
-      "series": "しあわせは食べて寝て待て【分冊版】",
+      "id": "8890090029762",
+      "title": "鬼畜英雄【デジタル修正版】合本版（１）",
+      "author": "よのき",
+      "publisher": "GANMA!",
+      "price": 33,
+      "url": "https://books.rakuten.co.jp/rk/d229d7d6807131e2beaa744abf1e533a/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1526/2000020481526.jpg?_ex=600x600",
+      "caption": "【この合本版は『鬼畜英雄【デジタル修正版】』1〜3巻本編が収録されています。※コミックス収録の描きおろしマンガの収録はございません】\n《1巻あらすじ》\n無双チート淫魔、異世界に降臨！\nどんな女も即ハーレムファンタジー!!\n──魔界に転生し、女性と性行為すればするほど無双チート化する伝説の種族「淫魔(インキュバス)」になった俺。\n金も名誉も女も全部ゲットできたけど、本当に欲しいのはより強力なスキル。\n次は人間かエルフとヤらないとスキルツリーが解放されないので、人間界にテレポート！\n薬師のエルフ少女、SSランクアサシンの冷酷美女をさっそく支配下に!?\n《2巻あらすじ》\n目を付けた薬師のエルフ少女・アウラを救うため、暴虐の悪魔・バトンの根城へ突撃した俺。\n苦も無く蹴散らし彼女と一夜を過ごしたら、噂を聞きつけた猫娘メイド＆狐美人の貴族に誘われ、次は大都市ヘルテラへ！\n女格闘家や名家のお嬢様に手を出しつつ、めざすは光属性無効スキルをゲットするため聖女とのセックス♪　全ての欲望は己が「英雄的行動」のために…!!\n《3巻あらすじ》\n大都市ヘルテラに到着したオレはギルドで早速トラブルに巻き込まれ、貴族のお嬢様の犬になるのだった。\n冒険者ギルドでゴブリンに攫われたシスターを捜す依頼を受けたオレはお嬢様たちと奴らの洞窟に潜入する。\nそこはさらわれた女性たちがゴブリンどもに凌辱の限りを尽くされる地獄だった。\nこみ上げる怒りを押さえつつ、オレは一旦めちゃくちゃエロいシスターとセックスするのだった…!!\n",
+      "salesDate": "2026年05月01日",
+      "series": "鬼畜英雄【デジタル修正版】合本版",
       "reviewAverage": 0,
       "reviewCount": 0,
       "genreId": "101904090",
-      "isbn": "8912123663485",
+      "isbn": "8890090029762",
       "salesType": 0,
       "matchMeta": {
-        "title": "しあわせは食べて寝て待て【分冊版】　1 （A.L.C. DX）",
+        "title": "鬼畜英雄【デジタル修正版】合本版（１） （GANMA!）",
         "author": "",
         "itemNumber": "",
-        "regularPrice": 110,
-        "salePrice": 55,
+        "regularPrice": 2024,
+        "salePrice": 33,
+        "discountPercent": 98,
+        "saleEndAt": "",
+        "saleCampaign": "楽天ブックス セール一覧",
+        "saleCampaigns": [
+          "楽天ブックス セール一覧"
+        ],
+        "sourceGenre": "",
+        "campaignMerch": "53626",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+        "saleSources": [
+          "rakuten-sale-search"
+        ]
+      },
+      "regularPrice": 2024,
+      "salePrice": 33,
+      "discountPercent": 98,
+      "saleEndAt": "",
+      "saleCampaign": "楽天ブックス セール一覧",
+      "saleCampaigns": [
+        "楽天ブックス セール一覧"
+      ],
+      "sourceGenre": "",
+      "saleSources": [
+        "rakuten-sale-search"
+      ],
+      "campaignMerch": "53626",
+      "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+      "saleVerified": true,
+      "verifiedAt": "2026-09-03T11:48:21.639Z"
+    },
+    {
+      "id": "8890090029764",
+      "title": "鬼畜英雄【デジタル修正版】合本版（３）",
+      "author": "よのき",
+      "publisher": "GANMA!",
+      "price": 33,
+      "url": "https://books.rakuten.co.jp/rk/bd602734e8403d9fa283d3f5f3cdb630/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1452/2000020481452.jpg?_ex=600x600",
+      "caption": "【この合本版は『鬼畜英雄【デジタル修正版】』7〜9巻本編が収録されています。※コミックス収録の描きおろしマンガの収録はございません】\n《7巻あらすじ》\n何度も苦戦を強いられてきたゴブリンコンビ・ロミオ＆ボイドとの戦いに決着をつけたタカミチたち一行。しかしヘルテラ城には英雄級上位「ゴブリン女王」が迫っていた。これまでにない最凶の敵にタカミチはどう立ち向かうのか……VSゴブリン編、最大の死闘が幕を開ける\n《8巻あらすじ》\nゴブリンの母としてゴブリンたちを操り、ゴブリン女王の膨大な黒魔力で魔界へと繋がるゲートを開いた、魔眼少女協会副会長アユン。ゲートからは異形の英雄級の群れが溢れ出し、人間界を無慈悲に蹂躙していく。跋扈する災厄に全てを諦めかけたオアシスの前に、タカミチが満を持して見っ参っ!!\n《9巻あらすじ》\nゲートから溢れ出たのは旧知の悪魔たち。ゴブリン女王にも懐かれて無事ゴブリン戦争も終結。見事にヘルテラ領の危機を救ったように見えたタカミチだったが…。突然現れた人間界の「聖人」による攻撃に、思わず「支配領域・東方淫獄魔都」を発動してしまう。ヘルテラ領の人間たちの運命は!?\n",
+      "salesDate": "2026年05月01日",
+      "series": "鬼畜英雄【デジタル修正版】合本版",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904090",
+      "isbn": "8890090029764",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "鬼畜英雄【デジタル修正版】合本版(3) (GANMA!)",
+        "author": "",
+        "itemNumber": "",
+        "regularPrice": 2156,
+        "salePrice": 33,
+        "discountPercent": 98,
+        "saleEndAt": "",
+        "saleCampaign": "楽天ブックス セール一覧",
+        "saleCampaigns": [
+          "楽天ブックス セール一覧"
+        ],
+        "sourceGenre": "",
+        "campaignMerch": "53626",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+        "saleSources": [
+          "rakuten-sale-search"
+        ],
+        "originalTitle": "鬼畜英雄【デジタル修正版】合本版（３） （GANMA!）"
+      },
+      "regularPrice": 2156,
+      "salePrice": 33,
+      "discountPercent": 98,
+      "saleEndAt": "",
+      "saleCampaign": "楽天ブックス セール一覧",
+      "sourceGenre": "",
+      "saleCampaigns": [
+        "楽天ブックス セール一覧"
+      ],
+      "saleSources": [
+        "rakuten-sale-search"
+      ],
+      "campaignMerch": "53626",
+      "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+      "saleVerified": true,
+      "verifiedAt": "2026-09-03T11:48:18.223Z"
+    },
+    {
+      "id": "8890090029763",
+      "title": "鬼畜英雄【デジタル修正版】合本版（２）",
+      "author": "よのき",
+      "publisher": "GANMA!",
+      "price": 33,
+      "url": "https://books.rakuten.co.jp/rk/d6961d5113b13e7d91481547db15fc43/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1520/2000020481520.jpg?_ex=600x600",
+      "caption": "【この合本版は『鬼畜英雄【デジタル修正版】』4〜6巻本編が収録されています。※コミックス収録の描きおろしマンガの収録はございません】\n《4巻あらすじ》\n「英雄級」の強さを持つゴブリン幹部・ハーグの魔の手から女冒険者たちを救うため、颯爽と助けに入ったオレ。\n愛も道徳も知らずに人間の女と交わる不届き者を即成敗！\nインキュバスの力を使ったハーレムえっちで蘇生どころか強化してみせるも…。\nヘルテラ各地を超強力なゴブリン頭領たちが侵略し、次々と美少女美女を慰み物に!?\nオレの「英雄的行動」で止めてみせる！あの絶対的な悪を!!\n《5巻あらすじ》\nタカミチ城に攻めてきた超巨大ゴブリンを華麗に撃退したオレたち。\n祝杯パーティーのあとには、お待ちかねのムフフな“お楽しみタイム”で心身共にリフレ〜ッシュ♪\nそんな中、徴兵のために多くの兵士が集まった前線基地でゴブリンたちの奇策「人間爆弾」が猛威を振るう事態に。\nさっそく問題解決に駆り出されたと思ったら、必要なのは……オレの大量の精液だってぇ!?\n《6巻あらすじ》\n悪鬼たちを殲滅すべく“月光の人魚姫”は冷たく嗤う。\nゴブリンに占拠された第一要塞を奪還するためにサイレンス家当主・カミラ率いる手練れの英雄級が集結した。\nカミラは英雄級中位の圧倒的な力でロミオたちを追い詰め勝利は目前と思われたが、ゴブリンの母の登場で事態は一変し……!?\nVSゴブリン編、最高潮!!\n",
+      "salesDate": "2026年05月01日",
+      "series": "鬼畜英雄【デジタル修正版】合本版",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904090",
+      "isbn": "8890090029763",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "鬼畜英雄【デジタル修正版】合本版（２） （GANMA!）",
+        "author": "",
+        "itemNumber": "",
+        "regularPrice": 2112,
+        "salePrice": 33,
+        "discountPercent": 98,
+        "saleEndAt": "",
+        "saleCampaign": "楽天ブックス セール一覧",
+        "saleCampaigns": [
+          "楽天ブックス セール一覧"
+        ],
+        "sourceGenre": "",
+        "campaignMerch": "53626",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+        "saleSources": [
+          "rakuten-sale-search"
+        ]
+      },
+      "regularPrice": 2112,
+      "salePrice": 33,
+      "discountPercent": 98,
+      "saleEndAt": "",
+      "saleCampaign": "楽天ブックス セール一覧",
+      "saleCampaigns": [
+        "楽天ブックス セール一覧"
+      ],
+      "sourceGenre": "",
+      "saleSources": [
+        "rakuten-sale-search"
+      ],
+      "campaignMerch": "53626",
+      "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+      "saleVerified": true,
+      "verifiedAt": "2026-09-03T11:48:21.639Z"
+    },
+    {
+      "id": "4972000016524",
+      "title": "有閑倶楽部 カラー版 1",
+      "author": "一条ゆかり",
+      "publisher": "集英社",
+      "price": 100,
+      "url": "https://books.rakuten.co.jp/rk/099b7b98a6cf394e8f109232c329d25e/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0156/2000007240156.jpg?_ex=600x600",
+      "caption": "【ページ数が多いビッグボリューム版！】【デジタル着色によるフルカラー版！】聖プレジデント学園の生徒会6人組…ご存じ“有閑倶楽部”。アクション担当・悠理と魅録、頭脳担当・野梨子と清四郎、お色気担当・可憐と美童。無敵で過激な面々が巻き起こす、痛快アクション・コメディ!!\n",
+      "salesDate": "2019年04月01日",
+      "series": "有閑倶楽部 カラー版",
+      "reviewAverage": 4,
+      "reviewCount": 1,
+      "genreId": "101904011007",
+      "isbn": "4972000016524",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "有閑倶楽部 カラー版 1",
+        "author": "",
+        "itemNumber": "",
+        "regularPrice": 946,
+        "salePrice": 100,
+        "discountPercent": 89,
+        "saleEndAt": "",
+        "saleCampaign": "楽天ブックス セール一覧",
+        "saleCampaigns": [
+          "楽天ブックス セール一覧"
+        ],
+        "sourceGenre": "",
+        "campaignMerch": "53626",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+        "saleSources": [
+          "rakuten-sale-search"
+        ],
+        "originalTitle": "有閑倶楽部 カラー版 1 （りぼんマスコットコミックスDIGITAL）"
+      },
+      "regularPrice": 946,
+      "salePrice": 100,
+      "discountPercent": 89,
+      "saleEndAt": "",
+      "saleCampaign": "楽天ブックス セール一覧",
+      "sourceGenre": "",
+      "saleCampaigns": [
+        "楽天ブックス セール一覧"
+      ],
+      "saleSources": [
+        "rakuten-sale-search"
+      ],
+      "campaignMerch": "53626",
+      "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+      "saleVerified": true,
+      "verifiedAt": "2026-09-03T11:48:18.223Z"
+    },
+    {
+      "id": "4970100700138",
+      "title": "日に流れて橋に行く 1",
+      "author": "日高ショーコ",
+      "publisher": "集英社",
+      "price": 100,
+      "url": "https://books.rakuten.co.jp/rk/6aa8b10ffe3f31d99457f5b92436d24a/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5902/2000005545902.jpg?_ex=600x600",
+      "caption": "【雑誌掲載時の著者カラー原画を収録したリマスター版！】時は明治末。さびれた老舗呉服店に新風を巻き起こす、男たちの物語──。　かつて大きな賑わいを見せていた、老舗呉服店「三つ星」。その三男・星乃虎三郎が、三年ぶりに英国から帰国した。新しい「三つ星」を作ろうと意気込むものの、店の者からはまったく歓迎されず、変わらず優しいのは、長兄の存寅だけ。一方、虎三郎を知っているらしき、謎の男・鷹頭も、「三つ星」再建のため、独自に動いており…。\n",
+      "salesDate": "2017年11月24日",
+      "series": "日に流れて橋に行く",
+      "reviewAverage": 3.88,
+      "reviewCount": 8,
+      "genreId": "101904011006",
+      "isbn": "4970100700138",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "日に流れて橋に行く 1 （マーガレットコミックスDIGITAL）",
+        "author": "",
+        "itemNumber": "",
+        "regularPrice": 794,
+        "salePrice": 100,
+        "discountPercent": 87,
+        "saleEndAt": "",
+        "saleCampaign": "楽天ブックス セール一覧",
+        "saleCampaigns": [
+          "楽天ブックス セール一覧"
+        ],
+        "sourceGenre": "",
+        "campaignMerch": "53626",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+        "saleSources": [
+          "rakuten-sale-search"
+        ]
+      },
+      "regularPrice": 794,
+      "salePrice": 100,
+      "discountPercent": 87,
+      "saleEndAt": "",
+      "saleCampaign": "楽天ブックス セール一覧",
+      "saleCampaigns": [
+        "楽天ブックス セール一覧"
+      ],
+      "sourceGenre": "",
+      "saleSources": [
+        "rakuten-sale-search"
+      ],
+      "campaignMerch": "53626",
+      "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+      "saleVerified": true,
+      "verifiedAt": "2026-09-03T11:48:22.981Z"
+    },
+    {
+      "id": "4972000020786",
+      "title": "日に流れて橋に行く 3",
+      "author": "日高ショーコ",
+      "publisher": "集英社",
+      "price": 100,
+      "url": "https://books.rakuten.co.jp/rk/75899faebf74361196e25745b39f1d66/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3892/2000007763892.jpg?_ex=600x600",
+      "caption": "【雑誌掲載時の著者カラー原画を収録したリマスター版！】雨模様となった日本橋の開橋式当日、「三つ星」は大胆な改装と、番傘の貸し出しで大盛況。更なる成功を求め、打ち出す一手はーー。　時子に好意を寄せる流行作家の白石辰春は、呉服店で働く女性店員を主人公にした小説を新聞に連載する。その主人公のモデルが時子では？という噂が話題を呼び、「三つ星」は多くの客で賑わうように。一方、仕事に奮闘し自由に生きている時子を痛烈に批判する者も現れて…。\n",
+      "salesDate": "2019年10月25日",
+      "series": "日に流れて橋に行く",
+      "reviewAverage": 4.33,
+      "reviewCount": 6,
+      "genreId": "101904011006",
+      "isbn": "4972000020786",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "日に流れて橋に行く 3 （マーガレットコミックスDIGITAL）",
+        "author": "",
+        "itemNumber": "",
+        "regularPrice": 794,
+        "salePrice": 100,
+        "discountPercent": 87,
+        "saleEndAt": "",
+        "saleCampaign": "楽天ブックス セール一覧",
+        "saleCampaigns": [
+          "楽天ブックス セール一覧"
+        ],
+        "sourceGenre": "",
+        "campaignMerch": "53626",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+        "saleSources": [
+          "rakuten-sale-search"
+        ]
+      },
+      "regularPrice": 794,
+      "salePrice": 100,
+      "discountPercent": 87,
+      "saleEndAt": "",
+      "saleCampaign": "楽天ブックス セール一覧",
+      "saleCampaigns": [
+        "楽天ブックス セール一覧"
+      ],
+      "sourceGenre": "",
+      "saleSources": [
+        "rakuten-sale-search"
+      ],
+      "campaignMerch": "53626",
+      "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+      "saleVerified": true,
+      "verifiedAt": "2026-09-03T11:48:24.657Z"
+    },
+    {
+      "id": "7328120261632",
+      "title": "ドラゴンクエスト エデンの戦士たち3巻",
+      "author": "藤原カムイ/堀井雄二",
+      "publisher": "スクウェア・エニックス",
+      "price": 100,
+      "url": "https://books.rakuten.co.jp/rk/60adeae3a7e132f2acb74b17626fc9d5/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9105/2000006729105.jpg?_ex=600x600",
+      "caption": "エンゴウ滅亡の鍵をにぎるグレンが登場し、冒険はさらにヒートアップ!!\n",
+      "salesDate": "2012年09月14日",
+      "series": "ドラゴンクエスト エデンの戦士たち",
+      "reviewAverage": 4,
+      "reviewCount": 1,
+      "genreId": "101904090",
+      "isbn": "7328120261632",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ドラゴンクエスト エデンの戦士たち3巻 （ガンガンコミックス）",
+        "author": "",
+        "itemNumber": "",
+        "regularPrice": 590,
+        "salePrice": 100,
+        "discountPercent": 83,
+        "saleEndAt": "",
+        "saleCampaign": "楽天ブックス セール一覧",
+        "saleCampaigns": [
+          "楽天ブックス セール一覧"
+        ],
+        "sourceGenre": "",
+        "campaignMerch": "53626",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+        "saleSources": [
+          "rakuten-sale-search"
+        ]
+      },
+      "regularPrice": 590,
+      "salePrice": 100,
+      "discountPercent": 83,
+      "saleEndAt": "",
+      "saleCampaign": "楽天ブックス セール一覧",
+      "saleCampaigns": [
+        "楽天ブックス セール一覧"
+      ],
+      "sourceGenre": "",
+      "saleSources": [
+        "rakuten-sale-search"
+      ],
+      "campaignMerch": "53626",
+      "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+      "saleVerified": true,
+      "verifiedAt": "2026-09-03T11:48:26.016Z"
+    },
+    {
+      "id": "4970000851137",
+      "title": "キン肉マン 7",
+      "author": "ゆでたまご",
+      "publisher": "集英社",
+      "price": 100,
+      "url": "https://books.rakuten.co.jp/rk/3007b7fd7c514fee846bee28c2f1f78b/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2423/2000000132423.jpg?_ex=600x600",
+      "caption": "【旧版カバーも再録!!】地球に瓜二つのラッカ星を、宇宙野武士が襲撃。彼らを撃退するため、七人の超人が手を組んだ！　さらに、超人オリンピック ザ・ビッグファイトの開催も決定。前回は優勝したキン肉マンだが予選から早くも大ピンチ…!?\n",
+      "salesDate": "2012年06月29日",
+      "series": "キン肉マン",
+      "reviewAverage": 4.25,
+      "reviewCount": 5,
+      "genreId": "101904001007",
+      "isbn": "4970000851137",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "キン肉マン 7 （ジャンプコミックスDIGITAL）",
+        "author": "",
+        "itemNumber": "",
+        "regularPrice": 543,
+        "salePrice": 100,
+        "discountPercent": 82,
+        "saleEndAt": "",
+        "saleCampaign": "楽天ブックス セール一覧",
+        "saleCampaigns": [
+          "楽天ブックス セール一覧"
+        ],
+        "sourceGenre": "",
+        "campaignMerch": "53626",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+        "saleSources": [
+          "rakuten-sale-search"
+        ]
+      },
+      "regularPrice": 543,
+      "salePrice": 100,
+      "discountPercent": 82,
+      "saleEndAt": "",
+      "saleCampaign": "楽天ブックス セール一覧",
+      "saleCampaigns": [
+        "楽天ブックス セール一覧"
+      ],
+      "sourceGenre": "",
+      "saleSources": [
+        "rakuten-sale-search"
+      ],
+      "campaignMerch": "53626",
+      "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+      "saleVerified": true,
+      "verifiedAt": "2026-09-03T11:48:27.441Z"
+    },
+    {
+      "id": "4970000851140",
+      "title": "キン肉マン 10",
+      "author": "ゆでたまご",
+      "publisher": "集英社",
+      "price": 100,
+      "url": "https://books.rakuten.co.jp/rk/384c2343046e42fa839c05c5ffdc6abf/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5961/2000000135961.jpg?_ex=600x600",
+      "caption": "【旧版カバーも再録!!】地球を追放されていた7人の悪魔超人が、キン肉マンに挑戦を表明！　悪魔超人にバラバラにされてしまったミートくんを救い出すため、正義対悪魔の血で血を洗う抗争がスタートする。残虐な悪魔超人相手に、生き残ることができるのか…!?\n",
+      "salesDate": "2012年06月29日",
+      "series": "キン肉マン",
+      "reviewAverage": 4.67,
+      "reviewCount": 4,
+      "genreId": "101904001007",
+      "isbn": "4970000851140",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "キン肉マン 10 （ジャンプコミックスDIGITAL）",
+        "author": "",
+        "itemNumber": "",
+        "regularPrice": 543,
+        "salePrice": 100,
+        "discountPercent": 82,
+        "saleEndAt": "",
+        "saleCampaign": "楽天ブックス セール一覧",
+        "saleCampaigns": [
+          "楽天ブックス セール一覧"
+        ],
+        "sourceGenre": "",
+        "campaignMerch": "53626",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+        "saleSources": [
+          "rakuten-sale-search"
+        ]
+      },
+      "regularPrice": 543,
+      "salePrice": 100,
+      "discountPercent": 82,
+      "saleEndAt": "",
+      "saleCampaign": "楽天ブックス セール一覧",
+      "saleCampaigns": [
+        "楽天ブックス セール一覧"
+      ],
+      "sourceGenre": "",
+      "saleSources": [
+        "rakuten-sale-search"
+      ],
+      "campaignMerch": "53626",
+      "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+      "saleVerified": true,
+      "verifiedAt": "2026-09-03T11:48:28.553Z"
+    },
+    {
+      "id": "7328125781695",
+      "title": "婚約破棄されたのに元婚約者の結婚式に招待されました。断れないので兄の友人に同行してもらいます。（コミック） 1巻",
+      "author": "藍野ナナカ/先崎真琴/ちらしま",
+      "publisher": "スクウェア・エニックス",
+      "price": 365,
+      "url": "https://books.rakuten.co.jp/rk/7e6ac1ae313634478287478bf9d23a20/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0740/2000013440740.jpg?_ex=600x600",
+      "caption": "子爵令嬢のルシアは、ある日突然婚約破棄を言い渡され、さらに、ルシアの従妹と結婚するという元婚約者の結婚式に招待される。家格的に欠席できず、兄も多忙で一緒に行けない…。途方に暮れていると、休暇中だった兄の友人フィルが結婚式への同行を申し出てくれた。しかし、この兄の友人、実は只者ではなくてーー!?婚約破棄から動き出す、最高に甘くて切ないシンデレラ・ラブストーリー！\n",
+      "salesDate": "2023年09月12日",
+      "series": "婚約破棄されたのに元婚約者の結婚式に招待されました。断れないので兄の友人に同行してもらいます。（コミック）",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904090",
+      "isbn": "7328125781695",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "婚約破棄されたのに元婚約者の結婚式に招待されました。断れないので兄の友人に同行してもらいます。（コミック） 1巻 （ガンガンコミックスONLINE）",
+        "author": "",
+        "itemNumber": "",
+        "regularPrice": 730,
+        "salePrice": 365,
+        "discountPercent": 50,
+        "saleEndAt": "",
+        "saleCampaign": "楽天ブックス セール一覧",
+        "saleCampaigns": [
+          "楽天ブックス セール一覧"
+        ],
+        "sourceGenre": "",
+        "campaignMerch": "53626",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+        "saleSources": [
+          "rakuten-sale-search"
+        ]
+      },
+      "regularPrice": 730,
+      "salePrice": 365,
+      "discountPercent": 50,
+      "saleEndAt": "",
+      "saleCampaign": "楽天ブックス セール一覧",
+      "saleCampaigns": [
+        "楽天ブックス セール一覧"
+      ],
+      "sourceGenre": "",
+      "saleSources": [
+        "rakuten-sale-search"
+      ],
+      "campaignMerch": "53626",
+      "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+      "saleVerified": true,
+      "verifiedAt": "2026-09-03T11:48:31.402Z"
+    },
+    {
+      "id": "8912120250443",
+      "title": "タブロウ・ゲート　V",
+      "author": "鈴木理華",
+      "publisher": "秋田書店",
+      "price": 264,
+      "url": "https://books.rakuten.co.jp/rk/bebb515dd597485c9969c5dbbdd02637/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3381/2000000223381.jpg?_ex=600x600",
+      "caption": "祭りの縁日で迷子になったパピュは、自らを＜正義(JUSTICE)＞＜審判(JUDGEMENT)＞と名乗る謎の二人組“怪盗J”と出会うが……!?　一方、謎の少年がイレイズに接触して……？\n",
+      "salesDate": "2012年09月17日",
+      "series": "タブロウ・ゲート",
+      "reviewAverage": 3.2,
+      "reviewCount": 5,
+      "genreId": "101904090",
+      "isbn": "8912120250443",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "タブロウ・ゲート　V （プリンセスGOLD）",
+        "author": "",
+        "itemNumber": "",
+        "regularPrice": 528,
+        "salePrice": 264,
+        "discountPercent": 50,
+        "saleEndAt": "",
+        "saleCampaign": "楽天ブックス セール一覧",
+        "saleCampaigns": [
+          "楽天ブックス セール一覧"
+        ],
+        "sourceGenre": "",
+        "campaignMerch": "53626",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+        "saleSources": [
+          "rakuten-sale-search"
+        ]
+      },
+      "regularPrice": 528,
+      "salePrice": 264,
+      "discountPercent": 50,
+      "saleEndAt": "",
+      "saleCampaign": "楽天ブックス セール一覧",
+      "saleCampaigns": [
+        "楽天ブックス セール一覧"
+      ],
+      "sourceGenre": "",
+      "saleSources": [
+        "rakuten-sale-search"
+      ],
+      "campaignMerch": "53626",
+      "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+      "saleVerified": true,
+      "verifiedAt": "2026-09-03T11:48:32.685Z"
+    },
+    {
+      "id": "8912121002003",
+      "title": "ドロップ　2",
+      "author": "鈴木大/品川ヒロシ/高橋ヒロシ",
+      "publisher": "秋田書店",
+      "price": 264,
+      "url": "https://books.rakuten.co.jp/rk/1e62b468c6ce32c2b7ea9273c318dd21/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3767/2000004073767.jpg?_ex=600x600",
+      "caption": "達也グループのNo.2・森木とささいなことから喧嘩になってしまったヒロシ。そのケジメとして達也とタイマンを張るハメに。不良ルーキーのヒロシは足がすくんでしまうが…!?\n",
+      "salesDate": "2016年03月07日",
+      "series": "ドロップ",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904090",
+      "isbn": "8912121002003",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ドロップ　2 （少年チャンピオン・コミックス）",
+        "author": "",
+        "itemNumber": "",
+        "regularPrice": 528,
+        "salePrice": 264,
+        "discountPercent": 50,
+        "saleEndAt": "",
+        "saleCampaign": "楽天ブックス セール一覧",
+        "saleCampaigns": [
+          "楽天ブックス セール一覧"
+        ],
+        "sourceGenre": "",
+        "campaignMerch": "53626",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+        "saleSources": [
+          "rakuten-sale-search"
+        ]
+      },
+      "regularPrice": 528,
+      "salePrice": 264,
+      "discountPercent": 50,
+      "saleEndAt": "",
+      "saleCampaign": "楽天ブックス セール一覧",
+      "saleCampaigns": [
+        "楽天ブックス セール一覧"
+      ],
+      "sourceGenre": "",
+      "saleSources": [
+        "rakuten-sale-search"
+      ],
+      "campaignMerch": "53626",
+      "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+      "saleVerified": true,
+      "verifiedAt": "2026-09-03T11:48:35.524Z"
+    },
+    {
+      "id": "4338867600300",
+      "title": "ブラザー・トラップ　3",
+      "author": "日向きょう",
+      "publisher": "KADOKAWA",
+      "price": 341,
+      "url": "https://books.rakuten.co.jp/rk/9da34d5e10003a71ae5cf2ccb3de0ce7/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8745/2000007708745.jpg?_ex=600x600",
+      "caption": "和泉にも「あかりの元カレ＝大和」だと知られてしまったあかり。辛い気持ちを払拭しようと始めたアルバイト先で、和泉と大和の幼なじみ・遥と出会いーー!! LINEマンガで圧倒的人気のラブストーリー第3巻！\n",
+      "salesDate": "2019年09月14日",
+      "series": "ブラザー・トラップ",
+      "reviewAverage": 4,
+      "reviewCount": 2,
+      "genreId": "101904090",
+      "isbn": "4338867600300",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ブラザー・トラップ　3 （ジーンＬＩＮＥコミックス）",
+        "author": "",
+        "itemNumber": "",
+        "regularPrice": 682,
+        "salePrice": 341,
         "discountPercent": 50,
         "saleEndAt": "",
         "saleCampaign": "楽天ブックス セール一覧",
@@ -1891,8 +2040,8 @@
           "rakuten-sale-search"
         ]
       },
-      "regularPrice": 110,
-      "salePrice": 55,
+      "regularPrice": 682,
+      "salePrice": 341,
       "discountPercent": 50,
       "saleEndAt": "",
       "saleCampaign": "楽天ブックス セール一覧",
@@ -1906,26 +2055,26 @@
       "campaignMerch": "53626",
       "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
       "saleVerified": true,
-      "verifiedAt": "2026-09-03T11:42:55.608Z"
+      "verifiedAt": "2026-09-03T11:48:51.895Z"
     },
     {
-      "id": "4330303600310",
-      "title": "ブラザー・トラップ　8",
+      "id": "4339969300300",
+      "title": "ブラザー・トラップ　7",
       "author": "日向きょう",
       "publisher": "KADOKAWA",
       "price": 347,
-      "url": "https://books.rakuten.co.jp/rk/cc677324df1830d5939457f8f8776fcd/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5789/2000010355789.jpg?_ex=600x600",
-      "caption": "和泉から「距離を置きませんか」と言われてしまったあかりは、好きだけれど上手くいかない状況にこのまま好きでいていいのか迷いはじめる…。和泉とあかりはこのまま別れるのか？そして大和との関係はーー!?LINEマンガで大人気！胸キュンラブストーリー盛り上がり最高潮な第8巻。\n",
-      "salesDate": "2021年10月15日",
+      "url": "https://books.rakuten.co.jp/rk/76bd3c2e379030078fe5c301a0ae0346/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4230/2000009584230.jpg?_ex=600x600",
+      "caption": "大和とあかりが別れたのは自分のせいではないかと思う和泉…。少しの違和感を覚えつつ、学園祭を楽しもうとするあかりだったがーー！三角関係も最高潮の大人気胸キュンラブストーリー第7巻！\n",
+      "salesDate": "2021年04月15日",
       "series": "ブラザー・トラップ",
       "reviewAverage": 0,
       "reviewCount": 0,
       "genreId": "101904090",
-      "isbn": "4330303600310",
+      "isbn": "4339969300300",
       "salesType": 0,
       "matchMeta": {
-        "title": "ブラザー・トラップ　8 （ジーンＬＩＮＥコミックス）",
+        "title": "ブラザー・トラップ　7 （ジーンＬＩＮＥコミックス）",
         "author": "",
         "itemNumber": "",
         "regularPrice": 693,
@@ -1958,7 +2107,111 @@
       "campaignMerch": "53626",
       "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
       "saleVerified": true,
-      "verifiedAt": "2026-09-03T11:42:55.608Z"
+      "verifiedAt": "2026-09-03T11:48:52.998Z"
+    },
+    {
+      "id": "8890355001065",
+      "title": "でびるち（５）",
+      "author": "むすあき",
+      "publisher": "GANMA!",
+      "price": 110,
+      "url": "https://books.rakuten.co.jp/rk/101b3419ef1a3605baf357c9776f21ef/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3908/2000010623908.jpg?_ex=600x600",
+      "caption": "容姿端麗・頭脳明晰・スポーツ万能の三拍子揃ったクラスで最も気になる存在、咲場 ヨミナ（さくばよみな）の正体はあの〇〇だった。 記憶と運命が交錯する──ダメダメな悪魔×男子高校生のラブコメディ！（著者名：むすあき/初出：GANMA!38〜50話掲載分）\n",
+      "salesDate": "2021年12月15日",
+      "series": "でびるち",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904090",
+      "isbn": "8890355001065",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "でびるち（５） （GANMA!）",
+        "author": "",
+        "itemNumber": "",
+        "regularPrice": 495,
+        "salePrice": 110,
+        "discountPercent": 78,
+        "saleEndAt": "",
+        "saleCampaign": "楽天ブックス セール一覧",
+        "saleCampaigns": [
+          "楽天ブックス セール一覧"
+        ],
+        "sourceGenre": "",
+        "campaignMerch": "53626",
+        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
+        "saleSources": [
+          "rakuten-sale-search"
+        ]
+      },
+      "regularPrice": 495,
+      "salePrice": 110,
+      "discountPercent": 78,
+      "saleEndAt": "",
+      "saleCampaign": "楽天ブックス セール一覧",
+      "saleCampaigns": [
+        "楽天ブックス セール一覧"
+      ],
+      "sourceGenre": "",
+      "saleSources": [
+        "rakuten-sale-search"
+      ],
+      "campaignMerch": "53626",
+      "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
+      "saleVerified": true,
+      "verifiedAt": "2026-09-03T11:49:05.276Z"
+    },
+    {
+      "id": "4330777500310",
+      "title": "ブラザー・トラップ　9",
+      "author": "日向きょう",
+      "publisher": "KADOKAWA",
+      "price": 347,
+      "url": "https://books.rakuten.co.jp/rk/361db0288a3f31b98cd0c7aa2a2b14eb/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7402/2000010917402.jpg?_ex=600x600",
+      "caption": "季節は巡り、二人で過ごすはじめてのクリスマスを楽しみにしていたあかりだったが、バイト先での人手不足が原因で会えなくなってしまう…。仕方ないと思いながらも、寂しさを覚えるあかりだったがーー。LINEマンガで大人気の等身大ラブストーリー、幸せのその後も描いた、心に残る最終巻！\n",
+      "salesDate": "2022年03月15日",
+      "series": "ブラザー・トラップ",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904090",
+      "isbn": "4330777500310",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ブラザー・トラップ　9 （ジーンＬＩＮＥコミックス）",
+        "author": "",
+        "itemNumber": "",
+        "regularPrice": 693,
+        "salePrice": 347,
+        "discountPercent": 50,
+        "saleEndAt": "",
+        "saleCampaign": "楽天ブックス セール一覧",
+        "saleCampaigns": [
+          "楽天ブックス セール一覧"
+        ],
+        "sourceGenre": "",
+        "campaignMerch": "53626",
+        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
+        "saleSources": [
+          "rakuten-sale-search"
+        ]
+      },
+      "regularPrice": 693,
+      "salePrice": 347,
+      "discountPercent": 50,
+      "saleEndAt": "",
+      "saleCampaign": "楽天ブックス セール一覧",
+      "saleCampaigns": [
+        "楽天ブックス セール一覧"
+      ],
+      "sourceGenre": "",
+      "saleSources": [
+        "rakuten-sale-search"
+      ],
+      "campaignMerch": "53626",
+      "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
+      "saleVerified": true,
+      "verifiedAt": "2026-09-03T11:49:06.644Z"
     },
     {
       "id": "8890355001305",
@@ -2010,31 +2263,31 @@
       "campaignMerch": "53626",
       "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
       "saleVerified": true,
-      "verifiedAt": "2026-09-03T11:42:56.469Z"
+      "verifiedAt": "2026-09-03T11:49:06.644Z"
     },
     {
-      "id": "4380000406101",
-      "title": "もうひとりの同姓同名",
-      "author": "下村敦史",
-      "publisher": "幻冬舎",
-      "price": 154,
-      "url": "https://books.rakuten.co.jp/rk/cd935ef002e7341aa1d5f4863f499d02/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2532/2000011792532.jpg?_ex=600x600",
-      "caption": "「私が殺されたーー？」\n殺人事件の被害者と同姓同名の私は……。\n須藤夏生は、ニュースで自分と同姓同名の女性が男のアパートで殺されたことを知る。全くの別人なのに親すら心配して連絡をしてくる。やがて自分も男に殺される夢を見るようになり。悩んだ末「同姓同名被害者の会」を開設するが。\n※この作品は文庫版『同姓同名』に収録されている同名短編を抜粋したものです。\n",
-      "salesDate": "2022年08月30日",
-      "series": "",
+      "id": "8912124827928",
+      "title": "はるかリセット　6",
+      "author": "野上武志",
+      "publisher": "秋田書店",
+      "price": 352,
+      "url": "https://books.rakuten.co.jp/rk/7760f5ee53fd3f25b741d09bf41bfb93/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8096/2000011878096.jpg?_ex=600x600",
+      "caption": "温泉旅行、岩盤浴、ネイルアート、餃子作り、サイクリング、クラフトビール、納豆…今巻の春河童先生は女子力高し!?　遠くでも近くでも、心を自由に解き放てば極上の休息＝リセットが待っている！　最高の癒しをはるかと一緒に過ごしましょ！\n",
+      "salesDate": "2022年10月20日",
+      "series": "はるかリセット",
       "reviewAverage": 0,
       "reviewCount": 0,
-      "genreId": "101901/101902",
-      "isbn": "4380000406101",
+      "genreId": "101904002014",
+      "isbn": "8912124827928",
       "salesType": 0,
       "matchMeta": {
-        "title": "もうひとりの同姓同名",
+        "title": "はるかリセット　6 （チャンピオンREDコミックス）",
         "author": "",
         "itemNumber": "",
-        "regularPrice": 220,
-        "salePrice": 154,
-        "discountPercent": 30,
+        "regularPrice": 704,
+        "salePrice": 352,
+        "discountPercent": 50,
         "saleEndAt": "",
         "saleCampaign": "楽天ブックス セール一覧",
         "saleCampaigns": [
@@ -2047,9 +2300,9 @@
           "rakuten-sale-search"
         ]
       },
-      "regularPrice": 220,
-      "salePrice": 154,
-      "discountPercent": 30,
+      "regularPrice": 704,
+      "salePrice": 352,
+      "discountPercent": 50,
       "saleEndAt": "",
       "saleCampaign": "楽天ブックス セール一覧",
       "saleCampaigns": [
@@ -2062,33 +2315,85 @@
       "campaignMerch": "53626",
       "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
       "saleVerified": true,
-      "verifiedAt": "2026-09-03T11:42:57.561Z"
+      "verifiedAt": "2026-09-03T11:49:08.002Z"
+    },
+    {
+      "id": "8890355001908",
+      "title": "S〔エス〕 ー君と、彼女と、運命と（７）",
+      "author": "南部ゼロイチ",
+      "publisher": "GANMA!",
+      "price": 220,
+      "url": "https://books.rakuten.co.jp/rk/85eac1b9230a3764b556a75a38144dda/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4207/2000012884207.jpg?_ex=600x600",
+      "caption": "2045年、インプラント情報端末「epo-C」の仮想空間コミュニケーション機能「SX（エスエックス）」によって、コミュニケーションの形はそれまでとは大きく姿を変えた。もちろん僕たち高校生の恋愛の形も。（著者名：南部ゼロイチ/初出：GANMA!62〜71話掲載分）\n",
+      "salesDate": "2023年05月01日",
+      "series": "S〔エス〕 ー君と、彼女と、運命と",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904090",
+      "isbn": "8890355001908",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "S〔エス〕 ー君と、彼女と、運命と（７） （GANMA!）",
+        "author": "",
+        "itemNumber": "",
+        "regularPrice": 594,
+        "salePrice": 220,
+        "discountPercent": 63,
+        "saleEndAt": "",
+        "saleCampaign": "楽天ブックス セール一覧",
+        "saleCampaigns": [
+          "楽天ブックス セール一覧"
+        ],
+        "sourceGenre": "",
+        "campaignMerch": "53626",
+        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
+        "saleSources": [
+          "rakuten-sale-search"
+        ]
+      },
+      "regularPrice": 594,
+      "salePrice": 220,
+      "discountPercent": 63,
+      "saleEndAt": "",
+      "saleCampaign": "楽天ブックス セール一覧",
+      "saleCampaigns": [
+        "楽天ブックス セール一覧"
+      ],
+      "sourceGenre": "",
+      "saleSources": [
+        "rakuten-sale-search"
+      ],
+      "campaignMerch": "53626",
+      "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
+      "saleVerified": true,
+      "verifiedAt": "2026-09-03T11:49:09.113Z"
     }
   ],
   "byGenre": {
     "fiction": [
       {
-        "id": "4380000400509",
-        "title": "溝鼠",
-        "author": "新堂冬樹",
+        "id": "4380000402055",
+        "title": "悪夢のエレベーター",
+        "author": "木下半太",
         "publisher": "幻冬舎",
-        "price": 497,
-        "url": "https://books.rakuten.co.jp/rk/08613243a14b43d7aec9569c4c28b3a5/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0482/2000001710482.jpg?_ex=600x600",
-        "caption": "復讐を請け負う代行屋、鷹場英一。他人の不幸とカネを愛し、対象者に恥辱と絶望を与えることを何よりの生きがいとしている。この日も依頼を受け、女の髪と眉を剃り落とし、頬を切り裂いた。報酬は二百万円。「仕事」は完璧だった。だが、英一の前に九年ぶりに現れた父親に、偽の依頼だったことを明かされる……。人間の欲望を抉り出す、暗黒エンタテインメント超大作！\n",
-        "salesDate": "2009年12月15日",
+        "price": 314,
+        "url": "https://books.rakuten.co.jp/rk/80a0cc25a9243747a0ab27af26735177/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4201/2000002414201.jpg?_ex=600x600",
+        "caption": "後頭部の強烈な痛みで目を覚ますと、緊急停止したエレベーターに、ヤクザ、オカマ、自殺願望の女と閉じ込められていた。浮気相手の部屋から出てきたばかりなのに大ピンチ！？　しかも、三人には犯罪歴があることまで発覚。精神的に追い詰められた密室で、ついに事件が起こる。意外な黒幕は誰だ？　笑いと恐怖に満ちた傑作コメディサスペンス。\n",
+        "salesDate": "2014年10月10日",
         "series": "",
-        "reviewAverage": 3.67,
-        "reviewCount": 4,
+        "reviewAverage": 3.29,
+        "reviewCount": 248,
         "genreId": "101901",
-        "isbn": "4380000400509",
+        "isbn": "4380000402055",
         "salesType": 0,
         "matchMeta": {
-          "title": "溝鼠",
+          "title": "悪夢のエレベーター",
           "author": "",
           "itemNumber": "",
-          "regularPrice": 994,
-          "salePrice": 497,
+          "regularPrice": 627,
+          "salePrice": 314,
           "discountPercent": 50,
           "saleEndAt": "",
           "saleCampaign": "楽天ブックス セール一覧",
@@ -2097,14 +2402,14 @@
           ],
           "sourceGenre": "",
           "campaignMerch": "53626",
-          "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
+          "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
           "saleSources": [
             "rakuten-sale-search"
           ],
-          "originalTitle": ""
+          "originalTitle": "悪夢のエレベーター （幻冬舎文庫）"
         },
-        "regularPrice": 994,
-        "salePrice": 497,
+        "regularPrice": 627,
+        "salePrice": 314,
         "discountPercent": 50,
         "saleEndAt": "",
         "saleCampaign": "楽天ブックス セール一覧",
@@ -2116,9 +2421,9 @@
           "rakuten-sale-search"
         ],
         "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
         "saleVerified": true,
-        "verifiedAt": "2026-09-03T11:42:14.361Z"
+        "verifiedAt": "2026-09-03T11:48:18.222Z"
       },
       {
         "id": "4380000400233",
@@ -2137,7 +2442,7 @@
         "isbn": "4380000400233",
         "salesType": 0,
         "matchMeta": {
-          "title": "ハッピー・リタイアメント （幻冬舎文庫）",
+          "title": "ハッピー・リタイアメント",
           "author": "",
           "itemNumber": "",
           "regularPrice": 605,
@@ -2150,245 +2455,34 @@
           ],
           "sourceGenre": "",
           "campaignMerch": "53626",
-          "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
+          "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
           "saleSources": [
             "rakuten-sale-search"
-          ]
+          ],
+          "originalTitle": "ハッピー・リタイアメント （幻冬舎文庫）"
         },
         "regularPrice": 605,
         "salePrice": 424,
         "discountPercent": 30,
         "saleEndAt": "",
         "saleCampaign": "楽天ブックス セール一覧",
+        "sourceGenre": "",
         "saleCampaigns": [
           "楽天ブックス セール一覧"
         ],
-        "sourceGenre": "",
         "saleSources": [
           "rakuten-sale-search"
         ],
         "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
         "saleVerified": true,
-        "verifiedAt": "2026-09-03T11:42:27.966Z"
-      },
-      {
-        "id": "4380000406101",
-        "title": "もうひとりの同姓同名",
-        "author": "下村敦史",
-        "publisher": "幻冬舎",
-        "price": 154,
-        "url": "https://books.rakuten.co.jp/rk/cd935ef002e7341aa1d5f4863f499d02/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2532/2000011792532.jpg?_ex=600x600",
-        "caption": "「私が殺されたーー？」\n殺人事件の被害者と同姓同名の私は……。\n須藤夏生は、ニュースで自分と同姓同名の女性が男のアパートで殺されたことを知る。全くの別人なのに親すら心配して連絡をしてくる。やがて自分も男に殺される夢を見るようになり。悩んだ末「同姓同名被害者の会」を開設するが。\n※この作品は文庫版『同姓同名』に収録されている同名短編を抜粋したものです。\n",
-        "salesDate": "2022年08月30日",
-        "series": "",
-        "reviewAverage": 0,
-        "reviewCount": 0,
-        "genreId": "101901/101902",
-        "isbn": "4380000406101",
-        "salesType": 0,
-        "matchMeta": {
-          "title": "もうひとりの同姓同名",
-          "author": "",
-          "itemNumber": "",
-          "regularPrice": 220,
-          "salePrice": 154,
-          "discountPercent": 30,
-          "saleEndAt": "",
-          "saleCampaign": "楽天ブックス セール一覧",
-          "saleCampaigns": [
-            "楽天ブックス セール一覧"
-          ],
-          "sourceGenre": "",
-          "campaignMerch": "53626",
-          "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-          "saleSources": [
-            "rakuten-sale-search"
-          ]
-        },
-        "regularPrice": 220,
-        "salePrice": 154,
-        "discountPercent": 30,
-        "saleEndAt": "",
-        "saleCampaign": "楽天ブックス セール一覧",
-        "saleCampaigns": [
-          "楽天ブックス セール一覧"
-        ],
-        "sourceGenre": "",
-        "saleSources": [
-          "rakuten-sale-search"
-        ],
-        "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-        "saleVerified": true,
-        "verifiedAt": "2026-09-03T11:42:57.561Z"
+        "verifiedAt": "2026-09-03T11:48:18.222Z"
       }
     ],
-    "mystery": [
-      {
-        "id": "4380000406101",
-        "title": "もうひとりの同姓同名",
-        "author": "下村敦史",
-        "publisher": "幻冬舎",
-        "price": 154,
-        "url": "https://books.rakuten.co.jp/rk/cd935ef002e7341aa1d5f4863f499d02/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2532/2000011792532.jpg?_ex=600x600",
-        "caption": "「私が殺されたーー？」\n殺人事件の被害者と同姓同名の私は……。\n須藤夏生は、ニュースで自分と同姓同名の女性が男のアパートで殺されたことを知る。全くの別人なのに親すら心配して連絡をしてくる。やがて自分も男に殺される夢を見るようになり。悩んだ末「同姓同名被害者の会」を開設するが。\n※この作品は文庫版『同姓同名』に収録されている同名短編を抜粋したものです。\n",
-        "salesDate": "2022年08月30日",
-        "series": "",
-        "reviewAverage": 0,
-        "reviewCount": 0,
-        "genreId": "101901/101902",
-        "isbn": "4380000406101",
-        "salesType": 0,
-        "matchMeta": {
-          "title": "もうひとりの同姓同名",
-          "author": "",
-          "itemNumber": "",
-          "regularPrice": 220,
-          "salePrice": 154,
-          "discountPercent": 30,
-          "saleEndAt": "",
-          "saleCampaign": "楽天ブックス セール一覧",
-          "saleCampaigns": [
-            "楽天ブックス セール一覧"
-          ],
-          "sourceGenre": "",
-          "campaignMerch": "53626",
-          "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-          "saleSources": [
-            "rakuten-sale-search"
-          ]
-        },
-        "regularPrice": 220,
-        "salePrice": 154,
-        "discountPercent": 30,
-        "saleEndAt": "",
-        "saleCampaign": "楽天ブックス セール一覧",
-        "saleCampaigns": [
-          "楽天ブックス セール一覧"
-        ],
-        "sourceGenre": "",
-        "saleSources": [
-          "rakuten-sale-search"
-        ],
-        "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-        "saleVerified": true,
-        "verifiedAt": "2026-09-03T11:42:57.561Z"
-      }
-    ],
+    "mystery": [],
     "sf": [],
-    "business": [
-      {
-        "id": "4380000402397",
-        "title": "図解　脳に悪い７つの習慣",
-        "author": "林成之",
-        "publisher": "幻冬舎",
-        "price": 297,
-        "url": "https://books.rakuten.co.jp/rk/9c02421312de3c7dbe2e056007ea47b3/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2430/2000003002430.jpg?_ex=600x600",
-        "caption": "脳は気持ちや生活習慣で、その働きがよくも悪くもなる。この事実を知らないばかりに、脳力を後退させるのはもったいない。脳に悪い習慣とは、「興味がない」と物事を避ける、「嫌だ」「疲れた」とグチを言う、言われたことをコツコツやる、常に効率を考えている、やりたくないのに我慢して勉強する、スポーツや絵などの趣味がない、めったに人をほめない、の7つ。これらをやめるだけで頭の働きがよくなる理由を、脳の仕組みからわかりやすく解説。\n",
-        "salesDate": "2015年04月24日",
-        "series": "",
-        "reviewAverage": 3.62,
-        "reviewCount": 18,
-        "genreId": "101905017004",
-        "isbn": "4380000402397",
-        "salesType": 0,
-        "matchMeta": {
-          "title": "図解 脳に悪い7つの習慣",
-          "author": "",
-          "itemNumber": "",
-          "regularPrice": 594,
-          "salePrice": 297,
-          "discountPercent": 50,
-          "saleEndAt": "",
-          "saleCampaign": "楽天ブックス セール一覧",
-          "saleCampaigns": [
-            "楽天ブックス セール一覧"
-          ],
-          "sourceGenre": "",
-          "campaignMerch": "53626",
-          "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-          "saleSources": [
-            "rakuten-sale-search"
-          ],
-          "originalTitle": "図解　脳に悪い７つの習慣 （幻冬舎単行本）"
-        },
-        "regularPrice": 594,
-        "salePrice": 297,
-        "discountPercent": 50,
-        "saleEndAt": "",
-        "saleCampaign": "楽天ブックス セール一覧",
-        "sourceGenre": "",
-        "saleCampaigns": [
-          "楽天ブックス セール一覧"
-        ],
-        "saleSources": [
-          "rakuten-sale-search"
-        ],
-        "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-        "saleVerified": true,
-        "verifiedAt": "2026-09-03T11:42:14.361Z"
-      }
-    ],
-    "humanities": [
-      {
-        "id": "4380000403992",
-        "title": "きょうも傍聴席にいます",
-        "author": "朝日新聞社会部",
-        "publisher": "幻冬舎",
-        "price": 460,
-        "url": "https://books.rakuten.co.jp/rk/d4691366de663104952c050c582a2a90/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8444/2000005698444.jpg?_ex=600x600",
-        "caption": "殺人など事件が起きると、警察、被害者の遺族、容疑者の知人らへの取材に奔走する新聞記者。その記者がほとんど初めて、容疑者本人を目にするのが法廷だ。傍聴席で本人の表情に目をこらし、肉声に耳を澄ましていると、事件は当初報じられたものとは違う様相を帯びてくるーー。自分なら一線を越えずにいられたか? 何が善で何が悪なのか? 記者が紙面の短い記事では伝えきれない思いを託して綴る、朝日新聞デジタル版連載「きょうも傍聴席にいます。」。「泣けた」「他人事ではない」と毎回大きな反響を呼ぶ28編を書籍化。\n",
-        "salesDate": "2017年11月29日",
-        "series": "",
-        "reviewAverage": 3.82,
-        "reviewCount": 11,
-        "genreId": "101907005003",
-        "isbn": "4380000403992",
-        "salesType": 0,
-        "matchMeta": {
-          "title": "きょうも傍聴席にいます （幻冬舎新書）",
-          "author": "",
-          "itemNumber": "",
-          "regularPrice": 920,
-          "salePrice": 460,
-          "discountPercent": 50,
-          "saleEndAt": "",
-          "saleCampaign": "楽天ブックス セール一覧",
-          "saleCampaigns": [
-            "楽天ブックス セール一覧"
-          ],
-          "sourceGenre": "",
-          "campaignMerch": "53626",
-          "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-          "saleSources": [
-            "rakuten-sale-search"
-          ]
-        },
-        "regularPrice": 920,
-        "salePrice": 460,
-        "discountPercent": 50,
-        "saleEndAt": "",
-        "saleCampaign": "楽天ブックス セール一覧",
-        "saleCampaigns": [
-          "楽天ブックス セール一覧"
-        ],
-        "sourceGenre": "",
-        "saleSources": [
-          "rakuten-sale-search"
-        ],
-        "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-        "saleVerified": true,
-        "verifiedAt": "2026-09-03T11:42:40.005Z"
-      }
-    ],
+    "business": [],
+    "humanities": [],
     "nonfiction": [],
     "science": [],
     "it": [],
@@ -2423,7 +2517,7 @@
           ],
           "sourceGenre": "",
           "campaignMerch": "53626",
-          "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
+          "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
           "saleSources": [
             "rakuten-sale-search"
           ],
@@ -2442,9 +2536,9 @@
           "rakuten-sale-search"
         ],
         "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
         "saleVerified": true,
-        "verifiedAt": "2026-09-03T11:42:14.362Z"
+        "verifiedAt": "2026-09-03T11:48:18.223Z"
       }
     ],
     "health": [],
@@ -2454,6 +2548,218 @@
     "children": [],
     "essay": [],
     "comic": [
+      {
+        "id": "8890355001203",
+        "title": "鬼畜英雄（１）",
+        "author": "よのき",
+        "publisher": "GANMA!",
+        "price": 11,
+        "url": "https://books.rakuten.co.jp/rk/856475e33ecf35c0b53ce0fda366326d/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9506/2000010869506.jpg?_ex=600x600",
+        "caption": "無双チート淫魔、異世界に降臨！\nどんな女も即ハーレムファンタジー!!\n──魔界に転生し、女性と性行為すればするほど無双チート化する伝説の種族「淫魔(インキュバス)」になった俺。\n金も名誉も女も全部ゲットできたけど、本当に欲しいのはより強力なスキル。\n次は人間かエルフとヤらないとスキルツリーが解放されないので、人間界にテレポート！\n薬師のエルフ少女、SSランクアサシンの冷酷美女をさっそく支配下に!?\n（著者名：よのき／1〜8話・限定描き下ろし収録）\n",
+        "salesDate": "2022年02月18日",
+        "series": "鬼畜英雄",
+        "reviewAverage": 4.17,
+        "reviewCount": 6,
+        "genreId": "101904090",
+        "isbn": "8890355001203",
+        "salesType": 0,
+        "matchMeta": {
+          "title": "鬼畜英雄(1) (GANMA!)",
+          "author": "",
+          "itemNumber": "",
+          "regularPrice": 748,
+          "salePrice": 11,
+          "discountPercent": 99,
+          "saleEndAt": "",
+          "saleCampaign": "楽天ブックス セール一覧",
+          "saleCampaigns": [
+            "楽天ブックス セール一覧"
+          ],
+          "sourceGenre": "",
+          "campaignMerch": "53626",
+          "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+          "saleSources": [
+            "rakuten-sale-search"
+          ],
+          "originalTitle": "鬼畜英雄（１） （GANMA!）"
+        },
+        "regularPrice": 748,
+        "salePrice": 11,
+        "discountPercent": 99,
+        "saleEndAt": "",
+        "saleCampaign": "楽天ブックス セール一覧",
+        "sourceGenre": "",
+        "saleCampaigns": [
+          "楽天ブックス セール一覧"
+        ],
+        "saleSources": [
+          "rakuten-sale-search"
+        ],
+        "campaignMerch": "53626",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+        "saleVerified": true,
+        "verifiedAt": "2026-09-03T11:48:18.223Z"
+      },
+      {
+        "id": "4972000016525",
+        "title": "有閑倶楽部 カラー版 2",
+        "author": "一条ゆかり",
+        "publisher": "集英社",
+        "price": 100,
+        "url": "https://books.rakuten.co.jp/rk/257124405d8b34b9be18496a60fd7342/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1245/2000007241245.jpg?_ex=600x600",
+        "caption": "【ページ数が多いビッグボリューム版！】【デジタル着色によるフルカラー版！】時は少し遡り…聖プレジデント学園幼稚舎入園式。有閑倶楽部の面々が、初めて顔を合わせた頃のお話を紐解いてみますと…？\n",
+        "salesDate": "2019年04月01日",
+        "series": "有閑倶楽部 カラー版",
+        "reviewAverage": 0,
+        "reviewCount": 0,
+        "genreId": "101904011007",
+        "isbn": "4972000016525",
+        "salesType": 0,
+        "matchMeta": {
+          "title": "有閑倶楽部 カラー版 2",
+          "author": "",
+          "itemNumber": "",
+          "regularPrice": 946,
+          "salePrice": 100,
+          "discountPercent": 89,
+          "saleEndAt": "",
+          "saleCampaign": "楽天ブックス セール一覧",
+          "saleCampaigns": [
+            "楽天ブックス セール一覧"
+          ],
+          "sourceGenre": "",
+          "campaignMerch": "53626",
+          "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+          "saleSources": [
+            "rakuten-sale-search"
+          ],
+          "originalTitle": "有閑倶楽部 カラー版 2 （りぼんマスコットコミックスDIGITAL）"
+        },
+        "regularPrice": 946,
+        "salePrice": 100,
+        "discountPercent": 89,
+        "saleEndAt": "",
+        "saleCampaign": "楽天ブックス セール一覧",
+        "sourceGenre": "",
+        "saleCampaigns": [
+          "楽天ブックス セール一覧"
+        ],
+        "saleSources": [
+          "rakuten-sale-search"
+        ],
+        "campaignMerch": "53626",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+        "saleVerified": true,
+        "verifiedAt": "2026-09-03T11:48:18.223Z"
+      },
+      {
+        "id": "4972000016526",
+        "title": "有閑倶楽部 カラー版 3",
+        "author": "一条ゆかり",
+        "publisher": "集英社",
+        "price": 100,
+        "url": "https://books.rakuten.co.jp/rk/e11f59d7a6463bc082bd858f9e3e9581/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0148/2000007240148.jpg?_ex=600x600",
+        "caption": "【ページ数が多いビッグボリューム版！】【デジタル着色によるフルカラー版！】有閑倶楽部きっての恋多き女・可憐さん。クーデターを逃れ日本へ来た中東の王子様と、命を懸けた恋に落ちる…!?\n",
+        "salesDate": "2019年04月01日",
+        "series": "有閑倶楽部 カラー版",
+        "reviewAverage": 0,
+        "reviewCount": 0,
+        "genreId": "101904011007",
+        "isbn": "4972000016526",
+        "salesType": 0,
+        "matchMeta": {
+          "title": "有閑倶楽部 カラー版 3",
+          "author": "",
+          "itemNumber": "",
+          "regularPrice": 946,
+          "salePrice": 100,
+          "discountPercent": 89,
+          "saleEndAt": "",
+          "saleCampaign": "楽天ブックス セール一覧",
+          "saleCampaigns": [
+            "楽天ブックス セール一覧"
+          ],
+          "sourceGenre": "",
+          "campaignMerch": "53626",
+          "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+          "saleSources": [
+            "rakuten-sale-search"
+          ],
+          "originalTitle": "有閑倶楽部 カラー版 3 （りぼんマスコットコミックスDIGITAL）"
+        },
+        "regularPrice": 946,
+        "salePrice": 100,
+        "discountPercent": 89,
+        "saleEndAt": "",
+        "saleCampaign": "楽天ブックス セール一覧",
+        "sourceGenre": "",
+        "saleCampaigns": [
+          "楽天ブックス セール一覧"
+        ],
+        "saleSources": [
+          "rakuten-sale-search"
+        ],
+        "campaignMerch": "53626",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+        "saleVerified": true,
+        "verifiedAt": "2026-09-03T11:48:18.223Z"
+      },
+      {
+        "id": "4972000016527",
+        "title": "有閑倶楽部 カラー版 4",
+        "author": "一条ゆかり",
+        "publisher": "集英社",
+        "price": 100,
+        "url": "https://books.rakuten.co.jp/rk/a16352a236c435439fe502117de80283/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0147/2000007240147.jpg?_ex=600x600",
+        "caption": "【ページ数が多いビッグボリューム版！】【デジタル着色によるフルカラー版！】香港にて優雅な飲茶を…が一転、マフィアの抗争に巻き込まれ、捕まってしまった悠理達。下痢責めで大ピンチ!!\n",
+        "salesDate": "2019年04月01日",
+        "series": "有閑倶楽部 カラー版",
+        "reviewAverage": 0,
+        "reviewCount": 0,
+        "genreId": "101904011007",
+        "isbn": "4972000016527",
+        "salesType": 0,
+        "matchMeta": {
+          "title": "有閑倶楽部 カラー版 4",
+          "author": "",
+          "itemNumber": "",
+          "regularPrice": 946,
+          "salePrice": 100,
+          "discountPercent": 89,
+          "saleEndAt": "",
+          "saleCampaign": "楽天ブックス セール一覧",
+          "saleCampaigns": [
+            "楽天ブックス セール一覧"
+          ],
+          "sourceGenre": "",
+          "campaignMerch": "53626",
+          "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+          "saleSources": [
+            "rakuten-sale-search"
+          ],
+          "originalTitle": "有閑倶楽部 カラー版 4 （りぼんマスコットコミックスDIGITAL）"
+        },
+        "regularPrice": 946,
+        "salePrice": 100,
+        "discountPercent": 89,
+        "saleEndAt": "",
+        "saleCampaign": "楽天ブックス セール一覧",
+        "sourceGenre": "",
+        "saleCampaigns": [
+          "楽天ブックス セール一覧"
+        ],
+        "saleSources": [
+          "rakuten-sale-search"
+        ],
+        "campaignMerch": "53626",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+        "saleVerified": true,
+        "verifiedAt": "2026-09-03T11:48:18.223Z"
+      },
       {
         "id": "4972000116574",
         "title": "黒猫の剣士〜ブラックなパーティを辞めたらS級冒険者にスカウトされました。今さら「戻ってきて」と言われても「もう遅い」です〜 11",
@@ -2484,7 +2790,7 @@
           ],
           "sourceGenre": "",
           "campaignMerch": "53626",
-          "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
+          "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
           "saleSources": [
             "rakuten-sale-search"
           ],
@@ -2503,33 +2809,33 @@
           "rakuten-sale-search"
         ],
         "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
         "saleVerified": true,
-        "verifiedAt": "2026-09-03T11:42:14.362Z"
+        "verifiedAt": "2026-09-03T11:48:18.223Z"
       },
       {
-        "id": "4972000116573",
-        "title": "黒猫の剣士〜ブラックなパーティを辞めたらS級冒険者にスカウトされました。今さら「戻ってきて」と言われても「もう遅い」です〜 10",
+        "id": "4972000070496",
+        "title": "黒猫の剣士〜ブラックなパーティを辞めたらS級冒険者にスカウトされました。今さら「戻ってきて」と言われても「もう遅い」です〜 6",
         "author": "妹尾尻尾/そら蒼/石田あきら",
         "publisher": "集英社",
         "price": 100,
-        "url": "https://books.rakuten.co.jp/rk/513631a711e9378bb37dc991f9682604/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2543/2000017122543.jpg?_ex=600x600",
-        "caption": "無能扱い→実は最強の冒険者！　育ての父の教えを胸に、実の父ニールとの戦いに挑むナイン。ナインの『七星剣武』に追い詰められたニールはついに氷に覆われた本体の『邪竜王（ヴァルムント）』を復活させた。「たとえ自分が敗れようとも、必ず『紅鷹』の仲間たちが倒してくれる！」　確固たる信頼のもと、『紅鷹』よりひと足先に駆けつけたエヌとともに、ナインは9秒間だけ魔力を爆発的に引き上げる、ナインとエヌに特化した秘術『玖秒の王撃（ナインカウント・ストライク）』で命懸けの戦闘を開始する!!　超速の異世界バトルファンタジー、身魂相打つ第10巻!!\n",
-        "salesDate": "2025年04月17日",
+        "url": "https://books.rakuten.co.jp/rk/66900be48dc838ac9f3635c801c732ed/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6742/2000013746742.jpg?_ex=600x600",
+        "caption": "無能扱い→実は最強の冒険者！　ジリジリと追い詰められながらも、勝ちを確信して攻撃の手を緩めないバンソロミュー。しかし『紅鷹』の面々は、次々と敵の手を読み、覆していく！　領主であるタンミワ卿を逃がし、モンスターまでも召喚したバンソロミューだったが『紅鷹』の圧倒的な頭脳と実力を前に完敗を喫した。首謀者たちは逮捕。これでギルドを巻き込む麻薬事件は無事収束したかに思えたが、闇の根はまだ深く…!?　超速の異世界バトルファンタジー、待望の第6巻!!\n",
+        "salesDate": "2023年11月17日",
         "series": "黒猫の剣士〜ブラックなパーティを辞めたらS級冒険者にスカウトされました。今さら「戻ってきて」と言われても「もう遅い」です〜",
         "reviewAverage": 0,
         "reviewCount": 0,
         "genreId": "101904002006",
-        "isbn": "4972000116573",
+        "isbn": "4972000070496",
         "salesType": 0,
         "matchMeta": {
-          "title": "黒猫の剣士〜ブラックなパーティを辞めたらS級冒険者にスカウトされました。今さら「戻ってきて」と言われても「もう遅い」です〜 10",
+          "title": "黒猫の剣士〜ブラックなパーティを辞めたらS級冒険者にスカウトされました。今さら「戻ってきて」と言われても「もう遅い」です〜 6",
           "author": "",
           "itemNumber": "",
-          "regularPrice": 752,
+          "regularPrice": 680,
           "salePrice": 100,
-          "discountPercent": 87,
+          "discountPercent": 85,
           "saleEndAt": "",
           "saleCampaign": "楽天ブックス セール一覧",
           "saleCampaigns": [
@@ -2537,15 +2843,15 @@
           ],
           "sourceGenre": "",
           "campaignMerch": "53626",
-          "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
+          "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
           "saleSources": [
             "rakuten-sale-search"
           ],
-          "originalTitle": "黒猫の剣士〜ブラックなパーティを辞めたらS級冒険者にスカウトされました。今さら「戻ってきて」と言われても「もう遅い」です〜 10 （ヤングジャンプコミックスDIGITAL）"
+          "originalTitle": "黒猫の剣士〜ブラックなパーティを辞めたらS級冒険者にスカウトされました。今さら「戻ってきて」と言われても「もう遅い」です〜 6 （ヤングジャンプコミックスDIGITAL）"
         },
-        "regularPrice": 752,
+        "regularPrice": 680,
         "salePrice": 100,
-        "discountPercent": 87,
+        "discountPercent": 85,
         "saleEndAt": "",
         "saleCampaign": "楽天ブックス セール一覧",
         "sourceGenre": "",
@@ -2556,139 +2862,33 @@
           "rakuten-sale-search"
         ],
         "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
         "saleVerified": true,
-        "verifiedAt": "2026-09-03T11:42:14.362Z"
+        "verifiedAt": "2026-09-03T11:48:18.223Z"
       },
       {
-        "id": "4970100700138",
-        "title": "日に流れて橋に行く 1",
-        "author": "日高ショーコ",
+        "id": "4972000078327",
+        "title": "黒猫の剣士〜ブラックなパーティを辞めたらS級冒険者にスカウトされました。今さら「戻ってきて」と言われても「もう遅い」です〜 7",
+        "author": "妹尾尻尾/そら蒼/石田あきら",
         "publisher": "集英社",
         "price": 100,
-        "url": "https://books.rakuten.co.jp/rk/6aa8b10ffe3f31d99457f5b92436d24a/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5902/2000005545902.jpg?_ex=600x600",
-        "caption": "【雑誌掲載時の著者カラー原画を収録したリマスター版！】時は明治末。さびれた老舗呉服店に新風を巻き起こす、男たちの物語──。　かつて大きな賑わいを見せていた、老舗呉服店「三つ星」。その三男・星乃虎三郎が、三年ぶりに英国から帰国した。新しい「三つ星」を作ろうと意気込むものの、店の者からはまったく歓迎されず、変わらず優しいのは、長兄の存寅だけ。一方、虎三郎を知っているらしき、謎の男・鷹頭も、「三つ星」再建のため、独自に動いており…。\n",
-        "salesDate": "2017年11月24日",
-        "series": "日に流れて橋に行く",
-        "reviewAverage": 3.88,
-        "reviewCount": 8,
-        "genreId": "101904011006",
-        "isbn": "4970100700138",
-        "salesType": 0,
-        "matchMeta": {
-          "title": "日に流れて橋に行く 1",
-          "author": "",
-          "itemNumber": "",
-          "regularPrice": 794,
-          "salePrice": 100,
-          "discountPercent": 87,
-          "saleEndAt": "",
-          "saleCampaign": "楽天ブックス セール一覧",
-          "saleCampaigns": [
-            "楽天ブックス セール一覧"
-          ],
-          "sourceGenre": "",
-          "campaignMerch": "53626",
-          "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-          "saleSources": [
-            "rakuten-sale-search"
-          ],
-          "originalTitle": "日に流れて橋に行く 1 （マーガレットコミックスDIGITAL）"
-        },
-        "regularPrice": 794,
-        "salePrice": 100,
-        "discountPercent": 87,
-        "saleEndAt": "",
-        "saleCampaign": "楽天ブックス セール一覧",
-        "sourceGenre": "",
-        "saleCampaigns": [
-          "楽天ブックス セール一覧"
-        ],
-        "saleSources": [
-          "rakuten-sale-search"
-        ],
-        "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-        "saleVerified": true,
-        "verifiedAt": "2026-09-03T11:42:14.362Z"
-      },
-      {
-        "id": "8890355004488",
-        "title": "ギャル嫁の秘密（１）",
-        "author": "クドゥー",
-        "publisher": "GANMA!",
-        "price": 110,
-        "url": "https://books.rakuten.co.jp/rk/f50df40fc9863c2cbba6d86f9a401ff0/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6078/2000016196078.jpg?_ex=600x600",
-        "caption": "冬雪は派手な容姿で社内で有名なギャル。業務中はクールだが、同僚でもある旦那の前だけで見せる超甘々な秘密の姿があって……？ （著者名：クドゥー／初出：GANMA!1〜11話掲載分）※単行本描き下ろし収録\n",
-        "salesDate": "2024年10月19日",
-        "series": "ギャル嫁の秘密",
-        "reviewAverage": 0,
-        "reviewCount": 0,
-        "genreId": "101904090",
-        "isbn": "8890355004488",
-        "salesType": 0,
-        "matchMeta": {
-          "title": "ギャル嫁の秘密(1) (GANMA!)",
-          "author": "",
-          "itemNumber": "",
-          "regularPrice": 781,
-          "salePrice": 110,
-          "discountPercent": 86,
-          "saleEndAt": "",
-          "saleCampaign": "楽天ブックス セール一覧",
-          "saleCampaigns": [
-            "楽天ブックス セール一覧"
-          ],
-          "sourceGenre": "",
-          "campaignMerch": "53626",
-          "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-          "saleSources": [
-            "rakuten-sale-search"
-          ],
-          "originalTitle": "ギャル嫁の秘密（１） （GANMA!）"
-        },
-        "regularPrice": 781,
-        "salePrice": 110,
-        "discountPercent": 86,
-        "saleEndAt": "",
-        "saleCampaign": "楽天ブックス セール一覧",
-        "sourceGenre": "",
-        "saleCampaigns": [
-          "楽天ブックス セール一覧"
-        ],
-        "saleSources": [
-          "rakuten-sale-search"
-        ],
-        "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-        "saleVerified": true,
-        "verifiedAt": "2026-09-03T11:42:14.362Z"
-      },
-      {
-        "id": "4970100801643",
-        "title": "DOKUROー毒狼ー 1",
-        "author": "猿渡哲也",
-        "publisher": "集英社",
-        "price": 100,
-        "url": "https://books.rakuten.co.jp/rk/fd91214729433d889ea5f68902876cdc/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8166/2000002388166.jpg?_ex=600x600",
-        "caption": "本名・キクチタケオ。暗号名・毒狼〈どくろ〉。　幼い頃、熱心な母親に連れられて宗教団体・涅槃創生会に入信。その後、教団の保安局粛殺班にて最強の暗殺者として暗躍。得意な武器は、特殊金属でできたファングブレードワイヤー。　ある時、教団に背いて脱会。現在、逃亡中…。\n",
-        "salesDate": "2014年10月10日",
-        "series": "DOKUROー毒狼ー",
+        "url": "https://books.rakuten.co.jp/rk/f57641e84e82307aa6a5afab4f060724/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7433/2000014357433.jpg?_ex=600x600",
+        "caption": "無能扱い→実は最強の冒険者！　鑑定器具にかかった魔術をナインが剣術で斬り、“竜の粉”の成分が“星聖竜・ヴァルムント”から削り取られたものだと判明した。さらに、星聖竜騎士団の団長ニールが真摯に謝罪を述べ、『紅鷹』への邪竜討伐依頼（ドラゴン・クエスト）にも協力を申し出る！　ニールの同行目的に一抹の不安を感じながらも、了承するユージン。リンダ不在の『紅鷹』3人とニールが向かった先では、トルネードドラゴン“ウィドレクト”が猛威をふるっていた。この脅威に4人はどう戦う…!?　超速の異世界バトルファンタジー、待望の第7巻!!\n",
+        "salesDate": "2024年03月18日",
+        "series": "黒猫の剣士〜ブラックなパーティを辞めたらS級冒険者にスカウトされました。今さら「戻ってきて」と言われても「もう遅い」です〜",
         "reviewAverage": 0,
         "reviewCount": 0,
         "genreId": "101904002006",
-        "isbn": "4970100801643",
+        "isbn": "4972000078327",
         "salesType": 0,
         "matchMeta": {
-          "title": "DOKUROー毒狼ー 1",
+          "title": "黒猫の剣士〜ブラックなパーティを辞めたらS級冒険者にスカウトされました。今さら「戻ってきて」と言われても「もう遅い」です〜 7",
           "author": "",
           "itemNumber": "",
-          "regularPrice": 617,
+          "regularPrice": 680,
           "salePrice": 100,
-          "discountPercent": 84,
+          "discountPercent": 85,
           "saleEndAt": "",
           "saleCampaign": "楽天ブックス セール一覧",
           "saleCampaigns": [
@@ -2696,15 +2896,15 @@
           ],
           "sourceGenre": "",
           "campaignMerch": "53626",
-          "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
+          "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
           "saleSources": [
             "rakuten-sale-search"
           ],
-          "originalTitle": "DOKUROー毒狼ー 1 （ヤングジャンプコミックスDIGITAL）"
+          "originalTitle": "黒猫の剣士〜ブラックなパーティを辞めたらS級冒険者にスカウトされました。今さら「戻ってきて」と言われても「もう遅い」です〜 7 （ヤングジャンプコミックスDIGITAL）"
         },
-        "regularPrice": 617,
+        "regularPrice": 680,
         "salePrice": 100,
-        "discountPercent": 84,
+        "discountPercent": 85,
         "saleEndAt": "",
         "saleCampaign": "楽天ブックス セール一覧",
         "sourceGenre": "",
@@ -2715,9 +2915,62 @@
           "rakuten-sale-search"
         ],
         "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
         "saleVerified": true,
-        "verifiedAt": "2026-09-03T11:42:14.362Z"
+        "verifiedAt": "2026-09-03T11:48:18.223Z"
+      },
+      {
+        "id": "7328120261631",
+        "title": "ドラゴンクエスト エデンの戦士たち2巻",
+        "author": "藤原カムイ/堀井雄二",
+        "publisher": "スクウェア・エニックス",
+        "price": 100,
+        "url": "https://books.rakuten.co.jp/rk/1223470364823d35a4ac824782421d2a/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9113/2000006729113.jpg?_ex=600x600",
+        "caption": "ついにウッドパルナを支配する魔物の正体が明らかに!!　衝撃的な事実にアルスたちは…!?\n",
+        "salesDate": "2012年09月14日",
+        "series": "ドラゴンクエスト エデンの戦士たち",
+        "reviewAverage": 4,
+        "reviewCount": 1,
+        "genreId": "101904090",
+        "isbn": "7328120261631",
+        "salesType": 0,
+        "matchMeta": {
+          "title": "ドラゴンクエスト エデンの戦士たち2巻",
+          "author": "",
+          "itemNumber": "",
+          "regularPrice": 590,
+          "salePrice": 100,
+          "discountPercent": 83,
+          "saleEndAt": "",
+          "saleCampaign": "楽天ブックス セール一覧",
+          "saleCampaigns": [
+            "楽天ブックス セール一覧"
+          ],
+          "sourceGenre": "",
+          "campaignMerch": "53626",
+          "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+          "saleSources": [
+            "rakuten-sale-search"
+          ],
+          "originalTitle": "ドラゴンクエスト エデンの戦士たち2巻 （ガンガンコミックス）"
+        },
+        "regularPrice": 590,
+        "salePrice": 100,
+        "discountPercent": 83,
+        "saleEndAt": "",
+        "saleCampaign": "楽天ブックス セール一覧",
+        "sourceGenre": "",
+        "saleCampaigns": [
+          "楽天ブックス セール一覧"
+        ],
+        "saleSources": [
+          "rakuten-sale-search"
+        ],
+        "campaignMerch": "53626",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
+        "saleVerified": true,
+        "verifiedAt": "2026-09-03T11:48:18.223Z"
       },
       {
         "id": "7328120261630",
@@ -2749,7 +3002,7 @@
           ],
           "sourceGenre": "",
           "campaignMerch": "53626",
-          "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
+          "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
           "saleSources": [
             "rakuten-sale-search"
           ],
@@ -2768,139 +3021,33 @@
           "rakuten-sale-search"
         ],
         "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
         "saleVerified": true,
-        "verifiedAt": "2026-09-03T11:42:14.362Z"
+        "verifiedAt": "2026-09-03T11:48:18.223Z"
       },
       {
-        "id": "4970100802029",
-        "title": "バーテンダー a Paris 1",
-        "author": "城アラキ/加治佐修",
-        "publisher": "集英社",
-        "price": 100,
-        "url": "https://books.rakuten.co.jp/rk/c829381ad99837a6aa97c3eccd898733/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8509/2000002678509.jpg?_ex=600x600",
-        "caption": "バーテンダーの勉強のため単身パリへやってきた佐島蓮。希望に胸を膨らませた蓮だったが、スリに遭い、お金もパスポートも失ってしまう。やがて路地裏のバーへ辿り着くが…!?\n",
-        "salesDate": "2015年01月01日",
-        "series": "バーテンダー a Paris",
-        "reviewAverage": 3,
-        "reviewCount": 5,
-        "genreId": "101904002006",
-        "isbn": "4970100802029",
-        "salesType": 0,
-        "matchMeta": {
-          "title": "バーテンダー a Paris 1",
-          "author": "",
-          "itemNumber": "",
-          "regularPrice": 587,
-          "salePrice": 100,
-          "discountPercent": 83,
-          "saleEndAt": "",
-          "saleCampaign": "楽天ブックス セール一覧",
-          "saleCampaigns": [
-            "楽天ブックス セール一覧"
-          ],
-          "sourceGenre": "",
-          "campaignMerch": "53626",
-          "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-          "saleSources": [
-            "rakuten-sale-search"
-          ],
-          "originalTitle": "バーテンダー a Paris 1 （ヤングジャンプコミックスDIGITAL）"
-        },
-        "regularPrice": 587,
-        "salePrice": 100,
-        "discountPercent": 83,
-        "saleEndAt": "",
-        "saleCampaign": "楽天ブックス セール一覧",
-        "sourceGenre": "",
-        "saleCampaigns": [
-          "楽天ブックス セール一覧"
-        ],
-        "saleSources": [
-          "rakuten-sale-search"
-        ],
-        "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-        "saleVerified": true,
-        "verifiedAt": "2026-09-03T11:42:14.362Z"
-      },
-      {
-        "id": "4970000851136",
-        "title": "キン肉マン 6",
+        "id": "4970100801565",
+        "title": "闘将!! 拉麺男 2",
         "author": "ゆでたまご",
         "publisher": "集英社",
         "price": 100,
-        "url": "https://books.rakuten.co.jp/rk/6a3a7907a7b44d6981342b6f4ba10497/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9822/2000000139822.jpg?_ex=600x600",
-        "caption": "【旧版カバーも再録!!】アメリカ超人界の覇権を賭けた、超人タッグ選手権の開催が決定！　キン肉マンは盟友・テリーマンとのコンビ「ザ・マシンガンズ」で参戦！　並み居る強豪を打ち破り、全米の頂点に立つことができるのか!?\n",
-        "salesDate": "2012年06月29日",
-        "series": "キン肉マン",
-        "reviewAverage": 4.33,
-        "reviewCount": 4,
-        "genreId": "101904001007",
-        "isbn": "4970000851136",
-        "salesType": 0,
-        "matchMeta": {
-          "title": "キン肉マン 6",
-          "author": "",
-          "itemNumber": "",
-          "regularPrice": 543,
-          "salePrice": 100,
-          "discountPercent": 82,
-          "saleEndAt": "",
-          "saleCampaign": "楽天ブックス セール一覧",
-          "saleCampaigns": [
-            "楽天ブックス セール一覧"
-          ],
-          "sourceGenre": "",
-          "campaignMerch": "53626",
-          "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-          "saleSources": [
-            "rakuten-sale-search"
-          ],
-          "originalTitle": "キン肉マン 6 （ジャンプコミックスDIGITAL）"
-        },
-        "regularPrice": 543,
-        "salePrice": 100,
-        "discountPercent": 82,
-        "saleEndAt": "",
-        "saleCampaign": "楽天ブックス セール一覧",
-        "sourceGenre": "",
-        "saleCampaigns": [
-          "楽天ブックス セール一覧"
-        ],
-        "saleSources": [
-          "rakuten-sale-search"
-        ],
-        "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-        "saleVerified": true,
-        "verifiedAt": "2026-09-03T11:42:14.362Z"
-      },
-      {
-        "id": "8890355006542",
-        "title": "鬼畜英雄（１１）",
-        "author": "よのき",
-        "publisher": "GANMA!",
-        "price": 396,
-        "url": "https://books.rakuten.co.jp/rk/59b2e43fda993be1bded691ba3cb5c3e/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2697/2000017492697.jpg?_ex=600x600",
-        "caption": "デバフがかかっててもオレ様強すぎない──!?\n死霊使いの幽月と白熱の戦いの末、公開×××で会場を沸かせた\nオレ様の次のお相手は……アンデッドの大群!?!?\n突如訪れた脅威に、蹂躙される囚人と氷原の人々。\nピンチのキミを助けた後は、ダンジョン攻略……？\n奴隷だろうが、監獄長だろうがヤりまくれ！（著者名：よのき/78話〜84話収録)\n",
-        "salesDate": "2025年04月25日",
-        "series": "鬼畜英雄",
+        "url": "https://books.rakuten.co.jp/rk/a18f5948e9313825b7ce8e047f06031f/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4856/2000002324856.jpg?_ex=600x600",
+        "caption": "【初の敗北を味わったラーメンマンは…】親の仇討ちを果たし、弟子のシューマイと共に旅を続けていたラーメンマンは、長年の功績が認められ、少林寺に師範として招かれる。抜群の指導力で人望を集めるラーメンマンであったが、死んだはずの妹の出現に激しく動揺！　なんと玉王率いる将棋七鬼衆に初めての敗北を喫してしまう…!!　人気超人「ラーメンマン」の闘将記・第2巻！\n",
+        "salesDate": "2014年09月29日",
+        "series": "闘将!! 拉麺男",
         "reviewAverage": 0,
         "reviewCount": 0,
-        "genreId": "101904090",
-        "isbn": "8890355006542",
+        "genreId": "101904001007",
+        "isbn": "4970100801565",
         "salesType": 0,
         "matchMeta": {
-          "title": "鬼畜英雄(11) (GANMA!)",
+          "title": "闘将!! 拉麺男 2",
           "author": "",
           "itemNumber": "",
-          "regularPrice": 792,
-          "salePrice": 396,
-          "discountPercent": 50,
+          "regularPrice": 440,
+          "salePrice": 100,
+          "discountPercent": 77,
           "saleEndAt": "",
           "saleCampaign": "楽天ブックス セール一覧",
           "saleCampaigns": [
@@ -2908,15 +3055,15 @@
           ],
           "sourceGenre": "",
           "campaignMerch": "53626",
-          "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
+          "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
           "saleSources": [
             "rakuten-sale-search"
           ],
-          "originalTitle": "鬼畜英雄（１１） （GANMA!）"
+          "originalTitle": "闘将!! 拉麺男 2 （ジャンプコミックスDIGITAL）"
         },
-        "regularPrice": 792,
-        "salePrice": 396,
-        "discountPercent": 50,
+        "regularPrice": 440,
+        "salePrice": 100,
+        "discountPercent": 77,
         "saleEndAt": "",
         "saleCampaign": "楽天ブックス セール一覧",
         "sourceGenre": "",
@@ -2927,75 +3074,22 @@
           "rakuten-sale-search"
         ],
         "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
+        "campaignUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
         "saleVerified": true,
-        "verifiedAt": "2026-09-03T11:42:14.362Z"
-      },
-      {
-        "id": "8910126217120",
-        "title": "没落伯爵令嬢は家族を養いたい@COMIC 第1巻【電子書籍限定描き下ろし漫画付き】",
-        "author": "しろ46/ミコタにう/椎名咲月",
-        "publisher": "TOブックス",
-        "price": 352,
-        "url": "https://books.rakuten.co.jp/rk/ec080801e6c739d8973c0ab69363144b/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1879/2000014121879.jpg?_ex=600x600",
-        "caption": "【電子書籍限定描き下ろし漫画】付き！\n大好きな家族の笑顔を守りたい！\n所持金ゼロから始める、転生タフ令嬢の逆転ダイアリー！\n待望のコミカライズ第１巻！\n原作小説第３巻と同日発売！\n描き下ろし漫画＆原作・ミコタにう先生による書き下ろしSSを収録！\n【あらすじ】\n「私がなんとかしてみせるんだから！」\n異世界の伯爵家令嬢に転生したゲルトルードは、ゲス野郎（亡父）の借金で領地も家屋敷も失い大ピンチに！\nけれど、大好きなお母さまとかわいい妹、そして大切な使用人たちとの生活を守るため、前世の知識を駆使し新生活をスタートさせてーー！？\n家族愛とたくましさでポジティブに逆境を乗り越えていく！\n所持金ゼロから始める、転生タフ令嬢の逆転ダイアリー！\n",
-        "salesDate": "2024年02月01日",
-        "series": "没落伯爵令嬢は家族を養いたい@COMIC",
-        "reviewAverage": 3,
-        "reviewCount": 2,
-        "genreId": "101904090",
-        "isbn": "8910126217120",
-        "salesType": 0,
-        "matchMeta": {
-          "title": "没落伯爵令嬢は家族を養いたい@COMIC 第1巻【電子書籍限定描き下ろし漫画付き】",
-          "author": "",
-          "itemNumber": "",
-          "regularPrice": 704,
-          "salePrice": 352,
-          "discountPercent": 50,
-          "saleEndAt": "",
-          "saleCampaign": "楽天ブックス セール一覧",
-          "saleCampaigns": [
-            "楽天ブックス セール一覧"
-          ],
-          "sourceGenre": "",
-          "campaignMerch": "53626",
-          "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-          "saleSources": [
-            "rakuten-sale-search"
-          ],
-          "originalTitle": "没落伯爵令嬢は家族を養いたい@COMIC 第1巻【電子書籍限定描き下ろし漫画付き】 （Celicaコミックス）"
-        },
-        "regularPrice": 704,
-        "salePrice": 352,
-        "discountPercent": 50,
-        "saleEndAt": "",
-        "saleCampaign": "楽天ブックス セール一覧",
-        "sourceGenre": "",
-        "saleCampaigns": [
-          "楽天ブックス セール一覧"
-        ],
-        "saleSources": [
-          "rakuten-sale-search"
-        ],
-        "campaignMerch": "53626",
-        "campaignUrl": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
-        "saleVerified": true,
-        "verifiedAt": "2026-09-03T11:42:14.362Z"
+        "verifiedAt": "2026-09-03T11:48:18.223Z"
       }
     ]
   },
   "genreStatus": {
     "fiction": {
       "target": 10,
-      "matched": 3,
+      "matched": 2,
       "complete": false,
       "error": ""
     },
     "mystery": {
       "target": 10,
-      "matched": 1,
+      "matched": 0,
       "complete": false,
       "error": ""
     },
@@ -3007,13 +3101,13 @@
     },
     "business": {
       "target": 10,
-      "matched": 1,
+      "matched": 0,
       "complete": false,
       "error": ""
     },
     "humanities": {
       "target": 10,
-      "matched": 1,
+      "matched": 0,
       "complete": false,
       "error": ""
     },
@@ -3091,11 +3185,12 @@
       "merch": "53626",
       "label": "楽天ブックス セール一覧",
       "url": "https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=500",
+      "detailUrl": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
       "type": "rakuten-sale-search",
       "endAt": ""
     }
   ],
-  "officialSaleIndex": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/",
+  "officialSaleIndex": "https://books.rakuten.co.jp/event/e-book/camp-bestprice/index-sp.html",
   "saleVerification": "live-kobo-api",
   "genreTarget": 10,
   "genreChecked": 159,

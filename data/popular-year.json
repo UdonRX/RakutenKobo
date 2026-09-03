@@ -2,7 +2,7 @@
   "kind": "popular",
   "completed": true,
   "period": "year",
-  "updatedAt": "2026-09-03T11:43:07.505Z",
+  "updatedAt": "2026-09-03T11:49:22.013Z",
   "candidateCount": 10,
   "checked": 10,
   "matched": 7,
@@ -39,9 +39,9 @@
           "rank": 4
         },
         {
-          "title": "暁星",
-          "author": "湊かなえ",
-          "rank": 7
+          "title": "大河の一滴 最終章",
+          "author": "五木寛之",
+          "rank": 8
         },
         {
           "title": "不滅なるものへの挑戦 霊性の時代を拓くために",
@@ -58,100 +58,6 @@
     }
   },
   "items": [
-    {
-      "id": "6681297998470",
-      "title": "変な地図",
-      "author": "雨穴",
-      "publisher": "双葉社",
-      "price": 1760,
-      "url": "https://books.rakuten.co.jp/rk/739cdf2de2c93df7a0aa7bccbbaf365b/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2631/2000018972631.jpg?_ex=600x600",
-      "caption": "主人公はあの栗原さん!!　\n『変な家』『変な絵』に続く、雨穴「変な」シリーズの集大成！　\n2015年、大学生の栗原は、意外な事実を知る。\n彼の祖母が、正体不明の古地図を握りしめて、不審死を遂げたという。\nその古地図には、７体の妖怪が描かれていた。\nこれはいったい何なのか。なぜ、祖母は死に際にこんなものを持っていたのか。\n謎を探るため、栗原は旅に出る。　\nそこに待ち受けていたのは、海沿いの廃集落、不可解な人身事故、潰れかけの民宿、因縁に満ちたトンネル、そして古地図に秘められた悲しい事実だったーー。　\n祖母はなぜ死んだのか？　\n妖怪の正体は？　\nホラー、ミステリー、サスペンス、冒険、青春、恋愛・・・・・・　\n2024年書籍売り上げ1位！　雨穴が送る異形の王道小説。　\nあなたには、この「古地図」の謎が解けますか？　\n※イメージふくらむ「考察マップ」も収録。\n※著者・雨穴による『沖上喜見子の手記』朗読動画付き！\n",
-      "salesDate": "2025年10月31日",
-      "series": "変な地図",
-      "reviewAverage": 3.84,
-      "reviewCount": 614,
-      "genreId": "101902",
-      "isbn": "6681297998470",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "変な地図",
-        "author": "雨穴",
-        "score": 102,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 2
-          }
-        ],
-        "source": "combined",
-        "rank": 2,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "変な地図",
-        "author": "雨穴",
-        "score": 102,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 2
-          }
-        ],
-        "source": "combined",
-        "rank": 1,
-        "originalTitle": ""
-      }
-    },
-    {
-      "id": "6681299179860",
-      "title": "暁星",
-      "author": "湊かなえ",
-      "publisher": "双葉社",
-      "price": 1980,
-      "url": "https://books.rakuten.co.jp/rk/eb8de6a46aa935d48709dbfee116c7d2/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4762/2000019204762.jpg?_ex=600x600",
-      "caption": "「ただ、星を守りたかっただけーー」　\n現役の文部科学大臣で文壇の大御所作家でもある清水義之が全国高校生総合文化祭の式典の最中、舞台袖から飛び出してきた男に刺されて死亡する事件がおきた。逮捕された男の名前は永瀬暁、37歳。永瀬は逮捕されたのち、週刊誌に手記を発表しはじめる。そこには、清水が深く関わっているとされる新興宗教に対する恨みが綴られていた。また、式典に出席していた作家は、永瀬の事件を小説として描く。ノンフィクションとフィクション、ふたつの物語が合わさったとき見える景色とは!?\n",
-      "salesDate": "2025年11月27日",
-      "series": "暁星",
-      "reviewAverage": 4.18,
-      "reviewCount": 1124,
-      "genreId": "101902",
-      "isbn": "6681299179860",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "暁星",
-        "author": "湊かなえ",
-        "score": 82,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 7
-          }
-        ],
-        "source": "combined",
-        "rank": 7,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "暁星",
-        "author": "湊かなえ",
-        "score": 82,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 7
-          }
-        ],
-        "source": "combined",
-        "rank": 2,
-        "originalTitle": ""
-      }
-    },
     {
       "id": "4524815633410",
       "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
@@ -195,7 +101,54 @@
           }
         ],
         "source": "combined",
-        "rank": 3,
+        "rank": 1,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "6681297998470",
+      "title": "変な地図",
+      "author": "雨穴",
+      "publisher": "双葉社",
+      "price": 1760,
+      "url": "https://books.rakuten.co.jp/rk/739cdf2de2c93df7a0aa7bccbbaf365b/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2631/2000018972631.jpg?_ex=600x600",
+      "caption": "主人公はあの栗原さん!!　\n『変な家』『変な絵』に続く、雨穴「変な」シリーズの集大成！　\n2015年、大学生の栗原は、意外な事実を知る。\n彼の祖母が、正体不明の古地図を握りしめて、不審死を遂げたという。\nその古地図には、７体の妖怪が描かれていた。\nこれはいったい何なのか。なぜ、祖母は死に際にこんなものを持っていたのか。\n謎を探るため、栗原は旅に出る。　\nそこに待ち受けていたのは、海沿いの廃集落、不可解な人身事故、潰れかけの民宿、因縁に満ちたトンネル、そして古地図に秘められた悲しい事実だったーー。　\n祖母はなぜ死んだのか？　\n妖怪の正体は？　\nホラー、ミステリー、サスペンス、冒険、青春、恋愛・・・・・・　\n2024年書籍売り上げ1位！　雨穴が送る異形の王道小説。　\nあなたには、この「古地図」の謎が解けますか？　\n※イメージふくらむ「考察マップ」も収録。\n※著者・雨穴による『沖上喜見子の手記』朗読動画付き！\n",
+      "salesDate": "2025年10月31日",
+      "series": "変な地図",
+      "reviewAverage": 3.84,
+      "reviewCount": 614,
+      "genreId": "101902",
+      "isbn": "6681297998470",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "変な地図",
+        "author": "雨穴",
+        "score": 102,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 2
+          }
+        ],
+        "source": "combined",
+        "rank": 2,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "変な地図",
+        "author": "雨穴",
+        "score": 102,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 2
+          }
+        ],
+        "source": "combined",
+        "rank": 2,
         "originalTitle": ""
       }
     },
@@ -242,7 +195,7 @@
           }
         ],
         "source": "combined",
-        "rank": 4,
+        "rank": 3,
         "originalTitle": ""
       }
     },
@@ -286,6 +239,53 @@
             "source": "tohan",
             "label": "トーハン",
             "rank": 4
+          }
+        ],
+        "source": "combined",
+        "rank": 4,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "4380000485089",
+      "title": "大河の一滴　最終章",
+      "author": "五木寛之",
+      "publisher": "幻冬舎",
+      "price": 1881,
+      "url": "https://books.rakuten.co.jp/rk/11c561cb4c083a838252a295da0974c9/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1450/2000019211450.jpg?_ex=600x600",
+      "caption": "93歳の人間論ーー。\n人は何かのために生きるのではない。\n誰かのために生きるのだ。\n衝撃のベストセラー『大河の一滴』から30年。圧巻の集大成。\n常に、再生の希望はある。\n少年時代の引揚体験、自死への欲求、思いがけない病の宣告……\nあえて、大河の流れに逆らうことを決意した、告白的人間論。\n「かつて人生を大河の流れにたとえて書いたときは、その流れに身をまかせて、生命の海へと流れていく、そんなふうに考えていた。\n　しかし、と、私は思ったのだ。ときには大河の流れに身をまかせるだけでなく、それに逆らって生きることもあっていいのではあるまいか。大河の流れの中にも、逆流する場所もあれば、迂回する流れもある。\n　長く生きられなかった彼らのかわりに、自分は一日でも長く生きようと考えてきたのではなかったか。運命に身をまかせるだけでなく、それに逆らうこともあっていい。\n　人には、何人かのために生きる責任がある、と思う。人々のはたさざりし思いを背負って生きる義務があるのではないか。何かのためではなく、誰かのために生きるのだ」\nーー「大河の流れに逆らって」本文より\n静寂から立ち上がる、鮮やかな再生の物語。\n",
+      "salesDate": "2026年02月12日",
+      "series": "",
+      "reviewAverage": 4,
+      "reviewCount": 21,
+      "genreId": "101907002002",
+      "isbn": "4380000485089",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "大河の一滴 最終章",
+        "author": "五木寛之",
+        "score": 78,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 8,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "大河の一滴 最終章",
+        "author": "五木寛之",
+        "score": 78,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 8
           }
         ],
         "source": "combined",
@@ -433,7 +433,7 @@
             }
           ],
           "source": "combined",
-          "rank": 4,
+          "rank": 3,
           "originalTitle": ""
         }
       },
@@ -480,7 +480,7 @@
             }
           ],
           "source": "combined",
-          "rank": 5,
+          "rank": 4,
           "originalTitle": ""
         }
       },
@@ -769,53 +769,6 @@
             }
           ],
           "source": "combined",
-          "rank": 1,
-          "originalTitle": ""
-        }
-      },
-      {
-        "id": "6681299179860",
-        "title": "暁星",
-        "author": "湊かなえ",
-        "publisher": "双葉社",
-        "price": 1980,
-        "url": "https://books.rakuten.co.jp/rk/eb8de6a46aa935d48709dbfee116c7d2/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4762/2000019204762.jpg?_ex=600x600",
-        "caption": "「ただ、星を守りたかっただけーー」　\n現役の文部科学大臣で文壇の大御所作家でもある清水義之が全国高校生総合文化祭の式典の最中、舞台袖から飛び出してきた男に刺されて死亡する事件がおきた。逮捕された男の名前は永瀬暁、37歳。永瀬は逮捕されたのち、週刊誌に手記を発表しはじめる。そこには、清水が深く関わっているとされる新興宗教に対する恨みが綴られていた。また、式典に出席していた作家は、永瀬の事件を小説として描く。ノンフィクションとフィクション、ふたつの物語が合わさったとき見える景色とは!?\n",
-        "salesDate": "2025年11月27日",
-        "series": "暁星",
-        "reviewAverage": 4.18,
-        "reviewCount": 1124,
-        "genreId": "101902",
-        "isbn": "6681299179860",
-        "salesType": 0,
-        "matchMeta": {
-          "title": "暁星",
-          "author": "湊かなえ",
-          "score": 82,
-          "sources": [
-            {
-              "source": "tohan",
-              "label": "トーハン",
-              "rank": 7
-            }
-          ],
-          "source": "combined",
-          "rank": 7,
-          "originalTitle": ""
-        },
-        "ranking": {
-          "title": "暁星",
-          "author": "湊かなえ",
-          "score": 82,
-          "sources": [
-            {
-              "source": "tohan",
-              "label": "トーハン",
-              "rank": 7
-            }
-          ],
-          "source": "combined",
           "rank": 2,
           "originalTitle": ""
         }
@@ -1058,6 +1011,36 @@
             }
           ],
           "rank": 8
+        }
+      },
+      {
+        "id": "4340009600111",
+        "title": "オーデュボンの祈り（新潮文庫）",
+        "author": "伊坂幸太郎",
+        "publisher": "新潮社",
+        "price": 880,
+        "url": "https://books.rakuten.co.jp/rk/61388e32434133a6835731f58555203d/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3545/2000000153545.jpg?_ex=600x600",
+        "caption": "コンビニ強盗に失敗し逃走していた伊藤は、気付くと見知らぬ島にいた。江戸以来外界から遮断されている“荻島”には、妙な人間ばかりが住んでいた。嘘しか言わない画家、「島の法律として」殺人を許された男、人語を操り「未来が見える」カカシ。次の日カカシが殺される。無残にもバラバラにされ、頭を持ち去られて。未来を見通せるはずのカカシは、なぜ自分の死を阻止出来なかったのか？　伊坂幸太郎、伝説のデビュー作見参！\n",
+        "salesDate": "2008年08月15日",
+        "series": "",
+        "reviewAverage": 4,
+        "reviewCount": 2599,
+        "genreId": "101901006/101902",
+        "isbn": "4340009600111",
+        "salesType": 0,
+        "ranking": {
+          "title": "オーデュボンの祈り（新潮文庫）",
+          "author": "伊坂幸太郎",
+          "source": "kobo",
+          "sources": [
+            {
+              "source": "kobo",
+              "label": "楽天Kobo人気",
+              "rank": 9
+            }
+          ],
+          "rank": 9
         }
       }
     ],
@@ -1407,7 +1390,7 @@
             }
           ],
           "source": "combined",
-          "rank": 3,
+          "rank": 1,
           "originalTitle": ""
         }
       },
@@ -1683,6 +1666,53 @@
       }
     ],
     "humanities": [
+      {
+        "id": "4380000485089",
+        "title": "大河の一滴　最終章",
+        "author": "五木寛之",
+        "publisher": "幻冬舎",
+        "price": 1881,
+        "url": "https://books.rakuten.co.jp/rk/11c561cb4c083a838252a295da0974c9/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1450/2000019211450.jpg?_ex=600x600",
+        "caption": "93歳の人間論ーー。\n人は何かのために生きるのではない。\n誰かのために生きるのだ。\n衝撃のベストセラー『大河の一滴』から30年。圧巻の集大成。\n常に、再生の希望はある。\n少年時代の引揚体験、自死への欲求、思いがけない病の宣告……\nあえて、大河の流れに逆らうことを決意した、告白的人間論。\n「かつて人生を大河の流れにたとえて書いたときは、その流れに身をまかせて、生命の海へと流れていく、そんなふうに考えていた。\n　しかし、と、私は思ったのだ。ときには大河の流れに身をまかせるだけでなく、それに逆らって生きることもあっていいのではあるまいか。大河の流れの中にも、逆流する場所もあれば、迂回する流れもある。\n　長く生きられなかった彼らのかわりに、自分は一日でも長く生きようと考えてきたのではなかったか。運命に身をまかせるだけでなく、それに逆らうこともあっていい。\n　人には、何人かのために生きる責任がある、と思う。人々のはたさざりし思いを背負って生きる義務があるのではないか。何かのためではなく、誰かのために生きるのだ」\nーー「大河の流れに逆らって」本文より\n静寂から立ち上がる、鮮やかな再生の物語。\n",
+        "salesDate": "2026年02月12日",
+        "series": "",
+        "reviewAverage": 4,
+        "reviewCount": 21,
+        "genreId": "101907002002",
+        "isbn": "4380000485089",
+        "salesType": 0,
+        "matchMeta": {
+          "title": "大河の一滴 最終章",
+          "author": "五木寛之",
+          "score": 78,
+          "sources": [
+            {
+              "source": "tohan",
+              "label": "トーハン",
+              "rank": 8
+            }
+          ],
+          "source": "combined",
+          "rank": 8,
+          "originalTitle": ""
+        },
+        "ranking": {
+          "title": "大河の一滴 最終章",
+          "author": "五木寛之",
+          "score": 78,
+          "sources": [
+            {
+              "source": "tohan",
+              "label": "トーハン",
+              "rank": 8
+            }
+          ],
+          "source": "combined",
+          "rank": 5,
+          "originalTitle": ""
+        }
+      },
       {
         "id": "7275000764491",
         "title": "不滅なるものへの挑戦 ー霊性の時代を拓くためにー",
@@ -1985,36 +2015,6 @@
             }
           ],
           "rank": 7
-        }
-      },
-      {
-        "id": "4390000001078",
-        "title": "聞く力 心をひらく35のヒント",
-        "author": "阿川佐和子",
-        "publisher": "文藝春秋",
-        "price": 880,
-        "url": "https://books.rakuten.co.jp/rk/927afff29b97451f9a44bdd238054530/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1122/2000000211122.jpg?_ex=600x600",
-        "caption": "「週刊文春」の名物対談「阿川佐和子のこの人に会いたい」が、連載900回を超えた。20年間で取材した各界著名人は1000人近い。が、未だにインタビューに苦手意識があるというアガワ。なぜ相手の本音を引き出すことができるのか？　本書では、数々の失敗から会得した「『分かります』と安易に言わない」「『たとえば？』『具体的には？』は話を掘り下げるのに有効」「なぐさめの言葉は２秒後に」などの“秘訣”を、インタビュー時のエピソードとともに初披露する！\n",
-        "salesDate": "2014年05月28日",
-        "series": "",
-        "reviewAverage": 3.45,
-        "reviewCount": 987,
-        "genreId": "101907010/101907007/101914",
-        "isbn": "4390000001078",
-        "salesType": 0,
-        "ranking": {
-          "title": "聞く力 心をひらく35のヒント",
-          "author": "阿川佐和子",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 8
-            }
-          ],
-          "rank": 8
         }
       }
     ],

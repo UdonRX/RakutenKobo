@@ -2,10 +2,10 @@
   "kind": "popular",
   "completed": true,
   "period": "month",
-  "updatedAt": "2026-09-03T11:43:07.357Z",
+  "updatedAt": "2026-09-03T11:49:21.416Z",
   "candidateCount": 34,
   "checked": 34,
-  "matched": 14,
+  "matched": 15,
   "failedBatches": 0,
   "unavailable": [],
   "snapshots": {
@@ -27,6 +27,11 @@
           "title": "ファイア・ドーム 上",
           "author": "辻村深月",
           "rank": 2
+        },
+        {
+          "title": "ファイア・ドーム 下",
+          "author": "辻村深月",
+          "rank": 3
         },
         {
           "title": "多類婚姻譚",
@@ -86,11 +91,6 @@
           "rank": 11
         },
         {
-          "title": "楽園",
-          "author": "",
-          "rank": 15
-        },
-        {
           "title": "イン・ザ・メガチャーチ",
           "author": "",
           "rank": 16
@@ -106,6 +106,11 @@
           "rank": 19
         },
         {
+          "title": "ファイア・ドーム 〈下〉",
+          "author": "",
+          "rank": 20
+        },
+        {
           "title": "星のカービィ　夢幻の歯車　霧につつまれた大事件！？ 角川つばさ文庫",
           "author": "",
           "rank": 23
@@ -114,6 +119,11 @@
           "title": "多類婚姻譚",
           "author": "",
           "rank": 25
+        },
+        {
+          "title": "殺し屋の出世術",
+          "author": "",
+          "rank": 28
         }
       ]
     }
@@ -214,6 +224,53 @@
       }
     },
     {
+      "id": "4820000903843",
+      "title": "ハヤブサ消防団　森へつづく道",
+      "author": "池井戸潤",
+      "publisher": "集英社",
+      "price": 2200,
+      "url": "https://books.rakuten.co.jp/rk/8b8de7f162953f1aa6c2fba789f5c5b5/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9371/2000021419371.jpg?_ex=600x600",
+      "caption": "【田園暮らしのミステリ作家vs美貌の歴史ミステリ作家】\nドラマ化＆柴田錬三郎賞受賞の大ヒットミステリ、待望のシリーズ新作登場！\nミステリ作家の三馬太郎が自然豊かな八百万町ハヤブサ地区に移り住んで数年。地元消防団の一員としても忙しい毎日を過ごすうち、とある文学賞にノミネート！　最大のライバル候補は、今をときめく美貌の歴史ミステリ作家・北原未南。だが、未南に不可解な疑惑が持ち上がる。\n一方、八百万町では、ある若い女性が我が子を残して川から水死体で発見されていた。事件の真相を探るうち、太郎は町を揺るがす巨大な疑惑に巻き込まれて……。\n【集英社創業100周年記念作品】\n■著者プロフィール：\n池井戸 潤（いけいど・じゅん）\n作家。1963年岐阜県生まれ。慶應義塾大学卒。98年『果つる底なき』で江戸川乱歩賞を受賞しデビュー。2010年『鉄の骨』で吉川英治文学新人賞、11年『下町ロケット』で直木賞、23年『ハヤブサ消防団』で柴田錬三郎賞を受賞。\n主な作品に「半沢直樹」シリーズ（『オレたちバブル入行組』『ロスジェネの逆襲』『アルルカンと道化師』ほか）、「下町ロケット」シリーズ（『ガウディ計画』『ヤタガラス』ほか）、『シャイロックの子供たち』『空飛ぶタイヤ』『民王』『七つの会議』『陸王』『ノーサイド・ゲーム』『花咲舞が黙ってない』『アキラとあきら』『俺たちの箱根駅伝』『ブティック』がある。\n",
+      "salesDate": "2026年08月05日",
+      "series": "ハヤブサ消防団",
+      "reviewAverage": 4.28,
+      "reviewCount": 18,
+      "genreId": "101901/101902",
+      "isbn": "4820000903843",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ハヤブサ消防団 森へつづく道",
+        "author": "",
+        "score": 82,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 7
+          }
+        ],
+        "source": "combined",
+        "rank": 14,
+        "originalTitle": "ハヤブサ消防団　森へつづく道"
+      },
+      "ranking": {
+        "title": "ハヤブサ消防団 森へつづく道",
+        "author": "",
+        "score": 82,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 7
+          }
+        ],
+        "source": "combined",
+        "rank": 3,
+        "originalTitle": "ハヤブサ消防団　森へつづく道"
+      }
+    },
+    {
       "id": "4390000015358",
       "title": "青天",
       "author": "若林正恭",
@@ -256,7 +313,7 @@
           }
         ],
         "source": "combined",
-        "rank": 3,
+        "rank": 4,
         "originalTitle": ""
       }
     },
@@ -303,55 +360,55 @@
           }
         ],
         "source": "combined",
-        "rank": 4,
+        "rank": 5,
         "originalTitle": ""
       }
     },
     {
-      "id": "4310000890409",
-      "title": "楽園",
-      "author": "夕木春央",
-      "publisher": "講談社",
-      "price": 1980,
-      "url": "https://books.rakuten.co.jp/rk/1a1c684dcee83b98b4d0187187c813d0/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1651/2000021221651.jpg?_ex=600x600",
-      "caption": "殺人犯にならなければ脱出できない。\n『方舟』『十戒』の著者が仕掛ける“禁忌の驚き”\n亡き両親から不動産を譲り受けた康之は、失踪した賃借人・海原の遺留品整理の際に、群馬の山奥の謎の物件の存在を知る。そこは、切り立った岩壁に囲まれた、「楽園」と呼ばれる奇妙な場所だった。恋人の沙織と一緒にそこを訪ね、探索をはじめた康之たちは、すぐに六人の“住人”に拿捕された。脱出のための条件はーー\n「誰か一人を殺さなければならない」\n『方舟』\n第19回オリコン上半期”本”ランキング　文庫ランキングTOP10 第1位\n週刊文春ミステリーベスト10　第1位　（「週刊文春」2022年12月8日号）国内部門\nMRC大賞2022　第1位\n『方舟』＋『十戒』の累計発行部数が100万部突破。\nーー夕木春央が描く、極限のクローズド・サークル。\n",
-      "salesDate": "2026年07月22日",
-      "series": "楽園",
-      "reviewAverage": 4.27,
-      "reviewCount": 289,
-      "genreId": "101902",
-      "isbn": "4310000890409",
+      "id": "6681311679960",
+      "title": "つかめ！理科ダマン 12 最強ロボット決戦！編",
+      "author": "シン・テフン/ナ・スンフン/呉華順",
+      "publisher": "マガジンハウス",
+      "price": 1320,
+      "url": "https://books.rakuten.co.jp/rk/d5144a342674388cb89766522b26d5f0/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6738/2000021036738.jpg?_ex=600x600",
+      "caption": "■注目のシリーズ第12巻は、ロボット世界大会の決戦編！■\n恐竜ロボット大会の勝者を決める決戦がいよいよ始まる！\nシンとグゥのチームが戦うライバルチームに、弱点はあるのか!?\n優勝を目指すシンたちといっしょに\nプログラミングやA I、恐竜にまつわる19の疑問が楽しく学べます。\n★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★\n＼＼日韓でシリーズ累計400万部／／\n理科のテストで100点取れちゃう！！\n「笑いながら理科の知識が学べるところが大好きです」\n「子供が夢中になって読んでいます」\n「身近な“どうして？”をわかりやすく説明されていて、子供も大人も楽しめます」\n……とクチコミで話題沸騰!!\n★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★\nギャグ満載の超オモシロまんがで\n小学校の理科の知識がスイスイ身につく！！\nそして、科学と読書がどんどん好きになる！！\n《こんな疑問に答えます》\n◎アルゴリズムってなに？\n◎フローチャートってなに？\n◎コンピュータはどうやってプログラミング言語を理解している？\n◎座標ってなに？\n◎ロボットは人間より賢くなれる？\n◎コンピュータに虫がいる？　\n◎翼竜は恐竜か？　……etc.\n",
+      "salesDate": "2026年07月16日",
+      "series": "つかめ！理科ダマン",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101908004/101906006/101906001009",
+      "isbn": "6681311679960",
       "salesType": 0,
       "matchMeta": {
-        "title": "楽園",
+        "title": "つかめ!理科ダマン 〈12〉 最強ロボット決戦!編",
         "author": "",
-        "score": 50,
+        "score": 66,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 15
+            "rank": 11
           }
         ],
         "source": "combined",
-        "rank": 24,
-        "originalTitle": ""
+        "rank": 20,
+        "originalTitle": "つかめ！理科ダマン 〈１２〉 最強ロボット決戦！編"
       },
       "ranking": {
-        "title": "楽園",
+        "title": "つかめ!理科ダマン 〈12〉 最強ロボット決戦!編",
         "author": "",
-        "score": 50,
+        "score": 66,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 15
+            "rank": 11
           }
         ],
         "source": "combined",
-        "rank": 5,
-        "originalTitle": ""
+        "rank": 6,
+        "originalTitle": "つかめ！理科ダマン 〈１２〉 最強ロボット決戦！編"
       }
     },
     {
@@ -397,7 +454,7 @@
           }
         ],
         "source": "combined",
-        "rank": 6,
+        "rank": 7,
         "originalTitle": ""
       }
     },
@@ -454,7 +511,64 @@
           }
         ],
         "source": "combined",
-        "rank": 7,
+        "rank": 8,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "4320000865494",
+      "title": "ファイア・ドーム 下",
+      "author": "辻村深月",
+      "publisher": "小学館",
+      "price": 1881,
+      "url": "https://books.rakuten.co.jp/rk/0cf87d9a77c93fe8a0124e6398a0aa4b/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1763/2000020771763.jpg?_ex=600x600",
+      "caption": "お前の家は、人殺しだ。\n真実を知っても、人は忘れていく。\n25年前の夏、この町には炎が降り注いだ。百貨店受付嬢誘拐殺人事件という、身近で突然起こった全国レベルのニュースを、誰もがいつまでも終わらせたくなかった。傷ついた人をさらに傷つけてしまった土地に、事件の火の粉は、まだ残っている。夏の日、写生遠足の帰りに姿を消した少年は無事に帰ってくるのか？　25年前の事件には、「まだ明かされていない」事実が本当にあるのか？\n「病気なんかで、死ねると思うな」ーー本文より\n",
+      "salesDate": "2026年06月05日",
+      "series": "ファイア・ドーム",
+      "reviewAverage": 4.6,
+      "reviewCount": 486,
+      "genreId": "101901/101902",
+      "isbn": "4320000865494",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ファイア・ドーム 下",
+        "author": "辻村深月",
+        "score": 128,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 3
+          },
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 20
+          }
+        ],
+        "source": "combined",
+        "rank": 3,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "ファイア・ドーム 下",
+        "author": "辻村深月",
+        "score": 128,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 3
+          },
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 20
+          }
+        ],
+        "source": "combined",
+        "rank": 9,
         "originalTitle": ""
       }
     },
@@ -511,7 +625,7 @@
           }
         ],
         "source": "combined",
-        "rank": 8,
+        "rank": 10,
         "originalTitle": ""
       }
     },
@@ -568,55 +682,8 @@
           }
         ],
         "source": "combined",
-        "rank": 9,
+        "rank": 11,
         "originalTitle": ""
-      }
-    },
-    {
-      "id": "4820000903843",
-      "title": "ハヤブサ消防団　森へつづく道",
-      "author": "池井戸潤",
-      "publisher": "集英社",
-      "price": 2200,
-      "url": "https://books.rakuten.co.jp/rk/8b8de7f162953f1aa6c2fba789f5c5b5/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9371/2000021419371.jpg?_ex=600x600",
-      "caption": "【田園暮らしのミステリ作家vs美貌の歴史ミステリ作家】\nドラマ化＆柴田錬三郎賞受賞の大ヒットミステリ、待望のシリーズ新作登場！\nミステリ作家の三馬太郎が自然豊かな八百万町ハヤブサ地区に移り住んで数年。地元消防団の一員としても忙しい毎日を過ごすうち、とある文学賞にノミネート！　最大のライバル候補は、今をときめく美貌の歴史ミステリ作家・北原未南。だが、未南に不可解な疑惑が持ち上がる。\n一方、八百万町では、ある若い女性が我が子を残して川から水死体で発見されていた。事件の真相を探るうち、太郎は町を揺るがす巨大な疑惑に巻き込まれて……。\n【集英社創業100周年記念作品】\n■著者プロフィール：\n池井戸 潤（いけいど・じゅん）\n作家。1963年岐阜県生まれ。慶應義塾大学卒。98年『果つる底なき』で江戸川乱歩賞を受賞しデビュー。2010年『鉄の骨』で吉川英治文学新人賞、11年『下町ロケット』で直木賞、23年『ハヤブサ消防団』で柴田錬三郎賞を受賞。\n主な作品に「半沢直樹」シリーズ（『オレたちバブル入行組』『ロスジェネの逆襲』『アルルカンと道化師』ほか）、「下町ロケット」シリーズ（『ガウディ計画』『ヤタガラス』ほか）、『シャイロックの子供たち』『空飛ぶタイヤ』『民王』『七つの会議』『陸王』『ノーサイド・ゲーム』『花咲舞が黙ってない』『アキラとあきら』『俺たちの箱根駅伝』『ブティック』がある。\n",
-      "salesDate": "2026年08月05日",
-      "series": "ハヤブサ消防団",
-      "reviewAverage": 4.28,
-      "reviewCount": 18,
-      "genreId": "101901/101902",
-      "isbn": "4820000903843",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ハヤブサ消防団 森へつづく道",
-        "author": "",
-        "score": 82,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 7
-          }
-        ],
-        "source": "combined",
-        "rank": 14,
-        "originalTitle": "ハヤブサ消防団　森へつづく道"
-      },
-      "ranking": {
-        "title": "ハヤブサ消防団 森へつづく道",
-        "author": "",
-        "score": 82,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 7
-          }
-        ],
-        "source": "combined",
-        "rank": 10,
-        "originalTitle": "ハヤブサ消防団　森へつづく道"
       }
     },
     {
@@ -662,7 +729,7 @@
           }
         ],
         "source": "combined",
-        "rank": 11,
+        "rank": 12,
         "originalTitle": "夏帆 - Ｔｈｅ　Ｔａｌｅ　ｏｆ　ＫＡＨＯ"
       }
     },
@@ -709,55 +776,8 @@
           }
         ],
         "source": "combined",
-        "rank": 12,
-        "originalTitle": ""
-      }
-    },
-    {
-      "id": "6681311679960",
-      "title": "つかめ！理科ダマン 12 最強ロボット決戦！編",
-      "author": "シン・テフン/ナ・スンフン/呉華順",
-      "publisher": "マガジンハウス",
-      "price": 1320,
-      "url": "https://books.rakuten.co.jp/rk/d5144a342674388cb89766522b26d5f0/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6738/2000021036738.jpg?_ex=600x600",
-      "caption": "■注目のシリーズ第12巻は、ロボット世界大会の決戦編！■\n恐竜ロボット大会の勝者を決める決戦がいよいよ始まる！\nシンとグゥのチームが戦うライバルチームに、弱点はあるのか!?\n優勝を目指すシンたちといっしょに\nプログラミングやA I、恐竜にまつわる19の疑問が楽しく学べます。\n★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★\n＼＼日韓でシリーズ累計400万部／／\n理科のテストで100点取れちゃう！！\n「笑いながら理科の知識が学べるところが大好きです」\n「子供が夢中になって読んでいます」\n「身近な“どうして？”をわかりやすく説明されていて、子供も大人も楽しめます」\n……とクチコミで話題沸騰!!\n★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★\nギャグ満載の超オモシロまんがで\n小学校の理科の知識がスイスイ身につく！！\nそして、科学と読書がどんどん好きになる！！\n《こんな疑問に答えます》\n◎アルゴリズムってなに？\n◎フローチャートってなに？\n◎コンピュータはどうやってプログラミング言語を理解している？\n◎座標ってなに？\n◎ロボットは人間より賢くなれる？\n◎コンピュータに虫がいる？　\n◎翼竜は恐竜か？　……etc.\n",
-      "salesDate": "2026年07月16日",
-      "series": "つかめ！理科ダマン",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101908004/101906006/101906001009",
-      "isbn": "6681311679960",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "つかめ!理科ダマン 〈12〉 最強ロボット決戦!編",
-        "author": "",
-        "score": 66,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 11
-          }
-        ],
-        "source": "combined",
-        "rank": 20,
-        "originalTitle": "つかめ！理科ダマン 〈１２〉 最強ロボット決戦！編"
-      },
-      "ranking": {
-        "title": "つかめ!理科ダマン 〈12〉 最強ロボット決戦!編",
-        "author": "",
-        "score": 66,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 11
-          }
-        ],
-        "source": "combined",
         "rank": 13,
-        "originalTitle": "つかめ！理科ダマン 〈１２〉 最強ロボット決戦！編"
+        "originalTitle": ""
       }
     },
     {
@@ -805,6 +825,53 @@
         "source": "combined",
         "rank": 14,
         "originalTitle": "星のカービィ　夢幻の歯車　霧につつまれた大事件！？ 角川つばさ文庫"
+      }
+    },
+    {
+      "id": "4310000894648",
+      "title": "殺し屋の出世術",
+      "author": "野宮有",
+      "publisher": "講談社",
+      "price": 2255,
+      "url": "https://books.rakuten.co.jp/rk/a71fc066f4be3e6cad949854e1502098/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0614/2000021290614.jpg?_ex=600x600",
+      "caption": "史上初の快挙！\n本屋大賞6位×江戸川乱歩賞\n『殺し屋の営業術』鳥肌モノの伏線回収ふたたび\n上司を操り、会社を掌握する\n禁断のテクニック教えます。\n〔ミッション〕\n敗者は死。\n命を賭けた出世レースを、営業術で勝利せよ。\n張り巡らされた二重三重のトリック。\nひっくり返すのはダークヒロイン2人！\n仕事で使えるテクニック満載！？\nどんでん返し営業論理ミステリー！！\n【あらすじ】\n凄腕営業マン鳥井が殺人請負会社〈極東コンサルティング〉に入社してから半年。\n個性的な殺し屋たちを束ねながら、順調に業績を重ねていた。\nだが突如、謎の男・鷹見に拉致され、 上部組織〈巣ヶ谷一家〉組長のもとへ連行される。\n告げられたのは、鳥井と鷹見で争う出世レースの開幕。\n勝者には〈極東コンサルティング〉 社長の座が、敗者には死が与えられる。\nもちろん、鳥井に拒否権はない。\n丸腰の営業マンは華麗なるトークを武器に、生き残ることができるのか！？\n情け容赦ない頭脳戦が始まる！\n",
+      "salesDate": "2026年07月28日",
+      "series": "殺し屋の出世術",
+      "reviewAverage": 4.51,
+      "reviewCount": 88,
+      "genreId": "101902",
+      "isbn": "4310000894648",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "殺し屋の出世術",
+        "author": "",
+        "score": 5,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 28
+          }
+        ],
+        "source": "combined",
+        "rank": 33,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "殺し屋の出世術",
+        "author": "",
+        "score": 5,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 28
+          }
+        ],
+        "source": "combined",
+        "rank": 15,
+        "originalTitle": ""
       }
     }
   ],
@@ -858,6 +925,53 @@
         }
       },
       {
+        "id": "4820000903843",
+        "title": "ハヤブサ消防団　森へつづく道",
+        "author": "池井戸潤",
+        "publisher": "集英社",
+        "price": 2200,
+        "url": "https://books.rakuten.co.jp/rk/8b8de7f162953f1aa6c2fba789f5c5b5/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9371/2000021419371.jpg?_ex=600x600",
+        "caption": "【田園暮らしのミステリ作家vs美貌の歴史ミステリ作家】\nドラマ化＆柴田錬三郎賞受賞の大ヒットミステリ、待望のシリーズ新作登場！\nミステリ作家の三馬太郎が自然豊かな八百万町ハヤブサ地区に移り住んで数年。地元消防団の一員としても忙しい毎日を過ごすうち、とある文学賞にノミネート！　最大のライバル候補は、今をときめく美貌の歴史ミステリ作家・北原未南。だが、未南に不可解な疑惑が持ち上がる。\n一方、八百万町では、ある若い女性が我が子を残して川から水死体で発見されていた。事件の真相を探るうち、太郎は町を揺るがす巨大な疑惑に巻き込まれて……。\n【集英社創業100周年記念作品】\n■著者プロフィール：\n池井戸 潤（いけいど・じゅん）\n作家。1963年岐阜県生まれ。慶應義塾大学卒。98年『果つる底なき』で江戸川乱歩賞を受賞しデビュー。2010年『鉄の骨』で吉川英治文学新人賞、11年『下町ロケット』で直木賞、23年『ハヤブサ消防団』で柴田錬三郎賞を受賞。\n主な作品に「半沢直樹」シリーズ（『オレたちバブル入行組』『ロスジェネの逆襲』『アルルカンと道化師』ほか）、「下町ロケット」シリーズ（『ガウディ計画』『ヤタガラス』ほか）、『シャイロックの子供たち』『空飛ぶタイヤ』『民王』『七つの会議』『陸王』『ノーサイド・ゲーム』『花咲舞が黙ってない』『アキラとあきら』『俺たちの箱根駅伝』『ブティック』がある。\n",
+        "salesDate": "2026年08月05日",
+        "series": "ハヤブサ消防団",
+        "reviewAverage": 4.28,
+        "reviewCount": 18,
+        "genreId": "101901/101902",
+        "isbn": "4820000903843",
+        "salesType": 0,
+        "matchMeta": {
+          "title": "ハヤブサ消防団 森へつづく道",
+          "author": "",
+          "score": 82,
+          "sources": [
+            {
+              "source": "kinokuniya",
+              "label": "紀伊國屋書店",
+              "rank": 7
+            }
+          ],
+          "source": "combined",
+          "rank": 14,
+          "originalTitle": "ハヤブサ消防団　森へつづく道"
+        },
+        "ranking": {
+          "title": "ハヤブサ消防団 森へつづく道",
+          "author": "",
+          "score": 82,
+          "sources": [
+            {
+              "source": "kinokuniya",
+              "label": "紀伊國屋書店",
+              "rank": 7
+            }
+          ],
+          "source": "combined",
+          "rank": 3,
+          "originalTitle": "ハヤブサ消防団　森へつづく道"
+        }
+      },
+      {
         "id": "4390000015358",
         "title": "青天",
         "author": "若林正恭",
@@ -900,7 +1014,7 @@
             }
           ],
           "source": "combined",
-          "rank": 3,
+          "rank": 4,
           "originalTitle": ""
         }
       },
@@ -947,7 +1061,7 @@
             }
           ],
           "source": "combined",
-          "rank": 6,
+          "rank": 7,
           "originalTitle": ""
         }
       },
@@ -1004,7 +1118,64 @@
             }
           ],
           "source": "combined",
-          "rank": 7,
+          "rank": 8,
+          "originalTitle": ""
+        }
+      },
+      {
+        "id": "4320000865494",
+        "title": "ファイア・ドーム 下",
+        "author": "辻村深月",
+        "publisher": "小学館",
+        "price": 1881,
+        "url": "https://books.rakuten.co.jp/rk/0cf87d9a77c93fe8a0124e6398a0aa4b/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1763/2000020771763.jpg?_ex=600x600",
+        "caption": "お前の家は、人殺しだ。\n真実を知っても、人は忘れていく。\n25年前の夏、この町には炎が降り注いだ。百貨店受付嬢誘拐殺人事件という、身近で突然起こった全国レベルのニュースを、誰もがいつまでも終わらせたくなかった。傷ついた人をさらに傷つけてしまった土地に、事件の火の粉は、まだ残っている。夏の日、写生遠足の帰りに姿を消した少年は無事に帰ってくるのか？　25年前の事件には、「まだ明かされていない」事実が本当にあるのか？\n「病気なんかで、死ねると思うな」ーー本文より\n",
+        "salesDate": "2026年06月05日",
+        "series": "ファイア・ドーム",
+        "reviewAverage": 4.6,
+        "reviewCount": 486,
+        "genreId": "101901/101902",
+        "isbn": "4320000865494",
+        "salesType": 0,
+        "matchMeta": {
+          "title": "ファイア・ドーム 下",
+          "author": "辻村深月",
+          "score": 128,
+          "sources": [
+            {
+              "source": "tohan",
+              "label": "トーハン",
+              "rank": 3
+            },
+            {
+              "source": "kinokuniya",
+              "label": "紀伊國屋書店",
+              "rank": 20
+            }
+          ],
+          "source": "combined",
+          "rank": 3,
+          "originalTitle": ""
+        },
+        "ranking": {
+          "title": "ファイア・ドーム 下",
+          "author": "辻村深月",
+          "score": 128,
+          "sources": [
+            {
+              "source": "tohan",
+              "label": "トーハン",
+              "rank": 3
+            },
+            {
+              "source": "kinokuniya",
+              "label": "紀伊國屋書店",
+              "rank": 20
+            }
+          ],
+          "source": "combined",
+          "rank": 9,
           "originalTitle": ""
         }
       },
@@ -1061,7 +1232,7 @@
             }
           ],
           "source": "combined",
-          "rank": 8,
+          "rank": 10,
           "originalTitle": ""
         }
       },
@@ -1118,55 +1289,8 @@
             }
           ],
           "source": "combined",
-          "rank": 9,
+          "rank": 11,
           "originalTitle": ""
-        }
-      },
-      {
-        "id": "4820000903843",
-        "title": "ハヤブサ消防団　森へつづく道",
-        "author": "池井戸潤",
-        "publisher": "集英社",
-        "price": 2200,
-        "url": "https://books.rakuten.co.jp/rk/8b8de7f162953f1aa6c2fba789f5c5b5/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9371/2000021419371.jpg?_ex=600x600",
-        "caption": "【田園暮らしのミステリ作家vs美貌の歴史ミステリ作家】\nドラマ化＆柴田錬三郎賞受賞の大ヒットミステリ、待望のシリーズ新作登場！\nミステリ作家の三馬太郎が自然豊かな八百万町ハヤブサ地区に移り住んで数年。地元消防団の一員としても忙しい毎日を過ごすうち、とある文学賞にノミネート！　最大のライバル候補は、今をときめく美貌の歴史ミステリ作家・北原未南。だが、未南に不可解な疑惑が持ち上がる。\n一方、八百万町では、ある若い女性が我が子を残して川から水死体で発見されていた。事件の真相を探るうち、太郎は町を揺るがす巨大な疑惑に巻き込まれて……。\n【集英社創業100周年記念作品】\n■著者プロフィール：\n池井戸 潤（いけいど・じゅん）\n作家。1963年岐阜県生まれ。慶應義塾大学卒。98年『果つる底なき』で江戸川乱歩賞を受賞しデビュー。2010年『鉄の骨』で吉川英治文学新人賞、11年『下町ロケット』で直木賞、23年『ハヤブサ消防団』で柴田錬三郎賞を受賞。\n主な作品に「半沢直樹」シリーズ（『オレたちバブル入行組』『ロスジェネの逆襲』『アルルカンと道化師』ほか）、「下町ロケット」シリーズ（『ガウディ計画』『ヤタガラス』ほか）、『シャイロックの子供たち』『空飛ぶタイヤ』『民王』『七つの会議』『陸王』『ノーサイド・ゲーム』『花咲舞が黙ってない』『アキラとあきら』『俺たちの箱根駅伝』『ブティック』がある。\n",
-        "salesDate": "2026年08月05日",
-        "series": "ハヤブサ消防団",
-        "reviewAverage": 4.28,
-        "reviewCount": 18,
-        "genreId": "101901/101902",
-        "isbn": "4820000903843",
-        "salesType": 0,
-        "matchMeta": {
-          "title": "ハヤブサ消防団 森へつづく道",
-          "author": "",
-          "score": 82,
-          "sources": [
-            {
-              "source": "kinokuniya",
-              "label": "紀伊國屋書店",
-              "rank": 7
-            }
-          ],
-          "source": "combined",
-          "rank": 14,
-          "originalTitle": "ハヤブサ消防団　森へつづく道"
-        },
-        "ranking": {
-          "title": "ハヤブサ消防団 森へつづく道",
-          "author": "",
-          "score": 82,
-          "sources": [
-            {
-              "source": "kinokuniya",
-              "label": "紀伊國屋書店",
-              "rank": 7
-            }
-          ],
-          "source": "combined",
-          "rank": 10,
-          "originalTitle": "ハヤブサ消防団　森へつづく道"
         }
       },
       {
@@ -1212,7 +1336,7 @@
             }
           ],
           "source": "combined",
-          "rank": 11,
+          "rank": 12,
           "originalTitle": "夏帆 - Ｔｈｅ　Ｔａｌｅ　ｏｆ　ＫＡＨＯ"
         }
       },
@@ -1245,84 +1369,54 @@
           ],
           "rank": 1
         }
-      },
-      {
-        "id": "4390000004602",
-        "title": "コンビニ人間",
-        "author": "村田沙耶香",
-        "publisher": "文藝春秋",
-        "price": 690,
-        "url": "https://books.rakuten.co.jp/rk/c9944e9b1e9f36f6b86d5b82d7e39ad8/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9442/2000006719442.jpg?_ex=600x600",
-        "caption": "「普通」とは何か？\n現代の実存を軽やかに問う第155回芥川賞受賞作\n36歳未婚、彼氏なし。コンビニのバイト歴18年目の古倉恵子。\n日々コンビニ食を食べ、夢の中でもレジを打ち、\n「店員」でいるときのみ世界の歯車になれるーー。\n「いらっしゃいませー!!」\nお客様がたてる音に負けじと、今日も声を張り上げる。\nある日、婚活目的の新入り男性・白羽がやってきて、\nそんなコンビニ的生き方は恥ずかしい、と突きつけられるが……。\n累計92万部突破&20カ国語に翻訳決定。\n世界各国でベストセラーの話題の書。\n解説・中村文則\n",
-        "salesDate": "2018年09月04日",
-        "series": "",
-        "reviewAverage": 3.87,
-        "reviewCount": 4438,
-        "genreId": "101901",
-        "isbn": "4390000004602",
-        "salesType": 0,
-        "ranking": {
-          "title": "コンビニ人間",
-          "author": "村田沙耶香",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 2
-            }
-          ],
-          "rank": 2
-        }
       }
     ],
     "mystery": [
       {
-        "id": "4310000890409",
-        "title": "楽園",
-        "author": "夕木春央",
-        "publisher": "講談社",
-        "price": 1980,
-        "url": "https://books.rakuten.co.jp/rk/1a1c684dcee83b98b4d0187187c813d0/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1651/2000021221651.jpg?_ex=600x600",
-        "caption": "殺人犯にならなければ脱出できない。\n『方舟』『十戒』の著者が仕掛ける“禁忌の驚き”\n亡き両親から不動産を譲り受けた康之は、失踪した賃借人・海原の遺留品整理の際に、群馬の山奥の謎の物件の存在を知る。そこは、切り立った岩壁に囲まれた、「楽園」と呼ばれる奇妙な場所だった。恋人の沙織と一緒にそこを訪ね、探索をはじめた康之たちは、すぐに六人の“住人”に拿捕された。脱出のための条件はーー\n「誰か一人を殺さなければならない」\n『方舟』\n第19回オリコン上半期”本”ランキング　文庫ランキングTOP10 第1位\n週刊文春ミステリーベスト10　第1位　（「週刊文春」2022年12月8日号）国内部門\nMRC大賞2022　第1位\n『方舟』＋『十戒』の累計発行部数が100万部突破。\nーー夕木春央が描く、極限のクローズド・サークル。\n",
-        "salesDate": "2026年07月22日",
-        "series": "楽園",
-        "reviewAverage": 4.27,
-        "reviewCount": 289,
-        "genreId": "101902",
-        "isbn": "4310000890409",
+        "id": "4820000903843",
+        "title": "ハヤブサ消防団　森へつづく道",
+        "author": "池井戸潤",
+        "publisher": "集英社",
+        "price": 2200,
+        "url": "https://books.rakuten.co.jp/rk/8b8de7f162953f1aa6c2fba789f5c5b5/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9371/2000021419371.jpg?_ex=600x600",
+        "caption": "【田園暮らしのミステリ作家vs美貌の歴史ミステリ作家】\nドラマ化＆柴田錬三郎賞受賞の大ヒットミステリ、待望のシリーズ新作登場！\nミステリ作家の三馬太郎が自然豊かな八百万町ハヤブサ地区に移り住んで数年。地元消防団の一員としても忙しい毎日を過ごすうち、とある文学賞にノミネート！　最大のライバル候補は、今をときめく美貌の歴史ミステリ作家・北原未南。だが、未南に不可解な疑惑が持ち上がる。\n一方、八百万町では、ある若い女性が我が子を残して川から水死体で発見されていた。事件の真相を探るうち、太郎は町を揺るがす巨大な疑惑に巻き込まれて……。\n【集英社創業100周年記念作品】\n■著者プロフィール：\n池井戸 潤（いけいど・じゅん）\n作家。1963年岐阜県生まれ。慶應義塾大学卒。98年『果つる底なき』で江戸川乱歩賞を受賞しデビュー。2010年『鉄の骨』で吉川英治文学新人賞、11年『下町ロケット』で直木賞、23年『ハヤブサ消防団』で柴田錬三郎賞を受賞。\n主な作品に「半沢直樹」シリーズ（『オレたちバブル入行組』『ロスジェネの逆襲』『アルルカンと道化師』ほか）、「下町ロケット」シリーズ（『ガウディ計画』『ヤタガラス』ほか）、『シャイロックの子供たち』『空飛ぶタイヤ』『民王』『七つの会議』『陸王』『ノーサイド・ゲーム』『花咲舞が黙ってない』『アキラとあきら』『俺たちの箱根駅伝』『ブティック』がある。\n",
+        "salesDate": "2026年08月05日",
+        "series": "ハヤブサ消防団",
+        "reviewAverage": 4.28,
+        "reviewCount": 18,
+        "genreId": "101901/101902",
+        "isbn": "4820000903843",
         "salesType": 0,
         "matchMeta": {
-          "title": "楽園",
+          "title": "ハヤブサ消防団 森へつづく道",
           "author": "",
-          "score": 50,
+          "score": 82,
           "sources": [
             {
               "source": "kinokuniya",
               "label": "紀伊國屋書店",
-              "rank": 15
+              "rank": 7
             }
           ],
           "source": "combined",
-          "rank": 24,
-          "originalTitle": ""
+          "rank": 14,
+          "originalTitle": "ハヤブサ消防団　森へつづく道"
         },
         "ranking": {
-          "title": "楽園",
+          "title": "ハヤブサ消防団 森へつづく道",
           "author": "",
-          "score": 50,
+          "score": 82,
           "sources": [
             {
               "source": "kinokuniya",
               "label": "紀伊國屋書店",
-              "rank": 15
+              "rank": 7
             }
           ],
           "source": "combined",
-          "rank": 5,
-          "originalTitle": ""
+          "rank": 3,
+          "originalTitle": "ハヤブサ消防団　森へつづく道"
         }
       },
       {
@@ -1378,55 +1472,112 @@
             }
           ],
           "source": "combined",
-          "rank": 7,
+          "rank": 8,
           "originalTitle": ""
         }
       },
       {
-        "id": "4820000903843",
-        "title": "ハヤブサ消防団　森へつづく道",
-        "author": "池井戸潤",
-        "publisher": "集英社",
-        "price": 2200,
-        "url": "https://books.rakuten.co.jp/rk/8b8de7f162953f1aa6c2fba789f5c5b5/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9371/2000021419371.jpg?_ex=600x600",
-        "caption": "【田園暮らしのミステリ作家vs美貌の歴史ミステリ作家】\nドラマ化＆柴田錬三郎賞受賞の大ヒットミステリ、待望のシリーズ新作登場！\nミステリ作家の三馬太郎が自然豊かな八百万町ハヤブサ地区に移り住んで数年。地元消防団の一員としても忙しい毎日を過ごすうち、とある文学賞にノミネート！　最大のライバル候補は、今をときめく美貌の歴史ミステリ作家・北原未南。だが、未南に不可解な疑惑が持ち上がる。\n一方、八百万町では、ある若い女性が我が子を残して川から水死体で発見されていた。事件の真相を探るうち、太郎は町を揺るがす巨大な疑惑に巻き込まれて……。\n【集英社創業100周年記念作品】\n■著者プロフィール：\n池井戸 潤（いけいど・じゅん）\n作家。1963年岐阜県生まれ。慶應義塾大学卒。98年『果つる底なき』で江戸川乱歩賞を受賞しデビュー。2010年『鉄の骨』で吉川英治文学新人賞、11年『下町ロケット』で直木賞、23年『ハヤブサ消防団』で柴田錬三郎賞を受賞。\n主な作品に「半沢直樹」シリーズ（『オレたちバブル入行組』『ロスジェネの逆襲』『アルルカンと道化師』ほか）、「下町ロケット」シリーズ（『ガウディ計画』『ヤタガラス』ほか）、『シャイロックの子供たち』『空飛ぶタイヤ』『民王』『七つの会議』『陸王』『ノーサイド・ゲーム』『花咲舞が黙ってない』『アキラとあきら』『俺たちの箱根駅伝』『ブティック』がある。\n",
-        "salesDate": "2026年08月05日",
-        "series": "ハヤブサ消防団",
-        "reviewAverage": 4.28,
-        "reviewCount": 18,
+        "id": "4320000865494",
+        "title": "ファイア・ドーム 下",
+        "author": "辻村深月",
+        "publisher": "小学館",
+        "price": 1881,
+        "url": "https://books.rakuten.co.jp/rk/0cf87d9a77c93fe8a0124e6398a0aa4b/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1763/2000020771763.jpg?_ex=600x600",
+        "caption": "お前の家は、人殺しだ。\n真実を知っても、人は忘れていく。\n25年前の夏、この町には炎が降り注いだ。百貨店受付嬢誘拐殺人事件という、身近で突然起こった全国レベルのニュースを、誰もがいつまでも終わらせたくなかった。傷ついた人をさらに傷つけてしまった土地に、事件の火の粉は、まだ残っている。夏の日、写生遠足の帰りに姿を消した少年は無事に帰ってくるのか？　25年前の事件には、「まだ明かされていない」事実が本当にあるのか？\n「病気なんかで、死ねると思うな」ーー本文より\n",
+        "salesDate": "2026年06月05日",
+        "series": "ファイア・ドーム",
+        "reviewAverage": 4.6,
+        "reviewCount": 486,
         "genreId": "101901/101902",
-        "isbn": "4820000903843",
+        "isbn": "4320000865494",
         "salesType": 0,
         "matchMeta": {
-          "title": "ハヤブサ消防団 森へつづく道",
-          "author": "",
-          "score": 82,
+          "title": "ファイア・ドーム 下",
+          "author": "辻村深月",
+          "score": 128,
           "sources": [
+            {
+              "source": "tohan",
+              "label": "トーハン",
+              "rank": 3
+            },
             {
               "source": "kinokuniya",
               "label": "紀伊國屋書店",
-              "rank": 7
+              "rank": 20
             }
           ],
           "source": "combined",
-          "rank": 14,
-          "originalTitle": "ハヤブサ消防団　森へつづく道"
+          "rank": 3,
+          "originalTitle": ""
         },
         "ranking": {
-          "title": "ハヤブサ消防団 森へつづく道",
+          "title": "ファイア・ドーム 下",
+          "author": "辻村深月",
+          "score": 128,
+          "sources": [
+            {
+              "source": "tohan",
+              "label": "トーハン",
+              "rank": 3
+            },
+            {
+              "source": "kinokuniya",
+              "label": "紀伊國屋書店",
+              "rank": 20
+            }
+          ],
+          "source": "combined",
+          "rank": 9,
+          "originalTitle": ""
+        }
+      },
+      {
+        "id": "4310000894648",
+        "title": "殺し屋の出世術",
+        "author": "野宮有",
+        "publisher": "講談社",
+        "price": 2255,
+        "url": "https://books.rakuten.co.jp/rk/a71fc066f4be3e6cad949854e1502098/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0614/2000021290614.jpg?_ex=600x600",
+        "caption": "史上初の快挙！\n本屋大賞6位×江戸川乱歩賞\n『殺し屋の営業術』鳥肌モノの伏線回収ふたたび\n上司を操り、会社を掌握する\n禁断のテクニック教えます。\n〔ミッション〕\n敗者は死。\n命を賭けた出世レースを、営業術で勝利せよ。\n張り巡らされた二重三重のトリック。\nひっくり返すのはダークヒロイン2人！\n仕事で使えるテクニック満載！？\nどんでん返し営業論理ミステリー！！\n【あらすじ】\n凄腕営業マン鳥井が殺人請負会社〈極東コンサルティング〉に入社してから半年。\n個性的な殺し屋たちを束ねながら、順調に業績を重ねていた。\nだが突如、謎の男・鷹見に拉致され、 上部組織〈巣ヶ谷一家〉組長のもとへ連行される。\n告げられたのは、鳥井と鷹見で争う出世レースの開幕。\n勝者には〈極東コンサルティング〉 社長の座が、敗者には死が与えられる。\nもちろん、鳥井に拒否権はない。\n丸腰の営業マンは華麗なるトークを武器に、生き残ることができるのか！？\n情け容赦ない頭脳戦が始まる！\n",
+        "salesDate": "2026年07月28日",
+        "series": "殺し屋の出世術",
+        "reviewAverage": 4.51,
+        "reviewCount": 88,
+        "genreId": "101902",
+        "isbn": "4310000894648",
+        "salesType": 0,
+        "matchMeta": {
+          "title": "殺し屋の出世術",
           "author": "",
-          "score": 82,
+          "score": 5,
           "sources": [
             {
               "source": "kinokuniya",
               "label": "紀伊國屋書店",
-              "rank": 7
+              "rank": 28
             }
           ],
           "source": "combined",
-          "rank": 10,
-          "originalTitle": "ハヤブサ消防団　森へつづく道"
+          "rank": 33,
+          "originalTitle": ""
+        },
+        "ranking": {
+          "title": "殺し屋の出世術",
+          "author": "",
+          "score": 5,
+          "sources": [
+            {
+              "source": "kinokuniya",
+              "label": "紀伊國屋書店",
+              "rank": 28
+            }
+          ],
+          "source": "combined",
+          "rank": 15,
+          "originalTitle": ""
         }
       },
       {
@@ -1607,36 +1758,6 @@
             }
           ],
           "rank": 6
-        }
-      },
-      {
-        "id": "4390000005636",
-        "title": "容疑者Xの献身",
-        "author": "東野圭吾",
-        "publisher": "文藝春秋",
-        "price": 770,
-        "url": "https://books.rakuten.co.jp/rk/ffd6faf3b54b36bcbc30235a82624fa9/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7077/2000008377077.jpg?_ex=600x600",
-        "caption": "累計290万部突破。直木賞を受賞した大ベストセラー！\n天才数学者でありながら不遇な日々を送っていた高校教師の石神は、一人娘と暮らす隣人の靖子に秘かな想いを寄せていた。彼女たちが前夫を殺害したことを知った彼は、2人を救うため完全犯罪を企てる。だが皮肉にも、石神のかつての親友である物理学者の湯川学が、その謎に挑むことになる。ガリレオシリーズ初の長篇、直木賞受賞作。\n福山雅治主演で2008年に映画化され、堤真一、松雪泰子の熱演も話題になった。\n※この電子書籍は2008年8月に文藝春秋より刊行された文庫を底本としています\n",
-        "salesDate": "2020年04月24日",
-        "series": "",
-        "reviewAverage": 4.44,
-        "reviewCount": 2657,
-        "genreId": "101901/101902",
-        "isbn": "4390000005636",
-        "salesType": 0,
-        "ranking": {
-          "title": "容疑者Xの献身",
-          "author": "東野圭吾",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 7
-            }
-          ],
-          "rank": 7
         }
       }
     ],
@@ -1986,7 +2107,7 @@
             }
           ],
           "source": "combined",
-          "rank": 4,
+          "rank": 5,
           "originalTitle": ""
         }
       },
@@ -2399,7 +2520,7 @@
             }
           ],
           "source": "combined",
-          "rank": 4,
+          "rank": 5,
           "originalTitle": ""
         }
       },
@@ -2960,7 +3081,7 @@
             }
           ],
           "source": "combined",
-          "rank": 13,
+          "rank": 6,
           "originalTitle": "つかめ！理科ダマン 〈１２〉 最強ロボット決戦！編"
         }
       },
@@ -4806,7 +4927,7 @@
             }
           ],
           "source": "combined",
-          "rank": 13,
+          "rank": 6,
           "originalTitle": "つかめ！理科ダマン 〈１２〉 最強ロボット決戦！編"
         }
       },

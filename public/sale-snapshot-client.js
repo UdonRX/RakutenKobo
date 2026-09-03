@@ -1,6 +1,6 @@
 (() => {
   const previousFetch = window.fetch.bind(window);
-  const DATA_URL = 'https://raw.githubusercontent.com/UdonRX/RakutenKobo/ranking-data/data/kobo-sale.json';
+  const DATA_URL = '/data/kobo-sale.json';
   const CACHE_KEY = 'kobo-sale-curated-cache-v1';
   const CACHE_MAX_AGE = 24 * 60 * 60 * 1000;
   const MEMORY_TTL = 15 * 60 * 1000;
@@ -56,7 +56,7 @@
       const stamp = Math.floor(Date.now() / (15 * 60 * 1000));
       const r = await previousFetch(`${DATA_URL}?t=${stamp}`, {
         cache:'no-store',
-        mode:'cors',
+        credentials:'same-origin',
         signal:controller.signal
       });
       if (!r.ok) throw new Error(`SALE_HTTP_${r.status}`);

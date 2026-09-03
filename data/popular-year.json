@@ -3,10 +3,10 @@
   "completed": true,
   "expandedAllPublishedRanks": true,
   "period": "year",
-  "updatedAt": "2026-09-03T14:03:25.665Z",
+  "updatedAt": "2026-09-03T16:48:13.797Z",
   "candidateCount": 10,
   "checked": 10,
-  "matched": 3,
+  "matched": 5,
   "failedBatches": 0,
   "unavailable": [],
   "snapshots": {
@@ -30,9 +30,19 @@
           "rank": 2
         },
         {
+          "title": "成瀬は都を駆け抜ける",
+          "author": "宮島未奈",
+          "rank": 4
+        },
+        {
           "title": "暁星",
           "author": "湊かなえ",
           "rank": 7
+        },
+        {
+          "title": "大河の一滴 最終章",
+          "author": "五木寛之",
+          "rank": 8
         }
       ]
     }
@@ -133,6 +143,53 @@
       }
     },
     {
+      "id": "4340008064751",
+      "title": "成瀬は都を駆け抜ける",
+      "author": "宮島未奈",
+      "publisher": "新潮社",
+      "price": 1870,
+      "url": "https://books.rakuten.co.jp/rk/742144207d4335e2bae33be75c1df7de/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9131/2000018619131.jpg?_ex=600x600",
+      "caption": "唯一無二の主人公が、今度は京都を駆け巡る！　成瀬シリーズ堂々完結!!\n膳所高校を卒業し、晴れて京大生となった成瀬あかり。一世一代の恋に破れた同級生、「達磨研究会」なる謎のサークル、簿記YouTuber……。千年の都を舞台に、ますます個性豊かな面々が成瀬あかり史に名を刻む中、幼馴染の島崎のもとには成瀬から突然速達が届いて……!?　全６篇、最高の主人公に訪れる大団円を見届けよ！\n",
+      "salesDate": "2025年12月01日",
+      "series": "「成瀬」シリーズ",
+      "reviewAverage": 4.54,
+      "reviewCount": 1496,
+      "genreId": "101901",
+      "isbn": "4340008064751",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "成瀬は都を駆け抜ける",
+        "author": "",
+        "score": 156,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
+          }
+        ],
+        "source": "combined",
+        "rank": 4,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "成瀬は都を駆け抜ける",
+        "author": "",
+        "score": 156,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
+          }
+        ],
+        "source": "combined",
+        "rank": 3,
+        "originalTitle": ""
+      }
+    },
+    {
       "id": "6681299179860",
       "title": "暁星",
       "author": "湊かなえ",
@@ -175,13 +232,108 @@
           }
         ],
         "source": "combined",
-        "rank": 3,
+        "rank": 4,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "4380000485089",
+      "title": "大河の一滴　最終章",
+      "author": "五木寛之",
+      "publisher": "幻冬舎",
+      "price": 1881,
+      "url": "https://books.rakuten.co.jp/rk/11c561cb4c083a838252a295da0974c9/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1450/2000019211450.jpg?_ex=600x600",
+      "caption": "93歳の人間論ーー。\n人は何かのために生きるのではない。\n誰かのために生きるのだ。\n衝撃のベストセラー『大河の一滴』から30年。圧巻の集大成。\n常に、再生の希望はある。\n少年時代の引揚体験、自死への欲求、思いがけない病の宣告……\nあえて、大河の流れに逆らうことを決意した、告白的人間論。\n「かつて人生を大河の流れにたとえて書いたときは、その流れに身をまかせて、生命の海へと流れていく、そんなふうに考えていた。\n　しかし、と、私は思ったのだ。ときには大河の流れに身をまかせるだけでなく、それに逆らって生きることもあっていいのではあるまいか。大河の流れの中にも、逆流する場所もあれば、迂回する流れもある。\n　長く生きられなかった彼らのかわりに、自分は一日でも長く生きようと考えてきたのではなかったか。運命に身をまかせるだけでなく、それに逆らうこともあっていい。\n　人には、何人かのために生きる責任がある、と思う。人々のはたさざりし思いを背負って生きる義務があるのではないか。何かのためではなく、誰かのために生きるのだ」\nーー「大河の流れに逆らって」本文より\n静寂から立ち上がる、鮮やかな再生の物語。\n",
+      "salesDate": "2026年02月12日",
+      "series": "",
+      "reviewAverage": 4,
+      "reviewCount": 23,
+      "genreId": "101907002002",
+      "isbn": "4380000485089",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "大河の一滴 最終章",
+        "author": "",
+        "score": 152,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 8,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "大河の一滴 最終章",
+        "author": "",
+        "score": 152,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 5,
         "originalTitle": ""
       }
     }
   ],
   "byGenre": {
-    "fiction": [],
+    "fiction": [
+      {
+        "id": "4340008064751",
+        "title": "成瀬は都を駆け抜ける",
+        "author": "宮島未奈",
+        "publisher": "新潮社",
+        "price": 1870,
+        "url": "https://books.rakuten.co.jp/rk/742144207d4335e2bae33be75c1df7de/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9131/2000018619131.jpg?_ex=600x600",
+        "caption": "唯一無二の主人公が、今度は京都を駆け巡る！　成瀬シリーズ堂々完結!!\n膳所高校を卒業し、晴れて京大生となった成瀬あかり。一世一代の恋に破れた同級生、「達磨研究会」なる謎のサークル、簿記YouTuber……。千年の都を舞台に、ますます個性豊かな面々が成瀬あかり史に名を刻む中、幼馴染の島崎のもとには成瀬から突然速達が届いて……!?　全６篇、最高の主人公に訪れる大団円を見届けよ！\n",
+        "salesDate": "2025年12月01日",
+        "series": "「成瀬」シリーズ",
+        "reviewAverage": 4.54,
+        "reviewCount": 1496,
+        "genreId": "101901",
+        "isbn": "4340008064751",
+        "salesType": 0,
+        "matchMeta": {
+          "title": "成瀬は都を駆け抜ける",
+          "author": "",
+          "score": 156,
+          "sources": [
+            {
+              "source": "tohan",
+              "label": "トーハン",
+              "rank": 4
+            }
+          ],
+          "source": "combined",
+          "rank": 4,
+          "originalTitle": ""
+        },
+        "ranking": {
+          "title": "成瀬は都を駆け抜ける",
+          "author": "",
+          "score": 156,
+          "sources": [
+            {
+              "source": "tohan",
+              "label": "トーハン",
+              "rank": 4
+            }
+          ],
+          "source": "combined",
+          "rank": 3,
+          "originalTitle": ""
+        }
+      }
+    ],
     "mystery": [
       {
         "id": "6681297998470",
@@ -273,7 +425,7 @@
             }
           ],
           "source": "combined",
-          "rank": 3,
+          "rank": 4,
           "originalTitle": ""
         }
       }
@@ -328,7 +480,55 @@
         }
       }
     ],
-    "humanities": [],
+    "humanities": [
+      {
+        "id": "4380000485089",
+        "title": "大河の一滴　最終章",
+        "author": "五木寛之",
+        "publisher": "幻冬舎",
+        "price": 1881,
+        "url": "https://books.rakuten.co.jp/rk/11c561cb4c083a838252a295da0974c9/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1450/2000019211450.jpg?_ex=600x600",
+        "caption": "93歳の人間論ーー。\n人は何かのために生きるのではない。\n誰かのために生きるのだ。\n衝撃のベストセラー『大河の一滴』から30年。圧巻の集大成。\n常に、再生の希望はある。\n少年時代の引揚体験、自死への欲求、思いがけない病の宣告……\nあえて、大河の流れに逆らうことを決意した、告白的人間論。\n「かつて人生を大河の流れにたとえて書いたときは、その流れに身をまかせて、生命の海へと流れていく、そんなふうに考えていた。\n　しかし、と、私は思ったのだ。ときには大河の流れに身をまかせるだけでなく、それに逆らって生きることもあっていいのではあるまいか。大河の流れの中にも、逆流する場所もあれば、迂回する流れもある。\n　長く生きられなかった彼らのかわりに、自分は一日でも長く生きようと考えてきたのではなかったか。運命に身をまかせるだけでなく、それに逆らうこともあっていい。\n　人には、何人かのために生きる責任がある、と思う。人々のはたさざりし思いを背負って生きる義務があるのではないか。何かのためではなく、誰かのために生きるのだ」\nーー「大河の流れに逆らって」本文より\n静寂から立ち上がる、鮮やかな再生の物語。\n",
+        "salesDate": "2026年02月12日",
+        "series": "",
+        "reviewAverage": 4,
+        "reviewCount": 23,
+        "genreId": "101907002002",
+        "isbn": "4380000485089",
+        "salesType": 0,
+        "matchMeta": {
+          "title": "大河の一滴 最終章",
+          "author": "",
+          "score": 152,
+          "sources": [
+            {
+              "source": "tohan",
+              "label": "トーハン",
+              "rank": 8
+            }
+          ],
+          "source": "combined",
+          "rank": 8,
+          "originalTitle": ""
+        },
+        "ranking": {
+          "title": "大河の一滴 最終章",
+          "author": "",
+          "score": 152,
+          "sources": [
+            {
+              "source": "tohan",
+              "label": "トーハン",
+              "rank": 8
+            }
+          ],
+          "source": "combined",
+          "rank": 5,
+          "originalTitle": ""
+        }
+      }
+    ],
     "nonfiction": [],
     "science": [],
     "it": [],
@@ -343,7 +543,7 @@
   },
   "genreStatus": {
     "fiction": {
-      "matched": 0,
+      "matched": 1,
       "complete": true
     },
     "mystery": {
@@ -359,7 +559,7 @@
       "complete": true
     },
     "humanities": {
-      "matched": 0,
+      "matched": 1,
       "complete": true
     },
     "nonfiction": {

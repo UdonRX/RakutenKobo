@@ -1,6 +1,6 @@
 import { GENRES, AWARDS } from './catalog.js';
 
-const VERSION='0.3.1';
+const VERSION='0.3.5';
 const esc=(value='')=>String(value).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const yen=value=>Number(value)>0?`¥${Number(value).toLocaleString()}`:'価格情報なし';
 

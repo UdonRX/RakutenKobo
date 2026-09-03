@@ -1,4 +1,4 @@
-const CACHE = 'kobo-finder-v0.3.2';
+const CACHE = 'kobo-finder-v0.3.3';
 const SHELL = ['/', '/public/manifest.json', '/styles.css', '/app.js', '/ui.js', '/catalog.js', '/public/amazon-ranking-client.js', '/public/sale-snapshot-client.js'];
 self.addEventListener('install', (event) => {
   event.waitUntil(caches.open(CACHE).then((cache) => cache.addAll(SHELL)));

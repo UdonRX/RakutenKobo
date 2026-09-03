@@ -2,10 +2,10 @@
   "kind": "popular",
   "completed": true,
   "period": "year",
-  "updatedAt": "2026-09-03T12:53:20.498Z",
+  "updatedAt": "2026-09-03T13:01:40.249Z",
   "candidateCount": 10,
   "checked": 10,
-  "matched": 8,
+  "matched": 7,
   "failedBatches": 0,
   "unavailable": [],
   "snapshots": {
@@ -32,11 +32,6 @@
           "title": "イン・ザ・メガチャーチ",
           "author": "朝井リョウ",
           "rank": 3
-        },
-        {
-          "title": "成瀬は都を駆け抜ける",
-          "author": "宮島未奈",
-          "rank": 4
         },
         {
           "title": "暁星",
@@ -111,100 +106,6 @@
       }
     },
     {
-      "id": "4340008064751",
-      "title": "成瀬は都を駆け抜ける",
-      "author": "宮島未奈",
-      "publisher": "新潮社",
-      "price": 1870,
-      "url": "https://books.rakuten.co.jp/rk/742144207d4335e2bae33be75c1df7de/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9131/2000018619131.jpg?_ex=600x600",
-      "caption": "唯一無二の主人公が、今度は京都を駆け巡る！　成瀬シリーズ堂々完結!!\n膳所高校を卒業し、晴れて京大生となった成瀬あかり。一世一代の恋に破れた同級生、「達磨研究会」なる謎のサークル、簿記YouTuber……。千年の都を舞台に、ますます個性豊かな面々が成瀬あかり史に名を刻む中、幼馴染の島崎のもとには成瀬から突然速達が届いて……!?　全６篇、最高の主人公に訪れる大団円を見届けよ！\n",
-      "salesDate": "2025年12月01日",
-      "series": "「成瀬」シリーズ",
-      "reviewAverage": 4.54,
-      "reviewCount": 1476,
-      "genreId": "101901",
-      "isbn": "4340008064751",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "成瀬は都を駆け抜ける",
-        "author": "宮島未奈",
-        "score": 94,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
-          }
-        ],
-        "source": "combined",
-        "rank": 4,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "成瀬は都を駆け抜ける",
-        "author": "宮島未奈",
-        "score": 94,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
-          }
-        ],
-        "source": "combined",
-        "rank": 2,
-        "originalTitle": ""
-      }
-    },
-    {
-      "id": "6681299179860",
-      "title": "暁星",
-      "author": "湊かなえ",
-      "publisher": "双葉社",
-      "price": 1980,
-      "url": "https://books.rakuten.co.jp/rk/eb8de6a46aa935d48709dbfee116c7d2/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4762/2000019204762.jpg?_ex=600x600",
-      "caption": "「ただ、星を守りたかっただけーー」　\n現役の文部科学大臣で文壇の大御所作家でもある清水義之が全国高校生総合文化祭の式典の最中、舞台袖から飛び出してきた男に刺されて死亡する事件がおきた。逮捕された男の名前は永瀬暁、37歳。永瀬は逮捕されたのち、週刊誌に手記を発表しはじめる。そこには、清水が深く関わっているとされる新興宗教に対する恨みが綴られていた。また、式典に出席していた作家は、永瀬の事件を小説として描く。ノンフィクションとフィクション、ふたつの物語が合わさったとき見える景色とは!?\n",
-      "salesDate": "2025年11月27日",
-      "series": "暁星",
-      "reviewAverage": 4.18,
-      "reviewCount": 1124,
-      "genreId": "101902",
-      "isbn": "6681299179860",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "暁星",
-        "author": "湊かなえ",
-        "score": 82,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 7
-          }
-        ],
-        "source": "combined",
-        "rank": 7,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "暁星",
-        "author": "湊かなえ",
-        "score": 82,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 7
-          }
-        ],
-        "source": "combined",
-        "rank": 3,
-        "originalTitle": ""
-      }
-    },
-    {
       "id": "6681297998470",
       "title": "変な地図",
       "author": "雨穴",
@@ -247,7 +148,7 @@
           }
         ],
         "source": "combined",
-        "rank": 4,
+        "rank": 2,
         "originalTitle": ""
       }
     },
@@ -294,7 +195,54 @@
           }
         ],
         "source": "combined",
-        "rank": 5,
+        "rank": 3,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "6681299179860",
+      "title": "暁星",
+      "author": "湊かなえ",
+      "publisher": "双葉社",
+      "price": 1980,
+      "url": "https://books.rakuten.co.jp/rk/eb8de6a46aa935d48709dbfee116c7d2/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4762/2000019204762.jpg?_ex=600x600",
+      "caption": "「ただ、星を守りたかっただけーー」　\n現役の文部科学大臣で文壇の大御所作家でもある清水義之が全国高校生総合文化祭の式典の最中、舞台袖から飛び出してきた男に刺されて死亡する事件がおきた。逮捕された男の名前は永瀬暁、37歳。永瀬は逮捕されたのち、週刊誌に手記を発表しはじめる。そこには、清水が深く関わっているとされる新興宗教に対する恨みが綴られていた。また、式典に出席していた作家は、永瀬の事件を小説として描く。ノンフィクションとフィクション、ふたつの物語が合わさったとき見える景色とは!?\n",
+      "salesDate": "2025年11月27日",
+      "series": "暁星",
+      "reviewAverage": 4.18,
+      "reviewCount": 1124,
+      "genreId": "101902",
+      "isbn": "6681299179860",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "暁星",
+        "author": "湊かなえ",
+        "score": 82,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 7
+          }
+        ],
+        "source": "combined",
+        "rank": 7,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "暁星",
+        "author": "湊かなえ",
+        "score": 82,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 7
+          }
+        ],
+        "source": "combined",
+        "rank": 4,
         "originalTitle": ""
       }
     },
@@ -338,6 +286,53 @@
             "source": "tohan",
             "label": "トーハン",
             "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 5,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "4380000407704",
+      "title": "棺桶まで歩こう",
+      "author": "萬田緑平",
+      "publisher": "幻冬舎",
+      "price": 982,
+      "url": "https://books.rakuten.co.jp/rk/2553e6b8bd4737298fc8ea239abc3641/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0789/2000019160789.jpg?_ex=600x600",
+      "caption": "歩けるうちは、人は死なない\n長生きしたくないという高齢者が増えている。\n不健康寿命が延び、ムダな延命治療によるつらく苦しい最期は恐ろしいと感じるからだ。\n著者は2000人以上を看取った元外科医の緩和ケア医。\n「歩けるうちは死にません」「抗がん剤をやめた方が長く生きる」「病院で体力の限界まで生かされるから苦しい」「認知症は長生きしたい人にとって勝ち組の証」「ひとり暮らしは、むしろ楽に死ねる」など「延命より満足を、治療より尊厳を」という選択を提唱。\n医療との向き合い方を変えることで、家で人生を終えるという幸せが味わえるようになる!\n2000人の幸せな最期を支えた「在宅」緩和ケア医が提言\n病院に頼りすぎない“生ききる力”とは?\n",
+      "salesDate": "2025年11月27日",
+      "series": "",
+      "reviewAverage": 4.02,
+      "reviewCount": 47,
+      "genreId": "101908008002/101907007",
+      "isbn": "4380000407704",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "棺桶まで歩こう",
+        "author": "萬田緑平",
+        "score": 70,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 10,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "棺桶まで歩こう",
+        "author": "萬田緑平",
+        "score": 70,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 10
           }
         ],
         "source": "combined",
@@ -391,104 +386,10 @@
         "rank": 7,
         "originalTitle": ""
       }
-    },
-    {
-      "id": "4380000407704",
-      "title": "棺桶まで歩こう",
-      "author": "萬田緑平",
-      "publisher": "幻冬舎",
-      "price": 982,
-      "url": "https://books.rakuten.co.jp/rk/2553e6b8bd4737298fc8ea239abc3641/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0789/2000019160789.jpg?_ex=600x600",
-      "caption": "歩けるうちは、人は死なない\n長生きしたくないという高齢者が増えている。\n不健康寿命が延び、ムダな延命治療によるつらく苦しい最期は恐ろしいと感じるからだ。\n著者は2000人以上を看取った元外科医の緩和ケア医。\n「歩けるうちは死にません」「抗がん剤をやめた方が長く生きる」「病院で体力の限界まで生かされるから苦しい」「認知症は長生きしたい人にとって勝ち組の証」「ひとり暮らしは、むしろ楽に死ねる」など「延命より満足を、治療より尊厳を」という選択を提唱。\n医療との向き合い方を変えることで、家で人生を終えるという幸せが味わえるようになる!\n2000人の幸せな最期を支えた「在宅」緩和ケア医が提言\n病院に頼りすぎない“生ききる力”とは?\n",
-      "salesDate": "2025年11月27日",
-      "series": "",
-      "reviewAverage": 4.02,
-      "reviewCount": 47,
-      "genreId": "101908008002/101907007",
-      "isbn": "4380000407704",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "棺桶まで歩こう",
-        "author": "萬田緑平",
-        "score": 70,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 10,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "棺桶まで歩こう",
-        "author": "萬田緑平",
-        "score": 70,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 8,
-        "originalTitle": ""
-      }
     }
   ],
   "byGenre": {
     "fiction": [
-      {
-        "id": "4340008064751",
-        "title": "成瀬は都を駆け抜ける",
-        "author": "宮島未奈",
-        "publisher": "新潮社",
-        "price": 1870,
-        "url": "https://books.rakuten.co.jp/rk/742144207d4335e2bae33be75c1df7de/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9131/2000018619131.jpg?_ex=600x600",
-        "caption": "唯一無二の主人公が、今度は京都を駆け巡る！　成瀬シリーズ堂々完結!!\n膳所高校を卒業し、晴れて京大生となった成瀬あかり。一世一代の恋に破れた同級生、「達磨研究会」なる謎のサークル、簿記YouTuber……。千年の都を舞台に、ますます個性豊かな面々が成瀬あかり史に名を刻む中、幼馴染の島崎のもとには成瀬から突然速達が届いて……!?　全６篇、最高の主人公に訪れる大団円を見届けよ！\n",
-        "salesDate": "2025年12月01日",
-        "series": "「成瀬」シリーズ",
-        "reviewAverage": 4.54,
-        "reviewCount": 1476,
-        "genreId": "101901",
-        "isbn": "4340008064751",
-        "salesType": 0,
-        "matchMeta": {
-          "title": "成瀬は都を駆け抜ける",
-          "author": "宮島未奈",
-          "score": 94,
-          "sources": [
-            {
-              "source": "tohan",
-              "label": "トーハン",
-              "rank": 4
-            }
-          ],
-          "source": "combined",
-          "rank": 4,
-          "originalTitle": ""
-        },
-        "ranking": {
-          "title": "成瀬は都を駆け抜ける",
-          "author": "宮島未奈",
-          "score": 94,
-          "sources": [
-            {
-              "source": "tohan",
-              "label": "トーハン",
-              "rank": 4
-            }
-          ],
-          "source": "combined",
-          "rank": 2,
-          "originalTitle": ""
-        }
-      },
       {
         "id": "4660629612104",
         "title": "イン・ザ・メガチャーチ",
@@ -532,7 +433,7 @@
             }
           ],
           "source": "combined",
-          "rank": 5,
+          "rank": 3,
           "originalTitle": ""
         }
       },
@@ -671,56 +572,26 @@
         "genreId": "101901/101902",
         "isbn": "4340008646011",
         "salesType": 0
+      },
+      {
+        "id": "4340008021711",
+        "title": "夜のピクニック（新潮文庫）",
+        "author": "恩田陸",
+        "publisher": "新潮社",
+        "price": 880,
+        "url": "https://books.rakuten.co.jp/rk/6839d1729e463bc4a4cc52d3a1dfbe76/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3058/2000002933058.jpg?_ex=600x600",
+        "caption": "高校生活最後を飾るイベント「歩行祭」。それは全校生徒が夜を徹して80キロ歩き通すという、北高の伝統行事だった。甲田貴子は密かな誓いを胸に抱いて、歩行祭にのぞんだ。三年間、誰にも言えなかった秘密を清算するためにーー。学校生活の思い出や卒業後の夢など語らいつつ、親友たちと歩きながらも、貴子だけは、小さな賭けに胸を焦がしていた。本屋大賞を受賞した永遠の青春小説。\n",
+        "salesDate": "2015年04月03日",
+        "series": "",
+        "reviewAverage": 4.08,
+        "reviewCount": 2742,
+        "genreId": "101901001",
+        "isbn": "4340008021711",
+        "salesType": 0
       }
     ],
     "mystery": [
-      {
-        "id": "6681299179860",
-        "title": "暁星",
-        "author": "湊かなえ",
-        "publisher": "双葉社",
-        "price": 1980,
-        "url": "https://books.rakuten.co.jp/rk/eb8de6a46aa935d48709dbfee116c7d2/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4762/2000019204762.jpg?_ex=600x600",
-        "caption": "「ただ、星を守りたかっただけーー」　\n現役の文部科学大臣で文壇の大御所作家でもある清水義之が全国高校生総合文化祭の式典の最中、舞台袖から飛び出してきた男に刺されて死亡する事件がおきた。逮捕された男の名前は永瀬暁、37歳。永瀬は逮捕されたのち、週刊誌に手記を発表しはじめる。そこには、清水が深く関わっているとされる新興宗教に対する恨みが綴られていた。また、式典に出席していた作家は、永瀬の事件を小説として描く。ノンフィクションとフィクション、ふたつの物語が合わさったとき見える景色とは!?\n",
-        "salesDate": "2025年11月27日",
-        "series": "暁星",
-        "reviewAverage": 4.18,
-        "reviewCount": 1124,
-        "genreId": "101902",
-        "isbn": "6681299179860",
-        "salesType": 0,
-        "matchMeta": {
-          "title": "暁星",
-          "author": "湊かなえ",
-          "score": 82,
-          "sources": [
-            {
-              "source": "tohan",
-              "label": "トーハン",
-              "rank": 7
-            }
-          ],
-          "source": "combined",
-          "rank": 7,
-          "originalTitle": ""
-        },
-        "ranking": {
-          "title": "暁星",
-          "author": "湊かなえ",
-          "score": 82,
-          "sources": [
-            {
-              "source": "tohan",
-              "label": "トーハン",
-              "rank": 7
-            }
-          ],
-          "source": "combined",
-          "rank": 3,
-          "originalTitle": ""
-        }
-      },
       {
         "id": "6681297998470",
         "title": "変な地図",
@@ -761,6 +632,53 @@
               "source": "tohan",
               "label": "トーハン",
               "rank": 2
+            }
+          ],
+          "source": "combined",
+          "rank": 2,
+          "originalTitle": ""
+        }
+      },
+      {
+        "id": "6681299179860",
+        "title": "暁星",
+        "author": "湊かなえ",
+        "publisher": "双葉社",
+        "price": 1980,
+        "url": "https://books.rakuten.co.jp/rk/eb8de6a46aa935d48709dbfee116c7d2/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4762/2000019204762.jpg?_ex=600x600",
+        "caption": "「ただ、星を守りたかっただけーー」　\n現役の文部科学大臣で文壇の大御所作家でもある清水義之が全国高校生総合文化祭の式典の最中、舞台袖から飛び出してきた男に刺されて死亡する事件がおきた。逮捕された男の名前は永瀬暁、37歳。永瀬は逮捕されたのち、週刊誌に手記を発表しはじめる。そこには、清水が深く関わっているとされる新興宗教に対する恨みが綴られていた。また、式典に出席していた作家は、永瀬の事件を小説として描く。ノンフィクションとフィクション、ふたつの物語が合わさったとき見える景色とは!?\n",
+        "salesDate": "2025年11月27日",
+        "series": "暁星",
+        "reviewAverage": 4.18,
+        "reviewCount": 1124,
+        "genreId": "101902",
+        "isbn": "6681299179860",
+        "salesType": 0,
+        "matchMeta": {
+          "title": "暁星",
+          "author": "湊かなえ",
+          "score": 82,
+          "sources": [
+            {
+              "source": "tohan",
+              "label": "トーハン",
+              "rank": 7
+            }
+          ],
+          "source": "combined",
+          "rank": 7,
+          "originalTitle": ""
+        },
+        "ranking": {
+          "title": "暁星",
+          "author": "湊かなえ",
+          "score": 82,
+          "sources": [
+            {
+              "source": "tohan",
+              "label": "トーハン",
+              "rank": 7
             }
           ],
           "source": "combined",
@@ -1323,6 +1241,53 @@
             }
           ],
           "source": "combined",
+          "rank": 5,
+          "originalTitle": ""
+        }
+      },
+      {
+        "id": "4380000407704",
+        "title": "棺桶まで歩こう",
+        "author": "萬田緑平",
+        "publisher": "幻冬舎",
+        "price": 982,
+        "url": "https://books.rakuten.co.jp/rk/2553e6b8bd4737298fc8ea239abc3641/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0789/2000019160789.jpg?_ex=600x600",
+        "caption": "歩けるうちは、人は死なない\n長生きしたくないという高齢者が増えている。\n不健康寿命が延び、ムダな延命治療によるつらく苦しい最期は恐ろしいと感じるからだ。\n著者は2000人以上を看取った元外科医の緩和ケア医。\n「歩けるうちは死にません」「抗がん剤をやめた方が長く生きる」「病院で体力の限界まで生かされるから苦しい」「認知症は長生きしたい人にとって勝ち組の証」「ひとり暮らしは、むしろ楽に死ねる」など「延命より満足を、治療より尊厳を」という選択を提唱。\n医療との向き合い方を変えることで、家で人生を終えるという幸せが味わえるようになる!\n2000人の幸せな最期を支えた「在宅」緩和ケア医が提言\n病院に頼りすぎない“生ききる力”とは?\n",
+        "salesDate": "2025年11月27日",
+        "series": "",
+        "reviewAverage": 4.02,
+        "reviewCount": 47,
+        "genreId": "101908008002/101907007",
+        "isbn": "4380000407704",
+        "salesType": 0,
+        "matchMeta": {
+          "title": "棺桶まで歩こう",
+          "author": "萬田緑平",
+          "score": 70,
+          "sources": [
+            {
+              "source": "tohan",
+              "label": "トーハン",
+              "rank": 10
+            }
+          ],
+          "source": "combined",
+          "rank": 10,
+          "originalTitle": ""
+        },
+        "ranking": {
+          "title": "棺桶まで歩こう",
+          "author": "萬田緑平",
+          "score": 70,
+          "sources": [
+            {
+              "source": "tohan",
+              "label": "トーハン",
+              "rank": 10
+            }
+          ],
+          "source": "combined",
           "rank": 6,
           "originalTitle": ""
         }
@@ -1371,53 +1336,6 @@
           ],
           "source": "combined",
           "rank": 7,
-          "originalTitle": ""
-        }
-      },
-      {
-        "id": "4380000407704",
-        "title": "棺桶まで歩こう",
-        "author": "萬田緑平",
-        "publisher": "幻冬舎",
-        "price": 982,
-        "url": "https://books.rakuten.co.jp/rk/2553e6b8bd4737298fc8ea239abc3641/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0789/2000019160789.jpg?_ex=600x600",
-        "caption": "歩けるうちは、人は死なない\n長生きしたくないという高齢者が増えている。\n不健康寿命が延び、ムダな延命治療によるつらく苦しい最期は恐ろしいと感じるからだ。\n著者は2000人以上を看取った元外科医の緩和ケア医。\n「歩けるうちは死にません」「抗がん剤をやめた方が長く生きる」「病院で体力の限界まで生かされるから苦しい」「認知症は長生きしたい人にとって勝ち組の証」「ひとり暮らしは、むしろ楽に死ねる」など「延命より満足を、治療より尊厳を」という選択を提唱。\n医療との向き合い方を変えることで、家で人生を終えるという幸せが味わえるようになる!\n2000人の幸せな最期を支えた「在宅」緩和ケア医が提言\n病院に頼りすぎない“生ききる力”とは?\n",
-        "salesDate": "2025年11月27日",
-        "series": "",
-        "reviewAverage": 4.02,
-        "reviewCount": 47,
-        "genreId": "101908008002/101907007",
-        "isbn": "4380000407704",
-        "salesType": 0,
-        "matchMeta": {
-          "title": "棺桶まで歩こう",
-          "author": "萬田緑平",
-          "score": 70,
-          "sources": [
-            {
-              "source": "tohan",
-              "label": "トーハン",
-              "rank": 10
-            }
-          ],
-          "source": "combined",
-          "rank": 10,
-          "originalTitle": ""
-        },
-        "ranking": {
-          "title": "棺桶まで歩こう",
-          "author": "萬田緑平",
-          "score": 70,
-          "sources": [
-            {
-              "source": "tohan",
-              "label": "トーハン",
-              "rank": 10
-            }
-          ],
-          "source": "combined",
-          "rank": 8,
           "originalTitle": ""
         }
       },
@@ -1757,7 +1675,7 @@
             }
           ],
           "source": "combined",
-          "rank": 8,
+          "rank": 6,
           "originalTitle": ""
         }
       },

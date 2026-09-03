@@ -11,6 +11,18 @@
     {
       "source": "/data/kobo-sale.json",
       "destination": "https://raw.githubusercontent.com/UdonRX/RakutenKobo/ranking-data/data/kobo-sale.json"
+    },
+    {
+      "source": "/data/popular-week.json",
+      "destination": "https://raw.githubusercontent.com/UdonRX/RakutenKobo/ranking-data/data/popular-week.json"
+    },
+    {
+      "source": "/data/popular-month.json",
+      "destination": "https://raw.githubusercontent.com/UdonRX/RakutenKobo/ranking-data/data/popular-month.json"
+    },
+    {
+      "source": "/data/popular-year.json",
+      "destination": "https://raw.githubusercontent.com/UdonRX/RakutenKobo/ranking-data/data/popular-year.json"
     }
   ],
   "headers": [

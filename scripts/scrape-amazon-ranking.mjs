@@ -5,7 +5,7 @@ import { dirname, resolve } from 'node:path';
 
 const AMAZON_URL = 'https://www.amazon.co.jp/gp/bestsellers/books';
 const outputPath = resolve(process.argv[2] || 'amazon-ranking.json');
-const MAX_ITEMS = 30;
+const MAX_ITEMS = 100;
 const PAGE_STABILIZE_MS = 1500;
 const ADULT_WORDS = ['アダルト','成年コミック','成人向け','18禁','官能','成人漫画','エロティック','R18','R18+'];
 

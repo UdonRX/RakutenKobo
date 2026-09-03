@@ -9,8 +9,8 @@ on:
     paths:
       - 'scripts/scrape-kobo-sale.mjs'
       - 'scripts/build-completed-feeds.mjs'
-      - 'scripts/enrich-genre-feeds.mjs'
       - 'scripts/build-all-sale-feed.mjs'
+      - 'scripts/enrich-popular-genres.mjs'
       - '.github/workflows/update-kobo-sale.yml'
       - 'public/amazon-ranking-client.js'
       - 'public/sale-snapshot-client.js'
@@ -46,15 +46,15 @@ jobs:
       - name: Collect every sale result from Rakuten Books and Kobo campaigns
         run: node scripts/scrape-kobo-sale.mjs /tmp/kobo-sale-candidates.json
 
-      - name: Build completed Kobo feeds
+      - name: Build base completed Kobo feeds
         env:
           KOBO_API_BASE: https://rakuten-kobo.vercel.app
         run: node scripts/build-completed-feeds.mjs /tmp/kobo-sale-candidates.json /tmp/completed-feeds
 
-      - name: Fill popular genres and legacy sale metadata
+      - name: Fill popular genres
         env:
           KOBO_API_BASE: https://rakuten-kobo.vercel.app
-        run: node scripts/enrich-genre-feeds.mjs /tmp/completed-feeds /tmp/kobo-sale-candidates.json
+        run: node scripts/enrich-popular-genres.mjs /tmp/completed-feeds
 
       - name: Replace sale feed with every verified current Kobo sale book
         env:

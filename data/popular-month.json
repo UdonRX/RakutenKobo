@@ -3,14 +3,12 @@
   "completed": true,
   "expandedAllPublishedRanks": true,
   "period": "month",
-  "updatedAt": "2026-09-03T16:48:11.036Z",
+  "updatedAt": "2026-09-03T21:28:27.261Z",
   "candidateCount": 47,
   "checked": 47,
-  "matched": 5,
+  "matched": 10,
   "failedBatches": 0,
-  "unavailable": [
-    "tohan"
-  ],
+  "unavailable": [],
   "snapshots": {
     "kinokuniya": {
       "id": "kinokuniya",
@@ -27,19 +25,29 @@
           "rank": 1
         },
         {
+          "title": "コミック",
+          "author": "木野咲カズラ/徒然花",
+          "rank": 2
+        },
+        {
+          "title": "ＤＶＤ",
+          "author": "大洋図書",
+          "rank": 6
+        },
+        {
           "title": "電子書籍",
           "author": "晋遊舎",
           "rank": 9
         },
         {
-          "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
-          "author": "林真理子",
-          "rank": 16
+          "title": "つかめ！理科ダマン 〈１２〉 最強ロボット決戦！編",
+          "author": "シン・テフン/ナ・スンフン/呉華順",
+          "rank": 26
         },
         {
-          "title": "イン・ザ・メガチャーチ",
-          "author": "朝井リョウ",
-          "rank": 31
+          "title": "楽園",
+          "author": "夕木春央",
+          "rank": 30
         },
         {
           "title": "殺し屋の出世術",
@@ -47,9 +55,97 @@
           "rank": 43
         }
       ]
+    },
+    "tohan": {
+      "id": "tohan",
+      "label": "トーハン",
+      "attribution": "トーハン調べ",
+      "sourceUrl": "https://www.tohan.jp/bestsellers/2026_07_monthly/",
+      "periodLabel": "月間",
+      "updatedAt": "2026-09-03",
+      "live": true,
+      "items": [
+        {
+          "title": "つかめ！理科ダマン 〈１２〉 最強ロボット決戦！編",
+          "author": "シン・テフン/ナ・スンフン/呉華順",
+          "rank": 2
+        },
+        {
+          "title": "口に関するアンケート",
+          "author": "背筋/押見修造",
+          "rank": 5
+        },
+        {
+          "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
+          "author": "堀田 秀吾",
+          "rank": 8
+        },
+        {
+          "title": "ONE PIECE novel ZORO",
+          "author": "尾田栄一郎/江坂純/なかまる",
+          "rank": 9
+        }
+      ]
     }
   },
   "items": [
+    {
+      "id": "6681311679960",
+      "title": "つかめ！理科ダマン 12 最強ロボット決戦！編",
+      "author": "シン・テフン/ナ・スンフン/呉華順",
+      "publisher": "マガジンハウス",
+      "price": 1320,
+      "url": "https://books.rakuten.co.jp/rk/d5144a342674388cb89766522b26d5f0/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6738/2000021036738.jpg?_ex=600x600",
+      "caption": "■注目のシリーズ第12巻は、ロボット世界大会の決戦編！■\n恐竜ロボット大会の勝者を決める決戦がいよいよ始まる！\nシンとグゥのチームが戦うライバルチームに、弱点はあるのか!?\n優勝を目指すシンたちといっしょに\nプログラミングやA I、恐竜にまつわる19の疑問が楽しく学べます。\n★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★\n＼＼日韓でシリーズ累計400万部／／\n理科のテストで100点取れちゃう！！\n「笑いながら理科の知識が学べるところが大好きです」\n「子供が夢中になって読んでいます」\n「身近な“どうして？”をわかりやすく説明されていて、子供も大人も楽しめます」\n……とクチコミで話題沸騰!!\n★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★\nギャグ満載の超オモシロまんがで\n小学校の理科の知識がスイスイ身につく！！\nそして、科学と読書がどんどん好きになる！！\n《こんな疑問に答えます》\n◎アルゴリズムってなに？\n◎フローチャートってなに？\n◎コンピュータはどうやってプログラミング言語を理解している？\n◎座標ってなに？\n◎ロボットは人間より賢くなれる？\n◎コンピュータに虫がいる？　\n◎翼竜は恐竜か？　……etc.\n",
+      "salesDate": "2026年07月16日",
+      "series": "つかめ！理科ダマン",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101908004/101906006/101906001009",
+      "isbn": "6681311679960",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "つかめ!理科ダマン 〈12〉 最強ロボット決戦!編",
+        "author": "",
+        "score": 292,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 26
+          },
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 2
+          }
+        ],
+        "source": "combined",
+        "rank": 1,
+        "originalTitle": "つかめ！理科ダマン 〈１２〉 最強ロボット決戦！編"
+      },
+      "ranking": {
+        "title": "つかめ!理科ダマン 〈12〉 最強ロボット決戦!編",
+        "author": "",
+        "score": 292,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 26
+          },
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 2
+          }
+        ],
+        "source": "combined",
+        "rank": 1,
+        "originalTitle": "つかめ！理科ダマン 〈１２〉 最強ロボット決戦！編"
+      }
+    },
     {
       "id": "7277131207271",
       "title": "蒼き鋼のアルペジオ〜海洋技術総合学院タカオ部〜　２巻",
@@ -93,8 +189,196 @@
           }
         ],
         "source": "combined",
-        "rank": 1,
+        "rank": 2,
         "originalTitle": ""
+      }
+    },
+    {
+      "id": "6194866578934",
+      "title": "誰かこの状況を説明してください！ 〜契約から始まるウェディング〜 11（アリアンローズコミックス）",
+      "author": "木野咲カズラ/徒然花",
+      "publisher": "フロンティアワークス",
+      "price": 858,
+      "url": "https://books.rakuten.co.jp/rk/6e993a0a3e4738f4aea73da8fe863343/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4055/2000019304055.jpg?_ex=600x600",
+      "caption": "契約から始まった関係だったが、真実の誓いを立て、\n晴れて本物の夫婦になったヴィオラとサーシス。\nサーシスからの溺愛がさらにパワーアップし、あま〜い毎日が続いていく。\n…そう思っていたのも束の間、近衛隊に新たな仕事が降ってきて、波乱の予感！\n──時を同じくして、2人の周辺では新たなラブが芽生え始めていて!?\nこれが恋しい…ってやつ？\n昼下がりの公爵家で繰り広げられるガールズトーク?\n完全描き下ろし番外編「ティータイムは恋バナを添えて」を特別収録した第11巻！\n【電子限定「身代わり伯爵令嬢だけれど、婚約者代理はご勘弁！」試し読み付き】\n",
+      "salesDate": "2025年12月12日",
+      "series": "誰かこの状況を説明してください！ 〜契約から始まるウェディング〜",
+      "reviewAverage": 5,
+      "reviewCount": 1,
+      "genreId": "101904090",
+      "isbn": "6194866578934",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "コミック",
+        "author": "",
+        "score": 158,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 2
+          }
+        ],
+        "source": "combined",
+        "rank": 5,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "コミック",
+        "author": "",
+        "score": 158,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 2
+          }
+        ],
+        "source": "combined",
+        "rank": 3,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "4972000161519",
+      "title": "口に関するアンケート",
+      "author": "背筋/押見修造",
+      "publisher": "集英社",
+      "price": 770,
+      "url": "https://books.rakuten.co.jp/rk/01cd4b6cdc7f3e6199d1b28fef44b1c5/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2090/2000021122090.jpg?_ex=600x600",
+      "caption": "【デジタル版限定！「少年ジャンプ＋」掲載時のカラーページを完全収録!!】「肝試しになんて行かなければ、杏は死ななかったと思いますから」　心霊スポットとして知られる墓地に、肝試しに行った大学生たち。しかしその1ヶ月後、参加者の1人である杏が自殺してしまう。肝試しの夜にあったことをそれぞれが語っていくうちに、彼らが隠しているものが明らかになっていき…。\n",
+      "salesDate": "2026年08月04日",
+      "series": "口に関するアンケート",
+      "reviewAverage": 3.33,
+      "reviewCount": 4,
+      "genreId": "101904001007",
+      "isbn": "4972000161519",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "口に関するアンケート",
+        "author": "",
+        "score": 155,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
+        "rank": 11,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "口に関するアンケート",
+        "author": "",
+        "score": 155,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
+        "rank": 4,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "8916131544552",
+      "title": "金のEX DVD vol.33 ライト版",
+      "author": "大洋図書",
+      "publisher": "大洋図書",
+      "price": 660,
+      "url": "https://books.rakuten.co.jp/rk/15d16f761058330e920d860e2826e390/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7099/2000021547099.jpg?_ex=600x600",
+      "caption": "今が旬のグラビアアイドルお宝マル秘映像を収録したDVD付き大衆誌!第33弾!\n絶好調！グラビアアイドル偏愛誌\n衝撃の（秘）映像\n24コンテンツ\nDVD4時間＋α増量!!\n全開NUDEてんこ盛り\n袋とじ2本!!\n総勢46人収録!!\nCOVER GIRL\n橋本梨菜\n撮り下ろし封入20分!!\nPOWER GRAVURE\n“部屋ヌード”見せます\n双葉りせ&北岡果林\n魅せます!ロリキュート!!\n※付録DVDは付いていません。\n※プレゼントページなど、紙の雑誌をご購入いただかないとご利用になれないコンテンツがあります。\n以上をご理解のうえ、ご利用ください。\n",
+      "salesDate": "2026年08月24日",
+      "series": "",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101950001",
+      "isbn": "8916131544552",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "DVD",
+        "author": "",
+        "score": 154,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 6
+          }
+        ],
+        "source": "combined",
+        "rank": 12,
+        "originalTitle": "ＤＶＤ"
+      },
+      "ranking": {
+        "title": "DVD",
+        "author": "",
+        "score": 154,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 6
+          }
+        ],
+        "source": "combined",
+        "rank": 5,
+        "originalTitle": "ＤＶＤ"
+      }
+    },
+    {
+      "id": "4524815633410",
+      "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
+      "author": "堀田 秀吾",
+      "publisher": "SBクリエイティブ",
+      "price": 1760,
+      "url": "https://books.rakuten.co.jp/rk/79a1d43cefcb3337b3e2363c5f00a07e/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1658/2000018091658.jpg?_ex=600x600",
+      "caption": "勉強・ダイエット・貯金・目標達成…は習慣化が10割\n仕事、ダイエット、健康管理、勉強、目標達成…すべて成功のカギは「習慣化」にあります。\nしかし間違った習慣を身につけてしまったらその代償は大きくなってしまいます。\n何をどう習慣化すればいいか、そのために重要になるのが「エビデンス」です。\n・もし「A」をしたら「B」をすると、あらかじめ決めておく\n・選択肢は必ず「3つ」用意しておく\n・常にポジティブな言葉を使うーつらさに対する耐性が高まる\n・52分間作業して、17分休憩するー生産性が高まるetc.\n本書は、ハーバード、スタンフォード、オックスフォード…などの研究機関において証明されたテクニックを112個紹介。\n見開き図解入りでわかりやすい。気になったテクニックからはじめられ、情報収集のためにも役立ち、また読みものとしても楽しめる一冊です。\n※カバー画像が異なる場合があります。\n",
+      "salesDate": "2025年07月02日",
+      "series": "",
+      "reviewAverage": 3.7,
+      "reviewCount": 366,
+      "genreId": "101905090",
+      "isbn": "4524815633410",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ハーバード、スタンフォード、オックスフォード... 科学的に証明された すごい習慣大百科",
+        "author": "",
+        "score": 152,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 17,
+        "originalTitle": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科"
+      },
+      "ranking": {
+        "title": "ハーバード、スタンフォード、オックスフォード... 科学的に証明された すごい習慣大百科",
+        "author": "",
+        "score": 152,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 6,
+        "originalTitle": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科"
       }
     },
     {
@@ -140,101 +424,101 @@
           }
         ],
         "source": "combined",
-        "rank": 2,
+        "rank": 7,
         "originalTitle": ""
       }
     },
     {
-      "id": "4380000407898",
-      "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-      "author": "林真理子",
-      "publisher": "幻冬舎",
-      "price": 982,
-      "url": "https://books.rakuten.co.jp/rk/1e28fc1db6b83578b06b0919e0a52cd7/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0908/2000020490908.jpg?_ex=600x600",
-      "caption": "70代は頭も体もまだ大丈夫。\nそれなりに蓄えもできている。\nでもこれまでと全く同じことをしていたらダメ。\nできないことは諦め、楽しいことを大事にし、人生の新しいステージに立とう。\n同じ年代とばかりつるまず、ダイエットはしない。\n嫌われずに自慢話をするテクニック、お金にキレイな人と思われるおごり方ーー。\n72歳の人気作家が本音で語る「健康」「おしゃれ」「仕事」「お金」「人間関係」「趣味」。\n確実に近づく「その日」を見つめ、今の1分1秒を楽しんで生きるための、痛快・人生論。\n",
-      "salesDate": "2026年05月27日",
-      "series": "",
-      "reviewAverage": 3.3,
-      "reviewCount": 41,
-      "genreId": "101907010004/101909",
-      "isbn": "4380000407898",
+      "id": "4970000700308",
+      "title": "ONE PIECE novel ZORO",
+      "author": "尾田栄一郎/江坂純/なかまる",
+      "publisher": "集英社",
+      "price": 924,
+      "url": "https://books.rakuten.co.jp/rk/e51e471b67b936b2a1d365b686e512c8/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3673/2000021103673.jpg?_ex=600x600",
+      "caption": "『ONE PIECE magazine』にて好評連載されたゾロの過去編ストーリー「ONE PIECE novel ZORO」を、書き下ろしエピソードを加えて書籍化！　麦わらの一味の一員であるロロノア・ゾロがシモツキ村を出て、ルフィと出会うまでの物語を描く。「世界一の剣豪になるーー」くいなとの約束を果たすべく、ゾロの長い旅が始まる!!\n",
+      "salesDate": "2026年07月03日",
+      "series": "ONE PIECE novel ZORO",
+      "reviewAverage": 4,
+      "reviewCount": 1,
+      "genreId": "101903090",
+      "isbn": "4970000700308",
       "salesType": 0,
       "matchMeta": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 幻冬舎新書",
+        "title": "ONE PIECE novel ZORO",
         "author": "",
-        "score": 144,
+        "score": 151,
         "sources": [
           {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 16
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 9
           }
         ],
         "source": "combined",
-        "rank": 21,
-        "originalTitle": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書"
-      },
-      "ranking": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 幻冬舎新書",
-        "author": "",
-        "score": 144,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 16
-          }
-        ],
-        "source": "combined",
-        "rank": 3,
-        "originalTitle": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書"
-      }
-    },
-    {
-      "id": "4660629612104",
-      "title": "イン・ザ・メガチャーチ",
-      "author": "朝井リョウ",
-      "publisher": "日経BP",
-      "price": 2200,
-      "url": "https://books.rakuten.co.jp/rk/d3fd58a999d73fbaaf1de480b1d262ba/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3254/2000018463254.jpg?_ex=600x600",
-      "caption": "☆2026年本屋大賞受賞☆\n【第9回未来屋小説大賞】\n【第2回あの本、読みました？大賞】\n沈みゆく列島で、“界隈”は沸騰するーー。\nあるアイドルグループの運営に参画することになった、家族と離れて暮らす男。内向的で繊細な気質ゆえ積み重なる心労を癒やしたい大学生。仲間と楽しく舞台俳優を応援していたが、とある報道で状況が一変する女。ファンダム経済を仕掛ける側、のめり込む側、かつてのめり込んでいた側ーー世代も立場も異なる３つの視点から、人の心を動かす“物語”の功罪を炙り出す。\n「神がいないこの国で人を操るには、“物語”を使うのが一番いいんですよ」\n",
-      "salesDate": "2025年09月03日",
-      "series": "",
-      "reviewAverage": 4.29,
-      "reviewCount": 3373,
-      "genreId": "101901",
-      "isbn": "4660629612104",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "イン・ザ・メガチャーチ",
-        "author": "",
-        "score": 129,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 31
-          }
-        ],
-        "source": "combined",
-        "rank": 34,
+        "rank": 19,
         "originalTitle": ""
       },
       "ranking": {
-        "title": "イン・ザ・メガチャーチ",
+        "title": "ONE PIECE novel ZORO",
         "author": "",
-        "score": 129,
+        "score": 151,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 8,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "4310000890409",
+      "title": "楽園",
+      "author": "夕木春央",
+      "publisher": "講談社",
+      "price": 1980,
+      "url": "https://books.rakuten.co.jp/rk/1a1c684dcee83b98b4d0187187c813d0/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1651/2000021221651.jpg?_ex=600x600",
+      "caption": "殺人犯にならなければ脱出できない。\n『方舟』『十戒』の著者が仕掛ける“禁忌の驚き”\n亡き両親から不動産を譲り受けた康之は、失踪した賃借人・海原の遺留品整理の際に、群馬の山奥の謎の物件の存在を知る。そこは、切り立った岩壁に囲まれた、「楽園」と呼ばれる奇妙な場所だった。恋人の沙織と一緒にそこを訪ね、探索をはじめた康之たちは、すぐに六人の“住人”に拿捕された。脱出のための条件はーー\n「誰か一人を殺さなければならない」\n『方舟』\n第19回オリコン上半期”本”ランキング　文庫ランキングTOP10 第1位\n週刊文春ミステリーベスト10　第1位　（「週刊文春」2022年12月8日号）国内部門\nMRC大賞2022　第1位\n『方舟』＋『十戒』の累計発行部数が100万部突破。\nーー夕木春央が描く、極限のクローズド・サークル。\n",
+      "salesDate": "2026年07月22日",
+      "series": "楽園",
+      "reviewAverage": 4.24,
+      "reviewCount": 319,
+      "genreId": "101902",
+      "isbn": "4310000890409",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "楽園",
+        "author": "",
+        "score": 130,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 31
+            "rank": 30
           }
         ],
         "source": "combined",
-        "rank": 4,
+        "rank": 33,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "楽園",
+        "author": "",
+        "score": 130,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 30
+          }
+        ],
+        "source": "combined",
+        "rank": 9,
         "originalTitle": ""
       }
     },
@@ -281,62 +565,61 @@
           }
         ],
         "source": "combined",
-        "rank": 5,
+        "rank": 10,
         "originalTitle": ""
       }
     }
   ],
   "byGenre": {
-    "fiction": [
+    "fiction": [],
+    "mystery": [
       {
-        "id": "4660629612104",
-        "title": "イン・ザ・メガチャーチ",
-        "author": "朝井リョウ",
-        "publisher": "日経BP",
-        "price": 2200,
-        "url": "https://books.rakuten.co.jp/rk/d3fd58a999d73fbaaf1de480b1d262ba/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3254/2000018463254.jpg?_ex=600x600",
-        "caption": "☆2026年本屋大賞受賞☆\n【第9回未来屋小説大賞】\n【第2回あの本、読みました？大賞】\n沈みゆく列島で、“界隈”は沸騰するーー。\nあるアイドルグループの運営に参画することになった、家族と離れて暮らす男。内向的で繊細な気質ゆえ積み重なる心労を癒やしたい大学生。仲間と楽しく舞台俳優を応援していたが、とある報道で状況が一変する女。ファンダム経済を仕掛ける側、のめり込む側、かつてのめり込んでいた側ーー世代も立場も異なる３つの視点から、人の心を動かす“物語”の功罪を炙り出す。\n「神がいないこの国で人を操るには、“物語”を使うのが一番いいんですよ」\n",
-        "salesDate": "2025年09月03日",
-        "series": "",
-        "reviewAverage": 4.29,
-        "reviewCount": 3373,
-        "genreId": "101901",
-        "isbn": "4660629612104",
+        "id": "4310000890409",
+        "title": "楽園",
+        "author": "夕木春央",
+        "publisher": "講談社",
+        "price": 1980,
+        "url": "https://books.rakuten.co.jp/rk/1a1c684dcee83b98b4d0187187c813d0/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1651/2000021221651.jpg?_ex=600x600",
+        "caption": "殺人犯にならなければ脱出できない。\n『方舟』『十戒』の著者が仕掛ける“禁忌の驚き”\n亡き両親から不動産を譲り受けた康之は、失踪した賃借人・海原の遺留品整理の際に、群馬の山奥の謎の物件の存在を知る。そこは、切り立った岩壁に囲まれた、「楽園」と呼ばれる奇妙な場所だった。恋人の沙織と一緒にそこを訪ね、探索をはじめた康之たちは、すぐに六人の“住人”に拿捕された。脱出のための条件はーー\n「誰か一人を殺さなければならない」\n『方舟』\n第19回オリコン上半期”本”ランキング　文庫ランキングTOP10 第1位\n週刊文春ミステリーベスト10　第1位　（「週刊文春」2022年12月8日号）国内部門\nMRC大賞2022　第1位\n『方舟』＋『十戒』の累計発行部数が100万部突破。\nーー夕木春央が描く、極限のクローズド・サークル。\n",
+        "salesDate": "2026年07月22日",
+        "series": "楽園",
+        "reviewAverage": 4.24,
+        "reviewCount": 319,
+        "genreId": "101902",
+        "isbn": "4310000890409",
         "salesType": 0,
         "matchMeta": {
-          "title": "イン・ザ・メガチャーチ",
+          "title": "楽園",
           "author": "",
-          "score": 129,
+          "score": 130,
           "sources": [
             {
               "source": "kinokuniya",
               "label": "紀伊國屋書店",
-              "rank": 31
+              "rank": 30
             }
           ],
           "source": "combined",
-          "rank": 34,
+          "rank": 33,
           "originalTitle": ""
         },
         "ranking": {
-          "title": "イン・ザ・メガチャーチ",
+          "title": "楽園",
           "author": "",
-          "score": 129,
+          "score": 130,
           "sources": [
             {
               "source": "kinokuniya",
               "label": "紀伊國屋書店",
-              "rank": 31
+              "rank": 30
             }
           ],
           "source": "combined",
-          "rank": 4,
+          "rank": 9,
           "originalTitle": ""
         }
-      }
-    ],
-    "mystery": [
+      },
       {
         "id": "4310000894648",
         "title": "殺し屋の出世術",
@@ -380,13 +663,61 @@
             }
           ],
           "source": "combined",
-          "rank": 5,
+          "rank": 10,
           "originalTitle": ""
         }
       }
     ],
     "sf": [],
-    "business": [],
+    "business": [
+      {
+        "id": "4524815633410",
+        "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
+        "author": "堀田 秀吾",
+        "publisher": "SBクリエイティブ",
+        "price": 1760,
+        "url": "https://books.rakuten.co.jp/rk/79a1d43cefcb3337b3e2363c5f00a07e/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1658/2000018091658.jpg?_ex=600x600",
+        "caption": "勉強・ダイエット・貯金・目標達成…は習慣化が10割\n仕事、ダイエット、健康管理、勉強、目標達成…すべて成功のカギは「習慣化」にあります。\nしかし間違った習慣を身につけてしまったらその代償は大きくなってしまいます。\n何をどう習慣化すればいいか、そのために重要になるのが「エビデンス」です。\n・もし「A」をしたら「B」をすると、あらかじめ決めておく\n・選択肢は必ず「3つ」用意しておく\n・常にポジティブな言葉を使うーつらさに対する耐性が高まる\n・52分間作業して、17分休憩するー生産性が高まるetc.\n本書は、ハーバード、スタンフォード、オックスフォード…などの研究機関において証明されたテクニックを112個紹介。\n見開き図解入りでわかりやすい。気になったテクニックからはじめられ、情報収集のためにも役立ち、また読みものとしても楽しめる一冊です。\n※カバー画像が異なる場合があります。\n",
+        "salesDate": "2025年07月02日",
+        "series": "",
+        "reviewAverage": 3.7,
+        "reviewCount": 366,
+        "genreId": "101905090",
+        "isbn": "4524815633410",
+        "salesType": 0,
+        "matchMeta": {
+          "title": "ハーバード、スタンフォード、オックスフォード... 科学的に証明された すごい習慣大百科",
+          "author": "",
+          "score": 152,
+          "sources": [
+            {
+              "source": "tohan",
+              "label": "トーハン",
+              "rank": 8
+            }
+          ],
+          "source": "combined",
+          "rank": 17,
+          "originalTitle": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科"
+        },
+        "ranking": {
+          "title": "ハーバード、スタンフォード、オックスフォード... 科学的に証明された すごい習慣大百科",
+          "author": "",
+          "score": 152,
+          "sources": [
+            {
+              "source": "tohan",
+              "label": "トーハン",
+              "rank": 8
+            }
+          ],
+          "source": "combined",
+          "rank": 6,
+          "originalTitle": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科"
+        }
+      }
+    ],
     "humanities": [
       {
         "id": "7275000880621",
@@ -431,60 +762,71 @@
             }
           ],
           "source": "combined",
-          "rank": 2,
+          "rank": 7,
           "originalTitle": ""
-        }
-      },
-      {
-        "id": "4380000407898",
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-        "author": "林真理子",
-        "publisher": "幻冬舎",
-        "price": 982,
-        "url": "https://books.rakuten.co.jp/rk/1e28fc1db6b83578b06b0919e0a52cd7/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0908/2000020490908.jpg?_ex=600x600",
-        "caption": "70代は頭も体もまだ大丈夫。\nそれなりに蓄えもできている。\nでもこれまでと全く同じことをしていたらダメ。\nできないことは諦め、楽しいことを大事にし、人生の新しいステージに立とう。\n同じ年代とばかりつるまず、ダイエットはしない。\n嫌われずに自慢話をするテクニック、お金にキレイな人と思われるおごり方ーー。\n72歳の人気作家が本音で語る「健康」「おしゃれ」「仕事」「お金」「人間関係」「趣味」。\n確実に近づく「その日」を見つめ、今の1分1秒を楽しんで生きるための、痛快・人生論。\n",
-        "salesDate": "2026年05月27日",
-        "series": "",
-        "reviewAverage": 3.3,
-        "reviewCount": 41,
-        "genreId": "101907010004/101909",
-        "isbn": "4380000407898",
-        "salesType": 0,
-        "matchMeta": {
-          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 幻冬舎新書",
-          "author": "",
-          "score": 144,
-          "sources": [
-            {
-              "source": "kinokuniya",
-              "label": "紀伊國屋書店",
-              "rank": 16
-            }
-          ],
-          "source": "combined",
-          "rank": 21,
-          "originalTitle": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書"
-        },
-        "ranking": {
-          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 幻冬舎新書",
-          "author": "",
-          "score": 144,
-          "sources": [
-            {
-              "source": "kinokuniya",
-              "label": "紀伊國屋書店",
-              "rank": 16
-            }
-          ],
-          "source": "combined",
-          "rank": 3,
-          "originalTitle": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書"
         }
       }
     ],
     "nonfiction": [],
-    "science": [],
+    "science": [
+      {
+        "id": "6681311679960",
+        "title": "つかめ！理科ダマン 12 最強ロボット決戦！編",
+        "author": "シン・テフン/ナ・スンフン/呉華順",
+        "publisher": "マガジンハウス",
+        "price": 1320,
+        "url": "https://books.rakuten.co.jp/rk/d5144a342674388cb89766522b26d5f0/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6738/2000021036738.jpg?_ex=600x600",
+        "caption": "■注目のシリーズ第12巻は、ロボット世界大会の決戦編！■\n恐竜ロボット大会の勝者を決める決戦がいよいよ始まる！\nシンとグゥのチームが戦うライバルチームに、弱点はあるのか!?\n優勝を目指すシンたちといっしょに\nプログラミングやA I、恐竜にまつわる19の疑問が楽しく学べます。\n★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★\n＼＼日韓でシリーズ累計400万部／／\n理科のテストで100点取れちゃう！！\n「笑いながら理科の知識が学べるところが大好きです」\n「子供が夢中になって読んでいます」\n「身近な“どうして？”をわかりやすく説明されていて、子供も大人も楽しめます」\n……とクチコミで話題沸騰!!\n★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★\nギャグ満載の超オモシロまんがで\n小学校の理科の知識がスイスイ身につく！！\nそして、科学と読書がどんどん好きになる！！\n《こんな疑問に答えます》\n◎アルゴリズムってなに？\n◎フローチャートってなに？\n◎コンピュータはどうやってプログラミング言語を理解している？\n◎座標ってなに？\n◎ロボットは人間より賢くなれる？\n◎コンピュータに虫がいる？　\n◎翼竜は恐竜か？　……etc.\n",
+        "salesDate": "2026年07月16日",
+        "series": "つかめ！理科ダマン",
+        "reviewAverage": 0,
+        "reviewCount": 0,
+        "genreId": "101908004/101906006/101906001009",
+        "isbn": "6681311679960",
+        "salesType": 0,
+        "matchMeta": {
+          "title": "つかめ!理科ダマン 〈12〉 最強ロボット決戦!編",
+          "author": "",
+          "score": 292,
+          "sources": [
+            {
+              "source": "kinokuniya",
+              "label": "紀伊國屋書店",
+              "rank": 26
+            },
+            {
+              "source": "tohan",
+              "label": "トーハン",
+              "rank": 2
+            }
+          ],
+          "source": "combined",
+          "rank": 1,
+          "originalTitle": "つかめ！理科ダマン 〈１２〉 最強ロボット決戦！編"
+        },
+        "ranking": {
+          "title": "つかめ!理科ダマン 〈12〉 最強ロボット決戦!編",
+          "author": "",
+          "score": 292,
+          "sources": [
+            {
+              "source": "kinokuniya",
+              "label": "紀伊國屋書店",
+              "rank": 26
+            },
+            {
+              "source": "tohan",
+              "label": "トーハン",
+              "rank": 2
+            }
+          ],
+          "source": "combined",
+          "rank": 1,
+          "originalTitle": "つかめ！理科ダマン 〈１２〉 最強ロボット決戦！編"
+        }
+      }
+    ],
     "it": [],
     "life": [
       {
@@ -530,55 +872,8 @@
             }
           ],
           "source": "combined",
-          "rank": 2,
+          "rank": 7,
           "originalTitle": ""
-        }
-      },
-      {
-        "id": "4380000407898",
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-        "author": "林真理子",
-        "publisher": "幻冬舎",
-        "price": 982,
-        "url": "https://books.rakuten.co.jp/rk/1e28fc1db6b83578b06b0919e0a52cd7/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0908/2000020490908.jpg?_ex=600x600",
-        "caption": "70代は頭も体もまだ大丈夫。\nそれなりに蓄えもできている。\nでもこれまでと全く同じことをしていたらダメ。\nできないことは諦め、楽しいことを大事にし、人生の新しいステージに立とう。\n同じ年代とばかりつるまず、ダイエットはしない。\n嫌われずに自慢話をするテクニック、お金にキレイな人と思われるおごり方ーー。\n72歳の人気作家が本音で語る「健康」「おしゃれ」「仕事」「お金」「人間関係」「趣味」。\n確実に近づく「その日」を見つめ、今の1分1秒を楽しんで生きるための、痛快・人生論。\n",
-        "salesDate": "2026年05月27日",
-        "series": "",
-        "reviewAverage": 3.3,
-        "reviewCount": 41,
-        "genreId": "101907010004/101909",
-        "isbn": "4380000407898",
-        "salesType": 0,
-        "matchMeta": {
-          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 幻冬舎新書",
-          "author": "",
-          "score": 144,
-          "sources": [
-            {
-              "source": "kinokuniya",
-              "label": "紀伊國屋書店",
-              "rank": 16
-            }
-          ],
-          "source": "combined",
-          "rank": 21,
-          "originalTitle": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書"
-        },
-        "ranking": {
-          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 幻冬舎新書",
-          "author": "",
-          "score": 144,
-          "sources": [
-            {
-              "source": "kinokuniya",
-              "label": "紀伊國屋書店",
-              "rank": 16
-            }
-          ],
-          "source": "combined",
-          "rank": 3,
-          "originalTitle": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書"
         }
       }
     ],
@@ -586,6 +881,63 @@
     "hobby": [],
     "travel": [],
     "language": [
+      {
+        "id": "6681311679960",
+        "title": "つかめ！理科ダマン 12 最強ロボット決戦！編",
+        "author": "シン・テフン/ナ・スンフン/呉華順",
+        "publisher": "マガジンハウス",
+        "price": 1320,
+        "url": "https://books.rakuten.co.jp/rk/d5144a342674388cb89766522b26d5f0/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6738/2000021036738.jpg?_ex=600x600",
+        "caption": "■注目のシリーズ第12巻は、ロボット世界大会の決戦編！■\n恐竜ロボット大会の勝者を決める決戦がいよいよ始まる！\nシンとグゥのチームが戦うライバルチームに、弱点はあるのか!?\n優勝を目指すシンたちといっしょに\nプログラミングやA I、恐竜にまつわる19の疑問が楽しく学べます。\n★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★\n＼＼日韓でシリーズ累計400万部／／\n理科のテストで100点取れちゃう！！\n「笑いながら理科の知識が学べるところが大好きです」\n「子供が夢中になって読んでいます」\n「身近な“どうして？”をわかりやすく説明されていて、子供も大人も楽しめます」\n……とクチコミで話題沸騰!!\n★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★\nギャグ満載の超オモシロまんがで\n小学校の理科の知識がスイスイ身につく！！\nそして、科学と読書がどんどん好きになる！！\n《こんな疑問に答えます》\n◎アルゴリズムってなに？\n◎フローチャートってなに？\n◎コンピュータはどうやってプログラミング言語を理解している？\n◎座標ってなに？\n◎ロボットは人間より賢くなれる？\n◎コンピュータに虫がいる？　\n◎翼竜は恐竜か？　……etc.\n",
+        "salesDate": "2026年07月16日",
+        "series": "つかめ！理科ダマン",
+        "reviewAverage": 0,
+        "reviewCount": 0,
+        "genreId": "101908004/101906006/101906001009",
+        "isbn": "6681311679960",
+        "salesType": 0,
+        "matchMeta": {
+          "title": "つかめ!理科ダマン 〈12〉 最強ロボット決戦!編",
+          "author": "",
+          "score": 292,
+          "sources": [
+            {
+              "source": "kinokuniya",
+              "label": "紀伊國屋書店",
+              "rank": 26
+            },
+            {
+              "source": "tohan",
+              "label": "トーハン",
+              "rank": 2
+            }
+          ],
+          "source": "combined",
+          "rank": 1,
+          "originalTitle": "つかめ！理科ダマン 〈１２〉 最強ロボット決戦！編"
+        },
+        "ranking": {
+          "title": "つかめ!理科ダマン 〈12〉 最強ロボット決戦!編",
+          "author": "",
+          "score": 292,
+          "sources": [
+            {
+              "source": "kinokuniya",
+              "label": "紀伊國屋書店",
+              "rank": 26
+            },
+            {
+              "source": "tohan",
+              "label": "トーハン",
+              "rank": 2
+            }
+          ],
+          "source": "combined",
+          "rank": 1,
+          "originalTitle": "つかめ！理科ダマン 〈１２〉 最強ロボット決戦！編"
+        }
+      },
       {
         "id": "7275000880621",
         "title": "【電子書籍限定】LDK 神やせダイエット the Best",
@@ -629,7 +981,7 @@
             }
           ],
           "source": "combined",
-          "rank": 2,
+          "rank": 7,
           "originalTitle": ""
         }
       }
@@ -680,7 +1032,101 @@
             }
           ],
           "source": "combined",
-          "rank": 1,
+          "rank": 2,
+          "originalTitle": ""
+        }
+      },
+      {
+        "id": "6194866578934",
+        "title": "誰かこの状況を説明してください！ 〜契約から始まるウェディング〜 11（アリアンローズコミックス）",
+        "author": "木野咲カズラ/徒然花",
+        "publisher": "フロンティアワークス",
+        "price": 858,
+        "url": "https://books.rakuten.co.jp/rk/6e993a0a3e4738f4aea73da8fe863343/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4055/2000019304055.jpg?_ex=600x600",
+        "caption": "契約から始まった関係だったが、真実の誓いを立て、\n晴れて本物の夫婦になったヴィオラとサーシス。\nサーシスからの溺愛がさらにパワーアップし、あま〜い毎日が続いていく。\n…そう思っていたのも束の間、近衛隊に新たな仕事が降ってきて、波乱の予感！\n──時を同じくして、2人の周辺では新たなラブが芽生え始めていて!?\nこれが恋しい…ってやつ？\n昼下がりの公爵家で繰り広げられるガールズトーク?\n完全描き下ろし番外編「ティータイムは恋バナを添えて」を特別収録した第11巻！\n【電子限定「身代わり伯爵令嬢だけれど、婚約者代理はご勘弁！」試し読み付き】\n",
+        "salesDate": "2025年12月12日",
+        "series": "誰かこの状況を説明してください！ 〜契約から始まるウェディング〜",
+        "reviewAverage": 5,
+        "reviewCount": 1,
+        "genreId": "101904090",
+        "isbn": "6194866578934",
+        "salesType": 0,
+        "matchMeta": {
+          "title": "コミック",
+          "author": "",
+          "score": 158,
+          "sources": [
+            {
+              "source": "kinokuniya",
+              "label": "紀伊國屋書店",
+              "rank": 2
+            }
+          ],
+          "source": "combined",
+          "rank": 5,
+          "originalTitle": ""
+        },
+        "ranking": {
+          "title": "コミック",
+          "author": "",
+          "score": 158,
+          "sources": [
+            {
+              "source": "kinokuniya",
+              "label": "紀伊國屋書店",
+              "rank": 2
+            }
+          ],
+          "source": "combined",
+          "rank": 3,
+          "originalTitle": ""
+        }
+      },
+      {
+        "id": "4972000161519",
+        "title": "口に関するアンケート",
+        "author": "背筋/押見修造",
+        "publisher": "集英社",
+        "price": 770,
+        "url": "https://books.rakuten.co.jp/rk/01cd4b6cdc7f3e6199d1b28fef44b1c5/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2090/2000021122090.jpg?_ex=600x600",
+        "caption": "【デジタル版限定！「少年ジャンプ＋」掲載時のカラーページを完全収録!!】「肝試しになんて行かなければ、杏は死ななかったと思いますから」　心霊スポットとして知られる墓地に、肝試しに行った大学生たち。しかしその1ヶ月後、参加者の1人である杏が自殺してしまう。肝試しの夜にあったことをそれぞれが語っていくうちに、彼らが隠しているものが明らかになっていき…。\n",
+        "salesDate": "2026年08月04日",
+        "series": "口に関するアンケート",
+        "reviewAverage": 3.33,
+        "reviewCount": 4,
+        "genreId": "101904001007",
+        "isbn": "4972000161519",
+        "salesType": 0,
+        "matchMeta": {
+          "title": "口に関するアンケート",
+          "author": "",
+          "score": 155,
+          "sources": [
+            {
+              "source": "tohan",
+              "label": "トーハン",
+              "rank": 5
+            }
+          ],
+          "source": "combined",
+          "rank": 11,
+          "originalTitle": ""
+        },
+        "ranking": {
+          "title": "口に関するアンケート",
+          "author": "",
+          "score": 155,
+          "sources": [
+            {
+              "source": "tohan",
+              "label": "トーハン",
+              "rank": 5
+            }
+          ],
+          "source": "combined",
+          "rank": 4,
           "originalTitle": ""
         }
       }
@@ -688,11 +1134,11 @@
   },
   "genreStatus": {
     "fiction": {
-      "matched": 1,
+      "matched": 0,
       "complete": true
     },
     "mystery": {
-      "matched": 1,
+      "matched": 2,
       "complete": true
     },
     "sf": {
@@ -700,11 +1146,11 @@
       "complete": true
     },
     "business": {
-      "matched": 0,
+      "matched": 1,
       "complete": true
     },
     "humanities": {
-      "matched": 2,
+      "matched": 1,
       "complete": true
     },
     "nonfiction": {
@@ -712,7 +1158,7 @@
       "complete": true
     },
     "science": {
-      "matched": 0,
+      "matched": 1,
       "complete": true
     },
     "it": {
@@ -720,7 +1166,7 @@
       "complete": true
     },
     "life": {
-      "matched": 2,
+      "matched": 1,
       "complete": true
     },
     "health": {
@@ -736,7 +1182,7 @@
       "complete": true
     },
     "language": {
-      "matched": 1,
+      "matched": 2,
       "complete": true
     },
     "children": {
@@ -748,7 +1194,7 @@
       "complete": true
     },
     "comic": {
-      "matched": 1,
+      "matched": 3,
       "complete": true
     }
   }

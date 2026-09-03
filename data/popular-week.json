@@ -3,12 +3,15 @@
   "completed": true,
   "expandedAllPublishedRanks": true,
   "period": "week",
-  "updatedAt": "2026-09-03T16:48:00.231Z",
-  "candidateCount": 82,
-  "checked": 82,
-  "matched": 14,
+  "updatedAt": "2026-09-03T21:28:16.629Z",
+  "candidateCount": 87,
+  "checked": 87,
+  "matched": 6,
   "failedBatches": 0,
-  "unavailable": [],
+  "unavailable": [
+    "maruzen",
+    "tohan"
+  ],
   "snapshots": {
     "amazon": {
       "id": "amazon",
@@ -19,16 +22,6 @@
       "updatedAt": "2026-09-02T23:19:16.753Z",
       "live": false,
       "items": [
-        {
-          "title": "幽冥の岸 十二国記",
-          "author": "小野 不由美",
-          "rank": 8
-        },
-        {
-          "title": "キングダム 80 (ヤングジャンプコミックス)",
-          "author": "原 泰久",
-          "rank": 14
-        },
         {
           "title": "ブラック・ラグーン (14) (サンデーGXコミックス)",
           "author": "広江 礼威",
@@ -46,32 +39,6 @@
         }
       ]
     },
-    "maruzen": {
-      "id": "maruzen",
-      "label": "丸善ジュンク堂",
-      "attribution": "丸善ジュンク堂書店調べ",
-      "sourceUrl": "https://www.maruzenjunkudo.co.jp/",
-      "periodLabel": "直近7日間",
-      "updatedAt": "2026-08-27",
-      "live": false,
-      "items": [
-        {
-          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-          "author": "林真理子",
-          "rank": 4
-        },
-        {
-          "title": "容疑者Xの献身",
-          "author": "東野圭吾",
-          "rank": 7
-        },
-        {
-          "title": "ブラッディダイスの殺人 上",
-          "author": "M・W・クレイヴン",
-          "rank": 9
-        }
-      ]
-    },
     "kinokuniya": {
       "id": "kinokuniya",
       "label": "紀伊國屋書店",
@@ -82,105 +49,75 @@
       "live": true,
       "items": [
         {
-          "title": "総合",
-          "author": "Ark Performance",
-          "rank": 1
+          "title": "電子書籍",
+          "author": "晋遊舎",
+          "rank": 9
         },
         {
-          "title": "洋書",
-          "author": "林剛司",
-          "rank": 7
-        },
-        {
-          "title": "和書",
-          "author": "",
-          "rank": 8
-        },
-        {
-          "title": "知性大全 ＡＩ時代に不可欠な力",
-          "author": "樺沢紫苑",
-          "rank": 37
-        },
-        {
-          "title": "夏帆 - Ｔｈｅ Ｔａｌｅ ｏｆ ＫＡＨＯ",
-          "author": "村上春樹",
-          "rank": 40
+          "title": "少年ＡＢＣの完璧な選択",
+          "author": "結城真一郎",
+          "rank": 39
         }
       ]
     },
-    "tohan": {
-      "id": "tohan",
-      "label": "トーハン",
-      "attribution": "トーハン調べ",
-      "sourceUrl": "https://www.tohan.jp/bestsellers/2026_0825_weekly/",
-      "periodLabel": "週間",
+    "rakuten": {
+      "id": "rakuten",
+      "label": "楽天ブックス",
+      "attribution": "楽天ブックス",
+      "sourceUrl": "https://books.rakuten.co.jp/",
+      "periodLabel": "売れ筋順",
       "updatedAt": "2026-09-03",
       "live": true,
       "items": [
         {
-          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-          "author": "林真理子",
-          "rank": 3
-        },
-        {
-          "title": "ハヤブサ消防団 森へつづく道",
-          "author": "池井戸潤",
-          "rank": 4
+          "title": "カグラバチ 12",
+          "author": "外薗 健",
+          "rank": 16
         }
       ]
     }
   },
   "items": [
     {
-      "id": "4380000407898",
-      "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-      "author": "林真理子",
-      "publisher": "幻冬舎",
-      "price": 982,
-      "url": "https://books.rakuten.co.jp/rk/1e28fc1db6b83578b06b0919e0a52cd7/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0908/2000020490908.jpg?_ex=600x600",
-      "caption": "70代は頭も体もまだ大丈夫。\nそれなりに蓄えもできている。\nでもこれまでと全く同じことをしていたらダメ。\nできないことは諦め、楽しいことを大事にし、人生の新しいステージに立とう。\n同じ年代とばかりつるまず、ダイエットはしない。\n嫌われずに自慢話をするテクニック、お金にキレイな人と思われるおごり方ーー。\n72歳の人気作家が本音で語る「健康」「おしゃれ」「仕事」「お金」「人間関係」「趣味」。\n確実に近づく「その日」を見つめ、今の1分1秒を楽しんで生きるための、痛快・人生論。\n",
-      "salesDate": "2026年05月27日",
-      "series": "",
-      "reviewAverage": 3.3,
-      "reviewCount": 41,
-      "genreId": "101907010004/101909",
-      "isbn": "4380000407898",
+      "id": "7275000880621",
+      "title": "【電子書籍限定】LDK 神やせダイエット the Best",
+      "author": "晋遊舎",
+      "publisher": "晋遊舎",
+      "price": 880,
+      "url": "https://books.rakuten.co.jp/rk/c89f386443123e35b64ed0fa9e8a2d84/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2214/2000021052214.jpg?_ex=600x600",
+      "caption": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。\n「食事を減らしているのに……」\n「スイーツもガマンしているのに……」\n「体も動かしているのに……」\n「努力しているのになんでやせないの〜？」\nと嘆いているあなた！\n実はいつもの生活をちょっと変えるだけで、ラク〜にやせられます！\nこの本は、太りにくい食事の仕方やがんばらないゆる運動、\n取り入れやすいグッズやアイディアなど、\nテストする女性誌『LDK』で好評だった特集を\nギュギュッと詰め込みました！\nストイックにがんばらなくてもやせ見えできる！\nそんな神やせテクニックで、人生最後のダイエットを叶えましょう！\n※本ムックは電子書籍限定配信です。\n",
+      "salesDate": "2026年06月27日",
+      "series": "【電子書籍限定】LDK 神やせダイエット the Best",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101909014/101907014/101907001004/101906090/101913",
+      "isbn": "7275000880621",
       "salesType": 0,
       "matchMeta": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-        "author": "林真理子",
-        "score": 313,
+        "title": "電子書籍",
+        "author": "",
+        "score": 151,
         "sources": [
           {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 4
-          },
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 3
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 9
           }
         ],
         "source": "combined",
-        "rank": 2,
+        "rank": 35,
         "originalTitle": ""
       },
       "ranking": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-        "author": "林真理子",
-        "score": 313,
+        "title": "電子書籍",
+        "author": "",
+        "score": 151,
         "sources": [
           {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 4
-          },
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 3
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 9
           }
         ],
         "source": "combined",
@@ -189,379 +126,50 @@
       }
     },
     {
-      "id": "7277131207271",
-      "title": "蒼き鋼のアルペジオ〜海洋技術総合学院タカオ部〜　２巻",
-      "author": "Ark Performance",
-      "publisher": "少年画報社",
-      "price": 792,
-      "url": "https://books.rakuten.co.jp/rk/3d97afe91e563dd686fd023c6ba8795a/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1413/2000021121413.jpg?_ex=600x600",
-      "caption": "横須賀の海洋技術総合学院にタカオが潜入していた頃、突然あの《大戦艦》たちが現れ、嵐を巻き起こす!?\n",
-      "salesDate": "2026年08月28日",
-      "series": "蒼き鋼のアルペジオ〜海洋技術総合学院タカオ部〜",
+      "id": "4972000164857",
+      "title": "カグラバチ 12",
+      "author": "外薗健",
+      "publisher": "集英社",
+      "price": 572,
+      "url": "https://books.rakuten.co.jp/rk/1250fd0ab348309997f2c69cd909d68c/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5975/2000021425975.jpg?_ex=600x600",
+      "caption": "幽の体を乗っ取った剣聖と対峙するチヒロ！　悪人を皆殺しにするという自分の信念を告げる剣聖に対し、チヒロは座村と2人がかりで挑むも実力差は歴然、座村は致命傷を負ってしまう…。そんな中、チヒロの攻撃が徐々に剣聖を捉え始めーー!?\n",
+      "salesDate": "2026年09月04日",
+      "series": "カグラバチ",
       "reviewAverage": 0,
       "reviewCount": 0,
-      "genreId": "101904090",
-      "isbn": "7277131207271",
+      "genreId": "101904001007",
+      "isbn": "4972000164857",
       "salesType": 0,
       "matchMeta": {
-        "title": "総合",
-        "author": "",
-        "score": 159,
+        "title": "カグラバチ 12",
+        "author": "外薗 健",
+        "score": 144,
         "sources": [
           {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 1
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 16
           }
         ],
         "source": "combined",
-        "rank": 7,
+        "rank": 48,
         "originalTitle": ""
       },
       "ranking": {
-        "title": "総合",
-        "author": "",
-        "score": 159,
+        "title": "カグラバチ 12",
+        "author": "外薗 健",
+        "score": 144,
         "sources": [
           {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 1
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 16
           }
         ],
         "source": "combined",
         "rank": 2,
         "originalTitle": ""
-      }
-    },
-    {
-      "id": "4820000903843",
-      "title": "ハヤブサ消防団　森へつづく道",
-      "author": "池井戸潤",
-      "publisher": "集英社",
-      "price": 2200,
-      "url": "https://books.rakuten.co.jp/rk/8b8de7f162953f1aa6c2fba789f5c5b5/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9371/2000021419371.jpg?_ex=600x600",
-      "caption": "【田園暮らしのミステリ作家vs美貌の歴史ミステリ作家】\nドラマ化＆柴田錬三郎賞受賞の大ヒットミステリ、待望のシリーズ新作登場！\nミステリ作家の三馬太郎が自然豊かな八百万町ハヤブサ地区に移り住んで数年。地元消防団の一員としても忙しい毎日を過ごすうち、とある文学賞にノミネート！　最大のライバル候補は、今をときめく美貌の歴史ミステリ作家・北原未南。だが、未南に不可解な疑惑が持ち上がる。\n一方、八百万町では、ある若い女性が我が子を残して川から水死体で発見されていた。事件の真相を探るうち、太郎は町を揺るがす巨大な疑惑に巻き込まれて……。\n【集英社創業100周年記念作品】\n■著者プロフィール：\n池井戸 潤（いけいど・じゅん）\n作家。1963年岐阜県生まれ。慶應義塾大学卒。98年『果つる底なき』で江戸川乱歩賞を受賞しデビュー。2010年『鉄の骨』で吉川英治文学新人賞、11年『下町ロケット』で直木賞、23年『ハヤブサ消防団』で柴田錬三郎賞を受賞。\n主な作品に「半沢直樹」シリーズ（『オレたちバブル入行組』『ロスジェネの逆襲』『アルルカンと道化師』ほか）、「下町ロケット」シリーズ（『ガウディ計画』『ヤタガラス』ほか）、『シャイロックの子供たち』『空飛ぶタイヤ』『民王』『七つの会議』『陸王』『ノーサイド・ゲーム』『花咲舞が黙ってない』『アキラとあきら』『俺たちの箱根駅伝』『ブティック』がある。\n",
-      "salesDate": "2026年08月05日",
-      "series": "ハヤブサ消防団",
-      "reviewAverage": 4.33,
-      "reviewCount": 30,
-      "genreId": "101901/101902",
-      "isbn": "4820000903843",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ハヤブサ消防団 森へつづく道",
-        "author": "",
-        "score": 156,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
-          }
-        ],
-        "source": "combined",
-        "rank": 17,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "ハヤブサ消防団 森へつづく道",
-        "author": "",
-        "score": 156,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
-          }
-        ],
-        "source": "combined",
-        "rank": 3,
-        "originalTitle": ""
-      }
-    },
-    {
-      "id": "4390000005636",
-      "title": "容疑者Xの献身",
-      "author": "東野圭吾",
-      "publisher": "文藝春秋",
-      "price": 770,
-      "url": "https://books.rakuten.co.jp/rk/ffd6faf3b54b36bcbc30235a82624fa9/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7077/2000008377077.jpg?_ex=600x600",
-      "caption": "累計290万部突破。直木賞を受賞した大ベストセラー！\n天才数学者でありながら不遇な日々を送っていた高校教師の石神は、一人娘と暮らす隣人の靖子に秘かな想いを寄せていた。彼女たちが前夫を殺害したことを知った彼は、2人を救うため完全犯罪を企てる。だが皮肉にも、石神のかつての親友である物理学者の湯川学が、その謎に挑むことになる。ガリレオシリーズ初の長篇、直木賞受賞作。\n福山雅治主演で2008年に映画化され、堤真一、松雪泰子の熱演も話題になった。\n※この電子書籍は2008年8月に文藝春秋より刊行された文庫を底本としています\n",
-      "salesDate": "2020年04月24日",
-      "series": "",
-      "reviewAverage": 4.44,
-      "reviewCount": 2674,
-      "genreId": "101901/101902",
-      "isbn": "4390000005636",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "容疑者Xの献身",
-        "author": "東野圭吾",
-        "score": 153,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 7
-          }
-        ],
-        "source": "combined",
-        "rank": 26,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "容疑者Xの献身",
-        "author": "東野圭吾",
-        "score": 153,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 7
-          }
-        ],
-        "source": "combined",
-        "rank": 4,
-        "originalTitle": ""
-      }
-    },
-    {
-      "id": "4910000496149",
-      "title": "中学英語でもっと読みたくなる洋書の世界",
-      "author": "林剛司",
-      "publisher": "青春出版社",
-      "price": 1540,
-      "url": "https://books.rakuten.co.jp/rk/8338a8101742391da83d4723dbc90511/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1811/2000015261811.jpg?_ex=600x600",
-      "caption": "洋書をたくさん読むことで英語の「語感」が身につき、英語力が飛躍的に伸びます。本書は英語レベル別に読める洋書を解説。読みながら中学・高校時代に習った英文法の復習ポイントもおさらいしていきます。『朝日ウイークリー』で連載10年目に突入した好評シリーズの書籍化！\n",
-      "salesDate": "2024年05月23日",
-      "series": "中学英語でもっと読みたくなる洋書の世界",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101906090/101906001002",
-      "isbn": "4910000496149",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "洋書",
-        "author": "",
-        "score": 153,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 7
-          }
-        ],
-        "source": "combined",
-        "rank": 27,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "洋書",
-        "author": "",
-        "score": 153,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 7
-          }
-        ],
-        "source": "combined",
-        "rank": 5,
-        "originalTitle": ""
-      }
-    },
-    {
-      "id": "4340008067611",
-      "title": "幽冥の岸　十二国記（新潮文庫）",
-      "author": "小野不由美",
-      "publisher": "新潮社",
-      "price": 825,
-      "url": "https://books.rakuten.co.jp/rk/7e370e5630af35e8a1d65d7b3e153066/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7863/2000021417863.jpg?_ex=600x600",
-      "caption": "「生きる」ーーその理（ことわり）を知るは唯一。琅燦（ろうさん）は、黄海に暮らす娘。戴国（たいこく）から訪れた男は、妖獣を狩ることを生業（なりわい）とする民の逞しさを知る。琅燦にとっては、男が語る国や政（まつりごと）が標（しるべ）となるーー運命の邂逅（であい）を描く「異邦の客」。神獣たる麒麟は血の穢れを受けてはならぬもの。義をもってのこととて、人を殺めた泰麒（たいき）に生きる道は赦されぬのかーー表題作「幽冥の岸」ほか、命と対峙し、生きる意味を問う４編。（解説・朝宮運河）\n",
-      "salesDate": "2026年12月11日",
-      "series": "十二国記",
-      "reviewAverage": 0,
-      "reviewCount": 1,
-      "genreId": "101901",
-      "isbn": "4340008067611",
-      "salesType": 1,
-      "matchMeta": {
-        "title": "幽冥の岸 十二国記",
-        "author": "小野 不由美",
-        "score": 152,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 28,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "幽冥の岸 十二国記",
-        "author": "小野 不由美",
-        "score": 152,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 6,
-        "originalTitle": ""
-      }
-    },
-    {
-      "id": "5070000000101",
-      "title": "三和書籍図書目録2018.01［電子版］",
-      "author": "",
-      "publisher": "三和書籍",
-      "price": 0,
-      "url": "https://books.rakuten.co.jp/rk/c63e9191ed8937968f16202cf3115fe7/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8284/2000003958284.jpg?_ex=600x600",
-      "caption": "",
-      "salesDate": "2018年01月01日",
-      "series": "",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101907014/101906090",
-      "isbn": "5070000000101",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "和書",
-        "author": "",
-        "score": 152,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 30,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "和書",
-        "author": "",
-        "score": 152,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 7,
-        "originalTitle": ""
-      }
-    },
-    {
-      "id": "4620000615075",
-      "title": "ブラッディダイスの殺人　上",
-      "author": "Ｍ Ｗ クレイヴン",
-      "publisher": "早川書房",
-      "price": 1210,
-      "url": "https://books.rakuten.co.jp/rk/91ea3c43631d345d8bb867055aba005f/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9728/2000021429728.jpg?_ex=600x600",
-      "caption": "ポーとティリーが再びタッグを組む！　シリーズ累計30万部の最新作！\n英国全土で連続狙撃事件が発生。犠牲者は17人にのぼるも犯人の手がかりはなく、ポーとティリーは国家犯罪対策庁に呼び戻されるが\n",
-      "salesDate": "2026年08月19日",
-      "series": "ワシントン・ポー",
-      "reviewAverage": 4.25,
-      "reviewCount": 8,
-      "genreId": "101902",
-      "isbn": "4620000615075",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ブラッディダイスの殺人 上",
-        "author": "M・W・クレイヴン",
-        "score": 151,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 33,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "ブラッディダイスの殺人 上",
-        "author": "M・W・クレイヴン",
-        "score": 151,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 8,
-        "originalTitle": ""
-      }
-    },
-    {
-      "id": "4972000161446",
-      "title": "キングダム 80",
-      "author": "原泰久",
-      "publisher": "集英社",
-      "price": 770,
-      "url": "https://books.rakuten.co.jp/rk/050764b407853c8da27e5a42ab86656e/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2133/2000021122133.jpg?_ex=600x600",
-      "caption": "李牧の防衛網を突破せよ!!　紀元前229年 趙完全攻略戦　白熱する趙完全攻略戦。北部では、司馬尚軍と宜安・番吾からなる趙北部軍とで、王翦軍への挟撃を図ろうとする李牧の策を阻止するべく玉鳳軍が立ちはだかる。一方、中華十弓・青華雲を討ち取った飛信隊は、蒙恬の発案により、楽華軍・羌カイ軍との三軍連合攻撃を開始するが…!?\n",
-      "salesDate": "2026年08月19日",
-      "series": "キングダム",
-      "reviewAverage": 3.89,
-      "reviewCount": 9,
-      "genreId": "101904002006",
-      "isbn": "4972000161446",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "キングダム 80",
-        "author": "原 泰久",
-        "score": 146,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 14
-          }
-        ],
-        "source": "combined",
-        "rank": 42,
-        "originalTitle": "キングダム 80 (ヤングジャンプコミックス)"
-      },
-      "ranking": {
-        "title": "キングダム 80",
-        "author": "原 泰久",
-        "score": 146,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 14
-          }
-        ],
-        "source": "combined",
-        "rank": 9,
-        "originalTitle": "キングダム 80 (ヤングジャンプコミックス)"
       }
     },
     {
@@ -592,7 +200,7 @@
           }
         ],
         "source": "combined",
-        "rank": 56,
+        "rank": 61,
         "originalTitle": "ブラック・ラグーン (14) (サンデーGXコミックス)"
       },
       "ranking": {
@@ -607,7 +215,7 @@
           }
         ],
         "source": "combined",
-        "rank": 10,
+        "rank": 3,
         "originalTitle": "ブラック・ラグーン (14) (サンデーGXコミックス)"
       }
     },
@@ -639,7 +247,7 @@
           }
         ],
         "source": "combined",
-        "rank": 60,
+        "rank": 65,
         "originalTitle": "戦争犯罪と闘う 国際刑事裁判所は屈しない (文春新書 1496)"
       },
       "ranking": {
@@ -654,7 +262,7 @@
           }
         ],
         "source": "combined",
-        "rank": 11,
+        "rank": 4,
         "originalTitle": "戦争犯罪と闘う 国際刑事裁判所は屈しない (文春新書 1496)"
       }
     },
@@ -686,7 +294,7 @@
           }
         ],
         "source": "combined",
-        "rank": 62,
+        "rank": 67,
         "originalTitle": "メイドインアビス (15) (バンブーコミックス)"
       },
       "ranking": {
@@ -701,591 +309,156 @@
           }
         ],
         "source": "combined",
-        "rank": 12,
+        "rank": 5,
         "originalTitle": "メイドインアビス (15) (バンブーコミックス)"
       }
     },
     {
-      "id": "8910131398169",
-      "title": "知性大全　AI時代に不可欠な力",
-      "author": "樺沢紫苑",
-      "publisher": "サンクチュアリ出版",
-      "price": 2090,
-      "url": "https://books.rakuten.co.jp/rk/958a8a7aaea03afcae6521dd87078ba8/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8175/2000021368175.jpg?_ex=600x600",
-      "caption": "シリーズ110万部『アウトプット大全』著者・樺沢紫苑　最新刊！\nAI時代に命運をわける「知性」について、全網羅した初の本\n自ら問いを立て、考え、行動するために。\n習慣力、決断力、読解力、文章力、対話力、地頭力、思考力……\nすべての能力をアップデートせよ。\n◎CONTENTS\nCHAPTER1　「知性」とは何か？ーー知識を行動に変える　\n知性とは？\n知性と知能\n自分の頭で考える\n共創する\n知性サイクルを回す　　他\nCHAPTER2　「知る」ーーインプットの質と量を改善する\nアンテナを立てる\n好奇心を刺激する\n読解力を養う\nノイズを減らす\nSNSを育てる　　他\nCHAPTER3　「考える」ーー本質的な思考力を鍛える\n整理する\n立体的に考える\n問いを立てる\n壁打ちする\n仮説を立てる\nAIに残す\n自分で書く\nアイデアを出す 他\nCHAPTER4　「決断する」ーー意思決定でスピードを上げる\n決断して、行動する\n書いて整理する\n３つに絞る\n決断を減らす\nルール化する\nプランＢを用意する\n数値化する\n期限を決める　他\nCHAPTER5　「行動する」ーー最初の一歩で現実を変える\n特性を理解する\n言語化する\nTO DOリストを書く\nオリジナリティの注入\n徹底的に磨く\n編集する\n覚悟を決める　　他\nCHAPTER6　「フィードバックする」ーー修正力を高めて成長につなげる\n未来へ向けて準備する\nAIにフィードバックさせる\n最適解を導く\nAIに質問させる\n視座を変える\nポジティブ・フィードバックする\n反証する\n炎上を防ぐ　他\nCHAPTER7　「整える」ーー自分の心と体に向き合う\n心と身体を整える\nぐっすり眠る\n規則正しく眠る\nAIをカウンセラーにする\n脳を育てる\n運動する\n日記を書く\n悪口を手放す　　他\nCHAPTER8　AI時代にあえてすべきこと ーー人間本来の力を磨く\n（紙の本を）読む\n体験する\nリラックスする\nリアルに会う\n美意識を磨く\n料理する\n外に出る\nボーッとする　　他\n",
-      "salesDate": "2026年08月05日",
-      "series": "",
-      "reviewAverage": 4.5,
-      "reviewCount": 7,
-      "genreId": "101908008002/101905010",
-      "isbn": "8910131398169",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "知性大全 AI時代に不可欠な力",
-        "author": "",
-        "score": 123,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 37
-          }
-        ],
-        "source": "combined",
-        "rank": 75,
-        "originalTitle": "知性大全 ＡＩ時代に不可欠な力"
-      },
-      "ranking": {
-        "title": "知性大全 AI時代に不可欠な力",
-        "author": "",
-        "score": 123,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 37
-          }
-        ],
-        "source": "combined",
-        "rank": 13,
-        "originalTitle": "知性大全 ＡＩ時代に不可欠な力"
-      }
-    },
-    {
-      "id": "4340008066911",
-      "title": "夏帆ーThe Tale of KAHOー",
-      "author": "村上春樹",
+      "id": "4340008067431",
+      "title": "少年ＡＢＣの完璧な選択",
+      "author": "結城真一郎",
       "publisher": "新潮社",
-      "price": 2860,
-      "url": "https://books.rakuten.co.jp/rk/b66cc27bec2a3efd9f9dbe132947a88b/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0570/2000020430570.jpg?_ex=600x600",
-      "caption": "私はこの世界の出口を見つけなくてはならないーー。女性を主人公にした初の長編小説。「正直いって、君みたいな醜い相手は初めてだよ」　26歳の絵本作家、夏帆は初対面の男にいきなりこう告げられた。とびきり美しくも賢くもなく、ただ少しばかり好奇心の強い彼女は、怒りよりもショックよりも、ただ純粋に驚いた。しかしそれから彼女の周りでは、実にさまざまな奇妙な出来事が起こりはじめる。\n",
-      "salesDate": "2026年07月03日",
+      "price": 2090,
+      "url": "https://books.rakuten.co.jp/rk/6865a432771936a69b72823fce0fc676/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2671/2000020982671.jpg?_ex=600x600",
+      "caption": "中二の夏。俺達は幼馴染の乃愛を救うため、虐待を行う母親らを殺害した。その後、法の死角を突き、無罪放免を勝ち取った……はずだった。十五年後、乃愛が何者かによって誘拐される。誘拐犯は真犯人が名乗り出なければ乃愛を殺すと宣言し、次々暴露を行う。晒される過去、揺らぐ信頼。最後に選ぶのは、友情か、裏切りか。\n",
+      "salesDate": "2026年08月26日",
       "series": "",
-      "reviewAverage": 3.77,
-      "reviewCount": 405,
-      "genreId": "101901",
-      "isbn": "4340008066911",
+      "reviewAverage": 4,
+      "reviewCount": 1,
+      "genreId": "101902",
+      "isbn": "4340008067431",
       "salesType": 0,
       "matchMeta": {
-        "title": "夏帆 - The Tale of KAHO",
+        "title": "少年ABCの完璧な選択",
         "author": "",
-        "score": 120,
+        "score": 121,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 40
+            "rank": 39
           }
         ],
         "source": "combined",
-        "rank": 78,
-        "originalTitle": "夏帆 - Ｔｈｅ Ｔａｌｅ ｏｆ ＫＡＨＯ"
+        "rank": 82,
+        "originalTitle": "少年ＡＢＣの完璧な選択"
       },
       "ranking": {
-        "title": "夏帆 - The Tale of KAHO",
+        "title": "少年ABCの完璧な選択",
         "author": "",
-        "score": 120,
+        "score": 121,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 40
+            "rank": 39
           }
         ],
         "source": "combined",
-        "rank": 14,
-        "originalTitle": "夏帆 - Ｔｈｅ Ｔａｌｅ ｏｆ ＫＡＨＯ"
+        "rank": 6,
+        "originalTitle": "少年ＡＢＣの完璧な選択"
       }
     }
   ],
   "byGenre": {
-    "fiction": [
+    "fiction": [],
+    "mystery": [
       {
-        "id": "4820000903843",
-        "title": "ハヤブサ消防団　森へつづく道",
-        "author": "池井戸潤",
-        "publisher": "集英社",
-        "price": 2200,
-        "url": "https://books.rakuten.co.jp/rk/8b8de7f162953f1aa6c2fba789f5c5b5/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9371/2000021419371.jpg?_ex=600x600",
-        "caption": "【田園暮らしのミステリ作家vs美貌の歴史ミステリ作家】\nドラマ化＆柴田錬三郎賞受賞の大ヒットミステリ、待望のシリーズ新作登場！\nミステリ作家の三馬太郎が自然豊かな八百万町ハヤブサ地区に移り住んで数年。地元消防団の一員としても忙しい毎日を過ごすうち、とある文学賞にノミネート！　最大のライバル候補は、今をときめく美貌の歴史ミステリ作家・北原未南。だが、未南に不可解な疑惑が持ち上がる。\n一方、八百万町では、ある若い女性が我が子を残して川から水死体で発見されていた。事件の真相を探るうち、太郎は町を揺るがす巨大な疑惑に巻き込まれて……。\n【集英社創業100周年記念作品】\n■著者プロフィール：\n池井戸 潤（いけいど・じゅん）\n作家。1963年岐阜県生まれ。慶應義塾大学卒。98年『果つる底なき』で江戸川乱歩賞を受賞しデビュー。2010年『鉄の骨』で吉川英治文学新人賞、11年『下町ロケット』で直木賞、23年『ハヤブサ消防団』で柴田錬三郎賞を受賞。\n主な作品に「半沢直樹」シリーズ（『オレたちバブル入行組』『ロスジェネの逆襲』『アルルカンと道化師』ほか）、「下町ロケット」シリーズ（『ガウディ計画』『ヤタガラス』ほか）、『シャイロックの子供たち』『空飛ぶタイヤ』『民王』『七つの会議』『陸王』『ノーサイド・ゲーム』『花咲舞が黙ってない』『アキラとあきら』『俺たちの箱根駅伝』『ブティック』がある。\n",
-        "salesDate": "2026年08月05日",
-        "series": "ハヤブサ消防団",
-        "reviewAverage": 4.33,
-        "reviewCount": 30,
-        "genreId": "101901/101902",
-        "isbn": "4820000903843",
-        "salesType": 0,
-        "matchMeta": {
-          "title": "ハヤブサ消防団 森へつづく道",
-          "author": "",
-          "score": 156,
-          "sources": [
-            {
-              "source": "tohan",
-              "label": "トーハン",
-              "rank": 4
-            }
-          ],
-          "source": "combined",
-          "rank": 17,
-          "originalTitle": ""
-        },
-        "ranking": {
-          "title": "ハヤブサ消防団 森へつづく道",
-          "author": "",
-          "score": 156,
-          "sources": [
-            {
-              "source": "tohan",
-              "label": "トーハン",
-              "rank": 4
-            }
-          ],
-          "source": "combined",
-          "rank": 3,
-          "originalTitle": ""
-        }
-      },
-      {
-        "id": "4390000005636",
-        "title": "容疑者Xの献身",
-        "author": "東野圭吾",
-        "publisher": "文藝春秋",
-        "price": 770,
-        "url": "https://books.rakuten.co.jp/rk/ffd6faf3b54b36bcbc30235a82624fa9/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7077/2000008377077.jpg?_ex=600x600",
-        "caption": "累計290万部突破。直木賞を受賞した大ベストセラー！\n天才数学者でありながら不遇な日々を送っていた高校教師の石神は、一人娘と暮らす隣人の靖子に秘かな想いを寄せていた。彼女たちが前夫を殺害したことを知った彼は、2人を救うため完全犯罪を企てる。だが皮肉にも、石神のかつての親友である物理学者の湯川学が、その謎に挑むことになる。ガリレオシリーズ初の長篇、直木賞受賞作。\n福山雅治主演で2008年に映画化され、堤真一、松雪泰子の熱演も話題になった。\n※この電子書籍は2008年8月に文藝春秋より刊行された文庫を底本としています\n",
-        "salesDate": "2020年04月24日",
-        "series": "",
-        "reviewAverage": 4.44,
-        "reviewCount": 2674,
-        "genreId": "101901/101902",
-        "isbn": "4390000005636",
-        "salesType": 0,
-        "matchMeta": {
-          "title": "容疑者Xの献身",
-          "author": "東野圭吾",
-          "score": 153,
-          "sources": [
-            {
-              "source": "maruzen",
-              "label": "丸善ジュンク堂",
-              "rank": 7
-            }
-          ],
-          "source": "combined",
-          "rank": 26,
-          "originalTitle": ""
-        },
-        "ranking": {
-          "title": "容疑者Xの献身",
-          "author": "東野圭吾",
-          "score": 153,
-          "sources": [
-            {
-              "source": "maruzen",
-              "label": "丸善ジュンク堂",
-              "rank": 7
-            }
-          ],
-          "source": "combined",
-          "rank": 4,
-          "originalTitle": ""
-        }
-      },
-      {
-        "id": "4340008067611",
-        "title": "幽冥の岸　十二国記（新潮文庫）",
-        "author": "小野不由美",
+        "id": "4340008067431",
+        "title": "少年ＡＢＣの完璧な選択",
+        "author": "結城真一郎",
         "publisher": "新潮社",
-        "price": 825,
-        "url": "https://books.rakuten.co.jp/rk/7e370e5630af35e8a1d65d7b3e153066/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7863/2000021417863.jpg?_ex=600x600",
-        "caption": "「生きる」ーーその理（ことわり）を知るは唯一。琅燦（ろうさん）は、黄海に暮らす娘。戴国（たいこく）から訪れた男は、妖獣を狩ることを生業（なりわい）とする民の逞しさを知る。琅燦にとっては、男が語る国や政（まつりごと）が標（しるべ）となるーー運命の邂逅（であい）を描く「異邦の客」。神獣たる麒麟は血の穢れを受けてはならぬもの。義をもってのこととて、人を殺めた泰麒（たいき）に生きる道は赦されぬのかーー表題作「幽冥の岸」ほか、命と対峙し、生きる意味を問う４編。（解説・朝宮運河）\n",
-        "salesDate": "2026年12月11日",
-        "series": "十二国記",
-        "reviewAverage": 0,
+        "price": 2090,
+        "url": "https://books.rakuten.co.jp/rk/6865a432771936a69b72823fce0fc676/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2671/2000020982671.jpg?_ex=600x600",
+        "caption": "中二の夏。俺達は幼馴染の乃愛を救うため、虐待を行う母親らを殺害した。その後、法の死角を突き、無罪放免を勝ち取った……はずだった。十五年後、乃愛が何者かによって誘拐される。誘拐犯は真犯人が名乗り出なければ乃愛を殺すと宣言し、次々暴露を行う。晒される過去、揺らぐ信頼。最後に選ぶのは、友情か、裏切りか。\n",
+        "salesDate": "2026年08月26日",
+        "series": "",
+        "reviewAverage": 4,
         "reviewCount": 1,
-        "genreId": "101901",
-        "isbn": "4340008067611",
-        "salesType": 1,
+        "genreId": "101902",
+        "isbn": "4340008067431",
+        "salesType": 0,
         "matchMeta": {
-          "title": "幽冥の岸 十二国記",
-          "author": "小野 不由美",
-          "score": 152,
+          "title": "少年ABCの完璧な選択",
+          "author": "",
+          "score": 121,
           "sources": [
             {
-              "source": "amazon",
-              "label": "Amazon",
-              "rank": 8
+              "source": "kinokuniya",
+              "label": "紀伊國屋書店",
+              "rank": 39
             }
           ],
           "source": "combined",
-          "rank": 28,
-          "originalTitle": ""
+          "rank": 82,
+          "originalTitle": "少年ＡＢＣの完璧な選択"
         },
         "ranking": {
-          "title": "幽冥の岸 十二国記",
-          "author": "小野 不由美",
-          "score": 152,
+          "title": "少年ABCの完璧な選択",
+          "author": "",
+          "score": 121,
           "sources": [
             {
-              "source": "amazon",
-              "label": "Amazon",
-              "rank": 8
+              "source": "kinokuniya",
+              "label": "紀伊國屋書店",
+              "rank": 39
             }
           ],
           "source": "combined",
           "rank": 6,
-          "originalTitle": ""
-        }
-      },
-      {
-        "id": "4340008066911",
-        "title": "夏帆ーThe Tale of KAHOー",
-        "author": "村上春樹",
-        "publisher": "新潮社",
-        "price": 2860,
-        "url": "https://books.rakuten.co.jp/rk/b66cc27bec2a3efd9f9dbe132947a88b/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0570/2000020430570.jpg?_ex=600x600",
-        "caption": "私はこの世界の出口を見つけなくてはならないーー。女性を主人公にした初の長編小説。「正直いって、君みたいな醜い相手は初めてだよ」　26歳の絵本作家、夏帆は初対面の男にいきなりこう告げられた。とびきり美しくも賢くもなく、ただ少しばかり好奇心の強い彼女は、怒りよりもショックよりも、ただ純粋に驚いた。しかしそれから彼女の周りでは、実にさまざまな奇妙な出来事が起こりはじめる。\n",
-        "salesDate": "2026年07月03日",
-        "series": "",
-        "reviewAverage": 3.77,
-        "reviewCount": 405,
-        "genreId": "101901",
-        "isbn": "4340008066911",
-        "salesType": 0,
-        "matchMeta": {
-          "title": "夏帆 - The Tale of KAHO",
-          "author": "",
-          "score": 120,
-          "sources": [
-            {
-              "source": "kinokuniya",
-              "label": "紀伊國屋書店",
-              "rank": 40
-            }
-          ],
-          "source": "combined",
-          "rank": 78,
-          "originalTitle": "夏帆 - Ｔｈｅ Ｔａｌｅ ｏｆ ＫＡＨＯ"
-        },
-        "ranking": {
-          "title": "夏帆 - The Tale of KAHO",
-          "author": "",
-          "score": 120,
-          "sources": [
-            {
-              "source": "kinokuniya",
-              "label": "紀伊國屋書店",
-              "rank": 40
-            }
-          ],
-          "source": "combined",
-          "rank": 14,
-          "originalTitle": "夏帆 - Ｔｈｅ Ｔａｌｅ ｏｆ ＫＡＨＯ"
-        }
-      }
-    ],
-    "mystery": [
-      {
-        "id": "4820000903843",
-        "title": "ハヤブサ消防団　森へつづく道",
-        "author": "池井戸潤",
-        "publisher": "集英社",
-        "price": 2200,
-        "url": "https://books.rakuten.co.jp/rk/8b8de7f162953f1aa6c2fba789f5c5b5/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9371/2000021419371.jpg?_ex=600x600",
-        "caption": "【田園暮らしのミステリ作家vs美貌の歴史ミステリ作家】\nドラマ化＆柴田錬三郎賞受賞の大ヒットミステリ、待望のシリーズ新作登場！\nミステリ作家の三馬太郎が自然豊かな八百万町ハヤブサ地区に移り住んで数年。地元消防団の一員としても忙しい毎日を過ごすうち、とある文学賞にノミネート！　最大のライバル候補は、今をときめく美貌の歴史ミステリ作家・北原未南。だが、未南に不可解な疑惑が持ち上がる。\n一方、八百万町では、ある若い女性が我が子を残して川から水死体で発見されていた。事件の真相を探るうち、太郎は町を揺るがす巨大な疑惑に巻き込まれて……。\n【集英社創業100周年記念作品】\n■著者プロフィール：\n池井戸 潤（いけいど・じゅん）\n作家。1963年岐阜県生まれ。慶應義塾大学卒。98年『果つる底なき』で江戸川乱歩賞を受賞しデビュー。2010年『鉄の骨』で吉川英治文学新人賞、11年『下町ロケット』で直木賞、23年『ハヤブサ消防団』で柴田錬三郎賞を受賞。\n主な作品に「半沢直樹」シリーズ（『オレたちバブル入行組』『ロスジェネの逆襲』『アルルカンと道化師』ほか）、「下町ロケット」シリーズ（『ガウディ計画』『ヤタガラス』ほか）、『シャイロックの子供たち』『空飛ぶタイヤ』『民王』『七つの会議』『陸王』『ノーサイド・ゲーム』『花咲舞が黙ってない』『アキラとあきら』『俺たちの箱根駅伝』『ブティック』がある。\n",
-        "salesDate": "2026年08月05日",
-        "series": "ハヤブサ消防団",
-        "reviewAverage": 4.33,
-        "reviewCount": 30,
-        "genreId": "101901/101902",
-        "isbn": "4820000903843",
-        "salesType": 0,
-        "matchMeta": {
-          "title": "ハヤブサ消防団 森へつづく道",
-          "author": "",
-          "score": 156,
-          "sources": [
-            {
-              "source": "tohan",
-              "label": "トーハン",
-              "rank": 4
-            }
-          ],
-          "source": "combined",
-          "rank": 17,
-          "originalTitle": ""
-        },
-        "ranking": {
-          "title": "ハヤブサ消防団 森へつづく道",
-          "author": "",
-          "score": 156,
-          "sources": [
-            {
-              "source": "tohan",
-              "label": "トーハン",
-              "rank": 4
-            }
-          ],
-          "source": "combined",
-          "rank": 3,
-          "originalTitle": ""
-        }
-      },
-      {
-        "id": "4390000005636",
-        "title": "容疑者Xの献身",
-        "author": "東野圭吾",
-        "publisher": "文藝春秋",
-        "price": 770,
-        "url": "https://books.rakuten.co.jp/rk/ffd6faf3b54b36bcbc30235a82624fa9/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7077/2000008377077.jpg?_ex=600x600",
-        "caption": "累計290万部突破。直木賞を受賞した大ベストセラー！\n天才数学者でありながら不遇な日々を送っていた高校教師の石神は、一人娘と暮らす隣人の靖子に秘かな想いを寄せていた。彼女たちが前夫を殺害したことを知った彼は、2人を救うため完全犯罪を企てる。だが皮肉にも、石神のかつての親友である物理学者の湯川学が、その謎に挑むことになる。ガリレオシリーズ初の長篇、直木賞受賞作。\n福山雅治主演で2008年に映画化され、堤真一、松雪泰子の熱演も話題になった。\n※この電子書籍は2008年8月に文藝春秋より刊行された文庫を底本としています\n",
-        "salesDate": "2020年04月24日",
-        "series": "",
-        "reviewAverage": 4.44,
-        "reviewCount": 2674,
-        "genreId": "101901/101902",
-        "isbn": "4390000005636",
-        "salesType": 0,
-        "matchMeta": {
-          "title": "容疑者Xの献身",
-          "author": "東野圭吾",
-          "score": 153,
-          "sources": [
-            {
-              "source": "maruzen",
-              "label": "丸善ジュンク堂",
-              "rank": 7
-            }
-          ],
-          "source": "combined",
-          "rank": 26,
-          "originalTitle": ""
-        },
-        "ranking": {
-          "title": "容疑者Xの献身",
-          "author": "東野圭吾",
-          "score": 153,
-          "sources": [
-            {
-              "source": "maruzen",
-              "label": "丸善ジュンク堂",
-              "rank": 7
-            }
-          ],
-          "source": "combined",
-          "rank": 4,
-          "originalTitle": ""
-        }
-      },
-      {
-        "id": "4620000615075",
-        "title": "ブラッディダイスの殺人　上",
-        "author": "Ｍ Ｗ クレイヴン",
-        "publisher": "早川書房",
-        "price": 1210,
-        "url": "https://books.rakuten.co.jp/rk/91ea3c43631d345d8bb867055aba005f/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9728/2000021429728.jpg?_ex=600x600",
-        "caption": "ポーとティリーが再びタッグを組む！　シリーズ累計30万部の最新作！\n英国全土で連続狙撃事件が発生。犠牲者は17人にのぼるも犯人の手がかりはなく、ポーとティリーは国家犯罪対策庁に呼び戻されるが\n",
-        "salesDate": "2026年08月19日",
-        "series": "ワシントン・ポー",
-        "reviewAverage": 4.25,
-        "reviewCount": 8,
-        "genreId": "101902",
-        "isbn": "4620000615075",
-        "salesType": 0,
-        "matchMeta": {
-          "title": "ブラッディダイスの殺人 上",
-          "author": "M・W・クレイヴン",
-          "score": 151,
-          "sources": [
-            {
-              "source": "maruzen",
-              "label": "丸善ジュンク堂",
-              "rank": 9
-            }
-          ],
-          "source": "combined",
-          "rank": 33,
-          "originalTitle": ""
-        },
-        "ranking": {
-          "title": "ブラッディダイスの殺人 上",
-          "author": "M・W・クレイヴン",
-          "score": 151,
-          "sources": [
-            {
-              "source": "maruzen",
-              "label": "丸善ジュンク堂",
-              "rank": 9
-            }
-          ],
-          "source": "combined",
-          "rank": 8,
-          "originalTitle": ""
+          "originalTitle": "少年ＡＢＣの完璧な選択"
         }
       }
     ],
     "sf": [],
-    "business": [
-      {
-        "id": "8910131398169",
-        "title": "知性大全　AI時代に不可欠な力",
-        "author": "樺沢紫苑",
-        "publisher": "サンクチュアリ出版",
-        "price": 2090,
-        "url": "https://books.rakuten.co.jp/rk/958a8a7aaea03afcae6521dd87078ba8/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8175/2000021368175.jpg?_ex=600x600",
-        "caption": "シリーズ110万部『アウトプット大全』著者・樺沢紫苑　最新刊！\nAI時代に命運をわける「知性」について、全網羅した初の本\n自ら問いを立て、考え、行動するために。\n習慣力、決断力、読解力、文章力、対話力、地頭力、思考力……\nすべての能力をアップデートせよ。\n◎CONTENTS\nCHAPTER1　「知性」とは何か？ーー知識を行動に変える　\n知性とは？\n知性と知能\n自分の頭で考える\n共創する\n知性サイクルを回す　　他\nCHAPTER2　「知る」ーーインプットの質と量を改善する\nアンテナを立てる\n好奇心を刺激する\n読解力を養う\nノイズを減らす\nSNSを育てる　　他\nCHAPTER3　「考える」ーー本質的な思考力を鍛える\n整理する\n立体的に考える\n問いを立てる\n壁打ちする\n仮説を立てる\nAIに残す\n自分で書く\nアイデアを出す 他\nCHAPTER4　「決断する」ーー意思決定でスピードを上げる\n決断して、行動する\n書いて整理する\n３つに絞る\n決断を減らす\nルール化する\nプランＢを用意する\n数値化する\n期限を決める　他\nCHAPTER5　「行動する」ーー最初の一歩で現実を変える\n特性を理解する\n言語化する\nTO DOリストを書く\nオリジナリティの注入\n徹底的に磨く\n編集する\n覚悟を決める　　他\nCHAPTER6　「フィードバックする」ーー修正力を高めて成長につなげる\n未来へ向けて準備する\nAIにフィードバックさせる\n最適解を導く\nAIに質問させる\n視座を変える\nポジティブ・フィードバックする\n反証する\n炎上を防ぐ　他\nCHAPTER7　「整える」ーー自分の心と体に向き合う\n心と身体を整える\nぐっすり眠る\n規則正しく眠る\nAIをカウンセラーにする\n脳を育てる\n運動する\n日記を書く\n悪口を手放す　　他\nCHAPTER8　AI時代にあえてすべきこと ーー人間本来の力を磨く\n（紙の本を）読む\n体験する\nリラックスする\nリアルに会う\n美意識を磨く\n料理する\n外に出る\nボーッとする　　他\n",
-        "salesDate": "2026年08月05日",
-        "series": "",
-        "reviewAverage": 4.5,
-        "reviewCount": 7,
-        "genreId": "101908008002/101905010",
-        "isbn": "8910131398169",
-        "salesType": 0,
-        "matchMeta": {
-          "title": "知性大全 AI時代に不可欠な力",
-          "author": "",
-          "score": 123,
-          "sources": [
-            {
-              "source": "kinokuniya",
-              "label": "紀伊國屋書店",
-              "rank": 37
-            }
-          ],
-          "source": "combined",
-          "rank": 75,
-          "originalTitle": "知性大全 ＡＩ時代に不可欠な力"
-        },
-        "ranking": {
-          "title": "知性大全 AI時代に不可欠な力",
-          "author": "",
-          "score": 123,
-          "sources": [
-            {
-              "source": "kinokuniya",
-              "label": "紀伊國屋書店",
-              "rank": 37
-            }
-          ],
-          "source": "combined",
-          "rank": 13,
-          "originalTitle": "知性大全 ＡＩ時代に不可欠な力"
-        }
-      }
-    ],
+    "business": [],
     "humanities": [
       {
-        "id": "4380000407898",
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-        "author": "林真理子",
-        "publisher": "幻冬舎",
-        "price": 982,
-        "url": "https://books.rakuten.co.jp/rk/1e28fc1db6b83578b06b0919e0a52cd7/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0908/2000020490908.jpg?_ex=600x600",
-        "caption": "70代は頭も体もまだ大丈夫。\nそれなりに蓄えもできている。\nでもこれまでと全く同じことをしていたらダメ。\nできないことは諦め、楽しいことを大事にし、人生の新しいステージに立とう。\n同じ年代とばかりつるまず、ダイエットはしない。\n嫌われずに自慢話をするテクニック、お金にキレイな人と思われるおごり方ーー。\n72歳の人気作家が本音で語る「健康」「おしゃれ」「仕事」「お金」「人間関係」「趣味」。\n確実に近づく「その日」を見つめ、今の1分1秒を楽しんで生きるための、痛快・人生論。\n",
-        "salesDate": "2026年05月27日",
-        "series": "",
-        "reviewAverage": 3.3,
-        "reviewCount": 41,
-        "genreId": "101907010004/101909",
-        "isbn": "4380000407898",
+        "id": "7275000880621",
+        "title": "【電子書籍限定】LDK 神やせダイエット the Best",
+        "author": "晋遊舎",
+        "publisher": "晋遊舎",
+        "price": 880,
+        "url": "https://books.rakuten.co.jp/rk/c89f386443123e35b64ed0fa9e8a2d84/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2214/2000021052214.jpg?_ex=600x600",
+        "caption": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。\n「食事を減らしているのに……」\n「スイーツもガマンしているのに……」\n「体も動かしているのに……」\n「努力しているのになんでやせないの〜？」\nと嘆いているあなた！\n実はいつもの生活をちょっと変えるだけで、ラク〜にやせられます！\nこの本は、太りにくい食事の仕方やがんばらないゆる運動、\n取り入れやすいグッズやアイディアなど、\nテストする女性誌『LDK』で好評だった特集を\nギュギュッと詰め込みました！\nストイックにがんばらなくてもやせ見えできる！\nそんな神やせテクニックで、人生最後のダイエットを叶えましょう！\n※本ムックは電子書籍限定配信です。\n",
+        "salesDate": "2026年06月27日",
+        "series": "【電子書籍限定】LDK 神やせダイエット the Best",
+        "reviewAverage": 0,
+        "reviewCount": 0,
+        "genreId": "101909014/101907014/101907001004/101906090/101913",
+        "isbn": "7275000880621",
         "salesType": 0,
         "matchMeta": {
-          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-          "author": "林真理子",
-          "score": 313,
+          "title": "電子書籍",
+          "author": "",
+          "score": 151,
           "sources": [
             {
-              "source": "maruzen",
-              "label": "丸善ジュンク堂",
-              "rank": 4
-            },
-            {
-              "source": "tohan",
-              "label": "トーハン",
-              "rank": 3
+              "source": "kinokuniya",
+              "label": "紀伊國屋書店",
+              "rank": 9
             }
           ],
           "source": "combined",
-          "rank": 2,
+          "rank": 35,
           "originalTitle": ""
         },
         "ranking": {
-          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-          "author": "林真理子",
-          "score": 313,
+          "title": "電子書籍",
+          "author": "",
+          "score": 151,
           "sources": [
             {
-              "source": "maruzen",
-              "label": "丸善ジュンク堂",
-              "rank": 4
-            },
-            {
-              "source": "tohan",
-              "label": "トーハン",
-              "rank": 3
+              "source": "kinokuniya",
+              "label": "紀伊國屋書店",
+              "rank": 9
             }
           ],
           "source": "combined",
           "rank": 1,
-          "originalTitle": ""
-        }
-      },
-      {
-        "id": "5070000000101",
-        "title": "三和書籍図書目録2018.01［電子版］",
-        "author": "",
-        "publisher": "三和書籍",
-        "price": 0,
-        "url": "https://books.rakuten.co.jp/rk/c63e9191ed8937968f16202cf3115fe7/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8284/2000003958284.jpg?_ex=600x600",
-        "caption": "",
-        "salesDate": "2018年01月01日",
-        "series": "",
-        "reviewAverage": 0,
-        "reviewCount": 0,
-        "genreId": "101907014/101906090",
-        "isbn": "5070000000101",
-        "salesType": 0,
-        "matchMeta": {
-          "title": "和書",
-          "author": "",
-          "score": 152,
-          "sources": [
-            {
-              "source": "kinokuniya",
-              "label": "紀伊國屋書店",
-              "rank": 8
-            }
-          ],
-          "source": "combined",
-          "rank": 30,
-          "originalTitle": ""
-        },
-        "ranking": {
-          "title": "和書",
-          "author": "",
-          "score": 152,
-          "sources": [
-            {
-              "source": "kinokuniya",
-              "label": "紀伊國屋書店",
-              "rank": 8
-            }
-          ],
-          "source": "combined",
-          "rank": 7,
           "originalTitle": ""
         }
       },
@@ -1317,7 +490,7 @@
             }
           ],
           "source": "combined",
-          "rank": 60,
+          "rank": 65,
           "originalTitle": "戦争犯罪と闘う 国際刑事裁判所は屈しない (文春新書 1496)"
         },
         "ranking": {
@@ -1332,7 +505,7 @@
             }
           ],
           "source": "combined",
-          "rank": 11,
+          "rank": 4,
           "originalTitle": "戦争犯罪と闘う 国際刑事裁判所は屈しない (文春新書 1496)"
         }
       }
@@ -1366,7 +539,7 @@
             }
           ],
           "source": "combined",
-          "rank": 60,
+          "rank": 65,
           "originalTitle": "戦争犯罪と闘う 国際刑事裁判所は屈しない (文春新書 1496)"
         },
         "ranking": {
@@ -1381,112 +554,54 @@
             }
           ],
           "source": "combined",
-          "rank": 11,
+          "rank": 4,
           "originalTitle": "戦争犯罪と闘う 国際刑事裁判所は屈しない (文春新書 1496)"
         }
       }
     ],
-    "science": [
-      {
-        "id": "8910131398169",
-        "title": "知性大全　AI時代に不可欠な力",
-        "author": "樺沢紫苑",
-        "publisher": "サンクチュアリ出版",
-        "price": 2090,
-        "url": "https://books.rakuten.co.jp/rk/958a8a7aaea03afcae6521dd87078ba8/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8175/2000021368175.jpg?_ex=600x600",
-        "caption": "シリーズ110万部『アウトプット大全』著者・樺沢紫苑　最新刊！\nAI時代に命運をわける「知性」について、全網羅した初の本\n自ら問いを立て、考え、行動するために。\n習慣力、決断力、読解力、文章力、対話力、地頭力、思考力……\nすべての能力をアップデートせよ。\n◎CONTENTS\nCHAPTER1　「知性」とは何か？ーー知識を行動に変える　\n知性とは？\n知性と知能\n自分の頭で考える\n共創する\n知性サイクルを回す　　他\nCHAPTER2　「知る」ーーインプットの質と量を改善する\nアンテナを立てる\n好奇心を刺激する\n読解力を養う\nノイズを減らす\nSNSを育てる　　他\nCHAPTER3　「考える」ーー本質的な思考力を鍛える\n整理する\n立体的に考える\n問いを立てる\n壁打ちする\n仮説を立てる\nAIに残す\n自分で書く\nアイデアを出す 他\nCHAPTER4　「決断する」ーー意思決定でスピードを上げる\n決断して、行動する\n書いて整理する\n３つに絞る\n決断を減らす\nルール化する\nプランＢを用意する\n数値化する\n期限を決める　他\nCHAPTER5　「行動する」ーー最初の一歩で現実を変える\n特性を理解する\n言語化する\nTO DOリストを書く\nオリジナリティの注入\n徹底的に磨く\n編集する\n覚悟を決める　　他\nCHAPTER6　「フィードバックする」ーー修正力を高めて成長につなげる\n未来へ向けて準備する\nAIにフィードバックさせる\n最適解を導く\nAIに質問させる\n視座を変える\nポジティブ・フィードバックする\n反証する\n炎上を防ぐ　他\nCHAPTER7　「整える」ーー自分の心と体に向き合う\n心と身体を整える\nぐっすり眠る\n規則正しく眠る\nAIをカウンセラーにする\n脳を育てる\n運動する\n日記を書く\n悪口を手放す　　他\nCHAPTER8　AI時代にあえてすべきこと ーー人間本来の力を磨く\n（紙の本を）読む\n体験する\nリラックスする\nリアルに会う\n美意識を磨く\n料理する\n外に出る\nボーッとする　　他\n",
-        "salesDate": "2026年08月05日",
-        "series": "",
-        "reviewAverage": 4.5,
-        "reviewCount": 7,
-        "genreId": "101908008002/101905010",
-        "isbn": "8910131398169",
-        "salesType": 0,
-        "matchMeta": {
-          "title": "知性大全 AI時代に不可欠な力",
-          "author": "",
-          "score": 123,
-          "sources": [
-            {
-              "source": "kinokuniya",
-              "label": "紀伊國屋書店",
-              "rank": 37
-            }
-          ],
-          "source": "combined",
-          "rank": 75,
-          "originalTitle": "知性大全 ＡＩ時代に不可欠な力"
-        },
-        "ranking": {
-          "title": "知性大全 AI時代に不可欠な力",
-          "author": "",
-          "score": 123,
-          "sources": [
-            {
-              "source": "kinokuniya",
-              "label": "紀伊國屋書店",
-              "rank": 37
-            }
-          ],
-          "source": "combined",
-          "rank": 13,
-          "originalTitle": "知性大全 ＡＩ時代に不可欠な力"
-        }
-      }
-    ],
+    "science": [],
     "it": [],
     "life": [
       {
-        "id": "4380000407898",
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-        "author": "林真理子",
-        "publisher": "幻冬舎",
-        "price": 982,
-        "url": "https://books.rakuten.co.jp/rk/1e28fc1db6b83578b06b0919e0a52cd7/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0908/2000020490908.jpg?_ex=600x600",
-        "caption": "70代は頭も体もまだ大丈夫。\nそれなりに蓄えもできている。\nでもこれまでと全く同じことをしていたらダメ。\nできないことは諦め、楽しいことを大事にし、人生の新しいステージに立とう。\n同じ年代とばかりつるまず、ダイエットはしない。\n嫌われずに自慢話をするテクニック、お金にキレイな人と思われるおごり方ーー。\n72歳の人気作家が本音で語る「健康」「おしゃれ」「仕事」「お金」「人間関係」「趣味」。\n確実に近づく「その日」を見つめ、今の1分1秒を楽しんで生きるための、痛快・人生論。\n",
-        "salesDate": "2026年05月27日",
-        "series": "",
-        "reviewAverage": 3.3,
-        "reviewCount": 41,
-        "genreId": "101907010004/101909",
-        "isbn": "4380000407898",
+        "id": "7275000880621",
+        "title": "【電子書籍限定】LDK 神やせダイエット the Best",
+        "author": "晋遊舎",
+        "publisher": "晋遊舎",
+        "price": 880,
+        "url": "https://books.rakuten.co.jp/rk/c89f386443123e35b64ed0fa9e8a2d84/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2214/2000021052214.jpg?_ex=600x600",
+        "caption": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。\n「食事を減らしているのに……」\n「スイーツもガマンしているのに……」\n「体も動かしているのに……」\n「努力しているのになんでやせないの〜？」\nと嘆いているあなた！\n実はいつもの生活をちょっと変えるだけで、ラク〜にやせられます！\nこの本は、太りにくい食事の仕方やがんばらないゆる運動、\n取り入れやすいグッズやアイディアなど、\nテストする女性誌『LDK』で好評だった特集を\nギュギュッと詰め込みました！\nストイックにがんばらなくてもやせ見えできる！\nそんな神やせテクニックで、人生最後のダイエットを叶えましょう！\n※本ムックは電子書籍限定配信です。\n",
+        "salesDate": "2026年06月27日",
+        "series": "【電子書籍限定】LDK 神やせダイエット the Best",
+        "reviewAverage": 0,
+        "reviewCount": 0,
+        "genreId": "101909014/101907014/101907001004/101906090/101913",
+        "isbn": "7275000880621",
         "salesType": 0,
         "matchMeta": {
-          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-          "author": "林真理子",
-          "score": 313,
+          "title": "電子書籍",
+          "author": "",
+          "score": 151,
           "sources": [
             {
-              "source": "maruzen",
-              "label": "丸善ジュンク堂",
-              "rank": 4
-            },
-            {
-              "source": "tohan",
-              "label": "トーハン",
-              "rank": 3
+              "source": "kinokuniya",
+              "label": "紀伊國屋書店",
+              "rank": 9
             }
           ],
           "source": "combined",
-          "rank": 2,
+          "rank": 35,
           "originalTitle": ""
         },
         "ranking": {
-          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-          "author": "林真理子",
-          "score": 313,
+          "title": "電子書籍",
+          "author": "",
+          "score": 151,
           "sources": [
             {
-              "source": "maruzen",
-              "label": "丸善ジュンク堂",
-              "rank": 4
-            },
-            {
-              "source": "tohan",
-              "label": "トーハン",
-              "rank": 3
+              "source": "kinokuniya",
+              "label": "紀伊國屋書店",
+              "rank": 9
             }
           ],
           "source": "combined",
@@ -1500,96 +615,49 @@
     "travel": [],
     "language": [
       {
-        "id": "4910000496149",
-        "title": "中学英語でもっと読みたくなる洋書の世界",
-        "author": "林剛司",
-        "publisher": "青春出版社",
-        "price": 1540,
-        "url": "https://books.rakuten.co.jp/rk/8338a8101742391da83d4723dbc90511/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1811/2000015261811.jpg?_ex=600x600",
-        "caption": "洋書をたくさん読むことで英語の「語感」が身につき、英語力が飛躍的に伸びます。本書は英語レベル別に読める洋書を解説。読みながら中学・高校時代に習った英文法の復習ポイントもおさらいしていきます。『朝日ウイークリー』で連載10年目に突入した好評シリーズの書籍化！\n",
-        "salesDate": "2024年05月23日",
-        "series": "中学英語でもっと読みたくなる洋書の世界",
+        "id": "7275000880621",
+        "title": "【電子書籍限定】LDK 神やせダイエット the Best",
+        "author": "晋遊舎",
+        "publisher": "晋遊舎",
+        "price": 880,
+        "url": "https://books.rakuten.co.jp/rk/c89f386443123e35b64ed0fa9e8a2d84/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2214/2000021052214.jpg?_ex=600x600",
+        "caption": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。\n「食事を減らしているのに……」\n「スイーツもガマンしているのに……」\n「体も動かしているのに……」\n「努力しているのになんでやせないの〜？」\nと嘆いているあなた！\n実はいつもの生活をちょっと変えるだけで、ラク〜にやせられます！\nこの本は、太りにくい食事の仕方やがんばらないゆる運動、\n取り入れやすいグッズやアイディアなど、\nテストする女性誌『LDK』で好評だった特集を\nギュギュッと詰め込みました！\nストイックにがんばらなくてもやせ見えできる！\nそんな神やせテクニックで、人生最後のダイエットを叶えましょう！\n※本ムックは電子書籍限定配信です。\n",
+        "salesDate": "2026年06月27日",
+        "series": "【電子書籍限定】LDK 神やせダイエット the Best",
         "reviewAverage": 0,
         "reviewCount": 0,
-        "genreId": "101906090/101906001002",
-        "isbn": "4910000496149",
+        "genreId": "101909014/101907014/101907001004/101906090/101913",
+        "isbn": "7275000880621",
         "salesType": 0,
         "matchMeta": {
-          "title": "洋書",
+          "title": "電子書籍",
           "author": "",
-          "score": 153,
+          "score": 151,
           "sources": [
             {
               "source": "kinokuniya",
               "label": "紀伊國屋書店",
-              "rank": 7
+              "rank": 9
             }
           ],
           "source": "combined",
-          "rank": 27,
+          "rank": 35,
           "originalTitle": ""
         },
         "ranking": {
-          "title": "洋書",
+          "title": "電子書籍",
           "author": "",
-          "score": 153,
+          "score": 151,
           "sources": [
             {
               "source": "kinokuniya",
               "label": "紀伊國屋書店",
-              "rank": 7
+              "rank": 9
             }
           ],
           "source": "combined",
-          "rank": 5,
-          "originalTitle": ""
-        }
-      },
-      {
-        "id": "5070000000101",
-        "title": "三和書籍図書目録2018.01［電子版］",
-        "author": "",
-        "publisher": "三和書籍",
-        "price": 0,
-        "url": "https://books.rakuten.co.jp/rk/c63e9191ed8937968f16202cf3115fe7/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8284/2000003958284.jpg?_ex=600x600",
-        "caption": "",
-        "salesDate": "2018年01月01日",
-        "series": "",
-        "reviewAverage": 0,
-        "reviewCount": 0,
-        "genreId": "101907014/101906090",
-        "isbn": "5070000000101",
-        "salesType": 0,
-        "matchMeta": {
-          "title": "和書",
-          "author": "",
-          "score": 152,
-          "sources": [
-            {
-              "source": "kinokuniya",
-              "label": "紀伊國屋書店",
-              "rank": 8
-            }
-          ],
-          "source": "combined",
-          "rank": 30,
-          "originalTitle": ""
-        },
-        "ranking": {
-          "title": "和書",
-          "author": "",
-          "score": 152,
-          "sources": [
-            {
-              "source": "kinokuniya",
-              "label": "紀伊國屋書店",
-              "rank": 8
-            }
-          ],
-          "source": "combined",
-          "rank": 7,
+          "rank": 1,
           "originalTitle": ""
         }
       }
@@ -1598,97 +666,50 @@
     "essay": [],
     "comic": [
       {
-        "id": "7277131207271",
-        "title": "蒼き鋼のアルペジオ〜海洋技術総合学院タカオ部〜　２巻",
-        "author": "Ark Performance",
-        "publisher": "少年画報社",
-        "price": 792,
-        "url": "https://books.rakuten.co.jp/rk/3d97afe91e563dd686fd023c6ba8795a/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1413/2000021121413.jpg?_ex=600x600",
-        "caption": "横須賀の海洋技術総合学院にタカオが潜入していた頃、突然あの《大戦艦》たちが現れ、嵐を巻き起こす!?\n",
-        "salesDate": "2026年08月28日",
-        "series": "蒼き鋼のアルペジオ〜海洋技術総合学院タカオ部〜",
+        "id": "4972000164857",
+        "title": "カグラバチ 12",
+        "author": "外薗健",
+        "publisher": "集英社",
+        "price": 572,
+        "url": "https://books.rakuten.co.jp/rk/1250fd0ab348309997f2c69cd909d68c/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5975/2000021425975.jpg?_ex=600x600",
+        "caption": "幽の体を乗っ取った剣聖と対峙するチヒロ！　悪人を皆殺しにするという自分の信念を告げる剣聖に対し、チヒロは座村と2人がかりで挑むも実力差は歴然、座村は致命傷を負ってしまう…。そんな中、チヒロの攻撃が徐々に剣聖を捉え始めーー!?\n",
+        "salesDate": "2026年09月04日",
+        "series": "カグラバチ",
         "reviewAverage": 0,
         "reviewCount": 0,
-        "genreId": "101904090",
-        "isbn": "7277131207271",
+        "genreId": "101904001007",
+        "isbn": "4972000164857",
         "salesType": 0,
         "matchMeta": {
-          "title": "総合",
-          "author": "",
-          "score": 159,
+          "title": "カグラバチ 12",
+          "author": "外薗 健",
+          "score": 144,
           "sources": [
             {
-              "source": "kinokuniya",
-              "label": "紀伊國屋書店",
-              "rank": 1
+              "source": "rakuten",
+              "label": "楽天ブックス",
+              "rank": 16
             }
           ],
           "source": "combined",
-          "rank": 7,
+          "rank": 48,
           "originalTitle": ""
         },
         "ranking": {
-          "title": "総合",
-          "author": "",
-          "score": 159,
+          "title": "カグラバチ 12",
+          "author": "外薗 健",
+          "score": 144,
           "sources": [
             {
-              "source": "kinokuniya",
-              "label": "紀伊國屋書店",
-              "rank": 1
+              "source": "rakuten",
+              "label": "楽天ブックス",
+              "rank": 16
             }
           ],
           "source": "combined",
           "rank": 2,
           "originalTitle": ""
-        }
-      },
-      {
-        "id": "4972000161446",
-        "title": "キングダム 80",
-        "author": "原泰久",
-        "publisher": "集英社",
-        "price": 770,
-        "url": "https://books.rakuten.co.jp/rk/050764b407853c8da27e5a42ab86656e/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2133/2000021122133.jpg?_ex=600x600",
-        "caption": "李牧の防衛網を突破せよ!!　紀元前229年 趙完全攻略戦　白熱する趙完全攻略戦。北部では、司馬尚軍と宜安・番吾からなる趙北部軍とで、王翦軍への挟撃を図ろうとする李牧の策を阻止するべく玉鳳軍が立ちはだかる。一方、中華十弓・青華雲を討ち取った飛信隊は、蒙恬の発案により、楽華軍・羌カイ軍との三軍連合攻撃を開始するが…!?\n",
-        "salesDate": "2026年08月19日",
-        "series": "キングダム",
-        "reviewAverage": 3.89,
-        "reviewCount": 9,
-        "genreId": "101904002006",
-        "isbn": "4972000161446",
-        "salesType": 0,
-        "matchMeta": {
-          "title": "キングダム 80",
-          "author": "原 泰久",
-          "score": 146,
-          "sources": [
-            {
-              "source": "amazon",
-              "label": "Amazon",
-              "rank": 14
-            }
-          ],
-          "source": "combined",
-          "rank": 42,
-          "originalTitle": "キングダム 80 (ヤングジャンプコミックス)"
-        },
-        "ranking": {
-          "title": "キングダム 80",
-          "author": "原 泰久",
-          "score": 146,
-          "sources": [
-            {
-              "source": "amazon",
-              "label": "Amazon",
-              "rank": 14
-            }
-          ],
-          "source": "combined",
-          "rank": 9,
-          "originalTitle": "キングダム 80 (ヤングジャンプコミックス)"
         }
       },
       {
@@ -1719,7 +740,7 @@
             }
           ],
           "source": "combined",
-          "rank": 56,
+          "rank": 61,
           "originalTitle": "ブラック・ラグーン (14) (サンデーGXコミックス)"
         },
         "ranking": {
@@ -1734,7 +755,7 @@
             }
           ],
           "source": "combined",
-          "rank": 10,
+          "rank": 3,
           "originalTitle": "ブラック・ラグーン (14) (サンデーGXコミックス)"
         }
       },
@@ -1766,7 +787,7 @@
             }
           ],
           "source": "combined",
-          "rank": 62,
+          "rank": 67,
           "originalTitle": "メイドインアビス (15) (バンブーコミックス)"
         },
         "ranking": {
@@ -1781,7 +802,7 @@
             }
           ],
           "source": "combined",
-          "rank": 12,
+          "rank": 5,
           "originalTitle": "メイドインアビス (15) (バンブーコミックス)"
         }
       }
@@ -1789,11 +810,11 @@
   },
   "genreStatus": {
     "fiction": {
-      "matched": 4,
+      "matched": 0,
       "complete": true
     },
     "mystery": {
-      "matched": 3,
+      "matched": 1,
       "complete": true
     },
     "sf": {
@@ -1801,11 +822,11 @@
       "complete": true
     },
     "business": {
-      "matched": 1,
+      "matched": 0,
       "complete": true
     },
     "humanities": {
-      "matched": 3,
+      "matched": 2,
       "complete": true
     },
     "nonfiction": {
@@ -1813,7 +834,7 @@
       "complete": true
     },
     "science": {
-      "matched": 1,
+      "matched": 0,
       "complete": true
     },
     "it": {
@@ -1837,7 +858,7 @@
       "complete": true
     },
     "language": {
-      "matched": 2,
+      "matched": 1,
       "complete": true
     },
     "children": {
@@ -1849,7 +870,7 @@
       "complete": true
     },
     "comic": {
-      "matched": 4,
+      "matched": 3,
       "complete": true
     }
   }

@@ -2,7 +2,7 @@
   "kind": "popular",
   "completed": true,
   "period": "year",
-  "updatedAt": "2026-09-03T05:11:44.357Z",
+  "updatedAt": "2026-09-03T11:43:07.505Z",
   "candidateCount": 10,
   "checked": 10,
   "matched": 7,
@@ -39,9 +39,9 @@
           "rank": 4
         },
         {
-          "title": "大河の一滴 最終章",
-          "author": "五木寛之",
-          "rank": 8
+          "title": "暁星",
+          "author": "湊かなえ",
+          "rank": 7
         },
         {
           "title": "不滅なるものへの挑戦 霊性の時代を拓くために",
@@ -58,53 +58,6 @@
     }
   },
   "items": [
-    {
-      "id": "4524815633410",
-      "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
-      "author": "堀田 秀吾",
-      "publisher": "SBクリエイティブ",
-      "price": 1760,
-      "url": "https://books.rakuten.co.jp/rk/79a1d43cefcb3337b3e2363c5f00a07e/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1658/2000018091658.jpg?_ex=600x600",
-      "caption": "勉強・ダイエット・貯金・目標達成…は習慣化が10割\n仕事、ダイエット、健康管理、勉強、目標達成…すべて成功のカギは「習慣化」にあります。\nしかし間違った習慣を身につけてしまったらその代償は大きくなってしまいます。\n何をどう習慣化すればいいか、そのために重要になるのが「エビデンス」です。\n・もし「A」をしたら「B」をすると、あらかじめ決めておく\n・選択肢は必ず「3つ」用意しておく\n・常にポジティブな言葉を使うーつらさに対する耐性が高まる\n・52分間作業して、17分休憩するー生産性が高まるetc.\n本書は、ハーバード、スタンフォード、オックスフォード…などの研究機関において証明されたテクニックを112個紹介。\n見開き図解入りでわかりやすい。気になったテクニックからはじめられ、情報収集のためにも役立ち、また読みものとしても楽しめる一冊です。\n※カバー画像が異なる場合があります。\n",
-      "salesDate": "2025年07月02日",
-      "series": "",
-      "reviewAverage": 3.7,
-      "reviewCount": 362,
-      "genreId": "101905090",
-      "isbn": "4524815633410",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "科学的に証明された すごい習慣大百科",
-        "author": "堀田秀吾",
-        "score": 106,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 1
-          }
-        ],
-        "source": "combined",
-        "rank": 1,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "科学的に証明された すごい習慣大百科",
-        "author": "堀田秀吾",
-        "score": 106,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 1
-          }
-        ],
-        "source": "combined",
-        "rank": 1,
-        "originalTitle": ""
-      }
-    },
     {
       "id": "6681297998470",
       "title": "変な地図",
@@ -148,148 +101,101 @@
           }
         ],
         "source": "combined",
+        "rank": 1,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "6681299179860",
+      "title": "暁星",
+      "author": "湊かなえ",
+      "publisher": "双葉社",
+      "price": 1980,
+      "url": "https://books.rakuten.co.jp/rk/eb8de6a46aa935d48709dbfee116c7d2/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4762/2000019204762.jpg?_ex=600x600",
+      "caption": "「ただ、星を守りたかっただけーー」　\n現役の文部科学大臣で文壇の大御所作家でもある清水義之が全国高校生総合文化祭の式典の最中、舞台袖から飛び出してきた男に刺されて死亡する事件がおきた。逮捕された男の名前は永瀬暁、37歳。永瀬は逮捕されたのち、週刊誌に手記を発表しはじめる。そこには、清水が深く関わっているとされる新興宗教に対する恨みが綴られていた。また、式典に出席していた作家は、永瀬の事件を小説として描く。ノンフィクションとフィクション、ふたつの物語が合わさったとき見える景色とは!?\n",
+      "salesDate": "2025年11月27日",
+      "series": "暁星",
+      "reviewAverage": 4.18,
+      "reviewCount": 1124,
+      "genreId": "101902",
+      "isbn": "6681299179860",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "暁星",
+        "author": "湊かなえ",
+        "score": 82,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 7
+          }
+        ],
+        "source": "combined",
+        "rank": 7,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "暁星",
+        "author": "湊かなえ",
+        "score": 82,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 7
+          }
+        ],
+        "source": "combined",
         "rank": 2,
         "originalTitle": ""
       }
     },
     {
-      "id": "4340008064751",
-      "title": "成瀬は都を駆け抜ける",
-      "author": "宮島未奈",
-      "publisher": "新潮社",
-      "price": 1870,
-      "url": "https://books.rakuten.co.jp/rk/742144207d4335e2bae33be75c1df7de/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9131/2000018619131.jpg?_ex=600x600",
-      "caption": "唯一無二の主人公が、今度は京都を駆け巡る！　成瀬シリーズ堂々完結!!\n膳所高校を卒業し、晴れて京大生となった成瀬あかり。一世一代の恋に破れた同級生、「達磨研究会」なる謎のサークル、簿記YouTuber……。千年の都を舞台に、ますます個性豊かな面々が成瀬あかり史に名を刻む中、幼馴染の島崎のもとには成瀬から突然速達が届いて……!?　全６篇、最高の主人公に訪れる大団円を見届けよ！\n",
-      "salesDate": "2025年12月01日",
-      "series": "「成瀬」シリーズ",
-      "reviewAverage": 4.54,
-      "reviewCount": 1476,
-      "genreId": "101901",
-      "isbn": "4340008064751",
+      "id": "4524815633410",
+      "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
+      "author": "堀田 秀吾",
+      "publisher": "SBクリエイティブ",
+      "price": 1760,
+      "url": "https://books.rakuten.co.jp/rk/79a1d43cefcb3337b3e2363c5f00a07e/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1658/2000018091658.jpg?_ex=600x600",
+      "caption": "勉強・ダイエット・貯金・目標達成…は習慣化が10割\n仕事、ダイエット、健康管理、勉強、目標達成…すべて成功のカギは「習慣化」にあります。\nしかし間違った習慣を身につけてしまったらその代償は大きくなってしまいます。\n何をどう習慣化すればいいか、そのために重要になるのが「エビデンス」です。\n・もし「A」をしたら「B」をすると、あらかじめ決めておく\n・選択肢は必ず「3つ」用意しておく\n・常にポジティブな言葉を使うーつらさに対する耐性が高まる\n・52分間作業して、17分休憩するー生産性が高まるetc.\n本書は、ハーバード、スタンフォード、オックスフォード…などの研究機関において証明されたテクニックを112個紹介。\n見開き図解入りでわかりやすい。気になったテクニックからはじめられ、情報収集のためにも役立ち、また読みものとしても楽しめる一冊です。\n※カバー画像が異なる場合があります。\n",
+      "salesDate": "2025年07月02日",
+      "series": "",
+      "reviewAverage": 3.7,
+      "reviewCount": 362,
+      "genreId": "101905090",
+      "isbn": "4524815633410",
       "salesType": 0,
       "matchMeta": {
-        "title": "成瀬は都を駆け抜ける",
-        "author": "宮島未奈",
-        "score": 94,
+        "title": "科学的に証明された すごい習慣大百科",
+        "author": "堀田秀吾",
+        "score": 106,
         "sources": [
           {
             "source": "tohan",
             "label": "トーハン",
-            "rank": 4
+            "rank": 1
           }
         ],
         "source": "combined",
-        "rank": 4,
+        "rank": 1,
         "originalTitle": ""
       },
       "ranking": {
-        "title": "成瀬は都を駆け抜ける",
-        "author": "宮島未奈",
-        "score": 94,
+        "title": "科学的に証明された すごい習慣大百科",
+        "author": "堀田秀吾",
+        "score": 106,
         "sources": [
           {
             "source": "tohan",
             "label": "トーハン",
-            "rank": 4
+            "rank": 1
           }
         ],
         "source": "combined",
         "rank": 3,
-        "originalTitle": ""
-      }
-    },
-    {
-      "id": "7275000764491",
-      "title": "不滅なるものへの挑戦 ー霊性の時代を拓くためにー",
-      "author": "大川隆法",
-      "publisher": "幸福の科学出版",
-      "price": 2200,
-      "url": "https://books.rakuten.co.jp/rk/94e1cbf113a63333819edf8ae0ef37e0/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0951/2000019300951.jpg?_ex=600x600",
-      "caption": "あなたの心には、「無限の価値」が眠っている。\n与えられた3万日余りの人生で\nあなたは何を成し遂げ\nどんな「心のなかの宝物」を見つけるのか。\n美しい心を磨き切り、世を照らす一助となれ。\n第1章　死後の世界を正しく理解するために\n〇「死んだら何もかもなくなる」という考えは間違いである\n〇この世での生き方は、あの世やその先の来世にまでつながっていく\n第2章　真理を求めるための教育の理想とは\n〇なぜ学問の対象から霊性を外す流れが起きたのか\n〇「人間の本体は魂である」という真実から、すべては出発する\n第3章　自己中心的な生き方はなぜ問題なのか\n〇「幸福になれない」と嘆く人が変えるべき心のあり方とは\n〇欲を膨らませることは、成長にはならない\n第4章　不滅なるものへの挑戦\n〇時代や人々の姿は変わっても、「不滅の真理」は存在する\n〇環境に流されず、自らの力で “運命の川” を漕ぎ渡っていけ\n第5章　心の価値に目覚めよ\n〇目に見え、手に触れられる幸福は、どこまで求めても有限である\n〇恐怖の時代に必要なものは、「愛」や「人を助けたい」という心\n目次\n第1章　死後の世界を正しく理解するために\n─『死んでから困らない生き方』講義─\n第2章　真理を求めるための教育の理想とは\n─『霊性と教育』講義─\n第3章　自己中心的な生き方はなぜ問題なのか\n─不幸から脱却するために必要な考え方 ─\n第4章　不滅なるものへの挑戦\n─自らの心を磨き切り、世の中を照らせ ─\n第5章　心の価値に目覚めよ\n一人ひとりの心に愛の火を灯す ─\n",
-      "salesDate": "2025年12月09日",
-      "series": "不滅なるものへの挑戦 ー霊性の時代を拓くためにー",
-      "reviewAverage": 4,
-      "reviewCount": 1,
-      "genreId": "101907004090",
-      "isbn": "7275000764491",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "不滅なるものへの挑戦 霊性の時代を拓くために",
-        "author": "大川隆法",
-        "score": 74,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 9,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "不滅なるものへの挑戦 霊性の時代を拓くために",
-        "author": "大川隆法",
-        "score": 74,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 4,
-        "originalTitle": ""
-      }
-    },
-    {
-      "id": "4380000407704",
-      "title": "棺桶まで歩こう",
-      "author": "萬田緑平",
-      "publisher": "幻冬舎",
-      "price": 982,
-      "url": "https://books.rakuten.co.jp/rk/2553e6b8bd4737298fc8ea239abc3641/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0789/2000019160789.jpg?_ex=600x600",
-      "caption": "歩けるうちは、人は死なない\n長生きしたくないという高齢者が増えている。\n不健康寿命が延び、ムダな延命治療によるつらく苦しい最期は恐ろしいと感じるからだ。\n著者は2000人以上を看取った元外科医の緩和ケア医。\n「歩けるうちは死にません」「抗がん剤をやめた方が長く生きる」「病院で体力の限界まで生かされるから苦しい」「認知症は長生きしたい人にとって勝ち組の証」「ひとり暮らしは、むしろ楽に死ねる」など「延命より満足を、治療より尊厳を」という選択を提唱。\n医療との向き合い方を変えることで、家で人生を終えるという幸せが味わえるようになる!\n2000人の幸せな最期を支えた「在宅」緩和ケア医が提言\n病院に頼りすぎない“生ききる力”とは?\n",
-      "salesDate": "2025年11月27日",
-      "series": "",
-      "reviewAverage": 4.02,
-      "reviewCount": 47,
-      "genreId": "101908008002/101907007",
-      "isbn": "4380000407704",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "棺桶まで歩こう",
-        "author": "萬田緑平",
-        "score": 70,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 10,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "棺桶まで歩こう",
-        "author": "萬田緑平",
-        "score": 70,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 5,
         "originalTitle": ""
       }
     },
@@ -336,50 +242,144 @@
           }
         ],
         "source": "combined",
+        "rank": 4,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "4340008064751",
+      "title": "成瀬は都を駆け抜ける",
+      "author": "宮島未奈",
+      "publisher": "新潮社",
+      "price": 1870,
+      "url": "https://books.rakuten.co.jp/rk/742144207d4335e2bae33be75c1df7de/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9131/2000018619131.jpg?_ex=600x600",
+      "caption": "唯一無二の主人公が、今度は京都を駆け巡る！　成瀬シリーズ堂々完結!!\n膳所高校を卒業し、晴れて京大生となった成瀬あかり。一世一代の恋に破れた同級生、「達磨研究会」なる謎のサークル、簿記YouTuber……。千年の都を舞台に、ますます個性豊かな面々が成瀬あかり史に名を刻む中、幼馴染の島崎のもとには成瀬から突然速達が届いて……!?　全６篇、最高の主人公に訪れる大団円を見届けよ！\n",
+      "salesDate": "2025年12月01日",
+      "series": "「成瀬」シリーズ",
+      "reviewAverage": 4.54,
+      "reviewCount": 1476,
+      "genreId": "101901",
+      "isbn": "4340008064751",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "成瀬は都を駆け抜ける",
+        "author": "宮島未奈",
+        "score": 94,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
+          }
+        ],
+        "source": "combined",
+        "rank": 4,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "成瀬は都を駆け抜ける",
+        "author": "宮島未奈",
+        "score": 94,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
+          }
+        ],
+        "source": "combined",
+        "rank": 5,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "7275000764491",
+      "title": "不滅なるものへの挑戦 ー霊性の時代を拓くためにー",
+      "author": "大川隆法",
+      "publisher": "幸福の科学出版",
+      "price": 2200,
+      "url": "https://books.rakuten.co.jp/rk/94e1cbf113a63333819edf8ae0ef37e0/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0951/2000019300951.jpg?_ex=600x600",
+      "caption": "あなたの心には、「無限の価値」が眠っている。\n与えられた3万日余りの人生で\nあなたは何を成し遂げ\nどんな「心のなかの宝物」を見つけるのか。\n美しい心を磨き切り、世を照らす一助となれ。\n第1章　死後の世界を正しく理解するために\n〇「死んだら何もかもなくなる」という考えは間違いである\n〇この世での生き方は、あの世やその先の来世にまでつながっていく\n第2章　真理を求めるための教育の理想とは\n〇なぜ学問の対象から霊性を外す流れが起きたのか\n〇「人間の本体は魂である」という真実から、すべては出発する\n第3章　自己中心的な生き方はなぜ問題なのか\n〇「幸福になれない」と嘆く人が変えるべき心のあり方とは\n〇欲を膨らませることは、成長にはならない\n第4章　不滅なるものへの挑戦\n〇時代や人々の姿は変わっても、「不滅の真理」は存在する\n〇環境に流されず、自らの力で “運命の川” を漕ぎ渡っていけ\n第5章　心の価値に目覚めよ\n〇目に見え、手に触れられる幸福は、どこまで求めても有限である\n〇恐怖の時代に必要なものは、「愛」や「人を助けたい」という心\n目次\n第1章　死後の世界を正しく理解するために\n─『死んでから困らない生き方』講義─\n第2章　真理を求めるための教育の理想とは\n─『霊性と教育』講義─\n第3章　自己中心的な生き方はなぜ問題なのか\n─不幸から脱却するために必要な考え方 ─\n第4章　不滅なるものへの挑戦\n─自らの心を磨き切り、世の中を照らせ ─\n第5章　心の価値に目覚めよ\n一人ひとりの心に愛の火を灯す ─\n",
+      "salesDate": "2025年12月09日",
+      "series": "不滅なるものへの挑戦 ー霊性の時代を拓くためにー",
+      "reviewAverage": 4,
+      "reviewCount": 1,
+      "genreId": "101907004090",
+      "isbn": "7275000764491",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "不滅なるものへの挑戦 霊性の時代を拓くために",
+        "author": "大川隆法",
+        "score": 74,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 9,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "不滅なるものへの挑戦 霊性の時代を拓くために",
+        "author": "大川隆法",
+        "score": 74,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
         "rank": 6,
         "originalTitle": ""
       }
     },
     {
-      "id": "4380000485089",
-      "title": "大河の一滴　最終章",
-      "author": "五木寛之",
+      "id": "4380000407704",
+      "title": "棺桶まで歩こう",
+      "author": "萬田緑平",
       "publisher": "幻冬舎",
-      "price": 1881,
-      "url": "https://books.rakuten.co.jp/rk/11c561cb4c083a838252a295da0974c9/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1450/2000019211450.jpg?_ex=600x600",
-      "caption": "93歳の人間論ーー。\n人は何かのために生きるのではない。\n誰かのために生きるのだ。\n衝撃のベストセラー『大河の一滴』から30年。圧巻の集大成。\n常に、再生の希望はある。\n少年時代の引揚体験、自死への欲求、思いがけない病の宣告……\nあえて、大河の流れに逆らうことを決意した、告白的人間論。\n「かつて人生を大河の流れにたとえて書いたときは、その流れに身をまかせて、生命の海へと流れていく、そんなふうに考えていた。\n　しかし、と、私は思ったのだ。ときには大河の流れに身をまかせるだけでなく、それに逆らって生きることもあっていいのではあるまいか。大河の流れの中にも、逆流する場所もあれば、迂回する流れもある。\n　長く生きられなかった彼らのかわりに、自分は一日でも長く生きようと考えてきたのではなかったか。運命に身をまかせるだけでなく、それに逆らうこともあっていい。\n　人には、何人かのために生きる責任がある、と思う。人々のはたさざりし思いを背負って生きる義務があるのではないか。何かのためではなく、誰かのために生きるのだ」\nーー「大河の流れに逆らって」本文より\n静寂から立ち上がる、鮮やかな再生の物語。\n",
-      "salesDate": "2026年02月12日",
+      "price": 982,
+      "url": "https://books.rakuten.co.jp/rk/2553e6b8bd4737298fc8ea239abc3641/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0789/2000019160789.jpg?_ex=600x600",
+      "caption": "歩けるうちは、人は死なない\n長生きしたくないという高齢者が増えている。\n不健康寿命が延び、ムダな延命治療によるつらく苦しい最期は恐ろしいと感じるからだ。\n著者は2000人以上を看取った元外科医の緩和ケア医。\n「歩けるうちは死にません」「抗がん剤をやめた方が長く生きる」「病院で体力の限界まで生かされるから苦しい」「認知症は長生きしたい人にとって勝ち組の証」「ひとり暮らしは、むしろ楽に死ねる」など「延命より満足を、治療より尊厳を」という選択を提唱。\n医療との向き合い方を変えることで、家で人生を終えるという幸せが味わえるようになる!\n2000人の幸せな最期を支えた「在宅」緩和ケア医が提言\n病院に頼りすぎない“生ききる力”とは?\n",
+      "salesDate": "2025年11月27日",
       "series": "",
-      "reviewAverage": 4,
-      "reviewCount": 21,
-      "genreId": "101907002002",
-      "isbn": "4380000485089",
+      "reviewAverage": 4.02,
+      "reviewCount": 47,
+      "genreId": "101908008002/101907007",
+      "isbn": "4380000407704",
       "salesType": 0,
       "matchMeta": {
-        "title": "大河の一滴 最終章",
-        "author": "五木寛之",
-        "score": 78,
+        "title": "棺桶まで歩こう",
+        "author": "萬田緑平",
+        "score": 70,
         "sources": [
           {
             "source": "tohan",
             "label": "トーハン",
-            "rank": 8
+            "rank": 10
           }
         ],
         "source": "combined",
-        "rank": 8,
+        "rank": 10,
         "originalTitle": ""
       },
       "ranking": {
-        "title": "大河の一滴 最終章",
-        "author": "五木寛之",
-        "score": 78,
+        "title": "棺桶まで歩こう",
+        "author": "萬田緑平",
+        "score": 70,
         "sources": [
           {
             "source": "tohan",
             "label": "トーハン",
-            "rank": 8
+            "rank": 10
           }
         ],
         "source": "combined",
@@ -390,53 +390,6 @@
   ],
   "byGenre": {
     "fiction": [
-      {
-        "id": "4340008064751",
-        "title": "成瀬は都を駆け抜ける",
-        "author": "宮島未奈",
-        "publisher": "新潮社",
-        "price": 1870,
-        "url": "https://books.rakuten.co.jp/rk/742144207d4335e2bae33be75c1df7de/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9131/2000018619131.jpg?_ex=600x600",
-        "caption": "唯一無二の主人公が、今度は京都を駆け巡る！　成瀬シリーズ堂々完結!!\n膳所高校を卒業し、晴れて京大生となった成瀬あかり。一世一代の恋に破れた同級生、「達磨研究会」なる謎のサークル、簿記YouTuber……。千年の都を舞台に、ますます個性豊かな面々が成瀬あかり史に名を刻む中、幼馴染の島崎のもとには成瀬から突然速達が届いて……!?　全６篇、最高の主人公に訪れる大団円を見届けよ！\n",
-        "salesDate": "2025年12月01日",
-        "series": "「成瀬」シリーズ",
-        "reviewAverage": 4.54,
-        "reviewCount": 1476,
-        "genreId": "101901",
-        "isbn": "4340008064751",
-        "salesType": 0,
-        "matchMeta": {
-          "title": "成瀬は都を駆け抜ける",
-          "author": "宮島未奈",
-          "score": 94,
-          "sources": [
-            {
-              "source": "tohan",
-              "label": "トーハン",
-              "rank": 4
-            }
-          ],
-          "source": "combined",
-          "rank": 4,
-          "originalTitle": ""
-        },
-        "ranking": {
-          "title": "成瀬は都を駆け抜ける",
-          "author": "宮島未奈",
-          "score": 94,
-          "sources": [
-            {
-              "source": "tohan",
-              "label": "トーハン",
-              "rank": 4
-            }
-          ],
-          "source": "combined",
-          "rank": 3,
-          "originalTitle": ""
-        }
-      },
       {
         "id": "4660629612104",
         "title": "イン・ザ・メガチャーチ",
@@ -480,130 +433,635 @@
             }
           ],
           "source": "combined",
-          "rank": 6,
+          "rank": 4,
           "originalTitle": ""
         }
       },
       {
-        "id": "4340008021181",
-        "title": "楽園のカンヴァス（新潮文庫）",
-        "author": "原田マハ",
+        "id": "4340008064751",
+        "title": "成瀬は都を駆け抜ける",
+        "author": "宮島未奈",
         "publisher": "新潮社",
-        "price": 880,
-        "url": "https://books.rakuten.co.jp/rk/5bfae341d1723f08b15042fce9f00d2f/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7867/2000002997867.jpg?_ex=600x600",
-        "caption": "ニューヨーク近代美術館のキュレーター、ティム・ブラウンはある日スイスの大邸宅に招かれる。そこで見たのは巨匠ルソーの名作「夢」に酷似した絵。持ち主は正しく真贋判定した者にこの絵を譲ると告げ、手がかりとなる謎の古書を読ませる。リミットは7日間。ライバルは日本人研究者・早川織絵。ルソーとピカソ、二人の天才がカンヴァスに籠めた想いとはーー。山本周五郎賞受賞作。\n",
-        "salesDate": "2015年05月01日",
-        "series": "",
-        "reviewAverage": 4.43,
-        "reviewCount": 1737,
+        "price": 1870,
+        "url": "https://books.rakuten.co.jp/rk/742144207d4335e2bae33be75c1df7de/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9131/2000018619131.jpg?_ex=600x600",
+        "caption": "唯一無二の主人公が、今度は京都を駆け巡る！　成瀬シリーズ堂々完結!!\n膳所高校を卒業し、晴れて京大生となった成瀬あかり。一世一代の恋に破れた同級生、「達磨研究会」なる謎のサークル、簿記YouTuber……。千年の都を舞台に、ますます個性豊かな面々が成瀬あかり史に名を刻む中、幼馴染の島崎のもとには成瀬から突然速達が届いて……!?　全６篇、最高の主人公に訪れる大団円を見届けよ！\n",
+        "salesDate": "2025年12月01日",
+        "series": "「成瀬」シリーズ",
+        "reviewAverage": 4.54,
+        "reviewCount": 1476,
         "genreId": "101901",
-        "isbn": "4340008021181",
+        "isbn": "4340008064751",
+        "salesType": 0,
+        "matchMeta": {
+          "title": "成瀬は都を駆け抜ける",
+          "author": "宮島未奈",
+          "score": 94,
+          "sources": [
+            {
+              "source": "tohan",
+              "label": "トーハン",
+              "rank": 4
+            }
+          ],
+          "source": "combined",
+          "rank": 4,
+          "originalTitle": ""
+        },
+        "ranking": {
+          "title": "成瀬は都を駆け抜ける",
+          "author": "宮島未奈",
+          "score": 94,
+          "sources": [
+            {
+              "source": "tohan",
+              "label": "トーハン",
+              "rank": 4
+            }
+          ],
+          "source": "combined",
+          "rank": 5,
+          "originalTitle": ""
+        }
+      },
+      {
+        "id": "4910000287747",
+        "title": "傲慢と善良",
+        "author": "辻村深月",
+        "publisher": "朝日新聞出版",
+        "price": 891,
+        "url": "https://books.rakuten.co.jp/rk/6769728eaa87318aa4b711ea7a0b5927/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7836/2000011837836.jpg?_ex=600x600",
+        "caption": "婚約者・坂庭真実が姿を消した。その居場所を探すため、西澤架は、彼女の「過去」と向き合うことになる。「恋愛だけでなく生きていくうえでのあらゆる悩みに答えてくれる物語」と読者から圧倒的な支持を得た作品が遂に文庫化。《解説・朝井リョウ》\n",
+        "salesDate": "2022年09月07日",
+        "series": "傲慢と善良",
+        "reviewAverage": 4.12,
+        "reviewCount": 4670,
+        "genreId": "101901",
+        "isbn": "4910000287747",
         "salesType": 0,
         "ranking": {
-          "title": "楽園のカンヴァス（新潮文庫）",
+          "title": "傲慢と善良",
+          "author": "辻村深月",
+          "source": "kobo",
+          "sources": [
+            {
+              "source": "kobo",
+              "label": "楽天Kobo人気",
+              "rank": 1
+            }
+          ],
+          "rank": 1
+        }
+      },
+      {
+        "id": "4390000004602",
+        "title": "コンビニ人間",
+        "author": "村田沙耶香",
+        "publisher": "文藝春秋",
+        "price": 690,
+        "url": "https://books.rakuten.co.jp/rk/c9944e9b1e9f36f6b86d5b82d7e39ad8/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9442/2000006719442.jpg?_ex=600x600",
+        "caption": "「普通」とは何か？\n現代の実存を軽やかに問う第155回芥川賞受賞作\n36歳未婚、彼氏なし。コンビニのバイト歴18年目の古倉恵子。\n日々コンビニ食を食べ、夢の中でもレジを打ち、\n「店員」でいるときのみ世界の歯車になれるーー。\n「いらっしゃいませー!!」\nお客様がたてる音に負けじと、今日も声を張り上げる。\nある日、婚活目的の新入り男性・白羽がやってきて、\nそんなコンビニ的生き方は恥ずかしい、と突きつけられるが……。\n累計92万部突破&20カ国語に翻訳決定。\n世界各国でベストセラーの話題の書。\n解説・中村文則\n",
+        "salesDate": "2018年09月04日",
+        "series": "",
+        "reviewAverage": 3.87,
+        "reviewCount": 4438,
+        "genreId": "101901",
+        "isbn": "4390000004602",
+        "salesType": 0,
+        "ranking": {
+          "title": "コンビニ人間",
+          "author": "村田沙耶香",
+          "source": "kobo",
+          "sources": [
+            {
+              "source": "kobo",
+              "label": "楽天Kobo人気",
+              "rank": 2
+            }
+          ],
+          "rank": 2
+        }
+      },
+      {
+        "id": "4340008052471",
+        "title": "西の魔女が死んだ（新潮文庫）",
+        "author": "梨木香歩",
+        "publisher": "新潮社",
+        "price": 649,
+        "url": "https://books.rakuten.co.jp/rk/2d018080936131e6b8db7e500d9d26c1/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4392/2000011184392.jpg?_ex=600x600",
+        "caption": "中学に進んでまもなく、どうしても学校へ足が向かなくなった少女まいは、季節が初夏へと移り変るひと月あまりを、西の魔女のもとで過した。西の魔女ことママのママ、つまり大好きなおばあちゃんから、まいは魔女の手ほどきを受けるのだが、魔女修行の肝心かなめは、何でも自分で決める、ということだった。喜びも希望も、もちろん幸せも……。その後のまいの物語「渡りの一日」併録。\n",
+        "salesDate": "2022年05月27日",
+        "series": "",
+        "reviewAverage": 4.06,
+        "reviewCount": 3523,
+        "genreId": "101901001",
+        "isbn": "4340008052471",
+        "salesType": 0,
+        "ranking": {
+          "title": "西の魔女が死んだ（新潮文庫）",
+          "author": "梨木香歩",
+          "source": "kobo",
+          "sources": [
+            {
+              "source": "kobo",
+              "label": "楽天Kobo人気",
+              "rank": 3
+            }
+          ],
+          "rank": 3
+        }
+      },
+      {
+        "id": "4380000400225",
+        "title": "阪急電車",
+        "author": "有川浩",
+        "publisher": "幻冬舎",
+        "price": 550,
+        "url": "https://books.rakuten.co.jp/rk/3d0fe0dfcc094c05a81ccd9f56a4f35d/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0781/2000000150781.jpg?_ex=600x600",
+        "caption": "隣に座った女性は、よく行く図書館で見かけるあの人だった……。片道わずか15分のローカル線で起きる小さな奇跡の数々。乗り合わせただけの乗客の人生が少しずつ交差し、やがて希望の物語が紡がれる。恋の始まり、別れの兆し、途中下車ーー人数分のドラマを乗せた電車はどこまでもは続かない線路を走っていく。ほっこり胸キュンの傑作長篇小説。観客動員90万人突破の大ヒット映画の原作がついに登場。\n",
+        "salesDate": "2011年09月02日",
+        "series": "",
+        "reviewAverage": 4.28,
+        "reviewCount": 3412,
+        "genreId": "101901",
+        "isbn": "4380000400225",
+        "salesType": 0,
+        "ranking": {
+          "title": "阪急電車",
+          "author": "有川浩",
+          "source": "kobo",
+          "sources": [
+            {
+              "source": "kobo",
+              "label": "楽天Kobo人気",
+              "rank": 4
+            }
+          ],
+          "rank": 4
+        }
+      },
+      {
+        "id": "4330008482000",
+        "title": "夜は短し歩けよ乙女",
+        "author": "森見　登美彦",
+        "publisher": "KADOKAWA",
+        "price": 594,
+        "url": "https://books.rakuten.co.jp/rk/8c6ce86a852548af9f3dc98e9f10a24f/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9578/2000000119578.jpg?_ex=600x600",
+        "caption": "「黒髪の乙女」にひそかに想いを寄せる「先輩」は、夜の先斗町に、下鴨神社の古本市に、大学の学園祭に、彼女の姿を追い求めた。けれど先輩の想いに気づかない彼女は、頻発する“偶然の出逢い”にも「奇遇ですねえ！」と言うばかり。そんな２人を待ち受けるのは、個性溢れる曲者たちと珍事件の数々だった。山本周五郎賞を受賞し、本屋大賞２位にも選ばれた、キュートでポップな恋愛ファンタジーの傑作！\n",
+        "salesDate": "2012年08月08日",
+        "series": "",
+        "reviewAverage": 3.99,
+        "reviewCount": 3100,
+        "genreId": "101901",
+        "isbn": "4330008482000",
+        "salesType": 0,
+        "ranking": {
+          "title": "夜は短し歩けよ乙女",
+          "author": "森見　登美彦",
+          "source": "kobo",
+          "sources": [
+            {
+              "source": "kobo",
+              "label": "楽天Kobo人気",
+              "rank": 6
+            }
+          ],
+          "rank": 6
+        }
+      },
+      {
+        "id": "4336953000300",
+        "title": "夜は短し歩けよ乙女　映画カバー版",
+        "author": "森見　登美彦",
+        "publisher": "KADOKAWA",
+        "price": 594,
+        "url": "https://books.rakuten.co.jp/rk/297baf4e28653a488affd90ba3f1aea0/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5786/2000004985786.jpg?_ex=600x600",
+        "caption": "≪アニメ映画公開記念！中村佑介氏のイラスト特別カバー版を電子書籍限定で配信！通常表紙版と内容が同じ商品です。ご注意ください。≫黒髪の乙女にひそかに想いを寄せる先輩は、京都のいたるところで彼女の姿を追い求めた。二人を待ち受ける珍事件の数々、そして運命の大展開。第20回山本周五郎賞受賞、2007年本屋大賞2位、恋愛ファンタジーの大傑作！\n",
+        "salesDate": "2017年03月10日",
+        "series": "",
+        "reviewAverage": 3.99,
+        "reviewCount": 3095,
+        "genreId": "101901",
+        "isbn": "4336953000300",
+        "salesType": 0,
+        "ranking": {
+          "title": "夜は短し歩けよ乙女　映画カバー版",
+          "author": "森見　登美彦",
+          "source": "kobo",
+          "sources": [
+            {
+              "source": "kobo",
+              "label": "楽天Kobo人気",
+              "rank": 7
+            }
+          ],
+          "rank": 7
+        }
+      },
+      {
+        "id": "4913893790001",
+        "title": "本日は、お日柄もよく",
+        "author": "原田マハ",
+        "publisher": "徳間書店",
+        "price": 935,
+        "url": "https://books.rakuten.co.jp/rk/49adbd9c9f7433a386ee69490889836e/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6704/2000004556704.jpg?_ex=600x600",
+        "caption": "OL二ノ宮こと葉は、想いをよせていた幼なじみ厚志の結婚式に最悪の気分で出席していた。ところがその結婚式で涙が溢れるほど感動する衝撃的なスピーチに出会う。それは伝説のスピーチライター久遠久美の祝辞だった。空気を一変させる言葉に魅せられてしまったこと葉はすぐに弟子入り。久美の教えを受け、「政権交代」を叫ぶ野党のスピーチライターに抜擢された!　20万部突破の、目頭が熱くなるお仕事小説。\n",
+        "salesDate": "2016年08月05日",
+        "series": "本日は、お日柄もよく",
+        "reviewAverage": 4.3,
+        "reviewCount": 2930,
+        "genreId": "101901",
+        "isbn": "4913893790001",
+        "salesType": 0,
+        "ranking": {
+          "title": "本日は、お日柄もよく",
           "author": "原田マハ",
           "source": "kobo",
           "sources": [
             {
               "source": "kobo",
               "label": "楽天Kobo人気",
-              "rank": 31
+              "rank": 8
             }
           ],
-          "rank": 31
+          "rank": 8
         }
       },
       {
-        "id": "4340008640231",
-        "title": "人間失格（新潮文庫）",
-        "author": "太宰治",
+        "id": "4340008646011",
+        "title": "向日葵の咲かない夏（新潮文庫）",
+        "author": "道尾秀介",
         "publisher": "新潮社",
-        "price": 440,
-        "url": "https://books.rakuten.co.jp/rk/da999cf7d47638a799ba04b691994839/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7288/2000000137288.jpg?_ex=600x600",
-        "caption": "「恥の多い生涯を送って来ました」。そんな身もふたもない告白から男の手記は始まる。男は自分を偽り、ひとを欺き、取り返しようのない過ちを犯し、「失格」の判定を自らにくだす。でも、男が不在になると、彼を懐かしんで、ある女性は語るのだ。「とても素直で、よく気がきいて（中略）神様みたいないい子でした」と。ひとがひととして、ひとと生きる意味を問う、太宰治、捨て身の問題作。\n",
-        "salesDate": "2012年07月01日",
+        "price": 880,
+        "url": "https://books.rakuten.co.jp/rk/921d755d0044370da0ae76a02b5049cc/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3830/2000000233830.jpg?_ex=600x600",
+        "caption": "夏休みを迎える終業式の日。先生に頼まれ、欠席した級友の家を訪れた。きい、きい。妙な音が聞こえる。Ｓ君は首を吊って死んでいた。だがその衝撃もつかの間、彼の死体は忽然と消えてしまう。一週間後、Ｓ君はあるものに姿を変えて現れた。「僕は殺されたんだ」と訴えながら。僕は妹のミカと、彼の無念を晴らすため、事件を追いはじめた。あなたの目の前に広がる、もう一つの夏休み。\n",
+        "salesDate": "2008年09月12日",
         "series": "",
-        "reviewAverage": 3.99,
-        "reviewCount": 1724,
-        "genreId": "101901",
-        "isbn": "4340008640231",
+        "reviewAverage": 3.39,
+        "reviewCount": 2893,
+        "genreId": "101901/101902",
+        "isbn": "4340008646011",
         "salesType": 0,
         "ranking": {
-          "title": "人間失格（新潮文庫）",
-          "author": "太宰治",
+          "title": "向日葵の咲かない夏（新潮文庫）",
+          "author": "道尾秀介",
           "source": "kobo",
           "sources": [
             {
               "source": "kobo",
               "label": "楽天Kobo人気",
-              "rank": 32
+              "rank": 9
             }
           ],
-          "rank": 32
+          "rank": 9
+        }
+      }
+    ],
+    "mystery": [
+      {
+        "id": "6681297998470",
+        "title": "変な地図",
+        "author": "雨穴",
+        "publisher": "双葉社",
+        "price": 1760,
+        "url": "https://books.rakuten.co.jp/rk/739cdf2de2c93df7a0aa7bccbbaf365b/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2631/2000018972631.jpg?_ex=600x600",
+        "caption": "主人公はあの栗原さん!!　\n『変な家』『変な絵』に続く、雨穴「変な」シリーズの集大成！　\n2015年、大学生の栗原は、意外な事実を知る。\n彼の祖母が、正体不明の古地図を握りしめて、不審死を遂げたという。\nその古地図には、７体の妖怪が描かれていた。\nこれはいったい何なのか。なぜ、祖母は死に際にこんなものを持っていたのか。\n謎を探るため、栗原は旅に出る。　\nそこに待ち受けていたのは、海沿いの廃集落、不可解な人身事故、潰れかけの民宿、因縁に満ちたトンネル、そして古地図に秘められた悲しい事実だったーー。　\n祖母はなぜ死んだのか？　\n妖怪の正体は？　\nホラー、ミステリー、サスペンス、冒険、青春、恋愛・・・・・・　\n2024年書籍売り上げ1位！　雨穴が送る異形の王道小説。　\nあなたには、この「古地図」の謎が解けますか？　\n※イメージふくらむ「考察マップ」も収録。\n※著者・雨穴による『沖上喜見子の手記』朗読動画付き！\n",
+        "salesDate": "2025年10月31日",
+        "series": "変な地図",
+        "reviewAverage": 3.84,
+        "reviewCount": 614,
+        "genreId": "101902",
+        "isbn": "6681297998470",
+        "salesType": 0,
+        "matchMeta": {
+          "title": "変な地図",
+          "author": "雨穴",
+          "score": 102,
+          "sources": [
+            {
+              "source": "tohan",
+              "label": "トーハン",
+              "rank": 2
+            }
+          ],
+          "source": "combined",
+          "rank": 2,
+          "originalTitle": ""
+        },
+        "ranking": {
+          "title": "変な地図",
+          "author": "雨穴",
+          "score": 102,
+          "sources": [
+            {
+              "source": "tohan",
+              "label": "トーハン",
+              "rank": 2
+            }
+          ],
+          "source": "combined",
+          "rank": 1,
+          "originalTitle": ""
         }
       },
       {
-        "id": "4483059200001",
-        "title": "舟を編む",
-        "author": "三浦しをん",
-        "publisher": "光文社",
-        "price": 880,
-        "url": "https://books.rakuten.co.jp/rk/4af19be6895f32fbad3c1e7cd7e8ceb6/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1268/2000002911268.jpg?_ex=600x600",
-        "caption": "出版社の営業部員・馬締光也（まじめみつや）は、言葉への鋭いセンスを買われ、辞書編集部に引き抜かれた。新しい辞書「大渡海（だいとかい）」の完成に向け、彼と編集部の面々の長い長い旅が始まる。定年間近のベテラン編集者。日本語研究に人生を捧げる老学者。辞書作りに情熱を持ち始める同僚たち。そして馬締がついに出会った運命の女性。不器用な人々の思いが胸を打つ本屋大賞受賞作！　馬締の恋文全文（？）収録！\n",
-        "salesDate": "2015年03月13日",
-        "series": "舟を編む",
-        "reviewAverage": 4.34,
-        "reviewCount": 1685,
-        "genreId": "101901",
-        "isbn": "4483059200001",
+        "id": "6681299179860",
+        "title": "暁星",
+        "author": "湊かなえ",
+        "publisher": "双葉社",
+        "price": 1980,
+        "url": "https://books.rakuten.co.jp/rk/eb8de6a46aa935d48709dbfee116c7d2/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4762/2000019204762.jpg?_ex=600x600",
+        "caption": "「ただ、星を守りたかっただけーー」　\n現役の文部科学大臣で文壇の大御所作家でもある清水義之が全国高校生総合文化祭の式典の最中、舞台袖から飛び出してきた男に刺されて死亡する事件がおきた。逮捕された男の名前は永瀬暁、37歳。永瀬は逮捕されたのち、週刊誌に手記を発表しはじめる。そこには、清水が深く関わっているとされる新興宗教に対する恨みが綴られていた。また、式典に出席していた作家は、永瀬の事件を小説として描く。ノンフィクションとフィクション、ふたつの物語が合わさったとき見える景色とは!?\n",
+        "salesDate": "2025年11月27日",
+        "series": "暁星",
+        "reviewAverage": 4.18,
+        "reviewCount": 1124,
+        "genreId": "101902",
+        "isbn": "6681299179860",
         "salesType": 0,
-        "ranking": {
-          "title": "舟を編む",
-          "author": "三浦しをん",
-          "source": "kobo",
+        "matchMeta": {
+          "title": "暁星",
+          "author": "湊かなえ",
+          "score": 82,
           "sources": [
             {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 33
+              "source": "tohan",
+              "label": "トーハン",
+              "rank": 7
             }
           ],
-          "rank": 33
+          "source": "combined",
+          "rank": 7,
+          "originalTitle": ""
+        },
+        "ranking": {
+          "title": "暁星",
+          "author": "湊かなえ",
+          "score": 82,
+          "sources": [
+            {
+              "source": "tohan",
+              "label": "トーハン",
+              "rank": 7
+            }
+          ],
+          "source": "combined",
+          "rank": 2,
+          "originalTitle": ""
         }
       },
       {
-        "id": "4910000195437",
-        "title": "三千円の使いかた",
-        "author": "原田ひ香",
-        "publisher": "中央公論新社",
-        "price": 880,
-        "url": "https://books.rakuten.co.jp/rk/70d47a50f8df30f387bb781c0c4f0605/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0935/2000010130935.jpg?_ex=600x600",
-        "caption": "垣谷美雨さん絶賛！\n「この本は死ぬまで本棚の片隅に置いておき、自分を見失うたびに再び手に取る。そういった価値のある本です」\n就職して理想の一人暮らしをはじめた美帆（貯金三十万）。結婚前は証券会社勤務だった姉・真帆（貯金六百万）。習い事に熱心で向上心の高い母・智子（貯金百万弱）。そして一千万円を貯めた祖母・琴子。御厨家の女性たちは人生の節目とピンチを乗り越えるため、お金をどう貯めて、どう使うのか？\n知識が深まり、絶対「元」もとれちゃう「節約」家族小説！\n",
-        "salesDate": "2021年08月20日",
-        "series": "三千円の使いかた",
-        "reviewAverage": 3.81,
-        "reviewCount": 1663,
-        "genreId": "101901",
-        "isbn": "4910000195437",
+        "id": "6681229611760",
+        "title": "告白",
+        "author": "湊かなえ",
+        "publisher": "双葉社",
+        "price": 681,
+        "url": "https://books.rakuten.co.jp/rk/a18033cb61ee3302a3474f02e994cf96/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2850/2000008472850.jpg?_ex=600x600",
+        "caption": "「愛美は死にました。しかし事故ではありません。このクラスの生徒に殺されたのです」我が子を校内で亡くした中学校の女性教師によるホームルームでの告白から、この物語は始まる。語り手が「級友」「犯人」「犯人の家族」と次々と変わり、次第に事件の全体像が浮き彫りにされていく。衝撃的なラストを巡り物議を醸した、デビュー作にして、第6回本屋大賞受賞のベストセラー。\n",
+        "salesDate": "2020年06月08日",
+        "series": "",
+        "reviewAverage": 4.12,
+        "reviewCount": 3871,
+        "genreId": "101902",
+        "isbn": "6681229611760",
         "salesType": 0,
         "ranking": {
-          "title": "三千円の使いかた",
-          "author": "原田ひ香",
+          "title": "告白",
+          "author": "湊かなえ",
           "source": "kobo",
           "sources": [
             {
               "source": "kobo",
               "label": "楽天Kobo人気",
-              "rank": 34
+              "rank": 1
             }
           ],
-          "rank": 34
+          "rank": 1
         }
       },
+      {
+        "id": "4390000000885",
+        "title": "イニシエーション・ラブ",
+        "author": "乾くるみ",
+        "publisher": "文藝春秋",
+        "price": 770,
+        "url": "https://books.rakuten.co.jp/rk/ba75a039b5c9421696aa6086c927538f/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3245/2000000183245.jpg?_ex=600x600",
+        "caption": "「必ず二回読みたくなる」と絶賛された傑作ミステリー。僕がマユに出会ったのは、人数が足りないからと呼びだされた合コンの席。理系学生の僕と、歯科衛生士の彼女。夏の海へのドライブ。ややオクテで真面目な僕らは、やがて恋に落ちて……。甘美で、ときにほろ苦い青春のひとときを瑞々しい筆致で描いた青春小説──と思いきや、最後から二つめのセリフ（絶対に先に読まないで！）で、本書はまったく違った物語に変貌してしまう。\n2015年映画化。　主演　松田翔太、前田敦子、木村文乃／監督　堤幸彦\n",
+        "salesDate": "2007年09月20日",
+        "series": "",
+        "reviewAverage": 3.51,
+        "reviewCount": 3252,
+        "genreId": "101902",
+        "isbn": "4390000000885",
+        "salesType": 0,
+        "ranking": {
+          "title": "イニシエーション・ラブ",
+          "author": "乾くるみ",
+          "source": "kobo",
+          "sources": [
+            {
+              "source": "kobo",
+              "label": "楽天Kobo人気",
+              "rank": 2
+            }
+          ],
+          "rank": 2
+        }
+      },
+      {
+        "id": "4310000009879",
+        "title": "十角館の殺人〈新装改訂版〉",
+        "author": "綾辻行人",
+        "publisher": "講談社",
+        "price": 946,
+        "url": "https://books.rakuten.co.jp/rk/59b1162603ce36249b1a9ca69a03e316/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8653/2000000248653.jpg?_ex=600x600",
+        "caption": "十角形の奇妙な館が建つ孤島・角島を大学ミステリ研の７人が訪れた。館を建てた建築家・中村青司は、半年前に炎上した青屋敷で焼死したという。やがて学生たちを襲う連続殺人。ミステリ史上最大級の、驚愕の結末が読者を待ち受ける！\n１９８７年の刊行以来、多くの読者に衝撃を与え続けた名作が新装改訂版で登場。（講談社文庫）\n",
+        "salesDate": "2013年04月10日",
+        "series": "館シリーズ",
+        "reviewAverage": 4.22,
+        "reviewCount": 3055,
+        "genreId": "101902",
+        "isbn": "4310000009879",
+        "salesType": 0,
+        "ranking": {
+          "title": "十角館の殺人〈新装改訂版〉",
+          "author": "綾辻行人",
+          "source": "kobo",
+          "sources": [
+            {
+              "source": "kobo",
+              "label": "楽天Kobo人気",
+              "rank": 3
+            }
+          ],
+          "rank": 3
+        }
+      },
+      {
+        "id": "4340008646011",
+        "title": "向日葵の咲かない夏（新潮文庫）",
+        "author": "道尾秀介",
+        "publisher": "新潮社",
+        "price": 880,
+        "url": "https://books.rakuten.co.jp/rk/921d755d0044370da0ae76a02b5049cc/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3830/2000000233830.jpg?_ex=600x600",
+        "caption": "夏休みを迎える終業式の日。先生に頼まれ、欠席した級友の家を訪れた。きい、きい。妙な音が聞こえる。Ｓ君は首を吊って死んでいた。だがその衝撃もつかの間、彼の死体は忽然と消えてしまう。一週間後、Ｓ君はあるものに姿を変えて現れた。「僕は殺されたんだ」と訴えながら。僕は妹のミカと、彼の無念を晴らすため、事件を追いはじめた。あなたの目の前に広がる、もう一つの夏休み。\n",
+        "salesDate": "2008年09月12日",
+        "series": "",
+        "reviewAverage": 3.39,
+        "reviewCount": 2893,
+        "genreId": "101901/101902",
+        "isbn": "4340008646011",
+        "salesType": 0,
+        "ranking": {
+          "title": "向日葵の咲かない夏（新潮文庫）",
+          "author": "道尾秀介",
+          "source": "kobo",
+          "sources": [
+            {
+              "source": "kobo",
+              "label": "楽天Kobo人気",
+              "rank": 4
+            }
+          ],
+          "rank": 4
+        }
+      },
+      {
+        "id": "4820000074654",
+        "title": "白夜行",
+        "author": "東野圭吾",
+        "publisher": "集英社",
+        "price": 1430,
+        "url": "https://books.rakuten.co.jp/rk/0ca0b1ce5479364abdfc51ca9ac47b74/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8342/2000008388342.jpg?_ex=600x600",
+        "caption": "1973年、大阪の廃墟ビルで一人の質屋が殺された。容疑者は次々と浮かぶが、事件は迷宮入りする。被害者の息子・桐原亮司と「容疑者」の娘・西本雪穂ーー暗い目をした少年と、並外れて美しい少女は、その後、全く別の道を歩んでいく。二人の周囲に見え隠れする、いくつもの恐るべき犯罪。だが、証拠は何もない。そして19年……。伏線が幾重にも張り巡らされた緻密なストーリー。壮大なスケールで描かれた、ミステリー史に燦然と輝く大人気作家の記念碑的傑作。\n",
+        "salesDate": "2020年04月24日",
+        "series": "白夜行",
+        "reviewAverage": 4.31,
+        "reviewCount": 2725,
+        "genreId": "101901001/101902",
+        "isbn": "4820000074654",
+        "salesType": 0,
+        "ranking": {
+          "title": "白夜行",
+          "author": "東野圭吾",
+          "source": "kobo",
+          "sources": [
+            {
+              "source": "kobo",
+              "label": "楽天Kobo人気",
+              "rank": 5
+            }
+          ],
+          "rank": 5
+        }
+      },
+      {
+        "id": "4390000004085",
+        "title": "葉桜の季節に君を想うということ",
+        "author": "歌野晶午",
+        "publisher": "文藝春秋",
+        "price": 880,
+        "url": "https://books.rakuten.co.jp/rk/c7f768b7bd73316fa982c32c9f3f9b42/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0084/2000005750084.jpg?_ex=600x600",
+        "caption": "ミステリー文学賞＆年末ランキング４冠！　本格ミステリーの新時代を告げた記念碑的傑作！\nかつては探偵事務所で働き、いまは「何でもやってやろう屋」を自称して気ままな生活を送る「俺」成瀬将虎。\nある日、高校の後輩のキヨシの頼みで、彼が密かに惚れている久高愛子の祖父の不審死と、高額で布団や健康食品を売りつける蓬莱倶楽部の調査を引き受ける。\nそして同日、駅のホームで飛び込み自殺しようとした女・麻宮さくらを助けたことで、運命の歯車が回り始めるーー。\n蓬莱倶楽部の悪徳商法を調査する将虎の軽妙なハードボイルド探偵の活躍を楽しむあなたに、ラストで襲い掛かる大どんでん返し!?\n日本推理作家協会賞、本格ミステリ大賞ダブル受賞＆「このミステリーがすごい！」「本格ミステリベスト10」で第1位！\n中居正広さんほか、たくさんの著名人も激賞！\n二度読み必至の究極の徹夜本です。\n",
+        "salesDate": "2017年12月05日",
+        "series": "",
+        "reviewAverage": 3.63,
+        "reviewCount": 2694,
+        "genreId": "101902",
+        "isbn": "4390000004085",
+        "salesType": 0,
+        "ranking": {
+          "title": "葉桜の季節に君を想うということ",
+          "author": "歌野晶午",
+          "source": "kobo",
+          "sources": [
+            {
+              "source": "kobo",
+              "label": "楽天Kobo人気",
+              "rank": 6
+            }
+          ],
+          "rank": 6
+        }
+      },
+      {
+        "id": "4390000005636",
+        "title": "容疑者Xの献身",
+        "author": "東野圭吾",
+        "publisher": "文藝春秋",
+        "price": 770,
+        "url": "https://books.rakuten.co.jp/rk/ffd6faf3b54b36bcbc30235a82624fa9/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7077/2000008377077.jpg?_ex=600x600",
+        "caption": "累計290万部突破。直木賞を受賞した大ベストセラー！\n天才数学者でありながら不遇な日々を送っていた高校教師の石神は、一人娘と暮らす隣人の靖子に秘かな想いを寄せていた。彼女たちが前夫を殺害したことを知った彼は、2人を救うため完全犯罪を企てる。だが皮肉にも、石神のかつての親友である物理学者の湯川学が、その謎に挑むことになる。ガリレオシリーズ初の長篇、直木賞受賞作。\n福山雅治主演で2008年に映画化され、堤真一、松雪泰子の熱演も話題になった。\n※この電子書籍は2008年8月に文藝春秋より刊行された文庫を底本としています\n",
+        "salesDate": "2020年04月24日",
+        "series": "",
+        "reviewAverage": 4.44,
+        "reviewCount": 2657,
+        "genreId": "101901/101902",
+        "isbn": "4390000005636",
+        "salesType": 0,
+        "ranking": {
+          "title": "容疑者Xの献身",
+          "author": "東野圭吾",
+          "source": "kobo",
+          "sources": [
+            {
+              "source": "kobo",
+              "label": "楽天Kobo人気",
+              "rank": 7
+            }
+          ],
+          "rank": 7
+        }
+      },
+      {
+        "id": "4340009600161",
+        "title": "重力ピエロ（新潮文庫）",
+        "author": "伊坂幸太郎",
+        "publisher": "新潮社",
+        "price": 935,
+        "url": "https://books.rakuten.co.jp/rk/114f49837df43d249996ba6822efba4f/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8650/2000000138650.jpg?_ex=600x600",
+        "caption": "兄は泉水、二つ下の弟は春、優しい父、美しい母。家族には、過去に辛い出来事があった。その記憶を抱えて兄弟が大人になった頃、事件は始まる。連続放火と、火事を予見するような謎のグラフィティアートの出現。そしてそのグラフィティアートと遺伝子のルールの奇妙なリンク。謎解きに乗り出した兄が遂に直面する圧倒的な真実とはーー。溢れくる未知の感動、小説の奇跡が今ここに。\n",
+        "salesDate": "2008年09月05日",
+        "series": "",
+        "reviewAverage": 3.9,
+        "reviewCount": 2654,
+        "genreId": "101901001/101902",
+        "isbn": "4340009600161",
+        "salesType": 0,
+        "ranking": {
+          "title": "重力ピエロ（新潮文庫）",
+          "author": "伊坂幸太郎",
+          "source": "kobo",
+          "sources": [
+            {
+              "source": "kobo",
+              "label": "楽天Kobo人気",
+              "rank": 8
+            }
+          ],
+          "rank": 8
+        }
+      }
+    ],
+    "sf": [
       {
         "id": "4821135170001",
         "title": "終末のフール",
@@ -628,105 +1086,283 @@
             {
               "source": "kobo",
               "label": "楽天Kobo人気",
-              "rank": 35
+              "rank": 1
             }
           ],
-          "rank": 35
+          "rank": 1
         }
       },
       {
-        "id": "4340008054051",
-        "title": "風が強く吹いている（新潮文庫）",
-        "author": "三浦しをん",
-        "publisher": "新潮社",
+        "id": "4624150309848",
+        "title": "虐殺器官",
+        "author": "伊藤 計劃",
+        "publisher": "早川書房",
         "price": 1100,
-        "url": "https://books.rakuten.co.jp/rk/598a753491cd3edb95128bc44a977100/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7857/2000011487857.jpg?_ex=600x600",
-        "caption": "箱根駅伝を走りたいーーそんな灰二の想いが、天才ランナー走と出会って動き出す。「駅伝」って何？　走るってどういうことなんだ？　十人の個性あふれるメンバーが、長距離を走ること（＝生きること）に夢中で突き進む。自分の限界に挑戦し、ゴールを目指して襷を繋ぐことで、仲間と繋がっていく……風を感じて、走れ！　「速く」ではなく「強く」ーー純度100パーセントの疾走青春小説。（解説・最相葉月）\n",
-        "salesDate": "2022年07月29日",
+        "url": "https://books.rakuten.co.jp/rk/1a84ae4715f2419db1610fbfc8cdadae/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4393/2000001714393.jpg?_ex=600x600",
+        "caption": "９・11を経て、“テロとの戦い”は転機を迎えていた。先進諸国は徹底的な管理体制に移行してテロを一掃したが、後進諸国では内戦や大規模虐殺が急激に増加していた。米軍大尉クラヴィス・シェパードは、その混乱の陰に常に存在が囁かれる謎の男、ジョン・ポールを追ってチェコへと向かう……彼の目的とはいったいなにか？　大量殺戮を引き起こす“虐殺の器官”とは？　ゼロ年代最高のフィクションが電子書籍版で登場。\n",
+        "salesDate": "2012年08月01日",
         "series": "",
-        "reviewAverage": 4.58,
-        "reviewCount": 1644,
-        "genreId": "101901001",
-        "isbn": "4340008054051",
+        "reviewAverage": 4.17,
+        "reviewCount": 1135,
+        "genreId": "101901005/101901001",
+        "isbn": "4624150309848",
         "salesType": 0,
         "ranking": {
-          "title": "風が強く吹いている（新潮文庫）",
-          "author": "三浦しをん",
+          "title": "虐殺器官",
+          "author": "伊藤 計劃",
           "source": "kobo",
           "sources": [
             {
               "source": "kobo",
               "label": "楽天Kobo人気",
-              "rank": 36
+              "rank": 2
             }
           ],
-          "rank": 36
+          "rank": 2
         }
       },
       {
-        "id": "4330008429000",
-        "title": "四畳半神話大系",
-        "author": "森見　登美彦",
-        "publisher": "KADOKAWA",
-        "price": 726,
-        "url": "https://books.rakuten.co.jp/rk/4c7802b2cc6946ffac6a1ac4a69d9964/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9993/2000000209993.jpg?_ex=600x600",
-        "caption": "私は冴えない大学３回生。バラ色のキャンパスライフを想像していたのに、現実はほど遠い。悪友の小津には振り回され、謎の自由人・樋口師匠には無理な要求をされ、孤高の乙女・明石さんとは、なかなかお近づきになれない。いっそのこと、ぴかぴかの１回生に戻って大学生活をやり直したい！　さ迷い込んだ４つの並行世界で繰り広げられる、滅法おかしくて、ちょっぴりほろ苦い青春ストーリー。\n",
-        "salesDate": "2012年08月30日",
-        "series": "四畳半シリーズ",
-        "reviewAverage": 3.97,
-        "reviewCount": 1632,
-        "genreId": "101901",
-        "isbn": "4330008429000",
+        "id": "4624151200533",
+        "title": "一九八四年",
+        "author": "ジョージ・オーウェル/高橋 和久",
+        "publisher": "早川書房",
+        "price": 990,
+        "url": "https://books.rakuten.co.jp/rk/9b7f6341aa3a4d298781d927037d78f3/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5717/2000001715717.jpg?_ex=600x600",
+        "caption": "〈ビッグ・ブラザー〉率いる党が支配する超全体主義的近未来。ウィンストン・スミスは、真理省記録局で歴史の改竄に従事していた。彼は奔放な美女ジュリアとの出会いを契機に、伝説的な裏切り者による反政府地下活動に惹かれるようになる。\n",
+        "salesDate": "2012年08月01日",
+        "series": "",
+        "reviewAverage": 4.15,
+        "reviewCount": 884,
+        "genreId": "101901005/101901001",
+        "isbn": "4624151200533",
         "salesType": 0,
         "ranking": {
-          "title": "四畳半神話大系",
-          "author": "森見　登美彦",
+          "title": "一九八四年",
+          "author": "ジョージ・オーウェル/高橋 和久",
           "source": "kobo",
           "sources": [
             {
               "source": "kobo",
               "label": "楽天Kobo人気",
-              "rank": 37
+              "rank": 3
             }
           ],
-          "rank": 37
+          "rank": 3
         }
       },
       {
-        "id": "4310000001805",
-        "title": "チルドレン",
-        "author": "伊坂幸太郎",
+        "id": "4310000003854",
+        "title": "新世界より(下)",
+        "author": "貴志祐介",
         "publisher": "講談社",
-        "price": 814,
-        "url": "https://books.rakuten.co.jp/rk/a0286eb914c84362a9b3b73b5c43a7f2/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4103/2000000154103.jpg?_ex=600x600",
-        "caption": "「俺たちは奇跡を起こすんだ」独自の正義感を持ち、いつも周囲を自分のペースに引き込むが、なぜか憎めない男、陣内。彼を中心にして起こる不思議な事件の数々ーー。何気ない日常に起こった５つの物語が、一つになったとき、予想もしない奇跡が降り注ぐ。ちょっとファニーで、心温まる連作短編の傑作。\n",
-        "salesDate": "2012年08月29日",
-        "series": "チルドレン",
-        "reviewAverage": 4.08,
-        "reviewCount": 1629,
-        "genreId": "101901",
-        "isbn": "4310000001805",
+        "price": 1078,
+        "url": "https://books.rakuten.co.jp/rk/463bd3585beb4b8dae4ecf00b5c978ce/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6882/2000000186882.jpg?_ex=600x600",
+        "caption": "夏祭りの夜に起きた大殺戮。悲鳴と嗚咽に包まれた町を後にして、選ばれし者は目的の地へと急ぐ。それが何よりも残酷であろうとも、真実に近付くために。流血で塗り固められた大地の上でもなお、人類は生き抜かなければならない。構想３０年、想像力の限りを尽くして描かれた五感と魂を揺さぶる記念碑的大傑作！　PLAYBOYミステリー大賞２００８年　第１位、ベストＳＦ２００８（国内篇）　（講談社文庫）\n",
+        "salesDate": "2012年11月08日",
+        "series": "新世界より",
+        "reviewAverage": 4.25,
+        "reviewCount": 823,
+        "genreId": "101901006/101901005",
+        "isbn": "4310000003854",
         "salesType": 0,
         "ranking": {
-          "title": "チルドレン",
-          "author": "伊坂幸太郎",
+          "title": "新世界より(下)",
+          "author": "貴志祐介",
           "source": "kobo",
           "sources": [
             {
               "source": "kobo",
               "label": "楽天Kobo人気",
-              "rank": 38
+              "rank": 4
             }
           ],
-          "rank": 38
+          "rank": 4
+        }
+      },
+      {
+        "id": "4624150102296",
+        "title": "アンドロイドは電気羊の夢を見るか？",
+        "author": "フィリップ・Ｋ・ディック",
+        "publisher": "早川書房",
+        "price": 1430,
+        "url": "https://books.rakuten.co.jp/rk/dbd4812744104d10828628875fd2a7db/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2899/2000001712899.jpg?_ex=600x600",
+        "caption": "第三次大戦後、放射能灰に汚された地球では生きた動物を持っているかどうかが地位の象徴になっていた。人工の電気羊しか飼えないリックは、かくて火星から逃亡した〈奴隷〉アンドロイド八人の首にかかった賞金を狙って、決死の狩りを始めた！　現代ＳＦの旗手が斬新な着想と華麗な筆致で描く悪夢の未来世界！\n",
+        "salesDate": "2012年08月01日",
+        "series": "",
+        "reviewAverage": 3.92,
+        "reviewCount": 814,
+        "genreId": "101901005",
+        "isbn": "4624150102296",
+        "salesType": 0,
+        "ranking": {
+          "title": "アンドロイドは電気羊の夢を見るか？",
+          "author": "フィリップ・Ｋ・ディック",
+          "source": "kobo",
+          "sources": [
+            {
+              "source": "kobo",
+              "label": "楽天Kobo人気",
+              "rank": 5
+            }
+          ],
+          "rank": 5
+        }
+      },
+      {
+        "id": "4310000568980",
+        "title": "小説",
+        "author": "野崎まど",
+        "publisher": "講談社",
+        "price": 2035,
+        "url": "https://books.rakuten.co.jp/rk/c1b78c6d096c319f9bc1829ac9bac514/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2527/2000016402527.jpg?_ex=600x600",
+        "caption": "我々は、なぜ小説を読むのか。\n五歳で読んだ『走れメロス』をきっかけに、内海集司の人生は小説にささげられることになった。\n複雑な人間の昇華体であり、人の心を掴んで離さない、人の心が作り出した物語の結晶。\nそこには望むもののすべてがあった。\n十二歳になると、内海集司は小説の魅力を共有できる生涯の友・外崎真と出会う。二人は小説家が住んでいるというモジャ屋敷に潜り込む。\nそこでは好きなだけ本を読んでいても怒られることはなく、小説家・髭先生は二人の小説世界をさらに豊かにしていく。\nしかし、その屋敷にはある秘密があった。\n小説を書くことで失われる世界の均衡、読むことで広がる無限の心。\n宇宙最高の愉悦のすべてが、今明らかになる。\n",
+        "salesDate": "2024年11月19日",
+        "series": "小説",
+        "reviewAverage": 3.74,
+        "reviewCount": 774,
+        "genreId": "101901005",
+        "isbn": "4310000568980",
+        "salesType": 0,
+        "ranking": {
+          "title": "小説",
+          "author": "野崎まど",
+          "source": "kobo",
+          "sources": [
+            {
+              "source": "kobo",
+              "label": "楽天Kobo人気",
+              "rank": 6
+            }
+          ],
+          "rank": 6
+        }
+      },
+      {
+        "id": "4310000003853",
+        "title": "新世界より(上)",
+        "author": "貴志祐介",
+        "publisher": "講談社",
+        "price": 968,
+        "url": "https://books.rakuten.co.jp/rk/e4a23586680c4ca6bf6f2738146d1dee/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4001/2000000104001.jpg?_ex=600x600",
+        "caption": "１０００年後の日本。豊かな自然に抱かれた集落、神栖（かみす）６６町には純粋無垢な子どもたちの歓声が響く。周囲を注連縄（しめなわ）で囲まれたこの町には、外から穢れが侵入することはない。「神の力（念動力）」を得るに至った人類が手にした平和。念動力（サイコキネシス）の技を磨く子どもたちは野心と希望に燃えていた……隠された先史文明の一端を知るまでは。　（講談社文庫）\n",
+        "salesDate": "2012年11月08日",
+        "series": "新世界より",
+        "reviewAverage": 3.99,
+        "reviewCount": 757,
+        "genreId": "101901006/101901005",
+        "isbn": "4310000003853",
+        "salesType": 0,
+        "ranking": {
+          "title": "新世界より(上)",
+          "author": "貴志祐介",
+          "source": "kobo",
+          "sources": [
+            {
+              "source": "kobo",
+              "label": "楽天Kobo人気",
+              "rank": 7
+            }
+          ],
+          "rank": 7
+        }
+      },
+      {
+        "id": "4624150310196",
+        "title": "ハーモニー",
+        "author": "伊藤 計劃",
+        "publisher": "早川書房",
+        "price": 1045,
+        "url": "https://books.rakuten.co.jp/rk/7f4c5a858c6c466d87fde50df9d4de3f/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4627/2000001714627.jpg?_ex=600x600",
+        "caption": "〈ベストセラー『虐殺器官』の著者による“最後”のオリジナル作品〉これは、“人類”の最終局面に立ち会ったふたりの女性の物語ーー急逝した著者がユートピアの臨界点を活写した日本SF大賞受賞作。※本文中にHTMLタグのような表記がありますが、これは本書の仕様です。\n",
+        "salesDate": "2012年08月01日",
+        "series": "",
+        "reviewAverage": 4.29,
+        "reviewCount": 712,
+        "genreId": "101901005/101901001",
+        "isbn": "4624150310196",
+        "salesType": 0,
+        "ranking": {
+          "title": "ハーモニー",
+          "author": "伊藤 計劃",
+          "source": "kobo",
+          "sources": [
+            {
+              "source": "kobo",
+              "label": "楽天Kobo人気",
+              "rank": 8
+            }
+          ],
+          "rank": 8
+        }
+      },
+      {
+        "id": "4340008007641",
+        "title": "ボッコちゃん（新潮文庫）",
+        "author": "星新一",
+        "publisher": "新潮社",
+        "price": 781,
+        "url": "https://books.rakuten.co.jp/rk/7490d736fb2634418e50850251250b15/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5107/2000000195107.jpg?_ex=600x600",
+        "caption": "スマートなユーモア、ユニークな着想、シャープな諷刺にあふれ、光り輝く小宇宙群！　日本ＳＦのパイオニア星新一のショートショート集。表題作品をはじめ「おーい　でてこーい」「殺し屋ですのよ」「月の光」「暑さ」「不眠症」「ねらわれた星」「冬の蝶」「鏡」「親善キッス」「マネー・エイジ」「ゆきとどいた生活」「よごれている本」など、とても楽しく、ちょっぴりスリリングな自選５０編。\n",
+        "salesDate": "2012年08月31日",
+        "series": "",
+        "reviewAverage": 4.14,
+        "reviewCount": 608,
+        "genreId": "101901005/101901001",
+        "isbn": "4340008007641",
+        "salesType": 0,
+        "ranking": {
+          "title": "ボッコちゃん（新潮文庫）",
+          "author": "星新一",
+          "source": "kobo",
+          "sources": [
+            {
+              "source": "kobo",
+              "label": "楽天Kobo人気",
+              "rank": 9
+            }
+          ],
+          "rank": 9
+        }
+      },
+      {
+        "id": "4915174030001",
+        "title": "残像に口紅を",
+        "author": "筒井康隆",
+        "publisher": "中央公論新社",
+        "price": 990,
+        "url": "https://books.rakuten.co.jp/rk/0d74c56f9ce63fbd9d3b1ab60914c1aa/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7405/2000006287405.jpg?_ex=600x600",
+        "caption": "「あ」が消えると、「愛」も「あなた」もなくなった。ひとつ、またひとつと言葉が失われてゆく世界で、執筆し、飲食し、交情する小説家。筒井康隆、究極の実験的長篇。\n",
+        "salesDate": "2018年04月27日",
+        "series": "残像に口紅を",
+        "reviewAverage": 3.2,
+        "reviewCount": 597,
+        "genreId": "101901005/101901001",
+        "isbn": "4915174030001",
+        "salesType": 0,
+        "ranking": {
+          "title": "残像に口紅を",
+          "author": "筒井康隆",
+          "source": "kobo",
+          "sources": [
+            {
+              "source": "kobo",
+              "label": "楽天Kobo人気",
+              "rank": 10
+            }
+          ],
+          "rank": 10
         }
       }
     ],
-    "mystery": [],
-    "sf": [],
     "business": [
       {
         "id": "4524815633410",
@@ -771,7 +1407,7 @@
             }
           ],
           "source": "combined",
-          "rank": 1,
+          "rank": 3,
           "originalTitle": ""
         }
       },
@@ -1090,7 +1726,7 @@
             }
           ],
           "source": "combined",
-          "rank": 4,
+          "rank": 6,
           "originalTitle": ""
         }
       },
@@ -1134,53 +1770,6 @@
               "source": "tohan",
               "label": "トーハン",
               "rank": 10
-            }
-          ],
-          "source": "combined",
-          "rank": 5,
-          "originalTitle": ""
-        }
-      },
-      {
-        "id": "4380000485089",
-        "title": "大河の一滴　最終章",
-        "author": "五木寛之",
-        "publisher": "幻冬舎",
-        "price": 1881,
-        "url": "https://books.rakuten.co.jp/rk/11c561cb4c083a838252a295da0974c9/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1450/2000019211450.jpg?_ex=600x600",
-        "caption": "93歳の人間論ーー。\n人は何かのために生きるのではない。\n誰かのために生きるのだ。\n衝撃のベストセラー『大河の一滴』から30年。圧巻の集大成。\n常に、再生の希望はある。\n少年時代の引揚体験、自死への欲求、思いがけない病の宣告……\nあえて、大河の流れに逆らうことを決意した、告白的人間論。\n「かつて人生を大河の流れにたとえて書いたときは、その流れに身をまかせて、生命の海へと流れていく、そんなふうに考えていた。\n　しかし、と、私は思ったのだ。ときには大河の流れに身をまかせるだけでなく、それに逆らって生きることもあっていいのではあるまいか。大河の流れの中にも、逆流する場所もあれば、迂回する流れもある。\n　長く生きられなかった彼らのかわりに、自分は一日でも長く生きようと考えてきたのではなかったか。運命に身をまかせるだけでなく、それに逆らうこともあっていい。\n　人には、何人かのために生きる責任がある、と思う。人々のはたさざりし思いを背負って生きる義務があるのではないか。何かのためではなく、誰かのために生きるのだ」\nーー「大河の流れに逆らって」本文より\n静寂から立ち上がる、鮮やかな再生の物語。\n",
-        "salesDate": "2026年02月12日",
-        "series": "",
-        "reviewAverage": 4,
-        "reviewCount": 21,
-        "genreId": "101907002002",
-        "isbn": "4380000485089",
-        "salesType": 0,
-        "matchMeta": {
-          "title": "大河の一滴 最終章",
-          "author": "五木寛之",
-          "score": 78,
-          "sources": [
-            {
-              "source": "tohan",
-              "label": "トーハン",
-              "rank": 8
-            }
-          ],
-          "source": "combined",
-          "rank": 8,
-          "originalTitle": ""
-        },
-        "ranking": {
-          "title": "大河の一滴 最終章",
-          "author": "五木寛之",
-          "score": 78,
-          "sources": [
-            {
-              "source": "tohan",
-              "label": "トーハン",
-              "rank": 8
             }
           ],
           "source": "combined",
@@ -1396,6 +1985,36 @@
             }
           ],
           "rank": 7
+        }
+      },
+      {
+        "id": "4390000001078",
+        "title": "聞く力 心をひらく35のヒント",
+        "author": "阿川佐和子",
+        "publisher": "文藝春秋",
+        "price": 880,
+        "url": "https://books.rakuten.co.jp/rk/927afff29b97451f9a44bdd238054530/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1122/2000000211122.jpg?_ex=600x600",
+        "caption": "「週刊文春」の名物対談「阿川佐和子のこの人に会いたい」が、連載900回を超えた。20年間で取材した各界著名人は1000人近い。が、未だにインタビューに苦手意識があるというアガワ。なぜ相手の本音を引き出すことができるのか？　本書では、数々の失敗から会得した「『分かります』と安易に言わない」「『たとえば？』『具体的には？』は話を掘り下げるのに有効」「なぐさめの言葉は２秒後に」などの“秘訣”を、インタビュー時のエピソードとともに初披露する！\n",
+        "salesDate": "2014年05月28日",
+        "series": "",
+        "reviewAverage": 3.45,
+        "reviewCount": 987,
+        "genreId": "101907010/101907007/101914",
+        "isbn": "4390000001078",
+        "salesType": 0,
+        "ranking": {
+          "title": "聞く力 心をひらく35のヒント",
+          "author": "阿川佐和子",
+          "source": "kobo",
+          "sources": [
+            {
+              "source": "kobo",
+              "label": "楽天Kobo人気",
+              "rank": 8
+            }
+          ],
+          "rank": 8
         }
       }
     ],
@@ -1745,7 +2364,7 @@
             }
           ],
           "source": "combined",
-          "rank": 5,
+          "rank": 7,
           "originalTitle": ""
         }
       },
@@ -2626,276 +3245,6 @@
     ],
     "health": [
       {
-        "id": "4650474801001",
-        "title": "休養学",
-        "author": "片野秀樹",
-        "publisher": "東洋経済新報社",
-        "price": 1650,
-        "url": "https://books.rakuten.co.jp/rk/0460a0b605fd3bb184d5ca37090b20c9/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7961/2000014537961.jpg?_ex=600x600",
-        "caption": "●疲れたらコーヒーを飲む\n●疲れたときは寝るのが一番\n●甘いもので自分にごほうび\n……こんなこと、していませんか？　実は疲労を取るには全部「×」な方法です。\n「いつも体が重い」\n「寝ても寝てもだるく、疲れがとれない」\n「会社に行くだけでヘトヘトになる」\n「休みの日に何をしていいかわからない。結局、一日じゅうゴロゴロしている」\n「週末に寝だめをすると、休み明けはかえってぐったりしてしまう」\n……あなたはこんな悩みを抱えていませんか？\n「ゆっくり休みたいのに休めない」のは、日本では「休むこと」イコール「なまけてること」という考えがしみついていることにあります。疲労は熱や痛みと同じ、体からの警告です。本来は「今日は疲れているので、休みます」と言えなくてはおかしいのです。\n本書では、これまで栄養や運動に比べて軽視されてきた「疲労」と「休息」について科学的な解説を加え、\n・人はなぜ疲れるのか\n・疲れても無理をして休まずにいると、人間の体はどうなるのか\n・どんな休み方をすれば最も効果的に疲れがとれるのか\n……といった疑問に答えていきます。\nさらに、休養を７種類に分類し、それらを組み合わせて、自分がもっともリフレッシュできる休み方を見つける方法も伝授します。\n「日本人の約８割が疲れている」というデータもあります。ただ、世界各国と比べて平均労働時間がとくに多いわけではありません。日本人は「休み下手」なのです。\n本書を読んで、単に寝る、休息するといった「守りの休養」から、「攻めの休養」へ今すぐシフトしましょう！\n【主な内容】\n第１章　日本人の８割が疲れている\n第２章　科学でわかった！　疲労の正体\n第３章　最高の「休養」をとる７つの戦略\n第４章　眠るだけでは休養にならない\n第５章　新しい「休み方」をはじめよう\n",
-        "salesDate": "2024年02月28日",
-        "series": "",
-        "reviewAverage": 3.63,
-        "reviewCount": 359,
-        "genreId": "101909009/101905017004",
-        "isbn": "4650474801001",
-        "salesType": 0,
-        "ranking": {
-          "title": "休養学",
-          "author": "片野秀樹",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 1
-            }
-          ],
-          "rank": 1
-        }
-      },
-      {
-        "id": "4694295402120",
-        "title": "最高の体調",
-        "author": "鈴木祐",
-        "publisher": "クロスメディア・パブリッシング（インプレス）",
-        "price": 1540,
-        "url": "https://books.rakuten.co.jp/rk/bc59ee9dad743fbaa38c477d3861f9d4/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9368/2000006659368.jpg?_ex=600x600",
-        "caption": "日々の不調や不満には様々なレベルがあります。\nたんに朝起きれないという人もいれば、仕事の集中力が続かなくて作業が進まないという人もいるでしょう。\nさらには、怒りや不安がコントロールできずに人生が上手くいかない人、つねに体調不良に襲われている人、毎日の暮らしに張り合いがなく空虚な気持ちのまま暮らしている人など、症状や問題の深刻さには個人差があるはずです。\n通常、これらの問題は別々に取り扱われます。\nやる気がない人には「自己啓発本」、仕事の効率が悪ければ「ビジネス書」、感情のコントロールができない人には「心理学書」、体の不調には「家庭の医学書」といった具合です。\nこれはこれで効率的なアプローチですが、いっぽうでデメリットも存在します。それぞれの問題が、あたかも別々の現象であるかのように見えてしまうため、どうしてもその場しのぎの解決策になりがちなのです。\n風邪を引いたら風邪薬を飲み、関節が腫れたら軟膏を塗り、頭痛が起きたら痛み止めを手に取る。これらの対処法は間違いではないものの、あくまで表面に現れた症状をやわらげているに過ぎません。症状の奥にある本当の原因を突き止めない限り、今後も同じ問題は起き続けるはずです。\nそこで、本書では、より総合的なアプローチを取ります。\nまずは現代人が抱える問題の「共通項」をあぶりだし、そのうえで、すべてを柔軟に解決する汎用的なフレームワークを提供するのが最終的なゴールです。\n詳しいことは、科学的根拠のもと、実践的に解説していきます。ぜひ本書を読んで、文明病から脱却し、本来の自分を取り戻していただけたら幸いです。\n",
-        "salesDate": "2018年07月13日",
-        "series": "ACTIVE HEALTH",
-        "reviewAverage": 4.02,
-        "reviewCount": 355,
-        "genreId": "101909012/101909009",
-        "isbn": "4694295402120",
-        "salesType": 0,
-        "ranking": {
-          "title": "最高の体調",
-          "author": "鈴木祐",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 2
-            }
-          ],
-          "rank": 2
-        }
-      },
-      {
-        "id": "4380000401213",
-        "title": "１リットルの涙　難病と闘い続ける少女亜也の日記",
-        "author": "木藤亜也",
-        "publisher": "幻冬舎",
-        "price": 752,
-        "url": "https://books.rakuten.co.jp/rk/1725db82e80a30b6ad2e94accef1505a/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8423/2000000158423.jpg?_ex=600x600",
-        "caption": "「神様、病気はどうして私を選んだの？」 恐ろしい病魔が１５歳の少女亜也の青春を奪う。友達との別れ、車椅子の生活、数々の苦難が襲いかかる中、日記を書き続けることだけが亜也の生きる支えだった。「たとえどんな小さく弱い力でも私は誰かの役に立ちたい」 最期まで前向きに生き抜いた少女の言葉が綴られた感動のロングセラー、ついに文庫化。\n",
-        "salesDate": "2013年08月30日",
-        "series": "",
-        "reviewAverage": 3.95,
-        "reviewCount": 333,
-        "genreId": "101909009/101907005003/101914",
-        "isbn": "4380000401213",
-        "salesType": 0,
-        "ranking": {
-          "title": "１リットルの涙　難病と闘い続ける少女亜也の日記",
-          "author": "木藤亜也",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 3
-            }
-          ],
-          "rank": 3
-        }
-      },
-      {
-        "id": "4470813530000",
-        "title": "脳を鍛えるには運動しかない！最新科学でわかった脳細胞の増やし方",
-        "author": "ジョンＪ．レイティ/エリック・ヘイガーマン",
-        "publisher": "NHK出版",
-        "price": 2178,
-        "url": "https://books.rakuten.co.jp/rk/b333cde9982337d785c45979066167c1/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8430/2000001908430.jpg?_ex=600x600",
-        "caption": "人間の脳は走りながら進化した。\n脳と気持ちが劇的に変わる脳科学からの運動指南。\n空前の脳ブームとランニング・ブームを結ぶ待望の書!\nアメリカ・イリノイ州のとある学区では、朝の授業の前に「0時間体育」の試みを始めたところ、参加する生徒の成績が上がりました。しかも、0時間目の直後に受けた1時間目の教科にとくに顕著な効果が現れたのです。その理由は──予想もしなかった運動と脳の関係にありました。\n運動すると気分がスッキリすることは誰でも知っています。けれどもなぜそうなるのかわかっている人はほとんどいません。本書は「運動と脳」の関係に神経科学の視点から初めてしっかりとメスを入れ、運動するとなぜ学習能力が上がるのか──のみならず、ストレス、不安、うつ、ADHD、依存症、ホルモン変化、加齢といった人間の生活・人生全般に影響を及ぼすのか、運動がいかに脳を鍛え、頭の働きを取り戻し、気持ちを上げるかを解き明かします。\n第1章 革命へようこそー運動と脳に関するケーススタディ\n第2章 学習ー脳細胞を育てよう\n第3章 ストレスー最大の障害\n第4章 不安ーパニックを避ける\n第5章 うつー気分をよくする\n第6章 注意欠陥障害ー注意散漫から脱け出す\n第7章 依存症ーセルフコントロールのしくみを再生する\n第8章 ホルモンの変化ー女性の脳に及ぼす影響\n第9章 加齢ー賢く老いる\n第10章 鍛錬ー脳を作る\n",
-        "salesDate": "2014年03月25日",
-        "series": "",
-        "reviewAverage": 4.08,
-        "reviewCount": 307,
-        "genreId": "101909009",
-        "isbn": "4470813530000",
-        "salesType": 0,
-        "ranking": {
-          "title": "脳を鍛えるには運動しかない！最新科学でわかった脳細胞の増やし方",
-          "author": "ジョンＪ．レイティ/エリック・ヘイガーマン",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 4
-            }
-          ],
-          "rank": 4
-        }
-      },
-      {
-        "id": "4410000003860",
-        "title": "医者が教える食事術 最強の教科書",
-        "author": "牧田善二",
-        "publisher": "ダイヤモンド社",
-        "price": 1650,
-        "url": "https://books.rakuten.co.jp/rk/23cde63d7fdd301dbb41916a936d84de/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7850/2000005537850.jpg?_ex=600x600",
-        "caption": "ちまたの健康法はウソだらけ！生化学×最新医療データ×統計データから、医学的エビデンスに基づいた、本当に正しい食事法を１冊に網羅！カロリーと肥満は関係ない、脂肪は食べても太らない、運動は食後すぐがいい…他。肥満・老化・病気・長寿・集中力・疲労…「食の教養」は健康格差社会を生き抜く最強の武器だ！\n",
-        "salesDate": "2017年09月21日",
-        "series": "",
-        "reviewAverage": 3.81,
-        "reviewCount": 243,
-        "genreId": "101909009",
-        "isbn": "4410000003860",
-        "salesType": 0,
-        "ranking": {
-          "title": "医者が教える食事術 最強の教科書",
-          "author": "牧田善二",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 5
-            }
-          ],
-          "rank": 5
-        }
-      },
-      {
-        "id": "8890003600172",
-        "title": "「空腹」こそ最強のクスリ",
-        "author": "青木厚",
-        "publisher": "アスコム",
-        "price": 1430,
-        "url": "https://books.rakuten.co.jp/rk/6246c28eec6137b4af5eeff20c261d72/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9805/2000007109805.jpg?_ex=600x600",
-        "caption": "【ガン、認知症、糖尿病、高血圧、内臓脂肪、疲れ・だるさ、老化にお悩みの方に朗報！】\n【ノーベル賞を受賞したオートファジー研究から生まれた、健康的な食べ方の新常識！】\n最新医学エビデンスに基づく\n本当に正しい食事法は、\n「何を食べるか」ではなく、\n「食べない時間（空腹の時間）を増やす」\nたったこれだけがルール！\n睡眠時間を上手に組み合わせて\n「１日16時間は食べない」だけで、\n細胞内の悪いタンパク質や細菌が除去され、\n全身の細胞がみるみる修復！\nこの食事法なら、\n炭水化物も、脂肪も、甘い物も、お酒も、\nガマンせず好きなだけ食べられるから\nストレスなく健康になれます！\n「1日3食しっかり食べているのに、\nなぜか体がだるい、疲れている」\n「健康に良いとされる食べ物を摂取しているのに、\nぜんぜん効果が現れない」\n「カロリー計算や食事の種類に気を使うのは、\n性格的にめんどくさい」\n「クスリやサプリに頼らず、\n怖い病気を予防し、持病を改善させたい」\nそんな方はぜひ、\n本書で紹介する「空腹パワー」を利用した食事法を試してみてください！\n【具体的にはこんな効果が期待できます】\n・血圧、血糖値、コレステロール値が正常に戻る\n・クスリを使わず、ガン・認知症・糖尿病を予防・改善できる\n・アレルギーや花粉症からラクになる\n・慢性的な疲れやだるさが解消される\n・集中力が伸び、仕事のパフォーマンスが上がる\n・肌荒れ、便秘、生理不順、PMSが改善する\n・おいしく食べながら、ダイエットに成功できる\n",
-        "salesDate": "2019年01月31日",
-        "series": "",
-        "reviewAverage": 3.7,
-        "reviewCount": 221,
-        "genreId": "101909014/101909009/101908008001",
-        "isbn": "8890003600172",
-        "salesType": 0,
-        "ranking": {
-          "title": "「空腹」こそ最強のクスリ",
-          "author": "青木厚",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 6
-            }
-          ],
-          "rank": 6
-        }
-      },
-      {
-        "id": "4470814140000",
-        "title": "ＢＯＲＮ ＴＯ ＲＵＮ　走るために生まれた　ウルトラランナーVS人類最強の走る民族",
-        "author": "クリストファー・マクドゥーガル",
-        "publisher": "NHK出版",
-        "price": 1676,
-        "url": "https://books.rakuten.co.jp/rk/7d7d52a571f449cabfe111bf56b8b471/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9382/2000001719382.jpg?_ex=600x600",
-        "caption": "ノー・ランニング、ノー・ライフ！人類は、走るために生きている　いや、生きるために走っている！\nこの冒険は、ランナー誰もが抱くひとつの疑問から始まった──なぜ僕の脚は走ると痛むのか？　真実のランを目指すウルトラランナーたちは、やがて、メキシコの秘境をサンダルだけで一昼夜走り続けるタラウマラ族と邂逅する！　人類は、走るために生きている──いや、生きるために走っている！\n",
-        "salesDate": "2009年12月15日",
-        "series": "",
-        "reviewAverage": 4.19,
-        "reviewCount": 209,
-        "genreId": "101909009",
-        "isbn": "4470814140000",
-        "salesType": 0,
-        "ranking": {
-          "title": "ＢＯＲＮ ＴＯ ＲＵＮ　走るために生まれた　ウルトラランナーVS人類最強の走る民族",
-          "author": "クリストファー・マクドゥーガル",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 7
-            }
-          ],
-          "rank": 7
-        }
-      },
-      {
-        "id": "4650462401001",
-        "title": "世界一シンプルで科学的に証明された究極の食事",
-        "author": "津川友介",
-        "publisher": "東洋経済新報社",
-        "price": 1650,
-        "url": "https://books.rakuten.co.jp/rk/1fa27d2974ef38d3bcfae18efcd20955/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2787/2000006192787.jpg?_ex=600x600",
-        "caption": "ハーバード大学を経てUCLA助教授として活動する医師が、あなたに教える不動のルール\n健康になるための「体に良い食品」はこれだけ！\nあらゆる食品をエビデンスベースで５グループに分類\n●バターコーヒーは×\n●グルテンフリーは×\n●100％果汁でもジュースは×\n●βカロテンは×\n●白米は×\n今あなたが信じている健康情報は本当に正しい情報でしょうか。\nお医者さんや栄養士さんが言っていたから正しいと思っていないでしょうか。\n専門の資格を持っていると正しいことを発信しているように見えますが、そうとは限りません。\nせっかく健康意識の高い人が、テレビや本の誤った情報を信じてしまうことで、\nその努力が無駄になったり、不健康になってしまうのはとても残念なことです。\n実は、巷に溢れる「体に良い食事」には、個人の経験談だったり、\n健康に良いという研究結果がごく少数のものも含まれています。\n本書では、最新の膨大な研究論文をもとに複数の質の高い研究で\n体に良いことが科学的に証明されている食事を紹介しています。\nまずは２週間ほど本書で説明している食事法を続けてみてください。\n自分の体が変わってきたことを実感できるようになるはずです。\n【主な内容】\nはじめに\n謝辞\n本書の読み方\n第１章　日本人が勘違いしがちな健康常識\n　１　科学的根拠にもとづく本当に体に良い食事\n　２　食品に含まれる「成分」に惑わされるな\n第２章　体に良いという科学的根拠がある食べ物\n　１　オリーブオイルやナッツは脳卒中やがんのリスクを下げる　\n　２　果物は糖尿病を予防するが、フルーツジュースは糖尿病のリスクを上げる\n　３　魚は心筋梗塞や乳がんのリスクを下げる　\n第３章　体に悪いという科学的根拠がある食べ物\n　１　「白い炭水化物」は体に悪い\n　２　牛肉、豚肉、ソーセージやハムは健康に悪い\n特別編　病気の人、子ども、妊婦にとっての「究極の食事」\n参考文献\n",
-        "salesDate": "2018年04月13日",
-        "series": "",
-        "reviewAverage": 3.84,
-        "reviewCount": 187,
-        "genreId": "101909009/101908008001",
-        "isbn": "4650462401001",
-        "salesType": 0,
-        "ranking": {
-          "title": "世界一シンプルで科学的に証明された究極の食事",
-          "author": "津川友介",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 8
-            }
-          ],
-          "rank": 8
-        }
-      },
-      {
-        "id": "4410000001313",
-        "title": "自分を変える最強の食事",
-        "author": "デイヴ・アスプリー",
-        "publisher": "ダイヤモンド社",
-        "price": 1760,
-        "url": "https://books.rakuten.co.jp/rk/60f7b9a3c1723b328b923f2e27736eb8/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5261/2000003605261.jpg?_ex=600x600",
-        "caption": "低炭水化物、低カロリー、菜食主義……１５年間、３０万ドルを投じて世界中の食とダイエットを研究しつくし、あらゆる食事法の「痩せる効果」「健康効果」「頭をよくする効果」をすべて検証、自らもＩＱを２０ポイント上げ、６０キロ痩せたシリコンバレー発、「完全無欠」の食事メソッド！\n",
-        "salesDate": "2015年09月17日",
-        "series": "",
-        "reviewAverage": 3.44,
-        "reviewCount": 150,
-        "genreId": "101909009",
-        "isbn": "4410000001313",
-        "salesType": 0,
-        "ranking": {
-          "title": "自分を変える最強の食事",
-          "author": "デイヴ・アスプリー",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 9
-            }
-          ],
-          "rank": 9
-        }
-      },
-      {
         "id": "4704763130396",
         "title": "なぜ、「これ」は健康にいいのか？",
         "author": "小林弘幸",
@@ -2914,6 +3263,276 @@
         "ranking": {
           "title": "なぜ、「これ」は健康にいいのか？",
           "author": "小林弘幸",
+          "source": "kobo",
+          "sources": [
+            {
+              "source": "kobo",
+              "label": "楽天Kobo人気",
+              "rank": 1
+            }
+          ],
+          "rank": 1
+        }
+      },
+      {
+        "id": "4704763132024",
+        "title": "「空腹」が人を健康にする",
+        "author": "南雲吉則",
+        "publisher": "サンマーク出版",
+        "price": 990,
+        "url": "https://books.rakuten.co.jp/rk/c3115c9973a546fc973cbdc6cf9ba76b/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3741/2000000143741.jpg?_ex=600x600",
+        "caption": "近年話題になっている「サーチュイン遺伝子」。人間の生命力を司るこの遺伝子のスイッチをオンにするための条件が「空腹」。つまり空腹時でないとこの遺伝子は作動しないのだ。ところが現代人の生活は、お腹がすかなくても時間になれば食事をしてしまう。そんな飽食に対して人間の体は対応できるようにはつくられていないため、様々な弊害を引き起こしているのだという。その他、さまざまな医学情報や自身の体験をもとに、「一日一食」が人間にとってベストな食事法だということを説明、新たなライフスタイルを提案する画期的な本。「一日一食」にするだけで「体の傷んだところが修復される」「自分の適正体重になる」「皮膚年齢がどんどん若返る」など、体にいいことが続々起こる！\n（目次より）\n◎ 食べ過ぎこそ病気の始まり\n◎ 水を飲んでも太るワケ\n◎ 細胞を修復してくれる「サーチュイン遺伝子」\n◎ 寒いとなぜ体がガタガタふるえるのか\n◎ メタボが寿命を縮める本当の理由\n◎ 「一日一食」でなぜ栄養不足にならないのか？\n◎ 食事の量を減らすカンタンな方法\n◎ 空腹時にお茶やコーヒーを飲んではいけない\n◎ ごはんを食べたら、すぐ寝よう\n◎ 若返りのための「ゴールデン・タイム」\n◎ 体の温め過ぎは「冷え性」のもと\n◎ 自分の「内なる声」にしたがって生きる\n◎ あなたの人生、このまま終わってもいいですか？ etc.\n",
+        "salesDate": "2014年04月16日",
+        "series": "",
+        "reviewAverage": 3.66,
+        "reviewCount": 134,
+        "genreId": "101909009",
+        "isbn": "4704763132024",
+        "salesType": 0,
+        "ranking": {
+          "title": "「空腹」が人を健康にする",
+          "author": "南雲吉則",
+          "source": "kobo",
+          "sources": [
+            {
+              "source": "kobo",
+              "label": "楽天Kobo人気",
+              "rank": 2
+            }
+          ],
+          "rank": 2
+        }
+      },
+      {
+        "id": "4704763198907",
+        "title": "体温を上げると健康になる",
+        "author": "齋藤真嗣",
+        "publisher": "サンマーク出版",
+        "price": 700,
+        "url": "https://books.rakuten.co.jp/rk/3141d413149a4c50acb9eba7d5f134ea/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6999/2000000236999.jpg?_ex=600x600",
+        "caption": "最近、平熱が３６度以下という、いわゆる低体温の人が増えています。そのような折、「体温が１度下がると免疫力は３０％低下する」と警鐘を鳴らすのが、本書の著者である齋藤真嗣医師です。齋藤先生は、１日１回、体温を１度上げることを推奨し、体温を恒常的に上げていくことで健康な体を手に入れることができると提唱しています。では、どうすれば体温を上げていくことができるのか。ひと言でいうと、「筋肉を鍛えることで基礎代謝量が増え、平熱が上がっていく」とのこと。「体温アップ健康法」と名づけられたこの方法を実践すれば、「病気の人は健康に、体調のすぐれない人は元気に、健康な人はより美しくなる」というのです。これまでの常識を打ち破る「体温を上げて健康になる方法」に触れてみてください。\n",
+        "salesDate": "2014年04月16日",
+        "series": "",
+        "reviewAverage": 3.97,
+        "reviewCount": 126,
+        "genreId": "101909009",
+        "isbn": "4704763198907",
+        "salesType": 0,
+        "ranking": {
+          "title": "体温を上げると健康になる",
+          "author": "齋藤真嗣",
+          "source": "kobo",
+          "sources": [
+            {
+              "source": "kobo",
+              "label": "楽天Kobo人気",
+              "rank": 3
+            }
+          ],
+          "rank": 3
+        }
+      },
+      {
+        "id": "4390000004116",
+        "title": "月曜断食　「究極の健康法」でみるみる痩せる！",
+        "author": "関口　賢（関口鍼灸治療院）",
+        "publisher": "文藝春秋",
+        "price": 1222,
+        "url": "https://books.rakuten.co.jp/rk/4669e784b29d316297d43896308af07d/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1986/2000005891986.jpg?_ex=600x600",
+        "caption": "いろんなダイエット法を試してきたけれど、何度も挫折してリバウンド！ そんなふうに感じているすべての人への最終回答が、のべ7万人を治療し、断食指導をしてきた鍼灸界のカリスマ・関口賢先生が提唱する「月曜断食」。\n週1日、月曜日に何も食べず、〈良食→美食→断食〉のサイクルを繰り返すという、誰でもコスト0ですぐに取り組める超簡単な体質改善プログラムです。\n食べ過ぎでバカになった胃腸が本来の機能を取り戻し、睡眠の質が向上すると、面白いように痩せていきます。多くの実践者が1ヶ月間で5〜7kg痩せて、脂質異常症や生理不順、むくみ、肌荒れがあっという間に解消。取り組み期間中のお酒もOKで、しかもリバウンドしにくいのが特徴です。\n月曜断食5つの効用\n■食べないだけのシンプルな方法なので、かかるお金は0円！ 過食も間食も自然に減ってお財布にやさしい\n■過食でダメージを受けていた胃腸の機能が回復するので代謝がよくなり、睡眠の質が劇的に高まる\n■内蔵から綺麗になるので、美肌効果が高い\n■単に体重が減るだけでなく、脂肪の燃焼しやすい体へと体質改善できるのでリハウンドしにくい\n■PMS（月経前症候群）や生理不順のみならず、不妊、子宮筋腫の改善の声も\n",
+        "salesDate": "2018年01月26日",
+        "series": "",
+        "reviewAverage": 3.89,
+        "reviewCount": 62,
+        "genreId": "101909009",
+        "isbn": "4390000004116",
+        "salesType": 0,
+        "ranking": {
+          "title": "月曜断食　「究極の健康法」でみるみる痩せる！",
+          "author": "関口　賢（関口鍼灸治療院）",
+          "source": "kobo",
+          "sources": [
+            {
+              "source": "kobo",
+              "label": "楽天Kobo人気",
+              "rank": 4
+            }
+          ],
+          "rank": 4
+        }
+      },
+      {
+        "id": "4910000275186",
+        "title": "HEALTH HACKS！ ビジネスパーソンのためのサバイバル健康投資術",
+        "author": "川田浩志",
+        "publisher": "ディスカヴァー・トゥエンティワン",
+        "price": 1584,
+        "url": "https://books.rakuten.co.jp/rk/3fdbbb58a3db38be9a3dd1d08d46e615/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1212/2000011531212.jpg?_ex=600x600",
+        "caption": "健康維持も、仕事のうち。\n新時代のビジネスパーソンのための、「超」健康法、\nそれが HEALTH HACKS!(ヘルスハックス!)。\n自己責任時代の三大自己投資は、勉強、お金、そして健康だ!\nビジネス書をこよなく愛す、気鋭の熱血医師が同世代の\n若きビジネスパーソンにおくる、バリューアップ・ストラテジー。\n著者自身が実践する習慣化のための4つの武器と4つの「仕組み」とは?\n第1章 健康の経済学:健康で「年収アップ」を実現しよう!\n道は開ける/あなたの「生き方」は?/「金持ち父さん、貧乏父さん」の分かれ道\n急にやせ始めるにはワケがある/健康で人を動かす/体はジムに預けるな/健康本はムチャを言う\n第2章 7つの健康習慣:健康になるには原則があった!\n第3章 はじめての課長の健康教科書 :「目からウロコ」の健康学\n第4章 「仕組み」健康術:結局「仕組み」を作った人が続いている\n第5章 「脳を活かす」健康法/頭がよくなる健康法\n第6章 「モテる」健康法:「婚活」時代のブルーオーシャン戦略\n……etc.\n数々のベストセラービジネス書になぞらえた、サクセスフルな健康法が満載。\n*58冊の参考ビジネス書一覧付き\n",
+        "salesDate": "2022年07月28日",
+        "series": "HEALTH HACKS！ ビジネスパーソンのためのサバイバル健康投資術",
+        "reviewAverage": 3.28,
+        "reviewCount": 57,
+        "genreId": "101909009/101905016001",
+        "isbn": "4910000275186",
+        "salesType": 0,
+        "ranking": {
+          "title": "HEALTH HACKS！ ビジネスパーソンのためのサバイバル健康投資術",
+          "author": "川田浩志",
+          "source": "kobo",
+          "sources": [
+            {
+              "source": "kobo",
+              "label": "楽天Kobo人気",
+              "rank": 5
+            }
+          ],
+          "rank": 5
+        }
+      },
+      {
+        "id": "4410000007792",
+        "title": "健康になる技術　大全",
+        "author": "林英恵",
+        "publisher": "ダイヤモンド社",
+        "price": 2200,
+        "url": "https://books.rakuten.co.jp/rk/60307f2d75a63f8ca30f3813f57b72ad/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2057/2000012642057.jpg?_ex=600x600",
+        "caption": "いま最先端のエビデンスでわかった！科学的に正しい「健康になるための技術」「食事」「運動」「習慣」「ストレス」「睡眠」「感情」「認知」長生きするための健康習慣の身につけ方が、これ１冊ですべてわかる！\n",
+        "salesDate": "2023年02月28日",
+        "series": "",
+        "reviewAverage": 3.94,
+        "reviewCount": 36,
+        "genreId": "101909009",
+        "isbn": "4410000007792",
+        "salesType": 0,
+        "ranking": {
+          "title": "健康になる技術　大全",
+          "author": "林英恵",
+          "source": "kobo",
+          "sources": [
+            {
+              "source": "kobo",
+              "label": "楽天Kobo人気",
+              "rank": 6
+            }
+          ],
+          "rank": 6
+        }
+      },
+      {
+        "id": "4483510250001",
+        "title": "ケトン体が人類を救う〜糖質制限でなぜ健康になるのか〜",
+        "author": "宗田哲男",
+        "publisher": "光文社",
+        "price": 1012,
+        "url": "https://books.rakuten.co.jp/rk/4f14cbcbe9a034f889d202157749baec/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2835/2000003872835.jpg?_ex=600x600",
+        "caption": "著者は赤ちゃんや胎児の臍帯血や絨毛のケトン体（体内の脂肪の分解によって生まれる物質）の濃度を多数測定、基準値の20〜30倍になることを世界で初めて明らかにした。これはヒトが本来、ブドウ糖ではなくケトン体をエネルギー源としていたことを暗示する。ケトン食は今や糖尿病や肥満だけでなく、認知症や癌等にも有効として研究が進んでいる。本書では学会からの激しい非難に対する反証も展開。栄養学の新しい常識を打ち立てる。\n",
+        "salesDate": "2015年12月18日",
+        "series": "ケトン体が人類を救う〜糖質制限でなぜ健康になるのか〜",
+        "reviewAverage": 3.57,
+        "reviewCount": 31,
+        "genreId": "101909009",
+        "isbn": "4483510250001",
+        "salesType": 0,
+        "ranking": {
+          "title": "ケトン体が人類を救う〜糖質制限でなぜ健康になるのか〜",
+          "author": "宗田哲男",
+          "source": "kobo",
+          "sources": [
+            {
+              "source": "kobo",
+              "label": "楽天Kobo人気",
+              "rank": 7
+            }
+          ],
+          "rank": 7
+        }
+      },
+      {
+        "id": "7314264000011",
+        "title": "絶対に死ぬ私たちがこれだけは知っておきたい健康の話",
+        "author": "若林理砂",
+        "publisher": "ミシマ社",
+        "price": 1760,
+        "url": "https://books.rakuten.co.jp/rk/5b8dba5d12e833da8f5a2cb4826a2246/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9245/2000008799245.jpg?_ex=600x600",
+        "caption": "幸せってなにかわからないけれど、いつのまにか幸せを感じられるような体になってる。そんな本。（坂本美雨・ミュージシャン）\n現代人よ、もっと、もっと、もっと寝よう！\n体とのつき合い方がわかり、３カ月で不調が改善。\n人気鍼灸師が実践する現代版・養生法\n・寝る時間は、3重の締め切りを設定して死守する\n・寝室と布団内の温度と湿度が、睡眠の質を決める\n・食事の半分は野菜を食べる\n・野菜多めの食養生が、花粉症も軽減させる\n・運動は、約7分のラジオ体操だけでいい\n・初期のインフルエンザも葛根湯で治せる…etc.\n具体的なアドバイスが満載。\n本書の現代版・養生を３カ月続けたら不調が改善、２年続けられたら、「自分はこんなに元気な人だったのだ」と思えるようになります。\n",
+        "salesDate": "2020年08月11日",
+        "series": "",
+        "reviewAverage": 3.83,
+        "reviewCount": 25,
+        "genreId": "101909009",
+        "isbn": "7314264000011",
+        "salesType": 0,
+        "ranking": {
+          "title": "絶対に死ぬ私たちがこれだけは知っておきたい健康の話",
+          "author": "若林理砂",
+          "source": "kobo",
+          "sources": [
+            {
+              "source": "kobo",
+              "label": "楽天Kobo人気",
+              "rank": 8
+            }
+          ],
+          "rank": 8
+        }
+      },
+      {
+        "id": "4430000001732",
+        "title": "白湯毒出し健康法",
+        "author": "蓮村誠",
+        "publisher": "PHP研究所",
+        "price": 680,
+        "url": "https://books.rakuten.co.jp/rk/fff46e71b6924c458cb0b1052c3e1a34/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3547/2000000223547.jpg?_ex=600x600",
+        "caption": "「からだをあたためることで代謝や消化力が上がる」と評判の白湯飲み。加えて未消化物である毒を排出し、からだの中からキレイに健康になると、芸能界を中心に注目が集まっている。本書は、白湯飲み健康法の第一人者が、正しい白湯の作り方から飲み方・効用までを徹底紹介。「朝、コップ一杯の白湯が、冷え症改善に効果抜群」など、“安くて、手軽で、安全なミラクル健康法”をついに公開！。\n",
+        "salesDate": "2014年04月18日",
+        "series": "",
+        "reviewAverage": 3.68,
+        "reviewCount": 23,
+        "genreId": "101909014/101909009",
+        "isbn": "4430000001732",
+        "salesType": 0,
+        "ranking": {
+          "title": "白湯毒出し健康法",
+          "author": "蓮村誠",
+          "source": "kobo",
+          "sources": [
+            {
+              "source": "kobo",
+              "label": "楽天Kobo人気",
+              "rank": 9
+            }
+          ],
+          "rank": 9
+        }
+      },
+      {
+        "id": "4390000003509",
+        "title": "健康診断は受けてはいけない",
+        "author": "近藤　誠",
+        "publisher": "文藝春秋",
+        "price": 804,
+        "url": "https://books.rakuten.co.jp/rk/55ac11326cc33e2b872308b4d023bc39/",
+        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4189/2000004974189.jpg?_ex=600x600",
+        "caption": "健康診断はこんなに危険！　欧米に健診はない！\n日本人の多くは「健康」のため職場健診や人間ドックを受診していますが、欧米には存在しません。\n「より健康になる」とか「寿命をのばす」という効果を証明するデータがないからです。\n著者の近藤誠さん本人も、慶大病院で在職した40年間、執行部から強い圧力がありながらも、一度も受けませんでした。検診は有効というデータがないからです。\nにもかかわらず、日本では、医学的な根拠がないままに健診が義務化されています。\n健診は危険がいっぱいです。CTや胃エックス線撮影には放射性被ばくによる発がんリスク、子宮がん検診には流産や不妊症のリスクなどがあります。\n異常値が見つかった後に行なわれる肺や前立腺の「生検」も極めて危険です。手術後に「がんではなかった、おめでとう」と平然と述べる医者もいます。\nさらに危険なのは、「過剰な検診」が、過剰な薬の処方や手術など「過剰な治療」につながるからです。\n人間ドックには「早く見つけるほど、早く死にやすい」という逆説があります。\n実際、中村勘三郎さんや川島なお美さんは、人間ドックで「がんを早期発見され、早期に亡くなってしまった」のです。\n「検査値より自分のからだを信じる」こそ、健康の秘訣です。健康なときに健診など受けるものではありません。\n本書は、さまざまなデータや論文に基づき、「健康診断が有害無益である」ことを徹底的に明らかにします。\n",
+        "salesDate": "2017年02月24日",
+        "series": "",
+        "reviewAverage": 3.95,
+        "reviewCount": 23,
+        "genreId": "101909009",
+        "isbn": "4390000003509",
+        "salesType": 0,
+        "ranking": {
+          "title": "健康診断は受けてはいけない",
+          "author": "近藤　誠",
           "source": "kobo",
           "sources": [
             {
@@ -4748,15 +5367,15 @@
     },
     "mystery": {
       "target": 10,
-      "matched": 0,
-      "complete": false,
-      "error": "GENRE_UNRESOLVED"
+      "matched": 10,
+      "complete": true,
+      "error": ""
     },
     "sf": {
       "target": 10,
-      "matched": 0,
-      "complete": false,
-      "error": "GENRE_UNRESOLVED"
+      "matched": 10,
+      "complete": true,
+      "error": ""
     },
     "business": {
       "target": 10,

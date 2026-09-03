@@ -2,7 +2,7 @@
   "kind": "popular",
   "completed": true,
   "period": "year",
-  "updatedAt": "2026-09-03T11:56:25.023Z",
+  "updatedAt": "2026-09-03T12:36:58.521Z",
   "candidateCount": 10,
   "checked": 10,
   "matched": 7,
@@ -59,100 +59,6 @@
   },
   "items": [
     {
-      "id": "4524815633410",
-      "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
-      "author": "堀田 秀吾",
-      "publisher": "SBクリエイティブ",
-      "price": 1760,
-      "url": "https://books.rakuten.co.jp/rk/79a1d43cefcb3337b3e2363c5f00a07e/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1658/2000018091658.jpg?_ex=600x600",
-      "caption": "勉強・ダイエット・貯金・目標達成…は習慣化が10割\n仕事、ダイエット、健康管理、勉強、目標達成…すべて成功のカギは「習慣化」にあります。\nしかし間違った習慣を身につけてしまったらその代償は大きくなってしまいます。\n何をどう習慣化すればいいか、そのために重要になるのが「エビデンス」です。\n・もし「A」をしたら「B」をすると、あらかじめ決めておく\n・選択肢は必ず「3つ」用意しておく\n・常にポジティブな言葉を使うーつらさに対する耐性が高まる\n・52分間作業して、17分休憩するー生産性が高まるetc.\n本書は、ハーバード、スタンフォード、オックスフォード…などの研究機関において証明されたテクニックを112個紹介。\n見開き図解入りでわかりやすい。気になったテクニックからはじめられ、情報収集のためにも役立ち、また読みものとしても楽しめる一冊です。\n※カバー画像が異なる場合があります。\n",
-      "salesDate": "2025年07月02日",
-      "series": "",
-      "reviewAverage": 3.7,
-      "reviewCount": 362,
-      "genreId": "101905090",
-      "isbn": "4524815633410",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "科学的に証明された すごい習慣大百科",
-        "author": "堀田秀吾",
-        "score": 106,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 1
-          }
-        ],
-        "source": "combined",
-        "rank": 1,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "科学的に証明された すごい習慣大百科",
-        "author": "堀田秀吾",
-        "score": 106,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 1
-          }
-        ],
-        "source": "combined",
-        "rank": 1,
-        "originalTitle": ""
-      }
-    },
-    {
-      "id": "4380000485089",
-      "title": "大河の一滴　最終章",
-      "author": "五木寛之",
-      "publisher": "幻冬舎",
-      "price": 1881,
-      "url": "https://books.rakuten.co.jp/rk/11c561cb4c083a838252a295da0974c9/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1450/2000019211450.jpg?_ex=600x600",
-      "caption": "93歳の人間論ーー。\n人は何かのために生きるのではない。\n誰かのために生きるのだ。\n衝撃のベストセラー『大河の一滴』から30年。圧巻の集大成。\n常に、再生の希望はある。\n少年時代の引揚体験、自死への欲求、思いがけない病の宣告……\nあえて、大河の流れに逆らうことを決意した、告白的人間論。\n「かつて人生を大河の流れにたとえて書いたときは、その流れに身をまかせて、生命の海へと流れていく、そんなふうに考えていた。\n　しかし、と、私は思ったのだ。ときには大河の流れに身をまかせるだけでなく、それに逆らって生きることもあっていいのではあるまいか。大河の流れの中にも、逆流する場所もあれば、迂回する流れもある。\n　長く生きられなかった彼らのかわりに、自分は一日でも長く生きようと考えてきたのではなかったか。運命に身をまかせるだけでなく、それに逆らうこともあっていい。\n　人には、何人かのために生きる責任がある、と思う。人々のはたさざりし思いを背負って生きる義務があるのではないか。何かのためではなく、誰かのために生きるのだ」\nーー「大河の流れに逆らって」本文より\n静寂から立ち上がる、鮮やかな再生の物語。\n",
-      "salesDate": "2026年02月12日",
-      "series": "",
-      "reviewAverage": 4,
-      "reviewCount": 21,
-      "genreId": "101907002002",
-      "isbn": "4380000485089",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "大河の一滴 最終章",
-        "author": "五木寛之",
-        "score": 78,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 8,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "大河の一滴 最終章",
-        "author": "五木寛之",
-        "score": 78,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 2,
-        "originalTitle": ""
-      }
-    },
-    {
       "id": "6681297998470",
       "title": "変な地図",
       "author": "雨穴",
@@ -195,7 +101,7 @@
           }
         ],
         "source": "combined",
-        "rank": 3,
+        "rank": 1,
         "originalTitle": ""
       }
     },
@@ -242,7 +148,7 @@
           }
         ],
         "source": "combined",
-        "rank": 4,
+        "rank": 2,
         "originalTitle": ""
       }
     },
@@ -286,6 +192,100 @@
             "source": "tohan",
             "label": "トーハン",
             "rank": 4
+          }
+        ],
+        "source": "combined",
+        "rank": 3,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "4380000485089",
+      "title": "大河の一滴　最終章",
+      "author": "五木寛之",
+      "publisher": "幻冬舎",
+      "price": 1881,
+      "url": "https://books.rakuten.co.jp/rk/11c561cb4c083a838252a295da0974c9/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1450/2000019211450.jpg?_ex=600x600",
+      "caption": "93歳の人間論ーー。\n人は何かのために生きるのではない。\n誰かのために生きるのだ。\n衝撃のベストセラー『大河の一滴』から30年。圧巻の集大成。\n常に、再生の希望はある。\n少年時代の引揚体験、自死への欲求、思いがけない病の宣告……\nあえて、大河の流れに逆らうことを決意した、告白的人間論。\n「かつて人生を大河の流れにたとえて書いたときは、その流れに身をまかせて、生命の海へと流れていく、そんなふうに考えていた。\n　しかし、と、私は思ったのだ。ときには大河の流れに身をまかせるだけでなく、それに逆らって生きることもあっていいのではあるまいか。大河の流れの中にも、逆流する場所もあれば、迂回する流れもある。\n　長く生きられなかった彼らのかわりに、自分は一日でも長く生きようと考えてきたのではなかったか。運命に身をまかせるだけでなく、それに逆らうこともあっていい。\n　人には、何人かのために生きる責任がある、と思う。人々のはたさざりし思いを背負って生きる義務があるのではないか。何かのためではなく、誰かのために生きるのだ」\nーー「大河の流れに逆らって」本文より\n静寂から立ち上がる、鮮やかな再生の物語。\n",
+      "salesDate": "2026年02月12日",
+      "series": "",
+      "reviewAverage": 4,
+      "reviewCount": 21,
+      "genreId": "101907002002",
+      "isbn": "4380000485089",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "大河の一滴 最終章",
+        "author": "五木寛之",
+        "score": 78,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 8,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "大河の一滴 最終章",
+        "author": "五木寛之",
+        "score": 78,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 4,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "4524815633410",
+      "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
+      "author": "堀田 秀吾",
+      "publisher": "SBクリエイティブ",
+      "price": 1760,
+      "url": "https://books.rakuten.co.jp/rk/79a1d43cefcb3337b3e2363c5f00a07e/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1658/2000018091658.jpg?_ex=600x600",
+      "caption": "勉強・ダイエット・貯金・目標達成…は習慣化が10割\n仕事、ダイエット、健康管理、勉強、目標達成…すべて成功のカギは「習慣化」にあります。\nしかし間違った習慣を身につけてしまったらその代償は大きくなってしまいます。\n何をどう習慣化すればいいか、そのために重要になるのが「エビデンス」です。\n・もし「A」をしたら「B」をすると、あらかじめ決めておく\n・選択肢は必ず「3つ」用意しておく\n・常にポジティブな言葉を使うーつらさに対する耐性が高まる\n・52分間作業して、17分休憩するー生産性が高まるetc.\n本書は、ハーバード、スタンフォード、オックスフォード…などの研究機関において証明されたテクニックを112個紹介。\n見開き図解入りでわかりやすい。気になったテクニックからはじめられ、情報収集のためにも役立ち、また読みものとしても楽しめる一冊です。\n※カバー画像が異なる場合があります。\n",
+      "salesDate": "2025年07月02日",
+      "series": "",
+      "reviewAverage": 3.7,
+      "reviewCount": 362,
+      "genreId": "101905090",
+      "isbn": "4524815633410",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "科学的に証明された すごい習慣大百科",
+        "author": "堀田秀吾",
+        "score": 106,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 1
+          }
+        ],
+        "source": "combined",
+        "rank": 1,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "科学的に証明された すごい習慣大百科",
+        "author": "堀田秀吾",
+        "score": 106,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 1
           }
         ],
         "source": "combined",
@@ -433,7 +433,7 @@
             }
           ],
           "source": "combined",
-          "rank": 4,
+          "rank": 2,
           "originalTitle": ""
         }
       },
@@ -480,7 +480,7 @@
             }
           ],
           "source": "combined",
-          "rank": 5,
+          "rank": 3,
           "originalTitle": ""
         }
       },
@@ -499,20 +499,7 @@
         "reviewCount": 4670,
         "genreId": "101901",
         "isbn": "4910000287747",
-        "salesType": 0,
-        "ranking": {
-          "title": "傲慢と善良",
-          "author": "辻村深月",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 1
-            }
-          ],
-          "rank": 1
-        }
+        "salesType": 0
       },
       {
         "id": "4390000004602",
@@ -529,20 +516,7 @@
         "reviewCount": 4438,
         "genreId": "101901",
         "isbn": "4390000004602",
-        "salesType": 0,
-        "ranking": {
-          "title": "コンビニ人間",
-          "author": "村田沙耶香",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 2
-            }
-          ],
-          "rank": 2
-        }
+        "salesType": 0
       },
       {
         "id": "4340008052471",
@@ -559,20 +533,7 @@
         "reviewCount": 3523,
         "genreId": "101901001",
         "isbn": "4340008052471",
-        "salesType": 0,
-        "ranking": {
-          "title": "西の魔女が死んだ（新潮文庫）",
-          "author": "梨木香歩",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 3
-            }
-          ],
-          "rank": 3
-        }
+        "salesType": 0
       },
       {
         "id": "4380000400225",
@@ -589,20 +550,7 @@
         "reviewCount": 3412,
         "genreId": "101901",
         "isbn": "4380000400225",
-        "salesType": 0,
-        "ranking": {
-          "title": "阪急電車",
-          "author": "有川浩",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 4
-            }
-          ],
-          "rank": 4
-        }
+        "salesType": 0
       },
       {
         "id": "4330008482000",
@@ -619,20 +567,7 @@
         "reviewCount": 3100,
         "genreId": "101901",
         "isbn": "4330008482000",
-        "salesType": 0,
-        "ranking": {
-          "title": "夜は短し歩けよ乙女",
-          "author": "森見　登美彦",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 6
-            }
-          ],
-          "rank": 6
-        }
+        "salesType": 0
       },
       {
         "id": "4336953000300",
@@ -649,20 +584,7 @@
         "reviewCount": 3095,
         "genreId": "101901",
         "isbn": "4336953000300",
-        "salesType": 0,
-        "ranking": {
-          "title": "夜は短し歩けよ乙女　映画カバー版",
-          "author": "森見　登美彦",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 7
-            }
-          ],
-          "rank": 7
-        }
+        "salesType": 0
       },
       {
         "id": "4913893790001",
@@ -679,20 +601,7 @@
         "reviewCount": 2930,
         "genreId": "101901",
         "isbn": "4913893790001",
-        "salesType": 0,
-        "ranking": {
-          "title": "本日は、お日柄もよく",
-          "author": "原田マハ",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 8
-            }
-          ],
-          "rank": 8
-        }
+        "salesType": 0
       },
       {
         "id": "4340008646011",
@@ -709,20 +618,7 @@
         "reviewCount": 2893,
         "genreId": "101901/101902",
         "isbn": "4340008646011",
-        "salesType": 0,
-        "ranking": {
-          "title": "向日葵の咲かない夏（新潮文庫）",
-          "author": "道尾秀介",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 9
-            }
-          ],
-          "rank": 9
-        }
+        "salesType": 0
       }
     ],
     "mystery": [
@@ -769,7 +665,7 @@
             }
           ],
           "source": "combined",
-          "rank": 3,
+          "rank": 1,
           "originalTitle": ""
         }
       },
@@ -788,20 +684,7 @@
         "reviewCount": 3871,
         "genreId": "101902",
         "isbn": "6681229611760",
-        "salesType": 0,
-        "ranking": {
-          "title": "告白",
-          "author": "湊かなえ",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 1
-            }
-          ],
-          "rank": 1
-        }
+        "salesType": 0
       },
       {
         "id": "4390000000885",
@@ -818,20 +701,7 @@
         "reviewCount": 3252,
         "genreId": "101902",
         "isbn": "4390000000885",
-        "salesType": 0,
-        "ranking": {
-          "title": "イニシエーション・ラブ",
-          "author": "乾くるみ",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 2
-            }
-          ],
-          "rank": 2
-        }
+        "salesType": 0
       },
       {
         "id": "4310000009879",
@@ -848,20 +718,7 @@
         "reviewCount": 3055,
         "genreId": "101902",
         "isbn": "4310000009879",
-        "salesType": 0,
-        "ranking": {
-          "title": "十角館の殺人〈新装改訂版〉",
-          "author": "綾辻行人",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 3
-            }
-          ],
-          "rank": 3
-        }
+        "salesType": 0
       },
       {
         "id": "4340008646011",
@@ -878,20 +735,7 @@
         "reviewCount": 2893,
         "genreId": "101901/101902",
         "isbn": "4340008646011",
-        "salesType": 0,
-        "ranking": {
-          "title": "向日葵の咲かない夏（新潮文庫）",
-          "author": "道尾秀介",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 4
-            }
-          ],
-          "rank": 4
-        }
+        "salesType": 0
       },
       {
         "id": "4820000074654",
@@ -908,20 +752,7 @@
         "reviewCount": 2725,
         "genreId": "101901001/101902",
         "isbn": "4820000074654",
-        "salesType": 0,
-        "ranking": {
-          "title": "白夜行",
-          "author": "東野圭吾",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 5
-            }
-          ],
-          "rank": 5
-        }
+        "salesType": 0
       },
       {
         "id": "4390000004085",
@@ -938,20 +769,7 @@
         "reviewCount": 2694,
         "genreId": "101902",
         "isbn": "4390000004085",
-        "salesType": 0,
-        "ranking": {
-          "title": "葉桜の季節に君を想うということ",
-          "author": "歌野晶午",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 6
-            }
-          ],
-          "rank": 6
-        }
+        "salesType": 0
       },
       {
         "id": "4390000005636",
@@ -968,20 +786,7 @@
         "reviewCount": 2657,
         "genreId": "101901/101902",
         "isbn": "4390000005636",
-        "salesType": 0,
-        "ranking": {
-          "title": "容疑者Xの献身",
-          "author": "東野圭吾",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 7
-            }
-          ],
-          "rank": 7
-        }
+        "salesType": 0
       },
       {
         "id": "4340009600161",
@@ -998,20 +803,7 @@
         "reviewCount": 2654,
         "genreId": "101901001/101902",
         "isbn": "4340009600161",
-        "salesType": 0,
-        "ranking": {
-          "title": "重力ピエロ（新潮文庫）",
-          "author": "伊坂幸太郎",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 8
-            }
-          ],
-          "rank": 8
-        }
+        "salesType": 0
       },
       {
         "id": "4340009600111",
@@ -1028,20 +820,7 @@
         "reviewCount": 2599,
         "genreId": "101901006/101902",
         "isbn": "4340009600111",
-        "salesType": 0,
-        "ranking": {
-          "title": "オーデュボンの祈り（新潮文庫）",
-          "author": "伊坂幸太郎",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 9
-            }
-          ],
-          "rank": 9
-        }
+        "salesType": 0
       }
     ],
     "sf": [
@@ -1060,20 +839,7 @@
         "reviewCount": 1651,
         "genreId": "101901005",
         "isbn": "4821135170001",
-        "salesType": 0,
-        "ranking": {
-          "title": "終末のフール",
-          "author": "伊坂幸太郎",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 1
-            }
-          ],
-          "rank": 1
-        }
+        "salesType": 0
       },
       {
         "id": "4624150309848",
@@ -1090,20 +856,7 @@
         "reviewCount": 1135,
         "genreId": "101901005/101901001",
         "isbn": "4624150309848",
-        "salesType": 0,
-        "ranking": {
-          "title": "虐殺器官",
-          "author": "伊藤 計劃",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 2
-            }
-          ],
-          "rank": 2
-        }
+        "salesType": 0
       },
       {
         "id": "4624151200533",
@@ -1120,20 +873,7 @@
         "reviewCount": 884,
         "genreId": "101901005/101901001",
         "isbn": "4624151200533",
-        "salesType": 0,
-        "ranking": {
-          "title": "一九八四年",
-          "author": "ジョージ・オーウェル/高橋 和久",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 3
-            }
-          ],
-          "rank": 3
-        }
+        "salesType": 0
       },
       {
         "id": "4310000003854",
@@ -1150,20 +890,7 @@
         "reviewCount": 823,
         "genreId": "101901006/101901005",
         "isbn": "4310000003854",
-        "salesType": 0,
-        "ranking": {
-          "title": "新世界より(下)",
-          "author": "貴志祐介",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 4
-            }
-          ],
-          "rank": 4
-        }
+        "salesType": 0
       },
       {
         "id": "4624150102296",
@@ -1180,20 +907,7 @@
         "reviewCount": 814,
         "genreId": "101901005",
         "isbn": "4624150102296",
-        "salesType": 0,
-        "ranking": {
-          "title": "アンドロイドは電気羊の夢を見るか？",
-          "author": "フィリップ・Ｋ・ディック",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 5
-            }
-          ],
-          "rank": 5
-        }
+        "salesType": 0
       },
       {
         "id": "4310000568980",
@@ -1210,20 +924,7 @@
         "reviewCount": 774,
         "genreId": "101901005",
         "isbn": "4310000568980",
-        "salesType": 0,
-        "ranking": {
-          "title": "小説",
-          "author": "野崎まど",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 6
-            }
-          ],
-          "rank": 6
-        }
+        "salesType": 0
       },
       {
         "id": "4310000003853",
@@ -1240,20 +941,7 @@
         "reviewCount": 757,
         "genreId": "101901006/101901005",
         "isbn": "4310000003853",
-        "salesType": 0,
-        "ranking": {
-          "title": "新世界より(上)",
-          "author": "貴志祐介",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 7
-            }
-          ],
-          "rank": 7
-        }
+        "salesType": 0
       },
       {
         "id": "4624150310196",
@@ -1270,20 +958,7 @@
         "reviewCount": 712,
         "genreId": "101901005/101901001",
         "isbn": "4624150310196",
-        "salesType": 0,
-        "ranking": {
-          "title": "ハーモニー",
-          "author": "伊藤 計劃",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 8
-            }
-          ],
-          "rank": 8
-        }
+        "salesType": 0
       },
       {
         "id": "4340008007641",
@@ -1300,20 +975,7 @@
         "reviewCount": 608,
         "genreId": "101901005/101901001",
         "isbn": "4340008007641",
-        "salesType": 0,
-        "ranking": {
-          "title": "ボッコちゃん（新潮文庫）",
-          "author": "星新一",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 9
-            }
-          ],
-          "rank": 9
-        }
+        "salesType": 0
       },
       {
         "id": "4915174030001",
@@ -1330,20 +992,7 @@
         "reviewCount": 597,
         "genreId": "101901005/101901001",
         "isbn": "4915174030001",
-        "salesType": 0,
-        "ranking": {
-          "title": "残像に口紅を",
-          "author": "筒井康隆",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 10
-            }
-          ],
-          "rank": 10
-        }
+        "salesType": 0
       }
     ],
     "business": [
@@ -1390,7 +1039,7 @@
             }
           ],
           "source": "combined",
-          "rank": 1,
+          "rank": 5,
           "originalTitle": ""
         }
       },
@@ -1409,20 +1058,7 @@
         "reviewCount": 3471,
         "genreId": "101905007001",
         "isbn": "4410258100000",
-        "salesType": 0,
-        "ranking": {
-          "title": "嫌われる勇気",
-          "author": "岸見一郎/古賀史健",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 1
-            }
-          ],
-          "rank": 1
-        }
+        "salesType": 0
       },
       {
         "id": "4410120300000",
@@ -1439,20 +1075,7 @@
         "reviewCount": 2707,
         "genreId": "101905016001",
         "isbn": "4410120300000",
-        "salesType": 0,
-        "ranking": {
-          "title": "もし高校野球の女子マネージャーがドラッカーの『マネジメント』を読んだら",
-          "author": "岩崎夏海",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 2
-            }
-          ],
-          "rank": 2
-        }
+        "salesType": 0
       },
       {
         "id": "4912631530001",
@@ -1469,20 +1092,7 @@
         "reviewCount": 1924,
         "genreId": "101905016001",
         "isbn": "4912631530001",
-        "salesType": 0,
-        "ranking": {
-          "title": "チーズはどこへ消えた？",
-          "author": "スペンサー・ジョンソン",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 3
-            }
-          ],
-          "rank": 3
-        }
+        "salesType": 0
       },
       {
         "id": "8910121854332",
@@ -1499,20 +1109,7 @@
         "reviewCount": 1703,
         "genreId": "101905090",
         "isbn": "8910121854332",
-        "salesType": 0,
-        "ranking": {
-          "title": "学びを結果に変えるアウトプット大全",
-          "author": "樺沢紫苑",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 4
-            }
-          ],
-          "rank": 4
-        }
+        "salesType": 0
       },
       {
         "id": "4660009989600",
@@ -1529,20 +1126,7 @@
         "reviewCount": 1634,
         "genreId": "101905007001",
         "isbn": "4660009989600",
-        "salesType": 0,
-        "ranking": {
-          "title": "FACTFULNESS（ファクトフルネス）10の思い込みを乗り越え、データを基に世界を正しく見る習慣",
-          "author": "ハンス・ロスリング/オーラ・ロスリング/アンナ・ロスリング・ロンランド",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 5
-            }
-          ],
-          "rank": 5
-        }
+        "salesType": 0
       },
       {
         "id": "4820000475016",
@@ -1559,20 +1143,7 @@
         "reviewCount": 1518,
         "genreId": "101906090/101905017004/101905016001",
         "isbn": "4820000475016",
-        "salesType": 0,
-        "ranking": {
-          "title": "なぜ働いていると本が読めなくなるのか",
-          "author": "三宅香帆",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 6
-            }
-          ],
-          "rank": 6
-        }
+        "salesType": 0
       },
       {
         "id": "4410000006218",
@@ -1589,20 +1160,7 @@
         "reviewCount": 1350,
         "genreId": "101905090",
         "isbn": "4410000006218",
-        "salesType": 0,
-        "ranking": {
-          "title": "DIE WITH ZERO　人生が豊かになりすぎる究極のルール",
-          "author": "ビル・パーキンス",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 7
-            }
-          ],
-          "rank": 7
-        }
+        "salesType": 0
       },
       {
         "id": "4916053670001",
@@ -1619,20 +1177,7 @@
         "reviewCount": 1254,
         "genreId": "101905016001/101901001",
         "isbn": "4916053670001",
-        "salesType": 0,
-        "ranking": {
-          "title": "運転者 未来を変える過去からの使者",
-          "author": "喜多川泰",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 8
-            }
-          ],
-          "rank": 8
-        }
+        "salesType": 0
       },
       {
         "id": "4912932200001",
@@ -1649,20 +1194,7 @@
         "reviewCount": 1250,
         "genreId": "101905016001",
         "isbn": "4912932200001",
-        "salesType": 0,
-        "ranking": {
-          "title": "エッセンシャル思考 最少の時間で成果を最大にする",
-          "author": "グレッグ・マキューン",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 9
-            }
-          ],
-          "rank": 9
-        }
+        "salesType": 0
       }
     ],
     "humanities": [
@@ -1709,7 +1241,7 @@
             }
           ],
           "source": "combined",
-          "rank": 2,
+          "rank": 4,
           "originalTitle": ""
         }
       },
@@ -1822,20 +1354,7 @@
         "reviewCount": 1495,
         "genreId": "101907002002",
         "isbn": "4912066360001",
-        "salesType": 0,
-        "ranking": {
-          "title": "夜と霧 新版",
-          "author": "ヴィクトール・Ｅ・フランクル",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 1
-            }
-          ],
-          "rank": 1
-        }
+        "salesType": 0
       },
       {
         "id": "4340009700691",
@@ -1852,20 +1371,7 @@
         "reviewCount": 1464,
         "genreId": "101907010/101907007/101914",
         "isbn": "4340009700691",
-        "salesType": 0,
-        "ranking": {
-          "title": "スマホ脳（新潮新書）",
-          "author": "アンデシュ・ハンセン",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 2
-            }
-          ],
-          "rank": 2
-        }
+        "salesType": 0
       },
       {
         "id": "4340008041861",
@@ -1882,20 +1388,7 @@
         "reviewCount": 1301,
         "genreId": "101907015004/101901002",
         "isbn": "4340008041861",
-        "salesType": 0,
-        "ranking": {
-          "title": "ぼくはイエローでホワイトで、ちょっとブルー　無料お試し版",
-          "author": "ブレイディみかこ",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 3
-            }
-          ],
-          "rank": 3
-        }
+        "salesType": 0
       },
       {
         "id": "4340008042251",
@@ -1912,20 +1405,7 @@
         "reviewCount": 1277,
         "genreId": "101907011002/101907010/101907007/101914",
         "isbn": "4340008042251",
-        "salesType": 0,
-        "ranking": {
-          "title": "ケーキの切れない非行少年たち（新潮新書）",
-          "author": "宮口幸治",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 4
-            }
-          ],
-          "rank": 4
-        }
+        "salesType": 0
       },
       {
         "id": "4390000002253",
@@ -1942,20 +1422,7 @@
         "reviewCount": 1152,
         "genreId": "101907015",
         "isbn": "4390000002253",
-        "salesType": 0,
-        "ranking": {
-          "title": "時をかけるゆとり",
-          "author": "朝井リョウ",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 5
-            }
-          ],
-          "rank": 5
-        }
+        "salesType": 0
       },
       {
         "id": "7224000419517",
@@ -1972,20 +1439,7 @@
         "reviewCount": 1046,
         "genreId": "101908008001/101907002002/101901",
         "isbn": "7224000419517",
-        "salesType": 0,
-        "ranking": {
-          "title": "スピノザの診察室",
-          "author": "夏川草介",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 6
-            }
-          ],
-          "rank": 6
-        }
+        "salesType": 0
       },
       {
         "id": "4340008049911",
@@ -2002,20 +1456,7 @@
         "reviewCount": 1029,
         "genreId": "101907015004/101907010/101907007/101901002/101914",
         "isbn": "4340008049911",
-        "salesType": 0,
-        "ranking": {
-          "title": "ぼくはイエローでホワイトで、ちょっとブルー（新潮文庫）",
-          "author": "ブレイディみかこ",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 7
-            }
-          ],
-          "rank": 7
-        }
+        "salesType": 0
       }
     ],
     "nonfiction": [
@@ -2034,20 +1475,7 @@
         "reviewCount": 1464,
         "genreId": "101907010/101907007/101914",
         "isbn": "4340009700691",
-        "salesType": 0,
-        "ranking": {
-          "title": "スマホ脳（新潮新書）",
-          "author": "アンデシュ・ハンセン",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 1
-            }
-          ],
-          "rank": 1
-        }
+        "salesType": 0
       },
       {
         "id": "4340008042251",
@@ -2064,20 +1492,7 @@
         "reviewCount": 1277,
         "genreId": "101907011002/101907010/101907007/101914",
         "isbn": "4340008042251",
-        "salesType": 0,
-        "ranking": {
-          "title": "ケーキの切れない非行少年たち（新潮新書）",
-          "author": "宮口幸治",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 2
-            }
-          ],
-          "rank": 2
-        }
+        "salesType": 0
       },
       {
         "id": "4340008049911",
@@ -2094,20 +1509,7 @@
         "reviewCount": 1029,
         "genreId": "101907015004/101907010/101907007/101901002/101914",
         "isbn": "4340008049911",
-        "salesType": 0,
-        "ranking": {
-          "title": "ぼくはイエローでホワイトで、ちょっとブルー（新潮文庫）",
-          "author": "ブレイディみかこ",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 3
-            }
-          ],
-          "rank": 3
-        }
+        "salesType": 0
       },
       {
         "id": "4390000001078",
@@ -2124,20 +1526,7 @@
         "reviewCount": 987,
         "genreId": "101907010/101907007/101914",
         "isbn": "4390000001078",
-        "salesType": 0,
-        "ranking": {
-          "title": "聞く力 心をひらく35のヒント",
-          "author": "阿川佐和子",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 4
-            }
-          ],
-          "rank": 4
-        }
+        "salesType": 0
       },
       {
         "id": "4910000519028",
@@ -2154,20 +1543,7 @@
         "reviewCount": 943,
         "genreId": "101907007/101906001001/101914",
         "isbn": "4910000519028",
-        "salesType": 0,
-        "ranking": {
-          "title": "「好き」を言語化する技術 推しの素晴らしさを語りたいのに「やばい！」しかでてこない",
-          "author": "三宅香帆",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 5
-            }
-          ],
-          "rank": 5
-        }
+        "salesType": 0
       },
       {
         "id": "4340009700081",
@@ -2184,20 +1560,7 @@
         "reviewCount": 811,
         "genreId": "101908002/101907010/101907007/101914",
         "isbn": "4340009700081",
-        "salesType": 0,
-        "ranking": {
-          "title": "フェルマーの最終定理（新潮文庫）",
-          "author": "サイモン・シン",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 6
-            }
-          ],
-          "rank": 6
-        }
+        "salesType": 0
       },
       {
         "id": "4320000597546",
@@ -2214,20 +1577,7 @@
         "reviewCount": 689,
         "genreId": "101908006/101907015004/101907005003/101901002/101914",
         "isbn": "4320000597546",
-        "salesType": 0,
-        "ranking": {
-          "title": "僕には鳥の言葉がわかる",
-          "author": "鈴木俊貴",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 7
-            }
-          ],
-          "rank": 7
-        }
+        "salesType": 0
       },
       {
         "id": "4340008645191",
@@ -2244,20 +1594,7 @@
         "reviewCount": 687,
         "genreId": "101907015004/101907010/101907007/101907002002/101901002/101914",
         "isbn": "4340008645191",
-        "salesType": 0,
-        "ranking": {
-          "title": "国家の品格（新潮新書）",
-          "author": "藤原正彦",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 8
-            }
-          ],
-          "rank": 8
-        }
+        "salesType": 0
       },
       {
         "id": "4650473501001",
@@ -2274,20 +1611,7 @@
         "reviewCount": 680,
         "genreId": "101907007/101905013/101905006/101905005/101914",
         "isbn": "4650473501001",
-        "salesType": 0,
-        "ranking": {
-          "title": "きみのお金は誰のため",
-          "author": "田内学",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 9
-            }
-          ],
-          "rank": 9
-        }
+        "salesType": 0
       },
       {
         "id": "4430000013583",
@@ -2304,20 +1628,7 @@
         "reviewCount": 600,
         "genreId": "101907005003/101914",
         "isbn": "4430000013583",
-        "salesType": 0,
-        "ranking": {
-          "title": "赤と青のガウン",
-          "author": "彬子女王",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 10
-            }
-          ],
-          "rank": 10
-        }
+        "salesType": 0
       }
     ],
     "science": [
@@ -2383,20 +1694,7 @@
         "reviewCount": 1046,
         "genreId": "101908008001/101907002002/101901",
         "isbn": "7224000419517",
-        "salesType": 0,
-        "ranking": {
-          "title": "スピノザの診察室",
-          "author": "夏川草介",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 1
-            }
-          ],
-          "rank": 1
-        }
+        "salesType": 0
       },
       {
         "id": "4717991084200",
@@ -2413,20 +1711,7 @@
         "reviewCount": 902,
         "genreId": "101908008002/101905090/101905010",
         "isbn": "4717991084200",
-        "salesType": 0,
-        "ranking": {
-          "title": "人は話し方が9割",
-          "author": "永松茂久",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 2
-            }
-          ],
-          "rank": 2
-        }
+        "salesType": 0
       },
       {
         "id": "4340009700081",
@@ -2443,20 +1728,7 @@
         "reviewCount": 811,
         "genreId": "101908002/101907010/101907007/101914",
         "isbn": "4340009700081",
-        "salesType": 0,
-        "ranking": {
-          "title": "フェルマーの最終定理（新潮文庫）",
-          "author": "サイモン・シン",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 3
-            }
-          ],
-          "rank": 3
-        }
+        "salesType": 0
       },
       {
         "id": "4484421160001",
@@ -2473,20 +1745,7 @@
         "reviewCount": 718,
         "genreId": "101908006",
         "isbn": "4484421160001",
-        "salesType": 0,
-        "ranking": {
-          "title": "バッタを倒しにアフリカへ",
-          "author": "前野ウルド浩太郎",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 4
-            }
-          ],
-          "rank": 4
-        }
+        "salesType": 0
       },
       {
         "id": "8910126773560",
@@ -2503,20 +1762,7 @@
         "reviewCount": 691,
         "genreId": "101908008002/101905010",
         "isbn": "8910126773560",
-        "salesType": 0,
-        "ranking": {
-          "title": "自分とか、ないから。　教養としての東洋哲学",
-          "author": "しんめいP",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 5
-            }
-          ],
-          "rank": 5
-        }
+        "salesType": 0
       },
       {
         "id": "4320000597546",
@@ -2533,20 +1779,7 @@
         "reviewCount": 689,
         "genreId": "101908006/101907015004/101907005003/101901002/101914",
         "isbn": "4320000597546",
-        "salesType": 0,
-        "ranking": {
-          "title": "僕には鳥の言葉がわかる",
-          "author": "鈴木俊貴",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 6
-            }
-          ],
-          "rank": 6
-        }
+        "salesType": 0
       },
       {
         "id": "7224000700065",
@@ -2563,20 +1796,7 @@
         "reviewCount": 674,
         "genreId": "101908008001/101907002002/101901",
         "isbn": "7224000700065",
-        "salesType": 0,
-        "ranking": {
-          "title": "エピクロスの処方箋",
-          "author": "夏川草介",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 7
-            }
-          ],
-          "rank": 7
-        }
+        "salesType": 0
       },
       {
         "id": "8912126194033",
@@ -2593,20 +1813,7 @@
         "reviewCount": 575,
         "genreId": "101908008002/101905017004/101905010/101905006003",
         "isbn": "8912126194033",
-        "salesType": 0,
-        "ranking": {
-          "title": "改訂版　金持ち父さん貧乏父さん　ーーアメリカの金持ちが教えてくれるお金の哲学",
-          "author": "ロバート・キヨサキ/白根美保子",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 8
-            }
-          ],
-          "rank": 8
-        }
+        "salesType": 0
       },
       {
         "id": "8912120526076",
@@ -2623,20 +1830,7 @@
         "reviewCount": 446,
         "genreId": "101908008002/101907003002/101907002002/101905010",
         "isbn": "8912120526076",
-        "salesType": 0,
-        "ranking": {
-          "title": "現代語訳 論語と算盤",
-          "author": "渋沢栄一/守屋淳",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 9
-            }
-          ],
-          "rank": 9
-        }
+        "salesType": 0
       }
     ],
     "it": [
@@ -2655,20 +1849,7 @@
         "reviewCount": 311,
         "genreId": "101912090",
         "isbn": "4335001100300",
-        "salesType": 0,
-        "ranking": {
-          "title": "人工知能は人間を超えるか",
-          "author": "松尾　豊",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 1
-            }
-          ],
-          "rank": 1
-        }
+        "salesType": 0
       },
       {
         "id": "8912100369478",
@@ -2685,20 +1866,7 @@
         "reviewCount": 182,
         "genreId": "101912003/101912002/101907007/101914",
         "isbn": "8912100369478",
-        "salesType": 0,
-        "ranking": {
-          "title": "ウェブ時代をゆく　ーーいかに働き、いかに学ぶか",
-          "author": "梅田望夫",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 2
-            }
-          ],
-          "rank": 2
-        }
+        "salesType": 0
       },
       {
         "id": "5814479795612",
@@ -2715,20 +1883,7 @@
         "reviewCount": 123,
         "genreId": "101912090",
         "isbn": "5814479795612",
-        "salesType": 0,
-        "ranking": {
-          "title": "超ＡＩ時代の生存戦略",
-          "author": "落合陽一",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 3
-            }
-          ],
-          "rank": 3
-        }
+        "salesType": 0
       },
       {
         "id": "4912424360001",
@@ -2745,20 +1900,7 @@
         "reviewCount": 119,
         "genreId": "101912003/101912002/101907015004",
         "isbn": "4912424360001",
-        "salesType": 0,
-        "ranking": {
-          "title": "動員の革命　ソーシャルメディアは何を変えたのか",
-          "author": "津田大介",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 4
-            }
-          ],
-          "rank": 4
-        }
+        "salesType": 0
       },
       {
         "id": "4484366860001",
@@ -2775,20 +1917,7 @@
         "reviewCount": 108,
         "genreId": "101912090",
         "isbn": "4484366860001",
-        "salesType": 0,
-        "ranking": {
-          "title": "データ分析の力　因果関係に迫る思考法",
-          "author": "伊藤公一朗",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 5
-            }
-          ],
-          "rank": 5
-        }
+        "salesType": 0
       },
       {
         "id": "4668181048230",
@@ -2805,20 +1934,7 @@
         "reviewCount": 106,
         "genreId": "101912090",
         "isbn": "4668181048230",
-        "salesType": 0,
-        "ranking": {
-          "title": "社長失格",
-          "author": "板倉雄一郎",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 6
-            }
-          ],
-          "rank": 6
-        }
+        "salesType": 0
       },
       {
         "id": "4694844338720",
@@ -2835,20 +1951,7 @@
         "reviewCount": 102,
         "genreId": "101912003/101907014/101906090/101905009",
         "isbn": "4694844338720",
-        "salesType": 0,
-        "ranking": {
-          "title": "新しい文章力の教室　苦手を得意に変えるナタリー式トレーニング",
-          "author": "唐木 元",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 7
-            }
-          ],
-          "rank": 7
-        }
+        "salesType": 0
       },
       {
         "id": "4390000003179",
@@ -2865,20 +1968,7 @@
         "reviewCount": 94,
         "genreId": "101912090/101905017004",
         "isbn": "4390000003179",
-        "salesType": 0,
-        "ranking": {
-          "title": "人工知能と経済の未来　2030年雇用大崩壊",
-          "author": "井上智洋",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 8
-            }
-          ],
-          "rank": 8
-        }
+        "salesType": 0
       },
       {
         "id": "9784798171555",
@@ -2895,20 +1985,7 @@
         "reviewCount": 92,
         "genreId": "101912090",
         "isbn": "9784798171555",
-        "salesType": 0,
-        "ranking": {
-          "title": "「技術書」の読書術 達人が教える選び方・読み方・情報発信&共有のコツとテクニック",
-          "author": "IPUSIRON/増井敏克",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 9
-            }
-          ],
-          "rank": 9
-        }
+        "salesType": 0
       },
       {
         "id": "9784774170749",
@@ -2925,20 +2002,7 @@
         "reviewCount": 88,
         "genreId": "101912090",
         "isbn": "9784774170749",
-        "salesType": 0,
-        "ranking": {
-          "title": "Webを支える技術 ーー HTTP，URI，HTML，そしてREST",
-          "author": "山本陽平",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 10
-            }
-          ],
-          "rank": 10
-        }
+        "salesType": 0
       }
     ],
     "life": [
@@ -2957,20 +2021,7 @@
         "reviewCount": 927,
         "genreId": "101910010/101909",
         "isbn": "4430000000762",
-        "salesType": 0,
-        "ranking": {
-          "title": "伝える力",
-          "author": "池上彰",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 1
-            }
-          ],
-          "rank": 1
-        }
+        "salesType": 0
       },
       {
         "id": "7224000624362",
@@ -2987,20 +2038,7 @@
         "reviewCount": 881,
         "genreId": "101909002/101907010004/101901",
         "isbn": "7224000624362",
-        "salesType": 0,
-        "ranking": {
-          "title": "ありか",
-          "author": "瀬尾まいこ",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 2
-            }
-          ],
-          "rank": 2
-        }
+        "salesType": 0
       },
       {
         "id": "4524797398480",
@@ -3017,20 +2055,7 @@
         "reviewCount": 825,
         "genreId": "101910010/101907011002/101909",
         "isbn": "4524797398480",
-        "salesType": 0,
-        "ranking": {
-          "title": "読書する人だけがたどり着ける場所",
-          "author": "齋藤 孝",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 3
-            }
-          ],
-          "rank": 3
-        }
+        "salesType": 0
       },
       {
         "id": "4339427800300",
@@ -3047,20 +2072,7 @@
         "reviewCount": 675,
         "genreId": "101910010/101909",
         "isbn": "4339427800300",
-        "salesType": 0,
-        "ranking": {
-          "title": "20代で得た知見",
-          "author": "F",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 4
-            }
-          ],
-          "rank": 4
-        }
+        "salesType": 0
       },
       {
         "id": "5814479782995",
@@ -3077,20 +2089,7 @@
         "reviewCount": 533,
         "genreId": "101909006/101909004",
         "isbn": "5814479782995",
-        "salesType": 0,
-        "ranking": {
-          "title": "フランス人は10着しか服を持たない",
-          "author": "ジェニファー・Ｌ・スコット",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 5
-            }
-          ],
-          "rank": 5
-        }
+        "salesType": 0
       },
       {
         "id": "4410000006252",
@@ -3107,20 +2106,7 @@
         "reviewCount": 531,
         "genreId": "101909013",
         "isbn": "4410000006252",
-        "salesType": 0,
-        "ranking": {
-          "title": "１％の努力",
-          "author": "ひろゆき",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 6
-            }
-          ],
-          "rank": 6
-        }
+        "salesType": 0
       },
       {
         "id": "4330019946000",
@@ -3137,20 +2123,7 @@
         "reviewCount": 473,
         "genreId": "101910010/101909",
         "isbn": "4330019946000",
-        "salesType": 0,
-        "ranking": {
-          "title": "決断力",
-          "author": "羽生　善治",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 7
-            }
-          ],
-          "rank": 7
-        }
+        "salesType": 0
       },
       {
         "id": "4410000005949",
@@ -3167,20 +2140,7 @@
         "reviewCount": 449,
         "genreId": "101909013",
         "isbn": "4410000005949",
-        "salesType": 0,
-        "ranking": {
-          "title": "あやうく一生懸命生きるところだった",
-          "author": "ハ・ワン",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 8
-            }
-          ],
-          "rank": 8
-        }
+        "salesType": 0
       },
       {
         "id": "7275000226321",
@@ -3197,20 +2157,7 @@
         "reviewCount": 427,
         "genreId": "101909010/101901",
         "isbn": "7275000226321",
-        "salesType": 0,
-        "ranking": {
-          "title": "今日のハチミツ、あしたの私",
-          "author": "寺地はるな",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 9
-            }
-          ],
-          "rank": 9
-        }
+        "salesType": 0
       },
       {
         "id": "4326407920001",
@@ -3227,20 +2174,7 @@
         "reviewCount": 381,
         "genreId": "101913006/101913005/101910010/101907015/101909",
         "isbn": "4326407920001",
-        "salesType": 0,
-        "ranking": {
-          "title": "まなの本棚",
-          "author": "芦田愛菜",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 10
-            }
-          ],
-          "rank": 10
-        }
+        "salesType": 0
       }
     ],
     "health": [
@@ -3259,20 +2193,7 @@
         "reviewCount": 359,
         "genreId": "101909009/101905017004",
         "isbn": "4650474801001",
-        "salesType": 0,
-        "ranking": {
-          "title": "休養学",
-          "author": "片野秀樹",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 1
-            }
-          ],
-          "rank": 1
-        }
+        "salesType": 0
       },
       {
         "id": "4694295402120",
@@ -3289,20 +2210,7 @@
         "reviewCount": 355,
         "genreId": "101909012/101909009",
         "isbn": "4694295402120",
-        "salesType": 0,
-        "ranking": {
-          "title": "最高の体調",
-          "author": "鈴木祐",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 2
-            }
-          ],
-          "rank": 2
-        }
+        "salesType": 0
       },
       {
         "id": "4380000401213",
@@ -3319,20 +2227,7 @@
         "reviewCount": 333,
         "genreId": "101909009/101907005003/101914",
         "isbn": "4380000401213",
-        "salesType": 0,
-        "ranking": {
-          "title": "１リットルの涙　難病と闘い続ける少女亜也の日記",
-          "author": "木藤亜也",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 3
-            }
-          ],
-          "rank": 3
-        }
+        "salesType": 0
       },
       {
         "id": "4470813530000",
@@ -3349,20 +2244,7 @@
         "reviewCount": 307,
         "genreId": "101909009",
         "isbn": "4470813530000",
-        "salesType": 0,
-        "ranking": {
-          "title": "脳を鍛えるには運動しかない！最新科学でわかった脳細胞の増やし方",
-          "author": "ジョンＪ．レイティ/エリック・ヘイガーマン",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 4
-            }
-          ],
-          "rank": 4
-        }
+        "salesType": 0
       },
       {
         "id": "4410000003860",
@@ -3379,20 +2261,7 @@
         "reviewCount": 243,
         "genreId": "101909009",
         "isbn": "4410000003860",
-        "salesType": 0,
-        "ranking": {
-          "title": "医者が教える食事術 最強の教科書",
-          "author": "牧田善二",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 5
-            }
-          ],
-          "rank": 5
-        }
+        "salesType": 0
       },
       {
         "id": "8890003600172",
@@ -3409,20 +2278,7 @@
         "reviewCount": 221,
         "genreId": "101909014/101909009/101908008001",
         "isbn": "8890003600172",
-        "salesType": 0,
-        "ranking": {
-          "title": "「空腹」こそ最強のクスリ",
-          "author": "青木厚",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 6
-            }
-          ],
-          "rank": 6
-        }
+        "salesType": 0
       },
       {
         "id": "4470814140000",
@@ -3439,20 +2295,7 @@
         "reviewCount": 209,
         "genreId": "101909009",
         "isbn": "4470814140000",
-        "salesType": 0,
-        "ranking": {
-          "title": "ＢＯＲＮ ＴＯ ＲＵＮ　走るために生まれた　ウルトラランナーVS人類最強の走る民族",
-          "author": "クリストファー・マクドゥーガル",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 7
-            }
-          ],
-          "rank": 7
-        }
+        "salesType": 0
       },
       {
         "id": "4650462401001",
@@ -3469,20 +2312,7 @@
         "reviewCount": 187,
         "genreId": "101909009/101908008001",
         "isbn": "4650462401001",
-        "salesType": 0,
-        "ranking": {
-          "title": "世界一シンプルで科学的に証明された究極の食事",
-          "author": "津川友介",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 8
-            }
-          ],
-          "rank": 8
-        }
+        "salesType": 0
       },
       {
         "id": "4410000001313",
@@ -3499,20 +2329,7 @@
         "reviewCount": 150,
         "genreId": "101909009",
         "isbn": "4410000001313",
-        "salesType": 0,
-        "ranking": {
-          "title": "自分を変える最強の食事",
-          "author": "デイヴ・アスプリー",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 9
-            }
-          ],
-          "rank": 9
-        }
+        "salesType": 0
       },
       {
         "id": "4704763130396",
@@ -3529,20 +2346,7 @@
         "reviewCount": 145,
         "genreId": "101909009",
         "isbn": "4704763130396",
-        "salesType": 0,
-        "ranking": {
-          "title": "なぜ、「これ」は健康にいいのか？",
-          "author": "小林弘幸",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 10
-            }
-          ],
-          "rank": 10
-        }
+        "salesType": 0
       }
     ],
     "hobby": [
@@ -3561,20 +2365,7 @@
         "reviewCount": 952,
         "genreId": "101910009003/101901",
         "isbn": "4380000405016",
-        "salesType": 0,
-        "ranking": {
-          "title": "たゆたえども沈まず",
-          "author": "原田マハ",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 1
-            }
-          ],
-          "rank": 1
-        }
+        "salesType": 0
       },
       {
         "id": "4430000000762",
@@ -3591,20 +2382,7 @@
         "reviewCount": 927,
         "genreId": "101910010/101909",
         "isbn": "4430000000762",
-        "salesType": 0,
-        "ranking": {
-          "title": "伝える力",
-          "author": "池上彰",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 2
-            }
-          ],
-          "rank": 2
-        }
+        "salesType": 0
       },
       {
         "id": "4524797398480",
@@ -3621,20 +2399,7 @@
         "reviewCount": 825,
         "genreId": "101910010/101907011002/101909",
         "isbn": "4524797398480",
-        "salesType": 0,
-        "ranking": {
-          "title": "読書する人だけがたどり着ける場所",
-          "author": "齋藤 孝",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 3
-            }
-          ],
-          "rank": 3
-        }
+        "salesType": 0
       },
       {
         "id": "4339427800300",
@@ -3651,20 +2416,7 @@
         "reviewCount": 675,
         "genreId": "101910010/101909",
         "isbn": "4339427800300",
-        "salesType": 0,
-        "ranking": {
-          "title": "20代で得た知見",
-          "author": "F",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 4
-            }
-          ],
-          "rank": 4
-        }
+        "salesType": 0
       },
       {
         "id": "4330019946000",
@@ -3681,20 +2433,7 @@
         "reviewCount": 473,
         "genreId": "101910010/101909",
         "isbn": "4330019946000",
-        "salesType": 0,
-        "ranking": {
-          "title": "決断力",
-          "author": "羽生　善治",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 5
-            }
-          ],
-          "rank": 5
-        }
+        "salesType": 0
       },
       {
         "id": "4340008051451",
@@ -3711,20 +2450,7 @@
         "reviewCount": 387,
         "genreId": "101910009/101901",
         "isbn": "4340008051451",
-        "salesType": 0,
-        "ranking": {
-          "title": "常設展示室ーPermanent Collectionー（新潮文庫）",
-          "author": "原田マハ",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 6
-            }
-          ],
-          "rank": 6
-        }
+        "salesType": 0
       },
       {
         "id": "4326407920001",
@@ -3741,20 +2467,7 @@
         "reviewCount": 381,
         "genreId": "101913006/101913005/101910010/101907015/101909",
         "isbn": "4326407920001",
-        "salesType": 0,
-        "ranking": {
-          "title": "まなの本棚",
-          "author": "芦田愛菜",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 7
-            }
-          ],
-          "rank": 7
-        }
+        "salesType": 0
       },
       {
         "id": "4380000406568",
@@ -3771,20 +2484,7 @@
         "reviewCount": 344,
         "genreId": "101910009/101901",
         "isbn": "4380000406568",
-        "salesType": 0,
-        "ranking": {
-          "title": "リボルバー",
-          "author": "原田マハ",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 8
-            }
-          ],
-          "rank": 8
-        }
+        "salesType": 0
       },
       {
         "id": "4822052000001",
@@ -3801,20 +2501,7 @@
         "reviewCount": 315,
         "genreId": "101910009/101901",
         "isbn": "4822052000001",
-        "salesType": 0,
-        "ranking": {
-          "title": "ジヴェルニーの食卓[電子特別版]",
-          "author": "原田マハ",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 9
-            }
-          ],
-          "rank": 9
-        }
+        "salesType": 0
       },
       {
         "id": "4310000716696",
@@ -3831,20 +2518,7 @@
         "reviewCount": 299,
         "genreId": "101910010/101907003001/101909",
         "isbn": "4310000716696",
-        "salesType": 0,
-        "ranking": {
-          "title": "カウンセリングとは何か　変化するということ",
-          "author": "東畑開人",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 10
-            }
-          ],
-          "rank": 10
-        }
+        "salesType": 0
       }
     ],
     "travel": [
@@ -3863,20 +2537,7 @@
         "reviewCount": 124,
         "genreId": "101911001/101901002",
         "isbn": "6164418215072",
-        "salesType": 0,
-        "ranking": {
-          "title": "北欧こじらせ日記",
-          "author": "週末北欧部chika",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 1
-            }
-          ],
-          "rank": 1
-        }
+        "salesType": 0
       },
       {
         "id": "4380000406080",
@@ -3893,20 +2554,7 @@
         "reviewCount": 115,
         "genreId": "101911/101913",
         "isbn": "4380000406080",
-        "salesType": 0,
-        "ranking": {
-          "title": "たそがれビール",
-          "author": "小川糸",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 2
-            }
-          ],
-          "rank": 2
-        }
+        "salesType": 0
       },
       {
         "id": "4390000011838",
@@ -3923,20 +2571,7 @@
         "reviewCount": 84,
         "genreId": "101907015004/101907007/101901002/101911",
         "isbn": "4390000011838",
-        "salesType": 0,
-        "ranking": {
-          "title": "イラク水滸伝",
-          "author": "高野秀行",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 3
-            }
-          ],
-          "rank": 3
-        }
+        "salesType": 0
       },
       {
         "id": "6164418225026",
@@ -3953,20 +2588,7 @@
         "reviewCount": 74,
         "genreId": "101911001/101913",
         "isbn": "6164418225026",
-        "salesType": 0,
-        "ranking": {
-          "title": "北欧こじらせ日記 移住決定編",
-          "author": "週末北欧部 chika",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 4
-            }
-          ],
-          "rank": 4
-        }
+        "salesType": 0
       },
       {
         "id": "8892100000087",
@@ -3983,20 +2605,7 @@
         "reviewCount": 67,
         "genreId": "101911001",
         "isbn": "8892100000087",
-        "salesType": 0,
-        "ranking": {
-          "title": "死ぬまでに行きたい！ 世界の絶景",
-          "author": "詩歩",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 5
-            }
-          ],
-          "rank": 5
-        }
+        "salesType": 0
       },
       {
         "id": "4910000435242",
@@ -4013,20 +2622,7 @@
         "reviewCount": 66,
         "genreId": "101909010/101907015004/101901002/101911",
         "isbn": "4910000435242",
-        "salesType": 0,
-        "ranking": {
-          "title": "わたしの名店",
-          "author": "三浦しをん/西加奈子/中江有里/美村里江/宇垣美里/清水由美/山田ルイ53世/塩谷舞/稲垣えみ子/道尾秀介/ジェーン・スー/岡崎琢磨/バービー/朝井リョウ/瀬尾まいこ/佐藤雫/清水ミチコ/あさのますみ/畠中恵/はるな檸檬/小川糸/久住昌之/川内有緒/澤村伊智/朱野帰子/最相葉月/藤岡陽子/森見登美彦",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 6
-            }
-          ],
-          "rank": 6
-        }
+        "salesType": 0
       },
       {
         "id": "6380000002427",
@@ -4043,20 +2639,7 @@
         "reviewCount": 66,
         "genreId": "101911",
         "isbn": "6380000002427",
-        "salesType": 0,
-        "ranking": {
-          "title": "深夜高速バスに１００回ぐらい乗ってわかったこと",
-          "author": "スズキ ナオ",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 7
-            }
-          ],
-          "rank": 7
-        }
+        "salesType": 0
       },
       {
         "id": "4380000405087",
@@ -4073,20 +2656,7 @@
         "reviewCount": 62,
         "genreId": "101911001/101901002",
         "isbn": "4380000405087",
-        "salesType": 0,
-        "ranking": {
-          "title": "ほんとはかわいくないフィンランド",
-          "author": "芹澤桂",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 8
-            }
-          ],
-          "rank": 8
-        }
+        "salesType": 0
       },
       {
         "id": "4380000406081",
@@ -4103,20 +2673,7 @@
         "reviewCount": 61,
         "genreId": "101911/101913",
         "isbn": "4380000406081",
-        "salesType": 0,
-        "ranking": {
-          "title": "今日の空の色",
-          "author": "小川糸",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 9
-            }
-          ],
-          "rank": 9
-        }
+        "salesType": 0
       },
       {
         "id": "4380000406083",
@@ -4133,20 +2690,7 @@
         "reviewCount": 60,
         "genreId": "101911/101913",
         "isbn": "4380000406083",
-        "salesType": 0,
-        "ranking": {
-          "title": "卵を買いに",
-          "author": "小川糸",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 10
-            }
-          ],
-          "rank": 10
-        }
+        "salesType": 0
       }
     ],
     "language": [
@@ -4165,20 +2709,7 @@
         "reviewCount": 1518,
         "genreId": "101906090/101905017004/101905016001",
         "isbn": "4820000475016",
-        "salesType": 0,
-        "ranking": {
-          "title": "なぜ働いていると本が読めなくなるのか",
-          "author": "三宅香帆",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 1
-            }
-          ],
-          "rank": 1
-        }
+        "salesType": 0
       },
       {
         "id": "4910000519028",
@@ -4195,20 +2726,7 @@
         "reviewCount": 943,
         "genreId": "101907007/101906001001/101914",
         "isbn": "4910000519028",
-        "salesType": 0,
-        "ranking": {
-          "title": "「好き」を言語化する技術 推しの素晴らしさを語りたいのに「やばい！」しかでてこない",
-          "author": "三宅香帆",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 2
-            }
-          ],
-          "rank": 2
-        }
+        "salesType": 0
       },
       {
         "id": "4101408650001",
@@ -4225,20 +2743,7 @@
         "reviewCount": 521,
         "genreId": "101907015/101906001001",
         "isbn": "4101408650001",
-        "salesType": 0,
-        "ranking": {
-          "title": "読書力",
-          "author": "齋藤孝",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 3
-            }
-          ],
-          "rank": 3
-        }
+        "salesType": 0
       },
       {
         "id": "4820000119222",
@@ -4255,20 +2760,7 @@
         "reviewCount": 482,
         "genreId": "101907002002/101906090/101905001002",
         "isbn": "4820000119222",
-        "salesType": 0,
-        "ranking": {
-          "title": "人新世の「資本論」",
-          "author": "斎藤幸平",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 4
-            }
-          ],
-          "rank": 4
-        }
+        "salesType": 0
       },
       {
         "id": "8909121963479",
@@ -4285,20 +2777,7 @@
         "reviewCount": 358,
         "genreId": "101907014/101907007/101906090",
         "isbn": "8909121963479",
-        "salesType": 0,
-        "ranking": {
-          "title": "翻訳できない世界のことば",
-          "author": "エラ・フランシス・サンダース/前田まゆみ",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 5
-            }
-          ],
-          "rank": 5
-        }
+        "salesType": 0
       },
       {
         "id": "4310000007121",
@@ -4315,20 +2794,7 @@
         "reviewCount": 341,
         "genreId": "101906090",
         "isbn": "4310000007121",
-        "salesType": 0,
-        "ranking": {
-          "title": "わかりあえないことから　コミュニケーション能力とは何か",
-          "author": "平田オリザ",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 6
-            }
-          ],
-          "rank": 6
-        }
+        "salesType": 0
       },
       {
         "id": "4910000363253",
@@ -4345,20 +2811,7 @@
         "reviewCount": 325,
         "genreId": "101908090/101906001001",
         "isbn": "4910000363253",
-        "salesType": 0,
-        "ranking": {
-          "title": "言語の本質　ことばはどう生まれ、進化したか",
-          "author": "今井むつみ/秋田喜美",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 7
-            }
-          ],
-          "rank": 7
-        }
+        "salesType": 0
       },
       {
         "id": "4916955930001",
@@ -4375,20 +2828,7 @@
         "reviewCount": 303,
         "genreId": "101907014/101906090/101905016001",
         "isbn": "4916955930001",
-        "salesType": 0,
-        "ranking": {
-          "title": "超雑談力 人づきあいがラクになる 誰とでも信頼関係が築ける【弱点に合わせて読む場所がわかる！特設ページ付き！】",
-          "author": "五百田達成",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 8
-            }
-          ],
-          "rank": 8
-        }
+        "salesType": 0
       },
       {
         "id": "4914017410001",
@@ -4405,20 +2845,7 @@
         "reviewCount": 264,
         "genreId": "101906001001",
         "isbn": "4914017410001",
-        "salesType": 0,
-        "ranking": {
-          "title": "理科系の作文技術（リフロー版）",
-          "author": "木下是雄",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 9
-            }
-          ],
-          "rank": 9
-        }
+        "salesType": 0
       },
       {
         "id": "6681210038610",
@@ -4435,20 +2862,7 @@
         "reviewCount": 243,
         "genreId": "101907005003/101906090/101914/101916/101913",
         "isbn": "6681210038610",
-        "salesType": 0,
-        "ranking": {
-          "title": "世界がもし100人の村だったら",
-          "author": "池田香代子/C・ダグラス・ラミス",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 10
-            }
-          ],
-          "rank": 10
-        }
+        "salesType": 0
       }
     ],
     "children": [
@@ -4467,20 +2881,7 @@
         "reviewCount": 1411,
         "genreId": "101916",
         "isbn": "4104515750001",
-        "salesType": 0,
-        "ranking": {
-          "title": "モモ",
-          "author": "ミヒャエル・エンデ",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 1
-            }
-          ],
-          "rank": 1
-        }
+        "salesType": 0
       },
       {
         "id": "9781781101513",
@@ -4497,20 +2898,7 @@
         "reviewCount": 948,
         "genreId": "101901006/101902/101916",
         "isbn": "9781781101513",
-        "salesType": 0,
-        "ranking": {
-          "title": "ハリー・ポッターと賢者の石",
-          "author": "J.K. Rowling",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 2
-            }
-          ],
-          "rank": 2
-        }
+        "salesType": 0
       },
       {
         "id": "4910000395128",
@@ -4527,20 +2915,7 @@
         "reviewCount": 810,
         "genreId": "101907015004/101905016001/101901002/101916",
         "isbn": "4910000395128",
-        "salesType": 0,
-        "ranking": {
-          "title": "さみしい夜にはペンを持て",
-          "author": "古賀史健",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 3
-            }
-          ],
-          "rank": 3
-        }
+        "salesType": 0
       },
       {
         "id": "4310000019357",
@@ -4557,20 +2932,7 @@
         "reviewCount": 662,
         "genreId": "101916",
         "isbn": "4310000019357",
-        "salesType": 0,
-        "ranking": {
-          "title": "１００万回生きたねこ",
-          "author": "佐野洋子",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 4
-            }
-          ],
-          "rank": 4
-        }
+        "salesType": 0
       },
       {
         "id": "9781781101575",
@@ -4587,20 +2949,7 @@
         "reviewCount": 602,
         "genreId": "101901006/101902/101916",
         "isbn": "9781781101575",
-        "salesType": 0,
-        "ranking": {
-          "title": "ハリー・ポッターと死の秘宝",
-          "author": "J.K. Rowling",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 5
-            }
-          ],
-          "rank": 5
-        }
+        "salesType": 0
       },
       {
         "id": "9781781101568",
@@ -4617,20 +2966,7 @@
         "reviewCount": 464,
         "genreId": "101901006/101902/101916",
         "isbn": "9781781101568",
-        "salesType": 0,
-        "ranking": {
-          "title": "ハリー・ポッターと謎のプリンス",
-          "author": "J.K. Rowling",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 6
-            }
-          ],
-          "rank": 6
-        }
+        "salesType": 0
       },
       {
         "id": "9781781101551",
@@ -4647,20 +2983,7 @@
         "reviewCount": 451,
         "genreId": "101901006/101902/101916",
         "isbn": "9781781101551",
-        "salesType": 0,
-        "ranking": {
-          "title": "ハリー・ポッターと不死鳥の騎士団",
-          "author": "J.K. Rowling",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 7
-            }
-          ],
-          "rank": 7
-        }
+        "salesType": 0
       },
       {
         "id": "9781781101537",
@@ -4677,20 +3000,7 @@
         "reviewCount": 443,
         "genreId": "101916",
         "isbn": "9781781101537",
-        "salesType": 0,
-        "ranking": {
-          "title": "ハリー・ポッターとアズカバンの囚人",
-          "author": "J.K. Rowling",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 8
-            }
-          ],
-          "rank": 8
-        }
+        "salesType": 0
       },
       {
         "id": "9781781101520",
@@ -4707,20 +3017,7 @@
         "reviewCount": 418,
         "genreId": "101901006/101902/101916",
         "isbn": "9781781101520",
-        "salesType": 0,
-        "ranking": {
-          "title": "ハリー・ポッターと秘密の部屋",
-          "author": "J.K. Rowling",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 9
-            }
-          ],
-          "rank": 9
-        }
+        "salesType": 0
       },
       {
         "id": "4914434750001",
@@ -4737,20 +3034,7 @@
         "reviewCount": 354,
         "genreId": "101907015004/101901006/101901002/101916",
         "isbn": "4914434750001",
-        "salesType": 0,
-        "ranking": {
-          "title": "あるかしら書店",
-          "author": "ヨシタケシンスケ",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 10
-            }
-          ],
-          "rank": 10
-        }
+        "salesType": 0
       }
     ],
     "essay": [
@@ -4769,20 +3053,7 @@
         "reviewCount": 1301,
         "genreId": "101907015004/101901002",
         "isbn": "4340008041861",
-        "salesType": 0,
-        "ranking": {
-          "title": "ぼくはイエローでホワイトで、ちょっとブルー　無料お試し版",
-          "author": "ブレイディみかこ",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 1
-            }
-          ],
-          "rank": 1
-        }
+        "salesType": 0
       },
       {
         "id": "4340008049911",
@@ -4799,20 +3070,7 @@
         "reviewCount": 1029,
         "genreId": "101907015004/101907010/101907007/101901002/101914",
         "isbn": "4340008049911",
-        "salesType": 0,
-        "ranking": {
-          "title": "ぼくはイエローでホワイトで、ちょっとブルー（新潮文庫）",
-          "author": "ブレイディみかこ",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 2
-            }
-          ],
-          "rank": 2
-        }
+        "salesType": 0
       },
       {
         "id": "4340008630131",
@@ -4829,20 +3087,7 @@
         "reviewCount": 866,
         "genreId": "101907015004/101907002002/101901002",
         "isbn": "4340008630131",
-        "salesType": 0,
-        "ranking": {
-          "title": "バカの壁（新潮新書）",
-          "author": "養老孟司",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 3
-            }
-          ],
-          "rank": 3
-        }
+        "salesType": 0
       },
       {
         "id": "4340008045601",
@@ -4859,20 +3104,7 @@
         "reviewCount": 862,
         "genreId": "101907015004/101901002",
         "isbn": "4340008045601",
-        "salesType": 0,
-        "ranking": {
-          "title": "日日是好日ー「お茶」が教えてくれた15のしあわせー（新潮文庫）",
-          "author": "森下典子",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 4
-            }
-          ],
-          "rank": 4
-        }
+        "salesType": 0
       },
       {
         "id": "4910000395128",
@@ -4889,20 +3121,7 @@
         "reviewCount": 810,
         "genreId": "101907015004/101905016001/101901002/101916",
         "isbn": "4910000395128",
-        "salesType": 0,
-        "ranking": {
-          "title": "さみしい夜にはペンを持て",
-          "author": "古賀史健",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 5
-            }
-          ],
-          "rank": 5
-        }
+        "salesType": 0
       },
       {
         "id": "4320000597546",
@@ -4919,20 +3138,7 @@
         "reviewCount": 689,
         "genreId": "101908006/101907015004/101907005003/101901002/101914",
         "isbn": "4320000597546",
-        "salesType": 0,
-        "ranking": {
-          "title": "僕には鳥の言葉がわかる",
-          "author": "鈴木俊貴",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 6
-            }
-          ],
-          "rank": 6
-        }
+        "salesType": 0
       },
       {
         "id": "4340008645191",
@@ -4949,20 +3155,7 @@
         "reviewCount": 687,
         "genreId": "101907015004/101907010/101907007/101907002002/101901002/101914",
         "isbn": "4340008645191",
-        "salesType": 0,
-        "ranking": {
-          "title": "国家の品格（新潮新書）",
-          "author": "藤原正彦",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 7
-            }
-          ],
-          "rank": 7
-        }
+        "salesType": 0
       },
       {
         "id": "4825575630001",
@@ -4979,20 +3172,7 @@
         "reviewCount": 668,
         "genreId": "101907015004/101901002",
         "isbn": "4825575630001",
-        "salesType": 0,
-        "ranking": {
-          "title": "もものかんづめ",
-          "author": "さくらももこ",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 8
-            }
-          ],
-          "rank": 8
-        }
+        "salesType": 0
       },
       {
         "id": "4390000005984",
@@ -5009,20 +3189,7 @@
         "reviewCount": 645,
         "genreId": "101907015004/101901002",
         "isbn": "4390000005984",
-        "salesType": 0,
-        "ranking": {
-          "title": "表参道のセレブ犬とカバーニャ要塞の野良犬",
-          "author": "若林正恭",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 9
-            }
-          ],
-          "rank": 9
-        }
+        "salesType": 0
       },
       {
         "id": "8909122840914",
@@ -5039,20 +3206,7 @@
         "reviewCount": 495,
         "genreId": "101907015004/101901002",
         "isbn": "8909122840914",
-        "salesType": 0,
-        "ranking": {
-          "title": "出会い系サイトで７０人と実際に会ってその人に合いそうな本をすすめまくった１年間のこと",
-          "author": "花田菜々子",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 10
-            }
-          ],
-          "rank": 10
-        }
+        "salesType": 0
       }
     ],
     "comic": [
@@ -5071,20 +3225,7 @@
         "reviewCount": 793,
         "genreId": "101904002005",
         "isbn": "4310000005017",
-        "salesType": 0,
-        "ranking": {
-          "title": "聖☆おにいさん（１）",
-          "author": "中村光",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 1
-            }
-          ],
-          "rank": 1
-        }
+        "salesType": 0
       },
       {
         "id": "8910121499616",
@@ -5101,20 +3242,7 @@
         "reviewCount": 762,
         "genreId": "101904090",
         "isbn": "8910121499616",
-        "salesType": 0,
-        "ranking": {
-          "title": "漫画　君たちはどう生きるか",
-          "author": "吉野源三郎/羽賀翔一",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 2
-            }
-          ],
-          "rank": 2
-        }
+        "salesType": 0
       },
       {
         "id": "4330000292000",
@@ -5131,20 +3259,7 @@
         "reviewCount": 602,
         "genreId": "101904002024",
         "isbn": "4330000292000",
-        "salesType": 0,
-        "ranking": {
-          "title": "テルマエ・ロマエI",
-          "author": "ヤマザキ　マリ",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 3
-            }
-          ],
-          "rank": 3
-        }
+        "salesType": 0
       },
       {
         "id": "4890000001772",
@@ -5161,20 +3276,7 @@
         "reviewCount": 566,
         "genreId": "101904090",
         "isbn": "4890000001772",
-        "salesType": 0,
-        "ranking": {
-          "title": "3月のライオン 1",
-          "author": "羽海野チカ",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 4
-            }
-          ],
-          "rank": 4
-        }
+        "salesType": 0
       },
       {
         "id": "4310000000441",
@@ -5191,20 +3293,7 @@
         "reviewCount": 524,
         "genreId": "101904011005",
         "isbn": "4310000000441",
-        "salesType": 0,
-        "ranking": {
-          "title": "のだめカンタービレ（１）",
-          "author": "二ノ宮知子",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 5
-            }
-          ],
-          "rank": 5
-        }
+        "salesType": 0
       },
       {
         "id": "7328120183843",
@@ -5221,20 +3310,7 @@
         "reviewCount": 501,
         "genreId": "101904090",
         "isbn": "7328120183843",
-        "salesType": 0,
-        "ranking": {
-          "title": "鋼の錬金術師1巻",
-          "author": "荒川弘",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 6
-            }
-          ],
-          "rank": 6
-        }
+        "salesType": 0
       },
       {
         "id": "4310000023625",
@@ -5251,20 +3327,7 @@
         "reviewCount": 495,
         "genreId": "101904002004",
         "isbn": "4310000023625",
-        "salesType": 0,
-        "ranking": {
-          "title": "きのう何食べた？（１）",
-          "author": "よしながふみ",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 7
-            }
-          ],
-          "rank": 7
-        }
+        "salesType": 0
       },
       {
         "id": "4970200872509",
@@ -5281,20 +3344,7 @@
         "reviewCount": 478,
         "genreId": "101904001007",
         "isbn": "4970200872509",
-        "salesType": 0,
-        "ranking": {
-          "title": "ONE PIECE カラー版 1",
-          "author": "尾田栄一郎",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 8
-            }
-          ],
-          "rank": 8
-        }
+        "salesType": 0
       },
       {
         "id": "4970000872509",
@@ -5311,20 +3361,7 @@
         "reviewCount": 477,
         "genreId": "101904001007",
         "isbn": "4970000872509",
-        "salesType": 0,
-        "ranking": {
-          "title": "ONE PIECE モノクロ版 1",
-          "author": "尾田栄一郎",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 9
-            }
-          ],
-          "rank": 9
-        }
+        "salesType": 0
       },
       {
         "id": "4310000000070",
@@ -5341,20 +3378,7 @@
         "reviewCount": 461,
         "genreId": "101904002015",
         "isbn": "4310000000070",
-        "salesType": 0,
-        "ranking": {
-          "title": "おおきく振りかぶって（１）",
-          "author": "ひぐちアサ",
-          "source": "kobo",
-          "sources": [
-            {
-              "source": "kobo",
-              "label": "楽天Kobo人気",
-              "rank": 10
-            }
-          ],
-          "rank": 10
-        }
+        "salesType": 0
       }
     ]
   },
@@ -5362,98 +3386,82 @@
     "fiction": {
       "target": 10,
       "matched": 10,
-      "complete": true,
-      "error": ""
+      "complete": true
     },
     "mystery": {
       "target": 10,
       "matched": 10,
-      "complete": true,
-      "error": ""
+      "complete": true
     },
     "sf": {
       "target": 10,
       "matched": 10,
-      "complete": true,
-      "error": ""
+      "complete": true
     },
     "business": {
       "target": 10,
       "matched": 10,
-      "complete": true,
-      "error": ""
+      "complete": true
     },
     "humanities": {
       "target": 10,
       "matched": 10,
-      "complete": true,
-      "error": ""
+      "complete": true
     },
     "nonfiction": {
       "target": 10,
       "matched": 10,
-      "complete": true,
-      "error": ""
+      "complete": true
     },
     "science": {
       "target": 10,
       "matched": 10,
-      "complete": true,
-      "error": ""
+      "complete": true
     },
     "it": {
       "target": 10,
       "matched": 10,
-      "complete": true,
-      "error": ""
+      "complete": true
     },
     "life": {
       "target": 10,
       "matched": 10,
-      "complete": true,
-      "error": ""
+      "complete": true
     },
     "health": {
       "target": 10,
       "matched": 10,
-      "complete": true,
-      "error": ""
+      "complete": true
     },
     "hobby": {
       "target": 10,
       "matched": 10,
-      "complete": true,
-      "error": ""
+      "complete": true
     },
     "travel": {
       "target": 10,
       "matched": 10,
-      "complete": true,
-      "error": ""
+      "complete": true
     },
     "language": {
       "target": 10,
       "matched": 10,
-      "complete": true,
-      "error": ""
+      "complete": true
     },
     "children": {
       "target": 10,
       "matched": 10,
-      "complete": true,
-      "error": ""
+      "complete": true
     },
     "essay": {
       "target": 10,
       "matched": 10,
-      "complete": true,
-      "error": ""
+      "complete": true
     },
     "comic": {
       "target": 10,
       "matched": 10,
-      "complete": true,
-      "error": ""
+      "complete": true
     }
   },
   "genreTarget": 10

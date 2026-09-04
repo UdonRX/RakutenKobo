@@ -10,7 +10,7 @@ on:
       - 'scripts/scrape-kobo-sale.mjs'
       - 'scripts/build-completed-feeds.mjs'
       - 'scripts/build-all-sale-feed.mjs'
-      - 'scripts/enrich-popular-genres.mjs'
+      - 'scripts/finalize-popular-feeds.mjs'
       - '.github/workflows/update-kobo-sale.yml'
 
 permissions:
@@ -49,10 +49,10 @@ jobs:
           KOBO_API_BASE: https://rakuten-kobo.vercel.app
         run: node scripts/build-completed-feeds.mjs /tmp/kobo-sale-candidates.json /tmp/completed-feeds
 
-      - name: Fill popular genres
+      - name: Expand popular rankings without dropping resolved books
         env:
           KOBO_API_BASE: https://rakuten-kobo.vercel.app
-        run: node scripts/enrich-popular-genres.mjs /tmp/completed-feeds
+        run: node scripts/finalize-popular-feeds.mjs /tmp/completed-feeds
 
       - name: Build curated sale feed from exhaustive scan
         env:

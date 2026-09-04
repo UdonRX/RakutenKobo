@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "year",
-  "updatedAt": "2026-09-04T12:17:06.445Z",
+  "updatedAt": "2026-09-04T16:53:35.371Z",
   "candidateCount": 13,
-  "baseMatched": 7,
+  "baseMatched": 8,
   "matched": 9,
-  "addedMatches": 2,
+  "addedMatches": 1,
   "unavailable": [],
   "snapshots": {
     "tohan": {
@@ -284,9 +284,8 @@
       "salesType": 0,
       "matchMeta": {
         "title": "暁星",
-        "author": "",
-        "isbn": "",
-        "score": 173,
+        "author": "湊かなえ",
+        "score": 82,
         "sources": [
           {
             "source": "tohan",
@@ -296,7 +295,7 @@
         ],
         "source": "combined",
         "rank": 7,
-        "originalTitle": "暁星"
+        "originalTitle": ""
       },
       "ranking": {
         "title": "暁星",
@@ -484,8 +483,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12,
-        "originalTitle": "FOR OVERSEAS"
+        "rank": 12
       },
       "ranking": {
         "title": "FOR OVERSEAS",

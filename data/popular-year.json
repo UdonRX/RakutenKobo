@@ -2,12 +2,13 @@
   "kind": "popular",
   "completed": true,
   "expandedAllPublishedRanks": true,
+  "preserveResolvedMatches": true,
   "period": "year",
-  "updatedAt": "2026-09-03T21:28:29.740Z",
-  "candidateCount": 10,
-  "checked": 10,
-  "matched": 2,
-  "failedBatches": 0,
+  "updatedAt": "2026-09-04T01:17:46.754Z",
+  "candidateCount": 13,
+  "baseMatched": 8,
+  "matched": 9,
+  "addedMatches": 1,
   "unavailable": [],
   "snapshots": {
     "tohan": {
@@ -16,18 +17,62 @@
       "attribution": "トーハン調べ",
       "sourceUrl": "https://www.tohan.jp/bestsellers/2026_firsthalf_total/",
       "periodLabel": "年次",
-      "updatedAt": "2026-09-03",
+      "updatedAt": "2026-09-04",
       "live": true,
       "items": [
         {
           "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
-          "author": "堀田 秀吾",
+          "author": "",
+          "isbn": "",
           "rank": 1
         },
         {
+          "title": "変な地図",
+          "author": "",
+          "isbn": "",
+          "rank": 2
+        },
+        {
           "title": "イン･ザ･メガチャーチ",
-          "author": "朝井リョウ",
+          "author": "",
+          "isbn": "",
           "rank": 3
+        },
+        {
+          "title": "成瀬は都を駆け抜ける",
+          "author": "",
+          "isbn": "",
+          "rank": 4
+        },
+        {
+          "title": "暁星",
+          "author": "",
+          "isbn": "",
+          "rank": 7
+        },
+        {
+          "title": "大河の一滴 最終章",
+          "author": "",
+          "isbn": "",
+          "rank": 8
+        },
+        {
+          "title": "不滅なるものへの挑戦 霊性の時代を拓くために",
+          "author": "",
+          "isbn": "",
+          "rank": 9
+        },
+        {
+          "title": "棺桶まで歩こう",
+          "author": "",
+          "isbn": "",
+          "rank": 10
+        },
+        {
+          "title": "FOR OVERSEAS",
+          "author": "",
+          "isbn": "",
+          "rank": 12
         }
       ]
     }
@@ -50,9 +95,9 @@
       "isbn": "4524815633410",
       "salesType": 0,
       "matchMeta": {
-        "title": "ハーバード、スタンフォード、オックスフォード... 科学的に証明された すごい習慣大百科",
-        "author": "",
-        "score": 159,
+        "title": "科学的に証明された すごい習慣大百科",
+        "author": "堀田秀吾",
+        "score": 106,
         "sources": [
           {
             "source": "tohan",
@@ -62,12 +107,13 @@
         ],
         "source": "combined",
         "rank": 1,
-        "originalTitle": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科"
+        "originalTitle": ""
       },
       "ranking": {
-        "title": "ハーバード、スタンフォード、オックスフォード... 科学的に証明された すごい習慣大百科",
+        "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
         "author": "",
-        "score": 159,
+        "isbn": "",
+        "score": 179,
         "sources": [
           {
             "source": "tohan",
@@ -76,8 +122,54 @@
           }
         ],
         "source": "combined",
-        "rank": 1,
-        "originalTitle": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科"
+        "rank": 1
+      }
+    },
+    {
+      "id": "6681297998470",
+      "title": "変な地図",
+      "author": "雨穴",
+      "publisher": "双葉社",
+      "price": 1760,
+      "url": "https://books.rakuten.co.jp/rk/739cdf2de2c93df7a0aa7bccbbaf365b/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2631/2000018972631.jpg?_ex=600x600",
+      "caption": "主人公はあの栗原さん!!　\n『変な家』『変な絵』に続く、雨穴「変な」シリーズの集大成！　\n2015年、大学生の栗原は、意外な事実を知る。\n彼の祖母が、正体不明の古地図を握りしめて、不審死を遂げたという。\nその古地図には、７体の妖怪が描かれていた。\nこれはいったい何なのか。なぜ、祖母は死に際にこんなものを持っていたのか。\n謎を探るため、栗原は旅に出る。　\nそこに待ち受けていたのは、海沿いの廃集落、不可解な人身事故、潰れかけの民宿、因縁に満ちたトンネル、そして古地図に秘められた悲しい事実だったーー。　\n祖母はなぜ死んだのか？　\n妖怪の正体は？　\nホラー、ミステリー、サスペンス、冒険、青春、恋愛・・・・・・　\n2024年書籍売り上げ1位！　雨穴が送る異形の王道小説。　\nあなたには、この「古地図」の謎が解けますか？　\n※イメージふくらむ「考察マップ」も収録。\n※著者・雨穴による『沖上喜見子の手記』朗読動画付き！\n",
+      "salesDate": "2025年10月31日",
+      "series": "変な地図",
+      "reviewAverage": 3.85,
+      "reviewCount": 618,
+      "genreId": "101902",
+      "isbn": "6681297998470",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "変な地図",
+        "author": "雨穴",
+        "score": 102,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 2
+          }
+        ],
+        "source": "combined",
+        "rank": 2,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "変な地図",
+        "author": "",
+        "isbn": "",
+        "score": 178,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 2
+          }
+        ],
+        "source": "combined",
+        "rank": 2
       }
     },
     {
@@ -98,8 +190,8 @@
       "salesType": 0,
       "matchMeta": {
         "title": "イン・ザ・メガチャーチ",
-        "author": "",
-        "score": 157,
+        "author": "朝井リョウ",
+        "score": 98,
         "sources": [
           {
             "source": "tohan",
@@ -109,12 +201,13 @@
         ],
         "source": "combined",
         "rank": 3,
-        "originalTitle": "イン･ザ･メガチャーチ"
+        "originalTitle": ""
       },
       "ranking": {
-        "title": "イン・ザ・メガチャーチ",
+        "title": "イン･ザ･メガチャーチ",
         "author": "",
-        "score": 157,
+        "isbn": "",
+        "score": 177,
         "sources": [
           {
             "source": "tohan",
@@ -123,115 +216,314 @@
           }
         ],
         "source": "combined",
-        "rank": 2,
-        "originalTitle": "イン･ザ･メガチャーチ"
+        "rank": 3
+      }
+    },
+    {
+      "id": "4340008064751",
+      "title": "成瀬は都を駆け抜ける",
+      "author": "宮島未奈",
+      "publisher": "新潮社",
+      "price": 1870,
+      "url": "https://books.rakuten.co.jp/rk/742144207d4335e2bae33be75c1df7de/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9131/2000018619131.jpg?_ex=600x600",
+      "caption": "唯一無二の主人公が、今度は京都を駆け巡る！　成瀬シリーズ堂々完結!!\n膳所高校を卒業し、晴れて京大生となった成瀬あかり。一世一代の恋に破れた同級生、「達磨研究会」なる謎のサークル、簿記YouTuber……。千年の都を舞台に、ますます個性豊かな面々が成瀬あかり史に名を刻む中、幼馴染の島崎のもとには成瀬から突然速達が届いて……!?　全６篇、最高の主人公に訪れる大団円を見届けよ！\n",
+      "salesDate": "2025年12月01日",
+      "series": "「成瀬」シリーズ",
+      "reviewAverage": 4.54,
+      "reviewCount": 1496,
+      "genreId": "101901",
+      "isbn": "4340008064751",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "成瀬は都を駆け抜ける",
+        "author": "宮島未奈",
+        "score": 94,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
+          }
+        ],
+        "source": "combined",
+        "rank": 4,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "成瀬は都を駆け抜ける",
+        "author": "",
+        "isbn": "",
+        "score": 176,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
+          }
+        ],
+        "source": "combined",
+        "rank": 4
+      }
+    },
+    {
+      "id": "6681299179860",
+      "title": "暁星",
+      "author": "湊かなえ",
+      "publisher": "双葉社",
+      "price": 1980,
+      "url": "https://books.rakuten.co.jp/rk/eb8de6a46aa935d48709dbfee116c7d2/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4762/2000019204762.jpg?_ex=600x600",
+      "caption": "「ただ、星を守りたかっただけーー」　\n現役の文部科学大臣で文壇の大御所作家でもある清水義之が全国高校生総合文化祭の式典の最中、舞台袖から飛び出してきた男に刺されて死亡する事件がおきた。逮捕された男の名前は永瀬暁、37歳。永瀬は逮捕されたのち、週刊誌に手記を発表しはじめる。そこには、清水が深く関わっているとされる新興宗教に対する恨みが綴られていた。また、式典に出席していた作家は、永瀬の事件を小説として描く。ノンフィクションとフィクション、ふたつの物語が合わさったとき見える景色とは!?\n",
+      "salesDate": "2025年11月27日",
+      "series": "暁星",
+      "reviewAverage": 4.18,
+      "reviewCount": 1140,
+      "genreId": "101902",
+      "isbn": "6681299179860",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "暁星",
+        "author": "湊かなえ",
+        "score": 82,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 7
+          }
+        ],
+        "source": "combined",
+        "rank": 7,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "暁星",
+        "author": "",
+        "isbn": "",
+        "score": 173,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 7
+          }
+        ],
+        "source": "combined",
+        "rank": 5
+      }
+    },
+    {
+      "id": "4380000485089",
+      "title": "大河の一滴　最終章",
+      "author": "五木寛之",
+      "publisher": "幻冬舎",
+      "price": 1881,
+      "url": "https://books.rakuten.co.jp/rk/11c561cb4c083a838252a295da0974c9/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1450/2000019211450.jpg?_ex=600x600",
+      "caption": "93歳の人間論ーー。\n人は何かのために生きるのではない。\n誰かのために生きるのだ。\n衝撃のベストセラー『大河の一滴』から30年。圧巻の集大成。\n常に、再生の希望はある。\n少年時代の引揚体験、自死への欲求、思いがけない病の宣告……\nあえて、大河の流れに逆らうことを決意した、告白的人間論。\n「かつて人生を大河の流れにたとえて書いたときは、その流れに身をまかせて、生命の海へと流れていく、そんなふうに考えていた。\n　しかし、と、私は思ったのだ。ときには大河の流れに身をまかせるだけでなく、それに逆らって生きることもあっていいのではあるまいか。大河の流れの中にも、逆流する場所もあれば、迂回する流れもある。\n　長く生きられなかった彼らのかわりに、自分は一日でも長く生きようと考えてきたのではなかったか。運命に身をまかせるだけでなく、それに逆らうこともあっていい。\n　人には、何人かのために生きる責任がある、と思う。人々のはたさざりし思いを背負って生きる義務があるのではないか。何かのためではなく、誰かのために生きるのだ」\nーー「大河の流れに逆らって」本文より\n静寂から立ち上がる、鮮やかな再生の物語。\n",
+      "salesDate": "2026年02月12日",
+      "series": "",
+      "reviewAverage": 4,
+      "reviewCount": 23,
+      "genreId": "101907002002",
+      "isbn": "4380000485089",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "大河の一滴 最終章",
+        "author": "五木寛之",
+        "score": 78,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 8,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "大河の一滴 最終章",
+        "author": "",
+        "isbn": "",
+        "score": 172,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 6
+      }
+    },
+    {
+      "id": "7275000764491",
+      "title": "不滅なるものへの挑戦 ー霊性の時代を拓くためにー",
+      "author": "大川隆法",
+      "publisher": "幸福の科学出版",
+      "price": 2200,
+      "url": "https://books.rakuten.co.jp/rk/94e1cbf113a63333819edf8ae0ef37e0/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0951/2000019300951.jpg?_ex=600x600",
+      "caption": "あなたの心には、「無限の価値」が眠っている。\n与えられた3万日余りの人生で\nあなたは何を成し遂げ\nどんな「心のなかの宝物」を見つけるのか。\n美しい心を磨き切り、世を照らす一助となれ。\n第1章　死後の世界を正しく理解するために\n〇「死んだら何もかもなくなる」という考えは間違いである\n〇この世での生き方は、あの世やその先の来世にまでつながっていく\n第2章　真理を求めるための教育の理想とは\n〇なぜ学問の対象から霊性を外す流れが起きたのか\n〇「人間の本体は魂である」という真実から、すべては出発する\n第3章　自己中心的な生き方はなぜ問題なのか\n〇「幸福になれない」と嘆く人が変えるべき心のあり方とは\n〇欲を膨らませることは、成長にはならない\n第4章　不滅なるものへの挑戦\n〇時代や人々の姿は変わっても、「不滅の真理」は存在する\n〇環境に流されず、自らの力で “運命の川” を漕ぎ渡っていけ\n第5章　心の価値に目覚めよ\n〇目に見え、手に触れられる幸福は、どこまで求めても有限である\n〇恐怖の時代に必要なものは、「愛」や「人を助けたい」という心\n目次\n第1章　死後の世界を正しく理解するために\n─『死んでから困らない生き方』講義─\n第2章　真理を求めるための教育の理想とは\n─『霊性と教育』講義─\n第3章　自己中心的な生き方はなぜ問題なのか\n─不幸から脱却するために必要な考え方 ─\n第4章　不滅なるものへの挑戦\n─自らの心を磨き切り、世の中を照らせ ─\n第5章　心の価値に目覚めよ\n一人ひとりの心に愛の火を灯す ─\n",
+      "salesDate": "2025年12月09日",
+      "series": "不滅なるものへの挑戦 ー霊性の時代を拓くためにー",
+      "reviewAverage": 4,
+      "reviewCount": 1,
+      "genreId": "101907004090",
+      "isbn": "7275000764491",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "不滅なるものへの挑戦 霊性の時代を拓くために",
+        "author": "大川隆法",
+        "score": 74,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 9,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "不滅なるものへの挑戦 霊性の時代を拓くために",
+        "author": "",
+        "isbn": "",
+        "score": 171,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 7
+      }
+    },
+    {
+      "id": "4380000407704",
+      "title": "棺桶まで歩こう",
+      "author": "萬田緑平",
+      "publisher": "幻冬舎",
+      "price": 982,
+      "url": "https://books.rakuten.co.jp/rk/2553e6b8bd4737298fc8ea239abc3641/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0789/2000019160789.jpg?_ex=600x600",
+      "caption": "歩けるうちは、人は死なない\n長生きしたくないという高齢者が増えている。\n不健康寿命が延び、ムダな延命治療によるつらく苦しい最期は恐ろしいと感じるからだ。\n著者は2000人以上を看取った元外科医の緩和ケア医。\n「歩けるうちは死にません」「抗がん剤をやめた方が長く生きる」「病院で体力の限界まで生かされるから苦しい」「認知症は長生きしたい人にとって勝ち組の証」「ひとり暮らしは、むしろ楽に死ねる」など「延命より満足を、治療より尊厳を」という選択を提唱。\n医療との向き合い方を変えることで、家で人生を終えるという幸せが味わえるようになる!\n2000人の幸せな最期を支えた「在宅」緩和ケア医が提言\n病院に頼りすぎない“生ききる力”とは?\n",
+      "salesDate": "2025年11月27日",
+      "series": "",
+      "reviewAverage": 4,
+      "reviewCount": 50,
+      "genreId": "101908008002/101907007",
+      "isbn": "4380000407704",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "棺桶まで歩こう",
+        "author": "萬田緑平",
+        "score": 70,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 10,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "棺桶まで歩こう",
+        "author": "",
+        "isbn": "",
+        "score": 170,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 8
+      }
+    },
+    {
+      "id": "9781505942323",
+      "title": "How to Start a Crown Agents for Overseas Governments and Administrations Business (Beginners Guide)",
+      "author": "Leclair Jaquelyn",
+      "publisher": "SamEnrico",
+      "price": 2515,
+      "url": "https://books.rakuten.co.jp/rk/da3f192a66453cb193c43421103700ab/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5952/2000020915952.jpg?_ex=600x600",
+      "caption": "This publication, published by SamEnrico, covers How to Start a Crown Agents for Overseas Governments and Administrations Business (Beginners Guide)\n",
+      "salesDate": "2015年12月20日",
+      "series": "",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101970003007",
+      "isbn": "9781505942323",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "FOR OVERSEAS",
+        "author": "",
+        "isbn": "",
+        "score": 168,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 12
+          }
+        ],
+        "source": "combined",
+        "rank": 12
+      },
+      "ranking": {
+        "title": "FOR OVERSEAS",
+        "author": "",
+        "isbn": "",
+        "score": 168,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 12
+          }
+        ],
+        "source": "combined",
+        "rank": 9
       }
     }
   ],
   "byGenre": {
     "fiction": [
-      {
-        "id": "4660629612104",
-        "title": "イン・ザ・メガチャーチ",
-        "author": "朝井リョウ",
-        "publisher": "日経BP",
-        "price": 2200,
-        "url": "https://books.rakuten.co.jp/rk/d3fd58a999d73fbaaf1de480b1d262ba/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3254/2000018463254.jpg?_ex=600x600",
-        "caption": "☆2026年本屋大賞受賞☆\n【第9回未来屋小説大賞】\n【第2回あの本、読みました？大賞】\n沈みゆく列島で、“界隈”は沸騰するーー。\nあるアイドルグループの運営に参画することになった、家族と離れて暮らす男。内向的で繊細な気質ゆえ積み重なる心労を癒やしたい大学生。仲間と楽しく舞台俳優を応援していたが、とある報道で状況が一変する女。ファンダム経済を仕掛ける側、のめり込む側、かつてのめり込んでいた側ーー世代も立場も異なる３つの視点から、人の心を動かす“物語”の功罪を炙り出す。\n「神がいないこの国で人を操るには、“物語”を使うのが一番いいんですよ」\n",
-        "salesDate": "2025年09月03日",
-        "series": "",
-        "reviewAverage": 4.29,
-        "reviewCount": 3373,
-        "genreId": "101901",
-        "isbn": "4660629612104",
-        "salesType": 0,
-        "matchMeta": {
-          "title": "イン・ザ・メガチャーチ",
-          "author": "",
-          "score": 157,
-          "sources": [
-            {
-              "source": "tohan",
-              "label": "トーハン",
-              "rank": 3
-            }
-          ],
-          "source": "combined",
-          "rank": 3,
-          "originalTitle": "イン･ザ･メガチャーチ"
-        },
-        "ranking": {
-          "title": "イン・ザ・メガチャーチ",
-          "author": "",
-          "score": 157,
-          "sources": [
-            {
-              "source": "tohan",
-              "label": "トーハン",
-              "rank": 3
-            }
-          ],
-          "source": "combined",
-          "rank": 2,
-          "originalTitle": "イン･ザ･メガチャーチ"
-        }
-      }
+      "4660629612104",
+      "4340008064751"
     ],
-    "mystery": [],
+    "mystery": [
+      "6681297998470",
+      "6681299179860"
+    ],
     "sf": [],
     "business": [
-      {
-        "id": "4524815633410",
-        "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
-        "author": "堀田 秀吾",
-        "publisher": "SBクリエイティブ",
-        "price": 1760,
-        "url": "https://books.rakuten.co.jp/rk/79a1d43cefcb3337b3e2363c5f00a07e/",
-        "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1658/2000018091658.jpg?_ex=600x600",
-        "caption": "勉強・ダイエット・貯金・目標達成…は習慣化が10割\n仕事、ダイエット、健康管理、勉強、目標達成…すべて成功のカギは「習慣化」にあります。\nしかし間違った習慣を身につけてしまったらその代償は大きくなってしまいます。\n何をどう習慣化すればいいか、そのために重要になるのが「エビデンス」です。\n・もし「A」をしたら「B」をすると、あらかじめ決めておく\n・選択肢は必ず「3つ」用意しておく\n・常にポジティブな言葉を使うーつらさに対する耐性が高まる\n・52分間作業して、17分休憩するー生産性が高まるetc.\n本書は、ハーバード、スタンフォード、オックスフォード…などの研究機関において証明されたテクニックを112個紹介。\n見開き図解入りでわかりやすい。気になったテクニックからはじめられ、情報収集のためにも役立ち、また読みものとしても楽しめる一冊です。\n※カバー画像が異なる場合があります。\n",
-        "salesDate": "2025年07月02日",
-        "series": "",
-        "reviewAverage": 3.7,
-        "reviewCount": 366,
-        "genreId": "101905090",
-        "isbn": "4524815633410",
-        "salesType": 0,
-        "matchMeta": {
-          "title": "ハーバード、スタンフォード、オックスフォード... 科学的に証明された すごい習慣大百科",
-          "author": "",
-          "score": 159,
-          "sources": [
-            {
-              "source": "tohan",
-              "label": "トーハン",
-              "rank": 1
-            }
-          ],
-          "source": "combined",
-          "rank": 1,
-          "originalTitle": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科"
-        },
-        "ranking": {
-          "title": "ハーバード、スタンフォード、オックスフォード... 科学的に証明された すごい習慣大百科",
-          "author": "",
-          "score": 159,
-          "sources": [
-            {
-              "source": "tohan",
-              "label": "トーハン",
-              "rank": 1
-            }
-          ],
-          "source": "combined",
-          "rank": 1,
-          "originalTitle": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科"
-        }
-      }
+      "4524815633410"
     ],
-    "humanities": [],
+    "humanities": [
+      "4380000485089",
+      "7275000764491",
+      "4380000407704"
+    ],
     "nonfiction": [],
-    "science": [],
+    "science": [
+      "4380000407704"
+    ],
     "it": [],
     "life": [],
     "health": [],
@@ -244,11 +536,11 @@
   },
   "genreStatus": {
     "fiction": {
-      "matched": 1,
+      "matched": 2,
       "complete": true
     },
     "mystery": {
-      "matched": 0,
+      "matched": 2,
       "complete": true
     },
     "sf": {
@@ -260,7 +552,7 @@
       "complete": true
     },
     "humanities": {
-      "matched": 0,
+      "matched": 3,
       "complete": true
     },
     "nonfiction": {
@@ -268,7 +560,7 @@
       "complete": true
     },
     "science": {
-      "matched": 0,
+      "matched": 1,
       "complete": true
     },
     "it": {

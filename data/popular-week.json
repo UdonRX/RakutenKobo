@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-09-04T16:53:15.600Z",
+  "updatedAt": "2026-09-04T21:20:08.588Z",
   "candidateCount": 76,
-  "baseMatched": 33,
-  "matched": 38,
-  "addedMatches": 5,
+  "baseMatched": 34,
+  "matched": 40,
+  "addedMatches": 6,
   "unavailable": [
     "rakuten"
   ],
@@ -27,6 +27,12 @@
           "author": "講談社",
           "isbn": "",
           "rank": 3
+        },
+        {
+          "title": "幽冥の岸 十二国記 (新潮文庫)",
+          "author": "小野 不由美",
+          "isbn": "",
+          "rank": 4
         },
         {
           "title": "ダンダダン 25 (ジャンプコミックス)",
@@ -51,6 +57,12 @@
           "author": "",
           "isbn": "",
           "rank": 16
+        },
+        {
+          "title": "Casa BRUTUS(カーサ ブルータス) 2026年 10月号[ソウル・ライフスタイル・ガイド]",
+          "author": "CasaBRUTUS編集部",
+          "isbn": "",
+          "rank": 17
         },
         {
           "title": "ブラック・ラグーン (14) (サンデーGXコミックス)",
@@ -254,6 +266,12 @@
       "live": true,
       "items": [
         {
+          "title": "キングダム magazine 2026",
+          "author": "",
+          "isbn": "",
+          "rank": 2
+        },
+        {
           "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
           "author": "",
           "isbn": "",
@@ -396,6 +414,53 @@
       }
     },
     {
+      "id": "4972000161524",
+      "title": "キングダム magazine 2026",
+      "author": "原泰久",
+      "publisher": "集英社",
+      "price": 1881,
+      "url": "https://books.rakuten.co.jp/rk/47fb09e2be1731b4a06b3f70f3466419/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2094/2000021122094.jpg?_ex=600x600",
+      "caption": "キングダム連載20周年を記念して、読むたびにアツくなる！　語りたくなる!!　キングダムを楽しみ尽くす一冊!!　読切『金剛』掲載。『キングダム』の原点、主人公・信が誕生した幻の読切を再掲。原泰久3大インタビュー。・20周年スペシャル単独インタビュー　・原泰久×松原利光（YJ連載『ガス灯野良犬探偵団』作画）×笠原真樹（ビッグコミックスピリッツ連載『夢なし先生の進路指導』） 師弟鼎談　・ちばてつや×原泰久特別対談。　大特集『キングダム』二十年の軌跡。様々な角度から連載20年を振り返る大特集。その他、映画、アニメ、ゲーム、キングダムの20年が凝縮された企画盛り沢山の240ページ。　※電子版には3大アプリゲーム特典コードはつきません。\n",
+      "salesDate": "2026年08月19日",
+      "series": "キングダム magazine 2026",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904002006",
+      "isbn": "4972000161524",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "キングダム magazine 2026",
+        "author": "",
+        "isbn": "",
+        "score": 178,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 2
+          }
+        ],
+        "source": "combined",
+        "rank": 10
+      },
+      "ranking": {
+        "title": "キングダム magazine 2026",
+        "author": "",
+        "isbn": "",
+        "score": 178,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 2
+          }
+        ],
+        "source": "combined",
+        "rank": 3
+      }
+    },
+    {
       "id": "4340008067051",
       "title": "プレゼント（新潮文庫）",
       "author": "伊坂幸太郎/江國香織/恩田陸/梨木香歩/町田そのこ/宮部みゆき/米澤穂信",
@@ -439,7 +504,7 @@
           }
         ],
         "source": "combined",
-        "rank": 3
+        "rank": 4
       }
     },
     {
@@ -486,7 +551,7 @@
           }
         ],
         "source": "combined",
-        "rank": 4
+        "rank": 5
       }
     },
     {
@@ -533,7 +598,54 @@
           }
         ],
         "source": "combined",
-        "rank": 5
+        "rank": 6
+      }
+    },
+    {
+      "id": "4340008067611",
+      "title": "幽冥の岸　十二国記（新潮文庫）",
+      "author": "小野不由美",
+      "publisher": "新潮社",
+      "price": 825,
+      "url": "https://books.rakuten.co.jp/rk/7e370e5630af35e8a1d65d7b3e153066/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7863/2000021417863.jpg?_ex=600x600",
+      "caption": "「生きる」ーーその理（ことわり）を知るは唯一。琅燦（ろうさん）は、黄海に暮らす娘。戴国（たいこく）から訪れた男は、妖獣を狩ることを生業（なりわい）とする民の逞しさを知る。琅燦にとっては、男が語る国や政（まつりごと）が標（しるべ）となるーー運命の邂逅（であい）を描く「異邦の客」。神獣たる麒麟は血の穢れを受けてはならぬもの。義をもってのこととて、人を殺めた泰麒（たいき）に生きる道は赦されぬのかーー表題作「幽冥の岸」ほか、命と対峙し、生きる意味を問う４編。（解説・朝宮運河）\n",
+      "salesDate": "2026年12月11日",
+      "series": "十二国記",
+      "reviewAverage": 0,
+      "reviewCount": 1,
+      "genreId": "101901",
+      "isbn": "4340008067611",
+      "salesType": 1,
+      "matchMeta": {
+        "title": "幽冥の岸 十二国記",
+        "author": "小野 不由美",
+        "score": 94,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 4
+          }
+        ],
+        "source": "combined",
+        "rank": 15,
+        "originalTitle": "幽冥の岸 十二国記 (新潮文庫)"
+      },
+      "ranking": {
+        "title": "幽冥の岸 十二国記 (新潮文庫)",
+        "author": "小野 不由美",
+        "isbn": "",
+        "score": 176,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 4
+          }
+        ],
+        "source": "combined",
+        "rank": 7
       }
     },
     {
@@ -565,7 +677,8 @@
           }
         ],
         "source": "combined",
-        "rank": 16
+        "rank": 16,
+        "originalTitle": "ハヤブサ消防団 森へつづく道"
       },
       "ranking": {
         "title": "ハヤブサ消防団 森へつづく道",
@@ -580,7 +693,7 @@
           }
         ],
         "source": "combined",
-        "rank": 6
+        "rank": 8
       }
     },
     {
@@ -627,7 +740,54 @@
           }
         ],
         "source": "combined",
-        "rank": 7
+        "rank": 9
+      }
+    },
+    {
+      "id": "4390000005636",
+      "title": "容疑者Xの献身",
+      "author": "東野圭吾",
+      "publisher": "文藝春秋",
+      "price": 770,
+      "url": "https://books.rakuten.co.jp/rk/ffd6faf3b54b36bcbc30235a82624fa9/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7077/2000008377077.jpg?_ex=600x600",
+      "caption": "累計290万部突破。直木賞を受賞した大ベストセラー！\n天才数学者でありながら不遇な日々を送っていた高校教師の石神は、一人娘と暮らす隣人の靖子に秘かな想いを寄せていた。彼女たちが前夫を殺害したことを知った彼は、2人を救うため完全犯罪を企てる。だが皮肉にも、石神のかつての親友である物理学者の湯川学が、その謎に挑むことになる。ガリレオシリーズ初の長篇、直木賞受賞作。\n福山雅治主演で2008年に映画化され、堤真一、松雪泰子の熱演も話題になった。\n※この電子書籍は2008年8月に文藝春秋より刊行された文庫を底本としています\n",
+      "salesDate": "2020年04月24日",
+      "series": "",
+      "reviewAverage": 4.44,
+      "reviewCount": 2674,
+      "genreId": "101901/101902",
+      "isbn": "4390000005636",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "容疑者Xの献身",
+        "author": "東野圭吾",
+        "score": 82,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 7
+          }
+        ],
+        "source": "combined",
+        "rank": 24,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "容疑者Xの献身",
+        "author": "東野圭吾",
+        "isbn": "",
+        "score": 173,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 7
+          }
+        ],
+        "source": "combined",
+        "rank": 10
       }
     },
     {
@@ -674,54 +834,7 @@
           }
         ],
         "source": "combined",
-        "rank": 8
-      }
-    },
-    {
-      "id": "4390000005636",
-      "title": "容疑者Xの献身",
-      "author": "東野圭吾",
-      "publisher": "文藝春秋",
-      "price": 770,
-      "url": "https://books.rakuten.co.jp/rk/ffd6faf3b54b36bcbc30235a82624fa9/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7077/2000008377077.jpg?_ex=600x600",
-      "caption": "累計290万部突破。直木賞を受賞した大ベストセラー！\n天才数学者でありながら不遇な日々を送っていた高校教師の石神は、一人娘と暮らす隣人の靖子に秘かな想いを寄せていた。彼女たちが前夫を殺害したことを知った彼は、2人を救うため完全犯罪を企てる。だが皮肉にも、石神のかつての親友である物理学者の湯川学が、その謎に挑むことになる。ガリレオシリーズ初の長篇、直木賞受賞作。\n福山雅治主演で2008年に映画化され、堤真一、松雪泰子の熱演も話題になった。\n※この電子書籍は2008年8月に文藝春秋より刊行された文庫を底本としています\n",
-      "salesDate": "2020年04月24日",
-      "series": "",
-      "reviewAverage": 4.44,
-      "reviewCount": 2674,
-      "genreId": "101901/101902",
-      "isbn": "4390000005636",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "容疑者Xの献身",
-        "author": "東野圭吾",
-        "isbn": "",
-        "score": 173,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 7
-          }
-        ],
-        "source": "combined",
-        "rank": 25
-      },
-      "ranking": {
-        "title": "容疑者Xの献身",
-        "author": "東野圭吾",
-        "isbn": "",
-        "score": 173,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 7
-          }
-        ],
-        "source": "combined",
-        "rank": 9
+        "rank": 11
       }
     },
     {
@@ -768,7 +881,7 @@
           }
         ],
         "source": "combined",
-        "rank": 10
+        "rank": 12
       }
     },
     {
@@ -815,7 +928,7 @@
           }
         ],
         "source": "combined",
-        "rank": 11
+        "rank": 13
       }
     },
     {
@@ -862,54 +975,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12
-      }
-    },
-    {
-      "id": "4331000700320",
-      "title": "ギャルにひかれて寺マルシェ",
-      "author": "宮島　未奈",
-      "publisher": "KADOKAWA",
-      "price": 2035,
-      "url": "https://books.rakuten.co.jp/rk/892ef7e9e1143dc0868ac50df9bd106a/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9754/2000021549754.jpg?_ex=600x600",
-      "caption": "亡くなった父親の酒屋を継いだ30歳の英介は、商売への向上心もなく、なんとなく毎日を送っている。そこに現れたのは、久しぶりに地元に帰ってきた、腐れ縁の悪友・光司。光司に誘われ英介は、子どものころに近所の陵泉寺に埋めたという高価なポケモンカードを掘り起こすことに。偵察のため、陵泉寺で開かれている〈寺マルシェ〉を訪れると、ギャルメイクで法話を行う尼僧を見つける。それは実家の陵泉寺で副住職を務める、元同級生の真実子だった。かつての優等生の面影のない姿に呆気にとられる英介の傍ら、光司は真実子を〈ギャル僧〉として売り出して金儲けすることを思いつきーー！？読めばきっと元気がもらえる、大人になりきれない大人たちの青春譚！\n",
-      "salesDate": "2026年09月02日",
-      "series": "ギャルにひかれて寺マルシェ",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101901",
-      "isbn": "4331000700320",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ギャルにひかれて寺マルシェ",
-        "author": "",
-        "score": 70,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 38,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "ギャルにひかれて寺マルシェ",
-        "author": "",
-        "isbn": "",
-        "score": 170,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 13
+        "rank": 14
       }
     },
     {
@@ -956,7 +1022,54 @@
           }
         ],
         "source": "combined",
-        "rank": 14
+        "rank": 15
+      }
+    },
+    {
+      "id": "4331000700320",
+      "title": "ギャルにひかれて寺マルシェ",
+      "author": "宮島　未奈",
+      "publisher": "KADOKAWA",
+      "price": 2035,
+      "url": "https://books.rakuten.co.jp/rk/892ef7e9e1143dc0868ac50df9bd106a/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9754/2000021549754.jpg?_ex=600x600",
+      "caption": "亡くなった父親の酒屋を継いだ30歳の英介は、商売への向上心もなく、なんとなく毎日を送っている。そこに現れたのは、久しぶりに地元に帰ってきた、腐れ縁の悪友・光司。光司に誘われ英介は、子どものころに近所の陵泉寺に埋めたという高価なポケモンカードを掘り起こすことに。偵察のため、陵泉寺で開かれている〈寺マルシェ〉を訪れると、ギャルメイクで法話を行う尼僧を見つける。それは実家の陵泉寺で副住職を務める、元同級生の真実子だった。かつての優等生の面影のない姿に呆気にとられる英介の傍ら、光司は真実子を〈ギャル僧〉として売り出して金儲けすることを思いつきーー！？読めばきっと元気がもらえる、大人になりきれない大人たちの青春譚！\n",
+      "salesDate": "2026年09月02日",
+      "series": "ギャルにひかれて寺マルシェ",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101901",
+      "isbn": "4331000700320",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ギャルにひかれて寺マルシェ",
+        "author": "",
+        "score": 70,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 38,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "ギャルにひかれて寺マルシェ",
+        "author": "",
+        "isbn": "",
+        "score": 170,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 16
       }
     },
     {
@@ -1003,7 +1116,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15
+        "rank": 17
       }
     },
     {
@@ -1050,7 +1163,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16
+        "rank": 18
       }
     },
     {
@@ -1097,7 +1210,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17
+        "rank": 19
       }
     },
     {
@@ -1129,7 +1242,8 @@
           }
         ],
         "source": "combined",
-        "rank": 44
+        "rank": 44,
+        "originalTitle": "FOR OVERSEAS"
       },
       "ranking": {
         "title": "FOR OVERSEAS",
@@ -1144,7 +1258,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18
+        "rank": 20
       }
     },
     {
@@ -1191,7 +1305,7 @@
           }
         ],
         "source": "combined",
-        "rank": 19
+        "rank": 21
       }
     },
     {
@@ -1213,7 +1327,8 @@
       "matchMeta": {
         "title": "週刊プレイボーイ (37号)",
         "author": "",
-        "score": 46,
+        "isbn": "",
+        "score": 164,
         "sources": [
           {
             "source": "amazon",
@@ -1222,8 +1337,7 @@
           }
         ],
         "source": "combined",
-        "rank": 50,
-        "originalTitle": ""
+        "rank": 50
       },
       "ranking": {
         "title": "週刊プレイボーイ (37号)",
@@ -1238,7 +1352,54 @@
           }
         ],
         "source": "combined",
-        "rank": 20
+        "rank": 22
+      }
+    },
+    {
+      "id": "6681316499690",
+      "title": "Casa BRUTUS (カーサ・ブルータス) 2026年 10月号 [ソウル・ライフスタイル・ガイド]",
+      "author": "カーサブルータス編集部",
+      "publisher": "マガジンハウス",
+      "price": 1300,
+      "url": "https://books.rakuten.co.jp/rk/3ee4873cdbeb347aac48688eeb597c03/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9858/2000021699858.jpg?_ex=600x600",
+      "caption": "※電子版では、紙の雑誌と内容が一部異なる場合や、掲載されないページや特別付録が含まれない場合がございます。\n※本雑誌はカラーページを含みます。お使いの端末によっては、一部読みづらい場合がございます。\nSeoul Lifestyle Guide\nソウル・ライフスタイル・ガイド\nソウルの今を感じるインテリアと、 あの人が案内するシティガイド！\nKコンテンツ＝韓国のエンターテインメントが世界を席巻して久しいですが、近年は建築、デザイン、ファッション、アートなどの分野でも影響力を増しています。\n欧米のとあるファッションデザイナーは最もインスピレーションを受ける街として、何度も訪れたソウルを自身のコレクションのローンチ場所として選びました。\nソウルは今やライフスタイルの面でも最も注目すべき都市となっているのです。\nそこで 『Casa BRUTUS』本誌としては初めてソウル特集をします。\nインテリアデザインから、建築、デザイン、フード、カルチャー、ナイトライフまで、ソウルのクリエイティブな人々のライフスタイルとあの人が案内するシティガイドです！\nMin Hee Jin\nミン・ヒジンのライフスタイル。\nInterior 1\n多種多様な家具と植物に彩られた、ソウルで暮らすインテリア。\nInterior 2\n人生で初めて手にした、自分らしい暮らしで彩った家。\nooak records\nミン・ヒジンの新たなレーベル、オフィスとコンセプトを初公開！\nFavorite Place\nミン・ヒジンのソウル案内！\nArchitecture\nソウル現代建築リスト。\nJo Sampo\n長坂常のソウルじょう散歩。\nLee Kwangho\n世界が注目する異才、イ・カンホを知っていますか。\nWorks\nソウルのヒップな空間を作る2組。\nSeoul Food\n平野紗季子のソウル・フード、パーマネント・コレクション。\nCraft\n中原慎一郎のクラフト探訪。\nMan in Seoul\n岡本仁のぼくのソウル地図。\nNightlife\nソウルのディープな夜へ、中村圭佑が訪ねた５つのバー。\nSeoul Interiors\nソウルの今を感じる、クリエイターたちの住まい。\n",
+      "salesDate": "2026年09月09日",
+      "series": "Casa BRUTUS",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101950090",
+      "isbn": "6681316499690",
+      "salesType": 1,
+      "matchMeta": {
+        "title": "Casa BRUTUS(カーサ ブルータス) 2026年 10月号[ソウル・ライフスタイル・ガイド]",
+        "author": "CasaBRUTUS編集部",
+        "score": 42,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 17
+          }
+        ],
+        "source": "combined",
+        "rank": 52,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "Casa BRUTUS(カーサ ブルータス) 2026年 10月号[ソウル・ライフスタイル・ガイド]",
+        "author": "CasaBRUTUS編集部",
+        "isbn": "",
+        "score": 163,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 17
+          }
+        ],
+        "source": "combined",
+        "rank": 23
       }
     },
     {
@@ -1285,7 +1446,7 @@
           }
         ],
         "source": "combined",
-        "rank": 21
+        "rank": 24
       }
     },
     {
@@ -1332,7 +1493,7 @@
           }
         ],
         "source": "combined",
-        "rank": 22
+        "rank": 25
       }
     },
     {
@@ -1379,7 +1540,7 @@
           }
         ],
         "source": "combined",
-        "rank": 23
+        "rank": 26
       }
     },
     {
@@ -1426,7 +1587,7 @@
           }
         ],
         "source": "combined",
-        "rank": 24
+        "rank": 27
       }
     },
     {
@@ -1473,7 +1634,7 @@
           }
         ],
         "source": "combined",
-        "rank": 25
+        "rank": 28
       }
     },
     {
@@ -1520,7 +1681,7 @@
           }
         ],
         "source": "combined",
-        "rank": 26
+        "rank": 29
       }
     },
     {
@@ -1567,7 +1728,7 @@
           }
         ],
         "source": "combined",
-        "rank": 27
+        "rank": 30
       }
     },
     {
@@ -1614,7 +1775,7 @@
           }
         ],
         "source": "combined",
-        "rank": 28
+        "rank": 31
       }
     },
     {
@@ -1636,7 +1797,8 @@
       "matchMeta": {
         "title": "トスカーナのワイナリーに嫁いで学んだ マンマのイタリア料理レシピ",
         "author": "池田 華依",
-        "score": 6,
+        "isbn": "",
+        "score": 154,
         "sources": [
           {
             "source": "amazon",
@@ -1645,8 +1807,7 @@
           }
         ],
         "source": "combined",
-        "rank": 68,
-        "originalTitle": ""
+        "rank": 68
       },
       "ranking": {
         "title": "トスカーナのワイナリーに嫁いで学んだ マンマのイタリア料理レシピ",
@@ -1661,7 +1822,54 @@
           }
         ],
         "source": "combined",
-        "rank": 29
+        "rank": 32
+      }
+    },
+    {
+      "id": "4320000865495",
+      "title": "ファイア・ドーム 上",
+      "author": "辻村深月",
+      "publisher": "小学館",
+      "price": 1881,
+      "url": "https://books.rakuten.co.jp/rk/22c26517c9353107819b56539afa6896/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1853/2000020771853.jpg?_ex=600x600",
+      "caption": "人はなぜ大きな事件に魅了されてしまうのか。\n噂は、軽薄な娯楽だ。\n25年前、平穏だったはずの地方都市は、百貨店受付嬢誘拐殺人事件の発生、その報道により揺り動かされ、「噂」という大量の炎が、加害者のみならず被害者にも降り注ぎ、燃えさかった。ようやく静けさを取り戻したかに見える町に燻り続ける因縁が、いま新たな事件を呼び起こすーー。\n「もう言われてるよ！　どうせ、親が殺したんだろうって！」ーー本文より\n",
+      "salesDate": "2026年06月05日",
+      "series": "ファイア・ドーム",
+      "reviewAverage": 4.56,
+      "reviewCount": 369,
+      "genreId": "101901/101902",
+      "isbn": "4320000865495",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ファイア・ドーム 〈上〉",
+        "author": "",
+        "score": 5,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 27
+          }
+        ],
+        "source": "combined",
+        "rank": 69,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "ファイア・ドーム 〈上〉",
+        "author": "",
+        "isbn": "",
+        "score": 153,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 27
+          }
+        ],
+        "source": "combined",
+        "rank": 33
       }
     },
     {
@@ -1708,54 +1916,7 @@
           }
         ],
         "source": "combined",
-        "rank": 30
-      }
-    },
-    {
-      "id": "4320000865495",
-      "title": "ファイア・ドーム 上",
-      "author": "辻村深月",
-      "publisher": "小学館",
-      "price": 1881,
-      "url": "https://books.rakuten.co.jp/rk/22c26517c9353107819b56539afa6896/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1853/2000020771853.jpg?_ex=600x600",
-      "caption": "人はなぜ大きな事件に魅了されてしまうのか。\n噂は、軽薄な娯楽だ。\n25年前、平穏だったはずの地方都市は、百貨店受付嬢誘拐殺人事件の発生、その報道により揺り動かされ、「噂」という大量の炎が、加害者のみならず被害者にも降り注ぎ、燃えさかった。ようやく静けさを取り戻したかに見える町に燻り続ける因縁が、いま新たな事件を呼び起こすーー。\n「もう言われてるよ！　どうせ、親が殺したんだろうって！」ーー本文より\n",
-      "salesDate": "2026年06月05日",
-      "series": "ファイア・ドーム",
-      "reviewAverage": 4.56,
-      "reviewCount": 369,
-      "genreId": "101901/101902",
-      "isbn": "4320000865495",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ファイア・ドーム 〈上〉",
-        "author": "",
-        "isbn": "",
-        "score": 153,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 27
-          }
-        ],
-        "source": "combined",
-        "rank": 70
-      },
-      "ranking": {
-        "title": "ファイア・ドーム 〈上〉",
-        "author": "",
-        "isbn": "",
-        "score": 153,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 27
-          }
-        ],
-        "source": "combined",
-        "rank": 31
+        "rank": 34
       }
     },
     {
@@ -1802,7 +1963,7 @@
           }
         ],
         "source": "combined",
-        "rank": 32
+        "rank": 35
       }
     },
     {
@@ -1849,7 +2010,7 @@
           }
         ],
         "source": "combined",
-        "rank": 33
+        "rank": 36
       }
     },
     {
@@ -1896,7 +2057,7 @@
           }
         ],
         "source": "combined",
-        "rank": 34
+        "rank": 37
       }
     },
     {
@@ -1943,7 +2104,7 @@
           }
         ],
         "source": "combined",
-        "rank": 35
+        "rank": 38
       }
     },
     {
@@ -1989,54 +2150,7 @@
           }
         ],
         "source": "combined",
-        "rank": 36,
-        "originalTitle": ""
-      }
-    },
-    {
-      "id": "4310000890409",
-      "title": "楽園",
-      "author": "夕木春央",
-      "publisher": "講談社",
-      "price": 1980,
-      "url": "https://books.rakuten.co.jp/rk/1a1c684dcee83b98b4d0187187c813d0/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1651/2000021221651.jpg?_ex=600x600",
-      "caption": "殺人犯にならなければ脱出できない。\n『方舟』『十戒』の著者が仕掛ける“禁忌の驚き”\n亡き両親から不動産を譲り受けた康之は、失踪した賃借人・海原の遺留品整理の際に、群馬の山奥の謎の物件の存在を知る。そこは、切り立った岩壁に囲まれた、「楽園」と呼ばれる奇妙な場所だった。恋人の沙織と一緒にそこを訪ね、探索をはじめた康之たちは、すぐに六人の“住人”に拿捕された。脱出のための条件はーー\n「誰か一人を殺さなければならない」\n『方舟』\n第19回オリコン上半期”本”ランキング　文庫ランキングTOP10 第1位\n週刊文春ミステリーベスト10　第1位　（「週刊文春」2022年12月8日号）国内部門\nMRC大賞2022　第1位\n『方舟』＋『十戒』の累計発行部数が100万部突破。\nーー夕木春央が描く、極限のクローズド・サークル。\n",
-      "salesDate": "2026年07月22日",
-      "series": "楽園",
-      "reviewAverage": 4.24,
-      "reviewCount": 319,
-      "genreId": "101902",
-      "isbn": "4310000890409",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "楽園",
-        "author": "夕木春央",
-        "score": 94,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
-          }
-        ],
-        "source": "combined",
-        "rank": 13,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "楽園",
-        "author": "夕木春央",
-        "score": 94,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
-          }
-        ],
-        "source": "combined",
-        "rank": 37,
+        "rank": 39,
         "originalTitle": ""
       }
     },
@@ -2083,7 +2197,7 @@
           }
         ],
         "source": "combined",
-        "rank": 38,
+        "rank": 40,
         "originalTitle": ""
       }
     }
@@ -2091,6 +2205,7 @@
   "byGenre": {
     "fiction": [
       "4340008067051",
+      "4340008067611",
       "4820000903843",
       "4910000909001",
       "4390000005636",
@@ -2107,8 +2222,7 @@
       "4620000615075",
       "4620000615076",
       "4340008067431",
-      "4320000865495",
-      "4310000890409"
+      "4320000865495"
     ],
     "sf": [],
     "business": [
@@ -2154,6 +2268,7 @@
       "4334772100320"
     ],
     "comic": [
+      "4972000161524",
       "4972000164838",
       "4681308443742",
       "4972000161446",
@@ -2164,11 +2279,11 @@
   },
   "genreStatus": {
     "fiction": {
-      "matched": 10,
+      "matched": 11,
       "complete": true
     },
     "mystery": {
-      "matched": 7,
+      "matched": 6,
       "complete": true
     },
     "sf": {
@@ -2224,7 +2339,7 @@
       "complete": true
     },
     "comic": {
-      "matched": 6,
+      "matched": 7,
       "complete": true
     }
   }

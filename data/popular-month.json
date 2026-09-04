@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-09-04T05:19:55.002Z",
+  "updatedAt": "2026-09-04T12:17:02.215Z",
   "candidateCount": 41,
-  "baseMatched": 14,
-  "matched": 17,
-  "addedMatches": 3,
+  "baseMatched": 12,
+  "matched": 18,
+  "addedMatches": 6,
   "unavailable": [],
   "snapshots": {
     "kinokuniya": {
@@ -49,6 +49,12 @@
           "author": "",
           "isbn": "",
           "rank": 16
+        },
+        {
+          "title": "楽園",
+          "author": "",
+          "isbn": "",
+          "rank": 17
         },
         {
           "title": "ファイア・ドーム 〈上〉",
@@ -120,6 +126,12 @@
           "author": "",
           "isbn": "",
           "rank": 9
+        },
+        {
+          "title": "FOR OVERSEAS",
+          "author": "",
+          "isbn": "",
+          "rank": 12
         }
       ]
     }
@@ -253,8 +265,7 @@
           }
         ],
         "source": "combined",
-        "rank": 11,
-        "originalTitle": "口に関するアンケート"
+        "rank": 11
       },
       "ranking": {
         "title": "口に関するアンケート",
@@ -395,8 +406,7 @@
           }
         ],
         "source": "combined",
-        "rank": 19,
-        "originalTitle": "ONE PIECE novel ZORO"
+        "rank": 19
       },
       "ranking": {
         "title": "ONE PIECE novel ZORO",
@@ -462,6 +472,53 @@
       }
     },
     {
+      "id": "9781505942323",
+      "title": "How to Start a Crown Agents for Overseas Governments and Administrations Business (Beginners Guide)",
+      "author": "Leclair Jaquelyn",
+      "publisher": "SamEnrico",
+      "price": 2515,
+      "url": "https://books.rakuten.co.jp/rk/da3f192a66453cb193c43421103700ab/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5952/2000020915952.jpg?_ex=600x600",
+      "caption": "This publication, published by SamEnrico, covers How to Start a Crown Agents for Overseas Governments and Administrations Business (Beginners Guide)\n",
+      "salesDate": "2015年12月20日",
+      "series": "",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101970003007",
+      "isbn": "9781505942323",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "FOR OVERSEAS",
+        "author": "",
+        "isbn": "",
+        "score": 168,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 12
+          }
+        ],
+        "source": "combined",
+        "rank": 23
+      },
+      "ranking": {
+        "title": "FOR OVERSEAS",
+        "author": "",
+        "isbn": "",
+        "score": 168,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 12
+          }
+        ],
+        "source": "combined",
+        "rank": 8
+      }
+    },
+    {
       "id": "4660629612104",
       "title": "イン・ザ・メガチャーチ",
       "author": "朝井リョウ",
@@ -510,7 +567,55 @@
           }
         ],
         "source": "combined",
-        "rank": 8
+        "rank": 9
+      }
+    },
+    {
+      "id": "4310000890409",
+      "title": "楽園",
+      "author": "夕木春央",
+      "publisher": "講談社",
+      "price": 1980,
+      "url": "https://books.rakuten.co.jp/rk/1a1c684dcee83b98b4d0187187c813d0/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1651/2000021221651.jpg?_ex=600x600",
+      "caption": "殺人犯にならなければ脱出できない。\n『方舟』『十戒』の著者が仕掛ける“禁忌の驚き”\n亡き両親から不動産を譲り受けた康之は、失踪した賃借人・海原の遺留品整理の際に、群馬の山奥の謎の物件の存在を知る。そこは、切り立った岩壁に囲まれた、「楽園」と呼ばれる奇妙な場所だった。恋人の沙織と一緒にそこを訪ね、探索をはじめた康之たちは、すぐに六人の“住人”に拿捕された。脱出のための条件はーー\n「誰か一人を殺さなければならない」\n『方舟』\n第19回オリコン上半期”本”ランキング　文庫ランキングTOP10 第1位\n週刊文春ミステリーベスト10　第1位　（「週刊文春」2022年12月8日号）国内部門\nMRC大賞2022　第1位\n『方舟』＋『十戒』の累計発行部数が100万部突破。\nーー夕木春央が描く、極限のクローズド・サークル。\n",
+      "salesDate": "2026年07月22日",
+      "series": "楽園",
+      "reviewAverage": 4.24,
+      "reviewCount": 319,
+      "genreId": "101902",
+      "isbn": "4310000890409",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "楽園",
+        "author": "",
+        "isbn": "",
+        "score": 163,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 17
+          }
+        ],
+        "source": "combined",
+        "rank": 28,
+        "originalTitle": "楽園"
+      },
+      "ranking": {
+        "title": "楽園",
+        "author": "",
+        "isbn": "",
+        "score": 163,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 17
+          }
+        ],
+        "source": "combined",
+        "rank": 10
       }
     },
     {
@@ -562,7 +667,7 @@
           }
         ],
         "source": "combined",
-        "rank": 9
+        "rank": 11
       }
     },
     {
@@ -609,7 +714,7 @@
           }
         ],
         "source": "combined",
-        "rank": 10
+        "rank": 12
       }
     },
     {
@@ -661,7 +766,7 @@
           }
         ],
         "source": "combined",
-        "rank": 11
+        "rank": 13
       }
     },
     {
@@ -708,7 +813,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12
+        "rank": 14
       }
     },
     {
@@ -729,23 +834,18 @@
       "salesType": 0,
       "matchMeta": {
         "title": "多類婚姻譚",
-        "author": "凪良ゆう",
-        "score": 100,
+        "author": "",
+        "isbn": "",
+        "score": 154,
         "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 5
-          },
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 25
+            "rank": 26
           }
         ],
         "source": "combined",
-        "rank": 5,
-        "originalTitle": ""
+        "rank": 37
       },
       "ranking": {
         "title": "多類婚姻譚",
@@ -760,7 +860,7 @@
           }
         ],
         "source": "combined",
-        "rank": 13
+        "rank": 15
       }
     },
     {
@@ -807,7 +907,7 @@
           }
         ],
         "source": "combined",
-        "rank": 14
+        "rank": 16
       }
     },
     {
@@ -853,101 +953,54 @@
           }
         ],
         "source": "combined",
+        "rank": 17,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "4390000015358",
+      "title": "青天",
+      "author": "若林正恭",
+      "publisher": "文藝春秋",
+      "price": 1900,
+      "url": "https://books.rakuten.co.jp/rk/a6fc1b8794af3eafb7f064fac9c68dfa/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0144/2000019330144.jpg?_ex=600x600",
+      "caption": "オードリー・若林正恭、初小説！\n人にぶつかっていないと、自分が生きているかどうかよくわからなくなるーー\n総大三高の「アリ」こと中村昴が所属するアメフト部は、万年２回戦どまり。相手校の練習を隠し撮りして迎えた高３の引退大会では、強豪・遼西学園に打ち破れた。引退後、みなが受験に向かうなか、勉強にも気持ちが入らず、不良になる覚悟もないまま宙ぶらりんの日々を過ごす。自分自身の不甲斐なさにもがき続けるなかで、アリは再びアメフトと向き合う決意を固める。\n青春の苦みと悦びに満ちた、著者渾身の初小説。\n",
+      "salesDate": "2026年02月20日",
+      "series": "",
+      "reviewAverage": 4.04,
+      "reviewCount": 547,
+      "genreId": "101901",
+      "isbn": "4390000015358",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "青天",
+        "author": "若林正恭",
+        "score": 78,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
         "rank": 15,
         "originalTitle": ""
-      }
-    },
-    {
-      "id": "7225000866451",
-      "title": "悩みの本──あなたが本気で生きている証",
-      "author": "高橋佳子",
-      "publisher": "三宝出版",
-      "price": 1601,
-      "url": "https://books.rakuten.co.jp/rk/e51209b1a73e3e77aedbb241d2881782/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5897/2000020795897.jpg?_ex=600x600",
-      "caption": "人は皆、大なり小なり「悩み」をもっています。\n仕事、人間関係、家庭、健康、将来……。\nあなたは今、何に悩んでいるでしょうか？　その悩みが「早くなくなればいい」「早く解決してスッキリしたい」と思っているかもしれません。\nしかし、実は、「悩み」は、「あなたが本気で生きている証」です。\n本気で生きているからこそ、大切にしたい人やものがあるからこそ、悩む。\n本書は、そうした悩みを単に解決するのではなく、悩みの奥にある意味を見つめ直す本です。\n具体的には、以下の具体的な悩みをテーマに、10の章で構成されています。\n１．就職・転職の壁\n２．仕事での失敗\n３．職場の人間関係\n４．職場での評価\n５．夫婦関係の危機\n６．事業承継の問題\n７．後悔の連鎖\n８．運命への絶望\n９．病の不安\n10．死の恐怖\nこれらは多くの人が人生で直面する悩みです。本書はこれらを通して、なぜ悩みが生まれるのか、その奥にどんな意味があるのか、そこからどう新たな人生を始めることができるのかを見つめてゆきます。\nまた、実際に様々な悩みを経験した人が、どのようにその悩みに向き合い、どのように人生を変えていったのかという具体例も紹介されています。\n本書は、ただ悩みを解決するためのハウツー本ではありません。また、抽象的な人生論でもありません。悩みを通して人生そのものを読み直す本、想像もしなかった新たな人生の扉を開くための本です。\n本を読み終えたとき、きっと、「この悩みには意味があるのかもしれない」「そうか！この考え方いいな、好きだな」と感じていただけると思います。そこからあなたの新しい人生の旅路が始まります。\n",
-      "salesDate": "2026年06月06日",
-      "series": "悩みの本──あなたが本気で生きている証",
-      "reviewAverage": 3,
-      "reviewCount": 1,
-      "genreId": "101907004090/101907002002/101905016001",
-      "isbn": "7225000866451",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "悩みの本──あなたが本気で生きている証",
-        "author": "高橋佳子",
-        "score": 74,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 17,
-        "originalTitle": ""
       },
       "ranking": {
-        "title": "悩みの本──あなたが本気で生きている証",
-        "author": "高橋佳子",
-        "score": 74,
+        "title": "青天",
+        "author": "若林正恭",
+        "score": 78,
         "sources": [
           {
             "source": "tohan",
             "label": "トーハン",
-            "rank": 9
+            "rank": 8
           }
         ],
         "source": "combined",
-        "rank": 16,
-        "originalTitle": ""
-      }
-    },
-    {
-      "id": "4479234030000",
-      "title": "豊臣兄弟！　後編",
-      "author": "八津弘幸/ＮＨＫドラマ制作班",
-      "publisher": "NHK出版",
-      "price": 1540,
-      "url": "https://books.rakuten.co.jp/rk/03955594478a34569322faf481fd73c8/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0762/2000020710762.jpg?_ex=600x600",
-      "caption": "兄弟の絆で天下を狙え！　2026年大河ドラマ「豊臣兄弟！」完全ガイド第2弾！\n仲野太賀主演・2026年大河ドラマ「豊臣兄弟！」。\nドラマをもっと楽しむためのガイドブック「後編」が登場！\n時は戦国乱世。時の戦国大名・織田信長に仕官して大出世を目指す兄の誘いに巻き込まれた小一郎は、知恵と勇気、そして持ち前の「調整力」を生かしながら、目の前に立ちはだかるハードミッションを兄との絶妙なコンビネーションで次々とクリアしていく。やがて小一郎は兄とともに、万民が笑って暮らせる太平の世を作るという夢を抱き始めーー。\n弟・秀長の視点で戦国時代をダイナミックに描く、夢と希望の下克上サクセスストーリー！\n＊電子書籍版ではプレゼントページほか、一部収録していないコンテンツがございます。あらかじめご了承ください。\n全3冊でお届けするドラマ・ガイドの第２弾「後編」では、主演・仲野太賀×吉岡里帆の撮り下ろし対談をはじめ、豪華出演者インタビューや物語中盤までのあらすじを掲載。さらに、タイトルバック徹底分析やマンガで読む秀長の生涯、豊臣しつもん箱、作家・今村翔吾さんに聞く戦国の兄弟たち特集、「本能寺の変」のヒミツに迫る歴史解説企画など充実の内容。美麗グラビア満載でお届けする、家族みんなで読めるフルカラー・ドラマガイド！　\n",
-      "salesDate": "2026年05月29日",
-      "series": "ＮＨＫ大河ドラマ・ガイド",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101913002",
-      "isbn": "4479234030000",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "NHK大河ドラマ・ガイド 豊臣兄弟! 後編",
-        "author": "",
-        "score": 70,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 19,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "NHK大河ドラマ・ガイド 豊臣兄弟! 後編",
-        "author": "",
-        "score": 70,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 17,
+        "rank": 18,
         "originalTitle": ""
       }
     }
@@ -961,23 +1014,23 @@
       "4704763142740",
       "4320000865494",
       "4310000858457",
-      "4320000867368"
+      "4320000867368",
+      "4390000015358"
     ],
     "mystery": [
       "4820000903843",
+      "4310000890409",
       "4320000865495",
       "4320000865494",
       "4310000894648"
     ],
     "sf": [],
     "business": [
-      "4524815633410",
-      "7225000866451"
+      "4524815633410"
     ],
     "humanities": [
       "4380000407898",
-      "4320000867368",
-      "7225000866451"
+      "4320000867368"
     ],
     "nonfiction": [],
     "science": [
@@ -1005,11 +1058,11 @@
   },
   "genreStatus": {
     "fiction": {
-      "matched": 8,
+      "matched": 9,
       "complete": true
     },
     "mystery": {
-      "matched": 4,
+      "matched": 5,
       "complete": true
     },
     "sf": {
@@ -1017,11 +1070,11 @@
       "complete": true
     },
     "business": {
-      "matched": 2,
+      "matched": 1,
       "complete": true
     },
     "humanities": {
-      "matched": 3,
+      "matched": 2,
       "complete": true
     },
     "nonfiction": {

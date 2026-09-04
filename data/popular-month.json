@@ -4,10 +4,10 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-09-04T01:17:41.999Z",
+  "updatedAt": "2026-09-04T05:19:55.002Z",
   "candidateCount": 41,
-  "baseMatched": 15,
-  "matched": 18,
+  "baseMatched": 14,
+  "matched": 17,
   "addedMatches": 3,
   "unavailable": [],
   "snapshots": {
@@ -49,12 +49,6 @@
           "author": "",
           "isbn": "",
           "rank": 16
-        },
-        {
-          "title": "楽園",
-          "author": "",
-          "isbn": "",
-          "rank": 17
         },
         {
           "title": "ファイア・ドーム 〈上〉",
@@ -114,6 +108,12 @@
           "author": "",
           "isbn": "",
           "rank": 5
+        },
+        {
+          "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
+          "author": "",
+          "isbn": "",
+          "rank": 8
         },
         {
           "title": "ONE PIECE novel ZORO",
@@ -253,7 +253,8 @@
           }
         ],
         "source": "combined",
-        "rank": 11
+        "rank": 11,
+        "originalTitle": "口に関するアンケート"
       },
       "ranking": {
         "title": "口に関するアンケート",
@@ -319,6 +320,53 @@
       }
     },
     {
+      "id": "4524815633410",
+      "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
+      "author": "堀田 秀吾",
+      "publisher": "SBクリエイティブ",
+      "price": 1760,
+      "url": "https://books.rakuten.co.jp/rk/79a1d43cefcb3337b3e2363c5f00a07e/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1658/2000018091658.jpg?_ex=600x600",
+      "caption": "勉強・ダイエット・貯金・目標達成…は習慣化が10割\n仕事、ダイエット、健康管理、勉強、目標達成…すべて成功のカギは「習慣化」にあります。\nしかし間違った習慣を身につけてしまったらその代償は大きくなってしまいます。\n何をどう習慣化すればいいか、そのために重要になるのが「エビデンス」です。\n・もし「A」をしたら「B」をすると、あらかじめ決めておく\n・選択肢は必ず「3つ」用意しておく\n・常にポジティブな言葉を使うーつらさに対する耐性が高まる\n・52分間作業して、17分休憩するー生産性が高まるetc.\n本書は、ハーバード、スタンフォード、オックスフォード…などの研究機関において証明されたテクニックを112個紹介。\n見開き図解入りでわかりやすい。気になったテクニックからはじめられ、情報収集のためにも役立ち、また読みものとしても楽しめる一冊です。\n※カバー画像が異なる場合があります。\n",
+      "salesDate": "2025年07月02日",
+      "series": "",
+      "reviewAverage": 3.7,
+      "reviewCount": 366,
+      "genreId": "101905090",
+      "isbn": "4524815633410",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
+        "author": "",
+        "isbn": "",
+        "score": 172,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 17
+      },
+      "ranking": {
+        "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
+        "author": "",
+        "isbn": "",
+        "score": 172,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 5
+      }
+    },
+    {
       "id": "4970000700308",
       "title": "ONE PIECE novel ZORO",
       "author": "尾田栄一郎/江坂純/なかまる",
@@ -363,7 +411,7 @@
           }
         ],
         "source": "combined",
-        "rank": 5
+        "rank": 6
       }
     },
     {
@@ -410,7 +458,7 @@
           }
         ],
         "source": "combined",
-        "rank": 6
+        "rank": 7
       }
     },
     {
@@ -459,54 +507,6 @@
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
             "rank": 16
-          }
-        ],
-        "source": "combined",
-        "rank": 7
-      }
-    },
-    {
-      "id": "4310000890409",
-      "title": "楽園",
-      "author": "夕木春央",
-      "publisher": "講談社",
-      "price": 1980,
-      "url": "https://books.rakuten.co.jp/rk/1a1c684dcee83b98b4d0187187c813d0/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1651/2000021221651.jpg?_ex=600x600",
-      "caption": "殺人犯にならなければ脱出できない。\n『方舟』『十戒』の著者が仕掛ける“禁忌の驚き”\n亡き両親から不動産を譲り受けた康之は、失踪した賃借人・海原の遺留品整理の際に、群馬の山奥の謎の物件の存在を知る。そこは、切り立った岩壁に囲まれた、「楽園」と呼ばれる奇妙な場所だった。恋人の沙織と一緒にそこを訪ね、探索をはじめた康之たちは、すぐに六人の“住人”に拿捕された。脱出のための条件はーー\n「誰か一人を殺さなければならない」\n『方舟』\n第19回オリコン上半期”本”ランキング　文庫ランキングTOP10 第1位\n週刊文春ミステリーベスト10　第1位　（「週刊文春」2022年12月8日号）国内部門\nMRC大賞2022　第1位\n『方舟』＋『十戒』の累計発行部数が100万部突破。\nーー夕木春央が描く、極限のクローズド・サークル。\n",
-      "salesDate": "2026年07月22日",
-      "series": "楽園",
-      "reviewAverage": 4.24,
-      "reviewCount": 319,
-      "genreId": "101902",
-      "isbn": "4310000890409",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "楽園",
-        "author": "",
-        "isbn": "",
-        "score": 163,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 17
-          }
-        ],
-        "source": "combined",
-        "rank": 28,
-        "originalTitle": "楽園"
-      },
-      "ranking": {
-        "title": "楽園",
-        "author": "",
-        "isbn": "",
-        "score": 163,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 17
           }
         ],
         "source": "combined",
@@ -858,53 +858,6 @@
       }
     },
     {
-      "id": "4390000015358",
-      "title": "青天",
-      "author": "若林正恭",
-      "publisher": "文藝春秋",
-      "price": 1900,
-      "url": "https://books.rakuten.co.jp/rk/a6fc1b8794af3eafb7f064fac9c68dfa/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0144/2000019330144.jpg?_ex=600x600",
-      "caption": "オードリー・若林正恭、初小説！\n人にぶつかっていないと、自分が生きているかどうかよくわからなくなるーー\n総大三高の「アリ」こと中村昴が所属するアメフト部は、万年２回戦どまり。相手校の練習を隠し撮りして迎えた高３の引退大会では、強豪・遼西学園に打ち破れた。引退後、みなが受験に向かうなか、勉強にも気持ちが入らず、不良になる覚悟もないまま宙ぶらりんの日々を過ごす。自分自身の不甲斐なさにもがき続けるなかで、アリは再びアメフトと向き合う決意を固める。\n青春の苦みと悦びに満ちた、著者渾身の初小説。\n",
-      "salesDate": "2026年02月20日",
-      "series": "",
-      "reviewAverage": 4.04,
-      "reviewCount": 547,
-      "genreId": "101901",
-      "isbn": "4390000015358",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "青天",
-        "author": "若林正恭",
-        "score": 78,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 15,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "青天",
-        "author": "若林正恭",
-        "score": 78,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 16,
-        "originalTitle": ""
-      }
-    },
-    {
       "id": "7225000866451",
       "title": "悩みの本──あなたが本気で生きている証",
       "author": "高橋佳子",
@@ -947,7 +900,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17,
+        "rank": 16,
         "originalTitle": ""
       }
     },
@@ -994,7 +947,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18,
+        "rank": 17,
         "originalTitle": ""
       }
     }
@@ -1008,18 +961,17 @@
       "4704763142740",
       "4320000865494",
       "4310000858457",
-      "4320000867368",
-      "4390000015358"
+      "4320000867368"
     ],
     "mystery": [
       "4820000903843",
-      "4310000890409",
       "4320000865495",
       "4320000865494",
       "4310000894648"
     ],
     "sf": [],
     "business": [
+      "4524815633410",
       "7225000866451"
     ],
     "humanities": [
@@ -1053,11 +1005,11 @@
   },
   "genreStatus": {
     "fiction": {
-      "matched": 9,
+      "matched": 8,
       "complete": true
     },
     "mystery": {
-      "matched": 5,
+      "matched": 4,
       "complete": true
     },
     "sf": {
@@ -1065,7 +1017,7 @@
       "complete": true
     },
     "business": {
-      "matched": 1,
+      "matched": 2,
       "complete": true
     },
     "humanities": {

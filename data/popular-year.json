@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "year",
-  "updatedAt": "2026-09-05T05:14:00.449Z",
+  "updatedAt": "2026-09-05T11:13:13.837Z",
   "candidateCount": 13,
-  "baseMatched": 7,
+  "baseMatched": 6,
   "matched": 9,
-  "addedMatches": 2,
+  "addedMatches": 3,
   "unavailable": [],
   "snapshots": {
     "tohan": {
@@ -95,10 +95,9 @@
       "isbn": "4524815633410",
       "salesType": 0,
       "matchMeta": {
-        "title": "ハーバード、スタンフォード、オックスフォード... 科学的に証明された すごい習慣大百科",
-        "author": "",
-        "isbn": "",
-        "score": 179,
+        "title": "科学的に証明された すごい習慣大百科",
+        "author": "堀田秀吾",
+        "score": 106,
         "sources": [
           {
             "source": "tohan",
@@ -108,7 +107,7 @@
         ],
         "source": "combined",
         "rank": 1,
-        "originalTitle": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科"
+        "originalTitle": ""
       },
       "ranking": {
         "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
@@ -238,8 +237,9 @@
       "salesType": 0,
       "matchMeta": {
         "title": "成瀬は都を駆け抜ける",
-        "author": "宮島未奈",
-        "score": 94,
+        "author": "",
+        "isbn": "",
+        "score": 176,
         "sources": [
           {
             "source": "tohan",
@@ -249,7 +249,7 @@
         ],
         "source": "combined",
         "rank": 4,
-        "originalTitle": ""
+        "originalTitle": "成瀬は都を駆け抜ける"
       },
       "ranking": {
         "title": "成瀬は都を駆け抜ける",
@@ -285,8 +285,9 @@
       "salesType": 0,
       "matchMeta": {
         "title": "暁星",
-        "author": "湊かなえ",
-        "score": 82,
+        "author": "",
+        "isbn": "",
+        "score": 173,
         "sources": [
           {
             "source": "tohan",
@@ -296,7 +297,7 @@
         ],
         "source": "combined",
         "rank": 7,
-        "originalTitle": ""
+        "originalTitle": "暁星"
       },
       "ranking": {
         "title": "暁星",
@@ -509,7 +510,10 @@
       "4660629612104",
       "4340008064751"
     ],
-    "mystery": [],
+    "mystery": [
+      "6681297998470",
+      "6681299179860"
+    ],
     "sf": [],
     "business": [
       "4524815633410"
@@ -539,7 +543,7 @@
       "complete": true
     },
     "mystery": {
-      "matched": 0,
+      "matched": 2,
       "complete": true
     },
     "sf": {

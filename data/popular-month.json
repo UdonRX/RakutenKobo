@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-09-05T05:13:56.426Z",
+  "updatedAt": "2026-09-05T11:13:09.897Z",
   "candidateCount": 41,
-  "baseMatched": 11,
-  "matched": 19,
-  "addedMatches": 8,
+  "baseMatched": 12,
+  "matched": 18,
+  "addedMatches": 6,
   "unavailable": [],
   "snapshots": {
     "kinokuniya": {
@@ -108,12 +108,6 @@
           "author": "",
           "isbn": "",
           "rank": 5
-        },
-        {
-          "title": "目が",
-          "author": "",
-          "isbn": "",
-          "rank": 6
         },
         {
           "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
@@ -265,7 +259,8 @@
           }
         ],
         "source": "combined",
-        "rank": 11
+        "rank": 11,
+        "originalTitle": "口に関するアンケート"
       },
       "ranking": {
         "title": "口に関するアンケート",
@@ -281,54 +276,6 @@
         ],
         "source": "combined",
         "rank": 3
-      }
-    },
-    {
-      "id": "4910000861567",
-      "title": "目が",
-      "author": "背筋",
-      "publisher": "ポプラ社",
-      "price": 715,
-      "url": "https://books.rakuten.co.jp/rk/94feea184ab338d395357932e93982f7/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9535/2000020689535.jpg?_ex=600x600",
-      "caption": "目が\n背筋（せすじ）\n『近畿地方のある場所について』(KADOKAWA)で2023年にデビュー。同作が『このホラーがすごい！ 2024年版』（宝島社）国内編第1位を獲得。近著に『穢れた聖地巡礼について』 (KADOKAWA)、『口に関するアンケート』（ポプラ社）など。\n",
-      "salesDate": "2026年06月25日",
-      "series": "目が",
-      "reviewAverage": 3.16,
-      "reviewCount": 114,
-      "genreId": "101901/101902",
-      "isbn": "4910000861567",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "目が",
-        "author": "",
-        "isbn": "",
-        "score": 174,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 6
-          }
-        ],
-        "source": "combined",
-        "rank": 13,
-        "originalTitle": "目が"
-      },
-      "ranking": {
-        "title": "目が",
-        "author": "",
-        "isbn": "",
-        "score": 174,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 6
-          }
-        ],
-        "source": "combined",
-        "rank": 4
       }
     },
     {
@@ -375,7 +322,7 @@
           }
         ],
         "source": "combined",
-        "rank": 5
+        "rank": 4
       }
     },
     {
@@ -395,7 +342,7 @@
       "isbn": "4524815633410",
       "salesType": 0,
       "matchMeta": {
-        "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
+        "title": "ハーバード、スタンフォード、オックスフォード... 科学的に証明された すごい習慣大百科",
         "author": "",
         "isbn": "",
         "score": 172,
@@ -407,7 +354,8 @@
           }
         ],
         "source": "combined",
-        "rank": 17
+        "rank": 17,
+        "originalTitle": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科"
       },
       "ranking": {
         "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
@@ -422,7 +370,7 @@
           }
         ],
         "source": "combined",
-        "rank": 6
+        "rank": 5
       }
     },
     {
@@ -470,7 +418,7 @@
           }
         ],
         "source": "combined",
-        "rank": 7
+        "rank": 6
       }
     },
     {
@@ -490,9 +438,10 @@
       "isbn": "4340008066911",
       "salesType": 0,
       "matchMeta": {
-        "title": "夏帆 - The Tale of KAHO",
+        "title": "夏帆 - Ｔｈｅ Ｔａｌｅ ｏｆ ＫＡＨＯ",
         "author": "",
-        "score": 70,
+        "isbn": "",
+        "score": 170,
         "sources": [
           {
             "source": "kinokuniya",
@@ -501,8 +450,7 @@
           }
         ],
         "source": "combined",
-        "rank": 19,
-        "originalTitle": "夏帆 - Ｔｈｅ　Ｔａｌｅ　ｏｆ　ＫＡＨＯ"
+        "rank": 19
       },
       "ranking": {
         "title": "夏帆 - Ｔｈｅ Ｔａｌｅ ｏｆ ＫＡＨＯ",
@@ -517,7 +465,7 @@
           }
         ],
         "source": "combined",
-        "rank": 8
+        "rank": 7
       }
     },
     {
@@ -549,8 +497,7 @@
           }
         ],
         "source": "combined",
-        "rank": 23,
-        "originalTitle": "FOR OVERSEAS"
+        "rank": 23
       },
       "ranking": {
         "title": "FOR OVERSEAS",
@@ -565,7 +512,7 @@
           }
         ],
         "source": "combined",
-        "rank": 9
+        "rank": 8
       }
     },
     {
@@ -617,7 +564,7 @@
           }
         ],
         "source": "combined",
-        "rank": 10
+        "rank": 9
       }
     },
     {
@@ -637,19 +584,24 @@
       "isbn": "4320000865495",
       "salesType": 0,
       "matchMeta": {
-        "title": "ファイア・ドーム 〈上〉",
-        "author": "",
-        "isbn": "",
-        "score": 161,
+        "title": "ファイア・ドーム 上",
+        "author": "辻村深月",
+        "score": 140,
         "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 2
+          },
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 19
+            "rank": 18
           }
         ],
         "source": "combined",
-        "rank": 30
+        "rank": 2,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "ファイア・ドーム 〈上〉",
@@ -664,7 +616,7 @@
           }
         ],
         "source": "combined",
-        "rank": 11
+        "rank": 10
       }
     },
     {
@@ -686,17 +638,17 @@
       "matchMeta": {
         "title": "月がきれいな夜に、誰かに思い出してほしかった",
         "author": "",
-        "isbn": "",
-        "score": 160,
+        "score": 34,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 20
+            "rank": 19
           }
         ],
         "source": "combined",
-        "rank": 31
+        "rank": 26,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "月がきれいな夜に、誰かに思い出してほしかった",
@@ -711,7 +663,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12
+        "rank": 11
       }
     },
     {
@@ -763,7 +715,7 @@
           }
         ],
         "source": "combined",
-        "rank": 13
+        "rank": 12
       }
     },
     {
@@ -815,7 +767,7 @@
           }
         ],
         "source": "combined",
-        "rank": 14
+        "rank": 13
       }
     },
     {
@@ -862,7 +814,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15
+        "rank": 14
       }
     },
     {
@@ -909,7 +861,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16
+        "rank": 15
       }
     },
     {
@@ -955,7 +907,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17,
+        "rank": 16,
         "originalTitle": ""
       }
     },
@@ -1002,7 +954,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18,
+        "rank": 17,
         "originalTitle": ""
       }
     },
@@ -1049,14 +1001,13 @@
           }
         ],
         "source": "combined",
-        "rank": 19,
+        "rank": 18,
         "originalTitle": ""
       }
     }
   ],
   "byGenre": {
     "fiction": [
-      "4910000861567",
       "4820000903843",
       "4340008066911",
       "4660629612104",
@@ -1066,7 +1017,11 @@
       "4310000858457",
       "4320000867368"
     ],
-    "mystery": [],
+    "mystery": [
+      "4820000903843",
+      "4320000865495",
+      "4320000865494"
+    ],
     "sf": [],
     "business": [
       "4524815633410",
@@ -1106,11 +1061,11 @@
   },
   "genreStatus": {
     "fiction": {
-      "matched": 9,
+      "matched": 8,
       "complete": true
     },
     "mystery": {
-      "matched": 0,
+      "matched": 3,
       "complete": true
     },
     "sf": {

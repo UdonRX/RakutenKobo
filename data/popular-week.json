@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-09-04T21:20:08.588Z",
+  "updatedAt": "2026-09-05T05:13:41.195Z",
   "candidateCount": 76,
-  "baseMatched": 34,
+  "baseMatched": 30,
   "matched": 40,
-  "addedMatches": 6,
+  "addedMatches": 10,
   "unavailable": [
     "rakuten"
   ],
@@ -19,18 +19,24 @@
       "attribution": "Amazon.co.jp",
       "sourceUrl": "https://www.amazon.co.jp/gp/bestsellers/books",
       "periodLabel": "現在のベストセラー",
-      "updatedAt": "2026-09-03T23:21:59.052Z",
+      "updatedAt": "2026-09-04T23:03:10.037Z",
       "live": false,
       "items": [
         {
-          "title": "VOCE (2026年11月号)",
-          "author": "講談社",
+          "title": "最強ジャンプ (10月号)",
+          "author": "",
           "isbn": "",
-          "rank": 3
+          "rank": 1
         },
         {
           "title": "幽冥の岸 十二国記 (新潮文庫)",
           "author": "小野 不由美",
+          "isbn": "",
+          "rank": 3
+        },
+        {
+          "title": "日経エンタテインメント! 2026年 9 月号増刊【表紙：EBiDAN】",
+          "author": "日経エンタテインメント!",
           "isbn": "",
           "rank": 4
         },
@@ -38,77 +44,77 @@
           "title": "ダンダダン 25 (ジャンプコミックス)",
           "author": "龍 幸伸",
           "isbn": "",
-          "rank": 8
-        },
-        {
-          "title": "女の園の星 ５ (FCswing)",
-          "author": "和山やま",
-          "isbn": "",
-          "rank": 10
-        },
-        {
-          "title": "キングダム 80 (ヤングジャンプコミックス)",
-          "author": "原 泰久",
-          "isbn": "",
-          "rank": 12
-        },
-        {
-          "title": "週刊プレイボーイ (37号)",
-          "author": "",
-          "isbn": "",
-          "rank": 16
-        },
-        {
-          "title": "Casa BRUTUS(カーサ ブルータス) 2026年 10月号[ソウル・ライフスタイル・ガイド]",
-          "author": "CasaBRUTUS編集部",
-          "isbn": "",
-          "rank": 17
-        },
-        {
-          "title": "ブラック・ラグーン (14) (サンデーGXコミックス)",
-          "author": "広江 礼威",
-          "isbn": "",
-          "rank": 19
-        },
-        {
-          "title": "カグラバチ 12 (ジャンプコミックス)",
-          "author": "外薗 健",
-          "isbn": "",
-          "rank": 22
-        },
-        {
-          "title": "働きながら1億貯めるAI株式投資の全手順",
-          "author": "上岡正明",
-          "isbn": "",
-          "rank": 23
+          "rank": 5
         },
         {
           "title": "こちら葛飾区亀有公園前派出所 202 (ジャンプコミックス)",
           "author": "秋本 治",
           "isbn": "",
-          "rank": 25
+          "rank": 7
         },
         {
-          "title": "トスカーナのワイナリーに嫁いで学んだ マンマのイタリア料理レシピ",
-          "author": "池田 華依",
+          "title": "カグラバチ 12 (ジャンプコミックス)",
+          "author": "外薗 健",
           "isbn": "",
-          "rank": 26
+          "rank": 8
+        },
+        {
+          "title": "女の園の星 ５ (フィールコミックス)",
+          "author": "和山やま",
+          "isbn": "",
+          "rank": 10
+        },
+        {
+          "title": "VOCE (2026年11月号)",
+          "author": "講談社",
+          "isbn": "",
+          "rank": 13
+        },
+        {
+          "title": "キングダム 80 (ヤングジャンプコミックス)",
+          "author": "原 泰久",
+          "isbn": "",
+          "rank": 14
         },
         {
           "title": "これ、かなりマジです。時間・お金・心を整える365の言葉",
           "author": "いれぶん",
           "isbn": "",
+          "rank": 21
+        },
+        {
+          "title": "週刊プレイボーイ (37号)",
+          "author": "",
+          "isbn": "",
+          "rank": 23
+        },
+        {
+          "title": "ドラゴンクエスト ダイの大冒険 勇者アバンと獄炎の魔王 16 (ジャンプコミックス)",
+          "author": "芝田 優作",
+          "isbn": "",
+          "rank": 26
+        },
+        {
+          "title": "ブラック・ラグーン (14) (サンデーGXコミックス)",
+          "author": "広江 礼威",
+          "isbn": "",
           "rank": 27
         },
         {
-          "title": "日経エンタテインメント! 2026年 9 月号増刊【表紙：EBiDAN】",
-          "author": "日経エンタテインメント!",
+          "title": "働きながら1億貯めるAI株式投資の全手順",
+          "author": "上岡正明",
+          "isbn": "",
+          "rank": 28
+        },
+        {
+          "title": "トスカーナのワイナリーに嫁いで学んだ マンマのイタリア料理レシピ",
+          "author": "池田 華依",
           "isbn": "",
           "rank": 29
         },
         {
-          "title": "FINEBOYS+plus OYASUMI vol.2 [いい夢を、きみと、もっと。/吉田仁人] (HINODE MOOK 809)",
-          "author": "日之出出版",
+          "title": "ヒトナー 1 (ジャンプコミックス)",
+          "author": "屋宜 知宏",
           "isbn": "",
           "rank": 30
         }
@@ -167,86 +173,80 @@
       "attribution": "紀伊國屋書店調べ",
       "sourceUrl": "https://www.kinokuniya.co.jp/disp/CKnRankingPageCList.jsp?dispNo=107002001001&vTp=w",
       "periodLabel": "ウィークリー",
-      "updatedAt": "2026-09-04",
+      "updatedAt": "2026-09-05",
       "live": true,
       "items": [
         {
           "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
           "author": "",
           "isbn": "",
-          "rank": 4
+          "rank": 5
         },
         {
           "title": "要領のいい人が最初に考えること",
           "author": "",
           "isbn": "",
-          "rank": 7
+          "rank": 8
         },
         {
           "title": "ギャルにひかれて寺マルシェ",
           "author": "",
           "isbn": "",
-          "rank": 10
-        },
-        {
-          "title": "会社四季報業界地図 〈２０２７年版〉",
-          "author": "",
-          "isbn": "",
-          "rank": 11
+          "rank": 9
         },
         {
           "title": "ＡＩネイティブカンパニー - 「ＡＩを入れた、でも使われない」という常識を書き換",
           "author": "",
           "isbn": "",
-          "rank": 13
+          "rank": 12
+        },
+        {
+          "title": "会社四季報業界地図 〈２０２７年版〉",
+          "author": "",
+          "isbn": "",
+          "rank": 14
         },
         {
           "title": "働きながら１億貯めるＡＩ株式投資の全手順",
           "author": "",
           "isbn": "",
-          "rank": 15
-        },
-        {
-          "title": "地球の歩き方 スター・ウォーズ 〈１９７７～〉",
-          "author": "",
-          "isbn": "",
-          "rank": 18
+          "rank": 16
         },
         {
           "title": "るるぶ■■版 蓋ヶ瀬",
           "author": "",
           "isbn": "",
-          "rank": 22
+          "rank": 17
         },
         {
-          "title": "知性大全 ＡＩ時代に不可欠な力",
+          "title": "地球の歩き方 スター・ウォーズ 〈１９７７～〉",
           "author": "",
           "isbn": "",
-          "rank": 24
-        },
-        {
-          "title": "少年ＡＢＣの完璧な選択",
-          "author": "",
-          "isbn": "",
-          "rank": 25
+          "rank": 20
         },
         {
           "title": "永遠と１日 - 「たかじんさん」との出会い、別れ、そして今",
           "author": "",
           "isbn": "",
-          "rank": 25
+          "rank": 24
         },
         {
-          "title": "ファイア・ドーム 〈上〉",
+          "title": "知性大全 ＡＩ時代に不可欠な力",
           "author": "",
           "isbn": "",
           "rank": 27
         },
         {
-          "title": "イン・ザ・メガチャーチ",
+          "title": "ファイア・ドーム 〈上〉",
           "author": "",
           "isbn": "",
           "rank": 28
+        },
+        {
+          "title": "少年ＡＢＣの完璧な選択",
+          "author": "",
+          "isbn": "",
+          "rank": 29
         },
         {
           "title": "夏帆 - Ｔｈｅ Ｔａｌｅ ｏｆ ＫＡＨＯ",
@@ -262,7 +262,7 @@
       "attribution": "トーハン調べ",
       "sourceUrl": "https://www.tohan.jp/bestsellers/2026_0825_weekly/",
       "periodLabel": "週間",
-      "updatedAt": "2026-09-04",
+      "updatedAt": "2026-09-05",
       "live": true,
       "items": [
         {
@@ -375,17 +375,17 @@
       "matchMeta": {
         "title": "働きながら1億貯めるAI株式投資の全手順",
         "author": "上岡正明",
-        "score": 68,
+        "score": 51,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 15
+            "rank": 16
           },
           {
             "source": "amazon",
             "label": "Amazon",
-            "rank": 23
+            "rank": 28
           }
         ],
         "source": "combined",
@@ -396,21 +396,68 @@
         "title": "働きながら1億貯めるAI株式投資の全手順",
         "author": "上岡正明",
         "isbn": "",
-        "score": 322,
+        "score": 316,
         "sources": [
           {
             "source": "amazon",
             "label": "Amazon",
-            "rank": 23
+            "rank": 28
           },
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 15
+            "rank": 16
           }
         ],
         "source": "combined",
         "rank": 2
+      }
+    },
+    {
+      "id": "4972000166706",
+      "title": "最強ジャンプ 2026年11月号",
+      "author": "最強ジャンプ編集部",
+      "publisher": "集英社",
+      "price": 674,
+      "url": "https://books.rakuten.co.jp/rk/ef820639da8f35e3910435d41ed16d4b/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7465/2000021537465.jpg?_ex=600x600",
+      "caption": "「最強ジャンプ 2026年11月号」、10月2日配信スタート!!　※配信日は変更になることがあります。ご了承ください。\n",
+      "salesDate": "2026年10月02日",
+      "series": "最強ジャンプ",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904090",
+      "isbn": "4972000166706",
+      "salesType": 1,
+      "matchMeta": {
+        "title": "最強ジャンプ (10月号)",
+        "author": "",
+        "isbn": "",
+        "score": 179,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 1
+          }
+        ],
+        "source": "combined",
+        "rank": 6
+      },
+      "ranking": {
+        "title": "最強ジャンプ (10月号)",
+        "author": "",
+        "isbn": "",
+        "score": 179,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 1
+          }
+        ],
+        "source": "combined",
+        "rank": 3
       }
     },
     {
@@ -442,7 +489,8 @@
           }
         ],
         "source": "combined",
-        "rank": 10
+        "rank": 10,
+        "originalTitle": "キングダム magazine 2026"
       },
       "ranking": {
         "title": "キングダム magazine 2026",
@@ -457,24 +505,24 @@
           }
         ],
         "source": "combined",
-        "rank": 3
+        "rank": 4
       }
     },
     {
-      "id": "4340008067051",
-      "title": "プレゼント（新潮文庫）",
-      "author": "伊坂幸太郎/江國香織/恩田陸/梨木香歩/町田そのこ/宮部みゆき/米澤穂信",
-      "publisher": "新潮社",
-      "price": 825,
-      "url": "https://books.rakuten.co.jp/rk/e8a60fd88eb63075a76e50e52cf98712/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8962/2000020598962.jpg?_ex=600x600",
-      "caption": "これはこれまで小説を愛してきてくれた人へ、そしてこれから小説の世界に一歩踏み出す人へ贈るプレゼント。何気なく読んだ物語が、ふと目にした一行が、意外な言葉ひとつが、人生を大きく変えるかもしれない。現代を代表する７人の作家が「夏」をテーマに書き下ろした、驚きと切なさ、怖さと美しさ、何よりとびきりの面白さを詰め込んだ奇跡の一冊。さぁ、あなたの人生に小説という選択肢を。\n",
-      "salesDate": "2026年06月24日",
-      "series": "",
-      "reviewAverage": 3.88,
-      "reviewCount": 280,
-      "genreId": "101901",
-      "isbn": "4340008067051",
+      "id": "4916475490001",
+      "title": "プレゼント",
+      "author": "若竹七海",
+      "publisher": "中央公論新社",
+      "price": 776,
+      "url": "https://books.rakuten.co.jp/rk/9fe631efeb0f3eb0a09ce80197395709/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1444/2000007701444.jpg?_ex=600x600",
+      "caption": "ルーム・クリーナー、電話相談、興信所。トラブルメイカーのフリーター・葉村晶と、娘に借りたピンクの子供用自転車で現場に駆けつける小林警部補。二人が巻き込まれたハードボイルドで悲しい八つの事件とはーー。間抜けだが悪気のない隣人たちがひき起こす騒動はいつも危険すぎる！\n",
+      "salesDate": "2019年08月30日",
+      "series": "プレゼント",
+      "reviewAverage": 3.52,
+      "reviewCount": 92,
+      "genreId": "101901/101902",
+      "isbn": "4916475490001",
       "salesType": 0,
       "matchMeta": {
         "title": "プレゼント",
@@ -504,101 +552,7 @@
           }
         ],
         "source": "combined",
-        "rank": 4
-      }
-    },
-    {
-      "id": "4310000906402",
-      "title": "ＶＯＣＥ (ヴォーチェ)　２０２６年　１０月号",
-      "author": "",
-      "publisher": "講談社",
-      "price": 550,
-      "url": "https://books.rakuten.co.jp/rk/958e86848c8a36db99cadfffa190a94a/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2971/2000021452971.jpg?_ex=600x600",
-      "caption": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。\n◇広瀬すず◇なじんで、引き立てて、パッとあかぬけ「溶け込む秋色」でうまくいく◇HM北原果さん、福岡玲衣さん、小林太郎さんに学ぶ　最新ブラウンアイパレの正解◇肌の厚み別・「じゅわっとマット」なベースメイク◇HM小澤桜さんが指南！「土色」チークが盛れるワケ◇かぼちゃ肌から、白玉肌へ。秋のくすみ抜きスキンケア◇韓国ベスコス◇2026 秋冬 ベースメイクBOOK\n※電子版では紙の雑誌と内容が一部異なる場合や、掲載されないページがあります。※電子版からは応募できない懸賞があります。※電子版には付録は付きません。\n",
-      "salesDate": "2026年08月21日",
-      "series": "ＶＯＣＥ",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101950017",
-      "isbn": "4310000906402",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "VOCE (2026年11月号)",
-        "author": "講談社",
-        "score": 98,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 3
-          }
-        ],
-        "source": "combined",
-        "rank": 12,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "VOCE (2026年11月号)",
-        "author": "講談社",
-        "isbn": "",
-        "score": 177,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 3
-          }
-        ],
-        "source": "combined",
         "rank": 5
-      }
-    },
-    {
-      "id": "4390000014247",
-      "title": "戦争犯罪と闘う　国際刑事裁判所は屈しない",
-      "author": "赤根智子",
-      "publisher": "文藝春秋",
-      "price": 1000,
-      "url": "https://books.rakuten.co.jp/rk/ed83c0d4161a37adb64937f2dc843815/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5761/2000017995761.jpg?_ex=600x600",
-      "caption": "二つの戦争、そして戦後国際秩序の行方は\nロシアによるウクライナ侵攻とイスラエルによるパレスチナへの非人道的な攻撃。目まぐるしく国際情勢が変化するなか、この二つの戦争に向き合い、プーチンとネタニヤフに逮捕状を出した国際刑事裁判所（ICC）。日本人として初めてそのトップに就任した著者は、ほどなくしてプーチンから逆指名手配を受けることにもなった。さらにはトランプ大統領の大統領令による経済制裁の脅威にさらされるなど、世界規模の戦争犯罪に向き合ってきた国際刑事裁判所はいま、存続の危機にある。\n第二次世界大戦後にホロコーストに向き合ったニュルンベルク裁判、日本の戦争責任を裁いた東京裁判。二つの軍事法廷裁判にルーツをもち、国際平和秩序を守ろうと奮闘してきた国際刑事裁判所とはいかなる機関か。二つの戦争という異例の事態にどう向き合ったのか。「世界の警察」アメリカが過去のものになりつつある戦後国際秩序の行方とはーー。\n「世界で起きていることが日本では起きないとは限らない」。「力による支配」がむき出しになりつつある今こそ「法の支配」による安全保障が必要だ。\n「ウクライナ戦争の勃発で完全に覚醒した」と語る赤根さんが、その奮闘を通じて未来への責任を語りかける。\n※本書電子書籍版は刊行後の国際情勢の変化を鑑み、２０２５年１０月に記述の一部を更新しました。\n",
-      "salesDate": "2025年06月20日",
-      "series": "",
-      "reviewAverage": 4.1,
-      "reviewCount": 22,
-      "genreId": "101907009/101907005003/101914",
-      "isbn": "4390000014247",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
-        "author": "",
-        "score": 94,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 4
-          }
-        ],
-        "source": "combined",
-        "rank": 14,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
-        "author": "",
-        "isbn": "",
-        "score": 176,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 4
-          }
-        ],
-        "source": "combined",
-        "rank": 6
       }
     },
     {
@@ -620,6 +574,53 @@
       "matchMeta": {
         "title": "幽冥の岸 十二国記",
         "author": "小野 不由美",
+        "score": 98,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 3
+          }
+        ],
+        "source": "combined",
+        "rank": 12,
+        "originalTitle": "幽冥の岸 十二国記 (新潮文庫)"
+      },
+      "ranking": {
+        "title": "幽冥の岸 十二国記 (新潮文庫)",
+        "author": "小野 不由美",
+        "isbn": "",
+        "score": 177,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 3
+          }
+        ],
+        "source": "combined",
+        "rank": 6
+      }
+    },
+    {
+      "id": "4660000291830",
+      "title": "日経エンタテインメント！ 2026年9月号増刊【表紙：EBiDAN】",
+      "author": "",
+      "publisher": "日経BP",
+      "price": 890,
+      "url": "https://books.rakuten.co.jp/rk/7856f03498f637aaa87be3d1a796a29a/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1564/2000021441564.jpg?_ex=600x600",
+      "caption": "※「日経エンタテインメント！ 2026年9月号増刊【表紙：EBiDAN】」は、特別表紙版となります。誌面内容は「日経エンタテインメント！ 2026年9月号」と同じです。\n※電子版には本誌紙版についている付録「全メンバー60人フォトカード」はつきません。予めご了承ください。\n※使用権の関係により、発売より3か月間限定で販売します。\n※電子版は「直筆サイン入り写真」のプレゼントには応募できません。予めご了承ください\n【表紙・特集】\n15th ANNIVERSARY EBiDANのすべて\n　　SPECIAL INTERVIEW　超特急／M!LK\n　　解説1　俳優活動\n　　SPECIAL INTERVIEW　Sakurashimeji／SUPER★DRAGON／ONE N’ ONLY\n　　解説2　バラエティ活動\n　　SPECIAL INTERVIEW　原因は自分にある。／BUDDiiS／ICEx／Lienel\n【巻頭インタビュー】\nSUPER EIGHT　充実男たちのホンネ、超話（スーパートーク）\n【インタビュー】\nSUPER BEAVER　かっこよさを追い続けた22年間 その先にあった東京ドーム\n特集　相次ぐ「10年超選手」「セカンドキャリア」のブレイク “続ける”という才能\n　　インタビュー　松本若菜\n　　インタビュー　杏里\n　　インタビュー　ドンデコルテ\n　　インタビュー　ORANGE RANGE\n特集　第2回 推し活グッズ大賞 拡大する“推し活”市場における注目の製品・サービスをセレクト\n特集　夏休みヒットカレンダー\n　　インタビュー　『キングダム 魂の決戦』 佐藤信介監督\n　　インタビュー　映画『ブルーロック』 高橋文哉\n　　インタビュー　『八神瑛子 ー上野中央署 組織犯罪対策課ー』 廣木隆一監督\n",
+      "salesDate": "2026年08月05日",
+      "series": "",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101913003",
+      "isbn": "4660000291830",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "日経エンタテインメント! 2026年 9 月号増刊【表紙:EBiDAN】",
+        "author": "日経エンタテインメント!",
         "score": 94,
         "sources": [
           {
@@ -630,11 +631,11 @@
         ],
         "source": "combined",
         "rank": 15,
-        "originalTitle": "幽冥の岸 十二国記 (新潮文庫)"
+        "originalTitle": "日経エンタテインメント! 2026年 9 月号増刊【表紙：EBiDAN】"
       },
       "ranking": {
-        "title": "幽冥の岸 十二国記 (新潮文庫)",
-        "author": "小野 不由美",
+        "title": "日経エンタテインメント! 2026年 9 月号増刊【表紙：EBiDAN】",
+        "author": "日経エンタテインメント!",
         "isbn": "",
         "score": 176,
         "sources": [
@@ -677,8 +678,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16,
-        "originalTitle": "ハヤブサ消防団 森へつづく道"
+        "rank": 16
       },
       "ranking": {
         "title": "ハヤブサ消防団 森へつづく道",
@@ -744,6 +744,147 @@
       }
     },
     {
+      "id": "4390000014247",
+      "title": "戦争犯罪と闘う　国際刑事裁判所は屈しない",
+      "author": "赤根智子",
+      "publisher": "文藝春秋",
+      "price": 1000,
+      "url": "https://books.rakuten.co.jp/rk/ed83c0d4161a37adb64937f2dc843815/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5761/2000017995761.jpg?_ex=600x600",
+      "caption": "二つの戦争、そして戦後国際秩序の行方は\nロシアによるウクライナ侵攻とイスラエルによるパレスチナへの非人道的な攻撃。目まぐるしく国際情勢が変化するなか、この二つの戦争に向き合い、プーチンとネタニヤフに逮捕状を出した国際刑事裁判所（ICC）。日本人として初めてそのトップに就任した著者は、ほどなくしてプーチンから逆指名手配を受けることにもなった。さらにはトランプ大統領の大統領令による経済制裁の脅威にさらされるなど、世界規模の戦争犯罪に向き合ってきた国際刑事裁判所はいま、存続の危機にある。\n第二次世界大戦後にホロコーストに向き合ったニュルンベルク裁判、日本の戦争責任を裁いた東京裁判。二つの軍事法廷裁判にルーツをもち、国際平和秩序を守ろうと奮闘してきた国際刑事裁判所とはいかなる機関か。二つの戦争という異例の事態にどう向き合ったのか。「世界の警察」アメリカが過去のものになりつつある戦後国際秩序の行方とはーー。\n「世界で起きていることが日本では起きないとは限らない」。「力による支配」がむき出しになりつつある今こそ「法の支配」による安全保障が必要だ。\n「ウクライナ戦争の勃発で完全に覚醒した」と語る赤根さんが、その奮闘を通じて未来への責任を語りかける。\n※本書電子書籍版は刊行後の国際情勢の変化を鑑み、２０２５年１０月に記述の一部を更新しました。\n",
+      "salesDate": "2025年06月20日",
+      "series": "",
+      "reviewAverage": 4.1,
+      "reviewCount": 22,
+      "genreId": "101907009/101907005003/101914",
+      "isbn": "4390000014247",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
+        "author": "",
+        "score": 90,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
+        "rank": 18,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
+        "author": "",
+        "isbn": "",
+        "score": 175,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
+        "rank": 10
+      }
+    },
+    {
+      "id": "4972000164838",
+      "title": "ダンダダン 25",
+      "author": "龍幸伸",
+      "publisher": "集英社",
+      "price": 616,
+      "url": "https://books.rakuten.co.jp/rk/4b37cf89f85934dd9dac39c05d928a91/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5957/2000021425957.jpg?_ex=600x600",
+      "caption": "“撃墜王（レッドバロン）”を名乗り、ジジ達の前に立ちはだかった強敵・煙々羅（えんえんら）。その正体は“黒の聖騎士団”と呼ばれる呪（うらな）い師集団に属する暗殺者だった。新たな脅威が迫る中、記憶を失ったモモは超能力の使い方も忘れてしまったようで…？　ナーバスになっている彼女に対し、次は自分が話しかける番だと意気込むオカルンだが…なかなか勇気が出せず!?\n",
+      "salesDate": "2026年09月04日",
+      "series": "ダンダダン",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904001007",
+      "isbn": "4972000164838",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ダンダダン 25",
+        "author": "龍 幸伸",
+        "score": 90,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
+        "rank": 19,
+        "originalTitle": "ダンダダン 25 (ジャンプコミックス)"
+      },
+      "ranking": {
+        "title": "ダンダダン 25 (ジャンプコミックス)",
+        "author": "龍 幸伸",
+        "isbn": "",
+        "score": 175,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
+        "rank": 11
+      }
+    },
+    {
+      "id": "4972000164824",
+      "title": "こちら葛飾区亀有公園前派出所 202",
+      "author": "秋本治",
+      "publisher": "集英社",
+      "price": 693,
+      "url": "https://books.rakuten.co.jp/rk/edaa15beb9443134b8bee947f55faf04/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5941/2000021425941.jpg?_ex=600x600",
+      "caption": "連載開始50周年！　5年ぶりとなる待望の新刊!!　おなじみの派出所メンバーが活躍するエピソード6編に加え、戦後日本の高度成長期を支えた軍艦島が舞台の名作読切『希望の煙突』シリーズ2作品も収録!!\n",
+      "salesDate": "2026年09月04日",
+      "series": "こちら葛飾区亀有公園前派出所",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904001007",
+      "isbn": "4972000164824",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "こちら葛飾区亀有公園前派出所 202",
+        "author": "秋本 治",
+        "score": 82,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 7
+          }
+        ],
+        "source": "combined",
+        "rank": 27,
+        "originalTitle": "こちら葛飾区亀有公園前派出所 202 (ジャンプコミックス)"
+      },
+      "ranking": {
+        "title": "こちら葛飾区亀有公園前派出所 202 (ジャンプコミックス)",
+        "author": "秋本 治",
+        "isbn": "",
+        "score": 173,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 7
+          }
+        ],
+        "source": "combined",
+        "rank": 12
+      }
+    },
+    {
       "id": "4390000005636",
       "title": "容疑者Xの献身",
       "author": "東野圭吾",
@@ -787,7 +928,54 @@
           }
         ],
         "source": "combined",
-        "rank": 10
+        "rank": 13
+      }
+    },
+    {
+      "id": "4972000164857",
+      "title": "カグラバチ 12",
+      "author": "外薗健",
+      "publisher": "集英社",
+      "price": 572,
+      "url": "https://books.rakuten.co.jp/rk/1250fd0ab348309997f2c69cd909d68c/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5975/2000021425975.jpg?_ex=600x600",
+      "caption": "幽の体を乗っ取った剣聖と対峙するチヒロ！　悪人を皆殺しにするという自分の信念を告げる剣聖に対し、チヒロは座村と2人がかりで挑むも実力差は歴然、座村は致命傷を負ってしまう…。そんな中、チヒロの攻撃が徐々に剣聖を捉え始めーー!?\n",
+      "salesDate": "2026年09月04日",
+      "series": "カグラバチ",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904001007",
+      "isbn": "4972000164857",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "カグラバチ 12",
+        "author": "外薗 健",
+        "score": 78,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 31,
+        "originalTitle": "カグラバチ 12 (ジャンプコミックス)"
+      },
+      "ranking": {
+        "title": "カグラバチ 12 (ジャンプコミックス)",
+        "author": "外薗 健",
+        "isbn": "",
+        "score": 172,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 14
       }
     },
     {
@@ -809,79 +997,79 @@
       "matchMeta": {
         "title": "要領のいい人が最初に考えること",
         "author": "",
-        "score": 82,
+        "isbn": "",
+        "score": 172,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 7
+            "rank": 8
           }
         ],
         "source": "combined",
-        "rank": 26,
-        "originalTitle": ""
+        "rank": 29
       },
       "ranking": {
         "title": "要領のいい人が最初に考えること",
         "author": "",
         "isbn": "",
-        "score": 173,
+        "score": 172,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 7
+            "rank": 8
           }
         ],
         "source": "combined",
-        "rank": 11
+        "rank": 15
       }
     },
     {
-      "id": "4972000164838",
-      "title": "ダンダダン 25",
-      "author": "龍幸伸",
-      "publisher": "集英社",
-      "price": 616,
-      "url": "https://books.rakuten.co.jp/rk/4b37cf89f85934dd9dac39c05d928a91/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5957/2000021425957.jpg?_ex=600x600",
-      "caption": "“撃墜王（レッドバロン）”を名乗り、ジジ達の前に立ちはだかった強敵・煙々羅（えんえんら）。その正体は“黒の聖騎士団”と呼ばれる呪（うらな）い師集団に属する暗殺者だった。新たな脅威が迫る中、記憶を失ったモモは超能力の使い方も忘れてしまったようで…？　ナーバスになっている彼女に対し、次は自分が話しかける番だと意気込むオカルンだが…なかなか勇気が出せず!?\n",
-      "salesDate": "2026年09月04日",
-      "series": "ダンダダン",
+      "id": "4331000700320",
+      "title": "ギャルにひかれて寺マルシェ",
+      "author": "宮島　未奈",
+      "publisher": "KADOKAWA",
+      "price": 2035,
+      "url": "https://books.rakuten.co.jp/rk/892ef7e9e1143dc0868ac50df9bd106a/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9754/2000021549754.jpg?_ex=600x600",
+      "caption": "亡くなった父親の酒屋を継いだ30歳の英介は、商売への向上心もなく、なんとなく毎日を送っている。そこに現れたのは、久しぶりに地元に帰ってきた、腐れ縁の悪友・光司。光司に誘われ英介は、子どものころに近所の陵泉寺に埋めたという高価なポケモンカードを掘り起こすことに。偵察のため、陵泉寺で開かれている〈寺マルシェ〉を訪れると、ギャルメイクで法話を行う尼僧を見つける。それは実家の陵泉寺で副住職を務める、元同級生の真実子だった。かつての優等生の面影のない姿に呆気にとられる英介の傍ら、光司は真実子を〈ギャル僧〉として売り出して金儲けすることを思いつきーー！？読めばきっと元気がもらえる、大人になりきれない大人たちの青春譚！\n",
+      "salesDate": "2026年09月02日",
+      "series": "ギャルにひかれて寺マルシェ",
       "reviewAverage": 0,
       "reviewCount": 0,
-      "genreId": "101904001007",
-      "isbn": "4972000164838",
+      "genreId": "101901",
+      "isbn": "4331000700320",
       "salesType": 0,
       "matchMeta": {
-        "title": "ダンダダン 25",
-        "author": "龍 幸伸",
-        "score": 78,
+        "title": "ギャルにひかれて寺マルシェ",
+        "author": "",
+        "score": 74,
         "sources": [
           {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 8
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 9
           }
         ],
         "source": "combined",
-        "rank": 31,
-        "originalTitle": "ダンダダン 25 (ジャンプコミックス)"
+        "rank": 34,
+        "originalTitle": ""
       },
       "ranking": {
-        "title": "ダンダダン 25 (ジャンプコミックス)",
-        "author": "龍 幸伸",
+        "title": "ギャルにひかれて寺マルシェ",
+        "author": "",
         "isbn": "",
-        "score": 172,
+        "score": 171,
         "sources": [
           {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 8
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 9
           }
         ],
         "source": "combined",
-        "rank": 12
+        "rank": 16
       }
     },
     {
@@ -928,7 +1116,7 @@
           }
         ],
         "source": "combined",
-        "rank": 13
+        "rank": 17
       }
     },
     {
@@ -975,7 +1163,7 @@
           }
         ],
         "source": "combined",
-        "rank": 14
+        "rank": 18
       }
     },
     {
@@ -1022,54 +1210,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15
-      }
-    },
-    {
-      "id": "4331000700320",
-      "title": "ギャルにひかれて寺マルシェ",
-      "author": "宮島　未奈",
-      "publisher": "KADOKAWA",
-      "price": 2035,
-      "url": "https://books.rakuten.co.jp/rk/892ef7e9e1143dc0868ac50df9bd106a/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9754/2000021549754.jpg?_ex=600x600",
-      "caption": "亡くなった父親の酒屋を継いだ30歳の英介は、商売への向上心もなく、なんとなく毎日を送っている。そこに現れたのは、久しぶりに地元に帰ってきた、腐れ縁の悪友・光司。光司に誘われ英介は、子どものころに近所の陵泉寺に埋めたという高価なポケモンカードを掘り起こすことに。偵察のため、陵泉寺で開かれている〈寺マルシェ〉を訪れると、ギャルメイクで法話を行う尼僧を見つける。それは実家の陵泉寺で副住職を務める、元同級生の真実子だった。かつての優等生の面影のない姿に呆気にとられる英介の傍ら、光司は真実子を〈ギャル僧〉として売り出して金儲けすることを思いつきーー！？読めばきっと元気がもらえる、大人になりきれない大人たちの青春譚！\n",
-      "salesDate": "2026年09月02日",
-      "series": "ギャルにひかれて寺マルシェ",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101901",
-      "isbn": "4331000700320",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ギャルにひかれて寺マルシェ",
-        "author": "",
-        "score": 70,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 38,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "ギャルにひかれて寺マルシェ",
-        "author": "",
-        "isbn": "",
-        "score": 170,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 16
+        "rank": 19
       }
     },
     {
@@ -1089,7 +1230,7 @@
       "isbn": "4681308443742",
       "salesType": 1,
       "matchMeta": {
-        "title": "女の園の星 5 (FCswing)",
+        "title": "女の園の星 5",
         "author": "和山やま",
         "score": 70,
         "sources": [
@@ -1101,10 +1242,10 @@
         ],
         "source": "combined",
         "rank": 39,
-        "originalTitle": "女の園の星 ５ (FCswing)"
+        "originalTitle": "女の園の星 ５ (フィールコミックス)"
       },
       "ranking": {
-        "title": "女の園の星 ５ (FCswing)",
+        "title": "女の園の星 ５ (フィールコミックス)",
         "author": "和山やま",
         "isbn": "",
         "score": 170,
@@ -1116,101 +1257,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17
-      }
-    },
-    {
-      "id": "4659733601001",
-      "title": "「会社四季報」業界地図 2027年版",
-      "author": "0",
-      "publisher": "東洋経済新報社",
-      "price": 2200,
-      "url": "https://books.rakuten.co.jp/rk/fff54685789b3ecbabd20a047911a783/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4237/2000021504237.jpg?_ex=600x600",
-      "caption": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字列のハイライトや検索、辞書の参照、引用などの機能が使用できません。\n累計部数300万部突破！ 日本経済と企業の「今」が、この1冊でよくわかる！\n「業界地図」の最新決定版（大手書店調べ）\n【経済ニュースの背景がスッキリわかる】\n解説をアップデート： 生成AIの広がりを踏まえ、サプライチェーンや業界再編史の解説を増強。企業の決算、提携関係、最新トレンドまでこれ1冊で掴めます。\n最新トレンドを網羅： 「生成AI」、「フィジカルAI」ほか、アニメ・マンガで大注目の「IP（キャラクタービジネス）」から、AIを支える「データセンター」、激変する「宇宙開発」まで、知っておきたい業界の最新動向を徹底解説。\n【産業ガイドブックの決定版！こんな方におすすめ】\n経済ニュース： 「今、どうしてこれが話題になっているのか」の背景を知りたい方に\n株式投資： 有望な銘柄発掘や、深い銘柄分析のツールとして\n就活・転職： 徹底的な業界研究や、自分に合う志望企業探しに\nビジネス： 商談前の客先動向把握や、役立つ雑談ネタ探しに\n【2027年版の注目トピック＆新要素】\n大注目の業界を新規追加！ 「ロボット（フィジカルAI）」、中東情勢を受けた「エネルギー地政学」、製造業を変革する「ファクトリーオートメーション」など、最先端の業界を続々追加。さらに金利上昇で注目の「住宅ローン」や、「電炉」「後発薬」など、ニッチ・深掘り業界も新たに掲載。\n日本各地、世界各国の有力企業も網羅！ 日本の47都道府県の有力企業、アメリカ・中国・欧州・インドの動向はもちろん、2027年版では、財閥の支配構造がわかる「韓国」、半導体ブームに沸く「台湾」を新規掲載。\n株式投資家も大注目！充実のデータ量 約60業界の「10年間の天気予想」に加え、業界平均の利益率や時価総額、平均年収を収録。主要企業1000社超の時価総額、株価騰落率、配当利回りなど、投資に直結するデータも満載！\n",
-      "salesDate": "2026年08月22日",
-      "series": "",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101905017004/101905001002",
-      "isbn": "4659733601001",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "会社四季報業界地図 〈2027年版〉",
-        "author": "",
-        "score": 66,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 11
-          }
-        ],
-        "source": "combined",
-        "rank": 40,
-        "originalTitle": "会社四季報業界地図 〈２０２７年版〉"
-      },
-      "ranking": {
-        "title": "会社四季報業界地図 〈２０２７年版〉",
-        "author": "",
-        "isbn": "",
-        "score": 169,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 11
-          }
-        ],
-        "source": "combined",
-        "rank": 18
-      }
-    },
-    {
-      "id": "4972000161446",
-      "title": "キングダム 80",
-      "author": "原泰久",
-      "publisher": "集英社",
-      "price": 770,
-      "url": "https://books.rakuten.co.jp/rk/050764b407853c8da27e5a42ab86656e/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2133/2000021122133.jpg?_ex=600x600",
-      "caption": "李牧の防衛網を突破せよ!!　紀元前229年 趙完全攻略戦　白熱する趙完全攻略戦。北部では、司馬尚軍と宜安・番吾からなる趙北部軍とで、王翦軍への挟撃を図ろうとする李牧の策を阻止するべく玉鳳軍が立ちはだかる。一方、中華十弓・青華雲を討ち取った飛信隊は、蒙恬の発案により、楽華軍・羌カイ軍との三軍連合攻撃を開始するが…!?\n",
-      "salesDate": "2026年08月19日",
-      "series": "キングダム",
-      "reviewAverage": 3.89,
-      "reviewCount": 9,
-      "genreId": "101904002006",
-      "isbn": "4972000161446",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "キングダム 80",
-        "author": "原 泰久",
-        "score": 62,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 12
-          }
-        ],
-        "source": "combined",
-        "rank": 43,
-        "originalTitle": "キングダム 80 (ヤングジャンプコミックス)"
-      },
-      "ranking": {
-        "title": "キングダム 80 (ヤングジャンプコミックス)",
-        "author": "原 泰久",
-        "isbn": "",
-        "score": 168,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 12
-          }
-        ],
-        "source": "combined",
-        "rank": 19
+        "rank": 20
       }
     },
     {
@@ -1242,7 +1289,7 @@
           }
         ],
         "source": "combined",
-        "rank": 44,
+        "rank": 45,
         "originalTitle": "FOR OVERSEAS"
       },
       "ranking": {
@@ -1258,7 +1305,7 @@
           }
         ],
         "source": "combined",
-        "rank": 20
+        "rank": 21
       }
     },
     {
@@ -1278,77 +1325,30 @@
       "isbn": "4410000009587",
       "salesType": 0,
       "matchMeta": {
-        "title": "AIネイティブカンパニー - 「AIを入れた、でも使われない」という常識を書き換",
+        "title": "ＡＩネイティブカンパニー - 「ＡＩを入れた、でも使われない」という常識を書き換",
         "author": "",
-        "score": 58,
+        "isbn": "",
+        "score": 168,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 13
+            "rank": 12
           }
         ],
         "source": "combined",
-        "rank": 44,
-        "originalTitle": "ＡＩネイティブカンパニー - 「ＡＩを入れた、でも使われない」という常識を書き換"
+        "rank": 43
       },
       "ranking": {
         "title": "ＡＩネイティブカンパニー - 「ＡＩを入れた、でも使われない」という常識を書き換",
         "author": "",
         "isbn": "",
-        "score": 167,
+        "score": 168,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 13
-          }
-        ],
-        "source": "combined",
-        "rank": 21
-      }
-    },
-    {
-      "id": "6170520520001",
-      "title": "【大増量】週刊プレイボーイ創刊59周年記念デジタル写真集「NIPPONグラドル59人」",
-      "author": "週プレ創刊59周年グラビアガールズ59人/LUCKMAN/藤本和典",
-      "publisher": "集英社",
-      "price": 1650,
-      "url": "https://books.rakuten.co.jp/rk/ca8075c0866d339fbfe1634db605cf93/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6110/2000018876110.jpg?_ex=600x600",
-      "caption": "週プレ本誌グラビアの未公開カットで構成したデジタル写真集！10月は週プレの創刊月間。50周年から続いている50人グラビアシリーズ。今年は59周年なので、59人の現役トップグラドルが大集結！　びしょ濡れになって例年以上にカオスなグラビアに!?　整列していたはずが、撮影が進むにつれてカラダが絡み合い、各所から艶めかしい声があがる。プールや川で、密着し合う美女たち。年に1回の盛大なアニバーサリーグラビア。協力してくれた美女たちに感謝！　参加モデル（五十音順）／葵りんご,青山ひかる,蒼山みこと,赤城ありさ,浅沼 凛,阿澄音々,天木じゅん,天野麻菜,天羽結愛,絢月みけ,伊織いお,池田ゆうな,石井優希,石岡真衣,石垣果蓮,石橋てるみ,一ノ瀬のこ,五木ゆうり,宇佐美なお,音羽美奈,夏乃さやか,神川さあや,神山みれい,倉田アンナ,紅羽祐美,小日向ななせ,桜木美緒,佐野なぎさ,爽香,新海まき,鈴木ふみ奈,せのん,高月りな,竹川由華,ちとせよしの,塚越愛実,徳江かな,永瀬ひな,夏川いおり,夏未ゆうか,七瀬みるあ,成瀬かのん,西永彩奈,西本ヒカル,のののん,葉月あや,原つむぎ,まいてぃ,幕田みゆ,松本みいな,愛森ちえ,丸山りさ,三木優彩,美登りみ,水湊まり花,美波那緒,める,森くるみ,山田かな\n",
-      "salesDate": "2025年10月20日",
-      "series": "週プレ PHOTO BOOK",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101915",
-      "isbn": "6170520520001",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "週刊プレイボーイ (37号)",
-        "author": "",
-        "isbn": "",
-        "score": 164,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 16
-          }
-        ],
-        "source": "combined",
-        "rank": 50
-      },
-      "ranking": {
-        "title": "週刊プレイボーイ (37号)",
-        "author": "",
-        "isbn": "",
-        "score": 164,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 16
+            "rank": 12
           }
         ],
         "source": "combined",
@@ -1356,50 +1356,191 @@
       }
     },
     {
-      "id": "6681316499690",
-      "title": "Casa BRUTUS (カーサ・ブルータス) 2026年 10月号 [ソウル・ライフスタイル・ガイド]",
-      "author": "カーサブルータス編集部",
-      "publisher": "マガジンハウス",
-      "price": 1300,
-      "url": "https://books.rakuten.co.jp/rk/3ee4873cdbeb347aac48688eeb597c03/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9858/2000021699858.jpg?_ex=600x600",
-      "caption": "※電子版では、紙の雑誌と内容が一部異なる場合や、掲載されないページや特別付録が含まれない場合がございます。\n※本雑誌はカラーページを含みます。お使いの端末によっては、一部読みづらい場合がございます。\nSeoul Lifestyle Guide\nソウル・ライフスタイル・ガイド\nソウルの今を感じるインテリアと、 あの人が案内するシティガイド！\nKコンテンツ＝韓国のエンターテインメントが世界を席巻して久しいですが、近年は建築、デザイン、ファッション、アートなどの分野でも影響力を増しています。\n欧米のとあるファッションデザイナーは最もインスピレーションを受ける街として、何度も訪れたソウルを自身のコレクションのローンチ場所として選びました。\nソウルは今やライフスタイルの面でも最も注目すべき都市となっているのです。\nそこで 『Casa BRUTUS』本誌としては初めてソウル特集をします。\nインテリアデザインから、建築、デザイン、フード、カルチャー、ナイトライフまで、ソウルのクリエイティブな人々のライフスタイルとあの人が案内するシティガイドです！\nMin Hee Jin\nミン・ヒジンのライフスタイル。\nInterior 1\n多種多様な家具と植物に彩られた、ソウルで暮らすインテリア。\nInterior 2\n人生で初めて手にした、自分らしい暮らしで彩った家。\nooak records\nミン・ヒジンの新たなレーベル、オフィスとコンセプトを初公開！\nFavorite Place\nミン・ヒジンのソウル案内！\nArchitecture\nソウル現代建築リスト。\nJo Sampo\n長坂常のソウルじょう散歩。\nLee Kwangho\n世界が注目する異才、イ・カンホを知っていますか。\nWorks\nソウルのヒップな空間を作る2組。\nSeoul Food\n平野紗季子のソウル・フード、パーマネント・コレクション。\nCraft\n中原慎一郎のクラフト探訪。\nMan in Seoul\n岡本仁のぼくのソウル地図。\nNightlife\nソウルのディープな夜へ、中村圭佑が訪ねた５つのバー。\nSeoul Interiors\nソウルの今を感じる、クリエイターたちの住まい。\n",
-      "salesDate": "2026年09月09日",
-      "series": "Casa BRUTUS",
+      "id": "4310000906402",
+      "title": "ＶＯＣＥ (ヴォーチェ)　２０２６年　１０月号",
+      "author": "",
+      "publisher": "講談社",
+      "price": 550,
+      "url": "https://books.rakuten.co.jp/rk/958e86848c8a36db99cadfffa190a94a/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2971/2000021452971.jpg?_ex=600x600",
+      "caption": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。\n◇広瀬すず◇なじんで、引き立てて、パッとあかぬけ「溶け込む秋色」でうまくいく◇HM北原果さん、福岡玲衣さん、小林太郎さんに学ぶ　最新ブラウンアイパレの正解◇肌の厚み別・「じゅわっとマット」なベースメイク◇HM小澤桜さんが指南！「土色」チークが盛れるワケ◇かぼちゃ肌から、白玉肌へ。秋のくすみ抜きスキンケア◇韓国ベスコス◇2026 秋冬 ベースメイクBOOK\n※電子版では紙の雑誌と内容が一部異なる場合や、掲載されないページがあります。※電子版からは応募できない懸賞があります。※電子版には付録は付きません。\n",
+      "salesDate": "2026年08月21日",
+      "series": "ＶＯＣＥ",
       "reviewAverage": 0,
       "reviewCount": 0,
-      "genreId": "101950090",
-      "isbn": "6681316499690",
-      "salesType": 1,
+      "genreId": "101950017",
+      "isbn": "4310000906402",
+      "salesType": 0,
       "matchMeta": {
-        "title": "Casa BRUTUS(カーサ ブルータス) 2026年 10月号[ソウル・ライフスタイル・ガイド]",
-        "author": "CasaBRUTUS編集部",
-        "score": 42,
+        "title": "VOCE (2026年11月号)",
+        "author": "講談社",
+        "score": 58,
         "sources": [
           {
             "source": "amazon",
             "label": "Amazon",
-            "rank": 17
+            "rank": 13
           }
         ],
         "source": "combined",
-        "rank": 52,
+        "rank": 45,
         "originalTitle": ""
       },
       "ranking": {
-        "title": "Casa BRUTUS(カーサ ブルータス) 2026年 10月号[ソウル・ライフスタイル・ガイド]",
-        "author": "CasaBRUTUS編集部",
+        "title": "VOCE (2026年11月号)",
+        "author": "講談社",
         "isbn": "",
-        "score": 163,
+        "score": 167,
         "sources": [
           {
             "source": "amazon",
             "label": "Amazon",
-            "rank": 17
+            "rank": 13
           }
         ],
         "source": "combined",
         "rank": 23
+      }
+    },
+    {
+      "id": "4659733601001",
+      "title": "「会社四季報」業界地図 2027年版",
+      "author": "0",
+      "publisher": "東洋経済新報社",
+      "price": 2200,
+      "url": "https://books.rakuten.co.jp/rk/fff54685789b3ecbabd20a047911a783/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4237/2000021504237.jpg?_ex=600x600",
+      "caption": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字列のハイライトや検索、辞書の参照、引用などの機能が使用できません。\n累計部数300万部突破！ 日本経済と企業の「今」が、この1冊でよくわかる！\n「業界地図」の最新決定版（大手書店調べ）\n【経済ニュースの背景がスッキリわかる】\n解説をアップデート： 生成AIの広がりを踏まえ、サプライチェーンや業界再編史の解説を増強。企業の決算、提携関係、最新トレンドまでこれ1冊で掴めます。\n最新トレンドを網羅： 「生成AI」、「フィジカルAI」ほか、アニメ・マンガで大注目の「IP（キャラクタービジネス）」から、AIを支える「データセンター」、激変する「宇宙開発」まで、知っておきたい業界の最新動向を徹底解説。\n【産業ガイドブックの決定版！こんな方におすすめ】\n経済ニュース： 「今、どうしてこれが話題になっているのか」の背景を知りたい方に\n株式投資： 有望な銘柄発掘や、深い銘柄分析のツールとして\n就活・転職： 徹底的な業界研究や、自分に合う志望企業探しに\nビジネス： 商談前の客先動向把握や、役立つ雑談ネタ探しに\n【2027年版の注目トピック＆新要素】\n大注目の業界を新規追加！ 「ロボット（フィジカルAI）」、中東情勢を受けた「エネルギー地政学」、製造業を変革する「ファクトリーオートメーション」など、最先端の業界を続々追加。さらに金利上昇で注目の「住宅ローン」や、「電炉」「後発薬」など、ニッチ・深掘り業界も新たに掲載。\n日本各地、世界各国の有力企業も網羅！ 日本の47都道府県の有力企業、アメリカ・中国・欧州・インドの動向はもちろん、2027年版では、財閥の支配構造がわかる「韓国」、半導体ブームに沸く「台湾」を新規掲載。\n株式投資家も大注目！充実のデータ量 約60業界の「10年間の天気予想」に加え、業界平均の利益率や時価総額、平均年収を収録。主要企業1000社超の時価総額、株価騰落率、配当利回りなど、投資に直結するデータも満載！\n",
+      "salesDate": "2026年08月22日",
+      "series": "",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101905017004/101905001002",
+      "isbn": "4659733601001",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "会社四季報業界地図 〈2027年版〉",
+        "author": "",
+        "score": 54,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 14
+          }
+        ],
+        "source": "combined",
+        "rank": 46,
+        "originalTitle": "会社四季報業界地図 〈２０２７年版〉"
+      },
+      "ranking": {
+        "title": "会社四季報業界地図 〈２０２７年版〉",
+        "author": "",
+        "isbn": "",
+        "score": 166,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 14
+          }
+        ],
+        "source": "combined",
+        "rank": 24
+      }
+    },
+    {
+      "id": "4972000161446",
+      "title": "キングダム 80",
+      "author": "原泰久",
+      "publisher": "集英社",
+      "price": 770,
+      "url": "https://books.rakuten.co.jp/rk/050764b407853c8da27e5a42ab86656e/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2133/2000021122133.jpg?_ex=600x600",
+      "caption": "李牧の防衛網を突破せよ!!　紀元前229年 趙完全攻略戦　白熱する趙完全攻略戦。北部では、司馬尚軍と宜安・番吾からなる趙北部軍とで、王翦軍への挟撃を図ろうとする李牧の策を阻止するべく玉鳳軍が立ちはだかる。一方、中華十弓・青華雲を討ち取った飛信隊は、蒙恬の発案により、楽華軍・羌カイ軍との三軍連合攻撃を開始するが…!?\n",
+      "salesDate": "2026年08月19日",
+      "series": "キングダム",
+      "reviewAverage": 3.89,
+      "reviewCount": 9,
+      "genreId": "101904002006",
+      "isbn": "4972000161446",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "キングダム 80",
+        "author": "原 泰久",
+        "score": 54,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 14
+          }
+        ],
+        "source": "combined",
+        "rank": 47,
+        "originalTitle": "キングダム 80 (ヤングジャンプコミックス)"
+      },
+      "ranking": {
+        "title": "キングダム 80 (ヤングジャンプコミックス)",
+        "author": "原 泰久",
+        "isbn": "",
+        "score": 166,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 14
+          }
+        ],
+        "source": "combined",
+        "rank": 25
+      }
+    },
+    {
+      "id": "5034533175473",
+      "title": "るるぶ■■版 蓋ヶ瀬",
+      "author": "柿",
+      "publisher": "JTBパブリッシング",
+      "price": 1496,
+      "url": "https://books.rakuten.co.jp/rk/378e7d1aa4133fa18fbab383fa3f7af7/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2129/2000021582129.jpg?_ex=600x600",
+      "caption": "*※このコンテンツはカラーとなります。カラー表示が可能な端末またはアプリでの閲覧を推奨します（kobo glo， kobo touch， kobo miniでのご利用はおすすめいたしません）。*ネット上で浮かんでは消える「蓋ヶ瀬」という地名。\n所在地も行き方も一切不明。にもかかわらず飛び交う数々の噂。\nこれは単なるネットミームなのか？それとも…。\n蓋ヶ瀬の全貌を再現すべく、一人の「るるぶ」編集部員が本書を手掛けた。\n栃木県足利市の施設の協力の下、進んでいく取材。\nその過程で辿り着いた蓋ヶ瀬の真実とは…。\n地域情報の先駆者「るるぶ」と正体不明の著者「柿」が放つ、異色のモキュメンタリーホラー。\n※この電子書籍は2026年8月にJTBパブリッシングから発行された図書を画像化したものです。電子書籍化にあたり、一部内容を変更している場合があります\n",
+      "salesDate": "2026年08月29日",
+      "series": "諸書籍",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101911001",
+      "isbn": "5034533175473",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "るるぶ■■版 蓋ヶ瀬",
+        "author": "",
+        "score": 42,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 17
+          }
+        ],
+        "source": "combined",
+        "rank": 51,
+        "originalTitle": "るるぶ■■版　蓋ヶ瀬"
+      },
+      "ranking": {
+        "title": "るるぶ■■版 蓋ヶ瀬",
+        "author": "",
+        "isbn": "",
+        "score": 163,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 17
+          }
+        ],
+        "source": "combined",
+        "rank": 26
       }
     },
     {
@@ -1437,439 +1578,16 @@
         "title": "地球の歩き方 スター・ウォーズ 〈１９７７～〉",
         "author": "",
         "isbn": "",
-        "score": 162,
+        "score": 160,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 18
-          }
-        ],
-        "source": "combined",
-        "rank": 24
-      }
-    },
-    {
-      "id": "4320000902406",
-      "title": "ブラック・ラグーン（１４）",
-      "author": "広江礼威",
-      "publisher": "小学館",
-      "price": 759,
-      "url": "https://books.rakuten.co.jp/rk/2f39c815e61f3acfa935bd4b473c62b0/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8265/2000021398265.jpg?_ex=600x600",
-      "caption": "ロアナプラで血風吹き荒れる抗争が始まる！\n悪徳の街ロアナプラは各国のマフィアたちが牛耳り、お互いの利益のため辛うじて均衡を保っていた。だが『ホテル・モスクワ』が関わったカリフォルニアでのメキシコ新興組織との抗争の火種が街に持ち込まれた事により事態は一変。メキシコ新興組織の先鋭部隊のグリスたちは、ロアナプラに乗り込みバラライカに宣戦布告を告げ、ロアナプラは一触即発の状況に陥る。ロックは事態の収拾に乗り出すが…\n",
-      "salesDate": "2026年08月19日",
-      "series": "ブラック・ラグーン",
-      "reviewAverage": 3.8,
-      "reviewCount": 5,
-      "genreId": "101904002040",
-      "isbn": "4320000902406",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ブラック・ラグーン (14)",
-        "author": "広江 礼威",
-        "score": 34,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 19
-          }
-        ],
-        "source": "combined",
-        "rank": 55,
-        "originalTitle": "ブラック・ラグーン (14) (サンデーGXコミックス)"
-      },
-      "ranking": {
-        "title": "ブラック・ラグーン (14) (サンデーGXコミックス)",
-        "author": "広江 礼威",
-        "isbn": "",
-        "score": 161,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 19
-          }
-        ],
-        "source": "combined",
-        "rank": 25
-      }
-    },
-    {
-      "id": "4972000164857",
-      "title": "カグラバチ 12",
-      "author": "外薗健",
-      "publisher": "集英社",
-      "price": 572,
-      "url": "https://books.rakuten.co.jp/rk/1250fd0ab348309997f2c69cd909d68c/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5975/2000021425975.jpg?_ex=600x600",
-      "caption": "幽の体を乗っ取った剣聖と対峙するチヒロ！　悪人を皆殺しにするという自分の信念を告げる剣聖に対し、チヒロは座村と2人がかりで挑むも実力差は歴然、座村は致命傷を負ってしまう…。そんな中、チヒロの攻撃が徐々に剣聖を捉え始めーー!?\n",
-      "salesDate": "2026年09月04日",
-      "series": "カグラバチ",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904001007",
-      "isbn": "4972000164857",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "カグラバチ 12",
-        "author": "外薗 健",
-        "score": 22,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 22
-          }
-        ],
-        "source": "combined",
-        "rank": 61,
-        "originalTitle": "カグラバチ 12 (ジャンプコミックス)"
-      },
-      "ranking": {
-        "title": "カグラバチ 12 (ジャンプコミックス)",
-        "author": "外薗 健",
-        "isbn": "",
-        "score": 158,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 22
-          }
-        ],
-        "source": "combined",
-        "rank": 26
-      }
-    },
-    {
-      "id": "5034533175473",
-      "title": "るるぶ■■版 蓋ヶ瀬",
-      "author": "柿",
-      "publisher": "JTBパブリッシング",
-      "price": 1496,
-      "url": "https://books.rakuten.co.jp/rk/378e7d1aa4133fa18fbab383fa3f7af7/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2129/2000021582129.jpg?_ex=600x600",
-      "caption": "*※このコンテンツはカラーとなります。カラー表示が可能な端末またはアプリでの閲覧を推奨します（kobo glo， kobo touch， kobo miniでのご利用はおすすめいたしません）。*ネット上で浮かんでは消える「蓋ヶ瀬」という地名。\n所在地も行き方も一切不明。にもかかわらず飛び交う数々の噂。\nこれは単なるネットミームなのか？それとも…。\n蓋ヶ瀬の全貌を再現すべく、一人の「るるぶ」編集部員が本書を手掛けた。\n栃木県足利市の施設の協力の下、進んでいく取材。\nその過程で辿り着いた蓋ヶ瀬の真実とは…。\n地域情報の先駆者「るるぶ」と正体不明の著者「柿」が放つ、異色のモキュメンタリーホラー。\n※この電子書籍は2026年8月にJTBパブリッシングから発行された図書を画像化したものです。電子書籍化にあたり、一部内容を変更している場合があります\n",
-      "salesDate": "2026年08月29日",
-      "series": "諸書籍",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101911001",
-      "isbn": "5034533175473",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "るるぶ■■版 蓋ヶ瀬",
-        "author": "",
-        "score": 22,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 22
-          }
-        ],
-        "source": "combined",
-        "rank": 60,
-        "originalTitle": "るるぶ■■版　蓋ヶ瀬"
-      },
-      "ranking": {
-        "title": "るるぶ■■版 蓋ヶ瀬",
-        "author": "",
-        "isbn": "",
-        "score": 158,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 22
+            "rank": 20
           }
         ],
         "source": "combined",
         "rank": 27
-      }
-    },
-    {
-      "id": "8910131398169",
-      "title": "知性大全　AI時代に不可欠な力",
-      "author": "樺沢紫苑",
-      "publisher": "サンクチュアリ出版",
-      "price": 2090,
-      "url": "https://books.rakuten.co.jp/rk/958a8a7aaea03afcae6521dd87078ba8/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8175/2000021368175.jpg?_ex=600x600",
-      "caption": "シリーズ110万部『アウトプット大全』著者・樺沢紫苑　最新刊！\nAI時代に命運をわける「知性」について、全網羅した初の本\n自ら問いを立て、考え、行動するために。\n習慣力、決断力、読解力、文章力、対話力、地頭力、思考力……\nすべての能力をアップデートせよ。\n◎CONTENTS\nCHAPTER1　「知性」とは何か？ーー知識を行動に変える　\n知性とは？\n知性と知能\n自分の頭で考える\n共創する\n知性サイクルを回す　　他\nCHAPTER2　「知る」ーーインプットの質と量を改善する\nアンテナを立てる\n好奇心を刺激する\n読解力を養う\nノイズを減らす\nSNSを育てる　　他\nCHAPTER3　「考える」ーー本質的な思考力を鍛える\n整理する\n立体的に考える\n問いを立てる\n壁打ちする\n仮説を立てる\nAIに残す\n自分で書く\nアイデアを出す 他\nCHAPTER4　「決断する」ーー意思決定でスピードを上げる\n決断して、行動する\n書いて整理する\n３つに絞る\n決断を減らす\nルール化する\nプランＢを用意する\n数値化する\n期限を決める　他\nCHAPTER5　「行動する」ーー最初の一歩で現実を変える\n特性を理解する\n言語化する\nTO DOリストを書く\nオリジナリティの注入\n徹底的に磨く\n編集する\n覚悟を決める　　他\nCHAPTER6　「フィードバックする」ーー修正力を高めて成長につなげる\n未来へ向けて準備する\nAIにフィードバックさせる\n最適解を導く\nAIに質問させる\n視座を変える\nポジティブ・フィードバックする\n反証する\n炎上を防ぐ　他\nCHAPTER7　「整える」ーー自分の心と体に向き合う\n心と身体を整える\nぐっすり眠る\n規則正しく眠る\nAIをカウンセラーにする\n脳を育てる\n運動する\n日記を書く\n悪口を手放す　　他\nCHAPTER8　AI時代にあえてすべきこと ーー人間本来の力を磨く\n（紙の本を）読む\n体験する\nリラックスする\nリアルに会う\n美意識を磨く\n料理する\n外に出る\nボーッとする　　他\n",
-      "salesDate": "2026年08月05日",
-      "series": "",
-      "reviewAverage": 4.5,
-      "reviewCount": 7,
-      "genreId": "101908008002/101905010",
-      "isbn": "8910131398169",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "知性大全 AI時代に不可欠な力",
-        "author": "",
-        "score": 14,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 24
-          }
-        ],
-        "source": "combined",
-        "rank": 63,
-        "originalTitle": "知性大全　ＡＩ時代に不可欠な力"
-      },
-      "ranking": {
-        "title": "知性大全 ＡＩ時代に不可欠な力",
-        "author": "",
-        "isbn": "",
-        "score": 156,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 24
-          }
-        ],
-        "source": "combined",
-        "rank": 28
-      }
-    },
-    {
-      "id": "4340008067431",
-      "title": "少年ＡＢＣの完璧な選択",
-      "author": "結城真一郎",
-      "publisher": "新潮社",
-      "price": 2090,
-      "url": "https://books.rakuten.co.jp/rk/6865a432771936a69b72823fce0fc676/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2671/2000020982671.jpg?_ex=600x600",
-      "caption": "中二の夏。俺達は幼馴染の乃愛を救うため、虐待を行う母親らを殺害した。その後、法の死角を突き、無罪放免を勝ち取った……はずだった。十五年後、乃愛が何者かによって誘拐される。誘拐犯は真犯人が名乗り出なければ乃愛を殺すと宣言し、次々暴露を行う。晒される過去、揺らぐ信頼。最後に選ぶのは、友情か、裏切りか。\n",
-      "salesDate": "2026年08月26日",
-      "series": "",
-      "reviewAverage": 4,
-      "reviewCount": 1,
-      "genreId": "101902",
-      "isbn": "4340008067431",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "少年ABCの完璧な選択",
-        "author": "",
-        "score": 10,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 25
-          }
-        ],
-        "source": "combined",
-        "rank": 65,
-        "originalTitle": "少年ＡＢＣの完璧な選択"
-      },
-      "ranking": {
-        "title": "少年ＡＢＣの完璧な選択",
-        "author": "",
-        "isbn": "",
-        "score": 155,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 25
-          }
-        ],
-        "source": "combined",
-        "rank": 29
-      }
-    },
-    {
-      "id": "4972000164824",
-      "title": "こちら葛飾区亀有公園前派出所 202",
-      "author": "秋本治",
-      "publisher": "集英社",
-      "price": 693,
-      "url": "https://books.rakuten.co.jp/rk/edaa15beb9443134b8bee947f55faf04/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5941/2000021425941.jpg?_ex=600x600",
-      "caption": "連載開始50周年！　5年ぶりとなる待望の新刊!!　おなじみの派出所メンバーが活躍するエピソード6編に加え、戦後日本の高度成長期を支えた軍艦島が舞台の名作読切『希望の煙突』シリーズ2作品も収録!!\n",
-      "salesDate": "2026年09月04日",
-      "series": "こちら葛飾区亀有公園前派出所",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904001007",
-      "isbn": "4972000164824",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "こちら葛飾区亀有公園前派出所 202",
-        "author": "秋本 治",
-        "score": 10,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 25
-          }
-        ],
-        "source": "combined",
-        "rank": 66,
-        "originalTitle": "こちら葛飾区亀有公園前派出所 202 (ジャンプコミックス)"
-      },
-      "ranking": {
-        "title": "こちら葛飾区亀有公園前派出所 202 (ジャンプコミックス)",
-        "author": "秋本 治",
-        "isbn": "",
-        "score": 155,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 25
-          }
-        ],
-        "source": "combined",
-        "rank": 30
-      }
-    },
-    {
-      "id": "4681316085642",
-      "title": "永遠と１日　「たかじんさん」との出会い、別れ、そして今",
-      "author": "やしきさくら",
-      "publisher": "祥伝社",
-      "price": 1980,
-      "url": "https://books.rakuten.co.jp/rk/32931290897c3ca79ca6ec4d711d6841/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0065/2000021650065.jpg?_ex=600x600",
-      "caption": "話題のインフルエンサー「SAKURA.」こと、\nやしきたかじんの妻さくらが\n12 年の長い沈黙を破り渾身の力で明かす\n知られざる「たかじんさん」との日々、\nそして、あまりに痛ましく数奇な半生！！\n「母の呪縛、暴力、結婚と離婚、汚名、\n自殺未遂、それでも生きぬく理由まで、\nすべて包み隠さず書きました」\n＜目次＞\n序 章 愛情と異常\n第１章 出会いと戸惑い\n第２章 苦悩と希望\n第３章 いとしさとやるせなさ\n第４章 憎しみと哀れみ\n第５章 甘さと弱さ\n終 章 病めるときと健やかなるとき\nたかじんさんとの出会いから 15 年、そしてその死から 12 年ーー。\nこれは、決して心ときめくシンデレラストーリーでもなければ、\nハッピーエンドが待ち受けるラブストーリーでもない。\n自由奔放に生きてきたように見えて、実はガラスのように繊細で、\nときに気弱で、でも誰よりも他者への想いと愛情に満ちあふれていた、\nやしきたかじんという男との２年間の知られざる真実。\nそして、生まれ育っていくなかで失ってしまった「自分」を取り戻し、\nただ幸せになりたいと、ひたすらもがいてきた一人の女の\n45 年に及ぶ人生についての全告白であるーー「はじめに」より\n",
-      "salesDate": "2026年09月02日",
-      "series": "",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101913001/101907015004/101907005003/101901002/101914",
-      "isbn": "4681316085642",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "永遠と1日 - 「たかじんさん」との出会い、別れ、そして今",
-        "author": "",
-        "score": 6,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 26
-          }
-        ],
-        "source": "combined",
-        "rank": 67,
-        "originalTitle": "永遠と１日 - 「たかじんさん」との出会い、別れ、そして今"
-      },
-      "ranking": {
-        "title": "永遠と１日 - 「たかじんさん」との出会い、別れ、そして今",
-        "author": "",
-        "isbn": "",
-        "score": 155,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 25
-          }
-        ],
-        "source": "combined",
-        "rank": 31
-      }
-    },
-    {
-      "id": "4334772100320",
-      "title": "トスカーナのワイナリーに嫁いで学んだ　マンマのイタリア料理レシピ",
-      "author": "池田　華依",
-      "publisher": "KADOKAWA",
-      "price": 2035,
-      "url": "https://books.rakuten.co.jp/rk/781a6c6f4bb13214a9cef4b4c6951ff3/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9693/2000021549693.jpg?_ex=600x600",
-      "caption": "イタリア・トスカーナのワイナリーに嫁ぎ4人の子を育てる日本人主婦が、イタリア人の義母から受け継いだマンマのレシピを紹介。トスカーナの食文化、歩んできた道のり、ワインの選び方などのエッセイも満載。【序文】イタリア・トスカーナのワイナリーに嫁いだ私が、イタリア人義母から学んだ「家族のレシピ」をご紹介します。「食べることは、生きること」。温かな料理とともに、義母から学んだ「食の大切さ」を、この地に根差した「命の営み」を、私の愛するトスカーナの風を、日本の皆さんへの食卓へとお届けできたらと願いながら。　（池田華依）【レシピ構成】Parte１ パスタParte２　主菜とつけあわせParte３　スープとリゾットParte４ ワインに合う副菜Parte５　おやつほか全46レシピ収録【エッセイ＆コラム】・イタリア人の義母から学んだ食生活の大切さ・マンマの味になる５つの魔法・家族が好きなマンマの料理・料理に合わせたワインの選び方・私がワイナリーに嫁いでワイナリー女将＆4人の母になるまで・私から義母へのインタビュー　ほか\n",
-      "salesDate": "2026年09月01日",
-      "series": "トスカーナのワイナリーに嫁いで学んだ　マンマのイタリア料理レシピ",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101910010/101909",
-      "isbn": "4334772100320",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "トスカーナのワイナリーに嫁いで学んだ マンマのイタリア料理レシピ",
-        "author": "池田 華依",
-        "isbn": "",
-        "score": 154,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 26
-          }
-        ],
-        "source": "combined",
-        "rank": 68
-      },
-      "ranking": {
-        "title": "トスカーナのワイナリーに嫁いで学んだ マンマのイタリア料理レシピ",
-        "author": "池田 華依",
-        "isbn": "",
-        "score": 154,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 26
-          }
-        ],
-        "source": "combined",
-        "rank": 32
-      }
-    },
-    {
-      "id": "4320000865495",
-      "title": "ファイア・ドーム 上",
-      "author": "辻村深月",
-      "publisher": "小学館",
-      "price": 1881,
-      "url": "https://books.rakuten.co.jp/rk/22c26517c9353107819b56539afa6896/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1853/2000020771853.jpg?_ex=600x600",
-      "caption": "人はなぜ大きな事件に魅了されてしまうのか。\n噂は、軽薄な娯楽だ。\n25年前、平穏だったはずの地方都市は、百貨店受付嬢誘拐殺人事件の発生、その報道により揺り動かされ、「噂」という大量の炎が、加害者のみならず被害者にも降り注ぎ、燃えさかった。ようやく静けさを取り戻したかに見える町に燻り続ける因縁が、いま新たな事件を呼び起こすーー。\n「もう言われてるよ！　どうせ、親が殺したんだろうって！」ーー本文より\n",
-      "salesDate": "2026年06月05日",
-      "series": "ファイア・ドーム",
-      "reviewAverage": 4.56,
-      "reviewCount": 369,
-      "genreId": "101901/101902",
-      "isbn": "4320000865495",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ファイア・ドーム 〈上〉",
-        "author": "",
-        "score": 5,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 27
-          }
-        ],
-        "source": "combined",
-        "rank": 69,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "ファイア・ドーム 〈上〉",
-        "author": "",
-        "isbn": "",
-        "score": 153,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 27
-          }
-        ],
-        "source": "combined",
-        "rank": 33
       }
     },
     {
@@ -1891,21 +1609,241 @@
       "matchMeta": {
         "title": "これ、かなりマジです。時間・お金・心を整える365の言葉",
         "author": "いれぶん",
-        "score": 5,
+        "score": 26,
         "sources": [
           {
             "source": "amazon",
             "label": "Amazon",
-            "rank": 27
+            "rank": 21
           }
         ],
         "source": "combined",
-        "rank": 73,
+        "rank": 59,
         "originalTitle": ""
       },
       "ranking": {
         "title": "これ、かなりマジです。時間・お金・心を整える365の言葉",
         "author": "いれぶん",
+        "isbn": "",
+        "score": 159,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 21
+          }
+        ],
+        "source": "combined",
+        "rank": 28
+      }
+    },
+    {
+      "id": "6170520520001",
+      "title": "【大増量】週刊プレイボーイ創刊59周年記念デジタル写真集「NIPPONグラドル59人」",
+      "author": "週プレ創刊59周年グラビアガールズ59人/LUCKMAN/藤本和典",
+      "publisher": "集英社",
+      "price": 1650,
+      "url": "https://books.rakuten.co.jp/rk/ca8075c0866d339fbfe1634db605cf93/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6110/2000018876110.jpg?_ex=600x600",
+      "caption": "週プレ本誌グラビアの未公開カットで構成したデジタル写真集！10月は週プレの創刊月間。50周年から続いている50人グラビアシリーズ。今年は59周年なので、59人の現役トップグラドルが大集結！　びしょ濡れになって例年以上にカオスなグラビアに!?　整列していたはずが、撮影が進むにつれてカラダが絡み合い、各所から艶めかしい声があがる。プールや川で、密着し合う美女たち。年に1回の盛大なアニバーサリーグラビア。協力してくれた美女たちに感謝！　参加モデル（五十音順）／葵りんご,青山ひかる,蒼山みこと,赤城ありさ,浅沼 凛,阿澄音々,天木じゅん,天野麻菜,天羽結愛,絢月みけ,伊織いお,池田ゆうな,石井優希,石岡真衣,石垣果蓮,石橋てるみ,一ノ瀬のこ,五木ゆうり,宇佐美なお,音羽美奈,夏乃さやか,神川さあや,神山みれい,倉田アンナ,紅羽祐美,小日向ななせ,桜木美緒,佐野なぎさ,爽香,新海まき,鈴木ふみ奈,せのん,高月りな,竹川由華,ちとせよしの,塚越愛実,徳江かな,永瀬ひな,夏川いおり,夏未ゆうか,七瀬みるあ,成瀬かのん,西永彩奈,西本ヒカル,のののん,葉月あや,原つむぎ,まいてぃ,幕田みゆ,松本みいな,愛森ちえ,丸山りさ,三木優彩,美登りみ,水湊まり花,美波那緒,める,森くるみ,山田かな\n",
+      "salesDate": "2025年10月20日",
+      "series": "週プレ PHOTO BOOK",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101915",
+      "isbn": "6170520520001",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "週刊プレイボーイ (37号)",
+        "author": "",
+        "score": 18,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 23
+          }
+        ],
+        "source": "combined",
+        "rank": 63,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "週刊プレイボーイ (37号)",
+        "author": "",
+        "isbn": "",
+        "score": 157,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 23
+          }
+        ],
+        "source": "combined",
+        "rank": 29
+      }
+    },
+    {
+      "id": "4681316085642",
+      "title": "永遠と１日　「たかじんさん」との出会い、別れ、そして今",
+      "author": "やしきさくら",
+      "publisher": "祥伝社",
+      "price": 1980,
+      "url": "https://books.rakuten.co.jp/rk/32931290897c3ca79ca6ec4d711d6841/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0065/2000021650065.jpg?_ex=600x600",
+      "caption": "話題のインフルエンサー「SAKURA.」こと、\nやしきたかじんの妻さくらが\n12 年の長い沈黙を破り渾身の力で明かす\n知られざる「たかじんさん」との日々、\nそして、あまりに痛ましく数奇な半生！！\n「母の呪縛、暴力、結婚と離婚、汚名、\n自殺未遂、それでも生きぬく理由まで、\nすべて包み隠さず書きました」\n＜目次＞\n序 章 愛情と異常\n第１章 出会いと戸惑い\n第２章 苦悩と希望\n第３章 いとしさとやるせなさ\n第４章 憎しみと哀れみ\n第５章 甘さと弱さ\n終 章 病めるときと健やかなるとき\nたかじんさんとの出会いから 15 年、そしてその死から 12 年ーー。\nこれは、決して心ときめくシンデレラストーリーでもなければ、\nハッピーエンドが待ち受けるラブストーリーでもない。\n自由奔放に生きてきたように見えて、実はガラスのように繊細で、\nときに気弱で、でも誰よりも他者への想いと愛情に満ちあふれていた、\nやしきたかじんという男との２年間の知られざる真実。\nそして、生まれ育っていくなかで失ってしまった「自分」を取り戻し、\nただ幸せになりたいと、ひたすらもがいてきた一人の女の\n45 年に及ぶ人生についての全告白であるーー「はじめに」より\n",
+      "salesDate": "2026年09月02日",
+      "series": "",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101913001/101907015004/101907005003/101901002/101914",
+      "isbn": "4681316085642",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "永遠と1日 - 「たかじんさん」との出会い、別れ、そして今",
+        "author": "",
+        "score": 14,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 24
+          }
+        ],
+        "source": "combined",
+        "rank": 64,
+        "originalTitle": "永遠と１日 - 「たかじんさん」との出会い、別れ、そして今"
+      },
+      "ranking": {
+        "title": "永遠と１日 - 「たかじんさん」との出会い、別れ、そして今",
+        "author": "",
+        "isbn": "",
+        "score": 156,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 24
+          }
+        ],
+        "source": "combined",
+        "rank": 30
+      }
+    },
+    {
+      "id": "4972000164836",
+      "title": "ドラゴンクエスト ダイの大冒険 勇者アバンと獄炎の魔王 16",
+      "author": "三条陸/芝田優作",
+      "publisher": "集英社",
+      "price": 572,
+      "url": "https://books.rakuten.co.jp/rk/8b399ecaece13fbcb07cb6b69911c384/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5950/2000021425950.jpg?_ex=600x600",
+      "caption": "親友ロカの死に直面し、打ちひしがれるアバン。そこに現れたのは、ロカとレイラの娘・マァム!!　彼女はアバンに弟子入りを志願し…!?　再起の「マァム編」!!\n",
+      "salesDate": "2026年09月04日",
+      "series": "ドラゴンクエスト ダイの大冒険 勇者アバンと獄炎の魔王",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904001007",
+      "isbn": "4972000164836",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ドラゴンクエスト ダイの大冒険 勇者アバンと獄炎の魔王 16",
+        "author": "芝田 優作",
+        "score": 6,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 26
+          }
+        ],
+        "source": "combined",
+        "rank": 69,
+        "originalTitle": "ドラゴンクエスト ダイの大冒険 勇者アバンと獄炎の魔王 16 (ジャンプコミックス)"
+      },
+      "ranking": {
+        "title": "ドラゴンクエスト ダイの大冒険 勇者アバンと獄炎の魔王 16 (ジャンプコミックス)",
+        "author": "芝田 優作",
+        "isbn": "",
+        "score": 154,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 26
+          }
+        ],
+        "source": "combined",
+        "rank": 31
+      }
+    },
+    {
+      "id": "8910131398169",
+      "title": "知性大全　AI時代に不可欠な力",
+      "author": "樺沢紫苑",
+      "publisher": "サンクチュアリ出版",
+      "price": 2090,
+      "url": "https://books.rakuten.co.jp/rk/958a8a7aaea03afcae6521dd87078ba8/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8175/2000021368175.jpg?_ex=600x600",
+      "caption": "シリーズ110万部『アウトプット大全』著者・樺沢紫苑　最新刊！\nAI時代に命運をわける「知性」について、全網羅した初の本\n自ら問いを立て、考え、行動するために。\n習慣力、決断力、読解力、文章力、対話力、地頭力、思考力……\nすべての能力をアップデートせよ。\n◎CONTENTS\nCHAPTER1　「知性」とは何か？ーー知識を行動に変える　\n知性とは？\n知性と知能\n自分の頭で考える\n共創する\n知性サイクルを回す　　他\nCHAPTER2　「知る」ーーインプットの質と量を改善する\nアンテナを立てる\n好奇心を刺激する\n読解力を養う\nノイズを減らす\nSNSを育てる　　他\nCHAPTER3　「考える」ーー本質的な思考力を鍛える\n整理する\n立体的に考える\n問いを立てる\n壁打ちする\n仮説を立てる\nAIに残す\n自分で書く\nアイデアを出す 他\nCHAPTER4　「決断する」ーー意思決定でスピードを上げる\n決断して、行動する\n書いて整理する\n３つに絞る\n決断を減らす\nルール化する\nプランＢを用意する\n数値化する\n期限を決める　他\nCHAPTER5　「行動する」ーー最初の一歩で現実を変える\n特性を理解する\n言語化する\nTO DOリストを書く\nオリジナリティの注入\n徹底的に磨く\n編集する\n覚悟を決める　　他\nCHAPTER6　「フィードバックする」ーー修正力を高めて成長につなげる\n未来へ向けて準備する\nAIにフィードバックさせる\n最適解を導く\nAIに質問させる\n視座を変える\nポジティブ・フィードバックする\n反証する\n炎上を防ぐ　他\nCHAPTER7　「整える」ーー自分の心と体に向き合う\n心と身体を整える\nぐっすり眠る\n規則正しく眠る\nAIをカウンセラーにする\n脳を育てる\n運動する\n日記を書く\n悪口を手放す　　他\nCHAPTER8　AI時代にあえてすべきこと ーー人間本来の力を磨く\n（紙の本を）読む\n体験する\nリラックスする\nリアルに会う\n美意識を磨く\n料理する\n外に出る\nボーッとする　　他\n",
+      "salesDate": "2026年08月05日",
+      "series": "",
+      "reviewAverage": 4.5,
+      "reviewCount": 7,
+      "genreId": "101908008002/101905010",
+      "isbn": "8910131398169",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "知性大全 AI時代に不可欠な力",
+        "author": "",
+        "score": 5,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 27
+          }
+        ],
+        "source": "combined",
+        "rank": 70,
+        "originalTitle": "知性大全　ＡＩ時代に不可欠な力"
+      },
+      "ranking": {
+        "title": "知性大全 ＡＩ時代に不可欠な力",
+        "author": "",
+        "isbn": "",
+        "score": 153,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 27
+          }
+        ],
+        "source": "combined",
+        "rank": 32
+      }
+    },
+    {
+      "id": "4320000902406",
+      "title": "ブラック・ラグーン（１４）",
+      "author": "広江礼威",
+      "publisher": "小学館",
+      "price": 759,
+      "url": "https://books.rakuten.co.jp/rk/2f39c815e61f3acfa935bd4b473c62b0/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8265/2000021398265.jpg?_ex=600x600",
+      "caption": "ロアナプラで血風吹き荒れる抗争が始まる！\n悪徳の街ロアナプラは各国のマフィアたちが牛耳り、お互いの利益のため辛うじて均衡を保っていた。だが『ホテル・モスクワ』が関わったカリフォルニアでのメキシコ新興組織との抗争の火種が街に持ち込まれた事により事態は一変。メキシコ新興組織の先鋭部隊のグリスたちは、ロアナプラに乗り込みバラライカに宣戦布告を告げ、ロアナプラは一触即発の状況に陥る。ロックは事態の収拾に乗り出すが…\n",
+      "salesDate": "2026年08月19日",
+      "series": "ブラック・ラグーン",
+      "reviewAverage": 3.8,
+      "reviewCount": 5,
+      "genreId": "101904002040",
+      "isbn": "4320000902406",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ブラック・ラグーン (14)",
+        "author": "広江 礼威",
         "isbn": "",
         "score": 153,
         "sources": [
@@ -1916,42 +1854,43 @@
           }
         ],
         "source": "combined",
-        "rank": 34
-      }
-    },
-    {
-      "id": "4660629612104",
-      "title": "イン・ザ・メガチャーチ",
-      "author": "朝井リョウ",
-      "publisher": "日経BP",
-      "price": 2200,
-      "url": "https://books.rakuten.co.jp/rk/d3fd58a999d73fbaaf1de480b1d262ba/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3254/2000018463254.jpg?_ex=600x600",
-      "caption": "☆2026年本屋大賞受賞☆\n【第9回未来屋小説大賞】\n【第2回あの本、読みました？大賞】\n沈みゆく列島で、“界隈”は沸騰するーー。\nあるアイドルグループの運営に参画することになった、家族と離れて暮らす男。内向的で繊細な気質ゆえ積み重なる心労を癒やしたい大学生。仲間と楽しく舞台俳優を応援していたが、とある報道で状況が一変する女。ファンダム経済を仕掛ける側、のめり込む側、かつてのめり込んでいた側ーー世代も立場も異なる３つの視点から、人の心を動かす“物語”の功罪を炙り出す。\n「神がいないこの国で人を操るには、“物語”を使うのが一番いいんですよ」\n",
-      "salesDate": "2025年09月03日",
-      "series": "",
-      "reviewAverage": 4.29,
-      "reviewCount": 3373,
-      "genreId": "101901",
-      "isbn": "4660629612104",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "イン・ザ・メガチャーチ",
-        "author": "",
-        "score": 5,
+        "rank": 70,
+        "originalTitle": "ブラック・ラグーン (14) (サンデーGXコミックス)"
+      },
+      "ranking": {
+        "title": "ブラック・ラグーン (14) (サンデーGXコミックス)",
+        "author": "広江 礼威",
+        "isbn": "",
+        "score": 153,
         "sources": [
           {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 28
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 27
           }
         ],
         "source": "combined",
-        "rank": 70,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "イン・ザ・メガチャーチ",
+        "rank": 33
+      }
+    },
+    {
+      "id": "4320000865495",
+      "title": "ファイア・ドーム 上",
+      "author": "辻村深月",
+      "publisher": "小学館",
+      "price": 1881,
+      "url": "https://books.rakuten.co.jp/rk/22c26517c9353107819b56539afa6896/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1853/2000020771853.jpg?_ex=600x600",
+      "caption": "人はなぜ大きな事件に魅了されてしまうのか。\n噂は、軽薄な娯楽だ。\n25年前、平穏だったはずの地方都市は、百貨店受付嬢誘拐殺人事件の発生、その報道により揺り動かされ、「噂」という大量の炎が、加害者のみならず被害者にも降り注ぎ、燃えさかった。ようやく静けさを取り戻したかに見える町に燻り続ける因縁が、いま新たな事件を呼び起こすーー。\n「もう言われてるよ！　どうせ、親が殺したんだろうって！」ーー本文より\n",
+      "salesDate": "2026年06月05日",
+      "series": "ファイア・ドーム",
+      "reviewAverage": 4.56,
+      "reviewCount": 369,
+      "genreId": "101901/101902",
+      "isbn": "4320000865495",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ファイア・ドーム 〈上〉",
         "author": "",
         "isbn": "",
         "score": 152,
@@ -1960,6 +1899,68 @@
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
             "rank": 28
+          }
+        ],
+        "source": "combined",
+        "rank": 72
+      },
+      "ranking": {
+        "title": "ファイア・ドーム 〈上〉",
+        "author": "",
+        "isbn": "",
+        "score": 152,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 28
+          }
+        ],
+        "source": "combined",
+        "rank": 34
+      }
+    },
+    {
+      "id": "4340008067431",
+      "title": "少年ＡＢＣの完璧な選択",
+      "author": "結城真一郎",
+      "publisher": "新潮社",
+      "price": 2090,
+      "url": "https://books.rakuten.co.jp/rk/6865a432771936a69b72823fce0fc676/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2671/2000020982671.jpg?_ex=600x600",
+      "caption": "中二の夏。俺達は幼馴染の乃愛を救うため、虐待を行う母親らを殺害した。その後、法の死角を突き、無罪放免を勝ち取った……はずだった。十五年後、乃愛が何者かによって誘拐される。誘拐犯は真犯人が名乗り出なければ乃愛を殺すと宣言し、次々暴露を行う。晒される過去、揺らぐ信頼。最後に選ぶのは、友情か、裏切りか。\n",
+      "salesDate": "2026年08月26日",
+      "series": "",
+      "reviewAverage": 4,
+      "reviewCount": 1,
+      "genreId": "101902",
+      "isbn": "4340008067431",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "少年ABCの完璧な選択",
+        "author": "",
+        "score": 5,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 29
+          }
+        ],
+        "source": "combined",
+        "rank": 72,
+        "originalTitle": "少年ＡＢＣの完璧な選択"
+      },
+      "ranking": {
+        "title": "少年ＡＢＣの完璧な選択",
+        "author": "",
+        "isbn": "",
+        "score": 151,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 29
           }
         ],
         "source": "combined",
@@ -1990,11 +1991,11 @@
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 29
+            "rank": 30
           }
         ],
         "source": "combined",
-        "rank": 71,
+        "rank": 73,
         "originalTitle": "夏帆 - Ｔｈｅ　Ｔａｌｅ　ｏｆ　ＫＡＨＯ"
       },
       "ranking": {
@@ -2014,24 +2015,24 @@
       }
     },
     {
-      "id": "4660000291830",
-      "title": "日経エンタテインメント！ 2026年9月号増刊【表紙：EBiDAN】",
-      "author": "",
-      "publisher": "日経BP",
-      "price": 890,
-      "url": "https://books.rakuten.co.jp/rk/7856f03498f637aaa87be3d1a796a29a/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1564/2000021441564.jpg?_ex=600x600",
-      "caption": "※「日経エンタテインメント！ 2026年9月号増刊【表紙：EBiDAN】」は、特別表紙版となります。誌面内容は「日経エンタテインメント！ 2026年9月号」と同じです。\n※電子版には本誌紙版についている付録「全メンバー60人フォトカード」はつきません。予めご了承ください。\n※使用権の関係により、発売より3か月間限定で販売します。\n※電子版は「直筆サイン入り写真」のプレゼントには応募できません。予めご了承ください\n【表紙・特集】\n15th ANNIVERSARY EBiDANのすべて\n　　SPECIAL INTERVIEW　超特急／M!LK\n　　解説1　俳優活動\n　　SPECIAL INTERVIEW　Sakurashimeji／SUPER★DRAGON／ONE N’ ONLY\n　　解説2　バラエティ活動\n　　SPECIAL INTERVIEW　原因は自分にある。／BUDDiiS／ICEx／Lienel\n【巻頭インタビュー】\nSUPER EIGHT　充実男たちのホンネ、超話（スーパートーク）\n【インタビュー】\nSUPER BEAVER　かっこよさを追い続けた22年間 その先にあった東京ドーム\n特集　相次ぐ「10年超選手」「セカンドキャリア」のブレイク “続ける”という才能\n　　インタビュー　松本若菜\n　　インタビュー　杏里\n　　インタビュー　ドンデコルテ\n　　インタビュー　ORANGE RANGE\n特集　第2回 推し活グッズ大賞 拡大する“推し活”市場における注目の製品・サービスをセレクト\n特集　夏休みヒットカレンダー\n　　インタビュー　『キングダム 魂の決戦』 佐藤信介監督\n　　インタビュー　映画『ブルーロック』 高橋文哉\n　　インタビュー　『八神瑛子 ー上野中央署 組織犯罪対策課ー』 廣木隆一監督\n",
-      "salesDate": "2026年08月05日",
-      "series": "",
+      "id": "4334772100320",
+      "title": "トスカーナのワイナリーに嫁いで学んだ　マンマのイタリア料理レシピ",
+      "author": "池田　華依",
+      "publisher": "KADOKAWA",
+      "price": 2035,
+      "url": "https://books.rakuten.co.jp/rk/781a6c6f4bb13214a9cef4b4c6951ff3/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9693/2000021549693.jpg?_ex=600x600",
+      "caption": "イタリア・トスカーナのワイナリーに嫁ぎ4人の子を育てる日本人主婦が、イタリア人の義母から受け継いだマンマのレシピを紹介。トスカーナの食文化、歩んできた道のり、ワインの選び方などのエッセイも満載。【序文】イタリア・トスカーナのワイナリーに嫁いだ私が、イタリア人義母から学んだ「家族のレシピ」をご紹介します。「食べることは、生きること」。温かな料理とともに、義母から学んだ「食の大切さ」を、この地に根差した「命の営み」を、私の愛するトスカーナの風を、日本の皆さんへの食卓へとお届けできたらと願いながら。　（池田華依）【レシピ構成】Parte１ パスタParte２　主菜とつけあわせParte３　スープとリゾットParte４ ワインに合う副菜Parte５　おやつほか全46レシピ収録【エッセイ＆コラム】・イタリア人の義母から学んだ食生活の大切さ・マンマの味になる５つの魔法・家族が好きなマンマの料理・料理に合わせたワインの選び方・私がワイナリーに嫁いでワイナリー女将＆4人の母になるまで・私から義母へのインタビュー　ほか\n",
+      "salesDate": "2026年09月01日",
+      "series": "トスカーナのワイナリーに嫁いで学んだ　マンマのイタリア料理レシピ",
       "reviewAverage": 0,
       "reviewCount": 0,
-      "genreId": "101913003",
-      "isbn": "4660000291830",
+      "genreId": "101910010/101909",
+      "isbn": "4334772100320",
       "salesType": 0,
       "matchMeta": {
-        "title": "日経エンタテインメント! 2026年 9 月号増刊【表紙:EBiDAN】",
-        "author": "日経エンタテインメント!",
+        "title": "トスカーナのワイナリーに嫁いで学んだ マンマのイタリア料理レシピ",
+        "author": "池田 華依",
         "score": 5,
         "sources": [
           {
@@ -2042,11 +2043,11 @@
         ],
         "source": "combined",
         "rank": 75,
-        "originalTitle": "日経エンタテインメント! 2026年 9 月号増刊【表紙：EBiDAN】"
+        "originalTitle": ""
       },
       "ranking": {
-        "title": "日経エンタテインメント! 2026年 9 月号増刊【表紙：EBiDAN】",
-        "author": "日経エンタテインメント!",
+        "title": "トスカーナのワイナリーに嫁いで学んだ マンマのイタリア料理レシピ",
+        "author": "池田 華依",
         "isbn": "",
         "score": 151,
         "sources": [
@@ -2061,25 +2062,26 @@
       }
     },
     {
-      "id": "5430000025522",
-      "title": "FINEBOYS+plus OYASUMI vol.2",
-      "author": "",
-      "publisher": "日之出出版",
-      "price": 1800,
-      "url": "https://books.rakuten.co.jp/rk/abeaa61291983bc8acfdac3d70d6436b/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7298/2000021617298.jpg?_ex=600x600",
-      "caption": "カラーページを含むコンテンツの場合、カラー表示が可能な端末またはアプリでの閲覧を推奨します。\nこのデジタル雑誌には目次に記載されているコンテンツが含まれています。\nそれ以外のコンテンツは、本誌のコンテンツであっても含まれていませんのでご注意ださい。\nまた著作権等の問題でマスク処理されているページもありますので、ご了承ください。\nいい夢を、きみと、もっと。\n表紙・裏表紙：吉田仁人（M!LK）　明日につながる「おやすみ」 いい夢を、きみと、もっと。／RUI （STARGLOW）がナイトウェアでダンス／西山智樹（TAGRIGHT）とりらっくすたいむ／越山敬達、長野蒼大、 難波碧空、森本陸斗　明日の僕のためにすること／ほか\n目次\n吉田仁人がふにゃ〜っとあくびした。しあわせな彼の寝息。\n明日につながる「おやすみ」　いい夢を、きみと、もっと。\n西山智樹がスヤスヤ眠るその前に りらっくすたいむ\n夜更かししてでも観たい映画。\n越山敬達、長野蒼大、難波碧空、森本陸斗　明日の僕のためにすること\nRUIと素敵な夢をみるナイトウエアでダンス\n厚紙ページ\n裏表紙\n",
-      "salesDate": "2026年08月31日",
-      "series": "FINEBOYS+plus OYASUMI",
+      "id": "4972000164904",
+      "title": "ヒトナー 1",
+      "author": "屋宜知宏",
+      "publisher": "集英社",
+      "price": 572,
+      "url": "https://books.rakuten.co.jp/rk/0cf98a4bfb6b362790196bc3c4e99409/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5935/2000021425935.jpg?_ex=600x600",
+      "caption": "【デジタル版限定！「少年ジャンプ＋」掲載時のカラーページを完全収録!!】獣民（じゅうみん）が住む星で架空の存在とされる「ヒト」。頭部以外にほとんど体毛を持たない姿で奇妙がられているが一部のケモたちの中にはヒトを愛好する「ヒトナー」がいた。そんな架空の存在だったヒトが突然空から降りてきたことで獣民たちに動揺が走る。初めて見るヒトの謎の生態、そして男がやってきた目的とは一体…!?\n",
+      "salesDate": "2026年09月04日",
+      "series": "ヒトナー",
       "reviewAverage": 0,
       "reviewCount": 0,
-      "genreId": "101950090",
-      "isbn": "5430000025522",
+      "genreId": "101904001007",
+      "isbn": "4972000164904",
       "salesType": 0,
       "matchMeta": {
-        "title": "FINEBOYS+plus OYASUMI vol.2 [いい夢を、きみと、もっと。/吉田仁人] (HINODE MOOK 809)",
-        "author": "日之出出版",
-        "score": 5,
+        "title": "ヒトナー 1 (ジャンプコミックス)",
+        "author": "屋宜 知宏",
+        "isbn": "",
+        "score": 150,
         "sources": [
           {
             "source": "amazon",
@@ -2088,12 +2090,11 @@
           }
         ],
         "source": "combined",
-        "rank": 76,
-        "originalTitle": ""
+        "rank": 76
       },
       "ranking": {
-        "title": "FINEBOYS+plus OYASUMI vol.2 [いい夢を、きみと、もっと。/吉田仁人] (HINODE MOOK 809)",
-        "author": "日之出出版",
+        "title": "ヒトナー 1 (ジャンプコミックス)",
+        "author": "屋宜 知宏",
         "isbn": "",
         "score": 150,
         "sources": [
@@ -2204,7 +2205,7 @@
   ],
   "byGenre": {
     "fiction": [
-      "4340008067051",
+      "4916475490001",
       "4340008067611",
       "4820000903843",
       "4910000909001",
@@ -2212,27 +2213,19 @@
       "4331000700320",
       "4681316085642",
       "4320000865495",
-      "4660629612104",
       "4340008066911",
       "4480000838415"
     ],
-    "mystery": [
-      "4820000903843",
-      "4390000005636",
-      "4620000615075",
-      "4620000615076",
-      "4340008067431",
-      "4320000865495"
-    ],
+    "mystery": [],
     "sf": [],
     "business": [
       "8890090035208",
       "4561004100000",
       "4524815633410",
-      "4659733601001",
       "4410000009587",
-      "8910131398169",
-      "8926000912320"
+      "4659733601001",
+      "8926000912320",
+      "8910131398169"
     ],
     "humanities": [
       "4380000407898",
@@ -2257,8 +2250,8 @@
       "4334772100320"
     ],
     "travel": [
-      "9784059239659",
-      "5034533175473"
+      "5034533175473",
+      "9784059239659"
     ],
     "language": [
       "6681311679960"
@@ -2268,22 +2261,25 @@
       "4334772100320"
     ],
     "comic": [
+      "4972000166706",
       "4972000161524",
       "4972000164838",
+      "4972000164824",
+      "4972000164857",
       "4681308443742",
       "4972000161446",
+      "4972000164836",
       "4320000902406",
-      "4972000164857",
-      "4972000164824"
+      "4972000164904"
     ]
   },
   "genreStatus": {
     "fiction": {
-      "matched": 11,
+      "matched": 10,
       "complete": true
     },
     "mystery": {
-      "matched": 6,
+      "matched": 0,
       "complete": true
     },
     "sf": {
@@ -2339,7 +2335,7 @@
       "complete": true
     },
     "comic": {
-      "matched": 7,
+      "matched": 10,
       "complete": true
     }
   }

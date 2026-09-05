@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-09-04T21:20:23.744Z",
+  "updatedAt": "2026-09-05T05:13:56.426Z",
   "candidateCount": 41,
-  "baseMatched": 13,
+  "baseMatched": 11,
   "matched": 19,
-  "addedMatches": 6,
+  "addedMatches": 8,
   "unavailable": [],
   "snapshots": {
     "kinokuniya": {
@@ -17,7 +17,7 @@
       "attribution": "紀伊國屋書店調べ",
       "sourceUrl": "https://www.kinokuniya.co.jp/disp/CKnRankingPageCList.jsp?dispNo=107002001001&vTp=m",
       "periodLabel": "マンスリー",
-      "updatedAt": "2026-09-04",
+      "updatedAt": "2026-09-05",
       "live": true,
       "items": [
         {
@@ -51,12 +51,6 @@
           "rank": 16
         },
         {
-          "title": "楽園",
-          "author": "",
-          "isbn": "",
-          "rank": 17
-        },
-        {
           "title": "ファイア・ドーム 〈上〉",
           "author": "",
           "isbn": "",
@@ -72,22 +66,22 @@
           "title": "ファイア・ドーム 〈下〉",
           "author": "",
           "isbn": "",
-          "rank": 21
-        },
-        {
-          "title": "星のカービィ 夢幻の歯車 霧につつまれた大事件！？ 角川つばさ文庫",
-          "author": "",
-          "isbn": "",
-          "rank": 24
+          "rank": 22
         },
         {
           "title": "多類婚姻譚",
           "author": "",
           "isbn": "",
-          "rank": 26
+          "rank": 24
         },
         {
-          "title": "殺し屋の出世術",
+          "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
+          "author": "",
+          "isbn": "",
+          "rank": 27
+        },
+        {
+          "title": "星のカービィ 夢幻の歯車 霧につつまれた大事件！？ 角川つばさ文庫",
           "author": "",
           "isbn": "",
           "rank": 28
@@ -100,7 +94,7 @@
       "attribution": "トーハン調べ",
       "sourceUrl": "https://www.tohan.jp/bestsellers/2026_07_monthly/",
       "periodLabel": "月間",
-      "updatedAt": "2026-09-04",
+      "updatedAt": "2026-09-05",
       "live": true,
       "items": [
         {
@@ -114,6 +108,12 @@
           "author": "",
           "isbn": "",
           "rank": 5
+        },
+        {
+          "title": "目が",
+          "author": "",
+          "isbn": "",
+          "rank": 6
         },
         {
           "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
@@ -284,6 +284,54 @@
       }
     },
     {
+      "id": "4910000861567",
+      "title": "目が",
+      "author": "背筋",
+      "publisher": "ポプラ社",
+      "price": 715,
+      "url": "https://books.rakuten.co.jp/rk/94feea184ab338d395357932e93982f7/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9535/2000020689535.jpg?_ex=600x600",
+      "caption": "目が\n背筋（せすじ）\n『近畿地方のある場所について』(KADOKAWA)で2023年にデビュー。同作が『このホラーがすごい！ 2024年版』（宝島社）国内編第1位を獲得。近著に『穢れた聖地巡礼について』 (KADOKAWA)、『口に関するアンケート』（ポプラ社）など。\n",
+      "salesDate": "2026年06月25日",
+      "series": "目が",
+      "reviewAverage": 3.16,
+      "reviewCount": 114,
+      "genreId": "101901/101902",
+      "isbn": "4910000861567",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "目が",
+        "author": "",
+        "isbn": "",
+        "score": 174,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 6
+          }
+        ],
+        "source": "combined",
+        "rank": 13,
+        "originalTitle": "目が"
+      },
+      "ranking": {
+        "title": "目が",
+        "author": "",
+        "isbn": "",
+        "score": 174,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 6
+          }
+        ],
+        "source": "combined",
+        "rank": 4
+      }
+    },
+    {
       "id": "4820000903843",
       "title": "ハヤブサ消防団　森へつづく道",
       "author": "池井戸潤",
@@ -302,16 +350,16 @@
       "matchMeta": {
         "title": "ハヤブサ消防団 森へつづく道",
         "author": "",
-        "score": 82,
+        "score": 78,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 7
+            "rank": 8
           }
         ],
         "source": "combined",
-        "rank": 14,
+        "rank": 16,
         "originalTitle": "ハヤブサ消防団　森へつづく道"
       },
       "ranking": {
@@ -327,7 +375,7 @@
           }
         ],
         "source": "combined",
-        "rank": 4
+        "rank": 5
       }
     },
     {
@@ -347,7 +395,7 @@
       "isbn": "4524815633410",
       "salesType": 0,
       "matchMeta": {
-        "title": "ハーバード、スタンフォード、オックスフォード... 科学的に証明された すごい習慣大百科",
+        "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
         "author": "",
         "isbn": "",
         "score": 172,
@@ -359,8 +407,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17,
-        "originalTitle": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科"
+        "rank": 17
       },
       "ranking": {
         "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
@@ -375,7 +422,7 @@
           }
         ],
         "source": "combined",
-        "rank": 5
+        "rank": 6
       }
     },
     {
@@ -407,7 +454,8 @@
           }
         ],
         "source": "combined",
-        "rank": 19
+        "rank": 18,
+        "originalTitle": "ONE PIECE novel ZORO"
       },
       "ranking": {
         "title": "ONE PIECE novel ZORO",
@@ -422,7 +470,7 @@
           }
         ],
         "source": "combined",
-        "rank": 6
+        "rank": 7
       }
     },
     {
@@ -444,16 +492,16 @@
       "matchMeta": {
         "title": "夏帆 - The Tale of KAHO",
         "author": "",
-        "score": 74,
+        "score": 70,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 9
+            "rank": 10
           }
         ],
         "source": "combined",
-        "rank": 18,
+        "rank": 19,
         "originalTitle": "夏帆 - Ｔｈｅ　Ｔａｌｅ　ｏｆ　ＫＡＨＯ"
       },
       "ranking": {
@@ -469,7 +517,7 @@
           }
         ],
         "source": "combined",
-        "rank": 7
+        "rank": 8
       }
     },
     {
@@ -501,7 +549,8 @@
           }
         ],
         "source": "combined",
-        "rank": 23
+        "rank": 23,
+        "originalTitle": "FOR OVERSEAS"
       },
       "ranking": {
         "title": "FOR OVERSEAS",
@@ -516,7 +565,7 @@
           }
         ],
         "source": "combined",
-        "rank": 8
+        "rank": 9
       }
     },
     {
@@ -568,54 +617,6 @@
           }
         ],
         "source": "combined",
-        "rank": 9
-      }
-    },
-    {
-      "id": "4310000890409",
-      "title": "楽園",
-      "author": "夕木春央",
-      "publisher": "講談社",
-      "price": 1980,
-      "url": "https://books.rakuten.co.jp/rk/1a1c684dcee83b98b4d0187187c813d0/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1651/2000021221651.jpg?_ex=600x600",
-      "caption": "殺人犯にならなければ脱出できない。\n『方舟』『十戒』の著者が仕掛ける“禁忌の驚き”\n亡き両親から不動産を譲り受けた康之は、失踪した賃借人・海原の遺留品整理の際に、群馬の山奥の謎の物件の存在を知る。そこは、切り立った岩壁に囲まれた、「楽園」と呼ばれる奇妙な場所だった。恋人の沙織と一緒にそこを訪ね、探索をはじめた康之たちは、すぐに六人の“住人”に拿捕された。脱出のための条件はーー\n「誰か一人を殺さなければならない」\n『方舟』\n第19回オリコン上半期”本”ランキング　文庫ランキングTOP10 第1位\n週刊文春ミステリーベスト10　第1位　（「週刊文春」2022年12月8日号）国内部門\nMRC大賞2022　第1位\n『方舟』＋『十戒』の累計発行部数が100万部突破。\nーー夕木春央が描く、極限のクローズド・サークル。\n",
-      "salesDate": "2026年07月22日",
-      "series": "楽園",
-      "reviewAverage": 4.24,
-      "reviewCount": 319,
-      "genreId": "101902",
-      "isbn": "4310000890409",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "楽園",
-        "author": "",
-        "isbn": "",
-        "score": 163,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 17
-          }
-        ],
-        "source": "combined",
-        "rank": 28,
-        "originalTitle": "楽園"
-      },
-      "ranking": {
-        "title": "楽園",
-        "author": "",
-        "isbn": "",
-        "score": 163,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 17
-          }
-        ],
-        "source": "combined",
         "rank": 10
       }
     },
@@ -648,8 +649,7 @@
           }
         ],
         "source": "combined",
-        "rank": 30,
-        "originalTitle": "ファイア・ドーム 〈上〉"
+        "rank": 30
       },
       "ranking": {
         "title": "ファイア・ドーム 〈上〉",
@@ -686,17 +686,17 @@
       "matchMeta": {
         "title": "月がきれいな夜に、誰かに思い出してほしかった",
         "author": "",
-        "score": 34,
+        "isbn": "",
+        "score": 160,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 19
+            "rank": 20
           }
         ],
         "source": "combined",
-        "rank": 26,
-        "originalTitle": ""
+        "rank": 31
       },
       "ranking": {
         "title": "月がきれいな夜に、誰かに思い出してほしかった",
@@ -733,7 +733,7 @@
       "matchMeta": {
         "title": "ファイア・ドーム 下",
         "author": "辻村深月",
-        "score": 128,
+        "score": 124,
         "sources": [
           {
             "source": "tohan",
@@ -743,7 +743,7 @@
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 20
+            "rank": 21
           }
         ],
         "source": "combined",
@@ -754,63 +754,16 @@
         "title": "ファイア・ドーム 〈下〉",
         "author": "",
         "isbn": "",
-        "score": 159,
+        "score": 158,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 21
+            "rank": 22
           }
         ],
         "source": "combined",
         "rank": 13
-      }
-    },
-    {
-      "id": "4333818200320",
-      "title": "星のカービィ　夢幻の歯車 霧につつまれた大事件!?",
-      "author": "高瀬　美恵/苅野　タウ/ぽと",
-      "publisher": "KADOKAWA",
-      "price": 880,
-      "url": "https://books.rakuten.co.jp/rk/e6ed62cb60483d1f90bcb1b60dbd9572/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7930/2000021087930.jpg?_ex=600x600",
-      "caption": "ここはチョコレート・タウン。鉱山でとれるおいしいチョコレートと、カービィ、デデデ社長、メタナイトの飛行機レースが大人気！でも、とつぜん霧がたちこめてレースができなくなり、煙突もつまって街中ススだらけ。大弱りの住民の前に「ヘイ、ヘイ、ヘーイ！」と現れたのは、旅のすご腕煙突掃除屋さん・マルク！マルクのかつやくで、煙突は元通り。でも、霧とマルクの登場とともに、貴族の住む街で事件が起こり始め…？犯人の目的は？　そして霧の正体は？　カービィがナゾを追う!!いつものプププランドとはちがう、別の世界の物語!!【小学中級から　★★】\n",
-      "salesDate": "2026年08月05日",
-      "series": "星のカービィ",
-      "reviewAverage": 0,
-      "reviewCount": 1,
-      "genreId": "101916",
-      "isbn": "4333818200320",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "星のカービィ 夢幻の歯車 霧につつまれた大事件!? 角川つばさ文庫",
-        "author": "",
-        "score": 18,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 23
-          }
-        ],
-        "source": "combined",
-        "rank": 29,
-        "originalTitle": "星のカービィ　夢幻の歯車　霧につつまれた大事件！？ 角川つばさ文庫"
-      },
-      "ranking": {
-        "title": "星のカービィ 夢幻の歯車 霧につつまれた大事件！？ 角川つばさ文庫",
-        "author": "",
-        "isbn": "",
-        "score": 156,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 24
-          }
-        ],
-        "source": "combined",
-        "rank": 14
       }
     },
     {
@@ -832,7 +785,7 @@
       "matchMeta": {
         "title": "多類婚姻譚",
         "author": "凪良ゆう",
-        "score": 100,
+        "score": 108,
         "sources": [
           {
             "source": "tohan",
@@ -842,7 +795,7 @@
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 25
+            "rank": 23
           }
         ],
         "source": "combined",
@@ -853,7 +806,38 @@
         "title": "多類婚姻譚",
         "author": "",
         "isbn": "",
-        "score": 154,
+        "score": 156,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 24
+          }
+        ],
+        "source": "combined",
+        "rank": 14
+      }
+    },
+    {
+      "id": "4390000014247",
+      "title": "戦争犯罪と闘う　国際刑事裁判所は屈しない",
+      "author": "赤根智子",
+      "publisher": "文藝春秋",
+      "price": 1000,
+      "url": "https://books.rakuten.co.jp/rk/ed83c0d4161a37adb64937f2dc843815/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5761/2000017995761.jpg?_ex=600x600",
+      "caption": "二つの戦争、そして戦後国際秩序の行方は\nロシアによるウクライナ侵攻とイスラエルによるパレスチナへの非人道的な攻撃。目まぐるしく国際情勢が変化するなか、この二つの戦争に向き合い、プーチンとネタニヤフに逮捕状を出した国際刑事裁判所（ICC）。日本人として初めてそのトップに就任した著者は、ほどなくしてプーチンから逆指名手配を受けることにもなった。さらにはトランプ大統領の大統領令による経済制裁の脅威にさらされるなど、世界規模の戦争犯罪に向き合ってきた国際刑事裁判所はいま、存続の危機にある。\n第二次世界大戦後にホロコーストに向き合ったニュルンベルク裁判、日本の戦争責任を裁いた東京裁判。二つの軍事法廷裁判にルーツをもち、国際平和秩序を守ろうと奮闘してきた国際刑事裁判所とはいかなる機関か。二つの戦争という異例の事態にどう向き合ったのか。「世界の警察」アメリカが過去のものになりつつある戦後国際秩序の行方とはーー。\n「世界で起きていることが日本では起きないとは限らない」。「力による支配」がむき出しになりつつある今こそ「法の支配」による安全保障が必要だ。\n「ウクライナ戦争の勃発で完全に覚醒した」と語る赤根さんが、その奮闘を通じて未来への責任を語りかける。\n※本書電子書籍版は刊行後の国際情勢の変化を鑑み、２０２５年１０月に記述の一部を更新しました。\n",
+      "salesDate": "2025年06月20日",
+      "series": "",
+      "reviewAverage": 4.1,
+      "reviewCount": 22,
+      "genreId": "101907009/101907005003/101914",
+      "isbn": "4390000014247",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
+        "author": "",
+        "score": 6,
         "sources": [
           {
             "source": "kinokuniya",
@@ -862,29 +846,14 @@
           }
         ],
         "source": "combined",
-        "rank": 15
-      }
-    },
-    {
-      "id": "4310000894648",
-      "title": "殺し屋の出世術",
-      "author": "野宮有",
-      "publisher": "講談社",
-      "price": 2255,
-      "url": "https://books.rakuten.co.jp/rk/a71fc066f4be3e6cad949854e1502098/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0614/2000021290614.jpg?_ex=600x600",
-      "caption": "史上初の快挙！\n本屋大賞6位×江戸川乱歩賞\n『殺し屋の営業術』鳥肌モノの伏線回収ふたたび\n上司を操り、会社を掌握する\n禁断のテクニック教えます。\n〔ミッション〕\n敗者は死。\n命を賭けた出世レースを、営業術で勝利せよ。\n張り巡らされた二重三重のトリック。\nひっくり返すのはダークヒロイン2人！\n仕事で使えるテクニック満載！？\nどんでん返し営業論理ミステリー！！\n【あらすじ】\n凄腕営業マン鳥井が殺人請負会社〈極東コンサルティング〉に入社してから半年。\n個性的な殺し屋たちを束ねながら、順調に業績を重ねていた。\nだが突如、謎の男・鷹見に拉致され、 上部組織〈巣ヶ谷一家〉組長のもとへ連行される。\n告げられたのは、鳥井と鷹見で争う出世レースの開幕。\n勝者には〈極東コンサルティング〉 社長の座が、敗者には死が与えられる。\nもちろん、鳥井に拒否権はない。\n丸腰の営業マンは華麗なるトークを武器に、生き残ることができるのか！？\n情け容赦ない頭脳戦が始まる！\n",
-      "salesDate": "2026年07月28日",
-      "series": "殺し屋の出世術",
-      "reviewAverage": 4.5,
-      "reviewCount": 107,
-      "genreId": "101902",
-      "isbn": "4310000894648",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "殺し屋の出世術",
+        "rank": 31,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
         "author": "",
-        "score": 5,
+        "isbn": "",
+        "score": 153,
         "sources": [
           {
             "source": "kinokuniya",
@@ -893,11 +862,42 @@
           }
         ],
         "source": "combined",
-        "rank": 32,
-        "originalTitle": ""
+        "rank": 15
+      }
+    },
+    {
+      "id": "4333818200320",
+      "title": "星のカービィ　夢幻の歯車 霧につつまれた大事件!?",
+      "author": "高瀬　美恵/苅野　タウ/ぽと",
+      "publisher": "KADOKAWA",
+      "price": 880,
+      "url": "https://books.rakuten.co.jp/rk/e6ed62cb60483d1f90bcb1b60dbd9572/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7930/2000021087930.jpg?_ex=600x600",
+      "caption": "ここはチョコレート・タウン。鉱山でとれるおいしいチョコレートと、カービィ、デデデ社長、メタナイトの飛行機レースが大人気！でも、とつぜん霧がたちこめてレースができなくなり、煙突もつまって街中ススだらけ。大弱りの住民の前に「ヘイ、ヘイ、ヘーイ！」と現れたのは、旅のすご腕煙突掃除屋さん・マルク！マルクのかつやくで、煙突は元通り。でも、霧とマルクの登場とともに、貴族の住む街で事件が起こり始め…？犯人の目的は？　そして霧の正体は？　カービィがナゾを追う!!いつものプププランドとはちがう、別の世界の物語!!【小学中級から　★★】\n",
+      "salesDate": "2026年08月05日",
+      "series": "星のカービィ",
+      "reviewAverage": 0,
+      "reviewCount": 1,
+      "genreId": "101916",
+      "isbn": "4333818200320",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "星のカービィ 夢幻の歯車 霧につつまれた大事件！？ 角川つばさ文庫",
+        "author": "",
+        "isbn": "",
+        "score": 152,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 28
+          }
+        ],
+        "source": "combined",
+        "rank": 39
       },
       "ranking": {
-        "title": "殺し屋の出世術",
+        "title": "星のカービィ 夢幻の歯車 霧につつまれた大事件！？ 角川つばさ文庫",
         "author": "",
         "isbn": "",
         "score": 152,
@@ -960,53 +960,6 @@
       }
     },
     {
-      "id": "4390000015358",
-      "title": "青天",
-      "author": "若林正恭",
-      "publisher": "文藝春秋",
-      "price": 1900,
-      "url": "https://books.rakuten.co.jp/rk/a6fc1b8794af3eafb7f064fac9c68dfa/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0144/2000019330144.jpg?_ex=600x600",
-      "caption": "オードリー・若林正恭、初小説！\n人にぶつかっていないと、自分が生きているかどうかよくわからなくなるーー\n総大三高の「アリ」こと中村昴が所属するアメフト部は、万年２回戦どまり。相手校の練習を隠し撮りして迎えた高３の引退大会では、強豪・遼西学園に打ち破れた。引退後、みなが受験に向かうなか、勉強にも気持ちが入らず、不良になる覚悟もないまま宙ぶらりんの日々を過ごす。自分自身の不甲斐なさにもがき続けるなかで、アリは再びアメフトと向き合う決意を固める。\n青春の苦みと悦びに満ちた、著者渾身の初小説。\n",
-      "salesDate": "2026年02月20日",
-      "series": "",
-      "reviewAverage": 4.04,
-      "reviewCount": 547,
-      "genreId": "101901",
-      "isbn": "4390000015358",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "青天",
-        "author": "若林正恭",
-        "score": 78,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 15,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "青天",
-        "author": "若林正恭",
-        "score": 78,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 18,
-        "originalTitle": ""
-      }
-    },
-    {
       "id": "7225000866451",
       "title": "悩みの本──あなたが本気で生きている証",
       "author": "高橋佳子",
@@ -1049,6 +1002,53 @@
           }
         ],
         "source": "combined",
+        "rank": 18,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "4479234030000",
+      "title": "豊臣兄弟！　後編",
+      "author": "八津弘幸/ＮＨＫドラマ制作班",
+      "publisher": "NHK出版",
+      "price": 1540,
+      "url": "https://books.rakuten.co.jp/rk/03955594478a34569322faf481fd73c8/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0762/2000020710762.jpg?_ex=600x600",
+      "caption": "兄弟の絆で天下を狙え！　2026年大河ドラマ「豊臣兄弟！」完全ガイド第2弾！\n仲野太賀主演・2026年大河ドラマ「豊臣兄弟！」。\nドラマをもっと楽しむためのガイドブック「後編」が登場！\n時は戦国乱世。時の戦国大名・織田信長に仕官して大出世を目指す兄の誘いに巻き込まれた小一郎は、知恵と勇気、そして持ち前の「調整力」を生かしながら、目の前に立ちはだかるハードミッションを兄との絶妙なコンビネーションで次々とクリアしていく。やがて小一郎は兄とともに、万民が笑って暮らせる太平の世を作るという夢を抱き始めーー。\n弟・秀長の視点で戦国時代をダイナミックに描く、夢と希望の下克上サクセスストーリー！\n＊電子書籍版ではプレゼントページほか、一部収録していないコンテンツがございます。あらかじめご了承ください。\n全3冊でお届けするドラマ・ガイドの第２弾「後編」では、主演・仲野太賀×吉岡里帆の撮り下ろし対談をはじめ、豪華出演者インタビューや物語中盤までのあらすじを掲載。さらに、タイトルバック徹底分析やマンガで読む秀長の生涯、豊臣しつもん箱、作家・今村翔吾さんに聞く戦国の兄弟たち特集、「本能寺の変」のヒミツに迫る歴史解説企画など充実の内容。美麗グラビア満載でお届けする、家族みんなで読めるフルカラー・ドラマガイド！　\n",
+      "salesDate": "2026年05月29日",
+      "series": "ＮＨＫ大河ドラマ・ガイド",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101913002",
+      "isbn": "4479234030000",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "NHK大河ドラマ・ガイド 豊臣兄弟! 後編",
+        "author": "",
+        "score": 70,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 18,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "NHK大河ドラマ・ガイド 豊臣兄弟! 後編",
+        "author": "",
+        "score": 70,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
         "rank": 19,
         "originalTitle": ""
       }
@@ -1056,6 +1056,7 @@
   ],
   "byGenre": {
     "fiction": [
+      "4910000861567",
       "4820000903843",
       "4340008066911",
       "4660629612104",
@@ -1063,16 +1064,9 @@
       "4704763142740",
       "4320000865494",
       "4310000858457",
-      "4320000867368",
-      "4390000015358"
+      "4320000867368"
     ],
-    "mystery": [
-      "4820000903843",
-      "4310000890409",
-      "4320000865495",
-      "4320000865494",
-      "4310000894648"
-    ],
+    "mystery": [],
     "sf": [],
     "business": [
       "4524815633410",
@@ -1080,10 +1074,13 @@
     ],
     "humanities": [
       "4380000407898",
+      "4390000014247",
       "4320000867368",
       "7225000866451"
     ],
-    "nonfiction": [],
+    "nonfiction": [
+      "4390000014247"
+    ],
     "science": [
       "6681311679960"
     ],
@@ -1113,7 +1110,7 @@
       "complete": true
     },
     "mystery": {
-      "matched": 5,
+      "matched": 0,
       "complete": true
     },
     "sf": {
@@ -1125,11 +1122,11 @@
       "complete": true
     },
     "humanities": {
-      "matched": 3,
+      "matched": 4,
       "complete": true
     },
     "nonfiction": {
-      "matched": 0,
+      "matched": 1,
       "complete": true
     },
     "science": {

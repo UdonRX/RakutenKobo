@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "year",
-  "updatedAt": "2026-09-04T21:20:27.606Z",
+  "updatedAt": "2026-09-05T05:14:00.449Z",
   "candidateCount": 13,
-  "baseMatched": 8,
+  "baseMatched": 7,
   "matched": 9,
-  "addedMatches": 1,
+  "addedMatches": 2,
   "unavailable": [],
   "snapshots": {
     "tohan": {
@@ -17,7 +17,7 @@
       "attribution": "トーハン調べ",
       "sourceUrl": "https://www.tohan.jp/bestsellers/2026_firsthalf_total/",
       "periodLabel": "年次",
-      "updatedAt": "2026-09-04",
+      "updatedAt": "2026-09-05",
       "live": true,
       "items": [
         {
@@ -95,9 +95,10 @@
       "isbn": "4524815633410",
       "salesType": 0,
       "matchMeta": {
-        "title": "科学的に証明された すごい習慣大百科",
-        "author": "堀田秀吾",
-        "score": 106,
+        "title": "ハーバード、スタンフォード、オックスフォード... 科学的に証明された すごい習慣大百科",
+        "author": "",
+        "isbn": "",
+        "score": 179,
         "sources": [
           {
             "source": "tohan",
@@ -107,7 +108,7 @@
         ],
         "source": "combined",
         "rank": 1,
-        "originalTitle": ""
+        "originalTitle": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科"
       },
       "ranking": {
         "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
@@ -508,10 +509,7 @@
       "4660629612104",
       "4340008064751"
     ],
-    "mystery": [
-      "6681297998470",
-      "6681299179860"
-    ],
+    "mystery": [],
     "sf": [],
     "business": [
       "4524815633410"
@@ -541,7 +539,7 @@
       "complete": true
     },
     "mystery": {
-      "matched": 2,
+      "matched": 0,
       "complete": true
     },
     "sf": {

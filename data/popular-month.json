@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-09-05T15:51:46.997Z",
+  "updatedAt": "2026-09-05T21:00:50.188Z",
   "candidateCount": 41,
-  "baseMatched": 14,
+  "baseMatched": 15,
   "matched": 18,
-  "addedMatches": 4,
+  "addedMatches": 3,
   "unavailable": [],
   "snapshots": {
     "kinokuniya": {
@@ -43,6 +43,12 @@
           "author": "",
           "isbn": "",
           "rank": 16
+        },
+        {
+          "title": "楽園",
+          "author": "",
+          "isbn": "",
+          "rank": 18
         },
         {
           "title": "ファイア・ドーム 〈上〉",
@@ -114,12 +120,6 @@
           "author": "",
           "isbn": "",
           "rank": 8
-        },
-        {
-          "title": "ONE PIECE novel ZORO",
-          "author": "",
-          "isbn": "",
-          "rank": 9
         },
         {
           "title": "FOR OVERSEAS",
@@ -259,7 +259,8 @@
           }
         ],
         "source": "combined",
-        "rank": 11
+        "rank": 11,
+        "originalTitle": "口に関するアンケート"
       },
       "ranking": {
         "title": "口に関するアンケート",
@@ -372,54 +373,6 @@
       }
     },
     {
-      "id": "4970000700308",
-      "title": "ONE PIECE novel ZORO",
-      "author": "尾田栄一郎/江坂純/なかまる",
-      "publisher": "集英社",
-      "price": 924,
-      "url": "https://books.rakuten.co.jp/rk/e51e471b67b936b2a1d365b686e512c8/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3673/2000021103673.jpg?_ex=600x600",
-      "caption": "『ONE PIECE magazine』にて好評連載されたゾロの過去編ストーリー「ONE PIECE novel ZORO」を、書き下ろしエピソードを加えて書籍化！　麦わらの一味の一員であるロロノア・ゾロがシモツキ村を出て、ルフィと出会うまでの物語を描く。「世界一の剣豪になるーー」くいなとの約束を果たすべく、ゾロの長い旅が始まる!!\n",
-      "salesDate": "2026年07月03日",
-      "series": "ONE PIECE novel ZORO",
-      "reviewAverage": 4,
-      "reviewCount": 1,
-      "genreId": "101903090",
-      "isbn": "4970000700308",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ONE PIECE novel ZORO",
-        "author": "",
-        "isbn": "",
-        "score": 171,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 18,
-        "originalTitle": "ONE PIECE novel ZORO"
-      },
-      "ranking": {
-        "title": "ONE PIECE novel ZORO",
-        "author": "",
-        "isbn": "",
-        "score": 171,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 6
-      }
-    },
-    {
       "id": "4340008066911",
       "title": "夏帆ーThe Tale of KAHOー",
       "author": "村上春樹",
@@ -463,7 +416,7 @@
           }
         ],
         "source": "combined",
-        "rank": 7
+        "rank": 6
       }
     },
     {
@@ -511,7 +464,7 @@
           }
         ],
         "source": "combined",
-        "rank": 8
+        "rank": 7
       }
     },
     {
@@ -560,6 +513,53 @@
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
             "rank": 16
+          }
+        ],
+        "source": "combined",
+        "rank": 8
+      }
+    },
+    {
+      "id": "4310000890409",
+      "title": "楽園",
+      "author": "夕木春央",
+      "publisher": "講談社",
+      "price": 1980,
+      "url": "https://books.rakuten.co.jp/rk/1a1c684dcee83b98b4d0187187c813d0/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1651/2000021221651.jpg?_ex=600x600",
+      "caption": "殺人犯にならなければ脱出できない。\n『方舟』『十戒』の著者が仕掛ける“禁忌の驚き”\n亡き両親から不動産を譲り受けた康之は、失踪した賃借人・海原の遺留品整理の際に、群馬の山奥の謎の物件の存在を知る。そこは、切り立った岩壁に囲まれた、「楽園」と呼ばれる奇妙な場所だった。恋人の沙織と一緒にそこを訪ね、探索をはじめた康之たちは、すぐに六人の“住人”に拿捕された。脱出のための条件はーー\n「誰か一人を殺さなければならない」\n『方舟』\n第19回オリコン上半期”本”ランキング　文庫ランキングTOP10 第1位\n週刊文春ミステリーベスト10　第1位　（「週刊文春」2022年12月8日号）国内部門\nMRC大賞2022　第1位\n『方舟』＋『十戒』の累計発行部数が100万部突破。\nーー夕木春央が描く、極限のクローズド・サークル。\n",
+      "salesDate": "2026年07月22日",
+      "series": "楽園",
+      "reviewAverage": 4.24,
+      "reviewCount": 319,
+      "genreId": "101902",
+      "isbn": "4310000890409",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "楽園",
+        "author": "",
+        "score": 42,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 17
+          }
+        ],
+        "source": "combined",
+        "rank": 25,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "楽園",
+        "author": "",
+        "isbn": "",
+        "score": 162,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 18
           }
         ],
         "source": "combined",
@@ -1018,6 +1018,7 @@
     ],
     "mystery": [
       "4820000903843",
+      "4310000890409",
       "4320000865495",
       "4320000865494"
     ],
@@ -1064,7 +1065,7 @@
       "complete": true
     },
     "mystery": {
-      "matched": 3,
+      "matched": 4,
       "complete": true
     },
     "sf": {

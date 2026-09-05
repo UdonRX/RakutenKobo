@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-09-05T15:51:29.285Z",
+  "updatedAt": "2026-09-05T21:00:33.762Z",
   "candidateCount": 76,
-  "baseMatched": 30,
-  "matched": 40,
-  "addedMatches": 10,
+  "baseMatched": 35,
+  "matched": 39,
+  "addedMatches": 4,
   "unavailable": [
     "rakuten"
   ],
@@ -77,12 +77,6 @@
           "rank": 14
         },
         {
-          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 (幻冬舎新書 803)",
-          "author": "林真理子",
-          "isbn": "",
-          "rank": 19
-        },
-        {
           "title": "これ、かなりマジです。時間・お金・心を整える365の言葉",
           "author": "いれぶん",
           "isbn": "",
@@ -140,6 +134,12 @@
           "author": "伊坂幸太郎",
           "isbn": "",
           "rank": 3
+        },
+        {
+          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+          "author": "林真理子",
+          "isbn": "",
+          "rank": 4
         },
         {
           "title": "シャーロック・ホームズの凱旋",
@@ -272,16 +272,16 @@
           "rank": 2
         },
         {
+          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+          "author": "",
+          "isbn": "",
+          "rank": 3
+        },
+        {
           "title": "ハヤブサ消防団 森へつづく道",
           "author": "",
           "isbn": "",
           "rank": 4
-        },
-        {
-          "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
-          "author": "",
-          "isbn": "",
-          "rank": 9
         },
         {
           "title": "FOR OVERSEAS",
@@ -293,6 +293,63 @@
     }
   },
   "items": [
+    {
+      "id": "4380000407898",
+      "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+      "author": "林真理子",
+      "publisher": "幻冬舎",
+      "price": 982,
+      "url": "https://books.rakuten.co.jp/rk/1e28fc1db6b83578b06b0919e0a52cd7/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0908/2000020490908.jpg?_ex=600x600",
+      "caption": "70代は頭も体もまだ大丈夫。\nそれなりに蓄えもできている。\nでもこれまでと全く同じことをしていたらダメ。\nできないことは諦め、楽しいことを大事にし、人生の新しいステージに立とう。\n同じ年代とばかりつるまず、ダイエットはしない。\n嫌われずに自慢話をするテクニック、お金にキレイな人と思われるおごり方ーー。\n72歳の人気作家が本音で語る「健康」「おしゃれ」「仕事」「お金」「人間関係」「趣味」。\n確実に近づく「その日」を見つめ、今の1分1秒を楽しんで生きるための、痛快・人生論。\n",
+      "salesDate": "2026年05月27日",
+      "series": "",
+      "reviewAverage": 3.3,
+      "reviewCount": 41,
+      "genreId": "101907010004/101909",
+      "isbn": "4380000407898",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "author": "林真理子",
+        "score": 192,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 4
+          },
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 3
+          }
+        ],
+        "source": "combined",
+        "rank": 2,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "author": "林真理子",
+        "isbn": "",
+        "score": 353,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 4
+          },
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 3
+          }
+        ],
+        "source": "combined",
+        "rank": 1
+      }
+    },
     {
       "id": "8890090035208",
       "title": "働きながら1億貯めるAI株式投資の全手順",
@@ -347,7 +404,7 @@
           }
         ],
         "source": "combined",
-        "rank": 1
+        "rank": 2
       }
     },
     {
@@ -394,7 +451,7 @@
           }
         ],
         "source": "combined",
-        "rank": 2
+        "rank": 3
       }
     },
     {
@@ -441,7 +498,54 @@
           }
         ],
         "source": "combined",
-        "rank": 3
+        "rank": 4
+      }
+    },
+    {
+      "id": "4340008067051",
+      "title": "プレゼント（新潮文庫）",
+      "author": "伊坂幸太郎/江國香織/恩田陸/梨木香歩/町田そのこ/宮部みゆき/米澤穂信",
+      "publisher": "新潮社",
+      "price": 825,
+      "url": "https://books.rakuten.co.jp/rk/e8a60fd88eb63075a76e50e52cf98712/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8962/2000020598962.jpg?_ex=600x600",
+      "caption": "これはこれまで小説を愛してきてくれた人へ、そしてこれから小説の世界に一歩踏み出す人へ贈るプレゼント。何気なく読んだ物語が、ふと目にした一行が、意外な言葉ひとつが、人生を大きく変えるかもしれない。現代を代表する７人の作家が「夏」をテーマに書き下ろした、驚きと切なさ、怖さと美しさ、何よりとびきりの面白さを詰め込んだ奇跡の一冊。さぁ、あなたの人生に小説という選択肢を。\n",
+      "salesDate": "2026年06月24日",
+      "series": "",
+      "reviewAverage": 3.88,
+      "reviewCount": 280,
+      "genreId": "101901",
+      "isbn": "4340008067051",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "プレゼント",
+        "author": "伊坂幸太郎",
+        "score": 98,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 3
+          }
+        ],
+        "source": "combined",
+        "rank": 10,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "プレゼント",
+        "author": "伊坂幸太郎",
+        "isbn": "",
+        "score": 177,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 3
+          }
+        ],
+        "source": "combined",
+        "rank": 5
       }
     },
     {
@@ -488,55 +592,7 @@
           }
         ],
         "source": "combined",
-        "rank": 4
-      }
-    },
-    {
-      "id": "4340008067051",
-      "title": "プレゼント（新潮文庫）",
-      "author": "伊坂幸太郎/江國香織/恩田陸/梨木香歩/町田そのこ/宮部みゆき/米澤穂信",
-      "publisher": "新潮社",
-      "price": 825,
-      "url": "https://books.rakuten.co.jp/rk/e8a60fd88eb63075a76e50e52cf98712/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8962/2000020598962.jpg?_ex=600x600",
-      "caption": "これはこれまで小説を愛してきてくれた人へ、そしてこれから小説の世界に一歩踏み出す人へ贈るプレゼント。何気なく読んだ物語が、ふと目にした一行が、意外な言葉ひとつが、人生を大きく変えるかもしれない。現代を代表する７人の作家が「夏」をテーマに書き下ろした、驚きと切なさ、怖さと美しさ、何よりとびきりの面白さを詰め込んだ奇跡の一冊。さぁ、あなたの人生に小説という選択肢を。\n",
-      "salesDate": "2026年06月24日",
-      "series": "",
-      "reviewAverage": 3.88,
-      "reviewCount": 280,
-      "genreId": "101901",
-      "isbn": "4340008067051",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "プレゼント",
-        "author": "伊坂幸太郎",
-        "isbn": "",
-        "score": 177,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 3
-          }
-        ],
-        "source": "combined",
-        "rank": 12,
-        "originalTitle": "プレゼント"
-      },
-      "ranking": {
-        "title": "プレゼント",
-        "author": "伊坂幸太郎",
-        "isbn": "",
-        "score": 177,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 3
-          }
-        ],
-        "source": "combined",
-        "rank": 5
+        "rank": 6
       }
     },
     {
@@ -583,7 +639,7 @@
           }
         ],
         "source": "combined",
-        "rank": 6
+        "rank": 7
       }
     },
     {
@@ -615,8 +671,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16,
-        "originalTitle": "ハヤブサ消防団 森へつづく道"
+        "rank": 16
       },
       "ranking": {
         "title": "ハヤブサ消防団 森へつづく道",
@@ -631,101 +686,7 @@
           }
         ],
         "source": "combined",
-        "rank": 7
-      }
-    },
-    {
-      "id": "4910000909001",
-      "title": "シャーロック・ホームズの凱旋",
-      "author": "森見登美彦",
-      "publisher": "中央公論新社",
-      "price": 1210,
-      "url": "https://books.rakuten.co.jp/rk/8782db66778c3698bdfbb4e8ea454fae/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4690/2000021504690.jpg?_ex=600x600",
-      "caption": "「天から与えられた才能はどこへ消えた？」\n舞台はヴィクトリア朝京都。\n洛中洛外に名を轟かせた名探偵ホームズが……\nまさかの大スランプ！？\n【文庫限定音声特典】「登美彦氏、ヴィクトリア朝京都を語る」（QRコードを収録）\n-----\nこの手記は脱出不可能の迷宮と化した舞台裏からの報告書である。\nいつの間にか迷いこんだその舞台裏において、私たちはかつて経験したことのない「非探偵小説的な冒険」を強いられることになったわけだが、世の人々がその冒険について知ることはなかった。スランプに陥ってからというもの、シャーロック・ホームズは世間的には死んだも同然であり、それはこの私、ジョン・Ｈ・ワトソンにしても同様だったからである。\nシャーロック・ホームズの沈黙は、ジョン・Ｈ・ワトソンの沈黙でもあった。\n-----（本文より）\n謎が謎を呼ぶ痛快無比な森見劇場、ついに開幕！\n目次\nプロローグ\n第一章　ジェイムズ・モリアーティの彷徨\n第二章　アイリーン・アドラーの挑戦\n第三章　レイチェル・マスグレーヴの失踪\n第四章　メアリ・モースタンの決意\n第五章　シャーロック・ホームズの凱旋\nエピローグ\n",
-      "salesDate": "2026年08月21日",
-      "series": "シャーロック・ホームズの凱旋",
-      "reviewAverage": 3,
-      "reviewCount": 4,
-      "genreId": "101901006",
-      "isbn": "4910000909001",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "シャーロック・ホームズの凱旋",
-        "author": "森見登美彦",
-        "score": 90,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 5
-          }
-        ],
-        "source": "combined",
-        "rank": 16,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "シャーロック・ホームズの凱旋",
-        "author": "森見登美彦",
-        "isbn": "",
-        "score": 175,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 5
-          }
-        ],
-        "source": "combined",
         "rank": 8
-      }
-    },
-    {
-      "id": "4390000014247",
-      "title": "戦争犯罪と闘う　国際刑事裁判所は屈しない",
-      "author": "赤根智子",
-      "publisher": "文藝春秋",
-      "price": 1000,
-      "url": "https://books.rakuten.co.jp/rk/ed83c0d4161a37adb64937f2dc843815/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5761/2000017995761.jpg?_ex=600x600",
-      "caption": "二つの戦争、そして戦後国際秩序の行方は\nロシアによるウクライナ侵攻とイスラエルによるパレスチナへの非人道的な攻撃。目まぐるしく国際情勢が変化するなか、この二つの戦争に向き合い、プーチンとネタニヤフに逮捕状を出した国際刑事裁判所（ICC）。日本人として初めてそのトップに就任した著者は、ほどなくしてプーチンから逆指名手配を受けることにもなった。さらにはトランプ大統領の大統領令による経済制裁の脅威にさらされるなど、世界規模の戦争犯罪に向き合ってきた国際刑事裁判所はいま、存続の危機にある。\n第二次世界大戦後にホロコーストに向き合ったニュルンベルク裁判、日本の戦争責任を裁いた東京裁判。二つの軍事法廷裁判にルーツをもち、国際平和秩序を守ろうと奮闘してきた国際刑事裁判所とはいかなる機関か。二つの戦争という異例の事態にどう向き合ったのか。「世界の警察」アメリカが過去のものになりつつある戦後国際秩序の行方とはーー。\n「世界で起きていることが日本では起きないとは限らない」。「力による支配」がむき出しになりつつある今こそ「法の支配」による安全保障が必要だ。\n「ウクライナ戦争の勃発で完全に覚醒した」と語る赤根さんが、その奮闘を通じて未来への責任を語りかける。\n※本書電子書籍版は刊行後の国際情勢の変化を鑑み、２０２５年１０月に記述の一部を更新しました。\n",
-      "salesDate": "2025年06月20日",
-      "series": "",
-      "reviewAverage": 4.1,
-      "reviewCount": 22,
-      "genreId": "101907009/101907005003/101914",
-      "isbn": "4390000014247",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
-        "author": "",
-        "score": 90,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 5
-          }
-        ],
-        "source": "combined",
-        "rank": 18,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
-        "author": "",
-        "isbn": "",
-        "score": 175,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 5
-          }
-        ],
-        "source": "combined",
-        "rank": 9
       }
     },
     {
@@ -772,7 +733,101 @@
           }
         ],
         "source": "combined",
+        "rank": 9
+      }
+    },
+    {
+      "id": "4910000909001",
+      "title": "シャーロック・ホームズの凱旋",
+      "author": "森見登美彦",
+      "publisher": "中央公論新社",
+      "price": 1210,
+      "url": "https://books.rakuten.co.jp/rk/8782db66778c3698bdfbb4e8ea454fae/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4690/2000021504690.jpg?_ex=600x600",
+      "caption": "「天から与えられた才能はどこへ消えた？」\n舞台はヴィクトリア朝京都。\n洛中洛外に名を轟かせた名探偵ホームズが……\nまさかの大スランプ！？\n【文庫限定音声特典】「登美彦氏、ヴィクトリア朝京都を語る」（QRコードを収録）\n-----\nこの手記は脱出不可能の迷宮と化した舞台裏からの報告書である。\nいつの間にか迷いこんだその舞台裏において、私たちはかつて経験したことのない「非探偵小説的な冒険」を強いられることになったわけだが、世の人々がその冒険について知ることはなかった。スランプに陥ってからというもの、シャーロック・ホームズは世間的には死んだも同然であり、それはこの私、ジョン・Ｈ・ワトソンにしても同様だったからである。\nシャーロック・ホームズの沈黙は、ジョン・Ｈ・ワトソンの沈黙でもあった。\n-----（本文より）\n謎が謎を呼ぶ痛快無比な森見劇場、ついに開幕！\n目次\nプロローグ\n第一章　ジェイムズ・モリアーティの彷徨\n第二章　アイリーン・アドラーの挑戦\n第三章　レイチェル・マスグレーヴの失踪\n第四章　メアリ・モースタンの決意\n第五章　シャーロック・ホームズの凱旋\nエピローグ\n",
+      "salesDate": "2026年08月21日",
+      "series": "シャーロック・ホームズの凱旋",
+      "reviewAverage": 3,
+      "reviewCount": 4,
+      "genreId": "101901006",
+      "isbn": "4910000909001",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "シャーロック・ホームズの凱旋",
+        "author": "森見登美彦",
+        "score": 90,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
+        "rank": 16,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "シャーロック・ホームズの凱旋",
+        "author": "森見登美彦",
+        "isbn": "",
+        "score": 175,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
         "rank": 10
+      }
+    },
+    {
+      "id": "4390000014247",
+      "title": "戦争犯罪と闘う　国際刑事裁判所は屈しない",
+      "author": "赤根智子",
+      "publisher": "文藝春秋",
+      "price": 1000,
+      "url": "https://books.rakuten.co.jp/rk/ed83c0d4161a37adb64937f2dc843815/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5761/2000017995761.jpg?_ex=600x600",
+      "caption": "二つの戦争、そして戦後国際秩序の行方は\nロシアによるウクライナ侵攻とイスラエルによるパレスチナへの非人道的な攻撃。目まぐるしく国際情勢が変化するなか、この二つの戦争に向き合い、プーチンとネタニヤフに逮捕状を出した国際刑事裁判所（ICC）。日本人として初めてそのトップに就任した著者は、ほどなくしてプーチンから逆指名手配を受けることにもなった。さらにはトランプ大統領の大統領令による経済制裁の脅威にさらされるなど、世界規模の戦争犯罪に向き合ってきた国際刑事裁判所はいま、存続の危機にある。\n第二次世界大戦後にホロコーストに向き合ったニュルンベルク裁判、日本の戦争責任を裁いた東京裁判。二つの軍事法廷裁判にルーツをもち、国際平和秩序を守ろうと奮闘してきた国際刑事裁判所とはいかなる機関か。二つの戦争という異例の事態にどう向き合ったのか。「世界の警察」アメリカが過去のものになりつつある戦後国際秩序の行方とはーー。\n「世界で起きていることが日本では起きないとは限らない」。「力による支配」がむき出しになりつつある今こそ「法の支配」による安全保障が必要だ。\n「ウクライナ戦争の勃発で完全に覚醒した」と語る赤根さんが、その奮闘を通じて未来への責任を語りかける。\n※本書電子書籍版は刊行後の国際情勢の変化を鑑み、２０２５年１０月に記述の一部を更新しました。\n",
+      "salesDate": "2025年06月20日",
+      "series": "",
+      "reviewAverage": 4.1,
+      "reviewCount": 22,
+      "genreId": "101907009/101907005003/101914",
+      "isbn": "4390000014247",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
+        "author": "",
+        "score": 90,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
+        "rank": 18,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
+        "author": "",
+        "isbn": "",
+        "score": 175,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
+        "rank": 11
       }
     },
     {
@@ -819,7 +874,7 @@
           }
         ],
         "source": "combined",
-        "rank": 11
+        "rank": 12
       }
     },
     {
@@ -841,7 +896,8 @@
       "matchMeta": {
         "title": "容疑者Xの献身",
         "author": "東野圭吾",
-        "score": 82,
+        "isbn": "",
+        "score": 173,
         "sources": [
           {
             "source": "maruzen",
@@ -850,8 +906,7 @@
           }
         ],
         "source": "combined",
-        "rank": 24,
-        "originalTitle": ""
+        "rank": 25
       },
       "ranking": {
         "title": "容疑者Xの献身",
@@ -863,53 +918,6 @@
             "source": "maruzen",
             "label": "丸善ジュンク堂",
             "rank": 7
-          }
-        ],
-        "source": "combined",
-        "rank": 12
-      }
-    },
-    {
-      "id": "4972000164857",
-      "title": "カグラバチ 12",
-      "author": "外薗健",
-      "publisher": "集英社",
-      "price": 572,
-      "url": "https://books.rakuten.co.jp/rk/1250fd0ab348309997f2c69cd909d68c/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5975/2000021425975.jpg?_ex=600x600",
-      "caption": "幽の体を乗っ取った剣聖と対峙するチヒロ！　悪人を皆殺しにするという自分の信念を告げる剣聖に対し、チヒロは座村と2人がかりで挑むも実力差は歴然、座村は致命傷を負ってしまう…。そんな中、チヒロの攻撃が徐々に剣聖を捉え始めーー!?\n",
-      "salesDate": "2026年09月04日",
-      "series": "カグラバチ",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904001007",
-      "isbn": "4972000164857",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "カグラバチ 12",
-        "author": "外薗 健",
-        "score": 78,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 31,
-        "originalTitle": "カグラバチ 12 (ジャンプコミックス)"
-      },
-      "ranking": {
-        "title": "カグラバチ 12 (ジャンプコミックス)",
-        "author": "外薗 健",
-        "isbn": "",
-        "score": 172,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 8
           }
         ],
         "source": "combined",
@@ -964,6 +972,100 @@
       }
     },
     {
+      "id": "4972000164857",
+      "title": "カグラバチ 12",
+      "author": "外薗健",
+      "publisher": "集英社",
+      "price": 572,
+      "url": "https://books.rakuten.co.jp/rk/1250fd0ab348309997f2c69cd909d68c/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5975/2000021425975.jpg?_ex=600x600",
+      "caption": "幽の体を乗っ取った剣聖と対峙するチヒロ！　悪人を皆殺しにするという自分の信念を告げる剣聖に対し、チヒロは座村と2人がかりで挑むも実力差は歴然、座村は致命傷を負ってしまう…。そんな中、チヒロの攻撃が徐々に剣聖を捉え始めーー!?\n",
+      "salesDate": "2026年09月04日",
+      "series": "カグラバチ",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904001007",
+      "isbn": "4972000164857",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "カグラバチ 12",
+        "author": "外薗 健",
+        "score": 78,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 31,
+        "originalTitle": "カグラバチ 12 (ジャンプコミックス)"
+      },
+      "ranking": {
+        "title": "カグラバチ 12 (ジャンプコミックス)",
+        "author": "外薗 健",
+        "isbn": "",
+        "score": 172,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 15
+      }
+    },
+    {
+      "id": "4620000615075",
+      "title": "ブラッディダイスの殺人　上",
+      "author": "Ｍ Ｗ クレイヴン",
+      "publisher": "早川書房",
+      "price": 1210,
+      "url": "https://books.rakuten.co.jp/rk/91ea3c43631d345d8bb867055aba005f/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9728/2000021429728.jpg?_ex=600x600",
+      "caption": "ポーとティリーが再びタッグを組む！　シリーズ累計30万部の最新作！\n英国全土で連続狙撃事件が発生。犠牲者は17人にのぼるも犯人の手がかりはなく、ポーとティリーは国家犯罪対策庁に呼び戻されるが\n",
+      "salesDate": "2026年08月19日",
+      "series": "ワシントン・ポー",
+      "reviewAverage": 4.25,
+      "reviewCount": 8,
+      "genreId": "101902",
+      "isbn": "4620000615075",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ブラッディダイスの殺人 上",
+        "author": "M・W・クレイヴン",
+        "score": 74,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 32,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "ブラッディダイスの殺人 上",
+        "author": "M・W・クレイヴン",
+        "isbn": "",
+        "score": 171,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 16
+      }
+    },
+    {
       "id": "4331000700320",
       "title": "ギャルにひかれて寺マルシェ",
       "author": "宮島　未奈",
@@ -1003,100 +1105,6 @@
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 15
-      }
-    },
-    {
-      "id": "4620000615075",
-      "title": "ブラッディダイスの殺人　上",
-      "author": "Ｍ Ｗ クレイヴン",
-      "publisher": "早川書房",
-      "price": 1210,
-      "url": "https://books.rakuten.co.jp/rk/91ea3c43631d345d8bb867055aba005f/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9728/2000021429728.jpg?_ex=600x600",
-      "caption": "ポーとティリーが再びタッグを組む！　シリーズ累計30万部の最新作！\n英国全土で連続狙撃事件が発生。犠牲者は17人にのぼるも犯人の手がかりはなく、ポーとティリーは国家犯罪対策庁に呼び戻されるが\n",
-      "salesDate": "2026年08月19日",
-      "series": "ワシントン・ポー",
-      "reviewAverage": 4.25,
-      "reviewCount": 8,
-      "genreId": "101902",
-      "isbn": "4620000615075",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ブラッディダイスの殺人 上",
-        "author": "M・W・クレイヴン",
-        "isbn": "",
-        "score": 171,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 32
-      },
-      "ranking": {
-        "title": "ブラッディダイスの殺人 上",
-        "author": "M・W・クレイヴン",
-        "isbn": "",
-        "score": 171,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 16
-      }
-    },
-    {
-      "id": "4524815633410",
-      "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
-      "author": "堀田 秀吾",
-      "publisher": "SBクリエイティブ",
-      "price": 1760,
-      "url": "https://books.rakuten.co.jp/rk/79a1d43cefcb3337b3e2363c5f00a07e/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1658/2000018091658.jpg?_ex=600x600",
-      "caption": "勉強・ダイエット・貯金・目標達成…は習慣化が10割\n仕事、ダイエット、健康管理、勉強、目標達成…すべて成功のカギは「習慣化」にあります。\nしかし間違った習慣を身につけてしまったらその代償は大きくなってしまいます。\n何をどう習慣化すればいいか、そのために重要になるのが「エビデンス」です。\n・もし「A」をしたら「B」をすると、あらかじめ決めておく\n・選択肢は必ず「3つ」用意しておく\n・常にポジティブな言葉を使うーつらさに対する耐性が高まる\n・52分間作業して、17分休憩するー生産性が高まるetc.\n本書は、ハーバード、スタンフォード、オックスフォード…などの研究機関において証明されたテクニックを112個紹介。\n見開き図解入りでわかりやすい。気になったテクニックからはじめられ、情報収集のためにも役立ち、また読みものとしても楽しめる一冊です。\n※カバー画像が異なる場合があります。\n",
-      "salesDate": "2025年07月02日",
-      "series": "",
-      "reviewAverage": 3.7,
-      "reviewCount": 366,
-      "genreId": "101905090",
-      "isbn": "4524815633410",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
-        "author": "",
-        "isbn": "",
-        "score": 171,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 34
-      },
-      "ranking": {
-        "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
-        "author": "",
-        "isbn": "",
-        "score": 171,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
             "rank": 9
           }
         ],
@@ -1274,8 +1282,7 @@
           }
         ],
         "source": "combined",
-        "rank": 45,
-        "originalTitle": "FOR OVERSEAS"
+        "rank": 45
       },
       "ranking": {
         "title": "FOR OVERSEAS",
@@ -1482,53 +1489,6 @@
       }
     },
     {
-      "id": "4380000407898",
-      "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-      "author": "林真理子",
-      "publisher": "幻冬舎",
-      "price": 982,
-      "url": "https://books.rakuten.co.jp/rk/1e28fc1db6b83578b06b0919e0a52cd7/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0908/2000020490908.jpg?_ex=600x600",
-      "caption": "70代は頭も体もまだ大丈夫。\nそれなりに蓄えもできている。\nでもこれまでと全く同じことをしていたらダメ。\nできないことは諦め、楽しいことを大事にし、人生の新しいステージに立とう。\n同じ年代とばかりつるまず、ダイエットはしない。\n嫌われずに自慢話をするテクニック、お金にキレイな人と思われるおごり方ーー。\n72歳の人気作家が本音で語る「健康」「おしゃれ」「仕事」「お金」「人間関係」「趣味」。\n確実に近づく「その日」を見つめ、今の1分1秒を楽しんで生きるための、痛快・人生論。\n",
-      "salesDate": "2026年05月27日",
-      "series": "",
-      "reviewAverage": 3.3,
-      "reviewCount": 41,
-      "genreId": "101907010004/101909",
-      "isbn": "4380000407898",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-        "author": "林真理子",
-        "score": 34,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 19
-          }
-        ],
-        "source": "combined",
-        "rank": 55,
-        "originalTitle": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 (幻冬舎新書 803)"
-      },
-      "ranking": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 (幻冬舎新書 803)",
-        "author": "林真理子",
-        "isbn": "",
-        "score": 161,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 19
-          }
-        ],
-        "source": "combined",
-        "rank": 26
-      }
-    },
-    {
       "id": "9784059239659",
       "title": "地球の歩き方 スター・ウォーズ",
       "author": "",
@@ -1572,7 +1532,7 @@
           }
         ],
         "source": "combined",
-        "rank": 27
+        "rank": 26
       }
     },
     {
@@ -1619,7 +1579,7 @@
           }
         ],
         "source": "combined",
-        "rank": 28
+        "rank": 27
       }
     },
     {
@@ -1641,8 +1601,7 @@
       "matchMeta": {
         "title": "週刊プレイボーイ (37号)",
         "author": "",
-        "isbn": "",
-        "score": 157,
+        "score": 18,
         "sources": [
           {
             "source": "amazon",
@@ -1651,7 +1610,8 @@
           }
         ],
         "source": "combined",
-        "rank": 62
+        "rank": 63,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "週刊プレイボーイ (37号)",
@@ -1666,7 +1626,7 @@
           }
         ],
         "source": "combined",
-        "rank": 29
+        "rank": 28
       }
     },
     {
@@ -1713,7 +1673,7 @@
           }
         ],
         "source": "combined",
-        "rank": 30
+        "rank": 29
       }
     },
     {
@@ -1760,7 +1720,7 @@
           }
         ],
         "source": "combined",
-        "rank": 31
+        "rank": 30
       }
     },
     {
@@ -1807,7 +1767,7 @@
           }
         ],
         "source": "combined",
-        "rank": 32
+        "rank": 31
       }
     },
     {
@@ -1829,8 +1789,7 @@
       "matchMeta": {
         "title": "ブラック・ラグーン (14)",
         "author": "広江 礼威",
-        "isbn": "",
-        "score": 153,
+        "score": 5,
         "sources": [
           {
             "source": "amazon",
@@ -1839,7 +1798,7 @@
           }
         ],
         "source": "combined",
-        "rank": 70,
+        "rank": 74,
         "originalTitle": "ブラック・ラグーン (14) (サンデーGXコミックス)"
       },
       "ranking": {
@@ -1855,7 +1814,7 @@
           }
         ],
         "source": "combined",
-        "rank": 33
+        "rank": 32
       }
     },
     {
@@ -1902,7 +1861,7 @@
           }
         ],
         "source": "combined",
-        "rank": 34
+        "rank": 33
       }
     },
     {
@@ -1949,7 +1908,7 @@
           }
         ],
         "source": "combined",
-        "rank": 35
+        "rank": 34
       }
     },
     {
@@ -1996,7 +1955,7 @@
           }
         ],
         "source": "combined",
-        "rank": 36
+        "rank": 35
       }
     },
     {
@@ -2018,8 +1977,7 @@
       "matchMeta": {
         "title": "トスカーナのワイナリーに嫁いで学んだ マンマのイタリア料理レシピ",
         "author": "池田 華依",
-        "isbn": "",
-        "score": 151,
+        "score": 5,
         "sources": [
           {
             "source": "amazon",
@@ -2028,8 +1986,8 @@
           }
         ],
         "source": "combined",
-        "rank": 73,
-        "originalTitle": "トスカーナのワイナリーに嫁いで学んだ マンマのイタリア料理レシピ"
+        "rank": 75,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "トスカーナのワイナリーに嫁いで学んだ マンマのイタリア料理レシピ",
@@ -2044,7 +2002,7 @@
           }
         ],
         "source": "combined",
-        "rank": 37
+        "rank": 36
       }
     },
     {
@@ -2064,10 +2022,9 @@
       "isbn": "4972000164904",
       "salesType": 0,
       "matchMeta": {
-        "title": "ヒトナー 1 (ジャンプコミックス)",
+        "title": "ヒトナー 1",
         "author": "屋宜 知宏",
-        "isbn": "",
-        "score": 150,
+        "score": 5,
         "sources": [
           {
             "source": "amazon",
@@ -2076,7 +2033,8 @@
           }
         ],
         "source": "combined",
-        "rank": 76
+        "rank": 76,
+        "originalTitle": "ヒトナー 1 (ジャンプコミックス)"
       },
       "ranking": {
         "title": "ヒトナー 1 (ジャンプコミックス)",
@@ -2091,7 +2049,7 @@
           }
         ],
         "source": "combined",
-        "rank": 38
+        "rank": 37
       }
     },
     {
@@ -2137,7 +2095,7 @@
           }
         ],
         "source": "combined",
-        "rank": 39,
+        "rank": 38,
         "originalTitle": ""
       }
     },
@@ -2184,15 +2142,15 @@
           }
         ],
         "source": "combined",
-        "rank": 40,
+        "rank": 39,
         "originalTitle": ""
       }
     }
   ],
   "byGenre": {
     "fiction": [
-      "4340008067611",
       "4340008067051",
+      "4340008067611",
       "4820000903843",
       "4910000909001",
       "4390000005636",
@@ -2214,15 +2172,14 @@
     "business": [
       "8890090035208",
       "4561004100000",
-      "4524815633410",
       "4410000009587",
       "4659733601001",
       "8926000912320",
       "8910131398169"
     ],
     "humanities": [
-      "4390000014247",
       "4380000407898",
+      "4390000014247",
       "4681316085642"
     ],
     "nonfiction": [
@@ -2280,7 +2237,7 @@
       "complete": true
     },
     "business": {
-      "matched": 7,
+      "matched": 6,
       "complete": true
     },
     "humanities": {

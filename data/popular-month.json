@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-09-05T11:13:09.897Z",
+  "updatedAt": "2026-09-05T15:51:46.997Z",
   "candidateCount": 41,
-  "baseMatched": 12,
+  "baseMatched": 14,
   "matched": 18,
-  "addedMatches": 6,
+  "addedMatches": 4,
   "unavailable": [],
   "snapshots": {
     "kinokuniya": {
@@ -20,12 +20,6 @@
       "updatedAt": "2026-09-05",
       "live": true,
       "items": [
-        {
-          "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
-          "author": "",
-          "isbn": "",
-          "rank": 2
-        },
         {
           "title": "ハヤブサ消防団 森へつづく道",
           "author": "",
@@ -102,6 +96,12 @@
           "author": "",
           "isbn": "",
           "rank": 2
+        },
+        {
+          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+          "author": "",
+          "isbn": "",
+          "rank": 4
         },
         {
           "title": "口に関するアンケート",
@@ -200,30 +200,30 @@
       "isbn": "4380000407898",
       "salesType": 0,
       "matchMeta": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 幻冬舎新書",
-        "author": "",
-        "score": 102,
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "author": "林真理子",
+        "score": 94,
         "sources": [
           {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 2
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
           }
         ],
         "source": "combined",
-        "rank": 8,
-        "originalTitle": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書"
+        "rank": 10,
+        "originalTitle": ""
       },
       "ranking": {
-        "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
         "author": "",
         "isbn": "",
-        "score": 178,
+        "score": 176,
         "sources": [
           {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 2
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
           }
         ],
         "source": "combined",
@@ -259,8 +259,7 @@
           }
         ],
         "source": "combined",
-        "rank": 11,
-        "originalTitle": "口に関するアンケート"
+        "rank": 11
       },
       "ranking": {
         "title": "口に関するアンケート",
@@ -342,7 +341,7 @@
       "isbn": "4524815633410",
       "salesType": 0,
       "matchMeta": {
-        "title": "ハーバード、スタンフォード、オックスフォード... 科学的に証明された すごい習慣大百科",
+        "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
         "author": "",
         "isbn": "",
         "score": 172,
@@ -354,8 +353,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17,
-        "originalTitle": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科"
+        "rank": 17
       },
       "ranking": {
         "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
@@ -438,10 +436,9 @@
       "isbn": "4340008066911",
       "salesType": 0,
       "matchMeta": {
-        "title": "夏帆 - Ｔｈｅ Ｔａｌｅ ｏｆ ＫＡＨＯ",
+        "title": "夏帆 - The Tale of KAHO",
         "author": "",
-        "isbn": "",
-        "score": 170,
+        "score": 70,
         "sources": [
           {
             "source": "kinokuniya",
@@ -450,7 +447,8 @@
           }
         ],
         "source": "combined",
-        "rank": 19
+        "rank": 19,
+        "originalTitle": "夏帆 - Ｔｈｅ　Ｔａｌｅ　ｏｆ　ＫＡＨＯ"
       },
       "ranking": {
         "title": "夏帆 - Ｔｈｅ Ｔａｌｅ ｏｆ ＫＡＨＯ",
@@ -497,7 +495,8 @@
           }
         ],
         "source": "combined",
-        "rank": 23
+        "rank": 23,
+        "originalTitle": "FOR OVERSEAS"
       },
       "ranking": {
         "title": "FOR OVERSEAS",
@@ -834,19 +833,19 @@
       "isbn": "4333818200320",
       "salesType": 0,
       "matchMeta": {
-        "title": "星のカービィ 夢幻の歯車 霧につつまれた大事件！？ 角川つばさ文庫",
+        "title": "星のカービィ 夢幻の歯車 霧につつまれた大事件!? 角川つばさ文庫",
         "author": "",
-        "isbn": "",
-        "score": 152,
+        "score": 5,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 28
+            "rank": 27
           }
         ],
         "source": "combined",
-        "rank": 39
+        "rank": 32,
+        "originalTitle": "星のカービィ　夢幻の歯車　霧につつまれた大事件！？ 角川つばさ文庫"
       },
       "ranking": {
         "title": "星のカービィ 夢幻の歯車 霧につつまれた大事件！？ 角川つばさ文庫",

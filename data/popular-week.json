@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-09-06T16:05:32.867Z",
-  "candidateCount": 76,
-  "baseMatched": 24,
-  "matched": 33,
-  "addedMatches": 9,
+  "updatedAt": "2026-09-06T21:09:01.820Z",
+  "candidateCount": 86,
+  "baseMatched": 31,
+  "matched": 36,
+  "addedMatches": 5,
   "unavailable": [
     "rakuten"
   ],
@@ -53,18 +53,6 @@
           "rank": 7
         },
         {
-          "title": "カグラバチ 12 (ジャンプコミックス)",
-          "author": "外薗 健",
-          "isbn": "",
-          "rank": 8
-        },
-        {
-          "title": "女の園の星 ５ (フィールコミックス)",
-          "author": "和山やま",
-          "isbn": "",
-          "rank": 10
-        },
-        {
           "title": "VOCE (2026年11月号)",
           "author": "講談社",
           "isbn": "",
@@ -107,12 +95,6 @@
           "rank": 28
         },
         {
-          "title": "トスカーナのワイナリーに嫁いで学んだ マンマのイタリア料理レシピ",
-          "author": "池田 華依",
-          "isbn": "",
-          "rank": 29
-        },
-        {
           "title": "ヒトナー 1 (ジャンプコミックス)",
           "author": "屋宜 知宏",
           "isbn": "",
@@ -136,10 +118,22 @@
           "rank": 3
         },
         {
+          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+          "author": "林真理子",
+          "isbn": "",
+          "rank": 4
+        },
+        {
           "title": "シャーロック・ホームズの凱旋",
           "author": "森見登美彦",
           "isbn": "",
           "rank": 5
+        },
+        {
+          "title": "容疑者Xの献身",
+          "author": "東野圭吾",
+          "isbn": "",
+          "rank": 7
         },
         {
           "title": "ブラッディダイスの殺人 上",
@@ -165,12 +159,6 @@
       "live": true,
       "items": [
         {
-          "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
-          "author": "",
-          "isbn": "",
-          "rank": 2
-        },
-        {
           "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
           "author": "",
           "isbn": "",
@@ -181,12 +169,6 @@
           "author": "",
           "isbn": "",
           "rank": 8
-        },
-        {
-          "title": "るるぶ■■版 蓋ヶ瀬",
-          "author": "",
-          "isbn": "",
-          "rank": 22
         },
         {
           "title": "ＡＩネイティブカンパニー - 「ＡＩを入れた、でも使われない」という常識を書き換",
@@ -212,39 +194,177 @@
       "id": "tohan",
       "label": "トーハン",
       "attribution": "トーハン調べ",
-      "sourceUrl": "https://www.tohan.jp/bestsellers/2026_0825_weekly/",
+      "sourceUrl": "https://www.tohan.jp/bestsellers/2026_0804_weekly/",
       "periodLabel": "週間",
+      "updatedAt": "2026-08-04",
+      "live": false,
+      "items": [
+        {
+          "title": "つかめ!理科ダマン 12 最強ロボット決戦!編",
+          "author": "シン・テフン",
+          "isbn": "",
+          "rank": 1
+        },
+        {
+          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+          "author": "林真理子",
+          "isbn": "",
+          "rank": 3
+        },
+        {
+          "title": "地球の歩き方 スター・ウォーズ",
+          "author": "地球の歩き方編集室",
+          "isbn": "",
+          "rank": 5
+        },
+        {
+          "title": "けんぐゎい",
+          "author": "朝倉かすみ",
+          "isbn": "",
+          "rank": 10
+        }
+      ]
+    },
+    "rakuten": {
+      "id": "rakuten",
+      "label": "楽天ブックス",
+      "attribution": "楽天ブックス",
+      "sourceUrl": "https://books.rakuten.co.jp/",
+      "periodLabel": "売れ筋順",
       "updatedAt": "2026-09-06",
       "live": true,
       "items": [
         {
-          "title": "キングダム magazine 2026",
-          "author": "",
-          "isbn": "",
-          "rank": 2
-        },
-        {
-          "title": "ハヤブサ消防団 森へつづく道",
-          "author": "",
-          "isbn": "",
+          "title": "パンどろぼうとさすらいラーメン",
+          "author": "柴田　ケイコ",
           "rank": 4
         },
         {
-          "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
-          "author": "",
-          "isbn": "",
-          "rank": 9
+          "title": "波動の法則",
+          "author": "足立 育朗",
+          "rank": 7
         },
         {
-          "title": "FOR OVERSEAS",
-          "author": "",
-          "isbn": "",
-          "rank": 12
+          "title": "女の園の星（5）",
+          "author": "和山やま",
+          "rank": 8
+        },
+        {
+          "title": "お経に記された宝のありか　仏教レコード",
+          "author": "三木大雲",
+          "rank": 10
+        },
+        {
+          "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
+          "author": "堀田秀吾",
+          "rank": 11
+        },
+        {
+          "title": "働きながら1億貯めるAI株式投資の全手順",
+          "author": "上岡　正明",
+          "rank": 14
+        },
+        {
+          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+          "author": "林真理子",
+          "rank": 15
+        },
+        {
+          "title": "転生したらスライムだった件（33）",
+          "author": "川上 泰樹/伏瀬/みっつばー",
+          "rank": 16
+        },
+        {
+          "title": "小学生のためのドラえもん読解力をつけることば図鑑",
+          "author": "藤子・F・ 不二雄/中島 克治",
+          "rank": 17
+        },
+        {
+          "title": "カグラバチ 12",
+          "author": "外薗 健",
+          "rank": 20
+        },
+        {
+          "title": "俺たちの箱根駅伝　上",
+          "author": "池井戸 潤",
+          "rank": 27
+        },
+        {
+          "title": "はじめての　ディズニーキャラクターずかん100",
+          "author": "講談社",
+          "rank": 29
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "4380000407898",
+      "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+      "author": "林真理子",
+      "publisher": "幻冬舎",
+      "price": 982,
+      "url": "https://books.rakuten.co.jp/rk/1e28fc1db6b83578b06b0919e0a52cd7/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0908/2000020490908.jpg?_ex=600x600",
+      "caption": "70代は頭も体もまだ大丈夫。\nそれなりに蓄えもできている。\nでもこれまでと全く同じことをしていたらダメ。\nできないことは諦め、楽しいことを大事にし、人生の新しいステージに立とう。\n同じ年代とばかりつるまず、ダイエットはしない。\n嫌われずに自慢話をするテクニック、お金にキレイな人と思われるおごり方ーー。\n72歳の人気作家が本音で語る「健康」「おしゃれ」「仕事」「お金」「人間関係」「趣味」。\n確実に近づく「その日」を見つめ、今の1分1秒を楽しんで生きるための、痛快・人生論。\n",
+      "salesDate": "2026年05月27日",
+      "series": "",
+      "reviewAverage": 3.3,
+      "reviewCount": 41,
+      "genreId": "101907010004/101909",
+      "isbn": "4380000407898",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "author": "林真理子",
+        "score": 242,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 4
+          },
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 3
+          },
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 15
+          }
+        ],
+        "source": "combined",
+        "rank": 2,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "author": "林真理子",
+        "isbn": "",
+        "score": 518,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 4
+          },
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 3
+          },
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 15
+          }
+        ],
+        "source": "combined",
+        "rank": 1
+      }
+    },
     {
       "id": "8890090035208",
       "title": "働きながら1億貯めるAI株式投資の全手順",
@@ -263,29 +383,34 @@
       "salesType": 0,
       "matchMeta": {
         "title": "働きながら1億貯めるAI株式投資の全手順",
-        "author": "上岡正明",
-        "isbn": "",
-        "score": 306,
+        "author": "上岡　正明",
+        "score": 65,
         "sources": [
           {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 28
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 14
           },
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
             "rank": 26
+          },
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 28
           }
         ],
         "source": "combined",
-        "rank": 5
+        "rank": 3,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "働きながら1億貯めるAI株式投資の全手順",
         "author": "上岡正明",
         "isbn": "",
-        "score": 306,
+        "score": 472,
         "sources": [
           {
             "source": "amazon",
@@ -296,10 +421,62 @@
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
             "rank": 26
+          },
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 14
           }
         ],
         "source": "combined",
-        "rank": 1
+        "rank": 2
+      }
+    },
+    {
+      "id": "6681311679960",
+      "title": "つかめ！理科ダマン 12 最強ロボット決戦！編",
+      "author": "シン・テフン/ナ・スンフン/呉華順",
+      "publisher": "マガジンハウス",
+      "price": 1320,
+      "url": "https://books.rakuten.co.jp/rk/d5144a342674388cb89766522b26d5f0/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6738/2000021036738.jpg?_ex=600x600",
+      "caption": "■注目のシリーズ第12巻は、ロボット世界大会の決戦編！■\n恐竜ロボット大会の勝者を決める決戦がいよいよ始まる！\nシンとグゥのチームが戦うライバルチームに、弱点はあるのか!?\n優勝を目指すシンたちといっしょに\nプログラミングやA I、恐竜にまつわる19の疑問が楽しく学べます。\n★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★\n＼＼日韓でシリーズ累計400万部／／\n理科のテストで100点取れちゃう！！\n「笑いながら理科の知識が学べるところが大好きです」\n「子供が夢中になって読んでいます」\n「身近な“どうして？”をわかりやすく説明されていて、子供も大人も楽しめます」\n……とクチコミで話題沸騰!!\n★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★\nギャグ満載の超オモシロまんがで\n小学校の理科の知識がスイスイ身につく！！\nそして、科学と読書がどんどん好きになる！！\n《こんな疑問に答えます》\n◎アルゴリズムってなに？\n◎フローチャートってなに？\n◎コンピュータはどうやってプログラミング言語を理解している？\n◎座標ってなに？\n◎ロボットは人間より賢くなれる？\n◎コンピュータに虫がいる？　\n◎翼竜は恐竜か？　……etc.\n",
+      "salesDate": "2026年07月16日",
+      "series": "つかめ！理科ダマン",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101908004/101906006/101906001009",
+      "isbn": "6681311679960",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "つかめ!理科ダマン 12 最強ロボット決戦!編",
+        "author": "シン・テフン",
+        "score": 106,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 1
+          }
+        ],
+        "source": "combined",
+        "rank": 4,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "つかめ!理科ダマン 12 最強ロボット決戦!編",
+        "author": "シン・テフン",
+        "isbn": "",
+        "score": 179,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 1
+          }
+        ],
+        "source": "combined",
+        "rank": 3
       }
     },
     {
@@ -321,8 +498,7 @@
       "matchMeta": {
         "title": "最強ジャンプ (10月号)",
         "author": "",
-        "isbn": "",
-        "score": 179,
+        "score": 106,
         "sources": [
           {
             "source": "amazon",
@@ -331,7 +507,8 @@
           }
         ],
         "source": "combined",
-        "rank": 6
+        "rank": 6,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "最強ジャンプ (10月号)",
@@ -346,119 +523,24 @@
           }
         ],
         "source": "combined",
-        "rank": 2
-      }
-    },
-    {
-      "id": "4380000407898",
-      "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-      "author": "林真理子",
-      "publisher": "幻冬舎",
-      "price": 982,
-      "url": "https://books.rakuten.co.jp/rk/1e28fc1db6b83578b06b0919e0a52cd7/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0908/2000020490908.jpg?_ex=600x600",
-      "caption": "70代は頭も体もまだ大丈夫。\nそれなりに蓄えもできている。\nでもこれまでと全く同じことをしていたらダメ。\nできないことは諦め、楽しいことを大事にし、人生の新しいステージに立とう。\n同じ年代とばかりつるまず、ダイエットはしない。\n嫌われずに自慢話をするテクニック、お金にキレイな人と思われるおごり方ーー。\n72歳の人気作家が本音で語る「健康」「おしゃれ」「仕事」「お金」「人間関係」「趣味」。\n確実に近づく「その日」を見つめ、今の1分1秒を楽しんで生きるための、痛快・人生論。\n",
-      "salesDate": "2026年05月27日",
-      "series": "",
-      "reviewAverage": 3.3,
-      "reviewCount": 41,
-      "genreId": "101907010004/101909",
-      "isbn": "4380000407898",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 幻冬舎新書",
-        "author": "",
-        "score": 102,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 2
-          }
-        ],
-        "source": "combined",
-        "rank": 8,
-        "originalTitle": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書"
-      },
-      "ranking": {
-        "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
-        "author": "",
-        "isbn": "",
-        "score": 178,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 2
-          }
-        ],
-        "source": "combined",
-        "rank": 3
-      }
-    },
-    {
-      "id": "4972000161524",
-      "title": "キングダム magazine 2026",
-      "author": "原泰久",
-      "publisher": "集英社",
-      "price": 1881,
-      "url": "https://books.rakuten.co.jp/rk/47fb09e2be1731b4a06b3f70f3466419/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2094/2000021122094.jpg?_ex=600x600",
-      "caption": "キングダム連載20周年を記念して、読むたびにアツくなる！　語りたくなる!!　キングダムを楽しみ尽くす一冊!!　読切『金剛』掲載。『キングダム』の原点、主人公・信が誕生した幻の読切を再掲。原泰久3大インタビュー。・20周年スペシャル単独インタビュー　・原泰久×松原利光（YJ連載『ガス灯野良犬探偵団』作画）×笠原真樹（ビッグコミックスピリッツ連載『夢なし先生の進路指導』） 師弟鼎談　・ちばてつや×原泰久特別対談。　大特集『キングダム』二十年の軌跡。様々な角度から連載20年を振り返る大特集。その他、映画、アニメ、ゲーム、キングダムの20年が凝縮された企画盛り沢山の240ページ。　※電子版には3大アプリゲーム特典コードはつきません。\n",
-      "salesDate": "2026年08月19日",
-      "series": "キングダム magazine 2026",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904002006",
-      "isbn": "4972000161524",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "キングダム magazine 2026",
-        "author": "",
-        "isbn": "",
-        "score": 178,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 2
-          }
-        ],
-        "source": "combined",
-        "rank": 10,
-        "originalTitle": "キングダム magazine 2026"
-      },
-      "ranking": {
-        "title": "キングダム magazine 2026",
-        "author": "",
-        "isbn": "",
-        "score": 178,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 2
-          }
-        ],
-        "source": "combined",
         "rank": 4
       }
     },
     {
-      "id": "4916475490001",
-      "title": "プレゼント",
-      "author": "若竹七海",
-      "publisher": "中央公論新社",
-      "price": 776,
-      "url": "https://books.rakuten.co.jp/rk/9fe631efeb0f3eb0a09ce80197395709/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1444/2000007701444.jpg?_ex=600x600",
-      "caption": "ルーム・クリーナー、電話相談、興信所。トラブルメイカーのフリーター・葉村晶と、娘に借りたピンクの子供用自転車で現場に駆けつける小林警部補。二人が巻き込まれたハードボイルドで悲しい八つの事件とはーー。間抜けだが悪気のない隣人たちがひき起こす騒動はいつも危険すぎる！\n",
-      "salesDate": "2019年08月30日",
-      "series": "プレゼント",
-      "reviewAverage": 3.52,
-      "reviewCount": 92,
-      "genreId": "101901/101902",
-      "isbn": "4916475490001",
+      "id": "4340008067051",
+      "title": "プレゼント（新潮文庫）",
+      "author": "伊坂幸太郎/江國香織/恩田陸/梨木香歩/町田そのこ/宮部みゆき/米澤穂信",
+      "publisher": "新潮社",
+      "price": 825,
+      "url": "https://books.rakuten.co.jp/rk/e8a60fd88eb63075a76e50e52cf98712/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8962/2000020598962.jpg?_ex=600x600",
+      "caption": "これはこれまで小説を愛してきてくれた人へ、そしてこれから小説の世界に一歩踏み出す人へ贈るプレゼント。何気なく読んだ物語が、ふと目にした一行が、意外な言葉ひとつが、人生を大きく変えるかもしれない。現代を代表する７人の作家が「夏」をテーマに書き下ろした、驚きと切なさ、怖さと美しさ、何よりとびきりの面白さを詰め込んだ奇跡の一冊。さぁ、あなたの人生に小説という選択肢を。\n",
+      "salesDate": "2026年06月24日",
+      "series": "",
+      "reviewAverage": 3.88,
+      "reviewCount": 280,
+      "genreId": "101901",
+      "isbn": "4340008067051",
       "salesType": 0,
       "matchMeta": {
         "title": "プレゼント",
@@ -472,7 +554,7 @@
           }
         ],
         "source": "combined",
-        "rank": 10,
+        "rank": 12,
         "originalTitle": ""
       },
       "ranking": {
@@ -519,7 +601,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12,
+        "rank": 15,
         "originalTitle": "幽冥の岸 十二国記 (新潮文庫)"
       },
       "ranking": {
@@ -536,6 +618,53 @@
         ],
         "source": "combined",
         "rank": 6
+      }
+    },
+    {
+      "id": "4335396900320",
+      "title": "パンどろぼうとさすらいラーメン",
+      "author": "柴田　ケイコ",
+      "publisher": "KADOKAWA",
+      "price": 1650,
+      "url": "https://books.rakuten.co.jp/rk/ced96eda0a863fdeae0a78fb0bf25801/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2405/2000021682405.jpg?_ex=600x600",
+      "caption": "とっても寒い“ぶるぶるじま”にやってきたパンどろぼう。できたてのパンをふるまおうとパン作りをはじめますが、窯の扉をあけようとした、その瞬間・・・＼＼＼ボフーーーン／／／パンが作れずこまっているところへさっそうと現れたのは、いったい、誰ーーー？ほかほかのパンとあつあつのラーメンが織りなす、熱血ハートフルストーリー開幕！「パンどろぼう」シリーズ待望の第8弾！\n",
+      "salesDate": "2026年09月16日",
+      "series": "パンどろぼう",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101916",
+      "isbn": "4335396900320",
+      "salesType": 1,
+      "matchMeta": {
+        "title": "パンどろぼうとさすらいラーメン",
+        "author": "柴田　ケイコ",
+        "score": 94,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 4
+          }
+        ],
+        "source": "combined",
+        "rank": 17,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "パンどろぼうとさすらいラーメン",
+        "author": "柴田　ケイコ",
+        "isbn": "",
+        "score": 176,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 4
+          }
+        ],
+        "source": "combined",
+        "rank": 7
       }
     },
     {
@@ -566,7 +695,7 @@
           }
         ],
         "source": "combined",
-        "rank": 14,
+        "rank": 18,
         "originalTitle": ""
       },
       "ranking": {
@@ -582,7 +711,7 @@
           }
         ],
         "source": "combined",
-        "rank": 7
+        "rank": 8
       }
     },
     {
@@ -613,7 +742,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15,
+        "rank": 19,
         "originalTitle": "日経エンタテインメント! 2026年 9 月号増刊【表紙：EBiDAN】"
       },
       "ranking": {
@@ -625,54 +754,6 @@
           {
             "source": "amazon",
             "label": "Amazon",
-            "rank": 4
-          }
-        ],
-        "source": "combined",
-        "rank": 8
-      }
-    },
-    {
-      "id": "4820000903843",
-      "title": "ハヤブサ消防団　森へつづく道",
-      "author": "池井戸潤",
-      "publisher": "集英社",
-      "price": 2200,
-      "url": "https://books.rakuten.co.jp/rk/8b8de7f162953f1aa6c2fba789f5c5b5/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9371/2000021419371.jpg?_ex=600x600",
-      "caption": "【田園暮らしのミステリ作家vs美貌の歴史ミステリ作家】\nドラマ化＆柴田錬三郎賞受賞の大ヒットミステリ、待望のシリーズ新作登場！\nミステリ作家の三馬太郎が自然豊かな八百万町ハヤブサ地区に移り住んで数年。地元消防団の一員としても忙しい毎日を過ごすうち、とある文学賞にノミネート！　最大のライバル候補は、今をときめく美貌の歴史ミステリ作家・北原未南。だが、未南に不可解な疑惑が持ち上がる。\n一方、八百万町では、ある若い女性が我が子を残して川から水死体で発見されていた。事件の真相を探るうち、太郎は町を揺るがす巨大な疑惑に巻き込まれて……。\n【集英社創業100周年記念作品】\n■著者プロフィール：\n池井戸 潤（いけいど・じゅん）\n作家。1963年岐阜県生まれ。慶應義塾大学卒。98年『果つる底なき』で江戸川乱歩賞を受賞しデビュー。2010年『鉄の骨』で吉川英治文学新人賞、11年『下町ロケット』で直木賞、23年『ハヤブサ消防団』で柴田錬三郎賞を受賞。\n主な作品に「半沢直樹」シリーズ（『オレたちバブル入行組』『ロスジェネの逆襲』『アルルカンと道化師』ほか）、「下町ロケット」シリーズ（『ガウディ計画』『ヤタガラス』ほか）、『シャイロックの子供たち』『空飛ぶタイヤ』『民王』『七つの会議』『陸王』『ノーサイド・ゲーム』『花咲舞が黙ってない』『アキラとあきら』『俺たちの箱根駅伝』『ブティック』がある。\n",
-      "salesDate": "2026年08月05日",
-      "series": "ハヤブサ消防団",
-      "reviewAverage": 4.33,
-      "reviewCount": 30,
-      "genreId": "101901/101902",
-      "isbn": "4820000903843",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ハヤブサ消防団 森へつづく道",
-        "author": "",
-        "isbn": "",
-        "score": 176,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
-          }
-        ],
-        "source": "combined",
-        "rank": 16,
-        "originalTitle": "ハヤブサ消防団 森へつづく道"
-      },
-      "ranking": {
-        "title": "ハヤブサ消防団 森へつづく道",
-        "author": "",
-        "isbn": "",
-        "score": 176,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
             "rank": 4
           }
         ],
@@ -708,7 +789,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16,
+        "rank": 20,
         "originalTitle": ""
       },
       "ranking": {
@@ -725,6 +806,53 @@
         ],
         "source": "combined",
         "rank": 10
+      }
+    },
+    {
+      "id": "9784059239659",
+      "title": "地球の歩き方 スター・ウォーズ",
+      "author": "",
+      "publisher": "地球の歩き方",
+      "price": 2750,
+      "url": "https://books.rakuten.co.jp/rk/40558a21970c38b8891b35aee564d356/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9941/2000020489941.jpg?_ex=600x600",
+      "caption": "銀河の果てまで旅するように、物語の舞台を歩く……。\n『スター・ウォーズ』の世界を「地球の歩き方」ならではの旅行ガイドスタイルでひもとく、スペシャルブックが登場！\nもしあなたが『スター・ウォーズ』の世界を訪れることになっても、本書があれば安心。劇場公開作品を中心に、ストーリーの流れや主要キャラクターの魅力を、心に残る名シーンとともにしっかりおさらいできます。さらに、モデルプランや旅のテクニックなど、ファン心をくすぐるコンテンツも充実。\n作品世界をより深く理解し、楽しむための情報を厳選して収録した、ファン必携の永久保存版です。\n※予告なく一部内容が変更される可能性もあります。予めご了承ください。\n※電子版では、紙のガイドブックと内容が一部異なります。掲載されない写真や図版、収録されないページがある場合があります。あらかじめご了承下さい。\n",
+      "salesDate": "2026年07月29日",
+      "series": "",
+      "reviewAverage": 4.33,
+      "reviewCount": 3,
+      "genreId": "101911",
+      "isbn": "9784059239659",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "地球の歩き方 スター・ウォーズ",
+        "author": "地球の歩き方編集室",
+        "score": 90,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
+        "rank": 21,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "地球の歩き方 スター・ウォーズ",
+        "author": "地球の歩き方編集室",
+        "isbn": "",
+        "score": 175,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
+        "rank": 11
       }
     },
     {
@@ -755,7 +883,7 @@
           }
         ],
         "source": "combined",
-        "rank": 19,
+        "rank": 24,
         "originalTitle": "ダンダダン 25 (ジャンプコミックス)"
       },
       "ranking": {
@@ -771,7 +899,7 @@
           }
         ],
         "source": "combined",
-        "rank": 11
+        "rank": 12
       }
     },
     {
@@ -802,7 +930,7 @@
           }
         ],
         "source": "combined",
-        "rank": 27,
+        "rank": 34,
         "originalTitle": "こちら葛飾区亀有公園前派出所 202 (ジャンプコミックス)"
       },
       "ranking": {
@@ -818,7 +946,101 @@
           }
         ],
         "source": "combined",
-        "rank": 12
+        "rank": 13
+      }
+    },
+    {
+      "id": "4390000005636",
+      "title": "容疑者Xの献身",
+      "author": "東野圭吾",
+      "publisher": "文藝春秋",
+      "price": 770,
+      "url": "https://books.rakuten.co.jp/rk/ffd6faf3b54b36bcbc30235a82624fa9/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7077/2000008377077.jpg?_ex=600x600",
+      "caption": "累計290万部突破。直木賞を受賞した大ベストセラー！\n天才数学者でありながら不遇な日々を送っていた高校教師の石神は、一人娘と暮らす隣人の靖子に秘かな想いを寄せていた。彼女たちが前夫を殺害したことを知った彼は、2人を救うため完全犯罪を企てる。だが皮肉にも、石神のかつての親友である物理学者の湯川学が、その謎に挑むことになる。ガリレオシリーズ初の長篇、直木賞受賞作。\n福山雅治主演で2008年に映画化され、堤真一、松雪泰子の熱演も話題になった。\n※この電子書籍は2008年8月に文藝春秋より刊行された文庫を底本としています\n",
+      "salesDate": "2020年04月24日",
+      "series": "",
+      "reviewAverage": 4.44,
+      "reviewCount": 2674,
+      "genreId": "101901/101902",
+      "isbn": "4390000005636",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "容疑者Xの献身",
+        "author": "東野圭吾",
+        "score": 82,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 7
+          }
+        ],
+        "source": "combined",
+        "rank": 30,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "容疑者Xの献身",
+        "author": "東野圭吾",
+        "isbn": "",
+        "score": 173,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 7
+          }
+        ],
+        "source": "combined",
+        "rank": 14
+      }
+    },
+    {
+      "id": "7276547556001",
+      "title": "波動の法則　実践体験報告",
+      "author": "形態波動エネルギー研究所/今井博樹",
+      "publisher": "ナチュラルスピリット",
+      "price": 1463,
+      "url": "https://books.rakuten.co.jp/rk/1c25a4328b393314a30ea91d000b01ee/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5634/2000006795634.jpg?_ex=600x600",
+      "caption": "『波動の法則』『真 地球の歴史』以降の最新の研究成果を公開! 今までの宇宙や時空についての概念をはるかに超える内容になっています。時空の根源となるものについて、回転について、時空のサイクルについて、病気のこと、お金の本質について、家族の重要性、直観について、ウォークインについてパワースポットや先祖供養まで、お聞きして、公開できるものを公開しています。そこには常に、「自然の仕組み」に適ってより調和した方向に展開するために、ということが前提となって語られています。現在、人々はどんどん振動波を落とし、多くの方がマイナスの状態になっているとのことですが、この本が「自然の仕組み」に適ってより調和した方向に方向転換するための気づきに役立てていただけましたら幸いです。/「今、この時期、地球という惑星にとって必要かつ重要な情報を「波動の法則」の実践体験に基づく適切なる実例を含めて、可能な限り正確に報告し、私達地球人の意識レベルが興味本位を卒業して、本気で人生をかけて何のために生まれ、何のために生きるのか、自然の仕組みに適って調和のとれた方向に直観を使って、決心をして実行され、現実の日常生活に環現し、自らも実体験される事により、読者の一人一人が現実のエゴの文化のなかで真の生き方に向かって勇気が生まれる機会となるよう最善を尽くす。」(足立育朗「あとがき」より)\n",
+      "salesDate": "2018年10月01日",
+      "series": "波動の法則　実践体験報告",
+      "reviewAverage": 5,
+      "reviewCount": 1,
+      "genreId": "101909013/101907003003/101907002002",
+      "isbn": "7276547556001",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "波動の法則",
+        "author": "足立 育朗",
+        "score": 82,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 7
+          }
+        ],
+        "source": "combined",
+        "rank": 32,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "波動の法則",
+        "author": "足立 育朗",
+        "isbn": "",
+        "score": 173,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 7
+          }
+        ],
+        "source": "combined",
+        "rank": 15
       }
     },
     {
@@ -849,7 +1071,7 @@
           }
         ],
         "source": "combined",
-        "rank": 30,
+        "rank": 38,
         "originalTitle": ""
       },
       "ranking": {
@@ -865,54 +1087,54 @@
           }
         ],
         "source": "combined",
-        "rank": 13
+        "rank": 16
       }
     },
     {
-      "id": "4972000164857",
-      "title": "カグラバチ 12",
-      "author": "外薗健",
-      "publisher": "集英社",
-      "price": 572,
-      "url": "https://books.rakuten.co.jp/rk/1250fd0ab348309997f2c69cd909d68c/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5975/2000021425975.jpg?_ex=600x600",
-      "caption": "幽の体を乗っ取った剣聖と対峙するチヒロ！　悪人を皆殺しにするという自分の信念を告げる剣聖に対し、チヒロは座村と2人がかりで挑むも実力差は歴然、座村は致命傷を負ってしまう…。そんな中、チヒロの攻撃が徐々に剣聖を捉え始めーー!?\n",
-      "salesDate": "2026年09月04日",
-      "series": "カグラバチ",
+      "id": "4681308443742",
+      "title": "女の園の星（５）【電子限定特典付】",
+      "author": "和山やま",
+      "publisher": "祥伝社",
+      "price": 825,
+      "url": "https://books.rakuten.co.jp/rk/b2b2f443d6b837ea8cb25b4b09cfe38f/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1397/2000020491397.jpg?_ex=600x600",
+      "caption": "【電子限定！カラーイラスト収録】\n大ヒット!! 累計320万部突破！\nくだらないから愛おしい。爆笑止まらぬ女子校コメディ！\n夏休み最終日。新学期の準備をしていた星先生は、なぜか漫才の練習に付き合わされることになり…？\n一方、小林先生はSNS流出疑惑で校長に呼び出されて大ピンチ!?\n生徒会選挙には2年4組から鳥井さんが出馬表明！\n選挙の後は文化祭と、イベント盛りだくさんな２学期がスタートです。\n番外編「星先生のあの夏。」「星先生の昼やすみ」「小林先生のラッキーな休日」の３編も収録し、\n予測不能な笑いを大ボリュームでお届けする第５巻!!\n◆◇◆通常版の単行本カバー・カバー下・表2・表3イラストを収録◆◇◆\n",
+      "salesDate": "2026年09月08日",
+      "series": "女の園の星",
       "reviewAverage": 0,
       "reviewCount": 0,
-      "genreId": "101904001007",
-      "isbn": "4972000164857",
-      "salesType": 0,
+      "genreId": "101904090",
+      "isbn": "4681308443742",
+      "salesType": 1,
       "matchMeta": {
-        "title": "カグラバチ 12",
-        "author": "外薗 健",
+        "title": "女の園の星(5)",
+        "author": "和山やま",
         "score": 78,
         "sources": [
           {
-            "source": "amazon",
-            "label": "Amazon",
+            "source": "rakuten",
+            "label": "楽天ブックス",
             "rank": 8
           }
         ],
         "source": "combined",
-        "rank": 31,
-        "originalTitle": "カグラバチ 12 (ジャンプコミックス)"
+        "rank": 37,
+        "originalTitle": "女の園の星（5）"
       },
       "ranking": {
-        "title": "カグラバチ 12 (ジャンプコミックス)",
-        "author": "外薗 健",
+        "title": "女の園の星（5）",
+        "author": "和山やま",
         "isbn": "",
         "score": 172,
         "sources": [
           {
-            "source": "amazon",
-            "label": "Amazon",
+            "source": "rakuten",
+            "label": "楽天ブックス",
             "rank": 8
           }
         ],
         "source": "combined",
-        "rank": 14
+        "rank": 17
       }
     },
     {
@@ -943,7 +1165,7 @@
           }
         ],
         "source": "combined",
-        "rank": 32,
+        "rank": 40,
         "originalTitle": ""
       },
       "ranking": {
@@ -959,54 +1181,54 @@
           }
         ],
         "source": "combined",
-        "rank": 15
+        "rank": 18
       }
     },
     {
-      "id": "4524815633410",
-      "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
-      "author": "堀田 秀吾",
-      "publisher": "SBクリエイティブ",
-      "price": 1760,
-      "url": "https://books.rakuten.co.jp/rk/79a1d43cefcb3337b3e2363c5f00a07e/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1658/2000018091658.jpg?_ex=600x600",
-      "caption": "勉強・ダイエット・貯金・目標達成…は習慣化が10割\n仕事、ダイエット、健康管理、勉強、目標達成…すべて成功のカギは「習慣化」にあります。\nしかし間違った習慣を身につけてしまったらその代償は大きくなってしまいます。\n何をどう習慣化すればいいか、そのために重要になるのが「エビデンス」です。\n・もし「A」をしたら「B」をすると、あらかじめ決めておく\n・選択肢は必ず「3つ」用意しておく\n・常にポジティブな言葉を使うーつらさに対する耐性が高まる\n・52分間作業して、17分休憩するー生産性が高まるetc.\n本書は、ハーバード、スタンフォード、オックスフォード…などの研究機関において証明されたテクニックを112個紹介。\n見開き図解入りでわかりやすい。気になったテクニックからはじめられ、情報収集のためにも役立ち、また読みものとしても楽しめる一冊です。\n※カバー画像が異なる場合があります。\n",
-      "salesDate": "2025年07月02日",
+      "id": "9784059240020",
+      "title": "お経に記された宝のありか 仏教レコード",
+      "author": "三木大雲",
+      "publisher": "Gakken",
+      "price": 1650,
+      "url": "https://books.rakuten.co.jp/rk/6b06f13544873afb9a9359cbb3e135c9/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5420/2000020715420.jpg?_ex=600x600",
+      "caption": "お経から未来予言を読み解き、\n大反響を呼んだ『仏教コード』待望の第二幕！\nお経に記された“宝の蔵”のアクセス法とは…\nお経には「永久に尽きることのない、法の宝・智慧が詰まった蔵」の存在が記されています。\nこれは、神智学で語られる「アカシック・レコード」（宇宙に存在する、過去・現在・未来のすべてを記録した図書館）ともいえる場所です。\n前作では、深く語ることが難しかったこの“宝の蔵”の存在を、宇宙観や現代科学などと重ねながら詳しくひもとき、\nさらに宝の蔵にアクセスするために必要な法則・方法を、実践的に紹介しているのが本書です。\n心の安楽／心身の解毒／ひらめきを得る／怒りの浄化／徳を積むことの本当の理解…\n魂のアップデート、幸せの道しるべとなる道を開きます。\n",
+      "salesDate": "2026年07月21日",
       "series": "",
-      "reviewAverage": 3.7,
-      "reviewCount": 366,
-      "genreId": "101905090",
-      "isbn": "4524815633410",
+      "reviewAverage": 3,
+      "reviewCount": 2,
+      "genreId": "101907003003",
+      "isbn": "9784059240020",
       "salesType": 0,
       "matchMeta": {
-        "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
-        "author": "",
-        "isbn": "",
-        "score": 171,
+        "title": "お経に記された宝のありか 仏教レコード",
+        "author": "三木大雲",
+        "score": 70,
         "sources": [
           {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 9
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 10
           }
         ],
         "source": "combined",
-        "rank": 34
+        "rank": 47,
+        "originalTitle": "お経に記された宝のありか　仏教レコード"
       },
       "ranking": {
-        "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
-        "author": "",
+        "title": "お経に記された宝のありか　仏教レコード",
+        "author": "三木大雲",
         "isbn": "",
-        "score": 171,
+        "score": 170,
         "sources": [
           {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 9
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 10
           }
         ],
         "source": "combined",
-        "rank": 16
+        "rank": 19
       }
     },
     {
@@ -1037,7 +1259,7 @@
           }
         ],
         "source": "combined",
-        "rank": 36,
+        "rank": 45,
         "originalTitle": ""
       },
       "ranking": {
@@ -1053,101 +1275,101 @@
           }
         ],
         "source": "combined",
-        "rank": 17
+        "rank": 20
       }
     },
     {
-      "id": "4681308443742",
-      "title": "女の園の星（５）【電子限定特典付】",
-      "author": "和山やま",
-      "publisher": "祥伝社",
-      "price": 825,
-      "url": "https://books.rakuten.co.jp/rk/b2b2f443d6b837ea8cb25b4b09cfe38f/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1397/2000020491397.jpg?_ex=600x600",
-      "caption": "【電子限定！カラーイラスト収録】\n大ヒット!! 累計320万部突破！\nくだらないから愛おしい。爆笑止まらぬ女子校コメディ！\n夏休み最終日。新学期の準備をしていた星先生は、なぜか漫才の練習に付き合わされることになり…？\n一方、小林先生はSNS流出疑惑で校長に呼び出されて大ピンチ!?\n生徒会選挙には2年4組から鳥井さんが出馬表明！\n選挙の後は文化祭と、イベント盛りだくさんな２学期がスタートです。\n番外編「星先生のあの夏。」「星先生の昼やすみ」「小林先生のラッキーな休日」の３編も収録し、\n予測不能な笑いを大ボリュームでお届けする第５巻!!\n◆◇◆通常版の単行本カバー・カバー下・表2・表3イラストを収録◆◇◆\n",
-      "salesDate": "2026年09月08日",
-      "series": "女の園の星",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904090",
-      "isbn": "4681308443742",
-      "salesType": 1,
+      "id": "4480000838415",
+      "title": "けんぐゎい",
+      "author": "朝倉かすみ",
+      "publisher": "光文社",
+      "price": 1980,
+      "url": "https://books.rakuten.co.jp/rk/7249a640151339f4ab53ef18f6bba0b0/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8537/2000020238537.jpg?_ex=600x600",
+      "caption": "利発だが酷い痘痕の姉ふゆ。逆上せ癖で縹緻よしの妹りよ。幼くして父を亡くし、ふゆは手習師匠の手伝いに、りよは船宿の下女奉公に出された。師匠の養子で禍々しいほどに歪んだ性癖をもつ宗三郎から手籠めにされたふゆは懐妊するが、現人神と崇められる女医者と出逢い、彼女の人生は大きく変わっていく。自我に目覚めた主人公が、女の生と向き合う、時代小説の新しい扉！　第175回直木賞受賞作！\n",
+      "salesDate": "2026年04月22日",
+      "series": "けんぐゎい",
+      "reviewAverage": 3.56,
+      "reviewCount": 87,
+      "genreId": "101901001001",
+      "isbn": "4480000838415",
+      "salesType": 0,
       "matchMeta": {
-        "title": "女の園の星 5",
-        "author": "和山やま",
+        "title": "けんぐゎい",
+        "author": "朝倉かすみ",
         "score": 70,
         "sources": [
           {
-            "source": "amazon",
-            "label": "Amazon",
+            "source": "tohan",
+            "label": "トーハン",
             "rank": 10
           }
         ],
         "source": "combined",
-        "rank": 39,
-        "originalTitle": "女の園の星 ５ (フィールコミックス)"
+        "rank": 46,
+        "originalTitle": ""
       },
       "ranking": {
-        "title": "女の園の星 ５ (フィールコミックス)",
-        "author": "和山やま",
+        "title": "けんぐゎい",
+        "author": "朝倉かすみ",
         "isbn": "",
         "score": 170,
         "sources": [
           {
-            "source": "amazon",
-            "label": "Amazon",
+            "source": "tohan",
+            "label": "トーハン",
             "rank": 10
           }
         ],
         "source": "combined",
-        "rank": 18
+        "rank": 21
       }
     },
     {
-      "id": "9781505942323",
-      "title": "How to Start a Crown Agents for Overseas Governments and Administrations Business (Beginners Guide)",
-      "author": "Leclair Jaquelyn",
-      "publisher": "SamEnrico",
-      "price": 2515,
-      "url": "https://books.rakuten.co.jp/rk/da3f192a66453cb193c43421103700ab/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5952/2000020915952.jpg?_ex=600x600",
-      "caption": "This publication, published by SamEnrico, covers How to Start a Crown Agents for Overseas Governments and Administrations Business (Beginners Guide)\n",
-      "salesDate": "2015年12月20日",
+      "id": "4524815633410",
+      "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
+      "author": "堀田 秀吾",
+      "publisher": "SBクリエイティブ",
+      "price": 1760,
+      "url": "https://books.rakuten.co.jp/rk/79a1d43cefcb3337b3e2363c5f00a07e/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1658/2000018091658.jpg?_ex=600x600",
+      "caption": "勉強・ダイエット・貯金・目標達成…は習慣化が10割\n仕事、ダイエット、健康管理、勉強、目標達成…すべて成功のカギは「習慣化」にあります。\nしかし間違った習慣を身につけてしまったらその代償は大きくなってしまいます。\n何をどう習慣化すればいいか、そのために重要になるのが「エビデンス」です。\n・もし「A」をしたら「B」をすると、あらかじめ決めておく\n・選択肢は必ず「3つ」用意しておく\n・常にポジティブな言葉を使うーつらさに対する耐性が高まる\n・52分間作業して、17分休憩するー生産性が高まるetc.\n本書は、ハーバード、スタンフォード、オックスフォード…などの研究機関において証明されたテクニックを112個紹介。\n見開き図解入りでわかりやすい。気になったテクニックからはじめられ、情報収集のためにも役立ち、また読みものとしても楽しめる一冊です。\n※カバー画像が異なる場合があります。\n",
+      "salesDate": "2025年07月02日",
       "series": "",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101970003007",
-      "isbn": "9781505942323",
+      "reviewAverage": 3.7,
+      "reviewCount": 366,
+      "genreId": "101905090",
+      "isbn": "4524815633410",
       "salesType": 0,
       "matchMeta": {
-        "title": "FOR OVERSEAS",
-        "author": "",
-        "isbn": "",
-        "score": 168,
+        "title": "ハーバード、スタンフォード、オックスフォード... 科学的に証明された すごい習慣大百科",
+        "author": "堀田秀吾",
+        "score": 66,
         "sources": [
           {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 12
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 11
           }
         ],
         "source": "combined",
-        "rank": 44
+        "rank": 50,
+        "originalTitle": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科"
       },
       "ranking": {
-        "title": "FOR OVERSEAS",
-        "author": "",
+        "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
+        "author": "堀田秀吾",
         "isbn": "",
-        "score": 168,
+        "score": 169,
         "sources": [
           {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 12
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 11
           }
         ],
         "source": "combined",
-        "rank": 19
+        "rank": 22
       }
     },
     {
@@ -1178,7 +1400,7 @@
           }
         ],
         "source": "combined",
-        "rank": 45,
+        "rank": 58,
         "originalTitle": ""
       },
       "ranking": {
@@ -1194,7 +1416,7 @@
           }
         ],
         "source": "combined",
-        "rank": 20
+        "rank": 23
       }
     },
     {
@@ -1225,7 +1447,7 @@
           }
         ],
         "source": "combined",
-        "rank": 47,
+        "rank": 60,
         "originalTitle": "キングダム 80 (ヤングジャンプコミックス)"
       },
       "ranking": {
@@ -1241,7 +1463,148 @@
           }
         ],
         "source": "combined",
-        "rank": 21
+        "rank": 24
+      }
+    },
+    {
+      "id": "6305300000037",
+      "title": "転生したらスライムだった件 11 時空の少女（下）",
+      "author": "伏瀬",
+      "publisher": "マイクロマガジン社",
+      "price": 792,
+      "url": "https://books.rakuten.co.jp/rk/7b33efca0f453b36a0bcdd96f6461c32/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6815/2000016026815.jpg?_ex=600x600",
+      "caption": "本来の力を取り戻したルイとラプラスの熾烈な戦いが続く最奥の間。玄室に残されたルミナスは死んだはずのマリア・ロッゾと戦うさなか、これまで大切に保管していた聖櫃が何者かによって盗まれたことに気づく。時を同じくして、大聖堂ではグランベル・ロッゾとヒナタが激闘を繰り広げ、誰が黒幕なのか理解したリムルとレオンは機が動くまでは剣を交える演技をすることに。そこに、激高したルミナスが現れ、事態が一気に動き始めるーー。\n大人気モンスター転生ファンタジーが児童書化！最強のスライム伝説が今始まるーー\n",
+      "salesDate": "2024年09月17日",
+      "series": "転生したらスライムだった件（かなで文庫）",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101916",
+      "isbn": "6305300000037",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "転生したらスライムだった件(33)",
+        "author": "川上 泰樹/伏瀬/みっつばー",
+        "score": 46,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 16
+          }
+        ],
+        "source": "combined",
+        "rank": 63,
+        "originalTitle": "転生したらスライムだった件（33）"
+      },
+      "ranking": {
+        "title": "転生したらスライムだった件（33）",
+        "author": "川上 泰樹/伏瀬/みっつばー",
+        "isbn": "",
+        "score": 164,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 16
+          }
+        ],
+        "source": "combined",
+        "rank": 25
+      }
+    },
+    {
+      "id": "4320000460629",
+      "title": "小学生のためのドラえもん 読解力をつけることば図鑑",
+      "author": "藤子・Ｆ・不二雄/中島克治/藤子プロ",
+      "publisher": "小学館",
+      "price": 1782,
+      "url": "https://books.rakuten.co.jp/rk/010dea8e30523d8492cb4ee60dc79c52/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7065/2000014557065.jpg?_ex=600x600",
+      "caption": "【ご注意】※この電子書籍は紙の本のイメージで作成されており、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。お手持ちの端末で立ち読みファイルをご確認いただくことをお勧めします。\nドラえもんのマンガとひみつ道具で、楽しく学べる！\nドラえもんやのび太くんは、このときどんな気持ちなのかな？\nこの気持ちをことばにすると何だろう？\nドラえもんのマンガで主人公の気持ちを読み解く練習から、実際に入試で出される読解表現を、麻布中学校の中島克治先生が解説。\n確実に語彙力と読解力が身につきます。\n【本書の特徴】\n◎総ルビ、ドラえもんのマンガで、1年生から楽しく読める！\n◎読解文を読むための、語彙力がつく！\n◎登場人物の気持ちを読み取り、表現する力がつく！\n【もくじ】\n第1章　なかまのことば　\n（読解の基礎となる気持ちや様子を表すことばに触れよう）\n第2章　くらしのことば\n（文章を読むために必要な身のまわりのことばを身につけよう）\n第3章　ペアになることば\n（読解文でよく使われる反対語と同音異義語を学ぼう）\n第4章　気のきいたことば\n（慣用句やことわざを身につけ、ことばの幅をひろげよう）\n第5章　ことばで伝える\n（まんがを通して、思考の言語化に挑戦しよう）\n第6章　ことばを読み取る\n（まんがや文学作品から心情表現を読み取ろう）\n※この作品はカラーです。\n",
+      "salesDate": "2024年02月21日",
+      "series": "小学生のための　ドラえもん",
+      "reviewAverage": 3,
+      "reviewCount": 1,
+      "genreId": "101906090/101906001001/101916",
+      "isbn": "4320000460629",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "小学生のためのドラえもん読解力をつけることば図鑑",
+        "author": "藤子・F・ 不二雄/中島 克治",
+        "score": 42,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 17
+          }
+        ],
+        "source": "combined",
+        "rank": 66,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "小学生のためのドラえもん読解力をつけることば図鑑",
+        "author": "藤子・F・ 不二雄/中島 克治",
+        "isbn": "",
+        "score": 163,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 17
+          }
+        ],
+        "source": "combined",
+        "rank": 26
+      }
+    },
+    {
+      "id": "4972000164857",
+      "title": "カグラバチ 12",
+      "author": "外薗健",
+      "publisher": "集英社",
+      "price": 572,
+      "url": "https://books.rakuten.co.jp/rk/1250fd0ab348309997f2c69cd909d68c/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5975/2000021425975.jpg?_ex=600x600",
+      "caption": "幽の体を乗っ取った剣聖と対峙するチヒロ！　悪人を皆殺しにするという自分の信念を告げる剣聖に対し、チヒロは座村と2人がかりで挑むも実力差は歴然、座村は致命傷を負ってしまう…。そんな中、チヒロの攻撃が徐々に剣聖を捉え始めーー!?\n",
+      "salesDate": "2026年09月04日",
+      "series": "カグラバチ",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904001007",
+      "isbn": "4972000164857",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "カグラバチ 12",
+        "author": "外薗 健",
+        "score": 30,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 20
+          }
+        ],
+        "source": "combined",
+        "rank": 74,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "カグラバチ 12",
+        "author": "外薗 健",
+        "isbn": "",
+        "score": 160,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 20
+          }
+        ],
+        "source": "combined",
+        "rank": 27
       }
     },
     {
@@ -1272,7 +1635,7 @@
           }
         ],
         "source": "combined",
-        "rank": 60,
+        "rank": 79,
         "originalTitle": ""
       },
       "ranking": {
@@ -1288,101 +1651,7 @@
           }
         ],
         "source": "combined",
-        "rank": 22
-      }
-    },
-    {
-      "id": "5034533175473",
-      "title": "るるぶ■■版 蓋ヶ瀬",
-      "author": "柿",
-      "publisher": "JTBパブリッシング",
-      "price": 1496,
-      "url": "https://books.rakuten.co.jp/rk/378e7d1aa4133fa18fbab383fa3f7af7/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2129/2000021582129.jpg?_ex=600x600",
-      "caption": "*※このコンテンツはカラーとなります。カラー表示が可能な端末またはアプリでの閲覧を推奨します（kobo glo， kobo touch， kobo miniでのご利用はおすすめいたしません）。*ネット上で浮かんでは消える「蓋ヶ瀬」という地名。\n所在地も行き方も一切不明。にもかかわらず飛び交う数々の噂。\nこれは単なるネットミームなのか？それとも…。\n蓋ヶ瀬の全貌を再現すべく、一人の「るるぶ」編集部員が本書を手掛けた。\n栃木県足利市の施設の協力の下、進んでいく取材。\nその過程で辿り着いた蓋ヶ瀬の真実とは…。\n地域情報の先駆者「るるぶ」と正体不明の著者「柿」が放つ、異色のモキュメンタリーホラー。\n※この電子書籍は2026年8月にJTBパブリッシングから発行された図書を画像化したものです。電子書籍化にあたり、一部内容を変更している場合があります\n",
-      "salesDate": "2026年08月29日",
-      "series": "諸書籍",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101911001",
-      "isbn": "5034533175473",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "るるぶ■■版 蓋ヶ瀬",
-        "author": "",
-        "score": 22,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 22
-          }
-        ],
-        "source": "combined",
-        "rank": 61,
-        "originalTitle": "るるぶ■■版　蓋ヶ瀬"
-      },
-      "ranking": {
-        "title": "るるぶ■■版 蓋ヶ瀬",
-        "author": "",
-        "isbn": "",
-        "score": 158,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 22
-          }
-        ],
-        "source": "combined",
-        "rank": 23
-      }
-    },
-    {
-      "id": "4410000009587",
-      "title": "AIネイティブカンパニー",
-      "author": "ソースネクスト息吹プロジェクト",
-      "publisher": "ダイヤモンド社",
-      "price": 1980,
-      "url": "https://books.rakuten.co.jp/rk/9bbe31d2094e3b528fbb42e90be38df6/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3891/2000020933891.jpg?_ex=600x600",
-      "caption": "ソースネクストが半年で「ＡＩネイティブ」へ変貌した全記録を公開。プレゼン資料はＡＩ以外認めない、非エンジニアの全社員がコードを書く、評価制度にＡＩ活用目標を義務化するなど、ＡＩを組織の公用語とし、文化として定着させたノウハウを詳しく解説します。ＡＩ導入がうまくいかない企業にとってヒント満載の１冊。\n",
-      "salesDate": "2026年06月17日",
-      "series": "",
-      "reviewAverage": 5,
-      "reviewCount": 1,
-      "genreId": "101905017004",
-      "isbn": "4410000009587",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "AIネイティブカンパニー - 「AIを入れた、でも使われない」という常識を書き換",
-        "author": "",
-        "score": 18,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 23
-          }
-        ],
-        "source": "combined",
-        "rank": 63,
-        "originalTitle": "ＡＩネイティブカンパニー - 「ＡＩを入れた、でも使われない」という常識を書き換"
-      },
-      "ranking": {
-        "title": "ＡＩネイティブカンパニー - 「ＡＩを入れた、でも使われない」という常識を書き換",
-        "author": "",
-        "isbn": "",
-        "score": 157,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 23
-          }
-        ],
-        "source": "combined",
-        "rank": 24
+        "rank": 28
       }
     },
     {
@@ -1404,7 +1673,8 @@
       "matchMeta": {
         "title": "週刊プレイボーイ (37号)",
         "author": "",
-        "score": 18,
+        "isbn": "",
+        "score": 157,
         "sources": [
           {
             "source": "amazon",
@@ -1413,8 +1683,7 @@
           }
         ],
         "source": "combined",
-        "rank": 64,
-        "originalTitle": ""
+        "rank": 71
       },
       "ranking": {
         "title": "週刊プレイボーイ (37号)",
@@ -1429,7 +1698,54 @@
           }
         ],
         "source": "combined",
-        "rank": 25
+        "rank": 29
+      }
+    },
+    {
+      "id": "4410000009587",
+      "title": "AIネイティブカンパニー",
+      "author": "ソースネクスト息吹プロジェクト",
+      "publisher": "ダイヤモンド社",
+      "price": 1980,
+      "url": "https://books.rakuten.co.jp/rk/9bbe31d2094e3b528fbb42e90be38df6/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3891/2000020933891.jpg?_ex=600x600",
+      "caption": "ソースネクストが半年で「ＡＩネイティブ」へ変貌した全記録を公開。プレゼン資料はＡＩ以外認めない、非エンジニアの全社員がコードを書く、評価制度にＡＩ活用目標を義務化するなど、ＡＩを組織の公用語とし、文化として定着させたノウハウを詳しく解説します。ＡＩ導入がうまくいかない企業にとってヒント満載の１冊。\n",
+      "salesDate": "2026年06月17日",
+      "series": "",
+      "reviewAverage": 5,
+      "reviewCount": 1,
+      "genreId": "101905017004",
+      "isbn": "4410000009587",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ＡＩネイティブカンパニー - 「ＡＩを入れた、でも使われない」という常識を書き換",
+        "author": "",
+        "isbn": "",
+        "score": 157,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 23
+          }
+        ],
+        "source": "combined",
+        "rank": 72
+      },
+      "ranking": {
+        "title": "ＡＩネイティブカンパニー - 「ＡＩを入れた、でも使われない」という常識を書き換",
+        "author": "",
+        "isbn": "",
+        "score": 157,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 23
+          }
+        ],
+        "source": "combined",
+        "rank": 30
       }
     },
     {
@@ -1449,9 +1765,10 @@
       "isbn": "4972000164836",
       "salesType": 0,
       "matchMeta": {
-        "title": "ドラゴンクエスト ダイの大冒険 勇者アバンと獄炎の魔王 16",
+        "title": "ドラゴンクエスト ダイの大冒険 勇者アバンと獄炎の魔王 16 (ジャンプコミックス)",
         "author": "芝田 優作",
-        "score": 6,
+        "isbn": "",
+        "score": 154,
         "sources": [
           {
             "source": "amazon",
@@ -1460,8 +1777,7 @@
           }
         ],
         "source": "combined",
-        "rank": 69,
-        "originalTitle": "ドラゴンクエスト ダイの大冒険 勇者アバンと獄炎の魔王 16 (ジャンプコミックス)"
+        "rank": 77
       },
       "ranking": {
         "title": "ドラゴンクエスト ダイの大冒険 勇者アバンと獄炎の魔王 16 (ジャンプコミックス)",
@@ -1476,7 +1792,54 @@
           }
         ],
         "source": "combined",
-        "rank": 26
+        "rank": 31
+      }
+    },
+    {
+      "id": "4390000016495",
+      "title": "俺たちの箱根駅伝　上",
+      "author": "池井戸潤",
+      "publisher": "文藝春秋",
+      "price": 950,
+      "url": "https://books.rakuten.co.jp/rk/4e7f0b49d3323a2f89dfd8d02fe40fce/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8878/2000021648878.jpg?_ex=600x600",
+      "caption": "日テレ系ドラマ化決定！池井戸潤の感動長編\n「箱根」に懸ける者たちの激闘を描く、池井戸潤の感動長編が遂に文庫化。2026年10月より日本テレビ系土曜ドラマ放送開始。\n単行本　2024年4月　文藝春秋刊\n文庫版　2026年9月　文春文庫刊　\nこの電子書籍は文春文庫版を底本としています\n",
+      "salesDate": "2026年09月02日",
+      "series": "俺たちの箱根駅伝",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101901",
+      "isbn": "4390000016495",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "俺たちの箱根駅伝 上",
+        "author": "池井戸 潤",
+        "score": 5,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 27
+          }
+        ],
+        "source": "combined",
+        "rank": 93,
+        "originalTitle": "俺たちの箱根駅伝　上"
+      },
+      "ranking": {
+        "title": "俺たちの箱根駅伝　上",
+        "author": "池井戸 潤",
+        "isbn": "",
+        "score": 153,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 27
+          }
+        ],
+        "source": "combined",
+        "rank": 32
       }
     },
     {
@@ -1496,81 +1859,81 @@
       "isbn": "4320000902406",
       "salesType": 0,
       "matchMeta": {
-        "title": "ブラック・ラグーン (14) (サンデーGXコミックス)",
+        "title": "ブラック・ラグーン (14)",
         "author": "広江 礼威",
-        "isbn": "",
-        "score": 153,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 27
-          }
-        ],
-        "source": "combined",
-        "rank": 71
-      },
-      "ranking": {
-        "title": "ブラック・ラグーン (14) (サンデーGXコミックス)",
-        "author": "広江 礼威",
-        "isbn": "",
-        "score": 153,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 27
-          }
-        ],
-        "source": "combined",
-        "rank": 27
-      }
-    },
-    {
-      "id": "4334772100320",
-      "title": "トスカーナのワイナリーに嫁いで学んだ　マンマのイタリア料理レシピ",
-      "author": "池田　華依",
-      "publisher": "KADOKAWA",
-      "price": 2035,
-      "url": "https://books.rakuten.co.jp/rk/781a6c6f4bb13214a9cef4b4c6951ff3/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9693/2000021549693.jpg?_ex=600x600",
-      "caption": "イタリア・トスカーナのワイナリーに嫁ぎ4人の子を育てる日本人主婦が、イタリア人の義母から受け継いだマンマのレシピを紹介。トスカーナの食文化、歩んできた道のり、ワインの選び方などのエッセイも満載。【序文】イタリア・トスカーナのワイナリーに嫁いだ私が、イタリア人義母から学んだ「家族のレシピ」をご紹介します。「食べることは、生きること」。温かな料理とともに、義母から学んだ「食の大切さ」を、この地に根差した「命の営み」を、私の愛するトスカーナの風を、日本の皆さんへの食卓へとお届けできたらと願いながら。　（池田華依）【レシピ構成】Parte１ パスタParte２　主菜とつけあわせParte３　スープとリゾットParte４ ワインに合う副菜Parte５　おやつほか全46レシピ収録【エッセイ＆コラム】・イタリア人の義母から学んだ食生活の大切さ・マンマの味になる５つの魔法・家族が好きなマンマの料理・料理に合わせたワインの選び方・私がワイナリーに嫁いでワイナリー女将＆4人の母になるまで・私から義母へのインタビュー　ほか\n",
-      "salesDate": "2026年09月01日",
-      "series": "トスカーナのワイナリーに嫁いで学んだ　マンマのイタリア料理レシピ",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101910010/101909",
-      "isbn": "4334772100320",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "トスカーナのワイナリーに嫁いで学んだ マンマのイタリア料理レシピ",
-        "author": "池田 華依",
         "score": 5,
         "sources": [
           {
             "source": "amazon",
             "label": "Amazon",
-            "rank": 29
+            "rank": 27
           }
         ],
         "source": "combined",
-        "rank": 75,
-        "originalTitle": ""
+        "rank": 101,
+        "originalTitle": "ブラック・ラグーン (14) (サンデーGXコミックス)"
       },
       "ranking": {
-        "title": "トスカーナのワイナリーに嫁いで学んだ マンマのイタリア料理レシピ",
-        "author": "池田 華依",
+        "title": "ブラック・ラグーン (14) (サンデーGXコミックス)",
+        "author": "広江 礼威",
         "isbn": "",
-        "score": 151,
+        "score": 153,
         "sources": [
           {
             "source": "amazon",
             "label": "Amazon",
+            "rank": 27
+          }
+        ],
+        "source": "combined",
+        "rank": 33
+      }
+    },
+    {
+      "id": "4310000418478",
+      "title": "はじめての　ディズニーキャラクターずかん１００",
+      "author": "講談社",
+      "publisher": "講談社",
+      "price": 770,
+      "url": "https://books.rakuten.co.jp/rk/6534a546d51f38b7b821b503b79a89e8/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1515/2000013831515.jpg?_ex=600x600",
+      "caption": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。\nディズニーにはじめて出会う子どもたちのために、コンパクトな判型とシンプルなデザインで、わかりやすくキャラクターを紹介します。\nキャラクターは、全部でおよそ100！\nキャラクターの名前はひらがななので、文字を覚えたてのお子さまにもおすすめです。\n好きなキャラクターや、知っているキャラクターを探して遊ぶのにぴったりの一冊です。\n※この商品は紙の書籍のページを画像にした電子書籍です。文字だけを拡大することはできませんので、タブレットサイズの端末での閲読を推奨します。また、文字列のハイライトや検索、辞書の参照、引用などの機能も使用できません。\n",
+      "salesDate": "2023年10月26日",
+      "series": "はじめての　ディズニーキャラクターずかん１００",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101916",
+      "isbn": "4310000418478",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "はじめての ディズニーキャラクターずかん100",
+        "author": "講談社",
+        "score": 5,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
             "rank": 29
           }
         ],
         "source": "combined",
-        "rank": 28
+        "rank": 95,
+        "originalTitle": "はじめての　ディズニーキャラクターずかん100"
+      },
+      "ranking": {
+        "title": "はじめての　ディズニーキャラクターずかん100",
+        "author": "講談社",
+        "isbn": "",
+        "score": 151,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 29
+          }
+        ],
+        "source": "combined",
+        "rank": 34
       }
     },
     {
@@ -1602,7 +1965,7 @@
           }
         ],
         "source": "combined",
-        "rank": 74,
+        "rank": 83,
         "originalTitle": "会社四季報業界地図 〈２０２７年版〉"
       },
       "ranking": {
@@ -1618,7 +1981,7 @@
           }
         ],
         "source": "combined",
-        "rank": 29
+        "rank": 35
       }
     },
     {
@@ -1650,7 +2013,7 @@
           }
         ],
         "source": "combined",
-        "rank": 75
+        "rank": 85
       },
       "ranking": {
         "title": "ヒトナー 1 (ジャンプコミックス)",
@@ -1665,163 +2028,22 @@
           }
         ],
         "source": "combined",
-        "rank": 30
-      }
-    },
-    {
-      "id": "6681311679960",
-      "title": "つかめ！理科ダマン 12 最強ロボット決戦！編",
-      "author": "シン・テフン/ナ・スンフン/呉華順",
-      "publisher": "マガジンハウス",
-      "price": 1320,
-      "url": "https://books.rakuten.co.jp/rk/d5144a342674388cb89766522b26d5f0/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6738/2000021036738.jpg?_ex=600x600",
-      "caption": "■注目のシリーズ第12巻は、ロボット世界大会の決戦編！■\n恐竜ロボット大会の勝者を決める決戦がいよいよ始まる！\nシンとグゥのチームが戦うライバルチームに、弱点はあるのか!?\n優勝を目指すシンたちといっしょに\nプログラミングやA I、恐竜にまつわる19の疑問が楽しく学べます。\n★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★\n＼＼日韓でシリーズ累計400万部／／\n理科のテストで100点取れちゃう！！\n「笑いながら理科の知識が学べるところが大好きです」\n「子供が夢中になって読んでいます」\n「身近な“どうして？”をわかりやすく説明されていて、子供も大人も楽しめます」\n……とクチコミで話題沸騰!!\n★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★\nギャグ満載の超オモシロまんがで\n小学校の理科の知識がスイスイ身につく！！\nそして、科学と読書がどんどん好きになる！！\n《こんな疑問に答えます》\n◎アルゴリズムってなに？\n◎フローチャートってなに？\n◎コンピュータはどうやってプログラミング言語を理解している？\n◎座標ってなに？\n◎ロボットは人間より賢くなれる？\n◎コンピュータに虫がいる？　\n◎翼竜は恐竜か？　……etc.\n",
-      "salesDate": "2026年07月16日",
-      "series": "つかめ！理科ダマン",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101908004/101906006/101906001009",
-      "isbn": "6681311679960",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "つかめ!理科ダマン 12 最強ロボット決戦!編",
-        "author": "シン・テフン",
-        "score": 106,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 1
-          }
-        ],
-        "source": "combined",
-        "rank": 4,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "つかめ!理科ダマン 12 最強ロボット決戦!編",
-        "author": "シン・テフン",
-        "score": 106,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 1
-          }
-        ],
-        "source": "combined",
-        "rank": 31,
-        "originalTitle": ""
-      }
-    },
-    {
-      "id": "9784059239659",
-      "title": "地球の歩き方 スター・ウォーズ",
-      "author": "",
-      "publisher": "地球の歩き方",
-      "price": 2750,
-      "url": "https://books.rakuten.co.jp/rk/40558a21970c38b8891b35aee564d356/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9941/2000020489941.jpg?_ex=600x600",
-      "caption": "銀河の果てまで旅するように、物語の舞台を歩く……。\n『スター・ウォーズ』の世界を「地球の歩き方」ならではの旅行ガイドスタイルでひもとく、スペシャルブックが登場！\nもしあなたが『スター・ウォーズ』の世界を訪れることになっても、本書があれば安心。劇場公開作品を中心に、ストーリーの流れや主要キャラクターの魅力を、心に残る名シーンとともにしっかりおさらいできます。さらに、モデルプランや旅のテクニックなど、ファン心をくすぐるコンテンツも充実。\n作品世界をより深く理解し、楽しむための情報を厳選して収録した、ファン必携の永久保存版です。\n※予告なく一部内容が変更される可能性もあります。予めご了承ください。\n※電子版では、紙のガイドブックと内容が一部異なります。掲載されない写真や図版、収録されないページがある場合があります。あらかじめご了承下さい。\n",
-      "salesDate": "2026年07月29日",
-      "series": "",
-      "reviewAverage": 4.33,
-      "reviewCount": 3,
-      "genreId": "101911",
-      "isbn": "9784059239659",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "地球の歩き方 スター・ウォーズ",
-        "author": "地球の歩き方編集室",
-        "score": 90,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 5
-          }
-        ],
-        "source": "combined",
-        "rank": 17,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "地球の歩き方 スター・ウォーズ",
-        "author": "地球の歩き方編集室",
-        "score": 90,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 5
-          }
-        ],
-        "source": "combined",
-        "rank": 32,
-        "originalTitle": ""
-      }
-    },
-    {
-      "id": "4480000838415",
-      "title": "けんぐゎい",
-      "author": "朝倉かすみ",
-      "publisher": "光文社",
-      "price": 1980,
-      "url": "https://books.rakuten.co.jp/rk/7249a640151339f4ab53ef18f6bba0b0/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8537/2000020238537.jpg?_ex=600x600",
-      "caption": "利発だが酷い痘痕の姉ふゆ。逆上せ癖で縹緻よしの妹りよ。幼くして父を亡くし、ふゆは手習師匠の手伝いに、りよは船宿の下女奉公に出された。師匠の養子で禍々しいほどに歪んだ性癖をもつ宗三郎から手籠めにされたふゆは懐妊するが、現人神と崇められる女医者と出逢い、彼女の人生は大きく変わっていく。自我に目覚めた主人公が、女の生と向き合う、時代小説の新しい扉！　第175回直木賞受賞作！\n",
-      "salesDate": "2026年04月22日",
-      "series": "けんぐゎい",
-      "reviewAverage": 3.56,
-      "reviewCount": 87,
-      "genreId": "101901001001",
-      "isbn": "4480000838415",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "けんぐゎい",
-        "author": "朝倉かすみ",
-        "score": 70,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 37,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "けんぐゎい",
-        "author": "朝倉かすみ",
-        "score": 70,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 33,
-        "originalTitle": ""
+        "rank": 36
       }
     }
   ],
   "byGenre": {
     "fiction": [
-      "4916475490001",
+      "4340008067051",
       "4340008067611",
-      "4820000903843",
       "4910000909001",
+      "4390000005636",
       "4331000700320",
-      "4480000838415"
+      "4480000838415",
+      "4390000016495"
     ],
     "mystery": [
-      "4916475490001",
-      "4820000903843",
+      "4390000005636",
       "4620000615075",
       "4620000615076"
     ],
@@ -1835,7 +2057,9 @@
     ],
     "humanities": [
       "4380000407898",
-      "4390000014247"
+      "4390000014247",
+      "7276547556001",
+      "9784059240020"
     ],
     "nonfiction": [
       "4390000014247"
@@ -1846,31 +2070,31 @@
     "it": [],
     "life": [
       "4380000407898",
-      "4334772100320"
+      "7276547556001"
     ],
     "health": [],
-    "hobby": [
-      "4334772100320"
-    ],
+    "hobby": [],
     "travel": [
-      "5034533175473",
       "9784059239659"
     ],
     "language": [
-      "6681311679960"
+      "6681311679960",
+      "4320000460629"
     ],
-    "children": [],
-    "essay": [
-      "4334772100320"
+    "children": [
+      "4335396900320",
+      "6305300000037",
+      "4320000460629",
+      "4310000418478"
     ],
+    "essay": [],
     "comic": [
       "4972000166706",
-      "4972000161524",
       "4972000164838",
       "4972000164824",
-      "4972000164857",
       "4681308443742",
       "4972000161446",
+      "4972000164857",
       "4972000164836",
       "4320000902406",
       "4972000164904"
@@ -1878,11 +2102,11 @@
   },
   "genreStatus": {
     "fiction": {
-      "matched": 6,
+      "matched": 7,
       "complete": true
     },
     "mystery": {
-      "matched": 4,
+      "matched": 3,
       "complete": true
     },
     "sf": {
@@ -1894,7 +2118,7 @@
       "complete": true
     },
     "humanities": {
-      "matched": 2,
+      "matched": 4,
       "complete": true
     },
     "nonfiction": {
@@ -1918,27 +2142,27 @@
       "complete": true
     },
     "hobby": {
-      "matched": 1,
-      "complete": true
-    },
-    "travel": {
-      "matched": 2,
-      "complete": true
-    },
-    "language": {
-      "matched": 1,
-      "complete": true
-    },
-    "children": {
       "matched": 0,
       "complete": true
     },
-    "essay": {
+    "travel": {
       "matched": 1,
       "complete": true
     },
+    "language": {
+      "matched": 2,
+      "complete": true
+    },
+    "children": {
+      "matched": 4,
+      "complete": true
+    },
+    "essay": {
+      "matched": 0,
+      "complete": true
+    },
     "comic": {
-      "matched": 10,
+      "matched": 9,
       "complete": true
     }
   }

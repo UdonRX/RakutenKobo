@@ -36,12 +36,9 @@ jobs:
           node-version: '22'
 
       - name: Install dependencies
-        run: |
-          npm install --ignore-scripts
-          npm install --no-save playwright@1.55.0
-          npx playwright install --with-deps chromium
+        run: npm install --ignore-scripts
 
-      - name: Collect every sale result from Rakuten Books and Kobo campaigns
+      - name: Collect every current Rakuten Kobo sale using price-bucket paging
         run: node scripts/scrape-kobo-sale.mjs /tmp/kobo-sale-candidates.json
 
       - name: Build base completed Kobo feeds
@@ -54,10 +51,8 @@ jobs:
           KOBO_API_BASE: https://rakuten-kobo.vercel.app
         run: node scripts/finalize-popular-feeds.mjs /tmp/completed-feeds
 
-      - name: Build curated sale feed from exhaustive scan
-        env:
-          KOBO_API_BASE: https://rakuten-kobo.vercel.app
-        run: node scripts/build-all-sale-feed.mjs /tmp/kobo-sale-candidates.json /tmp/completed-feeds/kobo-sale.json
+      - name: Build exhaustive static sale pages
+        run: node scripts/build-all-sale-feed.mjs /tmp/kobo-sale-candidates.json /tmp/completed-feeds/kobo-sale.json /tmp/completed-feeds/sale
 
       - name: Publish completed feeds to ranking-data branch
         shell: bash
@@ -71,7 +66,10 @@ jobs:
           cp /tmp/completed-feeds/popular-week.json data/popular-week.json
           cp /tmp/completed-feeds/popular-month.json data/popular-month.json
           cp /tmp/completed-feeds/popular-year.json data/popular-year.json
-          git add data/kobo-sale.json data/popular-week.json data/popular-month.json data/popular-year.json
+          rm -rf data/sale
+          mkdir -p data/sale
+          cp -R /tmp/completed-feeds/sale/. data/sale/
+          git add data/kobo-sale.json data/popular-week.json data/popular-month.json data/popular-year.json data/sale
           if git diff --cached --quiet; then
             echo "Completed Kobo feeds are unchanged."
             exit 0

@@ -12,6 +12,10 @@
   },
   "rewrites": [
     {
+      "source": "/data/sale/:path*",
+      "destination": "https://raw.githubusercontent.com/UdonRX/RakutenKobo/ranking-data/data/sale/:path*"
+    },
+    {
       "source": "/data/kobo-sale.json",
       "destination": "https://raw.githubusercontent.com/UdonRX/RakutenKobo/ranking-data/data/kobo-sale.json"
     },
@@ -30,6 +34,7 @@
   ],
   "headers": [
     {"source":"/sw.js","headers":[{"key":"Cache-Control","value":"public, max-age=0, must-revalidate"}]},
-    {"source":"/public/manifest.json","headers":[{"key":"Content-Type","value":"application/manifest+json"}]}
+    {"source":"/public/manifest.json","headers":[{"key":"Content-Type","value":"application/manifest+json"}]},
+    {"source":"/data/sale/:path*","headers":[{"key":"Cache-Control","value":"public, max-age=60, s-maxage=300, stale-while-revalidate=86400"}]}
   ]
 }

@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "year",
-  "updatedAt": "2026-09-06T11:39:37.811Z",
+  "updatedAt": "2026-09-06T16:05:56.312Z",
   "candidateCount": 13,
-  "baseMatched": 7,
+  "baseMatched": 6,
   "matched": 9,
-  "addedMatches": 2,
+  "addedMatches": 3,
   "unavailable": [],
   "snapshots": {
     "tohan": {
@@ -143,9 +143,8 @@
       "salesType": 0,
       "matchMeta": {
         "title": "変な地図",
-        "author": "",
-        "isbn": "",
-        "score": 178,
+        "author": "雨穴",
+        "score": 102,
         "sources": [
           {
             "source": "tohan",
@@ -155,7 +154,7 @@
         ],
         "source": "combined",
         "rank": 2,
-        "originalTitle": "変な地図"
+        "originalTitle": ""
       },
       "ranking": {
         "title": "変な地図",
@@ -238,8 +237,9 @@
       "salesType": 0,
       "matchMeta": {
         "title": "成瀬は都を駆け抜ける",
-        "author": "宮島未奈",
-        "score": 94,
+        "author": "",
+        "isbn": "",
+        "score": 176,
         "sources": [
           {
             "source": "tohan",
@@ -249,7 +249,7 @@
         ],
         "source": "combined",
         "rank": 4,
-        "originalTitle": ""
+        "originalTitle": "成瀬は都を駆け抜ける"
       },
       "ranking": {
         "title": "成瀬は都を駆け抜ける",
@@ -285,8 +285,9 @@
       "salesType": 0,
       "matchMeta": {
         "title": "暁星",
-        "author": "湊かなえ",
-        "score": 82,
+        "author": "",
+        "isbn": "",
+        "score": 173,
         "sources": [
           {
             "source": "tohan",
@@ -296,7 +297,7 @@
         ],
         "source": "combined",
         "rank": 7,
-        "originalTitle": ""
+        "originalTitle": "暁星"
       },
       "ranking": {
         "title": "暁星",

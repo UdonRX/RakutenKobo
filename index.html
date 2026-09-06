@@ -16,6 +16,7 @@
   <div id="app"></div>
   <script src="/public/amazon-ranking-client.js?v=0.3.6"></script>
   <script src="/public/sale-snapshot-client.js?v=0.3.6"></script>
+  <script>document.addEventListener('keydown',event=>{if(event.key==='Enter'&&event.target?.id==='search-input'){event.preventDefault();event.stopImmediatePropagation()}},true)</script>
   <script type="module" src="/app.js?v=0.3.6"></script>
 </body>
 </html>

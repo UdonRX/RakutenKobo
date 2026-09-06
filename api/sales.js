@@ -1,14 +1,13 @@
 import * as cheerio from 'cheerio';
 
-const PAGE_SIZE = 100;
+const UPSTREAM_PAGE_SIZE = 20;
+const LOGICAL_BATCH_SIZE = 100;
 const ROOT_GENRE_ID = '101';
 const SALE_MERCH_ID = '53626';
 const SALE_INDEX_URL = 'https://books.rakuten.co.jp/event/e-book/index-sp.html';
 const SALE_SEARCH_URL = 'https://books.rakuten.co.jp/search';
 const ADULT_WORDS = ['アダルト','成年コミック','成人向け','18禁','官能','成人漫画','エロティック','R18','R18+'];
 const LIGHT_NOVEL_WORDS = ['ライトノベル','ラノベ','電撃文庫','MF文庫J','GA文庫','富士見ファンタジア文庫','ガガガ文庫'];
-// Rakuten Books caps one search at 300 pages. Disjoint price buckets keep each
-// official query below that upstream browse cap while the app itself has no book cap.
 const PRICE_BUCKETS = [
   { min:null, max:199, label:'199円以下' },
   { min:200, max:299, label:'200〜299円' },
@@ -113,7 +112,7 @@ function parseSalePage(html,{genreId=ROOT_GENRE_ID,excludeLightNovel=false}={}){
   });
   return[...found.values()];
 }
-async function fetchHtml(url,timeoutMs=6500){
+async function fetchHtml(url,timeoutMs=5000){
   const controller=new AbortController(),timer=setTimeout(()=>controller.abort(),timeoutMs);
   try{
     const response=await fetch(url,{signal:controller.signal,headers:{Accept:'text/html,application/xhtml+xml','Accept-Language':'ja-JP,ja;q=0.9,en;q=0.5','User-Agent':'Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1'}});
@@ -121,10 +120,12 @@ async function fetchHtml(url,timeoutMs=6500){
     return await response.text();
   }finally{clearTimeout(timer)}
 }
-function buildUrl({genreId=ROOT_GENRE_ID,bucketIndex=0,page=1,withPrice=true}={}){
-  const params=new URLSearchParams({g:String(genreId||ROOT_GENRE_ID),merch:SALE_MERCH_ID,merchName:'セール中の作品',h:String(PAGE_SIZE),v:'1',s:'8'});
-  if(withPrice){const bucket=PRICE_BUCKETS[bucketIndex]||PRICE_BUCKETS[0];if(bucket.min!=null)params.set('minp',String(bucket.min));if(bucket.max!=null)params.set('maxp',String(bucket.max));}
-  const offset=(Math.max(1,Number(page)||1)-1)*PAGE_SIZE;if(offset)params.set('o',String(offset));
+function buildUrl({genreId=ROOT_GENRE_ID,bucketIndex=0,page=1}={}){
+  const params=new URLSearchParams({g:String(genreId||ROOT_GENRE_ID),merch:SALE_MERCH_ID,merchName:'セール中の作品',h:String(UPSTREAM_PAGE_SIZE),v:'1',s:'8'});
+  const bucket=PRICE_BUCKETS[bucketIndex]||PRICE_BUCKETS[0];
+  if(bucket.min!=null)params.set('minp',String(bucket.min));
+  if(bucket.max!=null)params.set('maxp',String(bucket.max));
+  const offset=(Math.max(1,Number(page)||1)-1)*UPSTREAM_PAGE_SIZE;if(offset)params.set('o',String(offset));
   return`${SALE_SEARCH_URL}?${params}`;
 }
 function parseCursor(value=''){
@@ -132,33 +133,25 @@ function parseCursor(value=''){
   return{bucketIndex:Math.min(Math.max(Number(match[1]),0),PRICE_BUCKETS.length-1),page:Math.max(Number(match[2]),1)};
 }
 function nextCursor(bucketIndex,page,total,itemCount){
-  const pages=total?Math.max(1,Math.ceil(total/PAGE_SIZE)):(itemCount>=PAGE_SIZE?page+1:page);
-  if(page<pages&&page<300)return`${bucketIndex}.${page+1}`;
+  const pages=total?Math.max(1,Math.ceil(total/UPSTREAM_PAGE_SIZE)):(itemCount>=UPSTREAM_PAGE_SIZE?page+1:page);
+  if(page<pages)return`${bucketIndex}.${page+1}`;
   const nextBucket=bucketIndex+1;return nextBucket<PRICE_BUCKETS.length?`${nextBucket}.1`:'';
 }
 
 export default async function handler(req,res){
   try{
     const genreId=String(req.query.genreId||ROOT_GENRE_ID),excludeLightNovel=String(req.query.excludeLightNovel||'')==='1';
-    let{bucketIndex,page}=parseCursor(req.query.cursor||'');
-    let officialTotal=Number(req.query.officialTotal||0),sourceUrl='',items=[],bucketTotal=0,next='';
-    // Only the first request pays for the global count; subsequent requests are one upstream page each.
-    if(!req.query.cursor){
-      const [globalHtml,pageHtml]=await Promise.all([fetchHtml(buildUrl({genreId,withPrice:false})),fetchHtml(buildUrl({genreId,bucketIndex,page}))]);
-      officialTotal=parseTotalCount(globalHtml);sourceUrl=buildUrl({genreId,bucketIndex,page});bucketTotal=parseTotalCount(pageHtml);items=parseSalePage(pageHtml,{genreId,excludeLightNovel});next=nextCursor(bucketIndex,page,bucketTotal,items.length);
-    }else{
-      while(bucketIndex<PRICE_BUCKETS.length){
-        sourceUrl=buildUrl({genreId,bucketIndex,page});const html=await fetchHtml(sourceUrl);bucketTotal=parseTotalCount(html);items=parseSalePage(html,{genreId,excludeLightNovel});next=nextCursor(bucketIndex,page,bucketTotal,items.length);
-        if(items.length||!next)break;
-        const parsed=parseCursor(next);bucketIndex=parsed.bucketIndex;page=parsed.page;
-      }
-    }
+    const{bucketIndex,page}=parseCursor(req.query.cursor||'');
+    const sourceUrl=buildUrl({genreId,bucketIndex,page});
+    const html=await fetchHtml(sourceUrl);
+    const bucketTotal=parseTotalCount(html),items=parseSalePage(html,{genreId,excludeLightNovel});
+    const next=nextCursor(bucketIndex,page,bucketTotal,items.length);
     return json(res,200,{
-      completed:true,exhaustive:true,items,pageSize:PAGE_SIZE,cursor:String(req.query.cursor||''),nextCursor:next,hasMore:Boolean(next),
-      officialTotal,bucketTotal,bucketIndex,bucketLabel:PRICE_BUCKETS[bucketIndex]?.label||'',sourceUrl,officialSaleIndex:SALE_INDEX_URL,
+      completed:true,exhaustive:true,items,pageSize:UPSTREAM_PAGE_SIZE,logicalBatchSize:LOGICAL_BATCH_SIZE,cursor:String(req.query.cursor||''),nextCursor:next,hasMore:Boolean(next),
+      officialTotal:0,bucketTotal,bucketIndex,bucketLabel:PRICE_BUCKETS[bucketIndex]?.label||'',sourceUrl,officialSaleIndex:SALE_INDEX_URL,
       fetchedAt:new Date().toISOString(),parsed:items.length,matched:items.length,resolvedGenre:genreId!==ROOT_GENRE_ID?{id:genreId}:null
     },300);
   }catch(error){
-    return json(res,502,{error:'楽天Koboのセール一覧を取得できませんでした。',detail:error?.name==='AbortError'?'SALE_UPSTREAM_TIMEOUT':String(error?.message||error),officialSaleIndex:SALE_INDEX_URL});
+    return json(res,502,{error:'楽天Koboのセール一覧を取得できませんでした。',detail:error?.name==='AbortError'?'SALE_UPSTREAM_TIMEOUT':String(error?.message||error),retryable:error?.name==='AbortError',officialSaleIndex:SALE_INDEX_URL});
   }
 }

@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-09-05T21:00:50.188Z",
+  "updatedAt": "2026-09-06T05:24:17.728Z",
   "candidateCount": 41,
-  "baseMatched": 15,
-  "matched": 18,
-  "addedMatches": 3,
+  "baseMatched": 11,
+  "matched": 17,
+  "addedMatches": 6,
   "unavailable": [],
   "snapshots": {
     "kinokuniya": {
@@ -17,14 +17,14 @@
       "attribution": "紀伊國屋書店調べ",
       "sourceUrl": "https://www.kinokuniya.co.jp/disp/CKnRankingPageCList.jsp?dispNo=107002001001&vTp=m",
       "periodLabel": "マンスリー",
-      "updatedAt": "2026-09-05",
+      "updatedAt": "2026-09-06",
       "live": true,
       "items": [
         {
-          "title": "ハヤブサ消防団 森へつづく道",
+          "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
           "author": "",
           "isbn": "",
-          "rank": 8
+          "rank": 2
         },
         {
           "title": "夏帆 - Ｔｈｅ Ｔａｌｅ ｏｆ ＫＡＨＯ",
@@ -33,10 +33,16 @@
           "rank": 10
         },
         {
+          "title": "ハヤブサ消防団 森へつづく道",
+          "author": "",
+          "isbn": "",
+          "rank": 11
+        },
+        {
           "title": "つかめ！理科ダマン 〈１２〉 最強ロボット決戦！編",
           "author": "",
           "isbn": "",
-          "rank": 13
+          "rank": 12
         },
         {
           "title": "イン・ザ・メガチャーチ",
@@ -45,46 +51,40 @@
           "rank": 16
         },
         {
-          "title": "楽園",
-          "author": "",
-          "isbn": "",
-          "rank": 18
-        },
-        {
           "title": "ファイア・ドーム 〈上〉",
           "author": "",
           "isbn": "",
-          "rank": 19
-        },
-        {
-          "title": "月がきれいな夜に、誰かに思い出してほしかった",
-          "author": "",
-          "isbn": "",
-          "rank": 20
-        },
-        {
-          "title": "ファイア・ドーム 〈下〉",
-          "author": "",
-          "isbn": "",
-          "rank": 22
-        },
-        {
-          "title": "多類婚姻譚",
-          "author": "",
-          "isbn": "",
-          "rank": 24
+          "rank": 17
         },
         {
           "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
           "author": "",
           "isbn": "",
-          "rank": 27
+          "rank": 21
+        },
+        {
+          "title": "月がきれいな夜に、誰かに思い出してほしかった",
+          "author": "",
+          "isbn": "",
+          "rank": 22
+        },
+        {
+          "title": "ファイア・ドーム 〈下〉",
+          "author": "",
+          "isbn": "",
+          "rank": 24
+        },
+        {
+          "title": "多類婚姻譚",
+          "author": "",
+          "isbn": "",
+          "rank": 26
         },
         {
           "title": "星のカービィ 夢幻の歯車 霧につつまれた大事件！？ 角川つばさ文庫",
           "author": "",
           "isbn": "",
-          "rank": 28
+          "rank": 30
         }
       ]
     },
@@ -94,7 +94,7 @@
       "attribution": "トーハン調べ",
       "sourceUrl": "https://www.tohan.jp/bestsellers/2026_07_monthly/",
       "periodLabel": "月間",
-      "updatedAt": "2026-09-05",
+      "updatedAt": "2026-09-06",
       "live": true,
       "items": [
         {
@@ -102,12 +102,6 @@
           "author": "",
           "isbn": "",
           "rank": 2
-        },
-        {
-          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-          "author": "",
-          "isbn": "",
-          "rank": 4
         },
         {
           "title": "口に関するアンケート",
@@ -120,6 +114,12 @@
           "author": "",
           "isbn": "",
           "rank": 8
+        },
+        {
+          "title": "ONE PIECE novel ZORO",
+          "author": "",
+          "isbn": "",
+          "rank": 9
         },
         {
           "title": "FOR OVERSEAS",
@@ -166,12 +166,12 @@
         "title": "つかめ！理科ダマン 〈１２〉 最強ロボット決戦！編",
         "author": "",
         "isbn": "",
-        "score": 345,
+        "score": 346,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 13
+            "rank": 12
           },
           {
             "source": "tohan",
@@ -200,30 +200,30 @@
       "isbn": "4380000407898",
       "salesType": 0,
       "matchMeta": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-        "author": "林真理子",
-        "score": 94,
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 幻冬舎新書",
+        "author": "",
+        "score": 102,
         "sources": [
           {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 2
           }
         ],
         "source": "combined",
-        "rank": 10,
-        "originalTitle": ""
+        "rank": 8,
+        "originalTitle": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書"
       },
       "ranking": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
         "author": "",
         "isbn": "",
-        "score": 176,
+        "score": 178,
         "sources": [
           {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 2
           }
         ],
         "source": "combined",
@@ -259,8 +259,7 @@
           }
         ],
         "source": "combined",
-        "rank": 11,
-        "originalTitle": "口に関するアンケート"
+        "rank": 11
       },
       "ranking": {
         "title": "口に関するアンケート",
@@ -276,53 +275,6 @@
         ],
         "source": "combined",
         "rank": 3
-      }
-    },
-    {
-      "id": "4820000903843",
-      "title": "ハヤブサ消防団　森へつづく道",
-      "author": "池井戸潤",
-      "publisher": "集英社",
-      "price": 2200,
-      "url": "https://books.rakuten.co.jp/rk/8b8de7f162953f1aa6c2fba789f5c5b5/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9371/2000021419371.jpg?_ex=600x600",
-      "caption": "【田園暮らしのミステリ作家vs美貌の歴史ミステリ作家】\nドラマ化＆柴田錬三郎賞受賞の大ヒットミステリ、待望のシリーズ新作登場！\nミステリ作家の三馬太郎が自然豊かな八百万町ハヤブサ地区に移り住んで数年。地元消防団の一員としても忙しい毎日を過ごすうち、とある文学賞にノミネート！　最大のライバル候補は、今をときめく美貌の歴史ミステリ作家・北原未南。だが、未南に不可解な疑惑が持ち上がる。\n一方、八百万町では、ある若い女性が我が子を残して川から水死体で発見されていた。事件の真相を探るうち、太郎は町を揺るがす巨大な疑惑に巻き込まれて……。\n【集英社創業100周年記念作品】\n■著者プロフィール：\n池井戸 潤（いけいど・じゅん）\n作家。1963年岐阜県生まれ。慶應義塾大学卒。98年『果つる底なき』で江戸川乱歩賞を受賞しデビュー。2010年『鉄の骨』で吉川英治文学新人賞、11年『下町ロケット』で直木賞、23年『ハヤブサ消防団』で柴田錬三郎賞を受賞。\n主な作品に「半沢直樹」シリーズ（『オレたちバブル入行組』『ロスジェネの逆襲』『アルルカンと道化師』ほか）、「下町ロケット」シリーズ（『ガウディ計画』『ヤタガラス』ほか）、『シャイロックの子供たち』『空飛ぶタイヤ』『民王』『七つの会議』『陸王』『ノーサイド・ゲーム』『花咲舞が黙ってない』『アキラとあきら』『俺たちの箱根駅伝』『ブティック』がある。\n",
-      "salesDate": "2026年08月05日",
-      "series": "ハヤブサ消防団",
-      "reviewAverage": 4.33,
-      "reviewCount": 30,
-      "genreId": "101901/101902",
-      "isbn": "4820000903843",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ハヤブサ消防団 森へつづく道",
-        "author": "",
-        "score": 78,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 16,
-        "originalTitle": "ハヤブサ消防団　森へつづく道"
-      },
-      "ranking": {
-        "title": "ハヤブサ消防団 森へつづく道",
-        "author": "",
-        "isbn": "",
-        "score": 172,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 4
       }
     },
     {
@@ -369,6 +321,54 @@
           }
         ],
         "source": "combined",
+        "rank": 4
+      }
+    },
+    {
+      "id": "4970000700308",
+      "title": "ONE PIECE novel ZORO",
+      "author": "尾田栄一郎/江坂純/なかまる",
+      "publisher": "集英社",
+      "price": 924,
+      "url": "https://books.rakuten.co.jp/rk/e51e471b67b936b2a1d365b686e512c8/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3673/2000021103673.jpg?_ex=600x600",
+      "caption": "『ONE PIECE magazine』にて好評連載されたゾロの過去編ストーリー「ONE PIECE novel ZORO」を、書き下ろしエピソードを加えて書籍化！　麦わらの一味の一員であるロロノア・ゾロがシモツキ村を出て、ルフィと出会うまでの物語を描く。「世界一の剣豪になるーー」くいなとの約束を果たすべく、ゾロの長い旅が始まる!!\n",
+      "salesDate": "2026年07月03日",
+      "series": "ONE PIECE novel ZORO",
+      "reviewAverage": 4,
+      "reviewCount": 1,
+      "genreId": "101903090",
+      "isbn": "4970000700308",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ONE PIECE novel ZORO",
+        "author": "",
+        "isbn": "",
+        "score": 171,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 18,
+        "originalTitle": "ONE PIECE novel ZORO"
+      },
+      "ranking": {
+        "title": "ONE PIECE novel ZORO",
+        "author": "",
+        "isbn": "",
+        "score": 171,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
         "rank": 5
       }
     },
@@ -389,9 +389,10 @@
       "isbn": "4340008066911",
       "salesType": 0,
       "matchMeta": {
-        "title": "夏帆 - The Tale of KAHO",
+        "title": "夏帆 - Ｔｈｅ Ｔａｌｅ ｏｆ ＫＡＨＯ",
         "author": "",
-        "score": 70,
+        "isbn": "",
+        "score": 170,
         "sources": [
           {
             "source": "kinokuniya",
@@ -400,8 +401,7 @@
           }
         ],
         "source": "combined",
-        "rank": 19,
-        "originalTitle": "夏帆 - Ｔｈｅ　Ｔａｌｅ　ｏｆ　ＫＡＨＯ"
+        "rank": 19
       },
       "ranking": {
         "title": "夏帆 - Ｔｈｅ Ｔａｌｅ ｏｆ ＫＡＨＯ",
@@ -417,6 +417,53 @@
         ],
         "source": "combined",
         "rank": 6
+      }
+    },
+    {
+      "id": "4820000903843",
+      "title": "ハヤブサ消防団　森へつづく道",
+      "author": "池井戸潤",
+      "publisher": "集英社",
+      "price": 2200,
+      "url": "https://books.rakuten.co.jp/rk/8b8de7f162953f1aa6c2fba789f5c5b5/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9371/2000021419371.jpg?_ex=600x600",
+      "caption": "【田園暮らしのミステリ作家vs美貌の歴史ミステリ作家】\nドラマ化＆柴田錬三郎賞受賞の大ヒットミステリ、待望のシリーズ新作登場！\nミステリ作家の三馬太郎が自然豊かな八百万町ハヤブサ地区に移り住んで数年。地元消防団の一員としても忙しい毎日を過ごすうち、とある文学賞にノミネート！　最大のライバル候補は、今をときめく美貌の歴史ミステリ作家・北原未南。だが、未南に不可解な疑惑が持ち上がる。\n一方、八百万町では、ある若い女性が我が子を残して川から水死体で発見されていた。事件の真相を探るうち、太郎は町を揺るがす巨大な疑惑に巻き込まれて……。\n【集英社創業100周年記念作品】\n■著者プロフィール：\n池井戸 潤（いけいど・じゅん）\n作家。1963年岐阜県生まれ。慶應義塾大学卒。98年『果つる底なき』で江戸川乱歩賞を受賞しデビュー。2010年『鉄の骨』で吉川英治文学新人賞、11年『下町ロケット』で直木賞、23年『ハヤブサ消防団』で柴田錬三郎賞を受賞。\n主な作品に「半沢直樹」シリーズ（『オレたちバブル入行組』『ロスジェネの逆襲』『アルルカンと道化師』ほか）、「下町ロケット」シリーズ（『ガウディ計画』『ヤタガラス』ほか）、『シャイロックの子供たち』『空飛ぶタイヤ』『民王』『七つの会議』『陸王』『ノーサイド・ゲーム』『花咲舞が黙ってない』『アキラとあきら』『俺たちの箱根駅伝』『ブティック』がある。\n",
+      "salesDate": "2026年08月05日",
+      "series": "ハヤブサ消防団",
+      "reviewAverage": 4.33,
+      "reviewCount": 30,
+      "genreId": "101901/101902",
+      "isbn": "4820000903843",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ハヤブサ消防団 森へつづく道",
+        "author": "",
+        "score": 66,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 11
+          }
+        ],
+        "source": "combined",
+        "rank": 20,
+        "originalTitle": "ハヤブサ消防団　森へつづく道"
+      },
+      "ranking": {
+        "title": "ハヤブサ消防団 森へつづく道",
+        "author": "",
+        "isbn": "",
+        "score": 169,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 11
+          }
+        ],
+        "source": "combined",
+        "rank": 7
       }
     },
     {
@@ -448,7 +495,7 @@
           }
         ],
         "source": "combined",
-        "rank": 23,
+        "rank": 22,
         "originalTitle": "FOR OVERSEAS"
       },
       "ranking": {
@@ -464,7 +511,7 @@
           }
         ],
         "source": "combined",
-        "rank": 7
+        "rank": 8
       }
     },
     {
@@ -516,53 +563,6 @@
           }
         ],
         "source": "combined",
-        "rank": 8
-      }
-    },
-    {
-      "id": "4310000890409",
-      "title": "楽園",
-      "author": "夕木春央",
-      "publisher": "講談社",
-      "price": 1980,
-      "url": "https://books.rakuten.co.jp/rk/1a1c684dcee83b98b4d0187187c813d0/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1651/2000021221651.jpg?_ex=600x600",
-      "caption": "殺人犯にならなければ脱出できない。\n『方舟』『十戒』の著者が仕掛ける“禁忌の驚き”\n亡き両親から不動産を譲り受けた康之は、失踪した賃借人・海原の遺留品整理の際に、群馬の山奥の謎の物件の存在を知る。そこは、切り立った岩壁に囲まれた、「楽園」と呼ばれる奇妙な場所だった。恋人の沙織と一緒にそこを訪ね、探索をはじめた康之たちは、すぐに六人の“住人”に拿捕された。脱出のための条件はーー\n「誰か一人を殺さなければならない」\n『方舟』\n第19回オリコン上半期”本”ランキング　文庫ランキングTOP10 第1位\n週刊文春ミステリーベスト10　第1位　（「週刊文春」2022年12月8日号）国内部門\nMRC大賞2022　第1位\n『方舟』＋『十戒』の累計発行部数が100万部突破。\nーー夕木春央が描く、極限のクローズド・サークル。\n",
-      "salesDate": "2026年07月22日",
-      "series": "楽園",
-      "reviewAverage": 4.24,
-      "reviewCount": 319,
-      "genreId": "101902",
-      "isbn": "4310000890409",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "楽園",
-        "author": "",
-        "score": 42,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 17
-          }
-        ],
-        "source": "combined",
-        "rank": 25,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "楽園",
-        "author": "",
-        "isbn": "",
-        "score": 162,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 18
-          }
-        ],
-        "source": "combined",
         "rank": 9
       }
     },
@@ -585,7 +585,7 @@
       "matchMeta": {
         "title": "ファイア・ドーム 上",
         "author": "辻村深月",
-        "score": 140,
+        "score": 148,
         "sources": [
           {
             "source": "tohan",
@@ -595,7 +595,7 @@
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 18
+            "rank": 16
           }
         ],
         "source": "combined",
@@ -606,167 +606,16 @@
         "title": "ファイア・ドーム 〈上〉",
         "author": "",
         "isbn": "",
-        "score": 161,
+        "score": 163,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 19
+            "rank": 17
           }
         ],
         "source": "combined",
         "rank": 10
-      }
-    },
-    {
-      "id": "4704763142740",
-      "title": "月がきれいな夜に、誰かに思い出してほしかった",
-      "author": "川代紗生",
-      "publisher": "サンマーク出版",
-      "price": 1760,
-      "url": "https://books.rakuten.co.jp/rk/b67f8f6913c93bd9a77e65bf9c012a39/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0585/2000019590585.jpg?_ex=600x600",
-      "caption": "いつも、二番目。\n私を一番に思ってくれる人は、誰もいない。\nそれでも私はーーひとりぼっちじゃ、なかった。\n恋人に「プロポーズするなら元カノがいい」と告げられ、婚約寸前でフラれた桃子。\n田舎の父からも、\n「天国の母さんに、桃子が幸せになった姿を見せてやりたい」と言われてしまう。\n「私には、愛し愛されるパートナーができない。\n他の人はじょうずに進める人生ゲームのマスが、自分には進めない。\n私は、なにかが足りてない人間なんじゃないかーー」\n桃子が働いているのは、三軒茶屋の小さな喫茶店、「雨宿り」。\nここでは、毎週金曜夜十時、“元カレごはん埋葬委員会”が開かれる。\n失恋相手との思い出のごはんが作れなくなった人たちが、\nその恋を「埋葬」するために集まる場所だ。\nモラハラを受けているのに、相手に好かれるように振る舞ってしまうかれん、\n推しが結婚してつらくても平気なふりをする美穂、\n二股をされても「彼以上に成長させてくれる人に会える気がしない」と悩む夏希、\n「初デートで牡蠣を食べようと誘われたら、脈なしってことですよね？」と思い出を語る黒田……\n相談者たちの失恋の話を聞き、\n思い出の料理をつくって共に食べるうち、桃子は気づいていく。\n誰かに選ばれないからといって、足りていない人間なわけではない、と。\n元カレごはん埋葬委員会。\n迷った心が帰る場所は、ここにある。\n“ままならない気持ち”の名手、川代紗生の新作・書き下ろしが登場！\n共感とおいしさのつまった、なんども読みたくなる1冊です。\n【目次】\n第１話 プロポーズ未遂の洋風茶碗蒸し\n第２話 ググれよ男のさっぱり煮\n第３話 推しに捧げたカルボナーラ\n第４話 二股男の不合格オムライス\n第５話 \"脈なし\"を悟った牡蠣フライ\n第６話 ママがいない日の塩胡椒チャーハン\n第７話 愛されなくても愛せるからあげ\n",
-      "salesDate": "2026年03月09日",
-      "series": "",
-      "reviewAverage": 3.78,
-      "reviewCount": 275,
-      "genreId": "101901",
-      "isbn": "4704763142740",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "月がきれいな夜に、誰かに思い出してほしかった",
-        "author": "",
-        "score": 34,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 19
-          }
-        ],
-        "source": "combined",
-        "rank": 26,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "月がきれいな夜に、誰かに思い出してほしかった",
-        "author": "",
-        "isbn": "",
-        "score": 160,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 20
-          }
-        ],
-        "source": "combined",
-        "rank": 11
-      }
-    },
-    {
-      "id": "4320000865494",
-      "title": "ファイア・ドーム 下",
-      "author": "辻村深月",
-      "publisher": "小学館",
-      "price": 1881,
-      "url": "https://books.rakuten.co.jp/rk/0cf87d9a77c93fe8a0124e6398a0aa4b/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1763/2000020771763.jpg?_ex=600x600",
-      "caption": "お前の家は、人殺しだ。\n真実を知っても、人は忘れていく。\n25年前の夏、この町には炎が降り注いだ。百貨店受付嬢誘拐殺人事件という、身近で突然起こった全国レベルのニュースを、誰もがいつまでも終わらせたくなかった。傷ついた人をさらに傷つけてしまった土地に、事件の火の粉は、まだ残っている。夏の日、写生遠足の帰りに姿を消した少年は無事に帰ってくるのか？　25年前の事件には、「まだ明かされていない」事実が本当にあるのか？\n「病気なんかで、死ねると思うな」ーー本文より\n",
-      "salesDate": "2026年06月05日",
-      "series": "ファイア・ドーム",
-      "reviewAverage": 4.6,
-      "reviewCount": 514,
-      "genreId": "101901/101902",
-      "isbn": "4320000865494",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ファイア・ドーム 下",
-        "author": "辻村深月",
-        "score": 124,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 3
-          },
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 21
-          }
-        ],
-        "source": "combined",
-        "rank": 4,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "ファイア・ドーム 〈下〉",
-        "author": "",
-        "isbn": "",
-        "score": 158,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 22
-          }
-        ],
-        "source": "combined",
-        "rank": 12
-      }
-    },
-    {
-      "id": "4310000858457",
-      "title": "多類婚姻譚",
-      "author": "凪良ゆう",
-      "publisher": "講談社",
-      "price": 2090,
-      "url": "https://books.rakuten.co.jp/rk/35543b7edf2e30ee99d978d6e6e59bdd/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9189/2000020649189.jpg?_ex=600x600",
-      "caption": "一緒に生きる。わかりあえないあなたと。\n一番近くにいる他人ーこいびとー。どうして結婚はこんなに難しくなってしまったのだろう。\n『流浪の月』『汝、星のごとく』で二度の本屋大賞を受賞した著者が描く、今そこにある愛のかたち。\nセクシュアリティ/ジェンダー、金銭感覚、世代間格差、成育環境……\nあらゆる価値観の対立の中で現代を生きるわたしたちの祈りと叫び。\n【凪良ゆう　コメント】\n「文芸書としては『星を編む』から２年半、ようやく新刊をお届けできます。\n今作は結婚について。\n婚姻譚と銘打ちながらも、婚姻への道のりがはてしなく遠い!!　これは果たして婚姻譚と言えるのか、と担当さん達と首をかしげる場面もありました。\n読んでくださった方たちと”現代の結婚”について語り合ってみたいです。」\n【収録作　紹介】\n「Thank you for your understanding」\n家族の期待に応え、ついに恋人と帰省する決意を固めた華。\n「Beautiful Dreamer」\n結婚したい。ありふれた夢のはずなのに、東京ではこんなにも遠い。\n「小鳥たち」\n離婚して、実家の書店を継いだ一葉。そこに偶然、初恋の人がやって来てーー。\n「Position Talk」\n入籍を目前にした男女。性差を越え、個としてわかり合える日は来るのか。\n「C'est la vie」\n仕事も恋も、魂を分けあった二人。だが、夢のような時間にはいつか終わりが来る。\n",
-      "salesDate": "2026年05月26日",
-      "series": "多類婚姻譚",
-      "reviewAverage": 4.27,
-      "reviewCount": 491,
-      "genreId": "101901",
-      "isbn": "4310000858457",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "多類婚姻譚",
-        "author": "凪良ゆう",
-        "score": 108,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 5
-          },
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 23
-          }
-        ],
-        "source": "combined",
-        "rank": 5,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "多類婚姻譚",
-        "author": "",
-        "isbn": "",
-        "score": 156,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 24
-          }
-        ],
-        "source": "combined",
-        "rank": 13
       }
     },
     {
@@ -788,7 +637,154 @@
       "matchMeta": {
         "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
         "author": "",
-        "score": 6,
+        "score": 30,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 20
+          }
+        ],
+        "source": "combined",
+        "rank": 27,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
+        "author": "",
+        "isbn": "",
+        "score": 159,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 21
+          }
+        ],
+        "source": "combined",
+        "rank": 11
+      }
+    },
+    {
+      "id": "4704763142740",
+      "title": "月がきれいな夜に、誰かに思い出してほしかった",
+      "author": "川代紗生",
+      "publisher": "サンマーク出版",
+      "price": 1760,
+      "url": "https://books.rakuten.co.jp/rk/b67f8f6913c93bd9a77e65bf9c012a39/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0585/2000019590585.jpg?_ex=600x600",
+      "caption": "いつも、二番目。\n私を一番に思ってくれる人は、誰もいない。\nそれでも私はーーひとりぼっちじゃ、なかった。\n恋人に「プロポーズするなら元カノがいい」と告げられ、婚約寸前でフラれた桃子。\n田舎の父からも、\n「天国の母さんに、桃子が幸せになった姿を見せてやりたい」と言われてしまう。\n「私には、愛し愛されるパートナーができない。\n他の人はじょうずに進める人生ゲームのマスが、自分には進めない。\n私は、なにかが足りてない人間なんじゃないかーー」\n桃子が働いているのは、三軒茶屋の小さな喫茶店、「雨宿り」。\nここでは、毎週金曜夜十時、“元カレごはん埋葬委員会”が開かれる。\n失恋相手との思い出のごはんが作れなくなった人たちが、\nその恋を「埋葬」するために集まる場所だ。\nモラハラを受けているのに、相手に好かれるように振る舞ってしまうかれん、\n推しが結婚してつらくても平気なふりをする美穂、\n二股をされても「彼以上に成長させてくれる人に会える気がしない」と悩む夏希、\n「初デートで牡蠣を食べようと誘われたら、脈なしってことですよね？」と思い出を語る黒田……\n相談者たちの失恋の話を聞き、\n思い出の料理をつくって共に食べるうち、桃子は気づいていく。\n誰かに選ばれないからといって、足りていない人間なわけではない、と。\n元カレごはん埋葬委員会。\n迷った心が帰る場所は、ここにある。\n“ままならない気持ち”の名手、川代紗生の新作・書き下ろしが登場！\n共感とおいしさのつまった、なんども読みたくなる1冊です。\n【目次】\n第１話 プロポーズ未遂の洋風茶碗蒸し\n第２話 ググれよ男のさっぱり煮\n第３話 推しに捧げたカルボナーラ\n第４話 二股男の不合格オムライス\n第５話 \"脈なし\"を悟った牡蠣フライ\n第６話 ママがいない日の塩胡椒チャーハン\n第７話 愛されなくても愛せるからあげ\n",
+      "salesDate": "2026年03月09日",
+      "series": "",
+      "reviewAverage": 3.78,
+      "reviewCount": 275,
+      "genreId": "101901",
+      "isbn": "4704763142740",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "月がきれいな夜に、誰かに思い出してほしかった",
+        "author": "",
+        "score": 26,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 21
+          }
+        ],
+        "source": "combined",
+        "rank": 28,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "月がきれいな夜に、誰かに思い出してほしかった",
+        "author": "",
+        "isbn": "",
+        "score": 158,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 22
+          }
+        ],
+        "source": "combined",
+        "rank": 12
+      }
+    },
+    {
+      "id": "4320000865494",
+      "title": "ファイア・ドーム 下",
+      "author": "辻村深月",
+      "publisher": "小学館",
+      "price": 1881,
+      "url": "https://books.rakuten.co.jp/rk/0cf87d9a77c93fe8a0124e6398a0aa4b/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1763/2000020771763.jpg?_ex=600x600",
+      "caption": "お前の家は、人殺しだ。\n真実を知っても、人は忘れていく。\n25年前の夏、この町には炎が降り注いだ。百貨店受付嬢誘拐殺人事件という、身近で突然起こった全国レベルのニュースを、誰もがいつまでも終わらせたくなかった。傷ついた人をさらに傷つけてしまった土地に、事件の火の粉は、まだ残っている。夏の日、写生遠足の帰りに姿を消した少年は無事に帰ってくるのか？　25年前の事件には、「まだ明かされていない」事実が本当にあるのか？\n「病気なんかで、死ねると思うな」ーー本文より\n",
+      "salesDate": "2026年06月05日",
+      "series": "ファイア・ドーム",
+      "reviewAverage": 4.6,
+      "reviewCount": 514,
+      "genreId": "101901/101902",
+      "isbn": "4320000865494",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ファイア・ドーム 下",
+        "author": "辻村深月",
+        "score": 116,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 3
+          },
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 23
+          }
+        ],
+        "source": "combined",
+        "rank": 4,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "ファイア・ドーム 〈下〉",
+        "author": "",
+        "isbn": "",
+        "score": 156,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 24
+          }
+        ],
+        "source": "combined",
+        "rank": 13
+      }
+    },
+    {
+      "id": "4310000858457",
+      "title": "多類婚姻譚",
+      "author": "凪良ゆう",
+      "publisher": "講談社",
+      "price": 2090,
+      "url": "https://books.rakuten.co.jp/rk/35543b7edf2e30ee99d978d6e6e59bdd/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9189/2000020649189.jpg?_ex=600x600",
+      "caption": "一緒に生きる。わかりあえないあなたと。\n一番近くにいる他人ーこいびとー。どうして結婚はこんなに難しくなってしまったのだろう。\n『流浪の月』『汝、星のごとく』で二度の本屋大賞を受賞した著者が描く、今そこにある愛のかたち。\nセクシュアリティ/ジェンダー、金銭感覚、世代間格差、成育環境……\nあらゆる価値観の対立の中で現代を生きるわたしたちの祈りと叫び。\n【凪良ゆう　コメント】\n「文芸書としては『星を編む』から２年半、ようやく新刊をお届けできます。\n今作は結婚について。\n婚姻譚と銘打ちながらも、婚姻への道のりがはてしなく遠い!!　これは果たして婚姻譚と言えるのか、と担当さん達と首をかしげる場面もありました。\n読んでくださった方たちと”現代の結婚”について語り合ってみたいです。」\n【収録作　紹介】\n「Thank you for your understanding」\n家族の期待に応え、ついに恋人と帰省する決意を固めた華。\n「Beautiful Dreamer」\n結婚したい。ありふれた夢のはずなのに、東京ではこんなにも遠い。\n「小鳥たち」\n離婚して、実家の書店を継いだ一葉。そこに偶然、初恋の人がやって来てーー。\n「Position Talk」\n入籍を目前にした男女。性差を越え、個としてわかり合える日は来るのか。\n「C'est la vie」\n仕事も恋も、魂を分けあった二人。だが、夢のような時間にはいつか終わりが来る。\n",
+      "salesDate": "2026年05月26日",
+      "series": "多類婚姻譚",
+      "reviewAverage": 4.27,
+      "reviewCount": 491,
+      "genreId": "101901",
+      "isbn": "4310000858457",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "多類婚姻譚",
+        "author": "",
+        "isbn": "",
+        "score": 154,
         "sources": [
           {
             "source": "kinokuniya",
@@ -797,19 +793,19 @@
           }
         ],
         "source": "combined",
-        "rank": 31,
-        "originalTitle": ""
+        "rank": 37,
+        "originalTitle": "多類婚姻譚"
       },
       "ranking": {
-        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
+        "title": "多類婚姻譚",
         "author": "",
         "isbn": "",
-        "score": 153,
+        "score": 154,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 27
+            "rank": 26
           }
         ],
         "source": "combined",
@@ -840,23 +836,23 @@
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 27
+            "rank": 29
           }
         ],
         "source": "combined",
-        "rank": 32,
+        "rank": 34,
         "originalTitle": "星のカービィ　夢幻の歯車　霧につつまれた大事件！？ 角川つばさ文庫"
       },
       "ranking": {
         "title": "星のカービィ 夢幻の歯車 霧につつまれた大事件！？ 角川つばさ文庫",
         "author": "",
         "isbn": "",
-        "score": 152,
+        "score": 150,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 28
+            "rank": 30
           }
         ],
         "source": "combined",
@@ -911,53 +907,6 @@
       }
     },
     {
-      "id": "7225000866451",
-      "title": "悩みの本──あなたが本気で生きている証",
-      "author": "高橋佳子",
-      "publisher": "三宝出版",
-      "price": 1601,
-      "url": "https://books.rakuten.co.jp/rk/e51209b1a73e3e77aedbb241d2881782/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5897/2000020795897.jpg?_ex=600x600",
-      "caption": "人は皆、大なり小なり「悩み」をもっています。\n仕事、人間関係、家庭、健康、将来……。\nあなたは今、何に悩んでいるでしょうか？　その悩みが「早くなくなればいい」「早く解決してスッキリしたい」と思っているかもしれません。\nしかし、実は、「悩み」は、「あなたが本気で生きている証」です。\n本気で生きているからこそ、大切にしたい人やものがあるからこそ、悩む。\n本書は、そうした悩みを単に解決するのではなく、悩みの奥にある意味を見つめ直す本です。\n具体的には、以下の具体的な悩みをテーマに、10の章で構成されています。\n１．就職・転職の壁\n２．仕事での失敗\n３．職場の人間関係\n４．職場での評価\n５．夫婦関係の危機\n６．事業承継の問題\n７．後悔の連鎖\n８．運命への絶望\n９．病の不安\n10．死の恐怖\nこれらは多くの人が人生で直面する悩みです。本書はこれらを通して、なぜ悩みが生まれるのか、その奥にどんな意味があるのか、そこからどう新たな人生を始めることができるのかを見つめてゆきます。\nまた、実際に様々な悩みを経験した人が、どのようにその悩みに向き合い、どのように人生を変えていったのかという具体例も紹介されています。\n本書は、ただ悩みを解決するためのハウツー本ではありません。また、抽象的な人生論でもありません。悩みを通して人生そのものを読み直す本、想像もしなかった新たな人生の扉を開くための本です。\n本を読み終えたとき、きっと、「この悩みには意味があるのかもしれない」「そうか！この考え方いいな、好きだな」と感じていただけると思います。そこからあなたの新しい人生の旅路が始まります。\n",
-      "salesDate": "2026年06月06日",
-      "series": "悩みの本──あなたが本気で生きている証",
-      "reviewAverage": 3,
-      "reviewCount": 1,
-      "genreId": "101907004090/101907002002/101905016001",
-      "isbn": "7225000866451",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "悩みの本──あなたが本気で生きている証",
-        "author": "高橋佳子",
-        "score": 74,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 17,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "悩みの本──あなたが本気で生きている証",
-        "author": "高橋佳子",
-        "score": 74,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 17,
-        "originalTitle": ""
-      }
-    },
-    {
       "id": "4479234030000",
       "title": "豊臣兄弟！　後編",
       "author": "八津弘幸/ＮＨＫドラマ制作班",
@@ -1000,15 +949,15 @@
           }
         ],
         "source": "combined",
-        "rank": 18,
+        "rank": 17,
         "originalTitle": ""
       }
     }
   ],
   "byGenre": {
     "fiction": [
-      "4820000903843",
       "4340008066911",
+      "4820000903843",
       "4660629612104",
       "4320000865495",
       "4704763142740",
@@ -1018,20 +967,17 @@
     ],
     "mystery": [
       "4820000903843",
-      "4310000890409",
       "4320000865495",
       "4320000865494"
     ],
     "sf": [],
     "business": [
-      "4524815633410",
-      "7225000866451"
+      "4524815633410"
     ],
     "humanities": [
       "4380000407898",
       "4390000014247",
-      "4320000867368",
-      "7225000866451"
+      "4320000867368"
     ],
     "nonfiction": [
       "4390000014247"
@@ -1065,7 +1011,7 @@
       "complete": true
     },
     "mystery": {
-      "matched": 4,
+      "matched": 3,
       "complete": true
     },
     "sf": {
@@ -1073,11 +1019,11 @@
       "complete": true
     },
     "business": {
-      "matched": 2,
+      "matched": 1,
       "complete": true
     },
     "humanities": {
-      "matched": 4,
+      "matched": 3,
       "complete": true
     },
     "nonfiction": {

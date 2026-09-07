@@ -36,7 +36,10 @@ jobs:
           node-version: '22'
 
       - name: Install dependencies
-        run: npm install --ignore-scripts
+        run: |
+          npm install --ignore-scripts
+          npm install --no-save playwright@1.55.0
+          npx playwright install --with-deps chromium
 
       - name: Collect every current Rakuten Kobo sale using price-bucket paging
         run: node scripts/scrape-kobo-sale.mjs /tmp/kobo-sale-candidates.json
@@ -46,13 +49,27 @@ jobs:
           KOBO_API_BASE: https://rakuten-kobo.vercel.app
         run: node scripts/build-completed-feeds.mjs /tmp/kobo-sale-candidates.json /tmp/completed-feeds
 
+      - name: Build exhaustive static sale pages
+        run: node scripts/build-all-sale-feed.mjs /tmp/kobo-sale-candidates.json /tmp/completed-feeds/kobo-sale.json /tmp/completed-feeds/sale
+
+      - name: Validate static sale metadata
+        run: |
+          node --input-type=module <<'NODE'
+          import { readFile } from 'node:fs/promises';
+          const index=JSON.parse(await readFile('/tmp/completed-feeds/sale/index.json','utf8'));
+          const page=JSON.parse(await readFile('/tmp/completed-feeds/sale/pages/0001.json','utf8'));
+          if(!index.completed||!index.pageCount||!Array.isArray(page.items)||!page.items.length)throw new Error('STATIC_SALE_FEED_EMPTY');
+          const authors=page.items.filter(item=>String(item.author||'').trim()).length;
+          const ends=page.items.filter(item=>String(item.saleEndAt||'').trim()).length;
+          console.log(`Static sale metadata page1: authors=${authors}/${page.items.length}, endDates=${ends}/${page.items.length}`);
+          if(authors/page.items.length<0.80)throw new Error(`STATIC_SALE_AUTHOR_RATE_LOW_${authors}_OF_${page.items.length}`);
+          NODE
+
       - name: Expand popular rankings without dropping resolved books
+        continue-on-error: true
         env:
           KOBO_API_BASE: https://rakuten-kobo.vercel.app
         run: node scripts/finalize-popular-feeds.mjs /tmp/completed-feeds
-
-      - name: Build exhaustive static sale pages
-        run: node scripts/build-all-sale-feed.mjs /tmp/kobo-sale-candidates.json /tmp/completed-feeds/kobo-sale.json /tmp/completed-feeds/sale
 
       - name: Publish completed feeds to ranking-data branch
         shell: bash

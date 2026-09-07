@@ -21,7 +21,8 @@ function normalizeText(v=''){return String(v).normalize('NFKC').toLowerCase().re
 function invalidTitle(title){return /^\d+\s*件$/.test(title)||/^(レビュー|商品レビュー|もっと見る|一覧)$/u.test(title)}
 function saleEndAtFromText(text=''){
   const v=cleanText(text);
-  let m=v.match(/(20\d{2})年(\d{1,2})月(\d{1,2})日(?:[（(][^）)]{0,4}[）)])?\s*(\d{1,2}):(\d{2})まで/u);
+  let m=v.match(/(?:_|\b)(20\d{2})-(\d{1,2})-(\d{1,2})\s*(\d{1,2}):(\d{2})まで/u);
+  if(!m)m=v.match(/(20\d{2})年(\d{1,2})月(\d{1,2})日(?:[（(][^）)]{0,4}[）)])?\s*(\d{1,2}):(\d{2})まで/u);
   if(!m)m=v.match(/(20\d{2})[\/.](\d{1,2})[\/.](\d{1,2})\s*(\d{1,2}):(\d{2})まで/u);
   if(!m)return'';
   const[,y,mo,d,h,mi]=m;
@@ -34,16 +35,31 @@ function authorFromText(text,title=''){
   const numberIndex=lines.findIndex((line,index)=>index>titleIndex&&/^商品番号[：:]/u.test(line));
   if(titleIndex<0||numberIndex<=titleIndex)return'';
   for(const line of lines.slice(titleIndex+1,numberIndex)){
-    if(line.length>120||/^(電子|通常価格|セール価格|シリーズ名|レビュー|商品番号)/u.test(line))continue;
+    if(line.length>160||/^(電子|通常価格|セール価格|シリーズ名|レビュー|商品番号|対応端末|紙書籍版)/u.test(line))continue;
     if(/[円%]|OFF|セール|発売/u.test(line))continue;
-    return line;
+    return line.replace(/\s*,\s*/g,', ').trim();
   }
   return'';
 }
 function absoluteBookUrl(href=''){try{const u=new URL(href,'https://books.rakuten.co.jp/');return u.hostname==='books.rakuten.co.jp'&&u.pathname.startsWith('/rk/')?u.href:''}catch{return''}}
 function absoluteImageUrl(src=''){try{return src?new URL(src,'https://books.rakuten.co.jp/').href:''}catch{return String(src||'')}}
 function parseTotalCount(html){const text=cleanText(cheerio.load(html).root().text());const m=text.match(/全\s*([\d,]+)\s*件/u);return m?Number(m[1].replace(/,/g,'')):0}
-function findBlock($,element){let node=$(element);for(let i=0;i<9;i++){node=node.parent();if(!node.length)break;const text=cleanText(node.text());if(/通常価格[：:]/.test(text)&&/セール価格[：:]/.test(text)&&text.length<6000)return{node,text}}return null}
+function structuredText(node){
+  const html=String(node?.html?.()||'')
+    .replace(/<br\s*\/?>/gi,'\n')
+    .replace(/<\/(?:p|div|li|dd|dt|h[1-6]|tr|section|article|ul|ol)>/gi,'\n');
+  return cleanText(cheerio.load(`<div>${html}</div>`).root().text());
+}
+function findProductBlock($,element){
+  let node=$(element),fallback=null;
+  for(let i=0;i<12;i++){
+    node=node.parent();if(!node.length)break;
+    const text=structuredText(node),hasPrice=/通常価格[：:]/.test(text)&&/セール価格[：:]/.test(text);
+    if(hasPrice&&!fallback&&text.length<14000)fallback={node,text};
+    if(hasPrice&&/商品番号[：:]/.test(text)&&text.length<14000)return{node,text};
+  }
+  return fallback;
+}
 
 async function fetchText(url,timeoutMs=FETCH_TIMEOUT_MS,retries=FETCH_RETRIES){
   let lastError;
@@ -73,13 +89,14 @@ function parseSalePage(html,{label='楽天Kobo公式セール',rangeOrder=0,offs
   const $=cheerio.load(html),found=new Map();
   $('a[href*="/rk/"]').each((_,element)=>{
     const title=cleanTitle($(element).text());if(!title||title.length<2||title.length>180||invalidTitle(title))return;
-    const block=findBlock($,element);if(!block)return;const text=block.text;if(ADULT_WORDS.some(w=>text.includes(w)))return;
+    const block=findProductBlock($,element);if(!block)return;const text=block.text;if(ADULT_WORDS.some(w=>text.includes(w)))return;
     const regular=text.match(/通常価格[：:]\s*([\d,]+)円/u),sale=text.match(/セール価格[：:]\s*([\d,]+)円/u);if(!regular||!sale)return;
     const regularPrice=Number(regular[1].replace(/,/g,'')),salePrice=Number(sale[1].replace(/,/g,''));if(!regularPrice||!salePrice||salePrice>=regularPrice)return;
     const url=absoluteBookUrl(String($(element).attr('href')||''));if(!url)return;
     const number=text.match(/商品番号[：:]\s*([0-9A-Za-z-]+)/u);
     const detail=text.match(/(\d{4}年\d{2}月\d{2}日)発売\s*／\s*([^／]+)\s*／\s*([^／]+)\s*／/u);
-    const campaignFromCard=text.match(/(〖[^〗]{2,120}〗[^\n]{0,180})/u)?.[1]||'';
+    const campaignFromCard=text.match(/(〖[^〗]{2,120}〗[^\n]{0,220}?(?:20\d{2}[-\/.年]\d{1,2}[-\/.月]\d{1,2}(?:日)?\s*\d{1,2}:\d{2}まで))/u)?.[1]
+      ||text.match(/(〖[^〗]{2,120}〗[^\n]{0,220})/u)?.[1]||'';
     const reviewCount=Number((text.match(/[（(]\s*(?:レビュー)?\s*([\d,]+)\s*件[）)]/u)?.[1]||'0').replace(/,/g,''))||0;
     const reviewAverage=Number(text.match(/([0-5](?:\.\d{1,2})?)\s*[（(]\s*(?:レビュー)?\s*[\d,]+\s*件[）)]/u)?.[1]||0)||0;
     const series=cleanText(text.match(/シリーズ名[：:]\s*([^\n]{1,160})/u)?.[1]||'');
@@ -87,10 +104,11 @@ function parseSalePage(html,{label='楽天Kobo公式セール',rangeOrder=0,offs
     const image=absoluteImageUrl(String(img.attr('src')||img.attr('data-src')||img.attr('data-original')||''));
     const itemNumber=number?.[1]||'',key=itemNumber||url||normalizeText(title);if(!key||found.has(key))return;
     const campaignLabel=cleanText(campaignFromCard)||label;
+    const saleEndAt=saleEndAtFromText(campaignFromCard)||saleEndAtFromText(text);
     found.set(key,{
-      title,author:authorFromText(block.node.text(),title),publisher:cleanText(detail?.[3]||''),series,itemNumber,url,image,
+      title,author:authorFromText(text,title),publisher:cleanText(detail?.[3]||''),series,itemNumber,url,image,
       salesDate:cleanText(detail?.[1]||''),reviewAverage,reviewCount,sourceRank:rangeOrder*1000000+offset+found.size+1,
-      regularPrice,salePrice,discountPercent:Math.max(1,Math.round((1-salePrice/regularPrice)*100)),saleEndAt:saleEndAtFromText(campaignLabel||text),
+      regularPrice,salePrice,discountPercent:Math.max(1,Math.round((1-salePrice/regularPrice)*100)),saleEndAt,
       saleCampaign:campaignLabel,saleCampaigns:campaignLabel?[campaignLabel]:[],sourceGenre:cleanText(detail?.[2]||''),campaignMerch:SALE_MERCH_ID,
       campaignUrl:OFFICIAL_INDEX_URL,saleSources:['rakuten-books-official-sale-listing']
     });
@@ -109,8 +127,8 @@ async function collectRange(range,rangeOrder){
   if(total>PAGE_SIZE*MAX_PAGES_PER_QUERY&&range.max!=null&&range.max>range.min){
     const mid=Math.floor((range.min+range.max)/2);
     console.log(`Price range ${range.min}-${range.max}: ${total} results exceeds 300 pages; splitting at ${mid}`);
-    const left=await collectRange({min:range.min,max:mid},rangeOrder*2+1);
-    const right=await collectRange({min:mid+1,max:range.max},rangeOrder*2+2);
+    const left=await collectRange({min:range.min,max:mid,label:`${range.label} lower`},rangeOrder*2+1);
+    const right=await collectRange({min:mid+1,max:range.max,label:`${range.label} upper`},rangeOrder*2+2);
     return{total:left.total+right.total,items:[...left.items,...right.items],parts:[...left.parts,...right.parts]};
   }
   const pages=Math.min(MAX_PAGES_PER_QUERY,Math.max(1,Math.ceil((total||PAGE_SIZE)/PAGE_SIZE)));
@@ -153,6 +171,9 @@ for(let i=0;i<baseRanges.length;i++){
 }
 const items=[...merged.values()].filter(item=>item?.title&&Number(item.regularPrice)>Number(item.salePrice)&&Number(item.salePrice)>0);
 items.forEach((item,index)=>{item.sourceOrder=index+1});
+const authorCount=items.filter(item=>item.author).length,endCount=items.filter(item=>item.saleEndAt).length,itemNumberCount=items.filter(item=>item.itemNumber).length;
+console.log(`Sale metadata: authors=${authorCount}/${items.length}, endDates=${endCount}/${items.length}, itemNumbers=${itemNumberCount}/${items.length}`);
+if(items.length>=100&&authorCount/items.length<0.70)throw new Error(`SALE_AUTHOR_PARSE_REGRESSION_${authorCount}_OF_${items.length}`);
 await mkdir(dirname(outputPath),{recursive:true});
-await writeFile(outputPath,`${JSON.stringify({kind:'sale-candidates',completed:true,exhaustive:true,scannedExhaustive:true,sourceUrl:buildSearchUrl({}),officialSaleIndex:OFFICIAL_INDEX_URL,officialTotal,updatedAt:new Date().toISOString(),priceBuckets:parts,scanned:items.length,items},null,2)}\n`,'utf8');
+await writeFile(outputPath,`${JSON.stringify({kind:'sale-candidates',completed:true,exhaustive:true,scannedExhaustive:true,sourceUrl:buildSearchUrl({}),officialSaleIndex:OFFICIAL_INDEX_URL,officialTotal,updatedAt:new Date().toISOString(),priceBuckets:parts,scanned:items.length,metadata:{authors:authorCount,saleEndDates:endCount,itemNumbers:itemNumberCount},items},null,2)}\n`,'utf8');
 console.log(`Saved ${items.length} unique sale books across ${parts.length} non-overlapping price ranges (official=${officialTotal||'unknown'})`);

@@ -4,218 +4,218 @@
   "attribution": "Amazon.co.jp",
   "sourceUrl": "https://www.amazon.co.jp/gp/bestsellers/books",
   "periodLabel": "現在のベストセラー",
-  "updatedAt": "2026-09-06T22:53:31.383Z",
+  "updatedAt": "2026-09-09T23:14:29.162Z",
   "live": false,
   "items": [
     {
       "rank": 1,
-      "title": "幽冥の岸 十二国記 (新潮文庫)",
-      "author": "小野 不由美",
-      "asin": "4101240663",
-      "url": "https://www.amazon.co.jp/dp/4101240663"
-    },
-    {
-      "rank": 2,
-      "title": "白鳥とコウモリ（上） (幻冬舎文庫)",
-      "author": "東野 圭吾",
-      "asin": "434443370X",
-      "url": "https://www.amazon.co.jp/dp/434443370X"
-    },
-    {
-      "rank": 3,
-      "title": "最強ジャンプ (10月号)",
-      "author": "",
-      "asin": "B0H8ZNM2DC",
-      "url": "https://www.amazon.co.jp/dp/B0H8ZNM2DC"
-    },
-    {
-      "rank": 4,
-      "title": "smart（スマート）2026年10号【表紙：吉田仁人（M!LK）】",
-      "author": "宝島社",
-      "asin": "B0H6X79VCL",
-      "url": "https://www.amazon.co.jp/dp/B0H6X79VCL"
-    },
-    {
-      "rank": 5,
-      "title": "白鳥とコウモリ（下） (幻冬舎文庫)",
-      "author": "東野 圭吾",
-      "asin": "4344433718",
-      "url": "https://www.amazon.co.jp/dp/4344433718"
-    },
-    {
-      "rank": 6,
       "title": "女の園の星 ５ (フィールコミックス)",
       "author": "和山やま",
       "asin": "4396751044",
       "url": "https://www.amazon.co.jp/dp/4396751044"
     },
     {
+      "rank": 2,
+      "title": "幽冥の岸 十二国記 (新潮文庫)",
+      "author": "小野不由美",
+      "asin": "4101240663",
+      "url": "https://www.amazon.co.jp/dp/4101240663"
+    },
+    {
+      "rank": 3,
+      "title": "mini（ミニ）2026年11月号",
+      "author": "宝島社",
+      "asin": "B0HGRJ2G72",
+      "url": "https://www.amazon.co.jp/dp/B0HGRJ2G72"
+    },
+    {
+      "rank": 4,
+      "title": "美ST増刊 2026年11月号",
+      "author": "美ＳＴ編集部",
+      "asin": "B0HGQDKGSJ",
+      "url": "https://www.amazon.co.jp/dp/B0HGQDKGSJ"
+    },
+    {
+      "rank": 5,
+      "title": "smart（スマート）2026年10号【表紙：吉田仁人（M!LK）】",
+      "author": "宝島社",
+      "asin": "B0H6X79VCL",
+      "url": "https://www.amazon.co.jp/dp/B0H6X79VCL"
+    },
+    {
+      "rank": 6,
+      "title": "mini（ミニ）2026年11月号増刊【表紙：塩﨑太智（M!LK）】",
+      "author": "宝島社",
+      "asin": "B0HGRFQ88M",
+      "url": "https://www.amazon.co.jp/dp/B0HGRFQ88M"
+    },
+    {
       "rank": 7,
-      "title": "ダンダダン 25 (ジャンプコミックス)",
-      "author": "龍 幸伸",
-      "asin": "4088851889",
-      "url": "https://www.amazon.co.jp/dp/4088851889"
+      "title": "STARWARS スター・ウォーズ/マンダロリアン・アンド・グローグー シールブック(ディズニーブックス) (DISNEY FAN MOOK)",
+      "author": "講談社",
+      "asin": "4065454379",
+      "url": "https://www.amazon.co.jp/dp/4065454379"
     },
     {
       "rank": 8,
-      "title": "こちら葛飾区亀有公園前派出所 202 (ジャンプコミックス)",
-      "author": "秋本 治",
-      "asin": "4088851781",
-      "url": "https://www.amazon.co.jp/dp/4088851781"
+      "title": "Casa BRUTUS(カーサ ブルータス) 2026年 10月号[ソウル・ライフスタイル・ガイド]",
+      "author": "CasaBRUTUS編集部",
+      "asin": "B0HFRNWK12",
+      "url": "https://www.amazon.co.jp/dp/B0HFRNWK12"
     },
     {
       "rank": 9,
-      "title": "わりなき恋 (幻冬舎文庫)",
-      "author": "岸 惠子",
-      "asin": "4344422317",
-      "url": "https://www.amazon.co.jp/dp/4344422317"
+      "title": "白鳥とコウモリ（上） (幻冬舎文庫)",
+      "author": "東野 圭吾",
+      "asin": "434443370X",
+      "url": "https://www.amazon.co.jp/dp/434443370X"
     },
     {
       "rank": 10,
-      "title": "AERA (アエラ) 2026年10/12増大号",
-      "author": "",
-      "asin": "B0HHS9F5JL",
-      "url": "https://www.amazon.co.jp/dp/B0HHS9F5JL"
-    },
-    {
-      "rank": 11,
-      "title": "カグラバチ 12 (ジャンプコミックス)",
-      "author": "外薗 健",
-      "asin": "4088851773",
-      "url": "https://www.amazon.co.jp/dp/4088851773"
-    },
-    {
-      "rank": 12,
-      "title": "お経に記された宝のありか 仏教レコード",
-      "author": "三木大雲",
-      "asin": "4054071171",
-      "url": "https://www.amazon.co.jp/dp/4054071171"
-    },
-    {
-      "rank": 13,
-      "title": "キングダム 80 (ヤングジャンプコミックス)",
-      "author": "原 泰久",
-      "asin": "4088942671",
-      "url": "https://www.amazon.co.jp/dp/4088942671"
-    },
-    {
-      "rank": 14,
-      "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 (幻冬舎新書 803)",
-      "author": "林真理子",
-      "asin": "434498806X",
-      "url": "https://www.amazon.co.jp/dp/434498806X"
-    },
-    {
-      "rank": 15,
-      "title": "永遠の記憶",
-      "author": "東野 圭吾",
-      "asin": "416392132X",
-      "url": "https://www.amazon.co.jp/dp/416392132X"
-    },
-    {
-      "rank": 16,
-      "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科 人生が変わるテクニック112個集めました",
-      "author": "堀田秀吾",
-      "asin": "481563341X",
-      "url": "https://www.amazon.co.jp/dp/481563341X"
-    },
-    {
-      "rank": 17,
-      "title": "sweet（スウィート）2026年11月号【表紙：山中柔太朗】",
-      "author": "宝島社",
-      "asin": "B0HGR5RPV9",
-      "url": "https://www.amazon.co.jp/dp/B0HGR5RPV9"
-    },
-    {
-      "rank": 18,
       "title": "週刊プレイボーイ (38号)",
       "author": "",
       "asin": "B0HGGJ4PTK",
       "url": "https://www.amazon.co.jp/dp/B0HGGJ4PTK"
     },
     {
-      "rank": 19,
-      "title": "勉強しなくてよかった 市場は未来を知っている",
-      "author": "朝倉慶",
-      "asin": "4828428488",
-      "url": "https://www.amazon.co.jp/dp/4828428488"
+      "rank": 11,
+      "title": "白鳥とコウモリ（下） (幻冬舎文庫)",
+      "author": "東野 圭吾",
+      "asin": "4344433718",
+      "url": "https://www.amazon.co.jp/dp/4344433718"
     },
     {
-      "rank": 20,
-      "title": "日経エンタテインメント! 2026年 9 月号増刊【表紙：EBiDAN】",
-      "author": "日経エンタテインメント!",
-      "asin": "B0H79GRQ6P",
-      "url": "https://www.amazon.co.jp/dp/B0H79GRQ6P"
-    },
-    {
-      "rank": 21,
-      "title": "ロッキング・オン・ジャパン 2026年 10 月号 [雑誌]",
-      "author": "",
-      "asin": "B0HBRHYFHV",
-      "url": "https://www.amazon.co.jp/dp/B0HBRHYFHV"
-    },
-    {
-      "rank": 22,
-      "title": "手紙屋 蛍雪篇 ～私の受験勉強を変えた十通の手紙～ ジュニア版",
-      "author": "喜多川泰",
-      "asin": "4799333232",
-      "url": "https://www.amazon.co.jp/dp/4799333232"
-    },
-    {
-      "rank": 23,
-      "title": "ブラック・ラグーン (14) (サンデーGXコミックス)",
-      "author": "広江 礼威",
-      "asin": "4091582338",
-      "url": "https://www.amazon.co.jp/dp/4091582338"
-    },
-    {
-      "rank": 24,
-      "title": "働きながら1億貯めるAI株式投資の全手順",
-      "author": "上岡正明",
-      "asin": "4776214806",
-      "url": "https://www.amazon.co.jp/dp/4776214806"
-    },
-    {
-      "rank": 25,
-      "title": "きまぐれカプセル (新潮文庫 ほ 4-55)",
-      "author": "星新一",
-      "asin": "4101098557",
-      "url": "https://www.amazon.co.jp/dp/4101098557"
-    },
-    {
-      "rank": 26,
-      "title": "秘密にしたい魅惑のスイーツレシピ",
-      "author": "小林啓吾",
-      "asin": "4651205941",
-      "url": "https://www.amazon.co.jp/dp/4651205941"
-    },
-    {
-      "rank": 27,
-      "title": "これ、かなりマジです。時間・お金・心を整える365の言葉",
-      "author": "いれぶん",
-      "asin": "4198661758",
-      "url": "https://www.amazon.co.jp/dp/4198661758"
-    },
-    {
-      "rank": 28,
-      "title": "新テニスの王子様 48 (ジャンプコミックス)",
-      "author": "許斐 剛",
-      "asin": "B0H3YDKVY8",
-      "url": "https://www.amazon.co.jp/dp/B0H3YDKVY8"
-    },
-    {
-      "rank": 29,
+      "rank": 12,
       "title": "smart（スマート）2026年11月・12月合併号【10月中旬重版分】",
       "author": "宝島社",
       "asin": "B0HBWQGBQ6",
       "url": "https://www.amazon.co.jp/dp/B0HBWQGBQ6"
     },
     {
-      "rank": 30,
+      "rank": 13,
+      "title": "BE-PAL(ビ-パル) 2026年 10 月号【特別付録: Nordisk(ノルディスク) 4ホール鋳鉄スキレット】",
+      "author": "小学館",
+      "asin": "B0HCB8TPD8",
+      "url": "https://www.amazon.co.jp/dp/B0HCB8TPD8"
+    },
+    {
+      "rank": 14,
+      "title": "薫る花は凛と咲く(24) (少年マガジンKC)",
+      "author": "三香見 サカ",
+      "asin": "B0H2H3S7RW",
+      "url": "https://www.amazon.co.jp/dp/B0H2H3S7RW"
+    },
+    {
+      "rank": 15,
+      "title": "肌を最高の味方に。 ELIXIR SPECIAL BOOK (宝島社ブランドムック)",
+      "author": "宝島社",
+      "asin": "429908120X",
+      "url": "https://www.amazon.co.jp/dp/429908120X"
+    },
+    {
+      "rank": 16,
+      "title": "ニュータイプ 2026年10月号",
+      "author": "",
+      "asin": "B0H74GB9YN",
+      "url": "https://www.amazon.co.jp/dp/B0H74GB9YN"
+    },
+    {
+      "rank": 17,
+      "title": "ダンダダン 25 (ジャンプコミックス)",
+      "author": "龍 幸伸",
+      "asin": "4088851889",
+      "url": "https://www.amazon.co.jp/dp/4088851889"
+    },
+    {
+      "rank": 18,
+      "title": "Fine(ファイン) 2026年 10 月号 [アベンジャーズをもう一度。]",
+      "author": "日之出出版",
+      "asin": "B0HF7MFLJQ",
+      "url": "https://www.amazon.co.jp/dp/B0HF7MFLJQ"
+    },
+    {
+      "rank": 19,
+      "title": "CHEER Vol.74【表紙：末澤誠也】 (TJMOOK)",
+      "author": "宝島社",
+      "asin": "4299082559",
+      "url": "https://www.amazon.co.jp/dp/4299082559"
+    },
+    {
+      "rank": 20,
       "title": "戦争犯罪と闘う 国際刑事裁判所は屈しない (文春新書 1496)",
       "author": "赤根 智子",
       "asin": "4166614967",
       "url": "https://www.amazon.co.jp/dp/4166614967"
+    },
+    {
+      "rank": 21,
+      "title": "SCREENα vol.9 まどか☆マギカが変えた魔法少女のカタチ『劇場版 魔法少女まどか☆マギカ 〈ワルプルギスの廻天〉』【特別付録】まどか☆マギカ描き下ろしSPポスター (Screen映画雑誌)",
+      "author": "SCREEN編集部",
+      "asin": "B0HFKLQ7QJ",
+      "url": "https://www.amazon.co.jp/dp/B0HFKLQ7QJ"
+    },
+    {
+      "rank": 22,
+      "title": "秘密にしたい魅惑のスイーツレシピ",
+      "author": "小林啓吾",
+      "asin": "4651205941",
+      "url": "https://www.amazon.co.jp/dp/4651205941"
+    },
+    {
+      "rank": 23,
+      "title": "女の園の星 ５ 特装版 (フィールコミックス)",
+      "author": "和山やま",
+      "asin": "4396751052",
+      "url": "https://www.amazon.co.jp/dp/4396751052"
+    },
+    {
+      "rank": 24,
+      "title": "魔入りました!入間くん 50 (50) (少年チャンピオンコミックス)",
+      "author": "西修",
+      "asin": "B0H4SJSVHC",
+      "url": "https://www.amazon.co.jp/dp/B0H4SJSVHC"
+    },
+    {
+      "rank": 25,
+      "title": "オレンジページ 2026年 10/17号増刊「Suicaのペンギンのぬいぐるみポーチ＆エコバッグ〈ウインク＆グレー〉」",
+      "author": "オレンジページ",
+      "asin": "B0HBW2W7WW",
+      "url": "https://www.amazon.co.jp/dp/B0HBW2W7WW"
+    },
+    {
+      "rank": 26,
+      "title": "異世界のんびり農家 17 (ドラゴンコミックスエイジ)",
+      "author": "剣 康之",
+      "asin": "B0GS7RT6S1",
+      "url": "https://www.amazon.co.jp/dp/B0GS7RT6S1"
+    },
+    {
+      "rank": 27,
+      "title": "AERA (アエラ) 2026年 10/19 号【表紙：末澤誠也（Aぇ! group）】 [雑誌]",
+      "author": "朝日新聞出版",
+      "asin": "B0HJ1PMD3J",
+      "url": "https://www.amazon.co.jp/dp/B0HJ1PMD3J"
+    },
+    {
+      "rank": 28,
+      "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 (幻冬舎新書 803)",
+      "author": "林真理子",
+      "asin": "434498806X",
+      "url": "https://www.amazon.co.jp/dp/434498806X"
+    },
+    {
+      "rank": 29,
+      "title": "キングダム 80 (ヤングジャンプコミックス)",
+      "author": "原 泰久",
+      "asin": "4088942671",
+      "url": "https://www.amazon.co.jp/dp/4088942671"
+    },
+    {
+      "rank": 30,
+      "title": "anan(アンアン)2026/09/30号 No.2512[ボーダレスカルチャー2026／髙橋海人]",
+      "author": "anan編集部",
+      "asin": "B0HC6S7FLX",
+      "url": "https://www.amazon.co.jp/dp/B0HC6S7FLX"
     }
   ]
 }

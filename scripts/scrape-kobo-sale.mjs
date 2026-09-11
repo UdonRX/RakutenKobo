@@ -12,6 +12,8 @@ const MAX_PAGES_PER_QUERY=300;
 const PAGE_CONCURRENCY=4;
 const FETCH_TIMEOUT_MS=24000;
 const FETCH_RETRIES=2;
+const RETRY_BACKOFF_MS=800;
+const SCRIPT_WATCHDOG_MS=50*60*1000;
 const ADULT_WORDS=['アダルト','成年コミック','成人向け','18禁','官能','成人漫画','エロティック','R18','R18+'];
 const sleep=ms=>new Promise(r=>setTimeout(r,ms));
 
@@ -61,22 +63,119 @@ function findProductBlock($,element){
   return fallback;
 }
 
-async function fetchText(url,timeoutMs=FETCH_TIMEOUT_MS,retries=FETCH_RETRIES){
-  let lastError;
-  for(let attempt=0;attempt<=retries;attempt++){
-    const controller=new AbortController(),timer=setTimeout(()=>controller.abort(),timeoutMs);
-    try{
-      const response=await fetch(url,{signal:controller.signal,headers:{Accept:'text/html,application/xhtml+xml','Accept-Language':'ja-JP,ja;q=0.9,en;q=0.5','User-Agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/140.0.0.0 Safari/537.36'}});
-      if(!response.ok)throw new Error(`HTTP_${response.status}`);
-      return await response.text();
-    }catch(error){
-      lastError=error;
-      if(attempt<retries)await sleep(800*(attempt+1));
-    }finally{clearTimeout(timer)}
-  }
-  throw lastError;
+function logDiagnostic(event,data={}){
+  console.log(`${event} ${JSON.stringify({at:new Date().toISOString(),...data})}`);
 }
-async function mapLimit(items,limit,fn){const out=new Array(items.length);let cursor=0;async function worker(){while(true){const i=cursor++;if(i>=items.length)return;try{out[i]=await fn(items[i],i)}catch(error){out[i]={error:error?.message||String(error),item:items[i]}}}}await Promise.all(Array.from({length:Math.min(limit,items.length)},worker));return out}
+function errorDetails(error){
+  if(!error)return{name:'Error',message:'unknown error'};
+  return{
+    name:error.name||'Error',
+    code:error.code||'',
+    status:error.status||'',
+    message:error.message||String(error),
+    stack:String(error.stack||'').split('\n').slice(0,10).join('\n')
+  };
+}
+function fetchContext(context={}){
+  return{
+    phase:context.phase||'page',
+    range:context.range||'all',
+    offset:Number(context.offset||0),
+    ...(context.page?{page:context.page}:{}),
+    ...(context.pages?{pages:context.pages}:{})
+  };
+}
+
+async function fetchText(url,{timeoutMs=FETCH_TIMEOUT_MS,retries=FETCH_RETRIES,context={}}={}){
+  let lastError;
+  const baseContext=fetchContext(context);
+  for(let attempt=0;attempt<=retries;attempt++){
+    const controller=new AbortController();
+    const startedAt=Date.now();
+    let hardTimer;
+    const attemptContext={...baseContext,attempt:attempt+1,maxAttempts:retries+1,timeoutMs,url};
+    logDiagnostic('[SALE_FETCH_START]',attemptContext);
+
+    const networkPromise=(async()=>{
+      const response=await fetch(url,{signal:controller.signal,headers:{Accept:'text/html,application/xhtml+xml','Accept-Language':'ja-JP,ja;q=0.9,en;q=0.5','User-Agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/140.0.0.0 Safari/537.36'}});
+      if(!response.ok){
+        const error=new Error(`HTTP_${response.status}`);
+        error.code='HTTP_STATUS';
+        error.status=response.status;
+        throw error;
+      }
+      const text=await response.text();
+      return{text,status:response.status};
+    })();
+
+    const hardTimeoutPromise=new Promise((_,reject)=>{
+      hardTimer=setTimeout(()=>{
+        const error=new Error(`HARD_TIMEOUT_${timeoutMs}MS`);
+        error.name='HardTimeoutError';
+        error.code='HARD_TIMEOUT';
+        try{controller.abort(error)}catch{}
+        reject(error);
+      },timeoutMs);
+    });
+
+    try{
+      const result=await Promise.race([networkPromise,hardTimeoutPromise]);
+      clearTimeout(hardTimer);
+      logDiagnostic('[SALE_FETCH_OK]',{
+        ...attemptContext,
+        elapsedMs:Date.now()-startedAt,
+        status:result.status,
+        bytes:Buffer.byteLength(result.text,'utf8')
+      });
+      return result.text;
+    }catch(error){
+      clearTimeout(hardTimer);
+      try{controller.abort(error)}catch{}
+      lastError=error instanceof Error?error:new Error(String(error));
+      const detail=errorDetails(lastError);
+      logDiagnostic(attempt<retries?'[SALE_FETCH_RETRY]':'[SALE_FETCH_FAIL]',{
+        ...attemptContext,
+        elapsedMs:Date.now()-startedAt,
+        errorName:detail.name,
+        errorCode:detail.code,
+        status:detail.status,
+        message:detail.message
+      });
+      if(attempt<retries)await sleep(RETRY_BACKOFF_MS*(attempt+1));
+    }
+  }
+  const finalError=new Error(`FETCH_EXHAUSTED range=${baseContext.range} offset=${baseContext.offset}: ${lastError?.message||'unknown error'}`);
+  finalError.code='FETCH_EXHAUSTED';
+  finalError.cause=lastError;
+  throw finalError;
+}
+
+async function mapLimit(items,limit,fn,{label='work'}={}){
+  const out=new Array(items.length);
+  let cursor=0,firstFailure=null;
+  async function worker(workerId){
+    while(true){
+      if(firstFailure)return;
+      const i=cursor++;
+      if(i>=items.length)return;
+      try{
+        out[i]=await fn(items[i],i);
+      }catch(error){
+        if(!firstFailure)firstFailure={index:i,item:items[i],workerId,error};
+        logDiagnostic('[SALE_PAGE_WORKER_FAIL]',{label,workerId,index:i,item:items[i],...errorDetails(error)});
+        return;
+      }
+    }
+  }
+  await Promise.all(Array.from({length:Math.min(limit,items.length)},(_,workerId)=>worker(workerId+1)));
+  if(firstFailure){
+    const error=new Error(`SALE_PAGE_COLLECTION_FAILED label=${label} item=${firstFailure.item}`);
+    error.code='SALE_PAGE_COLLECTION_FAILED';
+    error.cause=firstFailure.error;
+    throw error;
+  }
+  return out;
+}
 
 function buildSearchUrl({min=null,max=null,offset=0}={}){
   const params=new URLSearchParams({g:ROOT_GENRE_ID,merch:SALE_MERCH_ID,h:String(PAGE_SIZE),v:'1',s:'8'});
@@ -123,57 +222,102 @@ function richer(a,b){
 
 async function collectRange(range,rangeOrder){
   const firstUrl=buildSearchUrl({...range,offset:0});
-  const firstHtml=await fetchText(firstUrl),total=parseTotalCount(firstHtml);
+  const firstHtml=await fetchText(firstUrl,{context:{phase:'range-first',range:range.label,offset:0}});
+  const total=parseTotalCount(firstHtml);
   if(total>PAGE_SIZE*MAX_PAGES_PER_QUERY&&range.max!=null&&range.max>range.min){
     const mid=Math.floor((range.min+range.max)/2);
-    console.log(`Price range ${range.min}-${range.max}: ${total} results exceeds 300 pages; splitting at ${mid}`);
+    logDiagnostic('[SALE_RANGE_SPLIT]',{range:range.label,min:range.min,max:range.max,total,splitAt:mid});
     const left=await collectRange({min:range.min,max:mid,label:`${range.label} lower`},rangeOrder*2+1);
     const right=await collectRange({min:mid+1,max:range.max,label:`${range.label} upper`},rangeOrder*2+2);
     return{total:left.total+right.total,items:[...left.items,...right.items],parts:[...left.parts,...right.parts]};
   }
   const pages=Math.min(MAX_PAGES_PER_QUERY,Math.max(1,Math.ceil((total||PAGE_SIZE)/PAGE_SIZE)));
   const all=parseSalePage(firstHtml,{label:range.label,rangeOrder,offset:0});
-  console.log(`Price ${range.label}: page 1/${pages}, ${all.length} sale books, total=${total||'unknown'}`);
+  if(total===0&&all.length>0){
+    const error=new Error(`SALE_TOTAL_PARSE_FAILED range=${range.label} parsedItems=${all.length}`);
+    error.code='SALE_TOTAL_PARSE_FAILED';
+    throw error;
+  }
+  logDiagnostic('[SALE_PAGE_OK]',{range:range.label,page:1,pages,offset:0,items:all.length,total:total||0});
   if(pages>1){
     const offsets=Array.from({length:pages-1},(_,i)=>(i+1)*PAGE_SIZE);
     const results=await mapLimit(offsets,PAGE_CONCURRENCY,async offset=>{
-      const html=await fetchText(buildSearchUrl({...range,offset}));
+      const page=Math.floor(offset/PAGE_SIZE)+1;
+      const html=await fetchText(buildSearchUrl({...range,offset}),{context:{phase:'range-page',range:range.label,offset,page,pages}});
       const items=parseSalePage(html,{label:range.label,rangeOrder,offset});
-      if(offset%1000===0||offset===offsets.at(-1))console.log(`Price ${range.label}: offset ${offset}, ${items.length} sale books`);
+      logDiagnostic('[SALE_PAGE_OK]',{range:range.label,page,pages,offset,items:items.length,total});
       return items;
-    });
-    for(const result of results)if(Array.isArray(result))all.push(...result);
+    },{label:`range:${range.label}`});
+    if(results.length!==offsets.length||results.some(result=>!Array.isArray(result))){
+      const error=new Error(`SALE_PAGE_RESULT_INCOMPLETE range=${range.label} expected=${offsets.length} actual=${results.length}`);
+      error.code='SALE_PAGE_RESULT_INCOMPLETE';
+      throw error;
+    }
+    for(const result of results)all.push(...result);
   }
+  logDiagnostic('[SALE_RANGE_COMPLETE]',{range:range.label,pages,total:total||0,parsedSaleBooks:all.length});
   return{total:total||all.length,items:all,parts:[{...range,total,pages}]};
 }
 
-const globalHtml=await fetchText(buildSearchUrl({}));
-const officialTotal=parseTotalCount(globalHtml);
-console.log(`Official Rakuten Kobo sale count: ${officialTotal||'unknown'}`);
+async function main(){
+  const globalHtml=await fetchText(buildSearchUrl({}),{context:{phase:'official-total',range:'all',offset:0}});
+  const officialTotal=parseTotalCount(globalHtml);
+  if(officialTotal<=0){
+    const error=new Error('OFFICIAL_SALE_TOTAL_PARSE_FAILED');
+    error.code='OFFICIAL_SALE_TOTAL_PARSE_FAILED';
+    throw error;
+  }
+  console.log(`Official Rakuten Kobo sale count: ${officialTotal}`);
 
-const baseRanges=[
-  {min:0,max:199,label:'199円以下'},
-  {min:200,max:299,label:'200〜299円'},
-  {min:300,max:399,label:'300〜399円'},
-  {min:400,max:599,label:'400〜599円'},
-  {min:600,max:999,label:'600〜999円'},
-  {min:1000,max:1499,label:'1,000〜1,499円'},
-  {min:1500,max:1999,label:'1,500〜1,999円'},
-  {min:2000,max:2999,label:'2,000〜2,999円'},
-  {min:3000,max:4999,label:'3,000〜4,999円'},
-  {min:5000,max:9999,label:'5,000〜9,999円'},
-  {min:10000,max:null,label:'10,000円以上'}
-];
-const merged=new Map(),parts=[];
-for(let i=0;i<baseRanges.length;i++){
-  const result=await collectRange(baseRanges[i],i+1);parts.push(...result.parts);
-  for(const item of result.items){const key=item.itemNumber||item.url||`${normalizeText(item.title)}|${normalizeText(item.author)}`;if(!key)continue;merged.set(key,merged.has(key)?richer(merged.get(key),item):item)}
+  const baseRanges=[
+    {min:0,max:199,label:'199円以下'},
+    {min:200,max:299,label:'200〜299円'},
+    {min:300,max:399,label:'300〜399円'},
+    {min:400,max:599,label:'400〜599円'},
+    {min:600,max:999,label:'600〜999円'},
+    {min:1000,max:1499,label:'1,000〜1,499円'},
+    {min:1500,max:1999,label:'1,500〜1,999円'},
+    {min:2000,max:2999,label:'2,000〜2,999円'},
+    {min:3000,max:4999,label:'3,000〜4,999円'},
+    {min:5000,max:9999,label:'5,000〜9,999円'},
+    {min:10000,max:null,label:'10,000円以上'}
+  ];
+  const merged=new Map(),parts=[];
+  for(let i=0;i<baseRanges.length;i++){
+    const result=await collectRange(baseRanges[i],i+1);parts.push(...result.parts);
+    for(const item of result.items){const key=item.itemNumber||item.url||`${normalizeText(item.title)}|${normalizeText(item.author)}`;if(!key)continue;merged.set(key,merged.has(key)?richer(merged.get(key),item):item)}
+  }
+
+  const bucketTotal=parts.reduce((sum,part)=>sum+Number(part.total||0),0);
+  const countDrift=Math.abs(bucketTotal-officialTotal);
+  const allowedCountDrift=Math.max(20,Math.ceil(officialTotal*0.02));
+  logDiagnostic('[SALE_COMPLETENESS_CHECK]',{officialTotal,bucketTotal,countDrift,allowedCountDrift,buckets:parts.length});
+  if(countDrift>allowedCountDrift){
+    const error=new Error(`SALE_BUCKET_TOTAL_DRIFT_TOO_LARGE official=${officialTotal} buckets=${bucketTotal} drift=${countDrift} allowed=${allowedCountDrift}`);
+    error.code='SALE_BUCKET_TOTAL_DRIFT_TOO_LARGE';
+    throw error;
+  }
+
+  const items=[...merged.values()].filter(item=>item?.title&&Number(item.regularPrice)>Number(item.salePrice)&&Number(item.salePrice)>0);
+  items.forEach((item,index)=>{item.sourceOrder=index+1});
+  const authorCount=items.filter(item=>item.author).length,endCount=items.filter(item=>item.saleEndAt).length,itemNumberCount=items.filter(item=>item.itemNumber).length;
+  console.log(`Sale metadata: authors=${authorCount}/${items.length}, endDates=${endCount}/${items.length}, itemNumbers=${itemNumberCount}/${items.length}`);
+  if(items.length>=100&&authorCount/items.length<0.70)throw new Error(`SALE_AUTHOR_PARSE_REGRESSION_${authorCount}_OF_${items.length}`);
+  await mkdir(dirname(outputPath),{recursive:true});
+  await writeFile(outputPath,`${JSON.stringify({kind:'sale-candidates',completed:true,exhaustive:true,scannedExhaustive:true,sourceUrl:buildSearchUrl({}),officialSaleIndex:OFFICIAL_INDEX_URL,officialTotal,updatedAt:new Date().toISOString(),priceBuckets:parts,scanned:items.length,metadata:{authors:authorCount,saleEndDates:endCount,itemNumbers:itemNumberCount},items},null,2)}\n`,'utf8');
+  console.log(`Saved ${items.length} unique sale books across ${parts.length} non-overlapping price ranges (official=${officialTotal})`);
 }
-const items=[...merged.values()].filter(item=>item?.title&&Number(item.regularPrice)>Number(item.salePrice)&&Number(item.salePrice)>0);
-items.forEach((item,index)=>{item.sourceOrder=index+1});
-const authorCount=items.filter(item=>item.author).length,endCount=items.filter(item=>item.saleEndAt).length,itemNumberCount=items.filter(item=>item.itemNumber).length;
-console.log(`Sale metadata: authors=${authorCount}/${items.length}, endDates=${endCount}/${items.length}, itemNumbers=${itemNumberCount}/${items.length}`);
-if(items.length>=100&&authorCount/items.length<0.70)throw new Error(`SALE_AUTHOR_PARSE_REGRESSION_${authorCount}_OF_${items.length}`);
-await mkdir(dirname(outputPath),{recursive:true});
-await writeFile(outputPath,`${JSON.stringify({kind:'sale-candidates',completed:true,exhaustive:true,scannedExhaustive:true,sourceUrl:buildSearchUrl({}),officialSaleIndex:OFFICIAL_INDEX_URL,officialTotal,updatedAt:new Date().toISOString(),priceBuckets:parts,scanned:items.length,metadata:{authors:authorCount,saleEndDates:endCount,itemNumbers:itemNumberCount},items},null,2)}\n`,'utf8');
-console.log(`Saved ${items.length} unique sale books across ${parts.length} non-overlapping price ranges (official=${officialTotal||'unknown'})`);
+
+const scriptWatchdog=setTimeout(()=>{
+  logDiagnostic('[SALE_FATAL]',{code:'SCRIPT_HARD_TIMEOUT',message:`Script exceeded ${SCRIPT_WATCHDOG_MS}ms`});
+  process.exit(1);
+},SCRIPT_WATCHDOG_MS);
+
+main().then(()=>{
+  clearTimeout(scriptWatchdog);
+}).catch(error=>{
+  clearTimeout(scriptWatchdog);
+  logDiagnostic('[SALE_FATAL]',errorDetails(error));
+  if(error?.cause)logDiagnostic('[SALE_FATAL_CAUSE]',errorDetails(error.cause));
+  process.exitCode=1;
+});

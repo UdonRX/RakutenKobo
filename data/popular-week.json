@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-09-13T16:52:15.432Z",
-  "candidateCount": 83,
-  "baseMatched": 21,
-  "matched": 34,
-  "addedMatches": 13,
+  "updatedAt": "2026-09-13T21:21:13.962Z",
+  "candidateCount": 80,
+  "baseMatched": 24,
+  "matched": 31,
+  "addedMatches": 7,
   "unavailable": [
     "rakuten"
   ],
@@ -22,6 +22,12 @@
       "updatedAt": "2026-09-10T23:10:17.190Z",
       "live": false,
       "items": [
+        {
+          "title": "女の園の星 ５ (フィールコミックス)",
+          "author": "和山やま",
+          "isbn": "",
+          "rank": 1
+        },
         {
           "title": "幽冥の岸 十二国記 (新潮文庫 お 37-66)",
           "author": "小野不由美",
@@ -47,6 +53,12 @@
           "rank": 14
         },
         {
+          "title": "薫る花は凛と咲く(24) (少年マガジンKC)",
+          "author": "三香見 サカ",
+          "isbn": "",
+          "rank": 17
+        },
+        {
           "title": "ダンダダン 25 (ジャンプコミックス)",
           "author": "龍 幸伸",
           "isbn": "",
@@ -57,6 +69,18 @@
           "author": "剣 康之",
           "isbn": "",
           "rank": 26
+        },
+        {
+          "title": "戦争犯罪と闘う 国際刑事裁判所は屈しない (文春新書 1496)",
+          "author": "赤根 智子",
+          "isbn": "",
+          "rank": 28
+        },
+        {
+          "title": "うるわしの宵の月(11) (KCデザート)",
+          "author": "やまもり 三香",
+          "isbn": "",
+          "rank": 29
         },
         {
           "title": "キングダム 80 (ヤングジャンプコミックス)",
@@ -80,12 +104,6 @@
           "author": "伊坂幸太郎",
           "isbn": "",
           "rank": 3
-        },
-        {
-          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-          "author": "林真理子",
-          "isbn": "",
-          "rank": 4
         },
         {
           "title": "シャーロック・ホームズの凱旋",
@@ -123,10 +141,10 @@
       "live": true,
       "items": [
         {
-          "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
+          "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
           "author": "",
           "isbn": "",
-          "rank": 5
+          "rank": 4
         },
         {
           "title": "お願いしないで人を動かす 心のつかみ方",
@@ -182,22 +200,10 @@
       "live": true,
       "items": [
         {
-          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-          "author": "",
-          "isbn": "",
-          "rank": 2
-        },
-        {
           "title": "会社四季報 業界地図 2027年版",
           "author": "",
           "isbn": "",
           "rank": 4
-        },
-        {
-          "title": "キングダム magazine 2026",
-          "author": "",
-          "isbn": "",
-          "rank": 5
         },
         {
           "title": "歴史ゴーストバスターズ(12) 字消士ご一行珍道中!?",
@@ -212,98 +218,56 @@
           "rank": 8
         },
         {
-          "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
-          "author": "",
-          "isbn": "",
-          "rank": 9
-        },
-        {
           "title": "FOR OVERSEAS",
           "author": "",
           "isbn": "",
           "rank": 12
         }
       ]
-    },
-    "rakuten": {
-      "id": "rakuten",
-      "label": "楽天ブックス",
-      "attribution": "楽天ブックス",
-      "sourceUrl": "https://books.rakuten.co.jp/",
-      "periodLabel": "売れ筋順",
-      "updatedAt": "2026-09-13",
-      "live": true,
-      "items": [
-        {
-          "title": "うるわしの宵の月（11）",
-          "author": "やまもり 三香",
-          "rank": 6
-        },
-        {
-          "title": "女の園の星（5）",
-          "author": "和山やま",
-          "rank": 11
-        },
-        {
-          "title": "あなたの部屋は、あなた自身です。",
-          "author": "舛田光洋",
-          "rank": 25
-        }
-      ]
     }
   },
   "items": [
     {
-      "id": "4380000407898",
-      "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-      "author": "林真理子",
-      "publisher": "幻冬舎",
-      "price": 982,
-      "url": "https://books.rakuten.co.jp/rk/1e28fc1db6b83578b06b0919e0a52cd7/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0908/2000020490908.jpg?_ex=600x600",
-      "caption": "70代は頭も体もまだ大丈夫。\nそれなりに蓄えもできている。\nでもこれまでと全く同じことをしていたらダメ。\nできないことは諦め、楽しいことを大事にし、人生の新しいステージに立とう。\n同じ年代とばかりつるまず、ダイエットはしない。\n嫌われずに自慢話をするテクニック、お金にキレイな人と思われるおごり方ーー。\n72歳の人気作家が本音で語る「健康」「おしゃれ」「仕事」「お金」「人間関係」「趣味」。\n確実に近づく「その日」を見つめ、今の1分1秒を楽しんで生きるための、痛快・人生論。\n",
-      "salesDate": "2026年05月27日",
-      "series": "",
-      "reviewAverage": 3.47,
-      "reviewCount": 46,
-      "genreId": "101907010004/101909",
-      "isbn": "4380000407898",
+      "id": "4681308443742",
+      "title": "女の園の星（５）【電子限定特典付】",
+      "author": "和山やま",
+      "publisher": "祥伝社",
+      "price": 825,
+      "url": "https://books.rakuten.co.jp/rk/b2b2f443d6b837ea8cb25b4b09cfe38f/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1397/2000020491397.jpg?_ex=600x600",
+      "caption": "【電子限定！カラーイラスト収録】\n大ヒット!! 累計320万部突破！\nくだらないから愛おしい。爆笑止まらぬ女子校コメディ！\n夏休み最終日。新学期の準備をしていた星先生は、なぜか漫才の練習に付き合わされることになり…？\n一方、小林先生はSNS流出疑惑で校長に呼び出されて大ピンチ!?\n生徒会選挙には2年4組から鳥井さんが出馬表明！\n選挙の後は文化祭と、イベント盛りだくさんな２学期がスタートです。\n番外編「星先生のあの夏。」「星先生の昼やすみ」「小林先生のラッキーな休日」の３編も収録し、\n予測不能な笑いを大ボリュームでお届けする第５巻!!\n◆◇◆通常版の単行本カバー・カバー下・表2・表3イラストを収録◆◇◆\n",
+      "salesDate": "2026年09月08日",
+      "series": "女の園の星",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904090",
+      "isbn": "4681308443742",
       "salesType": 0,
       "matchMeta": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-        "author": "林真理子",
-        "score": 192,
+        "title": "女の園の星 5",
+        "author": "和山やま",
+        "score": 106,
         "sources": [
           {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 4
-          },
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 3
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 1
           }
         ],
         "source": "combined",
-        "rank": 2,
-        "originalTitle": ""
+        "rank": 5,
+        "originalTitle": "女の園の星 ５ (フィールコミックス)"
       },
       "ranking": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-        "author": "林真理子",
+        "title": "女の園の星 ５ (フィールコミックス)",
+        "author": "和山やま",
         "isbn": "",
-        "score": 354,
+        "score": 179,
         "sources": [
           {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 4
-          },
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 2
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 1
           }
         ],
         "source": "combined",
@@ -338,7 +302,7 @@
           }
         ],
         "source": "combined",
-        "rank": 11,
+        "rank": 8,
         "originalTitle": "幽冥の岸 十二国記 (新潮文庫 お 37-66)"
       },
       "ranking": {
@@ -358,20 +322,20 @@
       }
     },
     {
-      "id": "4916475490001",
-      "title": "プレゼント",
-      "author": "若竹七海",
-      "publisher": "中央公論新社",
-      "price": 776,
-      "url": "https://books.rakuten.co.jp/rk/9fe631efeb0f3eb0a09ce80197395709/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1444/2000007701444.jpg?_ex=600x600",
-      "caption": "ルーム・クリーナー、電話相談、興信所。トラブルメイカーのフリーター・葉村晶と、娘に借りたピンクの子供用自転車で現場に駆けつける小林警部補。二人が巻き込まれたハードボイルドで悲しい八つの事件とはーー。間抜けだが悪気のない隣人たちがひき起こす騒動はいつも危険すぎる！\n",
-      "salesDate": "2019年08月30日",
-      "series": "プレゼント",
-      "reviewAverage": 3.52,
-      "reviewCount": 92,
-      "genreId": "101901/101902",
-      "isbn": "4916475490001",
+      "id": "4340008067051",
+      "title": "プレゼント（新潮文庫）",
+      "author": "伊坂幸太郎/江國香織/恩田陸/梨木香歩/町田そのこ/宮部みゆき/米澤穂信",
+      "publisher": "新潮社",
+      "price": 825,
+      "url": "https://books.rakuten.co.jp/rk/e8a60fd88eb63075a76e50e52cf98712/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8962/2000020598962.jpg?_ex=600x600",
+      "caption": "これはこれまで小説を愛してきてくれた人へ、そしてこれから小説の世界に一歩踏み出す人へ贈るプレゼント。何気なく読んだ物語が、ふと目にした一行が、意外な言葉ひとつが、人生を大きく変えるかもしれない。現代を代表する７人の作家が「夏」をテーマに書き下ろした、驚きと切なさ、怖さと美しさ、何よりとびきりの面白さを詰め込んだ奇跡の一冊。さぁ、あなたの人生に小説という選択肢を。\n",
+      "salesDate": "2026年06月24日",
+      "series": "",
+      "reviewAverage": 3.88,
+      "reviewCount": 318,
+      "genreId": "101901",
+      "isbn": "4340008067051",
       "salesType": 0,
       "matchMeta": {
         "title": "プレゼント",
@@ -385,7 +349,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12,
+        "rank": 9,
         "originalTitle": ""
       },
       "ranking": {
@@ -402,6 +366,53 @@
         ],
         "source": "combined",
         "rank": 3
+      }
+    },
+    {
+      "id": "4380000407898",
+      "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+      "author": "林真理子",
+      "publisher": "幻冬舎",
+      "price": 982,
+      "url": "https://books.rakuten.co.jp/rk/1e28fc1db6b83578b06b0919e0a52cd7/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0908/2000020490908.jpg?_ex=600x600",
+      "caption": "70代は頭も体もまだ大丈夫。\nそれなりに蓄えもできている。\nでもこれまでと全く同じことをしていたらダメ。\nできないことは諦め、楽しいことを大事にし、人生の新しいステージに立とう。\n同じ年代とばかりつるまず、ダイエットはしない。\n嫌われずに自慢話をするテクニック、お金にキレイな人と思われるおごり方ーー。\n72歳の人気作家が本音で語る「健康」「おしゃれ」「仕事」「お金」「人間関係」「趣味」。\n確実に近づく「その日」を見つめ、今の1分1秒を楽しんで生きるための、痛快・人生論。\n",
+      "salesDate": "2026年05月27日",
+      "series": "",
+      "reviewAverage": 3.47,
+      "reviewCount": 46,
+      "genreId": "101907010004/101909",
+      "isbn": "4380000407898",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 幻冬舎新書",
+        "author": "",
+        "score": 94,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 4
+          }
+        ],
+        "source": "combined",
+        "rank": 13,
+        "originalTitle": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書"
+      },
+      "ranking": {
+        "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
+        "author": "",
+        "isbn": "",
+        "score": 176,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 4
+          }
+        ],
+        "source": "combined",
+        "rank": 4
       }
     },
     {
@@ -433,7 +444,8 @@
           }
         ],
         "source": "combined",
-        "rank": 13
+        "rank": 13,
+        "originalTitle": "会社四季報 業界地図 2027年版"
       },
       "ranking": {
         "title": "会社四季報 業界地図 2027年版",
@@ -448,7 +460,7 @@
           }
         ],
         "source": "combined",
-        "rank": 4
+        "rank": 5
       }
     },
     {
@@ -479,7 +491,7 @@
           }
         ],
         "source": "combined",
-        "rank": 19,
+        "rank": 15,
         "originalTitle": ""
       },
       "ranking": {
@@ -495,149 +507,7 @@
           }
         ],
         "source": "combined",
-        "rank": 5
-      }
-    },
-    {
-      "id": "4390000014247",
-      "title": "戦争犯罪と闘う　国際刑事裁判所は屈しない",
-      "author": "赤根智子",
-      "publisher": "文藝春秋",
-      "price": 1000,
-      "url": "https://books.rakuten.co.jp/rk/ed83c0d4161a37adb64937f2dc843815/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5761/2000017995761.jpg?_ex=600x600",
-      "caption": "二つの戦争、そして戦後国際秩序の行方は\nロシアによるウクライナ侵攻とイスラエルによるパレスチナへの非人道的な攻撃。目まぐるしく国際情勢が変化するなか、この二つの戦争に向き合い、プーチンとネタニヤフに逮捕状を出した国際刑事裁判所（ICC）。日本人として初めてそのトップに就任した著者は、ほどなくしてプーチンから逆指名手配を受けることにもなった。さらにはトランプ大統領の大統領令による経済制裁の脅威にさらされるなど、世界規模の戦争犯罪に向き合ってきた国際刑事裁判所はいま、存続の危機にある。\n第二次世界大戦後にホロコーストに向き合ったニュルンベルク裁判、日本の戦争責任を裁いた東京裁判。二つの軍事法廷裁判にルーツをもち、国際平和秩序を守ろうと奮闘してきた国際刑事裁判所とはいかなる機関か。二つの戦争という異例の事態にどう向き合ったのか。「世界の警察」アメリカが過去のものになりつつある戦後国際秩序の行方とはーー。\n「世界で起きていることが日本では起きないとは限らない」。「力による支配」がむき出しになりつつある今こそ「法の支配」による安全保障が必要だ。\n「ウクライナ戦争の勃発で完全に覚醒した」と語る赤根さんが、その奮闘を通じて未来への責任を語りかける。\n※本書電子書籍版は刊行後の国際情勢の変化を鑑み、２０２５年１０月に記述の一部を更新しました。\n",
-      "salesDate": "2025年06月20日",
-      "series": "",
-      "reviewAverage": 4.11,
-      "reviewCount": 29,
-      "genreId": "101907009/101907005003/101914",
-      "isbn": "4390000014247",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
-        "author": "",
-        "score": 90,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 5
-          }
-        ],
-        "source": "combined",
-        "rank": 22,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
-        "author": "",
-        "isbn": "",
-        "score": 175,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 5
-          }
-        ],
-        "source": "combined",
         "rank": 6
-      }
-    },
-    {
-      "id": "4972000161524",
-      "title": "キングダム magazine 2026",
-      "author": "原泰久",
-      "publisher": "集英社",
-      "price": 1881,
-      "url": "https://books.rakuten.co.jp/rk/47fb09e2be1731b4a06b3f70f3466419/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2094/2000021122094.jpg?_ex=600x600",
-      "caption": "キングダム連載20周年を記念して、読むたびにアツくなる！　語りたくなる!!　キングダムを楽しみ尽くす一冊!!　読切『金剛』掲載。『キングダム』の原点、主人公・信が誕生した幻の読切を再掲。原泰久3大インタビュー。・20周年スペシャル単独インタビュー　・原泰久×松原利光（YJ連載『ガス灯野良犬探偵団』作画）×笠原真樹（ビッグコミックスピリッツ連載『夢なし先生の進路指導』） 師弟鼎談　・ちばてつや×原泰久特別対談。　大特集『キングダム』二十年の軌跡。様々な角度から連載20年を振り返る大特集。その他、映画、アニメ、ゲーム、キングダムの20年が凝縮された企画盛り沢山の240ページ。　※電子版には3大アプリゲーム特典コードはつきません。\n",
-      "salesDate": "2026年08月19日",
-      "series": "キングダム magazine 2026",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904002006",
-      "isbn": "4972000161524",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "キングダム magazine 2026",
-        "author": "",
-        "isbn": "",
-        "score": 175,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 5
-          }
-        ],
-        "source": "combined",
-        "rank": 17,
-        "originalTitle": "キングダム magazine 2026"
-      },
-      "ranking": {
-        "title": "キングダム magazine 2026",
-        "author": "",
-        "isbn": "",
-        "score": 175,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 5
-          }
-        ],
-        "source": "combined",
-        "rank": 7
-      }
-    },
-    {
-      "id": "4310000920047",
-      "title": "うるわしの宵の月（１１）",
-      "author": "やまもり三香",
-      "publisher": "講談社",
-      "price": 594,
-      "url": "https://books.rakuten.co.jp/rk/6fc3b4fd623b344c923ab1e6d55b7031/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9731/2000021649731.jpg?_ex=600x600",
-      "caption": "滝口宵は、容姿端麗・スマートなふるまいで「王子」と呼ばれる女子。\n学校で同じく「王子」と呼ばれる市村先輩に出会い、\nひょんなことからお試しでのお付き合いが始まる。\n初めは身構えていた宵も段々と気持ちが変化し、夏祭りで\nお互いようやく素直に気持ちを打ち合け、正式に付き合うことに。\nクリスマスから年末と幸せな日々を過ごす２人。だけど新学期、\nなぜか先輩が学校に来なくなる。先輩から家の事情で学校をやめ、\n留学することになったと聞かされ、さらに別れることになってしまい…!!?\nともに「王子」と呼ばれる男女の恋、再び２人の絆は戻るの─!!?\n",
-      "salesDate": "2026年09月11日",
-      "series": "うるわしの宵の月",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904011016",
-      "isbn": "4310000920047",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "うるわしの宵の月(11)",
-        "author": "やまもり 三香",
-        "score": 86,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 6
-          }
-        ],
-        "source": "combined",
-        "rank": 26,
-        "originalTitle": "うるわしの宵の月（11）"
-      },
-      "ranking": {
-        "title": "うるわしの宵の月（11）",
-        "author": "やまもり 三香",
-        "isbn": "",
-        "score": 174,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 6
-          }
-        ],
-        "source": "combined",
-        "rank": 8
       }
     },
     {
@@ -684,7 +554,7 @@
           }
         ],
         "source": "combined",
-        "rank": 9
+        "rank": 7
       }
     },
     {
@@ -715,7 +585,7 @@
           }
         ],
         "source": "combined",
-        "rank": 29,
+        "rank": 23,
         "originalTitle": ""
       },
       "ranking": {
@@ -731,7 +601,7 @@
           }
         ],
         "source": "combined",
-        "rank": 10
+        "rank": 8
       }
     },
     {
@@ -762,7 +632,7 @@
           }
         ],
         "source": "combined",
-        "rank": 37,
+        "rank": 29,
         "originalTitle": "お願いしないで人を動かす　心のつかみ方"
       },
       "ranking": {
@@ -778,55 +648,7 @@
           }
         ],
         "source": "combined",
-        "rank": 11
-      }
-    },
-    {
-      "id": "6681315606560",
-      "title": "anan No.2509 Special Edition",
-      "author": "anan編集部",
-      "publisher": "マガジンハウス",
-      "price": 790,
-      "url": "https://books.rakuten.co.jp/rk/9e6ee39777573384a3f11a69fea91d2e/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8776/2000021558776.jpg?_ex=600x600",
-      "caption": "※『anan No.2509』『anan No.2509増刊』『anan No.2509 Special Edition』は表紙・裏表紙のみが異なり、そのほかの内容はすべて同一です。\n※電子版では、紙の雑誌と内容が一部異なる場合や、掲載されないページや特別付録が含まれない場合がございます。\n※本雑誌はカラーページを含みます。お使いの端末によっては、一部読みづらい場合がございます。\n高地優吾 森本慎太郎（SixTONES） 預ける背中、寄り添う想い。\n誰かとつながる、わかちあう幸せ。シェアライフ2026\nいいものはふたりでわけあって、もっと心地よく。ボーダレスに楽しむ、ファッション&ビューティ。\n毎日の生活に彩りをくれる、シェアアイテムウィッシュリスト。\n俳優、モデル・中島侑香さんとめぐる 楽しみ広がる、話題のシェアスペース。\n生活を便利に豊かにしてくれる! 最新シェアサービスの使い方。\n“安く住む”から、“どう暮らしたいか?”へ。今どきの“シェアハウス”のカタチ。\n出会い、冒険、友情…! 『映画ちいかわ 人魚の島のひみつ』の世界。\nオモコロ編集部 遊ぶように、働くように。\n期間限定連載 THE INCREDIBLE PHOTO JOURNEY! 橋本将生／猪俣周杜／篠塚大輝（timelesz） 08 健やかなカラダ\n",
-      "salesDate": "2026年08月26日",
-      "series": "anan",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101950020",
-      "isbn": "6681315606560",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "anan No.2509 Special Edition",
-        "author": "",
-        "isbn": "",
-        "score": 172,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 30,
-        "originalTitle": "anan No.2509 Special Edition"
-      },
-      "ranking": {
-        "title": "anan No.2509 Special Edition",
-        "author": "",
-        "isbn": "",
-        "score": 172,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 12
+        "rank": 9
       }
     },
     {
@@ -858,7 +680,7 @@
           }
         ],
         "source": "combined",
-        "rank": 27
+        "rank": 26
       },
       "ranking": {
         "title": "Casa BRUTUS(カーサ ブルータス) 2026年 10月号[ソウル・ライフスタイル・ガイド]",
@@ -873,54 +695,54 @@
           }
         ],
         "source": "combined",
-        "rank": 13
+        "rank": 10
       }
     },
     {
-      "id": "4620000615075",
-      "title": "ブラッディダイスの殺人　上",
-      "author": "Ｍ Ｗ クレイヴン",
-      "publisher": "早川書房",
-      "price": 1210,
-      "url": "https://books.rakuten.co.jp/rk/91ea3c43631d345d8bb867055aba005f/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9728/2000021429728.jpg?_ex=600x600",
-      "caption": "ポーとティリーが再びタッグを組む！　シリーズ累計30万部の最新作！\n英国全土で連続狙撃事件が発生。犠牲者は17人にのぼるも犯人の手がかりはなく、ポーとティリーは国家犯罪対策庁に呼び戻されるが\n",
-      "salesDate": "2026年08月19日",
-      "series": "ワシントン・ポー",
-      "reviewAverage": 4.5,
-      "reviewCount": 13,
-      "genreId": "101902",
-      "isbn": "4620000615075",
+      "id": "6681315606560",
+      "title": "anan No.2509 Special Edition",
+      "author": "anan編集部",
+      "publisher": "マガジンハウス",
+      "price": 790,
+      "url": "https://books.rakuten.co.jp/rk/9e6ee39777573384a3f11a69fea91d2e/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8776/2000021558776.jpg?_ex=600x600",
+      "caption": "※『anan No.2509』『anan No.2509増刊』『anan No.2509 Special Edition』は表紙・裏表紙のみが異なり、そのほかの内容はすべて同一です。\n※電子版では、紙の雑誌と内容が一部異なる場合や、掲載されないページや特別付録が含まれない場合がございます。\n※本雑誌はカラーページを含みます。お使いの端末によっては、一部読みづらい場合がございます。\n高地優吾 森本慎太郎（SixTONES） 預ける背中、寄り添う想い。\n誰かとつながる、わかちあう幸せ。シェアライフ2026\nいいものはふたりでわけあって、もっと心地よく。ボーダレスに楽しむ、ファッション&ビューティ。\n毎日の生活に彩りをくれる、シェアアイテムウィッシュリスト。\n俳優、モデル・中島侑香さんとめぐる 楽しみ広がる、話題のシェアスペース。\n生活を便利に豊かにしてくれる! 最新シェアサービスの使い方。\n“安く住む”から、“どう暮らしたいか?”へ。今どきの“シェアハウス”のカタチ。\n出会い、冒険、友情…! 『映画ちいかわ 人魚の島のひみつ』の世界。\nオモコロ編集部 遊ぶように、働くように。\n期間限定連載 THE INCREDIBLE PHOTO JOURNEY! 橋本将生／猪俣周杜／篠塚大輝（timelesz） 08 健やかなカラダ\n",
+      "salesDate": "2026年08月26日",
+      "series": "anan",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101950020",
+      "isbn": "6681315606560",
       "salesType": 0,
       "matchMeta": {
-        "title": "ブラッディダイスの殺人 上",
-        "author": "M・W・クレイヴン",
-        "score": 74,
+        "title": "anan No.2509 Special Edition",
+        "author": "",
+        "isbn": "",
+        "score": 172,
         "sources": [
           {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 9
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 8
           }
         ],
         "source": "combined",
-        "rank": 39,
-        "originalTitle": ""
+        "rank": 29
       },
       "ranking": {
-        "title": "ブラッディダイスの殺人 上",
-        "author": "M・W・クレイヴン",
+        "title": "anan No.2509 Special Edition",
+        "author": "",
         "isbn": "",
-        "score": 171,
+        "score": 172,
         "sources": [
           {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 9
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 8
           }
         ],
         "source": "combined",
-        "rank": 14
+        "rank": 11
       }
     },
     {
@@ -951,7 +773,7 @@
           }
         ],
         "source": "combined",
-        "rank": 42,
+        "rank": 33,
         "originalTitle": "「思い込み」が未来を決める　東大・早稲田大・筑波大生、上場企業経営者らを指導して"
       },
       "ranking": {
@@ -967,55 +789,54 @@
           }
         ],
         "source": "combined",
-        "rank": 15
+        "rank": 12
       }
     },
     {
-      "id": "4524815633410",
-      "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
-      "author": "堀田 秀吾",
-      "publisher": "SBクリエイティブ",
-      "price": 1760,
-      "url": "https://books.rakuten.co.jp/rk/79a1d43cefcb3337b3e2363c5f00a07e/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1658/2000018091658.jpg?_ex=600x600",
-      "caption": "勉強・ダイエット・貯金・目標達成…は習慣化が10割\n仕事、ダイエット、健康管理、勉強、目標達成…すべて成功のカギは「習慣化」にあります。\nしかし間違った習慣を身につけてしまったらその代償は大きくなってしまいます。\n何をどう習慣化すればいいか、そのために重要になるのが「エビデンス」です。\n・もし「A」をしたら「B」をすると、あらかじめ決めておく\n・選択肢は必ず「3つ」用意しておく\n・常にポジティブな言葉を使うーつらさに対する耐性が高まる\n・52分間作業して、17分休憩するー生産性が高まるetc.\n本書は、ハーバード、スタンフォード、オックスフォード…などの研究機関において証明されたテクニックを112個紹介。\n見開き図解入りでわかりやすい。気になったテクニックからはじめられ、情報収集のためにも役立ち、また読みものとしても楽しめる一冊です。\n※カバー画像が異なる場合があります。\n",
-      "salesDate": "2025年07月02日",
-      "series": "",
-      "reviewAverage": 3.69,
-      "reviewCount": 369,
-      "genreId": "101905090",
-      "isbn": "4524815633410",
+      "id": "4620000615075",
+      "title": "ブラッディダイスの殺人　上",
+      "author": "Ｍ Ｗ クレイヴン",
+      "publisher": "早川書房",
+      "price": 1210,
+      "url": "https://books.rakuten.co.jp/rk/91ea3c43631d345d8bb867055aba005f/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9728/2000021429728.jpg?_ex=600x600",
+      "caption": "ポーとティリーが再びタッグを組む！　シリーズ累計30万部の最新作！\n英国全土で連続狙撃事件が発生。犠牲者は17人にのぼるも犯人の手がかりはなく、ポーとティリーは国家犯罪対策庁に呼び戻されるが\n",
+      "salesDate": "2026年08月19日",
+      "series": "ワシントン・ポー",
+      "reviewAverage": 4.5,
+      "reviewCount": 13,
+      "genreId": "101902",
+      "isbn": "4620000615075",
       "salesType": 0,
       "matchMeta": {
-        "title": "ハーバード、スタンフォード、オックスフォード... 科学的に証明された すごい習慣大百科",
-        "author": "",
-        "isbn": "",
-        "score": 171,
+        "title": "ブラッディダイスの殺人 上",
+        "author": "M・W・クレイヴン",
+        "score": 74,
         "sources": [
           {
-            "source": "tohan",
-            "label": "トーハン",
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
             "rank": 9
           }
         ],
         "source": "combined",
-        "rank": 34,
-        "originalTitle": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科"
+        "rank": 31,
+        "originalTitle": ""
       },
       "ranking": {
-        "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
-        "author": "",
+        "title": "ブラッディダイスの殺人 上",
+        "author": "M・W・クレイヴン",
         "isbn": "",
         "score": 171,
         "sources": [
           {
-            "source": "tohan",
-            "label": "トーハン",
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
             "rank": 9
           }
         ],
         "source": "combined",
-        "rank": 16
+        "rank": 13
       }
     },
     {
@@ -1046,7 +867,7 @@
           }
         ],
         "source": "combined",
-        "rank": 44,
+        "rank": 35,
         "originalTitle": ""
       },
       "ranking": {
@@ -1062,54 +883,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17
-      }
-    },
-    {
-      "id": "4681308443742",
-      "title": "女の園の星（５）【電子限定特典付】",
-      "author": "和山やま",
-      "publisher": "祥伝社",
-      "price": 825,
-      "url": "https://books.rakuten.co.jp/rk/b2b2f443d6b837ea8cb25b4b09cfe38f/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1397/2000020491397.jpg?_ex=600x600",
-      "caption": "【電子限定！カラーイラスト収録】\n大ヒット!! 累計320万部突破！\nくだらないから愛おしい。爆笑止まらぬ女子校コメディ！\n夏休み最終日。新学期の準備をしていた星先生は、なぜか漫才の練習に付き合わされることになり…？\n一方、小林先生はSNS流出疑惑で校長に呼び出されて大ピンチ!?\n生徒会選挙には2年4組から鳥井さんが出馬表明！\n選挙の後は文化祭と、イベント盛りだくさんな２学期がスタートです。\n番外編「星先生のあの夏。」「星先生の昼やすみ」「小林先生のラッキーな休日」の３編も収録し、\n予測不能な笑いを大ボリュームでお届けする第５巻!!\n◆◇◆通常版の単行本カバー・カバー下・表2・表3イラストを収録◆◇◆\n",
-      "salesDate": "2026年09月08日",
-      "series": "女の園の星",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904090",
-      "isbn": "4681308443742",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "女の園の星(5)",
-        "author": "和山やま",
-        "score": 66,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 11
-          }
-        ],
-        "source": "combined",
-        "rank": 49,
-        "originalTitle": "女の園の星（5）"
-      },
-      "ranking": {
-        "title": "女の園の星（5）",
-        "author": "和山やま",
-        "isbn": "",
-        "score": 169,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 11
-          }
-        ],
-        "source": "combined",
-        "rank": 18
+        "rank": 14
       }
     },
     {
@@ -1140,7 +914,7 @@
           }
         ],
         "source": "combined",
-        "rank": 54,
+        "rank": 42,
         "originalTitle": ""
       },
       "ranking": {
@@ -1156,7 +930,7 @@
           }
         ],
         "source": "combined",
-        "rank": 19
+        "rank": 15
       }
     },
     {
@@ -1188,7 +962,7 @@
           }
         ],
         "source": "combined",
-        "rank": 45
+        "rank": 43
       },
       "ranking": {
         "title": "FOR OVERSEAS",
@@ -1203,7 +977,7 @@
           }
         ],
         "source": "combined",
-        "rank": 20
+        "rank": 16
       }
     },
     {
@@ -1234,7 +1008,7 @@
           }
         ],
         "source": "combined",
-        "rank": 60,
+        "rank": 46,
         "originalTitle": ""
       },
       "ranking": {
@@ -1250,7 +1024,7 @@
           }
         ],
         "source": "combined",
-        "rank": 21
+        "rank": 17
       }
     },
     {
@@ -1281,7 +1055,7 @@
           }
         ],
         "source": "combined",
-        "rank": 65,
+        "rank": 49,
         "originalTitle": ""
       },
       "ranking": {
@@ -1297,7 +1071,54 @@
           }
         ],
         "source": "combined",
-        "rank": 22
+        "rank": 18
+      }
+    },
+    {
+      "id": "4310000917800",
+      "title": "薫る花は凛と咲く（２４）",
+      "author": "三香見サカ",
+      "publisher": "講談社",
+      "price": 627,
+      "url": "https://books.rakuten.co.jp/rk/7c1cbc3f06163e1284f3827f2251dd16/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3486/2000021613486.jpg?_ex=600x600",
+      "caption": "明かされた土岐先生の秘められた過去。かつての生徒・松笠を守れなかった後悔と自責が、桔梗と千鳥の深い溝を作った理由となっていた。しかし、凛太郎たちの真摯な想いは、両校の先生たちの心を動かす。「新しい千鳥と桔梗の関係の、礎になってほしい」閉ざされた両校の歴史に開いた“風穴”。新たな交流の兆しが芽吹く──。そんな中、薫子たち桔梗の面々も土岐先生のもとへ。交わすのは過去の清算ではなく、未来の展望。生徒たちの成長に、優しい笑みを零す土岐先生。そんな彼女は、薫子と二人で話したいことがあるようで──。\n",
+      "salesDate": "2026年09月09日",
+      "series": "薫る花は凛と咲く",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904",
+      "isbn": "4310000917800",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "薫る花は凛と咲く(24) (少年マガジンKC)",
+        "author": "三香見 サカ",
+        "score": 42,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 17
+          }
+        ],
+        "source": "combined",
+        "rank": 52,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "薫る花は凛と咲く(24) (少年マガジンKC)",
+        "author": "三香見 サカ",
+        "isbn": "",
+        "score": 163,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 17
+          }
+        ],
+        "source": "combined",
+        "rank": 19
       }
     },
     {
@@ -1319,8 +1140,7 @@
       "matchMeta": {
         "title": "捨てられた僕と母猫と奇跡 - 心に傷を負った二人が新たに見つけた居場所",
         "author": "",
-        "isbn": "",
-        "score": 159,
+        "score": 26,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1329,7 +1149,8 @@
           }
         ],
         "source": "combined",
-        "rank": 64
+        "rank": 59,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "捨てられた僕と母猫と奇跡 - 心に傷を負った二人が新たに見つけた居場所",
@@ -1344,7 +1165,7 @@
           }
         ],
         "source": "combined",
-        "rank": 23
+        "rank": 20
       }
     },
     {
@@ -1364,10 +1185,9 @@
       "isbn": "4972000164838",
       "salesType": 0,
       "matchMeta": {
-        "title": "ダンダダン 25 (ジャンプコミックス)",
+        "title": "ダンダダン 25",
         "author": "龍 幸伸",
-        "isbn": "",
-        "score": 157,
+        "score": 18,
         "sources": [
           {
             "source": "amazon",
@@ -1376,7 +1196,8 @@
           }
         ],
         "source": "combined",
-        "rank": 67
+        "rank": 64,
+        "originalTitle": "ダンダダン 25 (ジャンプコミックス)"
       },
       "ranking": {
         "title": "ダンダダン 25 (ジャンプコミックス)",
@@ -1391,54 +1212,7 @@
           }
         ],
         "source": "combined",
-        "rank": 24
-      }
-    },
-    {
-      "id": "4704763142900",
-      "title": "あなたの部屋は、あなた自身です。",
-      "author": "舛田光洋",
-      "publisher": "サンマーク出版",
-      "price": 1650,
-      "url": "https://books.rakuten.co.jp/rk/38eeda255c4736a3b9cbb05652117c8e/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5117/2000019555117.jpg?_ex=600x600",
-      "caption": "なぜかうまいっている人は、床にものが落ちていない。\n人生を立て直す行動環境メソッド「そうじ力」。\nあなたの部屋は、いまどのような状態ですか？\nもし、あなたの部屋が汚れているのなら、\n人生、行き詰まっていませんか？\nじつは、「あなたの部屋は、あなた自身」です。\n部屋は、あなたのいまの人生を反映しています。\nだから、部屋をキレイにすることで、人生を変えることも可能なのです。\n「そうじには人生を変える力がある」\nこれは、著者が長年提唱してきた、人生哲学「そうじ力」です。\n数々の家庭や企業を見る中、その場・空間とそこにいる人の生き方には、\n「相関の法則」があるということを解明したのです。\n住む人の「思い（心）」が、「行動」となり、その「結果」が部屋にあらわれる。\nだから、部屋をキレイにすることで、人の行動が変わり、思い（心）が変わり、\nそして人生までも変えるーーというのが、そうじ力の考えです。\nこの「『人生』と『空間』の相関法則」は、著者の経験則にとどまらず、\n数々のエビデンスがあり、さらに古来の教えにもあることです。\n犯罪心理学の「割れ窓理論」では、\n「割られた窓ガラスなど軽犯罪を放置すると、\n最終的に地域全体が荒廃し、\n犯罪が増加する」ということでも証明されています。\n仏教哲学には、\n「その人の心のあり方や行いが、\nその人を取り巻く環境や状況に影響を与える」\nという教えもあります。\nそして事実、古今東西、\n掃除やキレイな空間を大事にしている成功者は数多くいます。\n本書では、心理学、社会学、脳科学などさまざまなエビデンスや、\n仏教哲学も交え解説します。\nリビング、キッチン、トイレ、寝室……どこの部屋が私たちに\nどのような影響を与えているか、\nそして、キレイにすることによって起こるさまざまな奇跡的な出来事などをご紹介します。\n掃除が苦手という人でも大丈夫。\nまずは、蛇口など小さな場所を磨くことで人生が激変するコツや、\n自宅やオフィスに非日常の「例外領域」をもつコツなども紹介しています。\nさあ、人生を変えたければ、\nまずは、あなたの部屋と向き合いましょう。\n【目次より】\n◉空間と人生には「相関法則」がある\n◉成功している人は、なぜそうじを大事にしているのか？\n◉小さな秩序の乱れが重犯罪につながるーー割れ窓理論\n◉なぜ、お金持ちは「床にものを置かない」のか？\n◉トイレーーなぜ、幸運を呼ぶ場所と言われるのか？\n◉日本人が世界中でもっとも眠れない驚きの理由\n◉捨てることは、過去も未来も断ち切ること\n◉自分のレベルを下げるものを置いていませんか？\n◉非日常の「例外領域」を自宅につくろう\n",
-      "salesDate": "2026年03月02日",
-      "series": "",
-      "reviewAverage": 3.52,
-      "reviewCount": 21,
-      "genreId": "101905010",
-      "isbn": "4704763142900",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "あなたの部屋は、あなた自身です。",
-        "author": "舛田光洋",
-        "score": 10,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 25
-          }
-        ],
-        "source": "combined",
-        "rank": 90,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "あなたの部屋は、あなた自身です。",
-        "author": "舛田光洋",
-        "isbn": "",
-        "score": 155,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 25
-          }
-        ],
-        "source": "combined",
-        "rank": 25
+        "rank": 21
       }
     },
     {
@@ -1470,7 +1244,7 @@
           }
         ],
         "source": "combined",
-        "rank": 72
+        "rank": 70
       },
       "ranking": {
         "title": "ミリオンダラー強運思考",
@@ -1485,7 +1259,7 @@
           }
         ],
         "source": "combined",
-        "rank": 26
+        "rank": 22
       }
     },
     {
@@ -1516,7 +1290,7 @@
           }
         ],
         "source": "combined",
-        "rank": 95,
+        "rank": 70,
         "originalTitle": "異世界のんびり農家 17 (ドラゴンコミックスエイジ)"
       },
       "ranking": {
@@ -1532,7 +1306,7 @@
           }
         ],
         "source": "combined",
-        "rank": 27
+        "rank": 23
       }
     },
     {
@@ -1554,8 +1328,7 @@
       "matchMeta": {
         "title": "イン・ザ・メガチャーチ",
         "author": "",
-        "isbn": "",
-        "score": 152,
+        "score": 5,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1564,7 +1337,8 @@
           }
         ],
         "source": "combined",
-        "rank": 79
+        "rank": 72,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "イン・ザ・メガチャーチ",
@@ -1579,55 +1353,101 @@
           }
         ],
         "source": "combined",
-        "rank": 28
+        "rank": 24
       }
     },
     {
-      "id": "4972000161446",
-      "title": "キングダム 80",
-      "author": "原泰久",
-      "publisher": "集英社",
-      "price": 770,
-      "url": "https://books.rakuten.co.jp/rk/050764b407853c8da27e5a42ab86656e/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2133/2000021122133.jpg?_ex=600x600",
-      "caption": "李牧の防衛網を突破せよ!!　紀元前229年 趙完全攻略戦　白熱する趙完全攻略戦。北部では、司馬尚軍と宜安・番吾からなる趙北部軍とで、王翦軍への挟撃を図ろうとする李牧の策を阻止するべく玉鳳軍が立ちはだかる。一方、中華十弓・青華雲を討ち取った飛信隊は、蒙恬の発案により、楽華軍・羌カイ軍との三軍連合攻撃を開始するが…!?\n",
-      "salesDate": "2026年08月19日",
-      "series": "キングダム",
-      "reviewAverage": 3.92,
-      "reviewCount": 12,
-      "genreId": "101904002006",
-      "isbn": "4972000161446",
+      "id": "4390000014247",
+      "title": "戦争犯罪と闘う　国際刑事裁判所は屈しない",
+      "author": "赤根智子",
+      "publisher": "文藝春秋",
+      "price": 1000,
+      "url": "https://books.rakuten.co.jp/rk/ed83c0d4161a37adb64937f2dc843815/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5761/2000017995761.jpg?_ex=600x600",
+      "caption": "二つの戦争、そして戦後国際秩序の行方は\nロシアによるウクライナ侵攻とイスラエルによるパレスチナへの非人道的な攻撃。目まぐるしく国際情勢が変化するなか、この二つの戦争に向き合い、プーチンとネタニヤフに逮捕状を出した国際刑事裁判所（ICC）。日本人として初めてそのトップに就任した著者は、ほどなくしてプーチンから逆指名手配を受けることにもなった。さらにはトランプ大統領の大統領令による経済制裁の脅威にさらされるなど、世界規模の戦争犯罪に向き合ってきた国際刑事裁判所はいま、存続の危機にある。\n第二次世界大戦後にホロコーストに向き合ったニュルンベルク裁判、日本の戦争責任を裁いた東京裁判。二つの軍事法廷裁判にルーツをもち、国際平和秩序を守ろうと奮闘してきた国際刑事裁判所とはいかなる機関か。二つの戦争という異例の事態にどう向き合ったのか。「世界の警察」アメリカが過去のものになりつつある戦後国際秩序の行方とはーー。\n「世界で起きていることが日本では起きないとは限らない」。「力による支配」がむき出しになりつつある今こそ「法の支配」による安全保障が必要だ。\n「ウクライナ戦争の勃発で完全に覚醒した」と語る赤根さんが、その奮闘を通じて未来への責任を語りかける。\n※本書電子書籍版は刊行後の国際情勢の変化を鑑み、２０２５年１０月に記述の一部を更新しました。\n",
+      "salesDate": "2025年06月20日",
+      "series": "",
+      "reviewAverage": 4.11,
+      "reviewCount": 29,
+      "genreId": "101907009/101907005003/101914",
+      "isbn": "4390000014247",
       "salesType": 0,
       "matchMeta": {
-        "title": "キングダム 80",
-        "author": "原 泰久",
-        "isbn": "",
-        "score": 150,
+        "title": "戦争犯罪と闘う 国際刑事裁判所は屈しない",
+        "author": "赤根 智子",
+        "score": 5,
         "sources": [
           {
             "source": "amazon",
             "label": "Amazon",
-            "rank": 30
+            "rank": 28
           }
         ],
         "source": "combined",
-        "rank": 82,
-        "originalTitle": "キングダム 80 (ヤングジャンプコミックス)"
+        "rank": 76,
+        "originalTitle": "戦争犯罪と闘う 国際刑事裁判所は屈しない (文春新書 1496)"
       },
       "ranking": {
-        "title": "キングダム 80 (ヤングジャンプコミックス)",
-        "author": "原 泰久",
+        "title": "戦争犯罪と闘う 国際刑事裁判所は屈しない (文春新書 1496)",
+        "author": "赤根 智子",
         "isbn": "",
-        "score": 150,
+        "score": 152,
         "sources": [
           {
             "source": "amazon",
             "label": "Amazon",
-            "rank": 30
+            "rank": 28
           }
         ],
         "source": "combined",
-        "rank": 29
+        "rank": 25
+      }
+    },
+    {
+      "id": "4310000920047",
+      "title": "うるわしの宵の月（１１）",
+      "author": "やまもり三香",
+      "publisher": "講談社",
+      "price": 594,
+      "url": "https://books.rakuten.co.jp/rk/6fc3b4fd623b344c923ab1e6d55b7031/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9731/2000021649731.jpg?_ex=600x600",
+      "caption": "滝口宵は、容姿端麗・スマートなふるまいで「王子」と呼ばれる女子。\n学校で同じく「王子」と呼ばれる市村先輩に出会い、\nひょんなことからお試しでのお付き合いが始まる。\n初めは身構えていた宵も段々と気持ちが変化し、夏祭りで\nお互いようやく素直に気持ちを打ち合け、正式に付き合うことに。\nクリスマスから年末と幸せな日々を過ごす２人。だけど新学期、\nなぜか先輩が学校に来なくなる。先輩から家の事情で学校をやめ、\n留学することになったと聞かされ、さらに別れることになってしまい…!!?\nともに「王子」と呼ばれる男女の恋、再び２人の絆は戻るの─!!?\n",
+      "salesDate": "2026年09月11日",
+      "series": "うるわしの宵の月",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904011016",
+      "isbn": "4310000920047",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "うるわしの宵の月(11) (KCデザート)",
+        "author": "やまもり 三香",
+        "isbn": "",
+        "score": 151,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 29
+          }
+        ],
+        "source": "combined",
+        "rank": 77
+      },
+      "ranking": {
+        "title": "うるわしの宵の月(11) (KCデザート)",
+        "author": "やまもり 三香",
+        "isbn": "",
+        "score": 151,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 29
+          }
+        ],
+        "source": "combined",
+        "rank": 26
       }
     },
     {
@@ -1649,8 +1469,7 @@
       "matchMeta": {
         "title": "ギャルにひかれて寺マルシェ",
         "author": "",
-        "isbn": "",
-        "score": 150,
+        "score": 5,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1659,8 +1478,8 @@
           }
         ],
         "source": "combined",
-        "rank": 83,
-        "originalTitle": "ギャルにひかれて寺マルシェ"
+        "rank": 74,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "ギャルにひかれて寺マルシェ",
@@ -1675,7 +1494,54 @@
           }
         ],
         "source": "combined",
-        "rank": 30
+        "rank": 27
+      }
+    },
+    {
+      "id": "4972000161446",
+      "title": "キングダム 80",
+      "author": "原泰久",
+      "publisher": "集英社",
+      "price": 770,
+      "url": "https://books.rakuten.co.jp/rk/050764b407853c8da27e5a42ab86656e/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2133/2000021122133.jpg?_ex=600x600",
+      "caption": "李牧の防衛網を突破せよ!!　紀元前229年 趙完全攻略戦　白熱する趙完全攻略戦。北部では、司馬尚軍と宜安・番吾からなる趙北部軍とで、王翦軍への挟撃を図ろうとする李牧の策を阻止するべく玉鳳軍が立ちはだかる。一方、中華十弓・青華雲を討ち取った飛信隊は、蒙恬の発案により、楽華軍・羌カイ軍との三軍連合攻撃を開始するが…!?\n",
+      "salesDate": "2026年08月19日",
+      "series": "キングダム",
+      "reviewAverage": 3.92,
+      "reviewCount": 12,
+      "genreId": "101904002006",
+      "isbn": "4972000161446",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "キングダム 80",
+        "author": "原 泰久",
+        "score": 5,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 30
+          }
+        ],
+        "source": "combined",
+        "rank": 78,
+        "originalTitle": "キングダム 80 (ヤングジャンプコミックス)"
+      },
+      "ranking": {
+        "title": "キングダム 80 (ヤングジャンプコミックス)",
+        "author": "原 泰久",
+        "isbn": "",
+        "score": 150,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 30
+          }
+        ],
+        "source": "combined",
+        "rank": 28
       }
     },
     {
@@ -1706,7 +1572,7 @@
           }
         ],
         "source": "combined",
-        "rank": 4,
+        "rank": 3,
         "originalTitle": ""
       },
       "ranking": {
@@ -1721,7 +1587,7 @@
           }
         ],
         "source": "combined",
-        "rank": 31,
+        "rank": 29,
         "originalTitle": ""
       }
     },
@@ -1753,7 +1619,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15,
+        "rank": 12,
         "originalTitle": ""
       },
       "ranking": {
@@ -1768,7 +1634,7 @@
           }
         ],
         "source": "combined",
-        "rank": 32,
+        "rank": 30,
         "originalTitle": ""
       }
     },
@@ -1800,7 +1666,7 @@
           }
         ],
         "source": "combined",
-        "rank": 20,
+        "rank": 16,
         "originalTitle": ""
       },
       "ranking": {
@@ -1815,54 +1681,7 @@
           }
         ],
         "source": "combined",
-        "rank": 33,
-        "originalTitle": ""
-      }
-    },
-    {
-      "id": "4480000838415",
-      "title": "けんぐゎい",
-      "author": "朝倉かすみ",
-      "publisher": "光文社",
-      "price": 1980,
-      "url": "https://books.rakuten.co.jp/rk/7249a640151339f4ab53ef18f6bba0b0/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8537/2000020238537.jpg?_ex=600x600",
-      "caption": "利発だが酷い痘痕の姉ふゆ。逆上せ癖で縹緻よしの妹りよ。幼くして父を亡くし、ふゆは手習師匠の手伝いに、りよは船宿の下女奉公に出された。師匠の養子で禍々しいほどに歪んだ性癖をもつ宗三郎から手籠めにされたふゆは懐妊するが、現人神と崇められる女医者と出逢い、彼女の人生は大きく変わっていく。自我に目覚めた主人公が、女の生と向き合う、時代小説の新しい扉！　第175回直木賞受賞作！\n",
-      "salesDate": "2026年04月22日",
-      "series": "けんぐゎい",
-      "reviewAverage": 3.44,
-      "reviewCount": 98,
-      "genreId": "101901001001",
-      "isbn": "4480000838415",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "けんぐゎい",
-        "author": "朝倉かすみ",
-        "score": 70,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 45,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "けんぐゎい",
-        "author": "朝倉かすみ",
-        "score": 70,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 34,
+        "rank": 31,
         "originalTitle": ""
       }
     }
@@ -1870,17 +1689,15 @@
   "byGenre": {
     "fiction": [
       "4340008067611",
-      "4916475490001",
+      "4340008067051",
       "4910000909001",
       "4910000912586",
       "4390000005636",
       "4770025390000",
       "4660629612104",
-      "4331000700320",
-      "4480000838415"
+      "4331000700320"
     ],
     "mystery": [
-      "4916475490001",
       "4390000005636",
       "4620000615075",
       "4620000615076",
@@ -1891,15 +1708,13 @@
       "4659733601001",
       "7275000891118",
       "7275000923851",
-      "4524815633410",
       "4410000009676",
-      "4704763142900",
       "4561004112000"
     ],
     "humanities": [
       "4380000407898",
-      "4390000014247",
-      "4770025390000"
+      "4770025390000",
+      "4390000014247"
     ],
     "nonfiction": [
       "4390000014247"
@@ -1924,21 +1739,21 @@
     ],
     "essay": [],
     "comic": [
-      "4972000161524",
-      "4310000920047",
       "4681308443742",
+      "4310000917800",
       "4972000164838",
       "4336195000320",
+      "4310000920047",
       "4972000161446"
     ]
   },
   "genreStatus": {
     "fiction": {
-      "matched": 9,
+      "matched": 8,
       "complete": true
     },
     "mystery": {
-      "matched": 5,
+      "matched": 4,
       "complete": true
     },
     "sf": {
@@ -1946,7 +1761,7 @@
       "complete": true
     },
     "business": {
-      "matched": 7,
+      "matched": 5,
       "complete": true
     },
     "humanities": {

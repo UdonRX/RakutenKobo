@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-09-13T16:52:32.426Z",
+  "updatedAt": "2026-09-13T21:21:31.733Z",
   "candidateCount": 38,
-  "baseMatched": 15,
-  "matched": 18,
-  "addedMatches": 3,
+  "baseMatched": 16,
+  "matched": 20,
+  "addedMatches": 4,
   "unavailable": [],
   "snapshots": {
     "kinokuniya": {
@@ -20,12 +20,6 @@
       "updatedAt": "2026-09-13",
       "live": true,
       "items": [
-        {
-          "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
-          "author": "",
-          "isbn": "",
-          "rank": 2
-        },
         {
           "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
           "author": "",
@@ -81,6 +75,12 @@
           "rank": 24
         },
         {
+          "title": "楽園",
+          "author": "",
+          "isbn": "",
+          "rank": 27
+        },
+        {
           "title": "ギャルにひかれて寺マルシェ",
           "author": "",
           "isbn": "",
@@ -103,6 +103,12 @@
       "updatedAt": "2026-09-13",
       "live": true,
       "items": [
+        {
+          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+          "author": "",
+          "isbn": "",
+          "rank": 2
+        },
         {
           "title": "ハヤブサ消防団 森へつづく道",
           "author": "",
@@ -258,29 +264,29 @@
       "isbn": "4380000407898",
       "salesType": 0,
       "matchMeta": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 幻冬舎新書",
-        "author": "",
-        "score": 102,
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "author": "林真理子",
+        "score": 94,
         "sources": [
           {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 2
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
           }
         ],
         "source": "combined",
-        "rank": 8,
-        "originalTitle": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書"
+        "rank": 10,
+        "originalTitle": ""
       },
       "ranking": {
-        "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
         "author": "",
         "isbn": "",
         "score": 178,
         "sources": [
           {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
+            "source": "tohan",
+            "label": "トーハン",
             "rank": 2
           }
         ],
@@ -411,8 +417,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18,
-        "originalTitle": "キングダム magazine 2026"
+        "rank": 18
       },
       "ranking": {
         "title": "キングダム magazine 2026",
@@ -745,15 +750,11 @@
       "isbn": "4320000865494",
       "salesType": 0,
       "matchMeta": {
-        "title": "ファイア・ドーム 下",
-        "author": "辻村深月",
-        "score": 112,
+        "title": "ファイア・ドーム 〈下〉",
+        "author": "",
+        "isbn": "",
+        "score": 156,
         "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 3
-          },
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
@@ -761,8 +762,7 @@
           }
         ],
         "source": "combined",
-        "rank": 4,
-        "originalTitle": ""
+        "rank": 32
       },
       "ranking": {
         "title": "ファイア・ドーム 〈下〉",
@@ -781,46 +781,46 @@
       }
     },
     {
-      "id": "4331000700320",
-      "title": "ギャルにひかれて寺マルシェ",
-      "author": "宮島　未奈",
-      "publisher": "KADOKAWA",
-      "price": 2035,
-      "url": "https://books.rakuten.co.jp/rk/892ef7e9e1143dc0868ac50df9bd106a/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9754/2000021549754.jpg?_ex=600x600",
-      "caption": "亡くなった父親の酒屋を継いだ30歳の英介は、商売への向上心もなく、なんとなく毎日を送っている。そこに現れたのは、久しぶりに地元に帰ってきた、腐れ縁の悪友・光司。光司に誘われ英介は、子どものころに近所の陵泉寺に埋めたという高価なポケモンカードを掘り起こすことに。偵察のため、陵泉寺で開かれている〈寺マルシェ〉を訪れると、ギャルメイクで法話を行う尼僧を見つける。それは実家の陵泉寺で副住職を務める、元同級生の真実子だった。かつての優等生の面影のない姿に呆気にとられる英介の傍ら、光司は真実子を〈ギャル僧〉として売り出して金儲けすることを思いつきーー！？読めばきっと元気がもらえる、大人になりきれない大人たちの青春譚！\n",
-      "salesDate": "2026年09月02日",
-      "series": "ギャルにひかれて寺マルシェ",
-      "reviewAverage": 3.5,
-      "reviewCount": 3,
-      "genreId": "101901",
-      "isbn": "4331000700320",
+      "id": "4310000890409",
+      "title": "楽園",
+      "author": "夕木春央",
+      "publisher": "講談社",
+      "price": 1980,
+      "url": "https://books.rakuten.co.jp/rk/1a1c684dcee83b98b4d0187187c813d0/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1651/2000021221651.jpg?_ex=600x600",
+      "caption": "殺人犯にならなければ脱出できない。\n『方舟』『十戒』の著者が仕掛ける“禁忌の驚き”\n亡き両親から不動産を譲り受けた康之は、失踪した賃借人・海原の遺留品整理の際に、群馬の山奥の謎の物件の存在を知る。そこは、切り立った岩壁に囲まれた、「楽園」と呼ばれる奇妙な場所だった。恋人の沙織と一緒にそこを訪ね、探索をはじめた康之たちは、すぐに六人の“住人”に拿捕された。脱出のための条件はーー\n「誰か一人を殺さなければならない」\n『方舟』\n第19回オリコン上半期”本”ランキング　文庫ランキングTOP10 第1位\n週刊文春ミステリーベスト10　第1位　（「週刊文春」2022年12月8日号）国内部門\nMRC大賞2022　第1位\n『方舟』＋『十戒』の累計発行部数が100万部突破。\nーー夕木春央が描く、極限のクローズド・サークル。\n",
+      "salesDate": "2026年07月22日",
+      "series": "楽園",
+      "reviewAverage": 4.2,
+      "reviewCount": 364,
+      "genreId": "101902",
+      "isbn": "4310000890409",
       "salesType": 0,
       "matchMeta": {
-        "title": "ギャルにひかれて寺マルシェ",
+        "title": "楽園",
         "author": "",
         "score": 5,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 28
+            "rank": 27
           }
         ],
         "source": "combined",
-        "rank": 33,
+        "rank": 32,
         "originalTitle": ""
       },
       "ranking": {
-        "title": "ギャルにひかれて寺マルシェ",
+        "title": "楽園",
         "author": "",
         "isbn": "",
-        "score": 152,
+        "score": 153,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 28
+            "rank": 27
           }
         ],
         "source": "combined",
@@ -875,6 +875,53 @@
       }
     },
     {
+      "id": "4331000700320",
+      "title": "ギャルにひかれて寺マルシェ",
+      "author": "宮島　未奈",
+      "publisher": "KADOKAWA",
+      "price": 2035,
+      "url": "https://books.rakuten.co.jp/rk/892ef7e9e1143dc0868ac50df9bd106a/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9754/2000021549754.jpg?_ex=600x600",
+      "caption": "亡くなった父親の酒屋を継いだ30歳の英介は、商売への向上心もなく、なんとなく毎日を送っている。そこに現れたのは、久しぶりに地元に帰ってきた、腐れ縁の悪友・光司。光司に誘われ英介は、子どものころに近所の陵泉寺に埋めたという高価なポケモンカードを掘り起こすことに。偵察のため、陵泉寺で開かれている〈寺マルシェ〉を訪れると、ギャルメイクで法話を行う尼僧を見つける。それは実家の陵泉寺で副住職を務める、元同級生の真実子だった。かつての優等生の面影のない姿に呆気にとられる英介の傍ら、光司は真実子を〈ギャル僧〉として売り出して金儲けすることを思いつきーー！？読めばきっと元気がもらえる、大人になりきれない大人たちの青春譚！\n",
+      "salesDate": "2026年09月02日",
+      "series": "ギャルにひかれて寺マルシェ",
+      "reviewAverage": 3.5,
+      "reviewCount": 3,
+      "genreId": "101901",
+      "isbn": "4331000700320",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ギャルにひかれて寺マルシェ",
+        "author": "",
+        "score": 5,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 28
+          }
+        ],
+        "source": "combined",
+        "rank": 33,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "ギャルにひかれて寺マルシェ",
+        "author": "",
+        "isbn": "",
+        "score": 152,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 28
+          }
+        ],
+        "source": "combined",
+        "rank": 16
+      }
+    },
+    {
       "id": "4320000867368",
       "title": "GOAT Summer 2026",
       "author": "宮島未奈/尾崎世界観/山内マリコ/梨/麻布競馬場",
@@ -917,7 +964,54 @@
           }
         ],
         "source": "combined",
-        "rank": 16,
+        "rank": 17,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "4390000015358",
+      "title": "青天",
+      "author": "若林正恭",
+      "publisher": "文藝春秋",
+      "price": 1900,
+      "url": "https://books.rakuten.co.jp/rk/a6fc1b8794af3eafb7f064fac9c68dfa/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0144/2000019330144.jpg?_ex=600x600",
+      "caption": "オードリー・若林正恭、初小説！\n人にぶつかっていないと、自分が生きているかどうかよくわからなくなるーー\n総大三高の「アリ」こと中村昴が所属するアメフト部は、万年２回戦どまり。相手校の練習を隠し撮りして迎えた高３の引退大会では、強豪・遼西学園に打ち破れた。引退後、みなが受験に向かうなか、勉強にも気持ちが入らず、不良になる覚悟もないまま宙ぶらりんの日々を過ごす。自分自身の不甲斐なさにもがき続けるなかで、アリは再びアメフトと向き合う決意を固める。\n青春の苦みと悦びに満ちた、著者渾身の初小説。\n",
+      "salesDate": "2026年02月20日",
+      "series": "",
+      "reviewAverage": 4.03,
+      "reviewCount": 563,
+      "genreId": "101901",
+      "isbn": "4390000015358",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "青天",
+        "author": "若林正恭",
+        "score": 78,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 15,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "青天",
+        "author": "若林正恭",
+        "score": 78,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 18,
         "originalTitle": ""
       }
     },
@@ -964,7 +1058,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17,
+        "rank": 19,
         "originalTitle": ""
       }
     },
@@ -1011,7 +1105,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18,
+        "rank": 20,
         "originalTitle": ""
       }
     }
@@ -1024,14 +1118,16 @@
       "4320000865495",
       "4310000858457",
       "4320000865494",
-      "4331000700320",
       "4704763142740",
-      "4320000867368"
+      "4331000700320",
+      "4320000867368",
+      "4390000015358"
     ],
     "mystery": [
       "4820000903843",
       "4320000865495",
-      "4320000865494"
+      "4320000865494",
+      "4310000890409"
     ],
     "sf": [],
     "business": [
@@ -1072,11 +1168,11 @@
   },
   "genreStatus": {
     "fiction": {
-      "matched": 9,
+      "matched": 10,
       "complete": true
     },
     "mystery": {
-      "matched": 3,
+      "matched": 4,
       "complete": true
     },
     "sf": {

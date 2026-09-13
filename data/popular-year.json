@@ -4,8 +4,8 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "year",
-  "updatedAt": "2026-09-06T21:10:24.389Z",
-  "candidateCount": 10,
+  "updatedAt": "2026-09-13T03:19:30.025Z",
+  "candidateCount": 13,
   "baseMatched": 7,
   "matched": 8,
   "addedMatches": 1,
@@ -16,57 +16,57 @@
       "label": "トーハン",
       "attribution": "トーハン調べ",
       "sourceUrl": "https://www.tohan.jp/bestsellers/2026_firsthalf_total/",
-      "periodLabel": "2026年上半期（最新の年次集計）",
-      "updatedAt": "2026-06-01",
-      "live": false,
+      "periodLabel": "年次",
+      "updatedAt": "2026-09-13",
+      "live": true,
       "items": [
         {
-          "title": "科学的に証明された すごい習慣大百科",
-          "author": "堀田秀吾",
+          "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
+          "author": "",
           "isbn": "",
           "rank": 1
         },
         {
           "title": "変な地図",
-          "author": "雨穴",
+          "author": "",
           "isbn": "",
           "rank": 2
         },
         {
-          "title": "イン・ザ・メガチャーチ",
-          "author": "朝井リョウ",
+          "title": "イン･ザ･メガチャーチ",
+          "author": "",
           "isbn": "",
           "rank": 3
         },
         {
           "title": "成瀬は都を駆け抜ける",
-          "author": "宮島未奈",
+          "author": "",
           "isbn": "",
           "rank": 4
         },
         {
-          "title": "暁星",
-          "author": "湊かなえ",
-          "isbn": "",
-          "rank": 7
-        },
-        {
           "title": "大河の一滴 最終章",
-          "author": "五木寛之",
+          "author": "",
           "isbn": "",
           "rank": 8
         },
         {
           "title": "不滅なるものへの挑戦 霊性の時代を拓くために",
-          "author": "大川隆法",
+          "author": "",
           "isbn": "",
           "rank": 9
         },
         {
           "title": "棺桶まで歩こう",
-          "author": "萬田緑平",
+          "author": "",
           "isbn": "",
           "rank": 10
+        },
+        {
+          "title": "FOR OVERSEAS",
+          "author": "",
+          "isbn": "",
+          "rank": 12
         }
       ]
     }
@@ -83,8 +83,8 @@
       "caption": "勉強・ダイエット・貯金・目標達成…は習慣化が10割\n仕事、ダイエット、健康管理、勉強、目標達成…すべて成功のカギは「習慣化」にあります。\nしかし間違った習慣を身につけてしまったらその代償は大きくなってしまいます。\n何をどう習慣化すればいいか、そのために重要になるのが「エビデンス」です。\n・もし「A」をしたら「B」をすると、あらかじめ決めておく\n・選択肢は必ず「3つ」用意しておく\n・常にポジティブな言葉を使うーつらさに対する耐性が高まる\n・52分間作業して、17分休憩するー生産性が高まるetc.\n本書は、ハーバード、スタンフォード、オックスフォード…などの研究機関において証明されたテクニックを112個紹介。\n見開き図解入りでわかりやすい。気になったテクニックからはじめられ、情報収集のためにも役立ち、また読みものとしても楽しめる一冊です。\n※カバー画像が異なる場合があります。\n",
       "salesDate": "2025年07月02日",
       "series": "",
-      "reviewAverage": 3.7,
-      "reviewCount": 366,
+      "reviewAverage": 3.69,
+      "reviewCount": 369,
       "genreId": "101905090",
       "isbn": "4524815633410",
       "salesType": 0,
@@ -104,8 +104,8 @@
         "originalTitle": ""
       },
       "ranking": {
-        "title": "科学的に証明された すごい習慣大百科",
-        "author": "堀田秀吾",
+        "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
+        "author": "",
         "isbn": "",
         "score": 179,
         "sources": [
@@ -130,8 +130,8 @@
       "caption": "主人公はあの栗原さん!!　\n『変な家』『変な絵』に続く、雨穴「変な」シリーズの集大成！　\n2015年、大学生の栗原は、意外な事実を知る。\n彼の祖母が、正体不明の古地図を握りしめて、不審死を遂げたという。\nその古地図には、７体の妖怪が描かれていた。\nこれはいったい何なのか。なぜ、祖母は死に際にこんなものを持っていたのか。\n謎を探るため、栗原は旅に出る。　\nそこに待ち受けていたのは、海沿いの廃集落、不可解な人身事故、潰れかけの民宿、因縁に満ちたトンネル、そして古地図に秘められた悲しい事実だったーー。　\n祖母はなぜ死んだのか？　\n妖怪の正体は？　\nホラー、ミステリー、サスペンス、冒険、青春、恋愛・・・・・・　\n2024年書籍売り上げ1位！　雨穴が送る異形の王道小説。　\nあなたには、この「古地図」の謎が解けますか？　\n※イメージふくらむ「考察マップ」も収録。\n※著者・雨穴による『沖上喜見子の手記』朗読動画付き！\n",
       "salesDate": "2025年10月31日",
       "series": "変な地図",
-      "reviewAverage": 3.85,
-      "reviewCount": 618,
+      "reviewAverage": 3.84,
+      "reviewCount": 620,
       "genreId": "101902",
       "isbn": "6681297998470",
       "salesType": 0,
@@ -152,7 +152,7 @@
       },
       "ranking": {
         "title": "変な地図",
-        "author": "雨穴",
+        "author": "",
         "isbn": "",
         "score": 178,
         "sources": [
@@ -178,7 +178,7 @@
       "salesDate": "2025年09月03日",
       "series": "",
       "reviewAverage": 4.29,
-      "reviewCount": 3373,
+      "reviewCount": 3426,
       "genreId": "101901",
       "isbn": "4660629612104",
       "salesType": 0,
@@ -198,8 +198,8 @@
         "originalTitle": ""
       },
       "ranking": {
-        "title": "イン・ザ・メガチャーチ",
-        "author": "朝井リョウ",
+        "title": "イン･ザ･メガチャーチ",
+        "author": "",
         "isbn": "",
         "score": 177,
         "sources": [
@@ -225,7 +225,7 @@
       "salesDate": "2025年12月01日",
       "series": "「成瀬」シリーズ",
       "reviewAverage": 4.54,
-      "reviewCount": 1496,
+      "reviewCount": 1514,
       "genreId": "101901",
       "isbn": "4340008064751",
       "salesType": 0,
@@ -246,7 +246,7 @@
       },
       "ranking": {
         "title": "成瀬は都を駆け抜ける",
-        "author": "宮島未奈",
+        "author": "",
         "isbn": "",
         "score": 176,
         "sources": [
@@ -261,54 +261,6 @@
       }
     },
     {
-      "id": "6681299179860",
-      "title": "暁星",
-      "author": "湊かなえ",
-      "publisher": "双葉社",
-      "price": 1980,
-      "url": "https://books.rakuten.co.jp/rk/eb8de6a46aa935d48709dbfee116c7d2/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4762/2000019204762.jpg?_ex=600x600",
-      "caption": "「ただ、星を守りたかっただけーー」　\n現役の文部科学大臣で文壇の大御所作家でもある清水義之が全国高校生総合文化祭の式典の最中、舞台袖から飛び出してきた男に刺されて死亡する事件がおきた。逮捕された男の名前は永瀬暁、37歳。永瀬は逮捕されたのち、週刊誌に手記を発表しはじめる。そこには、清水が深く関わっているとされる新興宗教に対する恨みが綴られていた。また、式典に出席していた作家は、永瀬の事件を小説として描く。ノンフィクションとフィクション、ふたつの物語が合わさったとき見える景色とは!?\n",
-      "salesDate": "2025年11月27日",
-      "series": "暁星",
-      "reviewAverage": 4.18,
-      "reviewCount": 1140,
-      "genreId": "101902",
-      "isbn": "6681299179860",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "暁星",
-        "author": "湊かなえ",
-        "isbn": "",
-        "score": 173,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 7
-          }
-        ],
-        "source": "combined",
-        "rank": 7,
-        "originalTitle": "暁星"
-      },
-      "ranking": {
-        "title": "暁星",
-        "author": "湊かなえ",
-        "isbn": "",
-        "score": 173,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 7
-          }
-        ],
-        "source": "combined",
-        "rank": 5
-      }
-    },
-    {
       "id": "4380000485089",
       "title": "大河の一滴　最終章",
       "author": "五木寛之",
@@ -319,8 +271,8 @@
       "caption": "93歳の人間論ーー。\n人は何かのために生きるのではない。\n誰かのために生きるのだ。\n衝撃のベストセラー『大河の一滴』から30年。圧巻の集大成。\n常に、再生の希望はある。\n少年時代の引揚体験、自死への欲求、思いがけない病の宣告……\nあえて、大河の流れに逆らうことを決意した、告白的人間論。\n「かつて人生を大河の流れにたとえて書いたときは、その流れに身をまかせて、生命の海へと流れていく、そんなふうに考えていた。\n　しかし、と、私は思ったのだ。ときには大河の流れに身をまかせるだけでなく、それに逆らって生きることもあっていいのではあるまいか。大河の流れの中にも、逆流する場所もあれば、迂回する流れもある。\n　長く生きられなかった彼らのかわりに、自分は一日でも長く生きようと考えてきたのではなかったか。運命に身をまかせるだけでなく、それに逆らうこともあっていい。\n　人には、何人かのために生きる責任がある、と思う。人々のはたさざりし思いを背負って生きる義務があるのではないか。何かのためではなく、誰かのために生きるのだ」\nーー「大河の流れに逆らって」本文より\n静寂から立ち上がる、鮮やかな再生の物語。\n",
       "salesDate": "2026年02月12日",
       "series": "",
-      "reviewAverage": 4,
-      "reviewCount": 23,
+      "reviewAverage": 3.96,
+      "reviewCount": 25,
       "genreId": "101907002002",
       "isbn": "4380000485089",
       "salesType": 0,
@@ -341,7 +293,7 @@
       },
       "ranking": {
         "title": "大河の一滴 最終章",
-        "author": "五木寛之",
+        "author": "",
         "isbn": "",
         "score": 172,
         "sources": [
@@ -352,7 +304,7 @@
           }
         ],
         "source": "combined",
-        "rank": 6
+        "rank": 5
       }
     },
     {
@@ -388,7 +340,7 @@
       },
       "ranking": {
         "title": "不滅なるものへの挑戦 霊性の時代を拓くために",
-        "author": "大川隆法",
+        "author": "",
         "isbn": "",
         "score": 171,
         "sources": [
@@ -399,7 +351,7 @@
           }
         ],
         "source": "combined",
-        "rank": 7
+        "rank": 6
       }
     },
     {
@@ -435,7 +387,7 @@
       },
       "ranking": {
         "title": "棺桶まで歩こう",
-        "author": "萬田緑平",
+        "author": "",
         "isbn": "",
         "score": 170,
         "sources": [
@@ -443,6 +395,53 @@
             "source": "tohan",
             "label": "トーハン",
             "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 7
+      }
+    },
+    {
+      "id": "9781505942323",
+      "title": "How to Start a Crown Agents for Overseas Governments and Administrations Business (Beginners Guide)",
+      "author": "Leclair Jaquelyn",
+      "publisher": "SamEnrico",
+      "price": 2515,
+      "url": "https://books.rakuten.co.jp/rk/da3f192a66453cb193c43421103700ab/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5952/2000020915952.jpg?_ex=600x600",
+      "caption": "This publication, published by SamEnrico, covers How to Start a Crown Agents for Overseas Governments and Administrations Business (Beginners Guide)\n",
+      "salesDate": "2015年12月20日",
+      "series": "",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101970003007",
+      "isbn": "9781505942323",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "FOR OVERSEAS",
+        "author": "",
+        "isbn": "",
+        "score": 168,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 12
+          }
+        ],
+        "source": "combined",
+        "rank": 12
+      },
+      "ranking": {
+        "title": "FOR OVERSEAS",
+        "author": "",
+        "isbn": "",
+        "score": 168,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 12
           }
         ],
         "source": "combined",
@@ -456,8 +455,7 @@
       "4340008064751"
     ],
     "mystery": [
-      "6681297998470",
-      "6681299179860"
+      "6681297998470"
     ],
     "sf": [],
     "business": [
@@ -488,7 +486,7 @@
       "complete": true
     },
     "mystery": {
-      "matched": 2,
+      "matched": 1,
       "complete": true
     },
     "sf": {

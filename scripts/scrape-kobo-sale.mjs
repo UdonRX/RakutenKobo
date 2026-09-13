@@ -50,6 +50,7 @@ function authorFromText(text,title=''){
   return'';
 }
 function absoluteBookUrl(href=''){try{const u=new URL(href,'https://books.rakuten.co.jp/');return u.hostname==='books.rakuten.co.jp'&&u.pathname.startsWith('/rk/')?u.href:''}catch{return''}}
+function absoluteRakutenUrl(href=''){try{const u=new URL(href,'https://books.rakuten.co.jp/');return u.hostname==='books.rakuten.co.jp'?u.href:''}catch{return''}}
 function absoluteImageUrl(src=''){try{return src?new URL(src,'https://books.rakuten.co.jp/').href:''}catch{return String(src||'')}}
 function parseTotalCount(html){const text=cleanText(cheerio.load(html).root().text());const m=text.match(/全\s*([\d,]+)\s*件/u);return m?Number(m[1].replace(/,/g,'')):0}
 function structuredText(node,textCache){
@@ -228,22 +229,31 @@ function parseSalePage(html,{label='楽天Kobo公式セール',rangeOrder=0,offs
     const url=absoluteBookUrl(String($(element).attr('href')||''));if(!url)return;
     const number=text.match(/商品番号[：:]\s*([0-9A-Za-z-]+)/u);
     const detail=text.match(/(\d{4}年\d{2}月\d{2}日)発売\s*／\s*([^／]+)\s*／\s*([^／]+)\s*／/u);
-    const campaignFromCard=text.match(/(〖[^〗]{2,120}〗[^\n]{0,220}?(?:20\d{2}[-\/.年]\d{1,2}[-\/.月]\d{1,2}(?:日)?\s*\d{1,2}:\d{2}まで))/u)?.[1]
+    const campaignNode=block.node.find('.rbcomp__item-tile__item__extra a').first();
+    const campaignTextFromDom=cleanText(campaignNode.text());
+    const campaignFromCard=campaignTextFromDom
+      ||text.match(/(〖[^〗]{2,120}〗[^\n]{0,220}?(?:20\d{2}[-\/.年]\d{1,2}[-\/.月]\d{1,2}(?:日)?\s*\d{1,2}:\d{2}まで))/u)?.[1]
       ||text.match(/(〖[^〗]{2,120}〗[^\n]{0,220})/u)?.[1]||'';
     const reviewCount=Number((text.match(/[（(]\s*(?:レビュー)?\s*([\d,]+)\s*件[）)]/u)?.[1]||'0').replace(/,/g,''))||0;
     const reviewAverage=Number(text.match(/([0-5](?:\.\d{1,2})?)\s*[（(]\s*(?:レビュー)?\s*[\d,]+\s*件[）)]/u)?.[1]||0)||0;
     const series=cleanText(text.match(/シリーズ名[：:]\s*([^\n]{1,160})/u)?.[1]||'');
     const img=block.node.find('img').first();
     const image=absoluteImageUrl(String(img.attr('src')||img.attr('data-src')||img.attr('data-original')||''));
-    const itemNumber=number?.[1]||'',key=itemNumber||url||normalizeText(title);if(!key||found.has(key))return;
+    const bookmark=block.node.find('.itemBookmark').first();
+    const embeddedItemNumber=cleanText(bookmark.attr('data-isbn-jan')||block.node.find('input[name="item_id"]').first().attr('value')||'');
+    const itemNumber=number?.[1]||embeddedItemNumber;
+    const author=cleanText(block.node.find('.rbcomp__item-tile__item__author').first().text())||authorFromText(text,title);
+    const campaignUrl=absoluteRakutenUrl(String(campaignNode.attr('href')||''))||OFFICIAL_INDEX_URL;
+    const genreId=cleanText(block.node.find('[data-rat-igenre]').first().attr('data-rat-igenre')||'');
+    const key=itemNumber||url||normalizeText(title);if(!key||found.has(key))return;
     const campaignLabel=cleanText(campaignFromCard)||label;
     const saleEndAt=saleEndAtFromText(campaignFromCard)||saleEndAtFromText(text);
     found.set(key,{
-      title,author:authorFromText(text,title),publisher:cleanText(detail?.[3]||''),series,itemNumber,url,image,
+      title,author,publisher:cleanText(detail?.[3]||''),series,itemNumber,url,image,
       salesDate:cleanText(detail?.[1]||''),reviewAverage,reviewCount,sourceRank:rangeOrder*1000000+offset+found.size+1,
       regularPrice,salePrice,discountPercent:Math.max(1,Math.round((1-salePrice/regularPrice)*100)),saleEndAt,
-      saleCampaign:campaignLabel,saleCampaigns:campaignLabel?[campaignLabel]:[],sourceGenre:cleanText(detail?.[2]||''),campaignMerch:SALE_MERCH_ID,
-      campaignUrl:OFFICIAL_INDEX_URL,saleSources:['rakuten-books-official-sale-listing']
+      saleCampaign:campaignLabel,saleCampaigns:campaignLabel?[campaignLabel]:[],sourceGenre:cleanText(detail?.[2]||''),sourceGenreId:genreId,campaignMerch:SALE_MERCH_ID,
+      campaignUrl,saleSources:['rakuten-books-official-sale-listing']
     });
   });
   return[...found.values()];

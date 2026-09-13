@@ -41,6 +41,42 @@ jobs:
           npm install --no-save playwright@1.55.0
           npx playwright install --with-deps chromium
 
+      - name: Diagnose Kobo result card structure
+        run: |
+          node --input-type=module <<'NODE'
+          import * as cheerio from 'cheerio';
+          const url='https://books.rakuten.co.jp/search?g=101&merch=53626&h=100&v=1&s=8&maxp=199';
+          const response=await fetch(url,{headers:{Accept:'text/html,application/xhtml+xml','Accept-Language':'ja-JP,ja;q=0.9,en;q=0.5','User-Agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/140.0.0.0 Safari/537.36'}});
+          const html=await response.text();
+          const $=cheerio.load(html);
+          const candidates=$('a[href*="/rk/"]').toArray().filter(element=>$(element).text().trim().length>5);
+          const element=candidates[0];
+          if(!element)throw new Error('NO_DIAGNOSTIC_PRODUCT_ANCHOR');
+          console.log('[CARD_DIAG_ANCHOR]',JSON.stringify({title:$(element).text().trim(),href:$(element).attr('href')||''}));
+          let node=$(element);
+          for(let depth=1;depth<=30;depth++){
+            node=node.parent();if(!node.length)break;
+            const raw=String(node.text()||'');
+            const compact=raw.replace(/\s+/g,' ').trim();
+            const links=node.find('a[href*="/rk/"]').toArray().map(a=>$(a).attr('href')||'').filter(Boolean);
+            const uniqueLinks=new Set(links);
+            const record={
+              depth,
+              tag:String(node.get(0)?.name||''),
+              id:String(node.attr('id')||''),
+              class:String(node.attr('class')||'').slice(0,240),
+              len:raw.length,
+              rkLinks:uniqueLinks.size,
+              itemLabels:(raw.match(/商品番号[：:]/g)||[]).length,
+              regularLabels:(raw.match(/通常価格[：:]/g)||[]).length,
+              saleLabels:(raw.match(/セール価格[：:]/g)||[]).length,
+              hasCampaign:/〖[^〗]+〗/.test(raw),
+              snippet:compact.slice(0,500)
+            };
+            console.log('[CARD_DIAG_DEPTH]',JSON.stringify(record));
+          }
+          NODE
+
       - name: Collect every current Rakuten Kobo sale using price-bucket paging
         run: node scripts/scrape-kobo-sale.mjs /tmp/kobo-sale-candidates.json
 

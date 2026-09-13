@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-09-13T05:37:30.640Z",
+  "updatedAt": "2026-09-13T12:32:47.180Z",
   "candidateCount": 38,
-  "baseMatched": 16,
-  "matched": 19,
-  "addedMatches": 3,
+  "baseMatched": 12,
+  "matched": 17,
+  "addedMatches": 5,
   "unavailable": [],
   "snapshots": {
     "kinokuniya": {
@@ -49,12 +49,6 @@
           "author": "",
           "isbn": "",
           "rank": 19
-        },
-        {
-          "title": "ファイア・ドーム 〈上〉",
-          "author": "",
-          "isbn": "",
-          "rank": 20
         },
         {
           "title": "つかめ！理科ダマン 〈１２〉 最強ロボット決戦！編",
@@ -358,7 +352,7 @@
       "isbn": "9784059239659",
       "salesType": 0,
       "matchMeta": {
-        "title": "地球の歩き方 スター･ウォーズ",
+        "title": "地球の歩き方 スター・ウォーズ",
         "author": "",
         "isbn": "",
         "score": 171,
@@ -370,7 +364,8 @@
           }
         ],
         "source": "combined",
-        "rank": 16
+        "rank": 16,
+        "originalTitle": "地球の歩き方 スター･ウォーズ"
       },
       "ranking": {
         "title": "地球の歩き方 スター･ウォーズ",
@@ -629,58 +624,6 @@
       }
     },
     {
-      "id": "4320000865495",
-      "title": "ファイア・ドーム 上",
-      "author": "辻村深月",
-      "publisher": "小学館",
-      "price": 1881,
-      "url": "https://books.rakuten.co.jp/rk/22c26517c9353107819b56539afa6896/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1853/2000020771853.jpg?_ex=600x600",
-      "caption": "人はなぜ大きな事件に魅了されてしまうのか。\n噂は、軽薄な娯楽だ。\n25年前、平穏だったはずの地方都市は、百貨店受付嬢誘拐殺人事件の発生、その報道により揺り動かされ、「噂」という大量の炎が、加害者のみならず被害者にも降り注ぎ、燃えさかった。ようやく静けさを取り戻したかに見える町に燻り続ける因縁が、いま新たな事件を呼び起こすーー。\n「もう言われてるよ！　どうせ、親が殺したんだろうって！」ーー本文より\n",
-      "salesDate": "2026年06月05日",
-      "series": "ファイア・ドーム",
-      "reviewAverage": 4.56,
-      "reviewCount": 389,
-      "genreId": "101901/101902",
-      "isbn": "4320000865495",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ファイア・ドーム 上",
-        "author": "辻村深月",
-        "score": 132,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 2
-          },
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 20
-          }
-        ],
-        "source": "combined",
-        "rank": 3,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "ファイア・ドーム 〈上〉",
-        "author": "",
-        "isbn": "",
-        "score": 160,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 20
-          }
-        ],
-        "source": "combined",
-        "rank": 11
-      }
-    },
-    {
       "id": "4310000858457",
       "title": "多類婚姻譚",
       "author": "凪良ゆう",
@@ -729,7 +672,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12
+        "rank": 11
       }
     },
     {
@@ -781,7 +724,7 @@
           }
         ],
         "source": "combined",
-        "rank": 13
+        "rank": 12
       }
     },
     {
@@ -803,7 +746,8 @@
       "matchMeta": {
         "title": "楽園",
         "author": "",
-        "score": 5,
+        "isbn": "",
+        "score": 153,
         "sources": [
           {
             "source": "kinokuniya",
@@ -812,8 +756,8 @@
           }
         ],
         "source": "combined",
-        "rank": 32,
-        "originalTitle": ""
+        "rank": 35,
+        "originalTitle": "楽園"
       },
       "ranking": {
         "title": "楽園",
@@ -828,7 +772,7 @@
           }
         ],
         "source": "combined",
-        "rank": 14
+        "rank": 13
       }
     },
     {
@@ -875,7 +819,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15
+        "rank": 14
       }
     },
     {
@@ -897,17 +841,17 @@
       "matchMeta": {
         "title": "月がきれいな夜に、誰かに思い出してほしかった",
         "author": "",
-        "score": 5,
+        "isbn": "",
+        "score": 152,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 30
+            "rank": 28
           }
         ],
         "source": "combined",
-        "rank": 35,
-        "originalTitle": ""
+        "rank": 38
       },
       "ranking": {
         "title": "月がきれいな夜に、誰かに思い出してほしかった",
@@ -922,7 +866,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16
+        "rank": 15
       }
     },
     {
@@ -968,7 +912,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17,
+        "rank": 16,
         "originalTitle": ""
       }
     },
@@ -1015,54 +959,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18,
-        "originalTitle": ""
-      }
-    },
-    {
-      "id": "4479234030000",
-      "title": "豊臣兄弟！　後編",
-      "author": "八津弘幸/ＮＨＫドラマ制作班",
-      "publisher": "NHK出版",
-      "price": 1540,
-      "url": "https://books.rakuten.co.jp/rk/03955594478a34569322faf481fd73c8/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0762/2000020710762.jpg?_ex=600x600",
-      "caption": "兄弟の絆で天下を狙え！　2026年大河ドラマ「豊臣兄弟！」完全ガイド第2弾！\n仲野太賀主演・2026年大河ドラマ「豊臣兄弟！」。\nドラマをもっと楽しむためのガイドブック「後編」が登場！\n時は戦国乱世。時の戦国大名・織田信長に仕官して大出世を目指す兄の誘いに巻き込まれた小一郎は、知恵と勇気、そして持ち前の「調整力」を生かしながら、目の前に立ちはだかるハードミッションを兄との絶妙なコンビネーションで次々とクリアしていく。やがて小一郎は兄とともに、万民が笑って暮らせる太平の世を作るという夢を抱き始めーー。\n弟・秀長の視点で戦国時代をダイナミックに描く、夢と希望の下克上サクセスストーリー！\n＊電子書籍版ではプレゼントページほか、一部収録していないコンテンツがございます。あらかじめご了承ください。\n全3冊でお届けするドラマ・ガイドの第２弾「後編」では、主演・仲野太賀×吉岡里帆の撮り下ろし対談をはじめ、豪華出演者インタビューや物語中盤までのあらすじを掲載。さらに、タイトルバック徹底分析やマンガで読む秀長の生涯、豊臣しつもん箱、作家・今村翔吾さんに聞く戦国の兄弟たち特集、「本能寺の変」のヒミツに迫る歴史解説企画など充実の内容。美麗グラビア満載でお届けする、家族みんなで読めるフルカラー・ドラマガイド！　\n",
-      "salesDate": "2026年05月29日",
-      "series": "ＮＨＫ大河ドラマ・ガイド",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101913002",
-      "isbn": "4479234030000",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "NHK大河ドラマ・ガイド 豊臣兄弟! 後編",
-        "author": "",
-        "score": 70,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 18,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "NHK大河ドラマ・ガイド 豊臣兄弟! 後編",
-        "author": "",
-        "score": 70,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 19,
+        "rank": 17,
         "originalTitle": ""
       }
     }
@@ -1072,7 +969,6 @@
       "4820000903843",
       "4340008066911",
       "4660629612104",
-      "4320000865495",
       "4310000858457",
       "4320000865494",
       "4331000700320",
@@ -1081,7 +977,6 @@
     ],
     "mystery": [
       "4820000903843",
-      "4320000865495",
       "4320000865494",
       "4310000890409"
     ],
@@ -1124,11 +1019,11 @@
   },
   "genreStatus": {
     "fiction": {
-      "matched": 9,
+      "matched": 8,
       "complete": true
     },
     "mystery": {
-      "matched": 4,
+      "matched": 3,
       "complete": true
     },
     "sf": {

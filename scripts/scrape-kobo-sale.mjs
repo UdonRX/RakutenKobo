@@ -10,12 +10,16 @@ const outputPath=resolve(process.argv[2]||'kobo-sale.json');
 const PAGE_SIZE=100;
 const MAX_PAGES_PER_QUERY=300;
 const PAGE_CONCURRENCY=4;
-const FETCH_TIMEOUT_MS=24000;
-const FETCH_RETRIES=2;
+const FETCH_TIMEOUT_MS=30000;
+const FETCH_RETRIES=3;
+const RECOVERY_FETCH_TIMEOUT_MS=45000;
+const RECOVERY_FETCH_RETRIES=4;
 const RETRY_BACKOFF_MS=800;
 const SCRIPT_WATCHDOG_MS=50*60*1000;
 const ADULT_WORDS=['アダルト','成年コミック','成人向け','18禁','官能','成人漫画','エロティック','R18','R18+'];
+const BLOCK_TEXT_TAGS=new Set(['p','div','li','dd','dt','h1','h2','h3','h4','h5','h6','tr','section','article','ul','ol']);
 const sleep=ms=>new Promise(r=>setTimeout(r,ms));
+const yieldToEventLoop=()=>new Promise(resolve=>setImmediate(resolve));
 
 function cleanText(v=''){return String(v).replace(/\u00a0/g,' ').replace(/[ \t\r\f\v]+/g,' ').replace(/\n+/g,'\n').trim()}
 function cleanTitle(v=''){return cleanText(v).replace(/^電子\s*/,'').replace(/\s*\[電子書籍版\]\s*$/i,'').replace(/^〖予約〗\s*/,'').trim()}
@@ -46,19 +50,38 @@ function authorFromText(text,title=''){
 function absoluteBookUrl(href=''){try{const u=new URL(href,'https://books.rakuten.co.jp/');return u.hostname==='books.rakuten.co.jp'&&u.pathname.startsWith('/rk/')?u.href:''}catch{return''}}
 function absoluteImageUrl(src=''){try{return src?new URL(src,'https://books.rakuten.co.jp/').href:''}catch{return String(src||'')}}
 function parseTotalCount(html){const text=cleanText(cheerio.load(html).root().text());const m=text.match(/全\s*([\d,]+)\s*件/u);return m?Number(m[1].replace(/,/g,'')):0}
-function structuredText(node){
-  const html=String(node?.html?.()||'')
-    .replace(/<br\s*\/?>/gi,'\n')
-    .replace(/<\/(?:p|div|li|dd|dt|h[1-6]|tr|section|article|ul|ol)>/gi,'\n');
-  return cleanText(cheerio.load(`<div>${html}</div>`).root().text());
+function appendStructuredText(node,chunks){
+  if(!node)return;
+  if(node.type==='text'){
+    chunks.push(node.data||'');
+    return;
+  }
+  const name=String(node.name||'').toLowerCase();
+  if(name==='br'){
+    chunks.push('\n');
+    return;
+  }
+  for(const child of node.children||[])appendStructuredText(child,chunks);
+  if(BLOCK_TEXT_TAGS.has(name))chunks.push('\n');
 }
-function findProductBlock($,element){
+function structuredText(node){
+  const root=node?.get?.(0);if(!root)return'';
+  const chunks=[];
+  appendStructuredText(root,chunks);
+  return cleanText(chunks.join(''));
+}
+function findProductBlock($,element,textCache){
   let node=$(element),fallback=null;
   for(let i=0;i<12;i++){
     node=node.parent();if(!node.length)break;
-    const text=structuredText(node),hasPrice=/通常価格[：:]/.test(text)&&/セール価格[：:]/.test(text);
-    if(hasPrice&&!fallback&&text.length<14000)fallback={node,text};
-    if(hasPrice&&/商品番号[：:]/.test(text)&&text.length<14000)return{node,text};
+    const rawText=node.text();
+    const hasPrice=/通常価格[：:]/.test(rawText)&&/セール価格[：:]/.test(rawText);
+    if(!hasPrice)continue;
+    const domNode=node.get(0);
+    let text=textCache.get(domNode);
+    if(text===undefined){text=structuredText(node);textCache.set(domNode,text)}
+    if(!fallback&&text.length<14000)fallback={node,text};
+    if(/商品番号[：:]/.test(text)&&text.length<14000)return{node,text};
   }
   return fallback;
 }
@@ -141,7 +164,10 @@ async function fetchText(url,{timeoutMs=FETCH_TIMEOUT_MS,retries=FETCH_RETRIES,c
         status:detail.status,
         message:detail.message
       });
-      if(attempt<retries)await sleep(RETRY_BACKOFF_MS*(attempt+1));
+      if(attempt<retries){
+        const retryDelayMs=RETRY_BACKOFF_MS*(attempt+1)+Math.floor(Math.random()*500);
+        await sleep(retryDelayMs);
+      }
     }
   }
   const finalError=new Error(`FETCH_EXHAUSTED range=${baseContext.range} offset=${baseContext.offset}: ${lastError?.message||'unknown error'}`);
@@ -185,10 +211,10 @@ function buildSearchUrl({min=null,max=null,offset=0}={}){
   return`${SALE_SEARCH_URL}?${params}`;
 }
 function parseSalePage(html,{label='楽天Kobo公式セール',rangeOrder=0,offset=0}={}){
-  const $=cheerio.load(html),found=new Map();
+  const $=cheerio.load(html),found=new Map(),textCache=new WeakMap();
   $('a[href*="/rk/"]').each((_,element)=>{
     const title=cleanTitle($(element).text());if(!title||title.length<2||title.length>180||invalidTitle(title))return;
-    const block=findProductBlock($,element);if(!block)return;const text=block.text;if(ADULT_WORDS.some(w=>text.includes(w)))return;
+    const block=findProductBlock($,element,textCache);if(!block)return;const text=block.text;if(ADULT_WORDS.some(w=>text.includes(w)))return;
     const regular=text.match(/通常価格[：:]\s*([\d,]+)円/u),sale=text.match(/セール価格[：:]\s*([\d,]+)円/u);if(!regular||!sale)return;
     const regularPrice=Number(regular[1].replace(/,/g,'')),salePrice=Number(sale[1].replace(/,/g,''));if(!regularPrice||!salePrice||salePrice>=regularPrice)return;
     const url=absoluteBookUrl(String($(element).attr('href')||''));if(!url)return;
@@ -232,28 +258,55 @@ async function collectRange(range,rangeOrder){
     return{total:left.total+right.total,items:[...left.items,...right.items],parts:[...left.parts,...right.parts]};
   }
   const pages=Math.min(MAX_PAGES_PER_QUERY,Math.max(1,Math.ceil((total||PAGE_SIZE)/PAGE_SIZE)));
+  const firstParseStartedAt=Date.now();
   const all=parseSalePage(firstHtml,{label:range.label,rangeOrder,offset:0});
   if(total===0&&all.length>0){
     const error=new Error(`SALE_TOTAL_PARSE_FAILED range=${range.label} parsedItems=${all.length}`);
     error.code='SALE_TOTAL_PARSE_FAILED';
     throw error;
   }
-  logDiagnostic('[SALE_PAGE_OK]',{range:range.label,page:1,pages,offset:0,items:all.length,total:total||0});
+  logDiagnostic('[SALE_PAGE_OK]',{range:range.label,page:1,pages,offset:0,items:all.length,total:total||0,parseMs:Date.now()-firstParseStartedAt});
   if(pages>1){
     const offsets=Array.from({length:pages-1},(_,i)=>(i+1)*PAGE_SIZE);
-    const results=await mapLimit(offsets,PAGE_CONCURRENCY,async offset=>{
+    const fetchedPages=await mapLimit(offsets,PAGE_CONCURRENCY,async offset=>{
       const page=Math.floor(offset/PAGE_SIZE)+1;
-      const html=await fetchText(buildSearchUrl({...range,offset}),{context:{phase:'range-page',range:range.label,offset,page,pages}});
-      const items=parseSalePage(html,{label:range.label,rangeOrder,offset});
-      logDiagnostic('[SALE_PAGE_OK]',{range:range.label,page,pages,offset,items:items.length,total});
-      return items;
-    },{label:`range:${range.label}`});
-    if(results.length!==offsets.length||results.some(result=>!Array.isArray(result))){
-      const error=new Error(`SALE_PAGE_RESULT_INCOMPLETE range=${range.label} expected=${offsets.length} actual=${results.length}`);
+      try{
+        const html=await fetchText(buildSearchUrl({...range,offset}),{context:{phase:'range-page',range:range.label,offset,page,pages}});
+        return{offset,page,html,error:null};
+      }catch(error){
+        logDiagnostic('[SALE_PAGE_FETCH_DEFERRED]',{range:range.label,page,pages,offset,...errorDetails(error)});
+        return{offset,page,html:'',error};
+      }
+    },{label:`range-fetch:${range.label}`});
+
+    const failedPages=fetchedPages.filter(entry=>!entry?.html);
+    if(failedPages.length){
+      logDiagnostic('[SALE_RECOVERY_START]',{range:range.label,pages,failedPages:failedPages.map(entry=>entry.page)});
+      for(const entry of failedPages){
+        entry.html=await fetchText(buildSearchUrl({...range,offset:entry.offset}),{
+          timeoutMs:RECOVERY_FETCH_TIMEOUT_MS,
+          retries:RECOVERY_FETCH_RETRIES,
+          context:{phase:'range-page-recovery',range:range.label,offset:entry.offset,page:entry.page,pages}
+        });
+        entry.error=null;
+        logDiagnostic('[SALE_RECOVERY_OK]',{range:range.label,page:entry.page,pages,offset:entry.offset});
+      }
+    }
+
+    if(fetchedPages.length!==offsets.length||fetchedPages.some(entry=>!entry?.html)){
+      const actual=fetchedPages.filter(entry=>entry?.html).length;
+      const error=new Error(`SALE_PAGE_RESULT_INCOMPLETE range=${range.label} expected=${offsets.length} actual=${actual}`);
       error.code='SALE_PAGE_RESULT_INCOMPLETE';
       throw error;
     }
-    for(const result of results)all.push(...result);
+
+    for(const entry of fetchedPages){
+      const parseStartedAt=Date.now();
+      const items=parseSalePage(entry.html,{label:range.label,rangeOrder,offset:entry.offset});
+      logDiagnostic('[SALE_PAGE_OK]',{range:range.label,page:entry.page,pages,offset:entry.offset,items:items.length,total,parseMs:Date.now()-parseStartedAt});
+      all.push(...items);
+      await yieldToEventLoop();
+    }
   }
   logDiagnostic('[SALE_RANGE_COMPLETE]',{range:range.label,pages,total:total||0,parsedSaleBooks:all.length});
   return{total:total||all.length,items:all,parts:[{...range,total,pages}]};

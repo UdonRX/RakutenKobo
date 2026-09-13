@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-09-13T03:19:08.108Z",
-  "candidateCount": 80,
-  "baseMatched": 21,
-  "matched": 33,
-  "addedMatches": 12,
+  "updatedAt": "2026-09-13T05:37:14.624Z",
+  "candidateCount": 81,
+  "baseMatched": 23,
+  "matched": 34,
+  "addedMatches": 11,
   "unavailable": [
     "rakuten"
   ],
@@ -65,12 +65,6 @@
           "rank": 23
         },
         {
-          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 (幻冬舎新書 803)",
-          "author": "林真理子",
-          "isbn": "",
-          "rank": 24
-        },
-        {
           "title": "異世界のんびり農家 17 (ドラゴンコミックスエイジ)",
           "author": "剣 康之",
           "isbn": "",
@@ -81,12 +75,6 @@
           "author": "赤根 智子",
           "isbn": "",
           "rank": 28
-        },
-        {
-          "title": "うるわしの宵の月(11) (KCデザート)",
-          "author": "やまもり 三香",
-          "isbn": "",
-          "rank": 29
         },
         {
           "title": "キングダム 80 (ヤングジャンプコミックス)",
@@ -110,6 +98,12 @@
           "author": "伊坂幸太郎",
           "isbn": "",
           "rank": 3
+        },
+        {
+          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+          "author": "林真理子",
+          "isbn": "",
+          "rank": 4
         },
         {
           "title": "シャーロック・ホームズの凱旋",
@@ -200,6 +194,12 @@
       "live": true,
       "items": [
         {
+          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+          "author": "",
+          "isbn": "",
+          "rank": 2
+        },
+        {
           "title": "会社四季報 業界地図 2027年版",
           "author": "",
           "isbn": "",
@@ -236,9 +236,82 @@
           "rank": 12
         }
       ]
+    },
+    "rakuten": {
+      "id": "rakuten",
+      "label": "楽天ブックス",
+      "attribution": "楽天ブックス",
+      "sourceUrl": "https://books.rakuten.co.jp/",
+      "periodLabel": "売れ筋順",
+      "updatedAt": "2026-09-13",
+      "live": true,
+      "items": [
+        {
+          "title": "うるわしの宵の月（11）",
+          "author": "やまもり 三香",
+          "rank": 6
+        }
+      ]
     }
   },
   "items": [
+    {
+      "id": "4380000407898",
+      "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+      "author": "林真理子",
+      "publisher": "幻冬舎",
+      "price": 982,
+      "url": "https://books.rakuten.co.jp/rk/1e28fc1db6b83578b06b0919e0a52cd7/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0908/2000020490908.jpg?_ex=600x600",
+      "caption": "70代は頭も体もまだ大丈夫。\nそれなりに蓄えもできている。\nでもこれまでと全く同じことをしていたらダメ。\nできないことは諦め、楽しいことを大事にし、人生の新しいステージに立とう。\n同じ年代とばかりつるまず、ダイエットはしない。\n嫌われずに自慢話をするテクニック、お金にキレイな人と思われるおごり方ーー。\n72歳の人気作家が本音で語る「健康」「おしゃれ」「仕事」「お金」「人間関係」「趣味」。\n確実に近づく「その日」を見つめ、今の1分1秒を楽しんで生きるための、痛快・人生論。\n",
+      "salesDate": "2026年05月27日",
+      "series": "",
+      "reviewAverage": 3.47,
+      "reviewCount": 46,
+      "genreId": "101907010004/101909",
+      "isbn": "4380000407898",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "author": "林真理子",
+        "score": 192,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 4
+          },
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 3
+          }
+        ],
+        "source": "combined",
+        "rank": 2,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "author": "林真理子",
+        "isbn": "",
+        "score": 354,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 4
+          },
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 2
+          }
+        ],
+        "source": "combined",
+        "rank": 1
+      }
+    },
     {
       "id": "4681308443742",
       "title": "女の園の星（５）【電子限定特典付】",
@@ -267,7 +340,7 @@
           }
         ],
         "source": "combined",
-        "rank": 5,
+        "rank": 7,
         "originalTitle": "女の園の星 ５ (フィールコミックス)"
       },
       "ranking": {
@@ -283,7 +356,7 @@
           }
         ],
         "source": "combined",
-        "rank": 1
+        "rank": 2
       }
     },
     {
@@ -314,7 +387,7 @@
           }
         ],
         "source": "combined",
-        "rank": 8,
+        "rank": 11,
         "originalTitle": "幽冥の岸 十二国記 (新潮文庫 お 37-66)"
       },
       "ranking": {
@@ -330,7 +403,7 @@
           }
         ],
         "source": "combined",
-        "rank": 2
+        "rank": 3
       }
     },
     {
@@ -361,7 +434,7 @@
           }
         ],
         "source": "combined",
-        "rank": 9,
+        "rank": 12,
         "originalTitle": ""
       },
       "ranking": {
@@ -377,7 +450,7 @@
           }
         ],
         "source": "combined",
-        "rank": 3
+        "rank": 4
       }
     },
     {
@@ -409,8 +482,7 @@
           }
         ],
         "source": "combined",
-        "rank": 13,
-        "originalTitle": "会社四季報 業界地図 2027年版"
+        "rank": 13
       },
       "ranking": {
         "title": "会社四季報 業界地図 2027年版",
@@ -425,7 +497,7 @@
           }
         ],
         "source": "combined",
-        "rank": 4
+        "rank": 5
       }
     },
     {
@@ -456,7 +528,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15,
+        "rank": 19,
         "originalTitle": ""
       },
       "ranking": {
@@ -472,7 +544,7 @@
           }
         ],
         "source": "combined",
-        "rank": 5
+        "rank": 6
       }
     },
     {
@@ -504,8 +576,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17,
-        "originalTitle": "キングダム magazine 2026"
+        "rank": 17
       },
       "ranking": {
         "title": "キングダム magazine 2026",
@@ -520,7 +591,54 @@
           }
         ],
         "source": "combined",
-        "rank": 6
+        "rank": 7
+      }
+    },
+    {
+      "id": "4310000920047",
+      "title": "うるわしの宵の月（１１）",
+      "author": "やまもり三香",
+      "publisher": "講談社",
+      "price": 594,
+      "url": "https://books.rakuten.co.jp/rk/6fc3b4fd623b344c923ab1e6d55b7031/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9731/2000021649731.jpg?_ex=600x600",
+      "caption": "滝口宵は、容姿端麗・スマートなふるまいで「王子」と呼ばれる女子。\n学校で同じく「王子」と呼ばれる市村先輩に出会い、\nひょんなことからお試しでのお付き合いが始まる。\n初めは身構えていた宵も段々と気持ちが変化し、夏祭りで\nお互いようやく素直に気持ちを打ち合け、正式に付き合うことに。\nクリスマスから年末と幸せな日々を過ごす２人。だけど新学期、\nなぜか先輩が学校に来なくなる。先輩から家の事情で学校をやめ、\n留学することになったと聞かされ、さらに別れることになってしまい…!!?\nともに「王子」と呼ばれる男女の恋、再び２人の絆は戻るの─!!?\n",
+      "salesDate": "2026年09月11日",
+      "series": "うるわしの宵の月",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904011016",
+      "isbn": "4310000920047",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "うるわしの宵の月(11)",
+        "author": "やまもり 三香",
+        "score": 86,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 6
+          }
+        ],
+        "source": "combined",
+        "rank": 26,
+        "originalTitle": "うるわしの宵の月（11）"
+      },
+      "ranking": {
+        "title": "うるわしの宵の月（11）",
+        "author": "やまもり 三香",
+        "isbn": "",
+        "score": 174,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 6
+          }
+        ],
+        "source": "combined",
+        "rank": 8
       }
     },
     {
@@ -552,8 +670,7 @@
           }
         ],
         "source": "combined",
-        "rank": 21,
-        "originalTitle": "歴史ゴーストバスターズ(12) 字消士ご一行珍道中!?"
+        "rank": 21
       },
       "ranking": {
         "title": "歴史ゴーストバスターズ(12) 字消士ご一行珍道中!?",
@@ -568,7 +685,7 @@
           }
         ],
         "source": "combined",
-        "rank": 7
+        "rank": 9
       }
     },
     {
@@ -599,7 +716,7 @@
           }
         ],
         "source": "combined",
-        "rank": 23,
+        "rank": 29,
         "originalTitle": ""
       },
       "ranking": {
@@ -615,7 +732,54 @@
           }
         ],
         "source": "combined",
-        "rank": 8
+        "rank": 10
+      }
+    },
+    {
+      "id": "7275000891118",
+      "title": "お願いしないで人を動かす　心のつかみ方",
+      "author": "高田洋平",
+      "publisher": "かんき出版",
+      "price": 1870,
+      "url": "https://books.rakuten.co.jp/rk/c07388c7726237d18adce0c2889b0424/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3314/2000021233314.jpg?_ex=600x600",
+      "caption": "成功する人は、人を巻き込む！\nいつも一人で頑張りすぎてしまう。\n人に頼るのが苦手。\n気づけば、全部自分で抱え込んで疲れ果ててしまう。\nそんなあなたのための一冊です。\n企画を立てても協力者が集まらない。\nイベントの集客が思うようにいかない。\n社内で新しい提案をしても、なかなか周りが動いてくれない。\n「お願いします」と頼んでも、どこか気を遣わせてしまう。\nでも、本当に必要なのは、お願いのうまさでも、話術でも、人脈でもありません。\n「この人を応援したい」\n「一緒にやりたい」\nそう思われる関係のつくり方を知ることです。\n本書では、350万円の赤字イベントという大失敗から学び、体系化した「応援共創4Cメソッド」を紹介します。\n本書を読むことで、あなたは次のような変化を手にできます。\nプロジェクトが驚くほどスムーズに進む\n「やらせてください」と仲間が自ら手を挙げるようになる\nイベントやサービスの集客が口コミで広がっていく\n社内でも自然と協力者が増え、企画が前に進む\n一人で抱え込まず、チームで成果を出せるようになる\n「お願いする人」ではなく、「応援される人」になれる\n本書で紹介するのは、心理テクニックや話し方のコツではありません。\n人との関係性を育て、応援が自然に集まり、協力が連鎖していく仕組みです。\n会社員として社内で新しい企画を進めたい人、起業家やフリーランスとしてファンや仲間を増やしたい人、地域活動やコミュニティを広げたい人まで、あらゆる立場で実践できます。\nもう、一人で頑張り続ける必要はありません。\n「お願いしなくても人が集まる」\n「一緒に夢を実現する仲間が増えていく」\nそんな新しい働き方、生き方への第一歩となる一冊です。\n",
+      "salesDate": "2026年09月03日",
+      "series": "お願いしないで人を動かす　心のつかみ方",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101905007001",
+      "isbn": "7275000891118",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "お願いしないで人を動かす 心のつかみ方",
+        "author": "",
+        "score": 78,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 37,
+        "originalTitle": "お願いしないで人を動かす　心のつかみ方"
+      },
+      "ranking": {
+        "title": "お願いしないで人を動かす 心のつかみ方",
+        "author": "",
+        "isbn": "",
+        "score": 172,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 11
       }
     },
     {
@@ -646,7 +810,7 @@
           }
         ],
         "source": "combined",
-        "rank": 30,
+        "rank": 38,
         "originalTitle": ""
       },
       "ranking": {
@@ -662,55 +826,7 @@
           }
         ],
         "source": "combined",
-        "rank": 9
-      }
-    },
-    {
-      "id": "7275000891118",
-      "title": "お願いしないで人を動かす　心のつかみ方",
-      "author": "高田洋平",
-      "publisher": "かんき出版",
-      "price": 1870,
-      "url": "https://books.rakuten.co.jp/rk/c07388c7726237d18adce0c2889b0424/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3314/2000021233314.jpg?_ex=600x600",
-      "caption": "成功する人は、人を巻き込む！\nいつも一人で頑張りすぎてしまう。\n人に頼るのが苦手。\n気づけば、全部自分で抱え込んで疲れ果ててしまう。\nそんなあなたのための一冊です。\n企画を立てても協力者が集まらない。\nイベントの集客が思うようにいかない。\n社内で新しい提案をしても、なかなか周りが動いてくれない。\n「お願いします」と頼んでも、どこか気を遣わせてしまう。\nでも、本当に必要なのは、お願いのうまさでも、話術でも、人脈でもありません。\n「この人を応援したい」\n「一緒にやりたい」\nそう思われる関係のつくり方を知ることです。\n本書では、350万円の赤字イベントという大失敗から学び、体系化した「応援共創4Cメソッド」を紹介します。\n本書を読むことで、あなたは次のような変化を手にできます。\nプロジェクトが驚くほどスムーズに進む\n「やらせてください」と仲間が自ら手を挙げるようになる\nイベントやサービスの集客が口コミで広がっていく\n社内でも自然と協力者が増え、企画が前に進む\n一人で抱え込まず、チームで成果を出せるようになる\n「お願いする人」ではなく、「応援される人」になれる\n本書で紹介するのは、心理テクニックや話し方のコツではありません。\n人との関係性を育て、応援が自然に集まり、協力が連鎖していく仕組みです。\n会社員として社内で新しい企画を進めたい人、起業家やフリーランスとしてファンや仲間を増やしたい人、地域活動やコミュニティを広げたい人まで、あらゆる立場で実践できます。\nもう、一人で頑張り続ける必要はありません。\n「お願いしなくても人が集まる」\n「一緒に夢を実現する仲間が増えていく」\nそんな新しい働き方、生き方への第一歩となる一冊です。\n",
-      "salesDate": "2026年09月03日",
-      "series": "お願いしないで人を動かす　心のつかみ方",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101905007001",
-      "isbn": "7275000891118",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "お願いしないで人を動かす 心のつかみ方",
-        "author": "",
-        "isbn": "",
-        "score": 172,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 28,
-        "originalTitle": "お願いしないで人を動かす 心のつかみ方"
-      },
-      "ranking": {
-        "title": "お願いしないで人を動かす 心のつかみ方",
-        "author": "",
-        "isbn": "",
-        "score": 172,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 10
+        "rank": 12
       }
     },
     {
@@ -742,7 +858,7 @@
           }
         ],
         "source": "combined",
-        "rank": 29
+        "rank": 30
       },
       "ranking": {
         "title": "anan No.2509 Special Edition",
@@ -757,54 +873,7 @@
           }
         ],
         "source": "combined",
-        "rank": 11
-      }
-    },
-    {
-      "id": "7275000923851",
-      "title": "「思い込み」が未来を決める　東大・早稲田大・筑波大生、上場企業経営者らを指導してきたコンサルタントが教える「限界」を超える思考習慣",
-      "author": "高木謙治",
-      "publisher": "アチーブメント出版",
-      "price": 1760,
-      "url": "https://books.rakuten.co.jp/rk/0d1bd558b99b3c59952d3d0d9db1dd21/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2952/2000021692952.jpg?_ex=600x600",
-      "caption": "ビジネスやスポーツの世界で、圧倒的な成果を出し続ける人たち。彼らには、ある共通点があります。それは、「できない」と思っていないこと。\n一方で、多くの人は違います。本当は可能性を持っているにもかかわらず、できるはずがないという“思い込み”によって、自ら限界をつくってしまっているのです。\n夢をかなえるために。なりたい自分になるために。「能力」を高めることも大事です。しかしそれ以上に重要なのは、自分を縛っているネガティブな“思い込み”、すなわち、思考の「枠」を外すことです。\n“思い込み”が変われば、“行動”が変わる。\n“行動”が変われば、“習慣”が変わる。\n“習慣”が変われば、“結果”が変わる。\n必要なのは、自分の可能性を制限している“思い込み”に気づき、未来を切り拓けるというポジティブな“思い込み”へと書き換えること。\n本書では、私たちの可能性を縛る「ネガティブな思い込み」を手放す技術、感情に振り回されないためのセルフカウンセリング、「しんどさ」を成長のエンジンに変える方法、役職に頼らないリーダーシップの発揮の仕方、そして「心理的安全性」と「規律」を両立させる組織づくりまで、“思い込み”を起点に人生と組織を好転させる技術を体系的に解説します。\nビジネスやスポーツの現場で自ら圧倒的な成果を出し、コンサルタントとして延べ2万4000名を超える受講生を指導してきた著者だからこそ語れる、再現性のある実践知が詰まっています。\nあなたの未来を変えるのは、才能でも環境でもありません。**\"思い込み\"**です。\n",
-      "salesDate": "2026年09月08日",
-      "series": "「思い込み」が未来を決める　東大・早稲田大・筑波大生、上場企業経営者らを指導してきたコンサルタントが教える「限界」を超える思考習慣",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101905017004/101905016001",
-      "isbn": "7275000923851",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "「思い込み」が未来を決める 東大・早稲田大・筑波大生、上場企業経営者らを指導して",
-        "author": "",
-        "score": 74,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 33,
-        "originalTitle": "「思い込み」が未来を決める　東大・早稲田大・筑波大生、上場企業経営者らを指導して"
-      },
-      "ranking": {
-        "title": "「思い込み」が未来を決める 東大・早稲田大・筑波大生、上場企業経営者らを指導して",
-        "author": "",
-        "isbn": "",
-        "score": 171,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 12
+        "rank": 13
       }
     },
     {
@@ -835,7 +904,7 @@
           }
         ],
         "source": "combined",
-        "rank": 31,
+        "rank": 39,
         "originalTitle": ""
       },
       "ranking": {
@@ -851,7 +920,54 @@
           }
         ],
         "source": "combined",
-        "rank": 13
+        "rank": 14
+      }
+    },
+    {
+      "id": "7275000923851",
+      "title": "「思い込み」が未来を決める　東大・早稲田大・筑波大生、上場企業経営者らを指導してきたコンサルタントが教える「限界」を超える思考習慣",
+      "author": "高木謙治",
+      "publisher": "アチーブメント出版",
+      "price": 1760,
+      "url": "https://books.rakuten.co.jp/rk/0d1bd558b99b3c59952d3d0d9db1dd21/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2952/2000021692952.jpg?_ex=600x600",
+      "caption": "ビジネスやスポーツの世界で、圧倒的な成果を出し続ける人たち。彼らには、ある共通点があります。それは、「できない」と思っていないこと。\n一方で、多くの人は違います。本当は可能性を持っているにもかかわらず、できるはずがないという“思い込み”によって、自ら限界をつくってしまっているのです。\n夢をかなえるために。なりたい自分になるために。「能力」を高めることも大事です。しかしそれ以上に重要なのは、自分を縛っているネガティブな“思い込み”、すなわち、思考の「枠」を外すことです。\n“思い込み”が変われば、“行動”が変わる。\n“行動”が変われば、“習慣”が変わる。\n“習慣”が変われば、“結果”が変わる。\n必要なのは、自分の可能性を制限している“思い込み”に気づき、未来を切り拓けるというポジティブな“思い込み”へと書き換えること。\n本書では、私たちの可能性を縛る「ネガティブな思い込み」を手放す技術、感情に振り回されないためのセルフカウンセリング、「しんどさ」を成長のエンジンに変える方法、役職に頼らないリーダーシップの発揮の仕方、そして「心理的安全性」と「規律」を両立させる組織づくりまで、“思い込み”を起点に人生と組織を好転させる技術を体系的に解説します。\nビジネスやスポーツの現場で自ら圧倒的な成果を出し、コンサルタントとして延べ2万4000名を超える受講生を指導してきた著者だからこそ語れる、再現性のある実践知が詰まっています。\nあなたの未来を変えるのは、才能でも環境でもありません。**\"思い込み\"**です。\n",
+      "salesDate": "2026年09月08日",
+      "series": "「思い込み」が未来を決める　東大・早稲田大・筑波大生、上場企業経営者らを指導してきたコンサルタントが教える「限界」を超える思考習慣",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101905017004/101905016001",
+      "isbn": "7275000923851",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "「思い込み」が未来を決める 東大・早稲田大・筑波大生、上場企業経営者らを指導して",
+        "author": "",
+        "score": 74,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 42,
+        "originalTitle": "「思い込み」が未来を決める　東大・早稲田大・筑波大生、上場企業経営者らを指導して"
+      },
+      "ranking": {
+        "title": "「思い込み」が未来を決める 東大・早稲田大・筑波大生、上場企業経営者らを指導して",
+        "author": "",
+        "isbn": "",
+        "score": 171,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 15
       }
     },
     {
@@ -883,7 +999,7 @@
           }
         ],
         "source": "combined",
-        "rank": 33
+        "rank": 34
       },
       "ranking": {
         "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
@@ -898,7 +1014,7 @@
           }
         ],
         "source": "combined",
-        "rank": 14
+        "rank": 16
       }
     },
     {
@@ -929,7 +1045,7 @@
           }
         ],
         "source": "combined",
-        "rank": 35,
+        "rank": 44,
         "originalTitle": ""
       },
       "ranking": {
@@ -945,7 +1061,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15
+        "rank": 17
       }
     },
     {
@@ -967,8 +1083,7 @@
       "matchMeta": {
         "title": "文藝春秋 (2026年10月号)",
         "author": "文藝春秋",
-        "isbn": "",
-        "score": 168,
+        "score": 62,
         "sources": [
           {
             "source": "amazon",
@@ -977,7 +1092,8 @@
           }
         ],
         "source": "combined",
-        "rank": 41
+        "rank": 54,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "文藝春秋 (2026年10月号)",
@@ -992,7 +1108,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16
+        "rank": 18
       }
     },
     {
@@ -1024,7 +1140,7 @@
           }
         ],
         "source": "combined",
-        "rank": 43
+        "rank": 44
       },
       "ranking": {
         "title": "FOR OVERSEAS",
@@ -1039,7 +1155,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17
+        "rank": 19
       }
     },
     {
@@ -1070,7 +1186,7 @@
           }
         ],
         "source": "combined",
-        "rank": 46,
+        "rank": 60,
         "originalTitle": ""
       },
       "ranking": {
@@ -1086,7 +1202,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18
+        "rank": 20
       }
     },
     {
@@ -1117,7 +1233,7 @@
           }
         ],
         "source": "combined",
-        "rank": 49,
+        "rank": 65,
         "originalTitle": ""
       },
       "ranking": {
@@ -1133,7 +1249,7 @@
           }
         ],
         "source": "combined",
-        "rank": 19
+        "rank": 21
       }
     },
     {
@@ -1164,7 +1280,7 @@
           }
         ],
         "source": "combined",
-        "rank": 52,
+        "rank": 69,
         "originalTitle": ""
       },
       "ranking": {
@@ -1180,7 +1296,7 @@
           }
         ],
         "source": "combined",
-        "rank": 20
+        "rank": 22
       }
     },
     {
@@ -1202,7 +1318,8 @@
       "matchMeta": {
         "title": "捨てられた僕と母猫と奇跡 - 心に傷を負った二人が新たに見つけた居場所",
         "author": "",
-        "score": 26,
+        "isbn": "",
+        "score": 159,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1211,8 +1328,7 @@
           }
         ],
         "source": "combined",
-        "rank": 59,
-        "originalTitle": ""
+        "rank": 63
       },
       "ranking": {
         "title": "捨てられた僕と母猫と奇跡 - 心に傷を負った二人が新たに見つけた居場所",
@@ -1227,7 +1343,7 @@
           }
         ],
         "source": "combined",
-        "rank": 21
+        "rank": 23
       }
     },
     {
@@ -1258,7 +1374,7 @@
           }
         ],
         "source": "combined",
-        "rank": 64,
+        "rank": 86,
         "originalTitle": "ダンダダン 25 (ジャンプコミックス)"
       },
       "ranking": {
@@ -1274,54 +1390,7 @@
           }
         ],
         "source": "combined",
-        "rank": 22
-      }
-    },
-    {
-      "id": "4380000407898",
-      "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-      "author": "林真理子",
-      "publisher": "幻冬舎",
-      "price": 982,
-      "url": "https://books.rakuten.co.jp/rk/1e28fc1db6b83578b06b0919e0a52cd7/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0908/2000020490908.jpg?_ex=600x600",
-      "caption": "70代は頭も体もまだ大丈夫。\nそれなりに蓄えもできている。\nでもこれまでと全く同じことをしていたらダメ。\nできないことは諦め、楽しいことを大事にし、人生の新しいステージに立とう。\n同じ年代とばかりつるまず、ダイエットはしない。\n嫌われずに自慢話をするテクニック、お金にキレイな人と思われるおごり方ーー。\n72歳の人気作家が本音で語る「健康」「おしゃれ」「仕事」「お金」「人間関係」「趣味」。\n確実に近づく「その日」を見つめ、今の1分1秒を楽しんで生きるための、痛快・人生論。\n",
-      "salesDate": "2026年05月27日",
-      "series": "",
-      "reviewAverage": 3.47,
-      "reviewCount": 46,
-      "genreId": "101907010004/101909",
-      "isbn": "4380000407898",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-        "author": "林真理子",
-        "score": 14,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 24
-          }
-        ],
-        "source": "combined",
-        "rank": 66,
-        "originalTitle": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 (幻冬舎新書 803)"
-      },
-      "ranking": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 (幻冬舎新書 803)",
-        "author": "林真理子",
-        "isbn": "",
-        "score": 156,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 24
-          }
-        ],
-        "source": "combined",
-        "rank": 23
+        "rank": 24
       }
     },
     {
@@ -1343,7 +1412,8 @@
       "matchMeta": {
         "title": "ミリオンダラー強運思考",
         "author": "",
-        "score": 10,
+        "isbn": "",
+        "score": 155,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1352,8 +1422,8 @@
           }
         ],
         "source": "combined",
-        "rank": 67,
-        "originalTitle": ""
+        "rank": 71,
+        "originalTitle": "ミリオンダラー強運思考"
       },
       "ranking": {
         "title": "ミリオンダラー強運思考",
@@ -1368,7 +1438,7 @@
           }
         ],
         "source": "combined",
-        "rank": 24
+        "rank": 25
       }
     },
     {
@@ -1390,7 +1460,8 @@
       "matchMeta": {
         "title": "異世界のんびり農家 17",
         "author": "剣 康之",
-        "score": 6,
+        "isbn": "",
+        "score": 154,
         "sources": [
           {
             "source": "amazon",
@@ -1399,7 +1470,7 @@
           }
         ],
         "source": "combined",
-        "rank": 70,
+        "rank": 72,
         "originalTitle": "異世界のんびり農家 17 (ドラゴンコミックスエイジ)"
       },
       "ranking": {
@@ -1415,7 +1486,7 @@
           }
         ],
         "source": "combined",
-        "rank": 25
+        "rank": 26
       }
     },
     {
@@ -1446,7 +1517,7 @@
           }
         ],
         "source": "combined",
-        "rank": 76,
+        "rank": 105,
         "originalTitle": "戦争犯罪と闘う 国際刑事裁判所は屈しない (文春新書 1496)"
       },
       "ranking": {
@@ -1462,7 +1533,7 @@
           }
         ],
         "source": "combined",
-        "rank": 26
+        "rank": 27
       }
     },
     {
@@ -1494,7 +1565,7 @@
           }
         ],
         "source": "combined",
-        "rank": 76,
+        "rank": 77,
         "originalTitle": "イン・ザ・メガチャーチ"
       },
       "ranking": {
@@ -1507,53 +1578,6 @@
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
             "rank": 28
-          }
-        ],
-        "source": "combined",
-        "rank": 27
-      }
-    },
-    {
-      "id": "4310000920047",
-      "title": "うるわしの宵の月（１１）",
-      "author": "やまもり三香",
-      "publisher": "講談社",
-      "price": 594,
-      "url": "https://books.rakuten.co.jp/rk/6fc3b4fd623b344c923ab1e6d55b7031/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9731/2000021649731.jpg?_ex=600x600",
-      "caption": "滝口宵は、容姿端麗・スマートなふるまいで「王子」と呼ばれる女子。\n学校で同じく「王子」と呼ばれる市村先輩に出会い、\nひょんなことからお試しでのお付き合いが始まる。\n初めは身構えていた宵も段々と気持ちが変化し、夏祭りで\nお互いようやく素直に気持ちを打ち合け、正式に付き合うことに。\nクリスマスから年末と幸せな日々を過ごす２人。だけど新学期、\nなぜか先輩が学校に来なくなる。先輩から家の事情で学校をやめ、\n留学することになったと聞かされ、さらに別れることになってしまい…!!?\nともに「王子」と呼ばれる男女の恋、再び２人の絆は戻るの─!!?\n",
-      "salesDate": "2026年09月11日",
-      "series": "うるわしの宵の月",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904011016",
-      "isbn": "4310000920047",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "うるわしの宵の月(11) (KCデザート)",
-        "author": "やまもり 三香",
-        "isbn": "",
-        "score": 151,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 29
-          }
-        ],
-        "source": "combined",
-        "rank": 77
-      },
-      "ranking": {
-        "title": "うるわしの宵の月(11) (KCデザート)",
-        "author": "やまもり 三香",
-        "isbn": "",
-        "score": 151,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 29
           }
         ],
         "source": "combined",
@@ -1579,8 +1603,7 @@
       "matchMeta": {
         "title": "ギャルにひかれて寺マルシェ",
         "author": "",
-        "isbn": "",
-        "score": 150,
+        "score": 5,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1589,8 +1612,8 @@
           }
         ],
         "source": "combined",
-        "rank": 80,
-        "originalTitle": "ギャルにひかれて寺マルシェ"
+        "rank": 103,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "ギャルにひかれて寺マルシェ",
@@ -1625,7 +1648,7 @@
       "isbn": "4972000161446",
       "salesType": 0,
       "matchMeta": {
-        "title": "キングダム 80 (ヤングジャンプコミックス)",
+        "title": "キングダム 80",
         "author": "原 泰久",
         "isbn": "",
         "score": 150,
@@ -1637,7 +1660,8 @@
           }
         ],
         "source": "combined",
-        "rank": 79
+        "rank": 80,
+        "originalTitle": "キングダム 80 (ヤングジャンプコミックス)"
       },
       "ranking": {
         "title": "キングダム 80 (ヤングジャンプコミックス)",
@@ -1683,7 +1707,7 @@
           }
         ],
         "source": "combined",
-        "rank": 3,
+        "rank": 4,
         "originalTitle": ""
       },
       "ranking": {
@@ -1699,6 +1723,53 @@
         ],
         "source": "combined",
         "rank": 31,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "4310000890409",
+      "title": "楽園",
+      "author": "夕木春央",
+      "publisher": "講談社",
+      "price": 1980,
+      "url": "https://books.rakuten.co.jp/rk/1a1c684dcee83b98b4d0187187c813d0/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1651/2000021221651.jpg?_ex=600x600",
+      "caption": "殺人犯にならなければ脱出できない。\n『方舟』『十戒』の著者が仕掛ける“禁忌の驚き”\n亡き両親から不動産を譲り受けた康之は、失踪した賃借人・海原の遺留品整理の際に、群馬の山奥の謎の物件の存在を知る。そこは、切り立った岩壁に囲まれた、「楽園」と呼ばれる奇妙な場所だった。恋人の沙織と一緒にそこを訪ね、探索をはじめた康之たちは、すぐに六人の“住人”に拿捕された。脱出のための条件はーー\n「誰か一人を殺さなければならない」\n『方舟』\n第19回オリコン上半期”本”ランキング　文庫ランキングTOP10 第1位\n週刊文春ミステリーベスト10　第1位　（「週刊文春」2022年12月8日号）国内部門\nMRC大賞2022　第1位\n『方舟』＋『十戒』の累計発行部数が100万部突破。\nーー夕木春央が描く、極限のクローズド・サークル。\n",
+      "salesDate": "2026年07月22日",
+      "series": "楽園",
+      "reviewAverage": 4.2,
+      "reviewCount": 364,
+      "genreId": "101902",
+      "isbn": "4310000890409",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "楽園",
+        "author": "夕木春央",
+        "score": 94,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
+          }
+        ],
+        "source": "combined",
+        "rank": 15,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "楽園",
+        "author": "夕木春央",
+        "score": 94,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
+          }
+        ],
+        "source": "combined",
+        "rank": 32,
         "originalTitle": ""
       }
     },
@@ -1730,7 +1801,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16,
+        "rank": 20,
         "originalTitle": ""
       },
       "ranking": {
@@ -1745,7 +1816,7 @@
           }
         ],
         "source": "combined",
-        "rank": 32,
+        "rank": 33,
         "originalTitle": ""
       }
     },
@@ -1777,7 +1848,7 @@
           }
         ],
         "source": "combined",
-        "rank": 36,
+        "rank": 45,
         "originalTitle": ""
       },
       "ranking": {
@@ -1792,7 +1863,7 @@
           }
         ],
         "source": "combined",
-        "rank": 33,
+        "rank": 34,
         "originalTitle": ""
       }
     }
@@ -1813,7 +1884,8 @@
       "4916475490001",
       "4390000005636",
       "4620000615075",
-      "4620000615076"
+      "4620000615076",
+      "4310000890409"
     ],
     "sf": [],
     "business": [
@@ -1825,8 +1897,8 @@
       "4561004112000"
     ],
     "humanities": [
-      "4770025390000",
       "4380000407898",
+      "4770025390000",
       "4390000014247"
     ],
     "nonfiction": [
@@ -1854,10 +1926,10 @@
     "comic": [
       "4681308443742",
       "4972000161524",
+      "4310000920047",
       "4310000917800",
       "4972000164838",
       "4336195000320",
-      "4310000920047",
       "4972000161446"
     ]
   },
@@ -1867,7 +1939,7 @@
       "complete": true
     },
     "mystery": {
-      "matched": 4,
+      "matched": 5,
       "complete": true
     },
     "sf": {

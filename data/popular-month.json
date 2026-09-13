@@ -4,10 +4,10 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-09-13T03:19:25.779Z",
+  "updatedAt": "2026-09-13T05:37:30.640Z",
   "candidateCount": 38,
-  "baseMatched": 15,
-  "matched": 18,
+  "baseMatched": 16,
+  "matched": 19,
   "addedMatches": 3,
   "unavailable": [],
   "snapshots": {
@@ -20,6 +20,12 @@
       "updatedAt": "2026-09-13",
       "live": true,
       "items": [
+        {
+          "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
+          "author": "",
+          "isbn": "",
+          "rank": 2
+        },
         {
           "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
           "author": "",
@@ -43,6 +49,12 @@
           "author": "",
           "isbn": "",
           "rank": 19
+        },
+        {
+          "title": "ファイア・ドーム 〈上〉",
+          "author": "",
+          "isbn": "",
+          "rank": 20
         },
         {
           "title": "つかめ！理科ダマン 〈１２〉 最強ロボット決戦！編",
@@ -97,12 +109,6 @@
       "updatedAt": "2026-09-13",
       "live": true,
       "items": [
-        {
-          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-          "author": "",
-          "isbn": "",
-          "rank": 2
-        },
         {
           "title": "ハヤブサ消防団 森へつづく道",
           "author": "",
@@ -258,29 +264,29 @@
       "isbn": "4380000407898",
       "salesType": 0,
       "matchMeta": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-        "author": "林真理子",
-        "score": 94,
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 幻冬舎新書",
+        "author": "",
+        "score": 102,
         "sources": [
           {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 2
           }
         ],
         "source": "combined",
-        "rank": 10,
-        "originalTitle": ""
+        "rank": 8,
+        "originalTitle": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書"
       },
       "ranking": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
         "author": "",
         "isbn": "",
         "score": 178,
         "sources": [
           {
-            "source": "tohan",
-            "label": "トーハン",
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
             "rank": 2
           }
         ],
@@ -623,6 +629,58 @@
       }
     },
     {
+      "id": "4320000865495",
+      "title": "ファイア・ドーム 上",
+      "author": "辻村深月",
+      "publisher": "小学館",
+      "price": 1881,
+      "url": "https://books.rakuten.co.jp/rk/22c26517c9353107819b56539afa6896/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1853/2000020771853.jpg?_ex=600x600",
+      "caption": "人はなぜ大きな事件に魅了されてしまうのか。\n噂は、軽薄な娯楽だ。\n25年前、平穏だったはずの地方都市は、百貨店受付嬢誘拐殺人事件の発生、その報道により揺り動かされ、「噂」という大量の炎が、加害者のみならず被害者にも降り注ぎ、燃えさかった。ようやく静けさを取り戻したかに見える町に燻り続ける因縁が、いま新たな事件を呼び起こすーー。\n「もう言われてるよ！　どうせ、親が殺したんだろうって！」ーー本文より\n",
+      "salesDate": "2026年06月05日",
+      "series": "ファイア・ドーム",
+      "reviewAverage": 4.56,
+      "reviewCount": 389,
+      "genreId": "101901/101902",
+      "isbn": "4320000865495",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ファイア・ドーム 上",
+        "author": "辻村深月",
+        "score": 132,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 2
+          },
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 20
+          }
+        ],
+        "source": "combined",
+        "rank": 3,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "ファイア・ドーム 〈上〉",
+        "author": "",
+        "isbn": "",
+        "score": 160,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 20
+          }
+        ],
+        "source": "combined",
+        "rank": 11
+      }
+    },
+    {
       "id": "4310000858457",
       "title": "多類婚姻譚",
       "author": "凪良ゆう",
@@ -671,7 +729,7 @@
           }
         ],
         "source": "combined",
-        "rank": 11
+        "rank": 12
       }
     },
     {
@@ -723,7 +781,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12
+        "rank": 13
       }
     },
     {
@@ -770,7 +828,7 @@
           }
         ],
         "source": "combined",
-        "rank": 13
+        "rank": 14
       }
     },
     {
@@ -817,7 +875,7 @@
           }
         ],
         "source": "combined",
-        "rank": 14
+        "rank": 15
       }
     },
     {
@@ -864,7 +922,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15
+        "rank": 16
       }
     },
     {
@@ -910,7 +968,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16,
+        "rank": 17,
         "originalTitle": ""
       }
     },
@@ -957,7 +1015,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17,
+        "rank": 18,
         "originalTitle": ""
       }
     },
@@ -1004,7 +1062,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18,
+        "rank": 19,
         "originalTitle": ""
       }
     }
@@ -1014,6 +1072,7 @@
       "4820000903843",
       "4340008066911",
       "4660629612104",
+      "4320000865495",
       "4310000858457",
       "4320000865494",
       "4331000700320",
@@ -1022,6 +1081,7 @@
     ],
     "mystery": [
       "4820000903843",
+      "4320000865495",
       "4320000865494",
       "4310000890409"
     ],
@@ -1064,11 +1124,11 @@
   },
   "genreStatus": {
     "fiction": {
-      "matched": 8,
+      "matched": 9,
       "complete": true
     },
     "mystery": {
-      "matched": 3,
+      "matched": 4,
       "complete": true
     },
     "sf": {

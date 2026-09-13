@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "year",
-  "updatedAt": "2026-09-13T03:19:30.025Z",
+  "updatedAt": "2026-09-13T05:37:34.738Z",
   "candidateCount": 13,
-  "baseMatched": 7,
-  "matched": 8,
-  "addedMatches": 1,
+  "baseMatched": 6,
+  "matched": 9,
+  "addedMatches": 3,
   "unavailable": [],
   "snapshots": {
     "tohan": {
@@ -43,6 +43,12 @@
           "author": "",
           "isbn": "",
           "rank": 4
+        },
+        {
+          "title": "暁星",
+          "author": "",
+          "isbn": "",
+          "rank": 7
         },
         {
           "title": "大河の一滴 最終章",
@@ -137,8 +143,9 @@
       "salesType": 0,
       "matchMeta": {
         "title": "変な地図",
-        "author": "雨穴",
-        "score": 102,
+        "author": "",
+        "isbn": "",
+        "score": 178,
         "sources": [
           {
             "source": "tohan",
@@ -148,7 +155,7 @@
         ],
         "source": "combined",
         "rank": 2,
-        "originalTitle": ""
+        "originalTitle": "変な地図"
       },
       "ranking": {
         "title": "変な地図",
@@ -261,6 +268,54 @@
       }
     },
     {
+      "id": "6681299179860",
+      "title": "暁星",
+      "author": "湊かなえ",
+      "publisher": "双葉社",
+      "price": 1980,
+      "url": "https://books.rakuten.co.jp/rk/eb8de6a46aa935d48709dbfee116c7d2/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4762/2000019204762.jpg?_ex=600x600",
+      "caption": "「ただ、星を守りたかっただけーー」　\n現役の文部科学大臣で文壇の大御所作家でもある清水義之が全国高校生総合文化祭の式典の最中、舞台袖から飛び出してきた男に刺されて死亡する事件がおきた。逮捕された男の名前は永瀬暁、37歳。永瀬は逮捕されたのち、週刊誌に手記を発表しはじめる。そこには、清水が深く関わっているとされる新興宗教に対する恨みが綴られていた。また、式典に出席していた作家は、永瀬の事件を小説として描く。ノンフィクションとフィクション、ふたつの物語が合わさったとき見える景色とは!?\n",
+      "salesDate": "2025年11月27日",
+      "series": "暁星",
+      "reviewAverage": 4.18,
+      "reviewCount": 1160,
+      "genreId": "101902",
+      "isbn": "6681299179860",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "暁星",
+        "author": "",
+        "isbn": "",
+        "score": 173,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 7
+          }
+        ],
+        "source": "combined",
+        "rank": 7,
+        "originalTitle": "暁星"
+      },
+      "ranking": {
+        "title": "暁星",
+        "author": "",
+        "isbn": "",
+        "score": 173,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 7
+          }
+        ],
+        "source": "combined",
+        "rank": 5
+      }
+    },
+    {
       "id": "4380000485089",
       "title": "大河の一滴　最終章",
       "author": "五木寛之",
@@ -304,7 +359,7 @@
           }
         ],
         "source": "combined",
-        "rank": 5
+        "rank": 6
       }
     },
     {
@@ -351,7 +406,7 @@
           }
         ],
         "source": "combined",
-        "rank": 6
+        "rank": 7
       }
     },
     {
@@ -398,7 +453,7 @@
           }
         ],
         "source": "combined",
-        "rank": 7
+        "rank": 8
       }
     },
     {
@@ -445,7 +500,7 @@
           }
         ],
         "source": "combined",
-        "rank": 8
+        "rank": 9
       }
     }
   ],
@@ -455,7 +510,8 @@
       "4340008064751"
     ],
     "mystery": [
-      "6681297998470"
+      "6681297998470",
+      "6681299179860"
     ],
     "sf": [],
     "business": [
@@ -486,7 +542,7 @@
       "complete": true
     },
     "mystery": {
-      "matched": 1,
+      "matched": 2,
       "complete": true
     },
     "sf": {

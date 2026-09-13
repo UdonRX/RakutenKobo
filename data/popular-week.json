@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-09-13T12:32:29.807Z",
-  "candidateCount": 80,
+  "updatedAt": "2026-09-13T16:52:15.432Z",
+  "candidateCount": 83,
   "baseMatched": 21,
-  "matched": 32,
-  "addedMatches": 11,
+  "matched": 34,
+  "addedMatches": 13,
   "unavailable": [
     "rakuten"
   ],
@@ -22,12 +22,6 @@
       "updatedAt": "2026-09-10T23:10:17.190Z",
       "live": false,
       "items": [
-        {
-          "title": "女の園の星 ５ (フィールコミックス)",
-          "author": "和山やま",
-          "isbn": "",
-          "rank": 1
-        },
         {
           "title": "幽冥の岸 十二国記 (新潮文庫 お 37-66)",
           "author": "小野不由美",
@@ -53,12 +47,6 @@
           "rank": 14
         },
         {
-          "title": "薫る花は凛と咲く(24) (少年マガジンKC)",
-          "author": "三香見 サカ",
-          "isbn": "",
-          "rank": 17
-        },
-        {
           "title": "ダンダダン 25 (ジャンプコミックス)",
           "author": "龍 幸伸",
           "isbn": "",
@@ -69,12 +57,6 @@
           "author": "剣 康之",
           "isbn": "",
           "rank": 26
-        },
-        {
-          "title": "うるわしの宵の月(11) (KCデザート)",
-          "author": "やまもり 三香",
-          "isbn": "",
-          "rank": 29
         },
         {
           "title": "キングダム 80 (ヤングジャンプコミックス)",
@@ -171,6 +153,12 @@
           "rank": 21
         },
         {
+          "title": "ミリオンダラー強運思考",
+          "author": "",
+          "isbn": "",
+          "rank": 25
+        },
+        {
           "title": "イン・ザ・メガチャーチ",
           "author": "",
           "isbn": "",
@@ -236,6 +224,32 @@
           "rank": 12
         }
       ]
+    },
+    "rakuten": {
+      "id": "rakuten",
+      "label": "楽天ブックス",
+      "attribution": "楽天ブックス",
+      "sourceUrl": "https://books.rakuten.co.jp/",
+      "periodLabel": "売れ筋順",
+      "updatedAt": "2026-09-13",
+      "live": true,
+      "items": [
+        {
+          "title": "うるわしの宵の月（11）",
+          "author": "やまもり 三香",
+          "rank": 6
+        },
+        {
+          "title": "女の園の星（5）",
+          "author": "和山やま",
+          "rank": 11
+        },
+        {
+          "title": "あなたの部屋は、あなた自身です。",
+          "author": "舛田光洋",
+          "rank": 25
+        }
+      ]
     }
   },
   "items": [
@@ -297,53 +311,6 @@
       }
     },
     {
-      "id": "4681308443742",
-      "title": "女の園の星（５）【電子限定特典付】",
-      "author": "和山やま",
-      "publisher": "祥伝社",
-      "price": 825,
-      "url": "https://books.rakuten.co.jp/rk/b2b2f443d6b837ea8cb25b4b09cfe38f/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1397/2000020491397.jpg?_ex=600x600",
-      "caption": "【電子限定！カラーイラスト収録】\n大ヒット!! 累計320万部突破！\nくだらないから愛おしい。爆笑止まらぬ女子校コメディ！\n夏休み最終日。新学期の準備をしていた星先生は、なぜか漫才の練習に付き合わされることになり…？\n一方、小林先生はSNS流出疑惑で校長に呼び出されて大ピンチ!?\n生徒会選挙には2年4組から鳥井さんが出馬表明！\n選挙の後は文化祭と、イベント盛りだくさんな２学期がスタートです。\n番外編「星先生のあの夏。」「星先生の昼やすみ」「小林先生のラッキーな休日」の３編も収録し、\n予測不能な笑いを大ボリュームでお届けする第５巻!!\n◆◇◆通常版の単行本カバー・カバー下・表2・表3イラストを収録◆◇◆\n",
-      "salesDate": "2026年09月08日",
-      "series": "女の園の星",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904090",
-      "isbn": "4681308443742",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "女の園の星 5",
-        "author": "和山やま",
-        "score": 106,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 1
-          }
-        ],
-        "source": "combined",
-        "rank": 5,
-        "originalTitle": "女の園の星 ５ (フィールコミックス)"
-      },
-      "ranking": {
-        "title": "女の園の星 ５ (フィールコミックス)",
-        "author": "和山やま",
-        "isbn": "",
-        "score": 179,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 1
-          }
-        ],
-        "source": "combined",
-        "rank": 2
-      }
-    },
-    {
       "id": "4340008067611",
       "title": "幽冥の岸　十二国記（新潮文庫）",
       "author": "小野不由美",
@@ -371,7 +338,7 @@
           }
         ],
         "source": "combined",
-        "rank": 8,
+        "rank": 11,
         "originalTitle": "幽冥の岸 十二国記 (新潮文庫 お 37-66)"
       },
       "ranking": {
@@ -387,7 +354,7 @@
           }
         ],
         "source": "combined",
-        "rank": 3
+        "rank": 2
       }
     },
     {
@@ -418,7 +385,7 @@
           }
         ],
         "source": "combined",
-        "rank": 9,
+        "rank": 12,
         "originalTitle": ""
       },
       "ranking": {
@@ -434,7 +401,7 @@
           }
         ],
         "source": "combined",
-        "rank": 4
+        "rank": 3
       }
     },
     {
@@ -466,8 +433,7 @@
           }
         ],
         "source": "combined",
-        "rank": 13,
-        "originalTitle": "会社四季報 業界地図 2027年版"
+        "rank": 13
       },
       "ranking": {
         "title": "会社四季報 業界地図 2027年版",
@@ -482,7 +448,7 @@
           }
         ],
         "source": "combined",
-        "rank": 5
+        "rank": 4
       }
     },
     {
@@ -513,7 +479,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15,
+        "rank": 19,
         "originalTitle": ""
       },
       "ranking": {
@@ -529,7 +495,7 @@
           }
         ],
         "source": "combined",
-        "rank": 6
+        "rank": 5
       }
     },
     {
@@ -560,7 +526,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17,
+        "rank": 22,
         "originalTitle": ""
       },
       "ranking": {
@@ -576,7 +542,7 @@
           }
         ],
         "source": "combined",
-        "rank": 7
+        "rank": 6
       }
     },
     {
@@ -608,7 +574,8 @@
           }
         ],
         "source": "combined",
-        "rank": 17
+        "rank": 17,
+        "originalTitle": "キングダム magazine 2026"
       },
       "ranking": {
         "title": "キングダム magazine 2026",
@@ -620,6 +587,53 @@
             "source": "tohan",
             "label": "トーハン",
             "rank": 5
+          }
+        ],
+        "source": "combined",
+        "rank": 7
+      }
+    },
+    {
+      "id": "4310000920047",
+      "title": "うるわしの宵の月（１１）",
+      "author": "やまもり三香",
+      "publisher": "講談社",
+      "price": 594,
+      "url": "https://books.rakuten.co.jp/rk/6fc3b4fd623b344c923ab1e6d55b7031/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9731/2000021649731.jpg?_ex=600x600",
+      "caption": "滝口宵は、容姿端麗・スマートなふるまいで「王子」と呼ばれる女子。\n学校で同じく「王子」と呼ばれる市村先輩に出会い、\nひょんなことからお試しでのお付き合いが始まる。\n初めは身構えていた宵も段々と気持ちが変化し、夏祭りで\nお互いようやく素直に気持ちを打ち合け、正式に付き合うことに。\nクリスマスから年末と幸せな日々を過ごす２人。だけど新学期、\nなぜか先輩が学校に来なくなる。先輩から家の事情で学校をやめ、\n留学することになったと聞かされ、さらに別れることになってしまい…!!?\nともに「王子」と呼ばれる男女の恋、再び２人の絆は戻るの─!!?\n",
+      "salesDate": "2026年09月11日",
+      "series": "うるわしの宵の月",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904011016",
+      "isbn": "4310000920047",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "うるわしの宵の月(11)",
+        "author": "やまもり 三香",
+        "score": 86,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 6
+          }
+        ],
+        "source": "combined",
+        "rank": 26,
+        "originalTitle": "うるわしの宵の月（11）"
+      },
+      "ranking": {
+        "title": "うるわしの宵の月（11）",
+        "author": "やまもり 三香",
+        "isbn": "",
+        "score": 174,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 6
           }
         ],
         "source": "combined",
@@ -701,7 +715,7 @@
           }
         ],
         "source": "combined",
-        "rank": 23,
+        "rank": 29,
         "originalTitle": ""
       },
       "ranking": {
@@ -748,7 +762,7 @@
           }
         ],
         "source": "combined",
-        "rank": 29,
+        "rank": 37,
         "originalTitle": "お願いしないで人を動かす　心のつかみ方"
       },
       "ranking": {
@@ -765,53 +779,6 @@
         ],
         "source": "combined",
         "rank": 11
-      }
-    },
-    {
-      "id": "6681316499690",
-      "title": "Casa BRUTUS (カーサ・ブルータス) 2026年 10月号 [ソウル・ライフスタイル・ガイド]",
-      "author": "カーサブルータス編集部",
-      "publisher": "マガジンハウス",
-      "price": 1300,
-      "url": "https://books.rakuten.co.jp/rk/3ee4873cdbeb347aac48688eeb597c03/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9858/2000021699858.jpg?_ex=600x600",
-      "caption": "※電子版では、紙の雑誌と内容が一部異なる場合や、掲載されないページや特別付録が含まれない場合がございます。\n※本雑誌はカラーページを含みます。お使いの端末によっては、一部読みづらい場合がございます。\nSeoul Lifestyle Guide\nソウル・ライフスタイル・ガイド\nソウルの今を感じるインテリアと、 あの人が案内するシティガイド！\nKコンテンツ＝韓国のエンターテインメントが世界を席巻して久しいですが、近年は建築、デザイン、ファッション、アートなどの分野でも影響力を増しています。\n欧米のとあるファッションデザイナーは最もインスピレーションを受ける街として、何度も訪れたソウルを自身のコレクションのローンチ場所として選びました。\nソウルは今やライフスタイルの面でも最も注目すべき都市となっているのです。\nそこで 『Casa BRUTUS』本誌としては初めてソウル特集をします。\nインテリアデザインから、建築、デザイン、フード、カルチャー、ナイトライフまで、ソウルのクリエイティブな人々のライフスタイルとあの人が案内するシティガイドです！\nMin Hee Jin\nミン・ヒジンのライフスタイル。\nInterior 1\n多種多様な家具と植物に彩られた、ソウルで暮らすインテリア。\nInterior 2\n人生で初めて手にした、自分らしい暮らしで彩った家。\nooak records\nミン・ヒジンの新たなレーベル、オフィスとコンセプトを初公開！\nFavorite Place\nミン・ヒジンのソウル案内！\nArchitecture\nソウル現代建築リスト。\nJo Sampo\n長坂常のソウルじょう散歩。\nLee Kwangho\n世界が注目する異才、イ・カンホを知っていますか。\nWorks\nソウルのヒップな空間を作る2組。\nSeoul Food\n平野紗季子のソウル・フード、パーマネント・コレクション。\nCraft\n中原慎一郎のクラフト探訪。\nMan in Seoul\n岡本仁のぼくのソウル地図。\nNightlife\nソウルのディープな夜へ、中村圭佑が訪ねた５つのバー。\nSeoul Interiors\nソウルの今を感じる、クリエイターたちの住まい。\n",
-      "salesDate": "2026年09月09日",
-      "series": "Casa BRUTUS",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101950090",
-      "isbn": "6681316499690",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "Casa BRUTUS(カーサ ブルータス) 2026年 10月号[ソウル・ライフスタイル・ガイド]",
-        "author": "CasaBRUTUS編集部",
-        "score": 78,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 30,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "Casa BRUTUS(カーサ ブルータス) 2026年 10月号[ソウル・ライフスタイル・ガイド]",
-        "author": "CasaBRUTUS編集部",
-        "isbn": "",
-        "score": 172,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 12
       }
     },
     {
@@ -843,7 +810,8 @@
           }
         ],
         "source": "combined",
-        "rank": 29
+        "rank": 30,
+        "originalTitle": "anan No.2509 Special Edition"
       },
       "ranking": {
         "title": "anan No.2509 Special Edition",
@@ -854,6 +822,53 @@
           {
             "source": "tohan",
             "label": "トーハン",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 12
+      }
+    },
+    {
+      "id": "6681316499690",
+      "title": "Casa BRUTUS (カーサ・ブルータス) 2026年 10月号 [ソウル・ライフスタイル・ガイド]",
+      "author": "カーサブルータス編集部",
+      "publisher": "マガジンハウス",
+      "price": 1300,
+      "url": "https://books.rakuten.co.jp/rk/3ee4873cdbeb347aac48688eeb597c03/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9858/2000021699858.jpg?_ex=600x600",
+      "caption": "※電子版では、紙の雑誌と内容が一部異なる場合や、掲載されないページや特別付録が含まれない場合がございます。\n※本雑誌はカラーページを含みます。お使いの端末によっては、一部読みづらい場合がございます。\nSeoul Lifestyle Guide\nソウル・ライフスタイル・ガイド\nソウルの今を感じるインテリアと、 あの人が案内するシティガイド！\nKコンテンツ＝韓国のエンターテインメントが世界を席巻して久しいですが、近年は建築、デザイン、ファッション、アートなどの分野でも影響力を増しています。\n欧米のとあるファッションデザイナーは最もインスピレーションを受ける街として、何度も訪れたソウルを自身のコレクションのローンチ場所として選びました。\nソウルは今やライフスタイルの面でも最も注目すべき都市となっているのです。\nそこで 『Casa BRUTUS』本誌としては初めてソウル特集をします。\nインテリアデザインから、建築、デザイン、フード、カルチャー、ナイトライフまで、ソウルのクリエイティブな人々のライフスタイルとあの人が案内するシティガイドです！\nMin Hee Jin\nミン・ヒジンのライフスタイル。\nInterior 1\n多種多様な家具と植物に彩られた、ソウルで暮らすインテリア。\nInterior 2\n人生で初めて手にした、自分らしい暮らしで彩った家。\nooak records\nミン・ヒジンの新たなレーベル、オフィスとコンセプトを初公開！\nFavorite Place\nミン・ヒジンのソウル案内！\nArchitecture\nソウル現代建築リスト。\nJo Sampo\n長坂常のソウルじょう散歩。\nLee Kwangho\n世界が注目する異才、イ・カンホを知っていますか。\nWorks\nソウルのヒップな空間を作る2組。\nSeoul Food\n平野紗季子のソウル・フード、パーマネント・コレクション。\nCraft\n中原慎一郎のクラフト探訪。\nMan in Seoul\n岡本仁のぼくのソウル地図。\nNightlife\nソウルのディープな夜へ、中村圭佑が訪ねた５つのバー。\nSeoul Interiors\nソウルの今を感じる、クリエイターたちの住まい。\n",
+      "salesDate": "2026年09月09日",
+      "series": "Casa BRUTUS",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101950090",
+      "isbn": "6681316499690",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "Casa BRUTUS(カーサ ブルータス) 2026年 10月号[ソウル・ライフスタイル・ガイド]",
+        "author": "CasaBRUTUS編集部",
+        "isbn": "",
+        "score": 172,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 27
+      },
+      "ranking": {
+        "title": "Casa BRUTUS(カーサ ブルータス) 2026年 10月号[ソウル・ライフスタイル・ガイド]",
+        "author": "CasaBRUTUS編集部",
+        "isbn": "",
+        "score": 172,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
             "rank": 8
           }
         ],
@@ -889,7 +904,7 @@
           }
         ],
         "source": "combined",
-        "rank": 31,
+        "rank": 39,
         "originalTitle": ""
       },
       "ranking": {
@@ -927,8 +942,7 @@
       "matchMeta": {
         "title": "「思い込み」が未来を決める 東大・早稲田大・筑波大生、上場企業経営者らを指導して",
         "author": "",
-        "isbn": "",
-        "score": 171,
+        "score": 74,
         "sources": [
           {
             "source": "kinokuniya",
@@ -937,7 +951,8 @@
           }
         ],
         "source": "combined",
-        "rank": 32
+        "rank": 42,
+        "originalTitle": "「思い込み」が未来を決める　東大・早稲田大・筑波大生、上場企業経営者らを指導して"
       },
       "ranking": {
         "title": "「思い込み」が未来を決める 東大・早稲田大・筑波大生、上場企業経営者らを指導して",
@@ -972,7 +987,7 @@
       "isbn": "4524815633410",
       "salesType": 0,
       "matchMeta": {
-        "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
+        "title": "ハーバード、スタンフォード、オックスフォード... 科学的に証明された すごい習慣大百科",
         "author": "",
         "isbn": "",
         "score": 171,
@@ -984,7 +999,8 @@
           }
         ],
         "source": "combined",
-        "rank": 33
+        "rank": 34,
+        "originalTitle": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科"
       },
       "ranking": {
         "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
@@ -1030,7 +1046,7 @@
           }
         ],
         "source": "combined",
-        "rank": 35,
+        "rank": 44,
         "originalTitle": ""
       },
       "ranking": {
@@ -1047,6 +1063,53 @@
         ],
         "source": "combined",
         "rank": 17
+      }
+    },
+    {
+      "id": "4681308443742",
+      "title": "女の園の星（５）【電子限定特典付】",
+      "author": "和山やま",
+      "publisher": "祥伝社",
+      "price": 825,
+      "url": "https://books.rakuten.co.jp/rk/b2b2f443d6b837ea8cb25b4b09cfe38f/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1397/2000020491397.jpg?_ex=600x600",
+      "caption": "【電子限定！カラーイラスト収録】\n大ヒット!! 累計320万部突破！\nくだらないから愛おしい。爆笑止まらぬ女子校コメディ！\n夏休み最終日。新学期の準備をしていた星先生は、なぜか漫才の練習に付き合わされることになり…？\n一方、小林先生はSNS流出疑惑で校長に呼び出されて大ピンチ!?\n生徒会選挙には2年4組から鳥井さんが出馬表明！\n選挙の後は文化祭と、イベント盛りだくさんな２学期がスタートです。\n番外編「星先生のあの夏。」「星先生の昼やすみ」「小林先生のラッキーな休日」の３編も収録し、\n予測不能な笑いを大ボリュームでお届けする第５巻!!\n◆◇◆通常版の単行本カバー・カバー下・表2・表3イラストを収録◆◇◆\n",
+      "salesDate": "2026年09月08日",
+      "series": "女の園の星",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904090",
+      "isbn": "4681308443742",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "女の園の星(5)",
+        "author": "和山やま",
+        "score": 66,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 11
+          }
+        ],
+        "source": "combined",
+        "rank": 49,
+        "originalTitle": "女の園の星（5）"
+      },
+      "ranking": {
+        "title": "女の園の星（5）",
+        "author": "和山やま",
+        "isbn": "",
+        "score": 169,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 11
+          }
+        ],
+        "source": "combined",
+        "rank": 18
       }
     },
     {
@@ -1077,7 +1140,7 @@
           }
         ],
         "source": "combined",
-        "rank": 42,
+        "rank": 54,
         "originalTitle": ""
       },
       "ranking": {
@@ -1093,7 +1156,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18
+        "rank": 19
       }
     },
     {
@@ -1125,8 +1188,7 @@
           }
         ],
         "source": "combined",
-        "rank": 43,
-        "originalTitle": "FOR OVERSEAS"
+        "rank": 45
       },
       "ranking": {
         "title": "FOR OVERSEAS",
@@ -1141,7 +1203,7 @@
           }
         ],
         "source": "combined",
-        "rank": 19
+        "rank": 20
       }
     },
     {
@@ -1172,7 +1234,7 @@
           }
         ],
         "source": "combined",
-        "rank": 46,
+        "rank": 60,
         "originalTitle": ""
       },
       "ranking": {
@@ -1188,7 +1250,7 @@
           }
         ],
         "source": "combined",
-        "rank": 20
+        "rank": 21
       }
     },
     {
@@ -1210,8 +1272,7 @@
       "matchMeta": {
         "title": "営業実行学 - やりきる組織は、設計できる",
         "author": "",
-        "isbn": "",
-        "score": 164,
+        "score": 46,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1220,7 +1281,8 @@
           }
         ],
         "source": "combined",
-        "rank": 52
+        "rank": 65,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "営業実行学 - やりきる組織は、設計できる",
@@ -1232,53 +1294,6 @@
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
             "rank": 16
-          }
-        ],
-        "source": "combined",
-        "rank": 21
-      }
-    },
-    {
-      "id": "4310000917800",
-      "title": "薫る花は凛と咲く（２４）",
-      "author": "三香見サカ",
-      "publisher": "講談社",
-      "price": 627,
-      "url": "https://books.rakuten.co.jp/rk/7c1cbc3f06163e1284f3827f2251dd16/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3486/2000021613486.jpg?_ex=600x600",
-      "caption": "明かされた土岐先生の秘められた過去。かつての生徒・松笠を守れなかった後悔と自責が、桔梗と千鳥の深い溝を作った理由となっていた。しかし、凛太郎たちの真摯な想いは、両校の先生たちの心を動かす。「新しい千鳥と桔梗の関係の、礎になってほしい」閉ざされた両校の歴史に開いた“風穴”。新たな交流の兆しが芽吹く──。そんな中、薫子たち桔梗の面々も土岐先生のもとへ。交わすのは過去の清算ではなく、未来の展望。生徒たちの成長に、優しい笑みを零す土岐先生。そんな彼女は、薫子と二人で話したいことがあるようで──。\n",
-      "salesDate": "2026年09月09日",
-      "series": "薫る花は凛と咲く",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904",
-      "isbn": "4310000917800",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "薫る花は凛と咲く(24) (少年マガジンKC)",
-        "author": "三香見 サカ",
-        "score": 42,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 17
-          }
-        ],
-        "source": "combined",
-        "rank": 52,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "薫る花は凛と咲く(24) (少年マガジンKC)",
-        "author": "三香見 サカ",
-        "isbn": "",
-        "score": 163,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 17
           }
         ],
         "source": "combined",
@@ -1304,7 +1319,8 @@
       "matchMeta": {
         "title": "捨てられた僕と母猫と奇跡 - 心に傷を負った二人が新たに見つけた居場所",
         "author": "",
-        "score": 26,
+        "isbn": "",
+        "score": 159,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1313,8 +1329,7 @@
           }
         ],
         "source": "combined",
-        "rank": 59,
-        "originalTitle": ""
+        "rank": 64
       },
       "ranking": {
         "title": "捨てられた僕と母猫と奇跡 - 心に傷を負った二人が新たに見つけた居場所",
@@ -1349,9 +1364,10 @@
       "isbn": "4972000164838",
       "salesType": 0,
       "matchMeta": {
-        "title": "ダンダダン 25",
+        "title": "ダンダダン 25 (ジャンプコミックス)",
         "author": "龍 幸伸",
-        "score": 18,
+        "isbn": "",
+        "score": 157,
         "sources": [
           {
             "source": "amazon",
@@ -1360,8 +1376,7 @@
           }
         ],
         "source": "combined",
-        "rank": 64,
-        "originalTitle": "ダンダダン 25 (ジャンプコミックス)"
+        "rank": 67
       },
       "ranking": {
         "title": "ダンダダン 25 (ジャンプコミックス)",
@@ -1377,6 +1392,100 @@
         ],
         "source": "combined",
         "rank": 24
+      }
+    },
+    {
+      "id": "4704763142900",
+      "title": "あなたの部屋は、あなた自身です。",
+      "author": "舛田光洋",
+      "publisher": "サンマーク出版",
+      "price": 1650,
+      "url": "https://books.rakuten.co.jp/rk/38eeda255c4736a3b9cbb05652117c8e/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5117/2000019555117.jpg?_ex=600x600",
+      "caption": "なぜかうまいっている人は、床にものが落ちていない。\n人生を立て直す行動環境メソッド「そうじ力」。\nあなたの部屋は、いまどのような状態ですか？\nもし、あなたの部屋が汚れているのなら、\n人生、行き詰まっていませんか？\nじつは、「あなたの部屋は、あなた自身」です。\n部屋は、あなたのいまの人生を反映しています。\nだから、部屋をキレイにすることで、人生を変えることも可能なのです。\n「そうじには人生を変える力がある」\nこれは、著者が長年提唱してきた、人生哲学「そうじ力」です。\n数々の家庭や企業を見る中、その場・空間とそこにいる人の生き方には、\n「相関の法則」があるということを解明したのです。\n住む人の「思い（心）」が、「行動」となり、その「結果」が部屋にあらわれる。\nだから、部屋をキレイにすることで、人の行動が変わり、思い（心）が変わり、\nそして人生までも変えるーーというのが、そうじ力の考えです。\nこの「『人生』と『空間』の相関法則」は、著者の経験則にとどまらず、\n数々のエビデンスがあり、さらに古来の教えにもあることです。\n犯罪心理学の「割れ窓理論」では、\n「割られた窓ガラスなど軽犯罪を放置すると、\n最終的に地域全体が荒廃し、\n犯罪が増加する」ということでも証明されています。\n仏教哲学には、\n「その人の心のあり方や行いが、\nその人を取り巻く環境や状況に影響を与える」\nという教えもあります。\nそして事実、古今東西、\n掃除やキレイな空間を大事にしている成功者は数多くいます。\n本書では、心理学、社会学、脳科学などさまざまなエビデンスや、\n仏教哲学も交え解説します。\nリビング、キッチン、トイレ、寝室……どこの部屋が私たちに\nどのような影響を与えているか、\nそして、キレイにすることによって起こるさまざまな奇跡的な出来事などをご紹介します。\n掃除が苦手という人でも大丈夫。\nまずは、蛇口など小さな場所を磨くことで人生が激変するコツや、\n自宅やオフィスに非日常の「例外領域」をもつコツなども紹介しています。\nさあ、人生を変えたければ、\nまずは、あなたの部屋と向き合いましょう。\n【目次より】\n◉空間と人生には「相関法則」がある\n◉成功している人は、なぜそうじを大事にしているのか？\n◉小さな秩序の乱れが重犯罪につながるーー割れ窓理論\n◉なぜ、お金持ちは「床にものを置かない」のか？\n◉トイレーーなぜ、幸運を呼ぶ場所と言われるのか？\n◉日本人が世界中でもっとも眠れない驚きの理由\n◉捨てることは、過去も未来も断ち切ること\n◉自分のレベルを下げるものを置いていませんか？\n◉非日常の「例外領域」を自宅につくろう\n",
+      "salesDate": "2026年03月02日",
+      "series": "",
+      "reviewAverage": 3.52,
+      "reviewCount": 21,
+      "genreId": "101905010",
+      "isbn": "4704763142900",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "あなたの部屋は、あなた自身です。",
+        "author": "舛田光洋",
+        "score": 10,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 25
+          }
+        ],
+        "source": "combined",
+        "rank": 90,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "あなたの部屋は、あなた自身です。",
+        "author": "舛田光洋",
+        "isbn": "",
+        "score": 155,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 25
+          }
+        ],
+        "source": "combined",
+        "rank": 25
+      }
+    },
+    {
+      "id": "4561004112000",
+      "title": "ミリオンダラー強運思考",
+      "author": "冨田顕子",
+      "publisher": "三笠書房",
+      "price": 1760,
+      "url": "https://books.rakuten.co.jp/rk/ab50d0b1d7233fff9d416e571cbd93c7/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9207/2000021649207.jpg?_ex=600x600",
+      "caption": "人生って、こんなにうまくいっていいの？　運がいい人は、生まれつき恵まれているわけではありません。結果を出す人は、動く前の「最初の１％」を整えています。月収５万円未満、営業成績ビリから、年商２億円超へ。著者が自身の逆転と、売上が数倍、数十倍に伸びた受講生たちの変化からつかんだ、人生を好転させる実践法を初公開。思考や口ぐせ、人間関係、身を置く空間、時間とお金の使い方、迷ったときの選択基準まで、強運を偶然にまかせないための具体策。ヘタレでも、根性がなくても、体力がなくても大丈夫。頑張る量を増やす必要もありません。ほんの少しズレを戻せば、同じ能力、同じ仕事、同じ一日から生まれる結果が変わりはじめます。仕事も、お金も、人間関係も。人生は、もっと、うまくいっていい。どんな状態からでも「結果が出る流れ」へ自分を整えていく、新しい強運の教科書。実践の決定版。\n",
+      "salesDate": "2026年09月10日",
+      "series": "",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101905090",
+      "isbn": "4561004112000",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ミリオンダラー強運思考",
+        "author": "",
+        "isbn": "",
+        "score": 155,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 25
+          }
+        ],
+        "source": "combined",
+        "rank": 72
+      },
+      "ranking": {
+        "title": "ミリオンダラー強運思考",
+        "author": "",
+        "isbn": "",
+        "score": 155,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 25
+          }
+        ],
+        "source": "combined",
+        "rank": 26
       }
     },
     {
@@ -1407,7 +1516,7 @@
           }
         ],
         "source": "combined",
-        "rank": 70,
+        "rank": 95,
         "originalTitle": "異世界のんびり農家 17 (ドラゴンコミックスエイジ)"
       },
       "ranking": {
@@ -1423,7 +1532,7 @@
           }
         ],
         "source": "combined",
-        "rank": 25
+        "rank": 27
       }
     },
     {
@@ -1445,7 +1554,8 @@
       "matchMeta": {
         "title": "イン・ザ・メガチャーチ",
         "author": "",
-        "score": 5,
+        "isbn": "",
+        "score": 152,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1454,8 +1564,7 @@
           }
         ],
         "source": "combined",
-        "rank": 72,
-        "originalTitle": ""
+        "rank": 79
       },
       "ranking": {
         "title": "イン・ザ・メガチャーチ",
@@ -1470,54 +1579,7 @@
           }
         ],
         "source": "combined",
-        "rank": 26
-      }
-    },
-    {
-      "id": "4310000920047",
-      "title": "うるわしの宵の月（１１）",
-      "author": "やまもり三香",
-      "publisher": "講談社",
-      "price": 594,
-      "url": "https://books.rakuten.co.jp/rk/6fc3b4fd623b344c923ab1e6d55b7031/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9731/2000021649731.jpg?_ex=600x600",
-      "caption": "滝口宵は、容姿端麗・スマートなふるまいで「王子」と呼ばれる女子。\n学校で同じく「王子」と呼ばれる市村先輩に出会い、\nひょんなことからお試しでのお付き合いが始まる。\n初めは身構えていた宵も段々と気持ちが変化し、夏祭りで\nお互いようやく素直に気持ちを打ち合け、正式に付き合うことに。\nクリスマスから年末と幸せな日々を過ごす２人。だけど新学期、\nなぜか先輩が学校に来なくなる。先輩から家の事情で学校をやめ、\n留学することになったと聞かされ、さらに別れることになってしまい…!!?\nともに「王子」と呼ばれる男女の恋、再び２人の絆は戻るの─!!?\n",
-      "salesDate": "2026年09月11日",
-      "series": "うるわしの宵の月",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904011016",
-      "isbn": "4310000920047",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "うるわしの宵の月(11) (KCデザート)",
-        "author": "やまもり 三香",
-        "isbn": "",
-        "score": 151,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 29
-          }
-        ],
-        "source": "combined",
-        "rank": 77
-      },
-      "ranking": {
-        "title": "うるわしの宵の月(11) (KCデザート)",
-        "author": "やまもり 三香",
-        "isbn": "",
-        "score": 151,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 29
-          }
-        ],
-        "source": "combined",
-        "rank": 27
+        "rank": 28
       }
     },
     {
@@ -1549,7 +1611,7 @@
           }
         ],
         "source": "combined",
-        "rank": 79,
+        "rank": 82,
         "originalTitle": "キングダム 80 (ヤングジャンプコミックス)"
       },
       "ranking": {
@@ -1565,7 +1627,7 @@
           }
         ],
         "source": "combined",
-        "rank": 28
+        "rank": 29
       }
     },
     {
@@ -1597,7 +1659,8 @@
           }
         ],
         "source": "combined",
-        "rank": 80
+        "rank": 83,
+        "originalTitle": "ギャルにひかれて寺マルシェ"
       },
       "ranking": {
         "title": "ギャルにひかれて寺マルシェ",
@@ -1612,7 +1675,7 @@
           }
         ],
         "source": "combined",
-        "rank": 29
+        "rank": 30
       }
     },
     {
@@ -1643,7 +1706,7 @@
           }
         ],
         "source": "combined",
-        "rank": 3,
+        "rank": 4,
         "originalTitle": ""
       },
       "ranking": {
@@ -1658,7 +1721,54 @@
           }
         ],
         "source": "combined",
-        "rank": 30,
+        "rank": 31,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "4310000890409",
+      "title": "楽園",
+      "author": "夕木春央",
+      "publisher": "講談社",
+      "price": 1980,
+      "url": "https://books.rakuten.co.jp/rk/1a1c684dcee83b98b4d0187187c813d0/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1651/2000021221651.jpg?_ex=600x600",
+      "caption": "殺人犯にならなければ脱出できない。\n『方舟』『十戒』の著者が仕掛ける“禁忌の驚き”\n亡き両親から不動産を譲り受けた康之は、失踪した賃借人・海原の遺留品整理の際に、群馬の山奥の謎の物件の存在を知る。そこは、切り立った岩壁に囲まれた、「楽園」と呼ばれる奇妙な場所だった。恋人の沙織と一緒にそこを訪ね、探索をはじめた康之たちは、すぐに六人の“住人”に拿捕された。脱出のための条件はーー\n「誰か一人を殺さなければならない」\n『方舟』\n第19回オリコン上半期”本”ランキング　文庫ランキングTOP10 第1位\n週刊文春ミステリーベスト10　第1位　（「週刊文春」2022年12月8日号）国内部門\nMRC大賞2022　第1位\n『方舟』＋『十戒』の累計発行部数が100万部突破。\nーー夕木春央が描く、極限のクローズド・サークル。\n",
+      "salesDate": "2026年07月22日",
+      "series": "楽園",
+      "reviewAverage": 4.2,
+      "reviewCount": 364,
+      "genreId": "101902",
+      "isbn": "4310000890409",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "楽園",
+        "author": "夕木春央",
+        "score": 94,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
+          }
+        ],
+        "source": "combined",
+        "rank": 15,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "楽園",
+        "author": "夕木春央",
+        "score": 94,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
+          }
+        ],
+        "source": "combined",
+        "rank": 32,
         "originalTitle": ""
       }
     },
@@ -1690,7 +1800,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16,
+        "rank": 20,
         "originalTitle": ""
       },
       "ranking": {
@@ -1705,7 +1815,7 @@
           }
         ],
         "source": "combined",
-        "rank": 31,
+        "rank": 33,
         "originalTitle": ""
       }
     },
@@ -1737,7 +1847,7 @@
           }
         ],
         "source": "combined",
-        "rank": 36,
+        "rank": 45,
         "originalTitle": ""
       },
       "ranking": {
@@ -1752,7 +1862,7 @@
           }
         ],
         "source": "combined",
-        "rank": 32,
+        "rank": 34,
         "originalTitle": ""
       }
     }
@@ -1773,7 +1883,8 @@
       "4916475490001",
       "4390000005636",
       "4620000615075",
-      "4620000615076"
+      "4620000615076",
+      "4310000890409"
     ],
     "sf": [],
     "business": [
@@ -1781,7 +1892,9 @@
       "7275000891118",
       "7275000923851",
       "4524815633410",
-      "4410000009676"
+      "4410000009676",
+      "4704763142900",
+      "4561004112000"
     ],
     "humanities": [
       "4380000407898",
@@ -1811,12 +1924,11 @@
     ],
     "essay": [],
     "comic": [
-      "4681308443742",
       "4972000161524",
-      "4310000917800",
+      "4310000920047",
+      "4681308443742",
       "4972000164838",
       "4336195000320",
-      "4310000920047",
       "4972000161446"
     ]
   },
@@ -1826,7 +1938,7 @@
       "complete": true
     },
     "mystery": {
-      "matched": 4,
+      "matched": 5,
       "complete": true
     },
     "sf": {
@@ -1834,7 +1946,7 @@
       "complete": true
     },
     "business": {
-      "matched": 5,
+      "matched": 7,
       "complete": true
     },
     "humanities": {
@@ -1882,7 +1994,7 @@
       "complete": true
     },
     "comic": {
-      "matched": 7,
+      "matched": 6,
       "complete": true
     }
   }

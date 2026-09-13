@@ -16,8 +16,10 @@ const RECOVERY_FETCH_TIMEOUT_MS=45000;
 const RECOVERY_FETCH_RETRIES=4;
 const RETRY_BACKOFF_MS=800;
 const SCRIPT_WATCHDOG_MS=50*60*1000;
+const FIRST_PAGE_MIN_ITEMS_FOR_METADATA_CHECK=20;
+const MIN_AUTHOR_RATIO=0.70;
+const MIN_ITEM_NUMBER_RATIO=0.90;
 const ADULT_WORDS=['アダルト','成年コミック','成人向け','18禁','官能','成人漫画','エロティック','R18','R18+'];
-const BLOCK_TEXT_TAGS=new Set(['p','div','li','dd','dt','h1','h2','h3','h4','h5','h6','tr','section','article','ul','ol']);
 const sleep=ms=>new Promise(r=>setTimeout(r,ms));
 const yieldToEventLoop=()=>new Promise(resolve=>setImmediate(resolve));
 
@@ -50,25 +52,15 @@ function authorFromText(text,title=''){
 function absoluteBookUrl(href=''){try{const u=new URL(href,'https://books.rakuten.co.jp/');return u.hostname==='books.rakuten.co.jp'&&u.pathname.startsWith('/rk/')?u.href:''}catch{return''}}
 function absoluteImageUrl(src=''){try{return src?new URL(src,'https://books.rakuten.co.jp/').href:''}catch{return String(src||'')}}
 function parseTotalCount(html){const text=cleanText(cheerio.load(html).root().text());const m=text.match(/全\s*([\d,]+)\s*件/u);return m?Number(m[1].replace(/,/g,'')):0}
-function appendStructuredText(node,chunks){
-  if(!node)return;
-  if(node.type==='text'){
-    chunks.push(node.data||'');
-    return;
-  }
-  const name=String(node.name||'').toLowerCase();
-  if(name==='br'){
-    chunks.push('\n');
-    return;
-  }
-  for(const child of node.children||[])appendStructuredText(child,chunks);
-  if(BLOCK_TEXT_TAGS.has(name))chunks.push('\n');
-}
-function structuredText(node){
-  const root=node?.get?.(0);if(!root)return'';
-  const chunks=[];
-  appendStructuredText(root,chunks);
-  return cleanText(chunks.join(''));
+function structuredText(node,textCache){
+  const domNode=node?.get?.(0);if(!domNode)return'';
+  if(textCache?.has(domNode))return textCache.get(domNode);
+  const html=String(node.html()||'')
+    .replace(/<br\s*\/?>/gi,'\n')
+    .replace(/<\/(?:p|div|li|dd|dt|h[1-6]|tr|section|article|ul|ol)>/gi,'\n');
+  const text=cleanText(cheerio.load(`<div>${html}</div>`).root().text());
+  if(textCache)textCache.set(domNode,text);
+  return text;
 }
 function findProductBlock($,element,textCache){
   let node=$(element),fallback=null;
@@ -76,14 +68,11 @@ function findProductBlock($,element,textCache){
     node=node.parent();if(!node.length)break;
     const rawText=node.text();
     const hasPrice=/通常価格[：:]/.test(rawText)&&/セール価格[：:]/.test(rawText);
-    if(!hasPrice)continue;
-    const domNode=node.get(0);
-    let text=textCache.get(domNode);
-    if(text===undefined){text=structuredText(node);textCache.set(domNode,text)}
-    if(!fallback&&text.length<14000)fallback={node,text};
-    if(/商品番号[：:]/.test(text)&&text.length<14000)return{node,text};
+    if(!hasPrice||rawText.length>=14000)continue;
+    if(!fallback)fallback={node};
+    if(/商品番号[：:]\s*[0-9A-Za-z-]+/u.test(rawText))return{node,text:structuredText(node,textCache)};
   }
-  return fallback;
+  return fallback?{node:fallback.node,text:structuredText(fallback.node,textCache)}:null;
 }
 
 function logDiagnostic(event,data={}){
@@ -107,6 +96,25 @@ function fetchContext(context={}){
     ...(context.page?{page:context.page}:{}),
     ...(context.pages?{pages:context.pages}:{})
   };
+}
+function metadataCounts(items=[]){
+  return{
+    authors:items.filter(item=>item?.author).length,
+    saleEndDates:items.filter(item=>item?.saleEndAt).length,
+    itemNumbers:items.filter(item=>item?.itemNumber).length
+  };
+}
+function validateFirstPageMetadata(items,{range,page=1}={}){
+  const stats=metadataCounts(items),count=items.length;
+  const authorRatio=count?stats.authors/count:0,itemNumberRatio=count?stats.itemNumbers/count:0;
+  logDiagnostic('[SALE_PAGE_METADATA]',{range,page,items:count,...stats,authorRatio:Number(authorRatio.toFixed(3)),itemNumberRatio:Number(itemNumberRatio.toFixed(3))});
+  if(count<FIRST_PAGE_MIN_ITEMS_FOR_METADATA_CHECK)return;
+  if(authorRatio>=MIN_AUTHOR_RATIO&&itemNumberRatio>=MIN_ITEM_NUMBER_RATIO)return;
+  const sample=items.slice(0,3).map(item=>({title:item.title,author:item.author||'',itemNumber:item.itemNumber||'',saleEndAt:item.saleEndAt||''}));
+  const error=new Error(`SALE_PAGE_METADATA_REGRESSION range=${range} authors=${stats.authors}/${count} itemNumbers=${stats.itemNumbers}/${count}`);
+  error.code='SALE_PAGE_METADATA_REGRESSION';
+  logDiagnostic('[SALE_PAGE_METADATA_FAIL]',{range,page,items:count,...stats,sample});
+  throw error;
 }
 
 async function fetchText(url,{timeoutMs=FETCH_TIMEOUT_MS,retries=FETCH_RETRIES,context={}}={}){
@@ -266,6 +274,7 @@ async function collectRange(range,rangeOrder){
     throw error;
   }
   logDiagnostic('[SALE_PAGE_OK]',{range:range.label,page:1,pages,offset:0,items:all.length,total:total||0,parseMs:Date.now()-firstParseStartedAt});
+  validateFirstPageMetadata(all,{range:range.label,page:1});
   if(pages>1){
     const offsets=Array.from({length:pages-1},(_,i)=>(i+1)*PAGE_SIZE);
     const fetchedPages=await mapLimit(offsets,PAGE_CONCURRENCY,async offset=>{
@@ -353,9 +362,11 @@ async function main(){
 
   const items=[...merged.values()].filter(item=>item?.title&&Number(item.regularPrice)>Number(item.salePrice)&&Number(item.salePrice)>0);
   items.forEach((item,index)=>{item.sourceOrder=index+1});
-  const authorCount=items.filter(item=>item.author).length,endCount=items.filter(item=>item.saleEndAt).length,itemNumberCount=items.filter(item=>item.itemNumber).length;
+  const metadata=metadataCounts(items);
+  const authorCount=metadata.authors,endCount=metadata.saleEndDates,itemNumberCount=metadata.itemNumbers;
   console.log(`Sale metadata: authors=${authorCount}/${items.length}, endDates=${endCount}/${items.length}, itemNumbers=${itemNumberCount}/${items.length}`);
-  if(items.length>=100&&authorCount/items.length<0.70)throw new Error(`SALE_AUTHOR_PARSE_REGRESSION_${authorCount}_OF_${items.length}`);
+  if(items.length>=100&&authorCount/items.length<MIN_AUTHOR_RATIO)throw new Error(`SALE_AUTHOR_PARSE_REGRESSION_${authorCount}_OF_${items.length}`);
+  if(items.length>=100&&itemNumberCount/items.length<MIN_ITEM_NUMBER_RATIO)throw new Error(`SALE_ITEM_NUMBER_PARSE_REGRESSION_${itemNumberCount}_OF_${items.length}`);
   await mkdir(dirname(outputPath),{recursive:true});
   await writeFile(outputPath,`${JSON.stringify({kind:'sale-candidates',completed:true,exhaustive:true,scannedExhaustive:true,sourceUrl:buildSearchUrl({}),officialSaleIndex:OFFICIAL_INDEX_URL,officialTotal,updatedAt:new Date().toISOString(),priceBuckets:parts,scanned:items.length,metadata:{authors:authorCount,saleEndDates:endCount,itemNumbers:itemNumberCount},items},null,2)}\n`,'utf8');
   console.log(`Saved ${items.length} unique sale books across ${parts.length} non-overlapping price ranges (official=${officialTotal})`);

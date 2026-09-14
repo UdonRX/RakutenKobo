@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-09-14T13:38:07.062Z",
+  "updatedAt": "2026-09-14T22:20:18.091Z",
   "candidateCount": 38,
-  "baseMatched": 14,
+  "baseMatched": 13,
   "matched": 17,
-  "addedMatches": 3,
+  "addedMatches": 4,
   "unavailable": [],
   "snapshots": {
     "kinokuniya": {
@@ -20,12 +20,6 @@
       "updatedAt": "2026-09-14",
       "live": true,
       "items": [
-        {
-          "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
-          "author": "",
-          "isbn": "",
-          "rank": 2
-        },
         {
           "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
           "author": "",
@@ -97,6 +91,12 @@
       "updatedAt": "2026-09-14",
       "live": true,
       "items": [
+        {
+          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+          "author": "",
+          "isbn": "",
+          "rank": 2
+        },
         {
           "title": "ハヤブサ消防団 森へつづく道",
           "author": "",
@@ -252,29 +252,29 @@
       "isbn": "4380000407898",
       "salesType": 0,
       "matchMeta": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 幻冬舎新書",
-        "author": "",
-        "score": 102,
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "author": "林真理子",
+        "score": 94,
         "sources": [
           {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 2
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
           }
         ],
         "source": "combined",
-        "rank": 8,
-        "originalTitle": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書"
+        "rank": 10,
+        "originalTitle": ""
       },
       "ranking": {
-        "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
         "author": "",
         "isbn": "",
         "score": 178,
         "sources": [
           {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
+            "source": "tohan",
+            "label": "トーハン",
             "rank": 2
           }
         ],
@@ -346,7 +346,7 @@
       "isbn": "9784059239659",
       "salesType": 0,
       "matchMeta": {
-        "title": "地球の歩き方 スター･ウォーズ",
+        "title": "地球の歩き方 スター・ウォーズ",
         "author": "",
         "isbn": "",
         "score": 171,
@@ -358,7 +358,8 @@
           }
         ],
         "source": "combined",
-        "rank": 16
+        "rank": 16,
+        "originalTitle": "地球の歩き方 スター･ウォーズ"
       },
       "ranking": {
         "title": "地球の歩き方 スター･ウォーズ",
@@ -634,15 +635,11 @@
       "isbn": "4320000865495",
       "salesType": 0,
       "matchMeta": {
-        "title": "ファイア・ドーム 上",
-        "author": "辻村深月",
-        "score": 136,
+        "title": "ファイア・ドーム 〈上〉",
+        "author": "",
+        "isbn": "",
+        "score": 161,
         "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 2
-          },
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
@@ -650,8 +647,7 @@
           }
         ],
         "source": "combined",
-        "rank": 3,
-        "originalTitle": ""
+        "rank": 29
       },
       "ranking": {
         "title": "ファイア・ドーム 〈上〉",

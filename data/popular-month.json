@@ -4,10 +4,10 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-09-13T21:21:31.733Z",
+  "updatedAt": "2026-09-14T05:42:31.102Z",
   "candidateCount": 38,
-  "baseMatched": 16,
-  "matched": 20,
+  "baseMatched": 13,
+  "matched": 17,
   "addedMatches": 4,
   "unavailable": [],
   "snapshots": {
@@ -17,7 +17,7 @@
       "attribution": "紀伊國屋書店調べ",
       "sourceUrl": "https://www.kinokuniya.co.jp/disp/CKnRankingPageCList.jsp?dispNo=107002001001&vTp=m",
       "periodLabel": "マンスリー",
-      "updatedAt": "2026-09-13",
+      "updatedAt": "2026-09-14",
       "live": true,
       "items": [
         {
@@ -27,13 +27,13 @@
           "rank": 6
         },
         {
-          "title": "夏帆 - Ｔｈｅ Ｔａｌｅ ｏｆ ＫＡＨＯ",
+          "title": "イン・ザ・メガチャーチ",
           "author": "",
           "isbn": "",
-          "rank": 12
+          "rank": 13
         },
         {
-          "title": "イン・ザ・メガチャーチ",
+          "title": "夏帆 - Ｔｈｅ Ｔａｌｅ ｏｆ ＫＡＨＯ",
           "author": "",
           "isbn": "",
           "rank": 14
@@ -42,19 +42,19 @@
           "title": "会社四季報業界地図 〈２０２７年版〉",
           "author": "",
           "isbn": "",
-          "rank": 19
+          "rank": 18
         },
         {
           "title": "ファイア・ドーム 〈上〉",
           "author": "",
           "isbn": "",
-          "rank": 20
+          "rank": 19
         },
         {
           "title": "つかめ！理科ダマン 〈１２〉 最強ロボット決戦！編",
           "author": "",
           "isbn": "",
-          "rank": 21
+          "rank": 20
         },
         {
           "title": "ハヤブサ消防団 森へつづく道",
@@ -72,25 +72,13 @@
           "title": "ファイア・ドーム 〈下〉",
           "author": "",
           "isbn": "",
-          "rank": 24
-        },
-        {
-          "title": "楽園",
-          "author": "",
-          "isbn": "",
-          "rank": 27
+          "rank": 26
         },
         {
           "title": "ギャルにひかれて寺マルシェ",
           "author": "",
           "isbn": "",
-          "rank": 28
-        },
-        {
-          "title": "月がきれいな夜に、誰かに思い出してほしかった",
-          "author": "",
-          "isbn": "",
-          "rank": 28
+          "rank": 29
         }
       ]
     },
@@ -100,7 +88,7 @@
       "attribution": "トーハン調べ",
       "sourceUrl": "https://www.tohan.jp/bestsellers/2026_08_monthly/",
       "periodLabel": "月間",
-      "updatedAt": "2026-09-13",
+      "updatedAt": "2026-09-14",
       "live": true,
       "items": [
         {
@@ -143,6 +131,58 @@
     }
   },
   "items": [
+    {
+      "id": "6681311679960",
+      "title": "つかめ！理科ダマン 12 最強ロボット決戦！編",
+      "author": "シン・テフン/ナ・スンフン/呉華順",
+      "publisher": "マガジンハウス",
+      "price": 1320,
+      "url": "https://books.rakuten.co.jp/rk/d5144a342674388cb89766522b26d5f0/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6738/2000021036738.jpg?_ex=600x600",
+      "caption": "■注目のシリーズ第12巻は、ロボット世界大会の決戦編！■\n恐竜ロボット大会の勝者を決める決戦がいよいよ始まる！\nシンとグゥのチームが戦うライバルチームに、弱点はあるのか!?\n優勝を目指すシンたちといっしょに\nプログラミングやA I、恐竜にまつわる19の疑問が楽しく学べます。\n★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★\n＼＼日韓でシリーズ累計400万部／／\n理科のテストで100点取れちゃう！！\n「笑いながら理科の知識が学べるところが大好きです」\n「子供が夢中になって読んでいます」\n「身近な“どうして？”をわかりやすく説明されていて、子供も大人も楽しめます」\n……とクチコミで話題沸騰!!\n★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★\nギャグ満載の超オモシロまんがで\n小学校の理科の知識がスイスイ身につく！！\nそして、科学と読書がどんどん好きになる！！\n《こんな疑問に答えます》\n◎アルゴリズムってなに？\n◎フローチャートってなに？\n◎コンピュータはどうやってプログラミング言語を理解している？\n◎座標ってなに？\n◎ロボットは人間より賢くなれる？\n◎コンピュータに虫がいる？　\n◎翼竜は恐竜か？　……etc.\n",
+      "salesDate": "2026年07月16日",
+      "series": "つかめ！理科ダマン",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101908004/101906006/101906001009",
+      "isbn": "6681311679960",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "つかめ!理科ダマン 〈12〉 最強ロボット決戦!編",
+        "author": "",
+        "score": 30,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 20
+          }
+        ],
+        "source": "combined",
+        "rank": 27,
+        "originalTitle": "つかめ！理科ダマン 〈１２〉 最強ロボット決戦！編"
+      },
+      "ranking": {
+        "title": "つかめ！理科ダマン 〈１２〉 最強ロボット決戦！編",
+        "author": "",
+        "isbn": "",
+        "score": 335,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 20
+          },
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
+        "rank": 1
+      }
+    },
     {
       "id": "4820000903843",
       "title": "ハヤブサ消防団　森へつづく道",
@@ -189,58 +229,6 @@
             "source": "tohan",
             "label": "トーハン",
             "rank": 4
-          }
-        ],
-        "source": "combined",
-        "rank": 1
-      }
-    },
-    {
-      "id": "6681311679960",
-      "title": "つかめ！理科ダマン 12 最強ロボット決戦！編",
-      "author": "シン・テフン/ナ・スンフン/呉華順",
-      "publisher": "マガジンハウス",
-      "price": 1320,
-      "url": "https://books.rakuten.co.jp/rk/d5144a342674388cb89766522b26d5f0/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6738/2000021036738.jpg?_ex=600x600",
-      "caption": "■注目のシリーズ第12巻は、ロボット世界大会の決戦編！■\n恐竜ロボット大会の勝者を決める決戦がいよいよ始まる！\nシンとグゥのチームが戦うライバルチームに、弱点はあるのか!?\n優勝を目指すシンたちといっしょに\nプログラミングやA I、恐竜にまつわる19の疑問が楽しく学べます。\n★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★\n＼＼日韓でシリーズ累計400万部／／\n理科のテストで100点取れちゃう！！\n「笑いながら理科の知識が学べるところが大好きです」\n「子供が夢中になって読んでいます」\n「身近な“どうして？”をわかりやすく説明されていて、子供も大人も楽しめます」\n……とクチコミで話題沸騰!!\n★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★\nギャグ満載の超オモシロまんがで\n小学校の理科の知識がスイスイ身につく！！\nそして、科学と読書がどんどん好きになる！！\n《こんな疑問に答えます》\n◎アルゴリズムってなに？\n◎フローチャートってなに？\n◎コンピュータはどうやってプログラミング言語を理解している？\n◎座標ってなに？\n◎ロボットは人間より賢くなれる？\n◎コンピュータに虫がいる？　\n◎翼竜は恐竜か？　……etc.\n",
-      "salesDate": "2026年07月16日",
-      "series": "つかめ！理科ダマン",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101908004/101906006/101906001009",
-      "isbn": "6681311679960",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "つかめ!理科ダマン 〈12〉 最強ロボット決戦!編",
-        "author": "",
-        "score": 26,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 21
-          }
-        ],
-        "source": "combined",
-        "rank": 28,
-        "originalTitle": "つかめ！理科ダマン 〈１２〉 最強ロボット決戦！編"
-      },
-      "ranking": {
-        "title": "つかめ！理科ダマン 〈１２〉 最強ロボット決戦！編",
-        "author": "",
-        "isbn": "",
-        "score": 334,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 21
-          },
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 5
           }
         ],
         "source": "combined",
@@ -358,7 +346,7 @@
       "isbn": "9784059239659",
       "salesType": 0,
       "matchMeta": {
-        "title": "地球の歩き方 スター･ウォーズ",
+        "title": "地球の歩き方 スター・ウォーズ",
         "author": "",
         "isbn": "",
         "score": 171,
@@ -370,7 +358,8 @@
           }
         ],
         "source": "combined",
-        "rank": 16
+        "rank": 16,
+        "originalTitle": "地球の歩き方 スター･ウォーズ"
       },
       "ranking": {
         "title": "地球の歩き方 スター･ウォーズ",
@@ -417,7 +406,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18
+        "rank": 17
       },
       "ranking": {
         "title": "キングダム magazine 2026",
@@ -433,53 +422,6 @@
         ],
         "source": "combined",
         "rank": 6
-      }
-    },
-    {
-      "id": "4340008066911",
-      "title": "夏帆ーThe Tale of KAHOー",
-      "author": "村上春樹",
-      "publisher": "新潮社",
-      "price": 2860,
-      "url": "https://books.rakuten.co.jp/rk/b66cc27bec2a3efd9f9dbe132947a88b/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0570/2000020430570.jpg?_ex=600x600",
-      "caption": "私はこの世界の出口を見つけなくてはならないーー。女性を主人公にした初の長編小説。「正直いって、君みたいな醜い相手は初めてだよ」　26歳の絵本作家、夏帆は初対面の男にいきなりこう告げられた。とびきり美しくも賢くもなく、ただ少しばかり好奇心の強い彼女は、怒りよりもショックよりも、ただ純粋に驚いた。しかしそれから彼女の周りでは、実にさまざまな奇妙な出来事が起こりはじめる。\n",
-      "salesDate": "2026年07月03日",
-      "series": "",
-      "reviewAverage": 3.78,
-      "reviewCount": 433,
-      "genreId": "101901",
-      "isbn": "4340008066911",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "夏帆 - The Tale of KAHO",
-        "author": "",
-        "score": 62,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 12
-          }
-        ],
-        "source": "combined",
-        "rank": 21,
-        "originalTitle": "夏帆 - Ｔｈｅ　Ｔａｌｅ　ｏｆ　ＫＡＨＯ"
-      },
-      "ranking": {
-        "title": "夏帆 - Ｔｈｅ Ｔａｌｅ ｏｆ ＫＡＨＯ",
-        "author": "",
-        "isbn": "",
-        "score": 168,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 12
-          }
-        ],
-        "source": "combined",
-        "rank": 7
       }
     },
     {
@@ -511,8 +453,7 @@
           }
         ],
         "source": "combined",
-        "rank": 21,
-        "originalTitle": "FOR OVERSEAS"
+        "rank": 21
       },
       "ranking": {
         "title": "FOR OVERSEAS",
@@ -527,7 +468,7 @@
           }
         ],
         "source": "combined",
-        "rank": 8
+        "rank": 7
       }
     },
     {
@@ -549,7 +490,7 @@
       "matchMeta": {
         "title": "イン・ザ・メガチャーチ",
         "author": "朝井リョウ",
-        "score": 136,
+        "score": 140,
         "sources": [
           {
             "source": "tohan",
@@ -559,7 +500,7 @@
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 14
+            "rank": 13
           }
         ],
         "source": "combined",
@@ -568,6 +509,53 @@
       },
       "ranking": {
         "title": "イン・ザ・メガチャーチ",
+        "author": "",
+        "isbn": "",
+        "score": 167,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 13
+          }
+        ],
+        "source": "combined",
+        "rank": 8
+      }
+    },
+    {
+      "id": "4340008066911",
+      "title": "夏帆ーThe Tale of KAHOー",
+      "author": "村上春樹",
+      "publisher": "新潮社",
+      "price": 2860,
+      "url": "https://books.rakuten.co.jp/rk/b66cc27bec2a3efd9f9dbe132947a88b/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0570/2000020430570.jpg?_ex=600x600",
+      "caption": "私はこの世界の出口を見つけなくてはならないーー。女性を主人公にした初の長編小説。「正直いって、君みたいな醜い相手は初めてだよ」　26歳の絵本作家、夏帆は初対面の男にいきなりこう告げられた。とびきり美しくも賢くもなく、ただ少しばかり好奇心の強い彼女は、怒りよりもショックよりも、ただ純粋に驚いた。しかしそれから彼女の周りでは、実にさまざまな奇妙な出来事が起こりはじめる。\n",
+      "salesDate": "2026年07月03日",
+      "series": "",
+      "reviewAverage": 3.78,
+      "reviewCount": 433,
+      "genreId": "101901",
+      "isbn": "4340008066911",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "夏帆 - The Tale of KAHO",
+        "author": "",
+        "score": 54,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 14
+          }
+        ],
+        "source": "combined",
+        "rank": 22,
+        "originalTitle": "夏帆 - Ｔｈｅ　Ｔａｌｅ　ｏｆ　ＫＡＨＯ"
+      },
+      "ranking": {
+        "title": "夏帆 - Ｔｈｅ Ｔａｌｅ ｏｆ ＫＡＨＯ",
         "author": "",
         "isbn": "",
         "score": 166,
@@ -599,30 +587,30 @@
       "isbn": "4659733601001",
       "salesType": 0,
       "matchMeta": {
-        "title": "会社四季報業界地図 〈2027年版〉",
+        "title": "会社四季報業界地図 〈２０２７年版〉",
         "author": "",
-        "score": 34,
+        "isbn": "",
+        "score": 162,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 19
+            "rank": 18
           }
         ],
         "source": "combined",
-        "rank": 27,
-        "originalTitle": "会社四季報業界地図 〈２０２７年版〉"
+        "rank": 28
       },
       "ranking": {
         "title": "会社四季報業界地図 〈２０２７年版〉",
         "author": "",
         "isbn": "",
-        "score": 161,
+        "score": 162,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 19
+            "rank": 18
           }
         ],
         "source": "combined",
@@ -648,7 +636,7 @@
       "matchMeta": {
         "title": "ファイア・ドーム 上",
         "author": "辻村深月",
-        "score": 132,
+        "score": 136,
         "sources": [
           {
             "source": "tohan",
@@ -658,7 +646,7 @@
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 20
+            "rank": 19
           }
         ],
         "source": "combined",
@@ -669,12 +657,12 @@
         "title": "ファイア・ドーム 〈上〉",
         "author": "",
         "isbn": "",
-        "score": 160,
+        "score": 161,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 20
+            "rank": 19
           }
         ],
         "source": "combined",
@@ -714,7 +702,7 @@
           }
         ],
         "source": "combined",
-        "rank": 5,
+        "rank": 4,
         "originalTitle": ""
       },
       "ranking": {
@@ -750,128 +738,39 @@
       "isbn": "4320000865494",
       "salesType": 0,
       "matchMeta": {
-        "title": "ファイア・ドーム 〈下〉",
-        "author": "",
-        "isbn": "",
-        "score": 156,
+        "title": "ファイア・ドーム 下",
+        "author": "辻村深月",
+        "score": 104,
         "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 3
+          },
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 24
+            "rank": 26
           }
         ],
         "source": "combined",
-        "rank": 32
+        "rank": 5,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "ファイア・ドーム 〈下〉",
         "author": "",
         "isbn": "",
-        "score": 156,
+        "score": 154,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 24
+            "rank": 26
           }
         ],
         "source": "combined",
         "rank": 13
-      }
-    },
-    {
-      "id": "4310000890409",
-      "title": "楽園",
-      "author": "夕木春央",
-      "publisher": "講談社",
-      "price": 1980,
-      "url": "https://books.rakuten.co.jp/rk/1a1c684dcee83b98b4d0187187c813d0/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1651/2000021221651.jpg?_ex=600x600",
-      "caption": "殺人犯にならなければ脱出できない。\n『方舟』『十戒』の著者が仕掛ける“禁忌の驚き”\n亡き両親から不動産を譲り受けた康之は、失踪した賃借人・海原の遺留品整理の際に、群馬の山奥の謎の物件の存在を知る。そこは、切り立った岩壁に囲まれた、「楽園」と呼ばれる奇妙な場所だった。恋人の沙織と一緒にそこを訪ね、探索をはじめた康之たちは、すぐに六人の“住人”に拿捕された。脱出のための条件はーー\n「誰か一人を殺さなければならない」\n『方舟』\n第19回オリコン上半期”本”ランキング　文庫ランキングTOP10 第1位\n週刊文春ミステリーベスト10　第1位　（「週刊文春」2022年12月8日号）国内部門\nMRC大賞2022　第1位\n『方舟』＋『十戒』の累計発行部数が100万部突破。\nーー夕木春央が描く、極限のクローズド・サークル。\n",
-      "salesDate": "2026年07月22日",
-      "series": "楽園",
-      "reviewAverage": 4.2,
-      "reviewCount": 364,
-      "genreId": "101902",
-      "isbn": "4310000890409",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "楽園",
-        "author": "",
-        "score": 5,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 27
-          }
-        ],
-        "source": "combined",
-        "rank": 32,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "楽園",
-        "author": "",
-        "isbn": "",
-        "score": 153,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 27
-          }
-        ],
-        "source": "combined",
-        "rank": 14
-      }
-    },
-    {
-      "id": "4704763142740",
-      "title": "月がきれいな夜に、誰かに思い出してほしかった",
-      "author": "川代紗生",
-      "publisher": "サンマーク出版",
-      "price": 1760,
-      "url": "https://books.rakuten.co.jp/rk/b67f8f6913c93bd9a77e65bf9c012a39/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0585/2000019590585.jpg?_ex=600x600",
-      "caption": "いつも、二番目。\n私を一番に思ってくれる人は、誰もいない。\nそれでも私はーーひとりぼっちじゃ、なかった。\n恋人に「プロポーズするなら元カノがいい」と告げられ、婚約寸前でフラれた桃子。\n田舎の父からも、\n「天国の母さんに、桃子が幸せになった姿を見せてやりたい」と言われてしまう。\n「私には、愛し愛されるパートナーができない。\n他の人はじょうずに進める人生ゲームのマスが、自分には進めない。\n私は、なにかが足りてない人間なんじゃないかーー」\n桃子が働いているのは、三軒茶屋の小さな喫茶店、「雨宿り」。\nここでは、毎週金曜夜十時、“元カレごはん埋葬委員会”が開かれる。\n失恋相手との思い出のごはんが作れなくなった人たちが、\nその恋を「埋葬」するために集まる場所だ。\nモラハラを受けているのに、相手に好かれるように振る舞ってしまうかれん、\n推しが結婚してつらくても平気なふりをする美穂、\n二股をされても「彼以上に成長させてくれる人に会える気がしない」と悩む夏希、\n「初デートで牡蠣を食べようと誘われたら、脈なしってことですよね？」と思い出を語る黒田……\n相談者たちの失恋の話を聞き、\n思い出の料理をつくって共に食べるうち、桃子は気づいていく。\n誰かに選ばれないからといって、足りていない人間なわけではない、と。\n元カレごはん埋葬委員会。\n迷った心が帰る場所は、ここにある。\n“ままならない気持ち”の名手、川代紗生の新作・書き下ろしが登場！\n共感とおいしさのつまった、なんども読みたくなる1冊です。\n【目次】\n第１話 プロポーズ未遂の洋風茶碗蒸し\n第２話 ググれよ男のさっぱり煮\n第３話 推しに捧げたカルボナーラ\n第４話 二股男の不合格オムライス\n第５話 \"脈なし\"を悟った牡蠣フライ\n第６話 ママがいない日の塩胡椒チャーハン\n第７話 愛されなくても愛せるからあげ\n",
-      "salesDate": "2026年03月09日",
-      "series": "",
-      "reviewAverage": 3.79,
-      "reviewCount": 286,
-      "genreId": "101901",
-      "isbn": "4704763142740",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "月がきれいな夜に、誰かに思い出してほしかった",
-        "author": "",
-        "score": 5,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 30
-          }
-        ],
-        "source": "combined",
-        "rank": 35,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "月がきれいな夜に、誰かに思い出してほしかった",
-        "author": "",
-        "isbn": "",
-        "score": 152,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 28
-          }
-        ],
-        "source": "combined",
-        "rank": 15
       }
     },
     {
@@ -898,27 +797,27 @@
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 28
+            "rank": 29
           }
         ],
         "source": "combined",
-        "rank": 33,
+        "rank": 34,
         "originalTitle": ""
       },
       "ranking": {
         "title": "ギャルにひかれて寺マルシェ",
         "author": "",
         "isbn": "",
-        "score": 152,
+        "score": 151,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 28
+            "rank": 29
           }
         ],
         "source": "combined",
-        "rank": 16
+        "rank": 14
       }
     },
     {
@@ -964,54 +863,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17,
-        "originalTitle": ""
-      }
-    },
-    {
-      "id": "4390000015358",
-      "title": "青天",
-      "author": "若林正恭",
-      "publisher": "文藝春秋",
-      "price": 1900,
-      "url": "https://books.rakuten.co.jp/rk/a6fc1b8794af3eafb7f064fac9c68dfa/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0144/2000019330144.jpg?_ex=600x600",
-      "caption": "オードリー・若林正恭、初小説！\n人にぶつかっていないと、自分が生きているかどうかよくわからなくなるーー\n総大三高の「アリ」こと中村昴が所属するアメフト部は、万年２回戦どまり。相手校の練習を隠し撮りして迎えた高３の引退大会では、強豪・遼西学園に打ち破れた。引退後、みなが受験に向かうなか、勉強にも気持ちが入らず、不良になる覚悟もないまま宙ぶらりんの日々を過ごす。自分自身の不甲斐なさにもがき続けるなかで、アリは再びアメフトと向き合う決意を固める。\n青春の苦みと悦びに満ちた、著者渾身の初小説。\n",
-      "salesDate": "2026年02月20日",
-      "series": "",
-      "reviewAverage": 4.03,
-      "reviewCount": 563,
-      "genreId": "101901",
-      "isbn": "4390000015358",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "青天",
-        "author": "若林正恭",
-        "score": 78,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
         "rank": 15,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "青天",
-        "author": "若林正恭",
-        "score": 78,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 18,
         "originalTitle": ""
       }
     },
@@ -1058,7 +910,7 @@
           }
         ],
         "source": "combined",
-        "rank": 19,
+        "rank": 16,
         "originalTitle": ""
       }
     },
@@ -1105,7 +957,7 @@
           }
         ],
         "source": "combined",
-        "rank": 20,
+        "rank": 17,
         "originalTitle": ""
       }
     }
@@ -1113,21 +965,18 @@
   "byGenre": {
     "fiction": [
       "4820000903843",
-      "4340008066911",
       "4660629612104",
+      "4340008066911",
       "4320000865495",
       "4310000858457",
       "4320000865494",
-      "4704763142740",
       "4331000700320",
-      "4320000867368",
-      "4390000015358"
+      "4320000867368"
     ],
     "mystery": [
       "4820000903843",
       "4320000865495",
-      "4320000865494",
-      "4310000890409"
+      "4320000865494"
     ],
     "sf": [],
     "business": [
@@ -1168,11 +1017,11 @@
   },
   "genreStatus": {
     "fiction": {
-      "matched": 10,
+      "matched": 8,
       "complete": true
     },
     "mystery": {
-      "matched": 4,
+      "matched": 3,
       "complete": true
     },
     "sf": {

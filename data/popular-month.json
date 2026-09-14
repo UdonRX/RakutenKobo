@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-09-14T05:42:31.102Z",
+  "updatedAt": "2026-09-14T13:38:07.062Z",
   "candidateCount": 38,
-  "baseMatched": 13,
+  "baseMatched": 14,
   "matched": 17,
-  "addedMatches": 4,
+  "addedMatches": 3,
   "unavailable": [],
   "snapshots": {
     "kinokuniya": {
@@ -20,6 +20,12 @@
       "updatedAt": "2026-09-14",
       "live": true,
       "items": [
+        {
+          "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
+          "author": "",
+          "isbn": "",
+          "rank": 2
+        },
         {
           "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
           "author": "",
@@ -91,12 +97,6 @@
       "updatedAt": "2026-09-14",
       "live": true,
       "items": [
-        {
-          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-          "author": "",
-          "isbn": "",
-          "rank": 2
-        },
         {
           "title": "ハヤブサ消防団 森へつづく道",
           "author": "",
@@ -252,29 +252,29 @@
       "isbn": "4380000407898",
       "salesType": 0,
       "matchMeta": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-        "author": "林真理子",
-        "score": 94,
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 幻冬舎新書",
+        "author": "",
+        "score": 102,
         "sources": [
           {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 2
           }
         ],
         "source": "combined",
-        "rank": 10,
-        "originalTitle": ""
+        "rank": 8,
+        "originalTitle": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書"
       },
       "ranking": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
         "author": "",
         "isbn": "",
         "score": 178,
         "sources": [
           {
-            "source": "tohan",
-            "label": "トーハン",
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
             "rank": 2
           }
         ],
@@ -346,7 +346,7 @@
       "isbn": "9784059239659",
       "salesType": 0,
       "matchMeta": {
-        "title": "地球の歩き方 スター・ウォーズ",
+        "title": "地球の歩き方 スター･ウォーズ",
         "author": "",
         "isbn": "",
         "score": 171,
@@ -358,8 +358,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16,
-        "originalTitle": "地球の歩き方 スター･ウォーズ"
+        "rank": 16
       },
       "ranking": {
         "title": "地球の歩き方 スター･ウォーズ",
@@ -453,7 +452,8 @@
           }
         ],
         "source": "combined",
-        "rank": 21
+        "rank": 21,
+        "originalTitle": "FOR OVERSEAS"
       },
       "ranking": {
         "title": "FOR OVERSEAS",
@@ -587,10 +587,9 @@
       "isbn": "4659733601001",
       "salesType": 0,
       "matchMeta": {
-        "title": "会社四季報業界地図 〈２０２７年版〉",
+        "title": "会社四季報業界地図 〈2027年版〉",
         "author": "",
-        "isbn": "",
-        "score": 162,
+        "score": 38,
         "sources": [
           {
             "source": "kinokuniya",
@@ -599,7 +598,8 @@
           }
         ],
         "source": "combined",
-        "rank": 28
+        "rank": 26,
+        "originalTitle": "会社四季報業界地図 〈２０２７年版〉"
       },
       "ranking": {
         "title": "会社四季報業界地図 〈２０２７年版〉",

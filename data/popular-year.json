@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "year",
-  "updatedAt": "2026-09-14T05:42:35.259Z",
+  "updatedAt": "2026-09-14T13:38:11.258Z",
   "candidateCount": 13,
   "baseMatched": 7,
-  "matched": 9,
-  "addedMatches": 2,
+  "matched": 8,
+  "addedMatches": 1,
   "unavailable": [],
   "snapshots": {
     "tohan": {
@@ -67,12 +67,6 @@
           "author": "",
           "isbn": "",
           "rank": 10
-        },
-        {
-          "title": "FOR OVERSEAS",
-          "author": "",
-          "isbn": "",
-          "rank": 12
         }
       ]
     }
@@ -143,9 +137,8 @@
       "salesType": 0,
       "matchMeta": {
         "title": "変な地図",
-        "author": "",
-        "isbn": "",
-        "score": 178,
+        "author": "雨穴",
+        "score": 102,
         "sources": [
           {
             "source": "tohan",
@@ -154,7 +147,8 @@
           }
         ],
         "source": "combined",
-        "rank": 2
+        "rank": 2,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "変な地図",
@@ -284,8 +278,9 @@
       "salesType": 0,
       "matchMeta": {
         "title": "暁星",
-        "author": "湊かなえ",
-        "score": 82,
+        "author": "",
+        "isbn": "",
+        "score": 173,
         "sources": [
           {
             "source": "tohan",
@@ -295,7 +290,7 @@
         ],
         "source": "combined",
         "rank": 7,
-        "originalTitle": ""
+        "originalTitle": "暁星"
       },
       "ranking": {
         "title": "暁星",
@@ -452,54 +447,6 @@
         ],
         "source": "combined",
         "rank": 8
-      }
-    },
-    {
-      "id": "9781505942323",
-      "title": "How to Start a Crown Agents for Overseas Governments and Administrations Business (Beginners Guide)",
-      "author": "Leclair Jaquelyn",
-      "publisher": "SamEnrico",
-      "price": 2515,
-      "url": "https://books.rakuten.co.jp/rk/da3f192a66453cb193c43421103700ab/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5952/2000020915952.jpg?_ex=600x600",
-      "caption": "This publication, published by SamEnrico, covers How to Start a Crown Agents for Overseas Governments and Administrations Business (Beginners Guide)\n",
-      "salesDate": "2015年12月20日",
-      "series": "",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101970003007",
-      "isbn": "9781505942323",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "FOR OVERSEAS",
-        "author": "",
-        "isbn": "",
-        "score": 168,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 12
-          }
-        ],
-        "source": "combined",
-        "rank": 12,
-        "originalTitle": "FOR OVERSEAS"
-      },
-      "ranking": {
-        "title": "FOR OVERSEAS",
-        "author": "",
-        "isbn": "",
-        "score": 168,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 12
-          }
-        ],
-        "source": "combined",
-        "rank": 9
       }
     }
   ],

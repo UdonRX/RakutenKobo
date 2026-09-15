@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-09-15T05:39:35.508Z",
+  "updatedAt": "2026-09-15T12:25:59.933Z",
   "candidateCount": 80,
-  "baseMatched": 19,
-  "matched": 31,
-  "addedMatches": 12,
+  "baseMatched": 26,
+  "matched": 33,
+  "addedMatches": 7,
   "unavailable": [
     "rakuten"
   ],
@@ -65,22 +65,10 @@
           "rank": 23
         },
         {
-          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 (幻冬舎新書 803)",
-          "author": "林真理子",
-          "isbn": "",
-          "rank": 24
-        },
-        {
           "title": "異世界のんびり農家 17 (ドラゴンコミックスエイジ)",
           "author": "剣 康之",
           "isbn": "",
           "rank": 26
-        },
-        {
-          "title": "戦争犯罪と闘う 国際刑事裁判所は屈しない (文春新書 1496)",
-          "author": "赤根 智子",
-          "isbn": "",
-          "rank": 28
         },
         {
           "title": "うるわしの宵の月(11) (KCデザート)",
@@ -110,6 +98,12 @@
           "author": "伊坂幸太郎",
           "isbn": "",
           "rank": 3
+        },
+        {
+          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+          "author": "林真理子",
+          "isbn": "",
+          "rank": 4
         },
         {
           "title": "シャーロック・ホームズの凱旋",
@@ -147,10 +141,22 @@
       "live": true,
       "items": [
         {
+          "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
+          "author": "",
+          "isbn": "",
+          "rank": 5
+        },
+        {
           "title": "入社１年目ビジネスマナーの教科書 （改訂新版）",
           "author": "",
           "isbn": "",
           "rank": 18
+        },
+        {
+          "title": "「思い込み」が未来を決める 東大・早稲田大・筑波大生、上場企業経営者らを指導して",
+          "author": "",
+          "isbn": "",
+          "rank": 21
         },
         {
           "title": "捨てられた僕と母猫と奇跡 - 心に傷を負った二人が新たに見つけた居場所",
@@ -200,16 +206,16 @@
       "live": true,
       "items": [
         {
+          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+          "author": "",
+          "isbn": "",
+          "rank": 2
+        },
+        {
           "title": "FINEBOYS＋plus OYASUMI vol.2",
           "author": "",
           "isbn": "",
           "rank": 3
-        },
-        {
-          "title": "ギャルにひかれて寺マルシェ",
-          "author": "",
-          "isbn": "",
-          "rank": 4
         },
         {
           "title": "会社四季報 業界地図 2027年版",
@@ -233,6 +239,63 @@
     }
   },
   "items": [
+    {
+      "id": "4380000407898",
+      "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+      "author": "林真理子",
+      "publisher": "幻冬舎",
+      "price": 982,
+      "url": "https://books.rakuten.co.jp/rk/1e28fc1db6b83578b06b0919e0a52cd7/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0908/2000020490908.jpg?_ex=600x600",
+      "caption": "70代は頭も体もまだ大丈夫。\nそれなりに蓄えもできている。\nでもこれまでと全く同じことをしていたらダメ。\nできないことは諦め、楽しいことを大事にし、人生の新しいステージに立とう。\n同じ年代とばかりつるまず、ダイエットはしない。\n嫌われずに自慢話をするテクニック、お金にキレイな人と思われるおごり方ーー。\n72歳の人気作家が本音で語る「健康」「おしゃれ」「仕事」「お金」「人間関係」「趣味」。\n確実に近づく「その日」を見つめ、今の1分1秒を楽しんで生きるための、痛快・人生論。\n",
+      "salesDate": "2026年05月27日",
+      "series": "",
+      "reviewAverage": 3.47,
+      "reviewCount": 46,
+      "genreId": "101907010004/101909",
+      "isbn": "4380000407898",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "author": "林真理子",
+        "score": 192,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 4
+          },
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 3
+          }
+        ],
+        "source": "combined",
+        "rank": 2,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "author": "林真理子",
+        "isbn": "",
+        "score": 354,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 4
+          },
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 2
+          }
+        ],
+        "source": "combined",
+        "rank": 1
+      }
+    },
     {
       "id": "4681308443742",
       "title": "女の園の星（５）【電子限定特典付】",
@@ -261,7 +324,7 @@
           }
         ],
         "source": "combined",
-        "rank": 4,
+        "rank": 5,
         "originalTitle": "女の園の星 ５ (フィールコミックス)"
       },
       "ranking": {
@@ -277,7 +340,7 @@
           }
         ],
         "source": "combined",
-        "rank": 1
+        "rank": 2
       }
     },
     {
@@ -308,7 +371,7 @@
           }
         ],
         "source": "combined",
-        "rank": 7,
+        "rank": 8,
         "originalTitle": "幽冥の岸 十二国記 (新潮文庫 お 37-66)"
       },
       "ranking": {
@@ -324,7 +387,7 @@
           }
         ],
         "source": "combined",
-        "rank": 2
+        "rank": 3
       }
     },
     {
@@ -355,7 +418,7 @@
           }
         ],
         "source": "combined",
-        "rank": 8,
+        "rank": 9,
         "originalTitle": ""
       },
       "ranking": {
@@ -371,7 +434,7 @@
           }
         ],
         "source": "combined",
-        "rank": 3
+        "rank": 4
       }
     },
     {
@@ -391,7 +454,7 @@
       "isbn": "5430000025522",
       "salesType": 0,
       "matchMeta": {
-        "title": "FINEBOYS+plus OYASUMI vol.2",
+        "title": "FINEBOYS＋plus OYASUMI vol.2",
         "author": "",
         "isbn": "",
         "score": 177,
@@ -403,8 +466,7 @@
           }
         ],
         "source": "combined",
-        "rank": 10,
-        "originalTitle": "FINEBOYS＋plus OYASUMI vol.2"
+        "rank": 10
       },
       "ranking": {
         "title": "FINEBOYS＋plus OYASUMI vol.2",
@@ -419,54 +481,54 @@
           }
         ],
         "source": "combined",
-        "rank": 4
+        "rank": 5
       }
     },
     {
-      "id": "4331000700320",
-      "title": "ギャルにひかれて寺マルシェ",
-      "author": "宮島　未奈",
-      "publisher": "KADOKAWA",
-      "price": 2035,
-      "url": "https://books.rakuten.co.jp/rk/892ef7e9e1143dc0868ac50df9bd106a/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9754/2000021549754.jpg?_ex=600x600",
-      "caption": "亡くなった父親の酒屋を継いだ30歳の英介は、商売への向上心もなく、なんとなく毎日を送っている。そこに現れたのは、久しぶりに地元に帰ってきた、腐れ縁の悪友・光司。光司に誘われ英介は、子どものころに近所の陵泉寺に埋めたという高価なポケモンカードを掘り起こすことに。偵察のため、陵泉寺で開かれている〈寺マルシェ〉を訪れると、ギャルメイクで法話を行う尼僧を見つける。それは実家の陵泉寺で副住職を務める、元同級生の真実子だった。かつての優等生の面影のない姿に呆気にとられる英介の傍ら、光司は真実子を〈ギャル僧〉として売り出して金儲けすることを思いつきーー！？読めばきっと元気がもらえる、大人になりきれない大人たちの青春譚！\n",
-      "salesDate": "2026年09月02日",
-      "series": "ギャルにひかれて寺マルシェ",
-      "reviewAverage": 3.5,
-      "reviewCount": 3,
-      "genreId": "101901",
-      "isbn": "4331000700320",
+      "id": "4390000014247",
+      "title": "戦争犯罪と闘う　国際刑事裁判所は屈しない",
+      "author": "赤根智子",
+      "publisher": "文藝春秋",
+      "price": 1000,
+      "url": "https://books.rakuten.co.jp/rk/ed83c0d4161a37adb64937f2dc843815/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5761/2000017995761.jpg?_ex=600x600",
+      "caption": "二つの戦争、そして戦後国際秩序の行方は\nロシアによるウクライナ侵攻とイスラエルによるパレスチナへの非人道的な攻撃。目まぐるしく国際情勢が変化するなか、この二つの戦争に向き合い、プーチンとネタニヤフに逮捕状を出した国際刑事裁判所（ICC）。日本人として初めてそのトップに就任した著者は、ほどなくしてプーチンから逆指名手配を受けることにもなった。さらにはトランプ大統領の大統領令による経済制裁の脅威にさらされるなど、世界規模の戦争犯罪に向き合ってきた国際刑事裁判所はいま、存続の危機にある。\n第二次世界大戦後にホロコーストに向き合ったニュルンベルク裁判、日本の戦争責任を裁いた東京裁判。二つの軍事法廷裁判にルーツをもち、国際平和秩序を守ろうと奮闘してきた国際刑事裁判所とはいかなる機関か。二つの戦争という異例の事態にどう向き合ったのか。「世界の警察」アメリカが過去のものになりつつある戦後国際秩序の行方とはーー。\n「世界で起きていることが日本では起きないとは限らない」。「力による支配」がむき出しになりつつある今こそ「法の支配」による安全保障が必要だ。\n「ウクライナ戦争の勃発で完全に覚醒した」と語る赤根さんが、その奮闘を通じて未来への責任を語りかける。\n※本書電子書籍版は刊行後の国際情勢の変化を鑑み、２０２５年１０月に記述の一部を更新しました。\n",
+      "salesDate": "2025年06月20日",
+      "series": "",
+      "reviewAverage": 4.11,
+      "reviewCount": 29,
+      "genreId": "101907009/101907005003/101914",
+      "isbn": "4390000014247",
       "salesType": 0,
       "matchMeta": {
-        "title": "ギャルにひかれて寺マルシェ",
+        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
         "author": "",
-        "isbn": "",
-        "score": 176,
+        "score": 90,
         "sources": [
           {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 5
           }
         ],
         "source": "combined",
-        "rank": 13
+        "rank": 17,
+        "originalTitle": ""
       },
       "ranking": {
-        "title": "ギャルにひかれて寺マルシェ",
+        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
         "author": "",
         "isbn": "",
-        "score": 176,
+        "score": 175,
         "sources": [
           {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 5
           }
         ],
         "source": "combined",
-        "rank": 5
+        "rank": 6
       }
     },
     {
@@ -497,7 +559,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12,
+        "rank": 15,
         "originalTitle": ""
       },
       "ranking": {
@@ -513,7 +575,7 @@
           }
         ],
         "source": "combined",
-        "rank": 6
+        "rank": 7
       }
     },
     {
@@ -544,7 +606,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18,
+        "rank": 23,
         "originalTitle": ""
       },
       "ranking": {
@@ -560,7 +622,7 @@
           }
         ],
         "source": "combined",
-        "rank": 7
+        "rank": 8
       }
     },
     {
@@ -592,8 +654,7 @@
           }
         ],
         "source": "combined",
-        "rank": 25,
-        "originalTitle": "会社四季報 業界地図 2027年版"
+        "rank": 25
       },
       "ranking": {
         "title": "会社四季報 業界地図 2027年版",
@@ -608,7 +669,7 @@
           }
         ],
         "source": "combined",
-        "rank": 8
+        "rank": 9
       }
     },
     {
@@ -639,7 +700,7 @@
           }
         ],
         "source": "combined",
-        "rank": 23,
+        "rank": 30,
         "originalTitle": ""
       },
       "ranking": {
@@ -655,7 +716,7 @@
           }
         ],
         "source": "combined",
-        "rank": 9
+        "rank": 10
       }
     },
     {
@@ -677,7 +738,8 @@
       "matchMeta": {
         "title": "ブラッディダイスの殺人 上",
         "author": "M・W・クレイヴン",
-        "score": 74,
+        "isbn": "",
+        "score": 171,
         "sources": [
           {
             "source": "maruzen",
@@ -686,8 +748,7 @@
           }
         ],
         "source": "combined",
-        "rank": 24,
-        "originalTitle": ""
+        "rank": 31
       },
       "ranking": {
         "title": "ブラッディダイスの殺人 上",
@@ -702,7 +763,7 @@
           }
         ],
         "source": "combined",
-        "rank": 10
+        "rank": 11
       }
     },
     {
@@ -733,7 +794,7 @@
           }
         ],
         "source": "combined",
-        "rank": 27,
+        "rank": 35,
         "originalTitle": ""
       },
       "ranking": {
@@ -749,7 +810,7 @@
           }
         ],
         "source": "combined",
-        "rank": 11
+        "rank": 12
       }
     },
     {
@@ -796,7 +857,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12
+        "rank": 13
       }
     },
     {
@@ -827,7 +888,7 @@
           }
         ],
         "source": "combined",
-        "rank": 31,
+        "rank": 42,
         "originalTitle": ""
       },
       "ranking": {
@@ -843,7 +904,7 @@
           }
         ],
         "source": "combined",
-        "rank": 13
+        "rank": 14
       }
     },
     {
@@ -890,7 +951,7 @@
           }
         ],
         "source": "combined",
-        "rank": 14
+        "rank": 15
       }
     },
     {
@@ -921,7 +982,7 @@
           }
         ],
         "source": "combined",
-        "rank": 33,
+        "rank": 46,
         "originalTitle": ""
       },
       "ranking": {
@@ -937,7 +998,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15
+        "rank": 16
       }
     },
     {
@@ -968,7 +1029,7 @@
           }
         ],
         "source": "combined",
-        "rank": 36,
+        "rank": 52,
         "originalTitle": ""
       },
       "ranking": {
@@ -984,7 +1045,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16
+        "rank": 17
       }
     },
     {
@@ -1004,10 +1065,9 @@
       "isbn": "4770024930000",
       "salesType": 0,
       "matchMeta": {
-        "title": "入社１年目ビジネスマナーの教科書 （改訂新版）",
+        "title": "入社1年目ビジネスマナーの教科書 (改訂新版)",
         "author": "",
-        "isbn": "",
-        "score": 162,
+        "score": 38,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1016,7 +1076,8 @@
           }
         ],
         "source": "combined",
-        "rank": 56
+        "rank": 53,
+        "originalTitle": "入社１年目ビジネスマナーの教科書 （改訂新版）"
       },
       "ranking": {
         "title": "入社１年目ビジネスマナーの教科書 （改訂新版）",
@@ -1031,7 +1092,54 @@
           }
         ],
         "source": "combined",
-        "rank": 17
+        "rank": 18
+      }
+    },
+    {
+      "id": "7275000923851",
+      "title": "「思い込み」が未来を決める　東大・早稲田大・筑波大生、上場企業経営者らを指導してきたコンサルタントが教える「限界」を超える思考習慣",
+      "author": "高木謙治",
+      "publisher": "アチーブメント出版",
+      "price": 1760,
+      "url": "https://books.rakuten.co.jp/rk/0d1bd558b99b3c59952d3d0d9db1dd21/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2952/2000021692952.jpg?_ex=600x600",
+      "caption": "ビジネスやスポーツの世界で、圧倒的な成果を出し続ける人たち。彼らには、ある共通点があります。それは、「できない」と思っていないこと。\n一方で、多くの人は違います。本当は可能性を持っているにもかかわらず、できるはずがないという“思い込み”によって、自ら限界をつくってしまっているのです。\n夢をかなえるために。なりたい自分になるために。「能力」を高めることも大事です。しかしそれ以上に重要なのは、自分を縛っているネガティブな“思い込み”、すなわち、思考の「枠」を外すことです。\n“思い込み”が変われば、“行動”が変わる。\n“行動”が変われば、“習慣”が変わる。\n“習慣”が変われば、“結果”が変わる。\n必要なのは、自分の可能性を制限している“思い込み”に気づき、未来を切り拓けるというポジティブな“思い込み”へと書き換えること。\n本書では、私たちの可能性を縛る「ネガティブな思い込み」を手放す技術、感情に振り回されないためのセルフカウンセリング、「しんどさ」を成長のエンジンに変える方法、役職に頼らないリーダーシップの発揮の仕方、そして「心理的安全性」と「規律」を両立させる組織づくりまで、“思い込み”を起点に人生と組織を好転させる技術を体系的に解説します。\nビジネスやスポーツの現場で自ら圧倒的な成果を出し、コンサルタントとして延べ2万4000名を超える受講生を指導してきた著者だからこそ語れる、再現性のある実践知が詰まっています。\nあなたの未来を変えるのは、才能でも環境でもありません。**\"思い込み\"**です。\n",
+      "salesDate": "2026年09月08日",
+      "series": "「思い込み」が未来を決める　東大・早稲田大・筑波大生、上場企業経営者らを指導してきたコンサルタントが教える「限界」を超える思考習慣",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101905017004/101905016001",
+      "isbn": "7275000923851",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "「思い込み」が未来を決める 東大・早稲田大・筑波大生、上場企業経営者らを指導して",
+        "author": "",
+        "score": 26,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 21
+          }
+        ],
+        "source": "combined",
+        "rank": 59,
+        "originalTitle": "「思い込み」が未来を決める　東大・早稲田大・筑波大生、上場企業経営者らを指導して"
+      },
+      "ranking": {
+        "title": "「思い込み」が未来を決める 東大・早稲田大・筑波大生、上場企業経営者らを指導して",
+        "author": "",
+        "isbn": "",
+        "score": 159,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 21
+          }
+        ],
+        "source": "combined",
+        "rank": 19
       }
     },
     {
@@ -1062,7 +1170,7 @@
           }
         ],
         "source": "combined",
-        "rank": 42,
+        "rank": 64,
         "originalTitle": "ダンダダン 25 (ジャンプコミックス)"
       },
       "ranking": {
@@ -1078,54 +1186,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18
-      }
-    },
-    {
-      "id": "4380000407898",
-      "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-      "author": "林真理子",
-      "publisher": "幻冬舎",
-      "price": 982,
-      "url": "https://books.rakuten.co.jp/rk/1e28fc1db6b83578b06b0919e0a52cd7/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0908/2000020490908.jpg?_ex=600x600",
-      "caption": "70代は頭も体もまだ大丈夫。\nそれなりに蓄えもできている。\nでもこれまでと全く同じことをしていたらダメ。\nできないことは諦め、楽しいことを大事にし、人生の新しいステージに立とう。\n同じ年代とばかりつるまず、ダイエットはしない。\n嫌われずに自慢話をするテクニック、お金にキレイな人と思われるおごり方ーー。\n72歳の人気作家が本音で語る「健康」「おしゃれ」「仕事」「お金」「人間関係」「趣味」。\n確実に近づく「その日」を見つめ、今の1分1秒を楽しんで生きるための、痛快・人生論。\n",
-      "salesDate": "2026年05月27日",
-      "series": "",
-      "reviewAverage": 3.47,
-      "reviewCount": 46,
-      "genreId": "101907010004/101909",
-      "isbn": "4380000407898",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-        "author": "林真理子",
-        "score": 14,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 24
-          }
-        ],
-        "source": "combined",
-        "rank": 43,
-        "originalTitle": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 (幻冬舎新書 803)"
-      },
-      "ranking": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 (幻冬舎新書 803)",
-        "author": "林真理子",
-        "isbn": "",
-        "score": 156,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 24
-          }
-        ],
-        "source": "combined",
-        "rank": 19
+        "rank": 20
       }
     },
     {
@@ -1147,8 +1208,7 @@
       "matchMeta": {
         "title": "捨てられた僕と母猫と奇跡 - 心に傷を負った二人が新たに見つけた居場所",
         "author": "",
-        "isbn": "",
-        "score": 156,
+        "score": 14,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1157,7 +1217,8 @@
           }
         ],
         "source": "combined",
-        "rank": 68
+        "rank": 65,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "捨てられた僕と母猫と奇跡 - 心に傷を負った二人が新たに見つけた居場所",
@@ -1169,53 +1230,6 @@
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
             "rank": 24
-          }
-        ],
-        "source": "combined",
-        "rank": 20
-      }
-    },
-    {
-      "id": "4660629612104",
-      "title": "イン・ザ・メガチャーチ",
-      "author": "朝井リョウ",
-      "publisher": "日経BP",
-      "price": 2200,
-      "url": "https://books.rakuten.co.jp/rk/d3fd58a999d73fbaaf1de480b1d262ba/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3254/2000018463254.jpg?_ex=600x600",
-      "caption": "☆2026年本屋大賞受賞☆\n【第9回未来屋小説大賞】\n【第2回あの本、読みました？大賞】\n沈みゆく列島で、“界隈”は沸騰するーー。\nあるアイドルグループの運営に参画することになった、家族と離れて暮らす男。内向的で繊細な気質ゆえ積み重なる心労を癒やしたい大学生。仲間と楽しく舞台俳優を応援していたが、とある報道で状況が一変する女。ファンダム経済を仕掛ける側、のめり込む側、かつてのめり込んでいた側ーー世代も立場も異なる３つの視点から、人の心を動かす“物語”の功罪を炙り出す。\n「神がいないこの国で人を操るには、“物語”を使うのが一番いいんですよ」\n",
-      "salesDate": "2025年09月03日",
-      "series": "",
-      "reviewAverage": 4.29,
-      "reviewCount": 3426,
-      "genreId": "101901",
-      "isbn": "4660629612104",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "イン・ザ・メガチャーチ",
-        "author": "",
-        "isbn": "",
-        "score": 155,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 25
-          }
-        ],
-        "source": "combined",
-        "rank": 70
-      },
-      "ranking": {
-        "title": "イン・ザ・メガチャーチ",
-        "author": "",
-        "isbn": "",
-        "score": 155,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 25
           }
         ],
         "source": "combined",
@@ -1241,17 +1255,17 @@
       "matchMeta": {
         "title": "営業実行学 - やりきる組織は、設計できる",
         "author": "",
-        "isbn": "",
-        "score": 155,
+        "score": 6,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 25
+            "rank": 26
           }
         ],
         "source": "combined",
-        "rank": 71
+        "rank": 69,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "営業実行学 - やりきる組織は、設計できる",
@@ -1267,6 +1281,53 @@
         ],
         "source": "combined",
         "rank": 22
+      }
+    },
+    {
+      "id": "4660629612104",
+      "title": "イン・ザ・メガチャーチ",
+      "author": "朝井リョウ",
+      "publisher": "日経BP",
+      "price": 2200,
+      "url": "https://books.rakuten.co.jp/rk/d3fd58a999d73fbaaf1de480b1d262ba/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3254/2000018463254.jpg?_ex=600x600",
+      "caption": "☆2026年本屋大賞受賞☆\n【第9回未来屋小説大賞】\n【第2回あの本、読みました？大賞】\n沈みゆく列島で、“界隈”は沸騰するーー。\nあるアイドルグループの運営に参画することになった、家族と離れて暮らす男。内向的で繊細な気質ゆえ積み重なる心労を癒やしたい大学生。仲間と楽しく舞台俳優を応援していたが、とある報道で状況が一変する女。ファンダム経済を仕掛ける側、のめり込む側、かつてのめり込んでいた側ーー世代も立場も異なる３つの視点から、人の心を動かす“物語”の功罪を炙り出す。\n「神がいないこの国で人を操るには、“物語”を使うのが一番いいんですよ」\n",
+      "salesDate": "2025年09月03日",
+      "series": "",
+      "reviewAverage": 4.29,
+      "reviewCount": 3426,
+      "genreId": "101901",
+      "isbn": "4660629612104",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "イン・ザ・メガチャーチ",
+        "author": "",
+        "score": 10,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 25
+          }
+        ],
+        "source": "combined",
+        "rank": 67,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "イン・ザ・メガチャーチ",
+        "author": "",
+        "isbn": "",
+        "score": 155,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 25
+          }
+        ],
+        "source": "combined",
+        "rank": 23
       }
     },
     {
@@ -1297,7 +1358,7 @@
           }
         ],
         "source": "combined",
-        "rank": 45,
+        "rank": 70,
         "originalTitle": "異世界のんびり農家 17 (ドラゴンコミックスエイジ)"
       },
       "ranking": {
@@ -1310,53 +1371,6 @@
             "source": "amazon",
             "label": "Amazon",
             "rank": 26
-          }
-        ],
-        "source": "combined",
-        "rank": 23
-      }
-    },
-    {
-      "id": "4390000014247",
-      "title": "戦争犯罪と闘う　国際刑事裁判所は屈しない",
-      "author": "赤根智子",
-      "publisher": "文藝春秋",
-      "price": 1000,
-      "url": "https://books.rakuten.co.jp/rk/ed83c0d4161a37adb64937f2dc843815/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5761/2000017995761.jpg?_ex=600x600",
-      "caption": "二つの戦争、そして戦後国際秩序の行方は\nロシアによるウクライナ侵攻とイスラエルによるパレスチナへの非人道的な攻撃。目まぐるしく国際情勢が変化するなか、この二つの戦争に向き合い、プーチンとネタニヤフに逮捕状を出した国際刑事裁判所（ICC）。日本人として初めてそのトップに就任した著者は、ほどなくしてプーチンから逆指名手配を受けることにもなった。さらにはトランプ大統領の大統領令による経済制裁の脅威にさらされるなど、世界規模の戦争犯罪に向き合ってきた国際刑事裁判所はいま、存続の危機にある。\n第二次世界大戦後にホロコーストに向き合ったニュルンベルク裁判、日本の戦争責任を裁いた東京裁判。二つの軍事法廷裁判にルーツをもち、国際平和秩序を守ろうと奮闘してきた国際刑事裁判所とはいかなる機関か。二つの戦争という異例の事態にどう向き合ったのか。「世界の警察」アメリカが過去のものになりつつある戦後国際秩序の行方とはーー。\n「世界で起きていることが日本では起きないとは限らない」。「力による支配」がむき出しになりつつある今こそ「法の支配」による安全保障が必要だ。\n「ウクライナ戦争の勃発で完全に覚醒した」と語る赤根さんが、その奮闘を通じて未来への責任を語りかける。\n※本書電子書籍版は刊行後の国際情勢の変化を鑑み、２０２５年１０月に記述の一部を更新しました。\n",
-      "salesDate": "2025年06月20日",
-      "series": "",
-      "reviewAverage": 4.11,
-      "reviewCount": 29,
-      "genreId": "101907009/101907005003/101914",
-      "isbn": "4390000014247",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "戦争犯罪と闘う 国際刑事裁判所は屈しない",
-        "author": "赤根 智子",
-        "score": 5,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 28
-          }
-        ],
-        "source": "combined",
-        "rank": 47,
-        "originalTitle": "戦争犯罪と闘う 国際刑事裁判所は屈しない (文春新書 1496)"
-      },
-      "ranking": {
-        "title": "戦争犯罪と闘う 国際刑事裁判所は屈しない (文春新書 1496)",
-        "author": "赤根 智子",
-        "isbn": "",
-        "score": 152,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 28
           }
         ],
         "source": "combined",
@@ -1382,8 +1396,7 @@
       "matchMeta": {
         "title": "ミリオンダラー強運思考",
         "author": "",
-        "isbn": "",
-        "score": 152,
+        "score": 5,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1392,7 +1405,8 @@
           }
         ],
         "source": "combined",
-        "rank": 76
+        "rank": 72,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "ミリオンダラー強運思考",
@@ -1408,53 +1422,6 @@
         ],
         "source": "combined",
         "rank": 25
-      }
-    },
-    {
-      "id": "4310000920047",
-      "title": "うるわしの宵の月（１１）",
-      "author": "やまもり三香",
-      "publisher": "講談社",
-      "price": 594,
-      "url": "https://books.rakuten.co.jp/rk/6fc3b4fd623b344c923ab1e6d55b7031/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9731/2000021649731.jpg?_ex=600x600",
-      "caption": "滝口宵は、容姿端麗・スマートなふるまいで「王子」と呼ばれる女子。\n学校で同じく「王子」と呼ばれる市村先輩に出会い、\nひょんなことからお試しでのお付き合いが始まる。\n初めは身構えていた宵も段々と気持ちが変化し、夏祭りで\nお互いようやく素直に気持ちを打ち合け、正式に付き合うことに。\nクリスマスから年末と幸せな日々を過ごす２人。だけど新学期、\nなぜか先輩が学校に来なくなる。先輩から家の事情で学校をやめ、\n留学することになったと聞かされ、さらに別れることになってしまい…!!?\nともに「王子」と呼ばれる男女の恋、再び２人の絆は戻るの─!!?\n",
-      "salesDate": "2026年09月11日",
-      "series": "うるわしの宵の月",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904011016",
-      "isbn": "4310000920047",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "うるわしの宵の月(11) (KCデザート)",
-        "author": "やまもり 三香",
-        "score": 5,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 29
-          }
-        ],
-        "source": "combined",
-        "rank": 48,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "うるわしの宵の月(11) (KCデザート)",
-        "author": "やまもり 三香",
-        "isbn": "",
-        "score": 151,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 29
-          }
-        ],
-        "source": "combined",
-        "rank": 26
       }
     },
     {
@@ -1476,8 +1443,7 @@
       "matchMeta": {
         "title": "お願いしないで人を動かす 心のつかみ方",
         "author": "",
-        "isbn": "",
-        "score": 151,
+        "score": 5,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1486,8 +1452,8 @@
           }
         ],
         "source": "combined",
-        "rank": 78,
-        "originalTitle": "お願いしないで人を動かす 心のつかみ方"
+        "rank": 73,
+        "originalTitle": "お願いしないで人を動かす　心のつかみ方"
       },
       "ranking": {
         "title": "お願いしないで人を動かす 心のつかみ方",
@@ -1502,54 +1468,54 @@
           }
         ],
         "source": "combined",
-        "rank": 27
+        "rank": 26
       }
     },
     {
-      "id": "4972000161446",
-      "title": "キングダム 80",
-      "author": "原泰久",
-      "publisher": "集英社",
-      "price": 770,
-      "url": "https://books.rakuten.co.jp/rk/050764b407853c8da27e5a42ab86656e/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2133/2000021122133.jpg?_ex=600x600",
-      "caption": "李牧の防衛網を突破せよ!!　紀元前229年 趙完全攻略戦　白熱する趙完全攻略戦。北部では、司馬尚軍と宜安・番吾からなる趙北部軍とで、王翦軍への挟撃を図ろうとする李牧の策を阻止するべく玉鳳軍が立ちはだかる。一方、中華十弓・青華雲を討ち取った飛信隊は、蒙恬の発案により、楽華軍・羌カイ軍との三軍連合攻撃を開始するが…!?\n",
-      "salesDate": "2026年08月19日",
-      "series": "キングダム",
-      "reviewAverage": 3.92,
-      "reviewCount": 12,
-      "genreId": "101904002006",
-      "isbn": "4972000161446",
+      "id": "4310000920047",
+      "title": "うるわしの宵の月（１１）",
+      "author": "やまもり三香",
+      "publisher": "講談社",
+      "price": 594,
+      "url": "https://books.rakuten.co.jp/rk/6fc3b4fd623b344c923ab1e6d55b7031/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9731/2000021649731.jpg?_ex=600x600",
+      "caption": "滝口宵は、容姿端麗・スマートなふるまいで「王子」と呼ばれる女子。\n学校で同じく「王子」と呼ばれる市村先輩に出会い、\nひょんなことからお試しでのお付き合いが始まる。\n初めは身構えていた宵も段々と気持ちが変化し、夏祭りで\nお互いようやく素直に気持ちを打ち合け、正式に付き合うことに。\nクリスマスから年末と幸せな日々を過ごす２人。だけど新学期、\nなぜか先輩が学校に来なくなる。先輩から家の事情で学校をやめ、\n留学することになったと聞かされ、さらに別れることになってしまい…!!?\nともに「王子」と呼ばれる男女の恋、再び２人の絆は戻るの─!!?\n",
+      "salesDate": "2026年09月11日",
+      "series": "うるわしの宵の月",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904011016",
+      "isbn": "4310000920047",
       "salesType": 0,
       "matchMeta": {
-        "title": "キングダム 80",
-        "author": "原 泰久",
-        "score": 5,
+        "title": "うるわしの宵の月(11) (KCデザート)",
+        "author": "やまもり 三香",
+        "isbn": "",
+        "score": 151,
         "sources": [
           {
             "source": "amazon",
             "label": "Amazon",
-            "rank": 30
+            "rank": 29
           }
         ],
         "source": "combined",
-        "rank": 49,
-        "originalTitle": "キングダム 80 (ヤングジャンプコミックス)"
+        "rank": 77
       },
       "ranking": {
-        "title": "キングダム 80 (ヤングジャンプコミックス)",
-        "author": "原 泰久",
+        "title": "うるわしの宵の月(11) (KCデザート)",
+        "author": "やまもり 三香",
         "isbn": "",
-        "score": 150,
+        "score": 151,
         "sources": [
           {
             "source": "amazon",
             "label": "Amazon",
-            "rank": 30
+            "rank": 29
           }
         ],
         "source": "combined",
-        "rank": 28
+        "rank": 27
       }
     },
     {
@@ -1571,8 +1537,7 @@
       "matchMeta": {
         "title": "帳の向こう",
         "author": "",
-        "isbn": "",
-        "score": 150,
+        "score": 5,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1581,7 +1546,8 @@
           }
         ],
         "source": "combined",
-        "rank": 80
+        "rank": 74,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "帳の向こう",
@@ -1592,6 +1558,54 @@
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
+            "rank": 30
+          }
+        ],
+        "source": "combined",
+        "rank": 28
+      }
+    },
+    {
+      "id": "4972000161446",
+      "title": "キングダム 80",
+      "author": "原泰久",
+      "publisher": "集英社",
+      "price": 770,
+      "url": "https://books.rakuten.co.jp/rk/050764b407853c8da27e5a42ab86656e/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2133/2000021122133.jpg?_ex=600x600",
+      "caption": "李牧の防衛網を突破せよ!!　紀元前229年 趙完全攻略戦　白熱する趙完全攻略戦。北部では、司馬尚軍と宜安・番吾からなる趙北部軍とで、王翦軍への挟撃を図ろうとする李牧の策を阻止するべく玉鳳軍が立ちはだかる。一方、中華十弓・青華雲を討ち取った飛信隊は、蒙恬の発案により、楽華軍・羌カイ軍との三軍連合攻撃を開始するが…!?\n",
+      "salesDate": "2026年08月19日",
+      "series": "キングダム",
+      "reviewAverage": 3.92,
+      "reviewCount": 12,
+      "genreId": "101904002006",
+      "isbn": "4972000161446",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "キングダム 80",
+        "author": "原 泰久",
+        "isbn": "",
+        "score": 150,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 30
+          }
+        ],
+        "source": "combined",
+        "rank": 79,
+        "originalTitle": "キングダム 80 (ヤングジャンプコミックス)"
+      },
+      "ranking": {
+        "title": "キングダム 80 (ヤングジャンプコミックス)",
+        "author": "原 泰久",
+        "isbn": "",
+        "score": 150,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
             "rank": 30
           }
         ],
@@ -1647,6 +1661,53 @@
       }
     },
     {
+      "id": "4310000890409",
+      "title": "楽園",
+      "author": "夕木春央",
+      "publisher": "講談社",
+      "price": 1980,
+      "url": "https://books.rakuten.co.jp/rk/1a1c684dcee83b98b4d0187187c813d0/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1651/2000021221651.jpg?_ex=600x600",
+      "caption": "殺人犯にならなければ脱出できない。\n『方舟』『十戒』の著者が仕掛ける“禁忌の驚き”\n亡き両親から不動産を譲り受けた康之は、失踪した賃借人・海原の遺留品整理の際に、群馬の山奥の謎の物件の存在を知る。そこは、切り立った岩壁に囲まれた、「楽園」と呼ばれる奇妙な場所だった。恋人の沙織と一緒にそこを訪ね、探索をはじめた康之たちは、すぐに六人の“住人”に拿捕された。脱出のための条件はーー\n「誰か一人を殺さなければならない」\n『方舟』\n第19回オリコン上半期”本”ランキング　文庫ランキングTOP10 第1位\n週刊文春ミステリーベスト10　第1位　（「週刊文春」2022年12月8日号）国内部門\nMRC大賞2022　第1位\n『方舟』＋『十戒』の累計発行部数が100万部突破。\nーー夕木春央が描く、極限のクローズド・サークル。\n",
+      "salesDate": "2026年07月22日",
+      "series": "楽園",
+      "reviewAverage": 4.2,
+      "reviewCount": 364,
+      "genreId": "101902",
+      "isbn": "4310000890409",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "楽園",
+        "author": "夕木春央",
+        "score": 94,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
+          }
+        ],
+        "source": "combined",
+        "rank": 12,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "楽園",
+        "author": "夕木春央",
+        "score": 94,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
+          }
+        ],
+        "source": "combined",
+        "rank": 31,
+        "originalTitle": ""
+      }
+    },
+    {
       "id": "9784059239659",
       "title": "地球の歩き方 スター・ウォーズ",
       "author": "",
@@ -1674,7 +1735,7 @@
           }
         ],
         "source": "combined",
-        "rank": 13,
+        "rank": 16,
         "originalTitle": ""
       },
       "ranking": {
@@ -1689,7 +1750,54 @@
           }
         ],
         "source": "combined",
-        "rank": 31,
+        "rank": 32,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "4480000838415",
+      "title": "けんぐゎい",
+      "author": "朝倉かすみ",
+      "publisher": "光文社",
+      "price": 1980,
+      "url": "https://books.rakuten.co.jp/rk/7249a640151339f4ab53ef18f6bba0b0/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8537/2000020238537.jpg?_ex=600x600",
+      "caption": "利発だが酷い痘痕の姉ふゆ。逆上せ癖で縹緻よしの妹りよ。幼くして父を亡くし、ふゆは手習師匠の手伝いに、りよは船宿の下女奉公に出された。師匠の養子で禍々しいほどに歪んだ性癖をもつ宗三郎から手籠めにされたふゆは懐妊するが、現人神と崇められる女医者と出逢い、彼女の人生は大きく変わっていく。自我に目覚めた主人公が、女の生と向き合う、時代小説の新しい扉！　第175回直木賞受賞作！\n",
+      "salesDate": "2026年04月22日",
+      "series": "けんぐゎい",
+      "reviewAverage": 3.44,
+      "reviewCount": 98,
+      "genreId": "101901001001",
+      "isbn": "4480000838415",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "けんぐゎい",
+        "author": "朝倉かすみ",
+        "score": 70,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 36,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "けんぐゎい",
+        "author": "朝倉かすみ",
+        "score": 70,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 33,
         "originalTitle": ""
       }
     }
@@ -1698,29 +1806,31 @@
     "fiction": [
       "4340008067611",
       "4340008067051",
-      "4331000700320",
       "4910000909001",
       "4390000005636",
       "4770025390000",
-      "4660629612104"
+      "4660629612104",
+      "4480000838415"
     ],
     "mystery": [
       "4390000005636",
       "4620000615075",
-      "4620000615076"
+      "4620000615076",
+      "4310000890409"
     ],
     "sf": [],
     "business": [
       "4659733601001",
       "4770024930000",
+      "7275000923851",
       "4410000009676",
       "4561004112000",
       "7275000891118"
     ],
     "humanities": [
       "4380000407898",
-      "4770025390000",
       "4390000014247",
+      "4770025390000",
       "4390000016485"
     ],
     "nonfiction": [
@@ -1759,7 +1869,7 @@
       "complete": true
     },
     "mystery": {
-      "matched": 3,
+      "matched": 4,
       "complete": true
     },
     "sf": {
@@ -1767,7 +1877,7 @@
       "complete": true
     },
     "business": {
-      "matched": 5,
+      "matched": 6,
       "complete": true
     },
     "humanities": {

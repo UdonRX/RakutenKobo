@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-09-15T05:40:00.300Z",
+  "updatedAt": "2026-09-15T12:26:16.885Z",
   "candidateCount": 39,
-  "baseMatched": 8,
-  "matched": 17,
-  "addedMatches": 9,
+  "baseMatched": 14,
+  "matched": 18,
+  "addedMatches": 4,
   "unavailable": [],
   "snapshots": {
     "kinokuniya": {
@@ -20,6 +20,12 @@
       "updatedAt": "2026-09-15",
       "live": true,
       "items": [
+        {
+          "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
+          "author": "",
+          "isbn": "",
+          "rank": 2
+        },
         {
           "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
           "author": "",
@@ -80,12 +86,6 @@
       "live": true,
       "items": [
         {
-          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-          "author": "",
-          "isbn": "",
-          "rank": 2
-        },
-        {
           "title": "ハヤブサ消防団 森へつづく道",
           "author": "",
           "isbn": "",
@@ -138,22 +138,16 @@
       "matchMeta": {
         "title": "つかめ!理科ダマン 〈12〉 最強ロボット決戦!編",
         "author": "",
-        "isbn": "",
-        "score": 327,
+        "score": 5,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
             "rank": 28
-          },
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 5
           }
         ],
         "source": "combined",
-        "rank": 4,
+        "rank": 34,
         "originalTitle": "つかめ！理科ダマン 〈１２〉 最強ロボット決戦！編"
       },
       "ranking": {
@@ -194,29 +188,29 @@
       "isbn": "4380000407898",
       "salesType": 0,
       "matchMeta": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-        "author": "林真理子",
-        "score": 94,
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 幻冬舎新書",
+        "author": "",
+        "score": 102,
         "sources": [
           {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 2
           }
         ],
         "source": "combined",
-        "rank": 4,
-        "originalTitle": ""
+        "rank": 7,
+        "originalTitle": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書"
       },
       "ranking": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
         "author": "",
         "isbn": "",
         "score": 178,
         "sources": [
           {
-            "source": "tohan",
-            "label": "トーハン",
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
             "rank": 2
           }
         ],
@@ -253,8 +247,7 @@
           }
         ],
         "source": "combined",
-        "rank": 9,
-        "originalTitle": "ハヤブサ消防団 森へつづく道"
+        "rank": 9
       },
       "ranking": {
         "title": "ハヤブサ消防団 森へつづく道",
@@ -291,8 +284,7 @@
       "matchMeta": {
         "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
         "author": "",
-        "isbn": "",
-        "score": 175,
+        "score": 90,
         "sources": [
           {
             "source": "kinokuniya",
@@ -301,7 +293,8 @@
           }
         ],
         "source": "combined",
-        "rank": 10
+        "rank": 12,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
@@ -385,16 +378,21 @@
       "matchMeta": {
         "title": "イン・ザ・メガチャーチ",
         "author": "朝井リョウ",
-        "score": 82,
+        "score": 152,
         "sources": [
           {
             "source": "tohan",
             "label": "トーハン",
             "rank": 7
+          },
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 10
           }
         ],
         "source": "combined",
-        "rank": 7,
+        "rank": 2,
         "originalTitle": ""
       },
       "ranking": {
@@ -524,10 +522,9 @@
       "isbn": "4340008066911",
       "salesType": 0,
       "matchMeta": {
-        "title": "夏帆 - Ｔｈｅ Ｔａｌｅ ｏｆ ＫＡＨＯ",
+        "title": "夏帆 - The Tale of KAHO",
         "author": "",
-        "isbn": "",
-        "score": 164,
+        "score": 46,
         "sources": [
           {
             "source": "kinokuniya",
@@ -536,7 +533,8 @@
           }
         ],
         "source": "combined",
-        "rank": 26
+        "rank": 24,
+        "originalTitle": "夏帆 - Ｔｈｅ　Ｔａｌｅ　ｏｆ　ＫＡＨＯ"
       },
       "ranking": {
         "title": "夏帆 - Ｔｈｅ Ｔａｌｅ ｏｆ ＫＡＨＯ",
@@ -571,10 +569,9 @@
       "isbn": "4659733601001",
       "salesType": 0,
       "matchMeta": {
-        "title": "会社四季報業界地図 〈２０２７年版〉",
+        "title": "会社四季報業界地図 〈2027年版〉",
         "author": "",
-        "isbn": "",
-        "score": 162,
+        "score": 38,
         "sources": [
           {
             "source": "kinokuniya",
@@ -583,7 +580,8 @@
           }
         ],
         "source": "combined",
-        "rank": 28
+        "rank": 26,
+        "originalTitle": "会社四季報業界地図 〈２０２７年版〉"
       },
       "ranking": {
         "title": "会社四季報業界地図 〈２０２７年版〉",
@@ -620,16 +618,21 @@
       "matchMeta": {
         "title": "ファイア・ドーム 上",
         "author": "辻村深月",
-        "score": 102,
+        "score": 128,
         "sources": [
           {
             "source": "tohan",
             "label": "トーハン",
             "rank": 2
+          },
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 21
           }
         ],
         "source": "combined",
-        "rank": 2,
+        "rank": 3,
         "originalTitle": ""
       },
       "ranking": {
@@ -667,8 +670,7 @@
       "matchMeta": {
         "title": "ギャルにひかれて寺マルシェ",
         "author": "",
-        "isbn": "",
-        "score": 156,
+        "score": 14,
         "sources": [
           {
             "source": "kinokuniya",
@@ -677,8 +679,8 @@
           }
         ],
         "source": "combined",
-        "rank": 34,
-        "originalTitle": "ギャルにひかれて寺マルシェ"
+        "rank": 31,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "ギャルにひかれて寺マルシェ",
@@ -715,16 +717,21 @@
       "matchMeta": {
         "title": "多類婚姻譚",
         "author": "凪良ゆう",
-        "score": 90,
+        "score": 96,
         "sources": [
           {
             "source": "tohan",
             "label": "トーハン",
             "rank": 5
+          },
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 26
           }
         ],
         "source": "combined",
-        "rank": 5,
+        "rank": 4,
         "originalTitle": ""
       },
       "ranking": {
@@ -771,7 +778,7 @@
           }
         ],
         "source": "combined",
-        "rank": 1,
+        "rank": 5,
         "originalTitle": ""
       },
       "ranking": {
@@ -818,7 +825,7 @@
           }
         ],
         "source": "combined",
-        "rank": 3,
+        "rank": 8,
         "originalTitle": ""
       },
       "ranking": {
@@ -834,6 +841,53 @@
         ],
         "source": "combined",
         "rank": 15,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "4390000015358",
+      "title": "青天",
+      "author": "若林正恭",
+      "publisher": "文藝春秋",
+      "price": 1900,
+      "url": "https://books.rakuten.co.jp/rk/a6fc1b8794af3eafb7f064fac9c68dfa/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0144/2000019330144.jpg?_ex=600x600",
+      "caption": "オードリー・若林正恭、初小説！\n人にぶつかっていないと、自分が生きているかどうかよくわからなくなるーー\n総大三高の「アリ」こと中村昴が所属するアメフト部は、万年２回戦どまり。相手校の練習を隠し撮りして迎えた高３の引退大会では、強豪・遼西学園に打ち破れた。引退後、みなが受験に向かうなか、勉強にも気持ちが入らず、不良になる覚悟もないまま宙ぶらりんの日々を過ごす。自分自身の不甲斐なさにもがき続けるなかで、アリは再びアメフトと向き合う決意を固める。\n青春の苦みと悦びに満ちた、著者渾身の初小説。\n",
+      "salesDate": "2026年02月20日",
+      "series": "",
+      "reviewAverage": 4.03,
+      "reviewCount": 563,
+      "genreId": "101901",
+      "isbn": "4390000015358",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "青天",
+        "author": "若林正恭",
+        "score": 78,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 15,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "青天",
+        "author": "若林正恭",
+        "score": 78,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 16,
         "originalTitle": ""
       }
     },
@@ -865,7 +919,7 @@
           }
         ],
         "source": "combined",
-        "rank": 9,
+        "rank": 17,
         "originalTitle": ""
       },
       "ranking": {
@@ -880,7 +934,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16,
+        "rank": 17,
         "originalTitle": ""
       }
     },
@@ -912,7 +966,7 @@
           }
         ],
         "source": "combined",
-        "rank": 10,
+        "rank": 18,
         "originalTitle": ""
       },
       "ranking": {
@@ -927,7 +981,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17,
+        "rank": 18,
         "originalTitle": ""
       }
     }
@@ -941,7 +995,8 @@
       "4331000700320",
       "4310000858457",
       "4320000867368",
-      "4320000865494"
+      "4320000865494",
+      "4390000015358"
     ],
     "mystery": [
       "4820000903843",
@@ -987,7 +1042,7 @@
   },
   "genreStatus": {
     "fiction": {
-      "matched": 8,
+      "matched": 9,
       "complete": true
     },
     "mystery": {

@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "year",
-  "updatedAt": "2026-09-15T12:26:21.082Z",
+  "updatedAt": "2026-09-15T17:34:24.290Z",
   "candidateCount": 13,
-  "baseMatched": 6,
+  "baseMatched": 7,
   "matched": 9,
-  "addedMatches": 3,
+  "addedMatches": 2,
   "unavailable": [],
   "snapshots": {
     "tohan": {
@@ -332,9 +332,8 @@
       "salesType": 0,
       "matchMeta": {
         "title": "大河の一滴 最終章",
-        "author": "",
-        "isbn": "",
-        "score": 172,
+        "author": "五木寛之",
+        "score": 78,
         "sources": [
           {
             "source": "tohan",
@@ -343,7 +342,8 @@
           }
         ],
         "source": "combined",
-        "rank": 8
+        "rank": 8,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "大河の一滴 最終章",
@@ -484,7 +484,8 @@
           }
         ],
         "source": "combined",
-        "rank": 12
+        "rank": 12,
+        "originalTitle": "FOR OVERSEAS"
       },
       "ranking": {
         "title": "FOR OVERSEAS",

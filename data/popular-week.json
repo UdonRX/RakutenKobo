@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-09-15T12:25:59.933Z",
+  "updatedAt": "2026-09-15T17:34:04.992Z",
   "candidateCount": 80,
-  "baseMatched": 26,
+  "baseMatched": 23,
   "matched": 33,
-  "addedMatches": 7,
+  "addedMatches": 10,
   "unavailable": [
     "rakuten"
   ],
@@ -218,6 +218,12 @@
           "rank": 3
         },
         {
+          "title": "ギャルにひかれて寺マルシェ",
+          "author": "",
+          "isbn": "",
+          "rank": 4
+        },
+        {
           "title": "会社四季報 業界地図 2027年版",
           "author": "",
           "isbn": "",
@@ -362,7 +368,8 @@
       "matchMeta": {
         "title": "幽冥の岸 十二国記",
         "author": "小野不由美",
-        "score": 102,
+        "isbn": "",
+        "score": 178,
         "sources": [
           {
             "source": "amazon",
@@ -371,7 +378,7 @@
           }
         ],
         "source": "combined",
-        "rank": 8,
+        "rank": 5,
         "originalTitle": "幽冥の岸 十二国記 (新潮文庫 お 37-66)"
       },
       "ranking": {
@@ -391,20 +398,20 @@
       }
     },
     {
-      "id": "4340008067051",
-      "title": "プレゼント（新潮文庫）",
-      "author": "伊坂幸太郎/江國香織/恩田陸/梨木香歩/町田そのこ/宮部みゆき/米澤穂信",
-      "publisher": "新潮社",
-      "price": 825,
-      "url": "https://books.rakuten.co.jp/rk/e8a60fd88eb63075a76e50e52cf98712/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8962/2000020598962.jpg?_ex=600x600",
-      "caption": "これはこれまで小説を愛してきてくれた人へ、そしてこれから小説の世界に一歩踏み出す人へ贈るプレゼント。何気なく読んだ物語が、ふと目にした一行が、意外な言葉ひとつが、人生を大きく変えるかもしれない。現代を代表する７人の作家が「夏」をテーマに書き下ろした、驚きと切なさ、怖さと美しさ、何よりとびきりの面白さを詰め込んだ奇跡の一冊。さぁ、あなたの人生に小説という選択肢を。\n",
-      "salesDate": "2026年06月24日",
-      "series": "",
-      "reviewAverage": 3.88,
-      "reviewCount": 318,
-      "genreId": "101901",
-      "isbn": "4340008067051",
+      "id": "4916475490001",
+      "title": "プレゼント",
+      "author": "若竹七海",
+      "publisher": "中央公論新社",
+      "price": 776,
+      "url": "https://books.rakuten.co.jp/rk/9fe631efeb0f3eb0a09ce80197395709/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1444/2000007701444.jpg?_ex=600x600",
+      "caption": "ルーム・クリーナー、電話相談、興信所。トラブルメイカーのフリーター・葉村晶と、娘に借りたピンクの子供用自転車で現場に駆けつける小林警部補。二人が巻き込まれたハードボイルドで悲しい八つの事件とはーー。間抜けだが悪気のない隣人たちがひき起こす騒動はいつも危険すぎる！\n",
+      "salesDate": "2019年08月30日",
+      "series": "プレゼント",
+      "reviewAverage": 3.52,
+      "reviewCount": 92,
+      "genreId": "101901/101902",
+      "isbn": "4916475490001",
       "salesType": 0,
       "matchMeta": {
         "title": "プレゼント",
@@ -454,7 +461,7 @@
       "isbn": "5430000025522",
       "salesType": 0,
       "matchMeta": {
-        "title": "FINEBOYS＋plus OYASUMI vol.2",
+        "title": "FINEBOYS+plus OYASUMI vol.2",
         "author": "",
         "isbn": "",
         "score": 177,
@@ -466,7 +473,8 @@
           }
         ],
         "source": "combined",
-        "rank": 10
+        "rank": 10,
+        "originalTitle": "FINEBOYS＋plus OYASUMI vol.2"
       },
       "ranking": {
         "title": "FINEBOYS＋plus OYASUMI vol.2",
@@ -485,46 +493,47 @@
       }
     },
     {
-      "id": "4390000014247",
-      "title": "戦争犯罪と闘う　国際刑事裁判所は屈しない",
-      "author": "赤根智子",
-      "publisher": "文藝春秋",
-      "price": 1000,
-      "url": "https://books.rakuten.co.jp/rk/ed83c0d4161a37adb64937f2dc843815/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5761/2000017995761.jpg?_ex=600x600",
-      "caption": "二つの戦争、そして戦後国際秩序の行方は\nロシアによるウクライナ侵攻とイスラエルによるパレスチナへの非人道的な攻撃。目まぐるしく国際情勢が変化するなか、この二つの戦争に向き合い、プーチンとネタニヤフに逮捕状を出した国際刑事裁判所（ICC）。日本人として初めてそのトップに就任した著者は、ほどなくしてプーチンから逆指名手配を受けることにもなった。さらにはトランプ大統領の大統領令による経済制裁の脅威にさらされるなど、世界規模の戦争犯罪に向き合ってきた国際刑事裁判所はいま、存続の危機にある。\n第二次世界大戦後にホロコーストに向き合ったニュルンベルク裁判、日本の戦争責任を裁いた東京裁判。二つの軍事法廷裁判にルーツをもち、国際平和秩序を守ろうと奮闘してきた国際刑事裁判所とはいかなる機関か。二つの戦争という異例の事態にどう向き合ったのか。「世界の警察」アメリカが過去のものになりつつある戦後国際秩序の行方とはーー。\n「世界で起きていることが日本では起きないとは限らない」。「力による支配」がむき出しになりつつある今こそ「法の支配」による安全保障が必要だ。\n「ウクライナ戦争の勃発で完全に覚醒した」と語る赤根さんが、その奮闘を通じて未来への責任を語りかける。\n※本書電子書籍版は刊行後の国際情勢の変化を鑑み、２０２５年１０月に記述の一部を更新しました。\n",
-      "salesDate": "2025年06月20日",
-      "series": "",
-      "reviewAverage": 4.11,
-      "reviewCount": 29,
-      "genreId": "101907009/101907005003/101914",
-      "isbn": "4390000014247",
+      "id": "4331000700320",
+      "title": "ギャルにひかれて寺マルシェ",
+      "author": "宮島　未奈",
+      "publisher": "KADOKAWA",
+      "price": 2035,
+      "url": "https://books.rakuten.co.jp/rk/892ef7e9e1143dc0868ac50df9bd106a/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9754/2000021549754.jpg?_ex=600x600",
+      "caption": "亡くなった父親の酒屋を継いだ30歳の英介は、商売への向上心もなく、なんとなく毎日を送っている。そこに現れたのは、久しぶりに地元に帰ってきた、腐れ縁の悪友・光司。光司に誘われ英介は、子どものころに近所の陵泉寺に埋めたという高価なポケモンカードを掘り起こすことに。偵察のため、陵泉寺で開かれている〈寺マルシェ〉を訪れると、ギャルメイクで法話を行う尼僧を見つける。それは実家の陵泉寺で副住職を務める、元同級生の真実子だった。かつての優等生の面影のない姿に呆気にとられる英介の傍ら、光司は真実子を〈ギャル僧〉として売り出して金儲けすることを思いつきーー！？読めばきっと元気がもらえる、大人になりきれない大人たちの青春譚！\n",
+      "salesDate": "2026年09月02日",
+      "series": "ギャルにひかれて寺マルシェ",
+      "reviewAverage": 3.5,
+      "reviewCount": 3,
+      "genreId": "101901",
+      "isbn": "4331000700320",
       "salesType": 0,
       "matchMeta": {
-        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
+        "title": "ギャルにひかれて寺マルシェ",
         "author": "",
-        "score": 90,
+        "isbn": "",
+        "score": 176,
         "sources": [
           {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 5
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
           }
         ],
         "source": "combined",
-        "rank": 17,
-        "originalTitle": ""
+        "rank": 13,
+        "originalTitle": "ギャルにひかれて寺マルシェ"
       },
       "ranking": {
-        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
+        "title": "ギャルにひかれて寺マルシェ",
         "author": "",
         "isbn": "",
-        "score": 175,
+        "score": 176,
         "sources": [
           {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 5
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
           }
         ],
         "source": "combined",
@@ -579,6 +588,53 @@
       }
     },
     {
+      "id": "4390000014247",
+      "title": "戦争犯罪と闘う　国際刑事裁判所は屈しない",
+      "author": "赤根智子",
+      "publisher": "文藝春秋",
+      "price": 1000,
+      "url": "https://books.rakuten.co.jp/rk/ed83c0d4161a37adb64937f2dc843815/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5761/2000017995761.jpg?_ex=600x600",
+      "caption": "二つの戦争、そして戦後国際秩序の行方は\nロシアによるウクライナ侵攻とイスラエルによるパレスチナへの非人道的な攻撃。目まぐるしく国際情勢が変化するなか、この二つの戦争に向き合い、プーチンとネタニヤフに逮捕状を出した国際刑事裁判所（ICC）。日本人として初めてそのトップに就任した著者は、ほどなくしてプーチンから逆指名手配を受けることにもなった。さらにはトランプ大統領の大統領令による経済制裁の脅威にさらされるなど、世界規模の戦争犯罪に向き合ってきた国際刑事裁判所はいま、存続の危機にある。\n第二次世界大戦後にホロコーストに向き合ったニュルンベルク裁判、日本の戦争責任を裁いた東京裁判。二つの軍事法廷裁判にルーツをもち、国際平和秩序を守ろうと奮闘してきた国際刑事裁判所とはいかなる機関か。二つの戦争という異例の事態にどう向き合ったのか。「世界の警察」アメリカが過去のものになりつつある戦後国際秩序の行方とはーー。\n「世界で起きていることが日本では起きないとは限らない」。「力による支配」がむき出しになりつつある今こそ「法の支配」による安全保障が必要だ。\n「ウクライナ戦争の勃発で完全に覚醒した」と語る赤根さんが、その奮闘を通じて未来への責任を語りかける。\n※本書電子書籍版は刊行後の国際情勢の変化を鑑み、２０２５年１０月に記述の一部を更新しました。\n",
+      "salesDate": "2025年06月20日",
+      "series": "",
+      "reviewAverage": 4.11,
+      "reviewCount": 29,
+      "genreId": "101907009/101907005003/101914",
+      "isbn": "4390000014247",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
+        "author": "",
+        "score": 90,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
+        "rank": 17,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
+        "author": "",
+        "isbn": "",
+        "score": 175,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
+        "rank": 8
+      }
+    },
+    {
       "id": "4390000005636",
       "title": "容疑者Xの献身",
       "author": "東野圭吾",
@@ -622,7 +678,7 @@
           }
         ],
         "source": "combined",
-        "rank": 8
+        "rank": 9
       }
     },
     {
@@ -669,7 +725,7 @@
           }
         ],
         "source": "combined",
-        "rank": 9
+        "rank": 10
       }
     },
     {
@@ -716,7 +772,7 @@
           }
         ],
         "source": "combined",
-        "rank": 10
+        "rank": 11
       }
     },
     {
@@ -738,8 +794,7 @@
       "matchMeta": {
         "title": "ブラッディダイスの殺人 上",
         "author": "M・W・クレイヴン",
-        "isbn": "",
-        "score": 171,
+        "score": 74,
         "sources": [
           {
             "source": "maruzen",
@@ -748,7 +803,8 @@
           }
         ],
         "source": "combined",
-        "rank": 31
+        "rank": 31,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "ブラッディダイスの殺人 上",
@@ -763,7 +819,7 @@
           }
         ],
         "source": "combined",
-        "rank": 11
+        "rank": 12
       }
     },
     {
@@ -810,7 +866,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12
+        "rank": 13
       }
     },
     {
@@ -857,7 +913,7 @@
           }
         ],
         "source": "combined",
-        "rank": 13
+        "rank": 14
       }
     },
     {
@@ -904,7 +960,7 @@
           }
         ],
         "source": "combined",
-        "rank": 14
+        "rank": 15
       }
     },
     {
@@ -951,7 +1007,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15
+        "rank": 16
       }
     },
     {
@@ -998,7 +1054,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16
+        "rank": 17
       }
     },
     {
@@ -1045,7 +1101,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17
+        "rank": 18
       }
     },
     {
@@ -1092,7 +1148,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18
+        "rank": 19
       }
     },
     {
@@ -1139,7 +1195,7 @@
           }
         ],
         "source": "combined",
-        "rank": 19
+        "rank": 20
       }
     },
     {
@@ -1186,7 +1242,7 @@
           }
         ],
         "source": "combined",
-        "rank": 20
+        "rank": 21
       }
     },
     {
@@ -1230,53 +1286,6 @@
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
             "rank": 24
-          }
-        ],
-        "source": "combined",
-        "rank": 21
-      }
-    },
-    {
-      "id": "4410000009676",
-      "title": "営業実行学",
-      "author": "中内崇人",
-      "publisher": "ダイヤモンド社",
-      "price": 1980,
-      "url": "https://books.rakuten.co.jp/rk/9290b73162833f1c975620ad30b69697/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2017/2000021582017.jpg?_ex=600x600",
-      "caption": "変革が形骸化する原因を「定着負荷＜組織実行力」の不等式で解き明かし、精神論ではなく「科学」で現場を動かす『営業実行学』を解説した一冊。「変われなかった組織」が劇的に進化するプロセスを追った事例も多数掲載。新しい施策を導入しても現場が動かない、続かない……そんな組織の空回りに悩むリーダー必読の書です。\n",
-      "salesDate": "2026年08月26日",
-      "series": "",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101905004/101905003",
-      "isbn": "4410000009676",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "営業実行学 - やりきる組織は、設計できる",
-        "author": "",
-        "score": 6,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 26
-          }
-        ],
-        "source": "combined",
-        "rank": 69,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "営業実行学 - やりきる組織は、設計できる",
-        "author": "",
-        "isbn": "",
-        "score": 155,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 25
           }
         ],
         "source": "combined",
@@ -1331,6 +1340,53 @@
       }
     },
     {
+      "id": "4410000009676",
+      "title": "営業実行学",
+      "author": "中内崇人",
+      "publisher": "ダイヤモンド社",
+      "price": 1980,
+      "url": "https://books.rakuten.co.jp/rk/9290b73162833f1c975620ad30b69697/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2017/2000021582017.jpg?_ex=600x600",
+      "caption": "変革が形骸化する原因を「定着負荷＜組織実行力」の不等式で解き明かし、精神論ではなく「科学」で現場を動かす『営業実行学』を解説した一冊。「変われなかった組織」が劇的に進化するプロセスを追った事例も多数掲載。新しい施策を導入しても現場が動かない、続かない……そんな組織の空回りに悩むリーダー必読の書です。\n",
+      "salesDate": "2026年08月26日",
+      "series": "",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101905004/101905003",
+      "isbn": "4410000009676",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "営業実行学 - やりきる組織は、設計できる",
+        "author": "",
+        "isbn": "",
+        "score": 155,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 25
+          }
+        ],
+        "source": "combined",
+        "rank": 71
+      },
+      "ranking": {
+        "title": "営業実行学 - やりきる組織は、設計できる",
+        "author": "",
+        "isbn": "",
+        "score": 155,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 25
+          }
+        ],
+        "source": "combined",
+        "rank": 24
+      }
+    },
+    {
       "id": "4336195000320",
       "title": "異世界のんびり農家(17)",
       "author": "剣　康之/内藤　騎之介/やすも",
@@ -1347,9 +1403,10 @@
       "isbn": "4336195000320",
       "salesType": 0,
       "matchMeta": {
-        "title": "異世界のんびり農家 17",
+        "title": "異世界のんびり農家 17 (ドラゴンコミックスエイジ)",
         "author": "剣 康之",
-        "score": 6,
+        "isbn": "",
+        "score": 154,
         "sources": [
           {
             "source": "amazon",
@@ -1358,8 +1415,7 @@
           }
         ],
         "source": "combined",
-        "rank": 70,
-        "originalTitle": "異世界のんびり農家 17 (ドラゴンコミックスエイジ)"
+        "rank": 72
       },
       "ranking": {
         "title": "異世界のんびり農家 17 (ドラゴンコミックスエイジ)",
@@ -1374,7 +1430,7 @@
           }
         ],
         "source": "combined",
-        "rank": 24
+        "rank": 25
       }
     },
     {
@@ -1421,7 +1477,7 @@
           }
         ],
         "source": "combined",
-        "rank": 25
+        "rank": 26
       }
     },
     {
@@ -1468,7 +1524,7 @@
           }
         ],
         "source": "combined",
-        "rank": 26
+        "rank": 27
       }
     },
     {
@@ -1515,53 +1571,6 @@
           }
         ],
         "source": "combined",
-        "rank": 27
-      }
-    },
-    {
-      "id": "4390000016485",
-      "title": "帳の向こう",
-      "author": "國分功一郎/若林正恭",
-      "publisher": "文藝春秋",
-      "price": 1800,
-      "url": "https://books.rakuten.co.jp/rk/8757734913463c04b18adb23ecb05ddf/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3363/2000021713363.jpg?_ex=600x600",
-      "caption": "現代の生きづらさを語り合った４年間の記録\nオードリーの若林正恭さんがもっとも話したい相手は、哲学者の國分功一郎さんだった。\n「目的と手段」の社会は終わりつつある？\n資本主義の魔物に、どう立ち向かえばいい？\n現代で「快適」を求めるには、勇気が必要？\n二人が語り合った、現代への違和感のすべて。\n【目次】\nまえがき──どういうわけだか分からないが人間的な精神の仕組みに抗うことになってしまい……　　國分功一郎\n１　真犯人を捜して生きている\n２　目的もなく遊び続けろ\n３　ビッグモーター化する世界の中で\n４　やっとみんな疲れてきた\n５　ネオリベの帳を越えて\nあとがき　　若林正恭\n",
-      "salesDate": "2026年09月11日",
-      "series": "",
-      "reviewAverage": 0,
-      "reviewCount": 1,
-      "genreId": "101907015/101907007/101907002002",
-      "isbn": "4390000016485",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "帳の向こう",
-        "author": "",
-        "score": 5,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 30
-          }
-        ],
-        "source": "combined",
-        "rank": 74,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "帳の向こう",
-        "author": "",
-        "isbn": "",
-        "score": 150,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 30
-          }
-        ],
-        "source": "combined",
         "rank": 28
       }
     },
@@ -1584,8 +1593,7 @@
       "matchMeta": {
         "title": "キングダム 80",
         "author": "原 泰久",
-        "isbn": "",
-        "score": 150,
+        "score": 5,
         "sources": [
           {
             "source": "amazon",
@@ -1594,7 +1602,7 @@
           }
         ],
         "source": "combined",
-        "rank": 79,
+        "rank": 78,
         "originalTitle": "キングダム 80 (ヤングジャンプコミックス)"
       },
       "ranking": {
@@ -1611,6 +1619,54 @@
         ],
         "source": "combined",
         "rank": 29
+      }
+    },
+    {
+      "id": "4390000016485",
+      "title": "帳の向こう",
+      "author": "國分功一郎/若林正恭",
+      "publisher": "文藝春秋",
+      "price": 1800,
+      "url": "https://books.rakuten.co.jp/rk/8757734913463c04b18adb23ecb05ddf/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3363/2000021713363.jpg?_ex=600x600",
+      "caption": "現代の生きづらさを語り合った４年間の記録\nオードリーの若林正恭さんがもっとも話したい相手は、哲学者の國分功一郎さんだった。\n「目的と手段」の社会は終わりつつある？\n資本主義の魔物に、どう立ち向かえばいい？\n現代で「快適」を求めるには、勇気が必要？\n二人が語り合った、現代への違和感のすべて。\n【目次】\nまえがき──どういうわけだか分からないが人間的な精神の仕組みに抗うことになってしまい……　　國分功一郎\n１　真犯人を捜して生きている\n２　目的もなく遊び続けろ\n３　ビッグモーター化する世界の中で\n４　やっとみんな疲れてきた\n５　ネオリベの帳を越えて\nあとがき　　若林正恭\n",
+      "salesDate": "2026年09月11日",
+      "series": "",
+      "reviewAverage": 0,
+      "reviewCount": 1,
+      "genreId": "101907015/101907007/101907002002",
+      "isbn": "4390000016485",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "帳の向こう",
+        "author": "",
+        "isbn": "",
+        "score": 150,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 30
+          }
+        ],
+        "source": "combined",
+        "rank": 80,
+        "originalTitle": "帳の向こう"
+      },
+      "ranking": {
+        "title": "帳の向こう",
+        "author": "",
+        "isbn": "",
+        "score": 150,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 30
+          }
+        ],
+        "source": "combined",
+        "rank": 30
       }
     },
     {
@@ -1653,53 +1709,6 @@
             "source": "tohan",
             "label": "トーハン",
             "rank": 1
-          }
-        ],
-        "source": "combined",
-        "rank": 30,
-        "originalTitle": ""
-      }
-    },
-    {
-      "id": "4310000890409",
-      "title": "楽園",
-      "author": "夕木春央",
-      "publisher": "講談社",
-      "price": 1980,
-      "url": "https://books.rakuten.co.jp/rk/1a1c684dcee83b98b4d0187187c813d0/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1651/2000021221651.jpg?_ex=600x600",
-      "caption": "殺人犯にならなければ脱出できない。\n『方舟』『十戒』の著者が仕掛ける“禁忌の驚き”\n亡き両親から不動産を譲り受けた康之は、失踪した賃借人・海原の遺留品整理の際に、群馬の山奥の謎の物件の存在を知る。そこは、切り立った岩壁に囲まれた、「楽園」と呼ばれる奇妙な場所だった。恋人の沙織と一緒にそこを訪ね、探索をはじめた康之たちは、すぐに六人の“住人”に拿捕された。脱出のための条件はーー\n「誰か一人を殺さなければならない」\n『方舟』\n第19回オリコン上半期”本”ランキング　文庫ランキングTOP10 第1位\n週刊文春ミステリーベスト10　第1位　（「週刊文春」2022年12月8日号）国内部門\nMRC大賞2022　第1位\n『方舟』＋『十戒』の累計発行部数が100万部突破。\nーー夕木春央が描く、極限のクローズド・サークル。\n",
-      "salesDate": "2026年07月22日",
-      "series": "楽園",
-      "reviewAverage": 4.2,
-      "reviewCount": 364,
-      "genreId": "101902",
-      "isbn": "4310000890409",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "楽園",
-        "author": "夕木春央",
-        "score": 94,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
-          }
-        ],
-        "source": "combined",
-        "rank": 12,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "楽園",
-        "author": "夕木春央",
-        "score": 94,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
           }
         ],
         "source": "combined",
@@ -1805,7 +1814,8 @@
   "byGenre": {
     "fiction": [
       "4340008067611",
-      "4340008067051",
+      "4916475490001",
+      "4331000700320",
       "4910000909001",
       "4390000005636",
       "4770025390000",
@@ -1813,10 +1823,10 @@
       "4480000838415"
     ],
     "mystery": [
+      "4916475490001",
       "4390000005636",
       "4620000615075",
-      "4620000615076",
-      "4310000890409"
+      "4620000615076"
     ],
     "sf": [],
     "business": [
@@ -1865,7 +1875,7 @@
   },
   "genreStatus": {
     "fiction": {
-      "matched": 7,
+      "matched": 8,
       "complete": true
     },
     "mystery": {

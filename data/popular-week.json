@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-09-15T17:34:04.992Z",
+  "updatedAt": "2026-09-15T22:02:47.258Z",
   "candidateCount": 80,
   "baseMatched": 23,
-  "matched": 33,
-  "addedMatches": 10,
+  "matched": 32,
+  "addedMatches": 9,
   "unavailable": [
     "rakuten"
   ],
@@ -122,12 +122,6 @@
           "author": "M・W・クレイヴン",
           "isbn": "",
           "rank": 9
-        },
-        {
-          "title": "ブラッディダイスの殺人 下",
-          "author": "M・W・クレイヴン",
-          "isbn": "",
-          "rank": 10
         }
       ]
     },
@@ -368,8 +362,7 @@
       "matchMeta": {
         "title": "幽冥の岸 十二国記",
         "author": "小野不由美",
-        "isbn": "",
-        "score": 178,
+        "score": 102,
         "sources": [
           {
             "source": "amazon",
@@ -378,7 +371,7 @@
           }
         ],
         "source": "combined",
-        "rank": 5,
+        "rank": 8,
         "originalTitle": "幽冥の岸 十二国記 (新潮文庫 お 37-66)"
       },
       "ranking": {
@@ -398,20 +391,20 @@
       }
     },
     {
-      "id": "4916475490001",
-      "title": "プレゼント",
-      "author": "若竹七海",
-      "publisher": "中央公論新社",
-      "price": 776,
-      "url": "https://books.rakuten.co.jp/rk/9fe631efeb0f3eb0a09ce80197395709/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1444/2000007701444.jpg?_ex=600x600",
-      "caption": "ルーム・クリーナー、電話相談、興信所。トラブルメイカーのフリーター・葉村晶と、娘に借りたピンクの子供用自転車で現場に駆けつける小林警部補。二人が巻き込まれたハードボイルドで悲しい八つの事件とはーー。間抜けだが悪気のない隣人たちがひき起こす騒動はいつも危険すぎる！\n",
-      "salesDate": "2019年08月30日",
-      "series": "プレゼント",
-      "reviewAverage": 3.52,
-      "reviewCount": 92,
-      "genreId": "101901/101902",
-      "isbn": "4916475490001",
+      "id": "4340008067051",
+      "title": "プレゼント（新潮文庫）",
+      "author": "伊坂幸太郎/江國香織/恩田陸/梨木香歩/町田そのこ/宮部みゆき/米澤穂信",
+      "publisher": "新潮社",
+      "price": 825,
+      "url": "https://books.rakuten.co.jp/rk/e8a60fd88eb63075a76e50e52cf98712/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8962/2000020598962.jpg?_ex=600x600",
+      "caption": "これはこれまで小説を愛してきてくれた人へ、そしてこれから小説の世界に一歩踏み出す人へ贈るプレゼント。何気なく読んだ物語が、ふと目にした一行が、意外な言葉ひとつが、人生を大きく変えるかもしれない。現代を代表する７人の作家が「夏」をテーマに書き下ろした、驚きと切なさ、怖さと美しさ、何よりとびきりの面白さを詰め込んだ奇跡の一冊。さぁ、あなたの人生に小説という選択肢を。\n",
+      "salesDate": "2026年06月24日",
+      "series": "",
+      "reviewAverage": 3.88,
+      "reviewCount": 318,
+      "genreId": "101901",
+      "isbn": "4340008067051",
       "salesType": 0,
       "matchMeta": {
         "title": "プレゼント",
@@ -521,8 +514,7 @@
           }
         ],
         "source": "combined",
-        "rank": 13,
-        "originalTitle": "ギャルにひかれて寺マルシェ"
+        "rank": 13
       },
       "ranking": {
         "title": "ギャルにひかれて寺マルシェ",
@@ -747,7 +739,8 @@
       "matchMeta": {
         "title": "Casa BRUTUS(カーサ ブルータス) 2026年 10月号[ソウル・ライフスタイル・ガイド]",
         "author": "CasaBRUTUS編集部",
-        "score": 78,
+        "isbn": "",
+        "score": 172,
         "sources": [
           {
             "source": "amazon",
@@ -756,8 +749,7 @@
           }
         ],
         "source": "combined",
-        "rank": 30,
-        "originalTitle": ""
+        "rank": 26
       },
       "ranking": {
         "title": "Casa BRUTUS(カーサ ブルータス) 2026年 10月号[ソウル・ライフスタイル・ガイド]",
@@ -823,53 +815,6 @@
       }
     },
     {
-      "id": "4620000615076",
-      "title": "ブラッディダイスの殺人　下",
-      "author": "Ｍ Ｗ クレイヴン",
-      "publisher": "早川書房",
-      "price": 1210,
-      "url": "https://books.rakuten.co.jp/rk/eea149cbab90347eb70bdd38623e4df0/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9727/2000021429727.jpg?_ex=600x600",
-      "caption": "ポーとティリーが再びタッグを組む！　シリーズ累計30万部の最新作！\n英国全土で連続狙撃事件が発生。犠牲者は17人にのぼるも犯人の手がかりはなく、ポーとティリーは国家犯罪対策庁に呼び戻されるが\n",
-      "salesDate": "2026年08月19日",
-      "series": "ワシントン・ポー",
-      "reviewAverage": 4.78,
-      "reviewCount": 19,
-      "genreId": "101902",
-      "isbn": "4620000615076",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ブラッディダイスの殺人 下",
-        "author": "M・W・クレイヴン",
-        "score": 70,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 35,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "ブラッディダイスの殺人 下",
-        "author": "M・W・クレイヴン",
-        "isbn": "",
-        "score": 170,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 13
-      }
-    },
-    {
       "id": "7131315591790",
       "title": "オーイ！ とんぼ　第64巻",
       "author": "かわさき健/古沢優",
@@ -913,7 +858,7 @@
           }
         ],
         "source": "combined",
-        "rank": 14
+        "rank": 13
       }
     },
     {
@@ -960,7 +905,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15
+        "rank": 14
       }
     },
     {
@@ -992,7 +937,8 @@
           }
         ],
         "source": "combined",
-        "rank": 43
+        "rank": 43,
+        "originalTitle": "FOR OVERSEAS"
       },
       "ranking": {
         "title": "FOR OVERSEAS",
@@ -1007,7 +953,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16
+        "rank": 15
       }
     },
     {
@@ -1054,7 +1000,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17
+        "rank": 16
       }
     },
     {
@@ -1101,7 +1047,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18
+        "rank": 17
       }
     },
     {
@@ -1148,7 +1094,7 @@
           }
         ],
         "source": "combined",
-        "rank": 19
+        "rank": 18
       }
     },
     {
@@ -1195,7 +1141,7 @@
           }
         ],
         "source": "combined",
-        "rank": 20
+        "rank": 19
       }
     },
     {
@@ -1242,7 +1188,7 @@
           }
         ],
         "source": "combined",
-        "rank": 21
+        "rank": 20
       }
     },
     {
@@ -1289,7 +1235,7 @@
           }
         ],
         "source": "combined",
-        "rank": 22
+        "rank": 21
       }
     },
     {
@@ -1336,7 +1282,7 @@
           }
         ],
         "source": "combined",
-        "rank": 23
+        "rank": 22
       }
     },
     {
@@ -1358,17 +1304,17 @@
       "matchMeta": {
         "title": "営業実行学 - やりきる組織は、設計できる",
         "author": "",
-        "isbn": "",
-        "score": 155,
+        "score": 6,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 25
+            "rank": 26
           }
         ],
         "source": "combined",
-        "rank": 71
+        "rank": 69,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "営業実行学 - やりきる組織は、設計できる",
@@ -1383,7 +1329,7 @@
           }
         ],
         "source": "combined",
-        "rank": 24
+        "rank": 23
       }
     },
     {
@@ -1403,10 +1349,9 @@
       "isbn": "4336195000320",
       "salesType": 0,
       "matchMeta": {
-        "title": "異世界のんびり農家 17 (ドラゴンコミックスエイジ)",
+        "title": "異世界のんびり農家 17",
         "author": "剣 康之",
-        "isbn": "",
-        "score": 154,
+        "score": 6,
         "sources": [
           {
             "source": "amazon",
@@ -1415,7 +1360,8 @@
           }
         ],
         "source": "combined",
-        "rank": 72
+        "rank": 70,
+        "originalTitle": "異世界のんびり農家 17 (ドラゴンコミックスエイジ)"
       },
       "ranking": {
         "title": "異世界のんびり農家 17 (ドラゴンコミックスエイジ)",
@@ -1430,7 +1376,7 @@
           }
         ],
         "source": "combined",
-        "rank": 25
+        "rank": 24
       }
     },
     {
@@ -1477,54 +1423,7 @@
           }
         ],
         "source": "combined",
-        "rank": 26
-      }
-    },
-    {
-      "id": "7275000891118",
-      "title": "お願いしないで人を動かす　心のつかみ方",
-      "author": "高田洋平",
-      "publisher": "かんき出版",
-      "price": 1870,
-      "url": "https://books.rakuten.co.jp/rk/c07388c7726237d18adce0c2889b0424/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3314/2000021233314.jpg?_ex=600x600",
-      "caption": "成功する人は、人を巻き込む！\nいつも一人で頑張りすぎてしまう。\n人に頼るのが苦手。\n気づけば、全部自分で抱え込んで疲れ果ててしまう。\nそんなあなたのための一冊です。\n企画を立てても協力者が集まらない。\nイベントの集客が思うようにいかない。\n社内で新しい提案をしても、なかなか周りが動いてくれない。\n「お願いします」と頼んでも、どこか気を遣わせてしまう。\nでも、本当に必要なのは、お願いのうまさでも、話術でも、人脈でもありません。\n「この人を応援したい」\n「一緒にやりたい」\nそう思われる関係のつくり方を知ることです。\n本書では、350万円の赤字イベントという大失敗から学び、体系化した「応援共創4Cメソッド」を紹介します。\n本書を読むことで、あなたは次のような変化を手にできます。\nプロジェクトが驚くほどスムーズに進む\n「やらせてください」と仲間が自ら手を挙げるようになる\nイベントやサービスの集客が口コミで広がっていく\n社内でも自然と協力者が増え、企画が前に進む\n一人で抱え込まず、チームで成果を出せるようになる\n「お願いする人」ではなく、「応援される人」になれる\n本書で紹介するのは、心理テクニックや話し方のコツではありません。\n人との関係性を育て、応援が自然に集まり、協力が連鎖していく仕組みです。\n会社員として社内で新しい企画を進めたい人、起業家やフリーランスとしてファンや仲間を増やしたい人、地域活動やコミュニティを広げたい人まで、あらゆる立場で実践できます。\nもう、一人で頑張り続ける必要はありません。\n「お願いしなくても人が集まる」\n「一緒に夢を実現する仲間が増えていく」\nそんな新しい働き方、生き方への第一歩となる一冊です。\n",
-      "salesDate": "2026年09月03日",
-      "series": "お願いしないで人を動かす　心のつかみ方",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101905007001",
-      "isbn": "7275000891118",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "お願いしないで人を動かす 心のつかみ方",
-        "author": "",
-        "score": 5,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 29
-          }
-        ],
-        "source": "combined",
-        "rank": 73,
-        "originalTitle": "お願いしないで人を動かす　心のつかみ方"
-      },
-      "ranking": {
-        "title": "お願いしないで人を動かす 心のつかみ方",
-        "author": "",
-        "isbn": "",
-        "score": 151,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 29
-          }
-        ],
-        "source": "combined",
-        "rank": 27
+        "rank": 25
       }
     },
     {
@@ -1571,7 +1470,54 @@
           }
         ],
         "source": "combined",
-        "rank": 28
+        "rank": 26
+      }
+    },
+    {
+      "id": "7275000891118",
+      "title": "お願いしないで人を動かす　心のつかみ方",
+      "author": "高田洋平",
+      "publisher": "かんき出版",
+      "price": 1870,
+      "url": "https://books.rakuten.co.jp/rk/c07388c7726237d18adce0c2889b0424/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3314/2000021233314.jpg?_ex=600x600",
+      "caption": "成功する人は、人を巻き込む！\nいつも一人で頑張りすぎてしまう。\n人に頼るのが苦手。\n気づけば、全部自分で抱え込んで疲れ果ててしまう。\nそんなあなたのための一冊です。\n企画を立てても協力者が集まらない。\nイベントの集客が思うようにいかない。\n社内で新しい提案をしても、なかなか周りが動いてくれない。\n「お願いします」と頼んでも、どこか気を遣わせてしまう。\nでも、本当に必要なのは、お願いのうまさでも、話術でも、人脈でもありません。\n「この人を応援したい」\n「一緒にやりたい」\nそう思われる関係のつくり方を知ることです。\n本書では、350万円の赤字イベントという大失敗から学び、体系化した「応援共創4Cメソッド」を紹介します。\n本書を読むことで、あなたは次のような変化を手にできます。\nプロジェクトが驚くほどスムーズに進む\n「やらせてください」と仲間が自ら手を挙げるようになる\nイベントやサービスの集客が口コミで広がっていく\n社内でも自然と協力者が増え、企画が前に進む\n一人で抱え込まず、チームで成果を出せるようになる\n「お願いする人」ではなく、「応援される人」になれる\n本書で紹介するのは、心理テクニックや話し方のコツではありません。\n人との関係性を育て、応援が自然に集まり、協力が連鎖していく仕組みです。\n会社員として社内で新しい企画を進めたい人、起業家やフリーランスとしてファンや仲間を増やしたい人、地域活動やコミュニティを広げたい人まで、あらゆる立場で実践できます。\nもう、一人で頑張り続ける必要はありません。\n「お願いしなくても人が集まる」\n「一緒に夢を実現する仲間が増えていく」\nそんな新しい働き方、生き方への第一歩となる一冊です。\n",
+      "salesDate": "2026年09月03日",
+      "series": "お願いしないで人を動かす　心のつかみ方",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101905007001",
+      "isbn": "7275000891118",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "お願いしないで人を動かす 心のつかみ方",
+        "author": "",
+        "isbn": "",
+        "score": 151,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 29
+          }
+        ],
+        "source": "combined",
+        "rank": 78
+      },
+      "ranking": {
+        "title": "お願いしないで人を動かす 心のつかみ方",
+        "author": "",
+        "isbn": "",
+        "score": 151,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 29
+          }
+        ],
+        "source": "combined",
+        "rank": 27
       }
     },
     {
@@ -1618,7 +1564,7 @@
           }
         ],
         "source": "combined",
-        "rank": 29
+        "rank": 28
       }
     },
     {
@@ -1666,7 +1612,7 @@
           }
         ],
         "source": "combined",
-        "rank": 30
+        "rank": 29
       }
     },
     {
@@ -1712,7 +1658,7 @@
           }
         ],
         "source": "combined",
-        "rank": 31,
+        "rank": 30,
         "originalTitle": ""
       }
     },
@@ -1759,7 +1705,7 @@
           }
         ],
         "source": "combined",
-        "rank": 32,
+        "rank": 31,
         "originalTitle": ""
       }
     },
@@ -1806,7 +1752,7 @@
           }
         ],
         "source": "combined",
-        "rank": 33,
+        "rank": 32,
         "originalTitle": ""
       }
     }
@@ -1814,7 +1760,7 @@
   "byGenre": {
     "fiction": [
       "4340008067611",
-      "4916475490001",
+      "4340008067051",
       "4331000700320",
       "4910000909001",
       "4390000005636",
@@ -1823,10 +1769,8 @@
       "4480000838415"
     ],
     "mystery": [
-      "4916475490001",
       "4390000005636",
-      "4620000615075",
-      "4620000615076"
+      "4620000615075"
     ],
     "sf": [],
     "business": [
@@ -1879,7 +1823,7 @@
       "complete": true
     },
     "mystery": {
-      "matched": 4,
+      "matched": 2,
       "complete": true
     },
     "sf": {

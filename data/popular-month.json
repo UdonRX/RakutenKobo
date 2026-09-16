@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-09-15T22:03:03.439Z",
-  "candidateCount": 39,
-  "baseMatched": 13,
-  "matched": 16,
-  "addedMatches": 3,
+  "updatedAt": "2026-09-16T05:35:11.554Z",
+  "candidateCount": 40,
+  "baseMatched": 11,
+  "matched": 17,
+  "addedMatches": 6,
   "unavailable": [],
   "snapshots": {
     "kinokuniya": {
@@ -17,7 +17,7 @@
       "attribution": "紀伊國屋書店調べ",
       "sourceUrl": "https://www.kinokuniya.co.jp/disp/CKnRankingPageCList.jsp?dispNo=107002001001&vTp=m",
       "periodLabel": "マンスリー",
-      "updatedAt": "2026-09-15",
+      "updatedAt": "2026-09-16",
       "live": true,
       "items": [
         {
@@ -48,13 +48,7 @@
           "title": "会社四季報業界地図 〈２０２７年版〉",
           "author": "",
           "isbn": "",
-          "rank": 18
-        },
-        {
-          "title": "ファイア・ドーム 〈上〉",
-          "author": "",
-          "isbn": "",
-          "rank": 21
+          "rank": 17
         },
         {
           "title": "ギャルにひかれて寺マルシェ",
@@ -63,16 +57,10 @@
           "rank": 24
         },
         {
-          "title": "多類婚姻譚",
+          "title": "ファイア・ドーム 〈上〉",
           "author": "",
           "isbn": "",
-          "rank": 26
-        },
-        {
-          "title": "つかめ！理科ダマン 〈１２〉 最強ロボット決戦！編",
-          "author": "",
-          "isbn": "",
-          "rank": 28
+          "rank": 25
         }
       ]
     },
@@ -82,7 +70,7 @@
       "attribution": "トーハン調べ",
       "sourceUrl": "https://www.tohan.jp/bestsellers/2026_08_monthly/",
       "periodLabel": "月間",
-      "updatedAt": "2026-09-15",
+      "updatedAt": "2026-09-16",
       "live": true,
       "items": [
         {
@@ -98,10 +86,10 @@
           "rank": 5
         },
         {
-          "title": "地球の歩き方 スター･ウォーズ",
+          "title": "キングダム magazine 2026",
           "author": "",
           "isbn": "",
-          "rank": 9
+          "rank": 10
         },
         {
           "title": "FOR OVERSEAS",
@@ -113,58 +101,6 @@
     }
   },
   "items": [
-    {
-      "id": "6681311679960",
-      "title": "つかめ！理科ダマン 12 最強ロボット決戦！編",
-      "author": "シン・テフン/ナ・スンフン/呉華順",
-      "publisher": "マガジンハウス",
-      "price": 1320,
-      "url": "https://books.rakuten.co.jp/rk/d5144a342674388cb89766522b26d5f0/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6738/2000021036738.jpg?_ex=600x600",
-      "caption": "■注目のシリーズ第12巻は、ロボット世界大会の決戦編！■\n恐竜ロボット大会の勝者を決める決戦がいよいよ始まる！\nシンとグゥのチームが戦うライバルチームに、弱点はあるのか!?\n優勝を目指すシンたちといっしょに\nプログラミングやA I、恐竜にまつわる19の疑問が楽しく学べます。\n★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★\n＼＼日韓でシリーズ累計400万部／／\n理科のテストで100点取れちゃう！！\n「笑いながら理科の知識が学べるところが大好きです」\n「子供が夢中になって読んでいます」\n「身近な“どうして？”をわかりやすく説明されていて、子供も大人も楽しめます」\n……とクチコミで話題沸騰!!\n★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★\nギャグ満載の超オモシロまんがで\n小学校の理科の知識がスイスイ身につく！！\nそして、科学と読書がどんどん好きになる！！\n《こんな疑問に答えます》\n◎アルゴリズムってなに？\n◎フローチャートってなに？\n◎コンピュータはどうやってプログラミング言語を理解している？\n◎座標ってなに？\n◎ロボットは人間より賢くなれる？\n◎コンピュータに虫がいる？　\n◎翼竜は恐竜か？　……etc.\n",
-      "salesDate": "2026年07月16日",
-      "series": "つかめ！理科ダマン",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101908004/101906006/101906001009",
-      "isbn": "6681311679960",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "つかめ!理科ダマン 〈12〉 最強ロボット決戦!編",
-        "author": "",
-        "score": 5,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 28
-          }
-        ],
-        "source": "combined",
-        "rank": 34,
-        "originalTitle": "つかめ！理科ダマン 〈１２〉 最強ロボット決戦！編"
-      },
-      "ranking": {
-        "title": "つかめ！理科ダマン 〈１２〉 最強ロボット決戦！編",
-        "author": "",
-        "isbn": "",
-        "score": 327,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 28
-          },
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 5
-          }
-        ],
-        "source": "combined",
-        "rank": 1
-      }
-    },
     {
       "id": "4380000407898",
       "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
@@ -193,7 +129,7 @@
           }
         ],
         "source": "combined",
-        "rank": 7,
+        "rank": 6,
         "originalTitle": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書"
       },
       "ranking": {
@@ -209,7 +145,7 @@
           }
         ],
         "source": "combined",
-        "rank": 2
+        "rank": 1
       }
     },
     {
@@ -241,7 +177,7 @@
           }
         ],
         "source": "combined",
-        "rank": 9,
+        "rank": 8,
         "originalTitle": "ハヤブサ消防団 森へつづく道"
       },
       "ranking": {
@@ -257,7 +193,7 @@
           }
         ],
         "source": "combined",
-        "rank": 3
+        "rank": 2
       }
     },
     {
@@ -304,54 +240,55 @@
           }
         ],
         "source": "combined",
-        "rank": 4
+        "rank": 3
       }
     },
     {
-      "id": "9784059239659",
-      "title": "地球の歩き方 スター・ウォーズ",
-      "author": "",
-      "publisher": "地球の歩き方",
-      "price": 2750,
-      "url": "https://books.rakuten.co.jp/rk/40558a21970c38b8891b35aee564d356/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9941/2000020489941.jpg?_ex=600x600",
-      "caption": "銀河の果てまで旅するように、物語の舞台を歩く……。\n『スター・ウォーズ』の世界を「地球の歩き方」ならではの旅行ガイドスタイルでひもとく、スペシャルブックが登場！\nもしあなたが『スター・ウォーズ』の世界を訪れることになっても、本書があれば安心。劇場公開作品を中心に、ストーリーの流れや主要キャラクターの魅力を、心に残る名シーンとともにしっかりおさらいできます。さらに、モデルプランや旅のテクニックなど、ファン心をくすぐるコンテンツも充実。\n作品世界をより深く理解し、楽しむための情報を厳選して収録した、ファン必携の永久保存版です。\n※予告なく一部内容が変更される可能性もあります。予めご了承ください。\n※電子版では、紙のガイドブックと内容が一部異なります。掲載されない写真や図版、収録されないページがある場合があります。あらかじめご了承下さい。\n",
-      "salesDate": "2026年07月29日",
-      "series": "",
-      "reviewAverage": 4.33,
-      "reviewCount": 3,
-      "genreId": "101911",
-      "isbn": "9784059239659",
+      "id": "6681311679960",
+      "title": "つかめ！理科ダマン 12 最強ロボット決戦！編",
+      "author": "シン・テフン/ナ・スンフン/呉華順",
+      "publisher": "マガジンハウス",
+      "price": 1320,
+      "url": "https://books.rakuten.co.jp/rk/d5144a342674388cb89766522b26d5f0/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6738/2000021036738.jpg?_ex=600x600",
+      "caption": "■注目のシリーズ第12巻は、ロボット世界大会の決戦編！■\n恐竜ロボット大会の勝者を決める決戦がいよいよ始まる！\nシンとグゥのチームが戦うライバルチームに、弱点はあるのか!?\n優勝を目指すシンたちといっしょに\nプログラミングやA I、恐竜にまつわる19の疑問が楽しく学べます。\n★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★\n＼＼日韓でシリーズ累計400万部／／\n理科のテストで100点取れちゃう！！\n「笑いながら理科の知識が学べるところが大好きです」\n「子供が夢中になって読んでいます」\n「身近な“どうして？”をわかりやすく説明されていて、子供も大人も楽しめます」\n……とクチコミで話題沸騰!!\n★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★\nギャグ満載の超オモシロまんがで\n小学校の理科の知識がスイスイ身につく！！\nそして、科学と読書がどんどん好きになる！！\n《こんな疑問に答えます》\n◎アルゴリズムってなに？\n◎フローチャートってなに？\n◎コンピュータはどうやってプログラミング言語を理解している？\n◎座標ってなに？\n◎ロボットは人間より賢くなれる？\n◎コンピュータに虫がいる？　\n◎翼竜は恐竜か？　……etc.\n",
+      "salesDate": "2026年07月16日",
+      "series": "つかめ！理科ダマン",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101908004/101906006/101906001009",
+      "isbn": "6681311679960",
       "salesType": 0,
       "matchMeta": {
-        "title": "地球の歩き方 スター･ウォーズ",
+        "title": "つかめ!理科ダマン 12 最強ロボット決戦!編",
         "author": "",
         "isbn": "",
-        "score": 171,
+        "score": 175,
         "sources": [
           {
             "source": "tohan",
             "label": "トーハン",
-            "rank": 9
+            "rank": 5
           }
         ],
         "source": "combined",
-        "rank": 16
+        "rank": 10,
+        "originalTitle": "つかめ!理科ダマン 12 最強ロボット決戦!編"
       },
       "ranking": {
-        "title": "地球の歩き方 スター･ウォーズ",
+        "title": "つかめ!理科ダマン 12 最強ロボット決戦!編",
         "author": "",
         "isbn": "",
-        "score": 171,
+        "score": 175,
         "sources": [
           {
             "source": "tohan",
             "label": "トーハン",
-            "rank": 9
+            "rank": 5
           }
         ],
         "source": "combined",
-        "rank": 5
+        "rank": 4
       }
     },
     {
@@ -403,6 +340,53 @@
           }
         ],
         "source": "combined",
+        "rank": 5
+      }
+    },
+    {
+      "id": "4972000161524",
+      "title": "キングダム magazine 2026",
+      "author": "原泰久",
+      "publisher": "集英社",
+      "price": 1881,
+      "url": "https://books.rakuten.co.jp/rk/47fb09e2be1731b4a06b3f70f3466419/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2094/2000021122094.jpg?_ex=600x600",
+      "caption": "キングダム連載20周年を記念して、読むたびにアツくなる！　語りたくなる!!　キングダムを楽しみ尽くす一冊!!　読切『金剛』掲載。『キングダム』の原点、主人公・信が誕生した幻の読切を再掲。原泰久3大インタビュー。・20周年スペシャル単独インタビュー　・原泰久×松原利光（YJ連載『ガス灯野良犬探偵団』作画）×笠原真樹（ビッグコミックスピリッツ連載『夢なし先生の進路指導』） 師弟鼎談　・ちばてつや×原泰久特別対談。　大特集『キングダム』二十年の軌跡。様々な角度から連載20年を振り返る大特集。その他、映画、アニメ、ゲーム、キングダムの20年が凝縮された企画盛り沢山の240ページ。　※電子版には3大アプリゲーム特典コードはつきません。\n",
+      "salesDate": "2026年08月19日",
+      "series": "キングダム magazine 2026",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904002006",
+      "isbn": "4972000161524",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "キングダム magazine 2026",
+        "author": "",
+        "isbn": "",
+        "score": 170,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 18
+      },
+      "ranking": {
+        "title": "キングダム magazine 2026",
+        "author": "",
+        "isbn": "",
+        "score": 170,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
         "rank": 6
       }
     },
@@ -435,8 +419,7 @@
           }
         ],
         "source": "combined",
-        "rank": 22,
-        "originalTitle": "FOR OVERSEAS"
+        "rank": 22
       },
       "ranking": {
         "title": "FOR OVERSEAS",
@@ -471,9 +454,10 @@
       "isbn": "4340008066911",
       "salesType": 0,
       "matchMeta": {
-        "title": "夏帆 - The Tale of KAHO",
+        "title": "夏帆 - Ｔｈｅ Ｔａｌｅ ｏｆ ＫＡＨＯ",
         "author": "",
-        "score": 46,
+        "isbn": "",
+        "score": 164,
         "sources": [
           {
             "source": "kinokuniya",
@@ -482,8 +466,7 @@
           }
         ],
         "source": "combined",
-        "rank": 24,
-        "originalTitle": "夏帆 - Ｔｈｅ　Ｔａｌｅ　ｏｆ　ＫＡＨＯ"
+        "rank": 26
       },
       "ranking": {
         "title": "夏帆 - Ｔｈｅ Ｔａｌｅ ｏｆ ＫＡＨＯ",
@@ -518,86 +501,34 @@
       "isbn": "4659733601001",
       "salesType": 0,
       "matchMeta": {
-        "title": "会社四季報業界地図 〈2027年版〉",
+        "title": "会社四季報業界地図 〈２０２７年版〉",
         "author": "",
-        "score": 38,
+        "isbn": "",
+        "score": 163,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 18
+            "rank": 17
           }
         ],
         "source": "combined",
-        "rank": 26,
-        "originalTitle": "会社四季報業界地図 〈２０２７年版〉"
+        "rank": 27
       },
       "ranking": {
         "title": "会社四季報業界地図 〈２０２７年版〉",
         "author": "",
         "isbn": "",
-        "score": 162,
+        "score": 163,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 18
+            "rank": 17
           }
         ],
         "source": "combined",
         "rank": 9
-      }
-    },
-    {
-      "id": "4320000865495",
-      "title": "ファイア・ドーム 上",
-      "author": "辻村深月",
-      "publisher": "小学館",
-      "price": 1881,
-      "url": "https://books.rakuten.co.jp/rk/22c26517c9353107819b56539afa6896/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1853/2000020771853.jpg?_ex=600x600",
-      "caption": "人はなぜ大きな事件に魅了されてしまうのか。\n噂は、軽薄な娯楽だ。\n25年前、平穏だったはずの地方都市は、百貨店受付嬢誘拐殺人事件の発生、その報道により揺り動かされ、「噂」という大量の炎が、加害者のみならず被害者にも降り注ぎ、燃えさかった。ようやく静けさを取り戻したかに見える町に燻り続ける因縁が、いま新たな事件を呼び起こすーー。\n「もう言われてるよ！　どうせ、親が殺したんだろうって！」ーー本文より\n",
-      "salesDate": "2026年06月05日",
-      "series": "ファイア・ドーム",
-      "reviewAverage": 4.56,
-      "reviewCount": 389,
-      "genreId": "101901/101902",
-      "isbn": "4320000865495",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ファイア・ドーム 上",
-        "author": "辻村深月",
-        "score": 128,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 2
-          },
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 21
-          }
-        ],
-        "source": "combined",
-        "rank": 3,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "ファイア・ドーム 〈上〉",
-        "author": "",
-        "isbn": "",
-        "score": 159,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 21
-          }
-        ],
-        "source": "combined",
-        "rank": 10
       }
     },
     {
@@ -628,7 +559,7 @@
           }
         ],
         "source": "combined",
-        "rank": 31,
+        "rank": 32,
         "originalTitle": ""
       },
       "ranking": {
@@ -644,59 +575,59 @@
           }
         ],
         "source": "combined",
-        "rank": 11
+        "rank": 10
       }
     },
     {
-      "id": "4310000858457",
-      "title": "多類婚姻譚",
-      "author": "凪良ゆう",
-      "publisher": "講談社",
-      "price": 2090,
-      "url": "https://books.rakuten.co.jp/rk/35543b7edf2e30ee99d978d6e6e59bdd/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9189/2000020649189.jpg?_ex=600x600",
-      "caption": "一緒に生きる。わかりあえないあなたと。\n一番近くにいる他人ーこいびとー。どうして結婚はこんなに難しくなってしまったのだろう。\n『流浪の月』『汝、星のごとく』で二度の本屋大賞を受賞した著者が描く、今そこにある愛のかたち。\nセクシュアリティ/ジェンダー、金銭感覚、世代間格差、成育環境……\nあらゆる価値観の対立の中で現代を生きるわたしたちの祈りと叫び。\n【凪良ゆう　コメント】\n「文芸書としては『星を編む』から２年半、ようやく新刊をお届けできます。\n今作は結婚について。\n婚姻譚と銘打ちながらも、婚姻への道のりがはてしなく遠い!!　これは果たして婚姻譚と言えるのか、と担当さん達と首をかしげる場面もありました。\n読んでくださった方たちと”現代の結婚”について語り合ってみたいです。」\n【収録作　紹介】\n「Thank you for your understanding」\n家族の期待に応え、ついに恋人と帰省する決意を固めた華。\n「Beautiful Dreamer」\n結婚したい。ありふれた夢のはずなのに、東京ではこんなにも遠い。\n「小鳥たち」\n離婚して、実家の書店を継いだ一葉。そこに偶然、初恋の人がやって来てーー。\n「Position Talk」\n入籍を目前にした男女。性差を越え、個としてわかり合える日は来るのか。\n「C'est la vie」\n仕事も恋も、魂を分けあった二人。だが、夢のような時間にはいつか終わりが来る。\n",
-      "salesDate": "2026年05月26日",
-      "series": "多類婚姻譚",
-      "reviewAverage": 4.24,
-      "reviewCount": 524,
-      "genreId": "101901",
-      "isbn": "4310000858457",
+      "id": "4320000865495",
+      "title": "ファイア・ドーム 上",
+      "author": "辻村深月",
+      "publisher": "小学館",
+      "price": 1881,
+      "url": "https://books.rakuten.co.jp/rk/22c26517c9353107819b56539afa6896/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1853/2000020771853.jpg?_ex=600x600",
+      "caption": "人はなぜ大きな事件に魅了されてしまうのか。\n噂は、軽薄な娯楽だ。\n25年前、平穏だったはずの地方都市は、百貨店受付嬢誘拐殺人事件の発生、その報道により揺り動かされ、「噂」という大量の炎が、加害者のみならず被害者にも降り注ぎ、燃えさかった。ようやく静けさを取り戻したかに見える町に燻り続ける因縁が、いま新たな事件を呼び起こすーー。\n「もう言われてるよ！　どうせ、親が殺したんだろうって！」ーー本文より\n",
+      "salesDate": "2026年06月05日",
+      "series": "ファイア・ドーム",
+      "reviewAverage": 4.56,
+      "reviewCount": 389,
+      "genreId": "101901/101902",
+      "isbn": "4320000865495",
       "salesType": 0,
       "matchMeta": {
-        "title": "多類婚姻譚",
-        "author": "凪良ゆう",
-        "score": 96,
+        "title": "ファイア・ドーム 上",
+        "author": "辻村深月",
+        "score": 112,
         "sources": [
           {
             "source": "tohan",
             "label": "トーハン",
-            "rank": 5
+            "rank": 2
           },
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 26
+            "rank": 25
           }
         ],
         "source": "combined",
-        "rank": 4,
+        "rank": 3,
         "originalTitle": ""
       },
       "ranking": {
-        "title": "多類婚姻譚",
+        "title": "ファイア・ドーム 〈上〉",
         "author": "",
         "isbn": "",
-        "score": 154,
+        "score": 155,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 26
+            "rank": 25
           }
         ],
         "source": "combined",
-        "rank": 12
+        "rank": 11
       }
     },
     {
@@ -727,7 +658,7 @@
           }
         ],
         "source": "combined",
-        "rank": 5,
+        "rank": 4,
         "originalTitle": ""
       },
       "ranking": {
@@ -742,7 +673,7 @@
           }
         ],
         "source": "combined",
-        "rank": 13,
+        "rank": 12,
         "originalTitle": ""
       }
     },
@@ -774,7 +705,7 @@
           }
         ],
         "source": "combined",
-        "rank": 8,
+        "rank": 7,
         "originalTitle": ""
       },
       "ranking": {
@@ -789,7 +720,101 @@
           }
         ],
         "source": "combined",
+        "rank": 13,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "4310000858457",
+      "title": "多類婚姻譚",
+      "author": "凪良ゆう",
+      "publisher": "講談社",
+      "price": 2090,
+      "url": "https://books.rakuten.co.jp/rk/35543b7edf2e30ee99d978d6e6e59bdd/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9189/2000020649189.jpg?_ex=600x600",
+      "caption": "一緒に生きる。わかりあえないあなたと。\n一番近くにいる他人ーこいびとー。どうして結婚はこんなに難しくなってしまったのだろう。\n『流浪の月』『汝、星のごとく』で二度の本屋大賞を受賞した著者が描く、今そこにある愛のかたち。\nセクシュアリティ/ジェンダー、金銭感覚、世代間格差、成育環境……\nあらゆる価値観の対立の中で現代を生きるわたしたちの祈りと叫び。\n【凪良ゆう　コメント】\n「文芸書としては『星を編む』から２年半、ようやく新刊をお届けできます。\n今作は結婚について。\n婚姻譚と銘打ちながらも、婚姻への道のりがはてしなく遠い!!　これは果たして婚姻譚と言えるのか、と担当さん達と首をかしげる場面もありました。\n読んでくださった方たちと”現代の結婚”について語り合ってみたいです。」\n【収録作　紹介】\n「Thank you for your understanding」\n家族の期待に応え、ついに恋人と帰省する決意を固めた華。\n「Beautiful Dreamer」\n結婚したい。ありふれた夢のはずなのに、東京ではこんなにも遠い。\n「小鳥たち」\n離婚して、実家の書店を継いだ一葉。そこに偶然、初恋の人がやって来てーー。\n「Position Talk」\n入籍を目前にした男女。性差を越え、個としてわかり合える日は来るのか。\n「C'est la vie」\n仕事も恋も、魂を分けあった二人。だが、夢のような時間にはいつか終わりが来る。\n",
+      "salesDate": "2026年05月26日",
+      "series": "多類婚姻譚",
+      "reviewAverage": 4.24,
+      "reviewCount": 524,
+      "genreId": "101901",
+      "isbn": "4310000858457",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "多類婚姻譚",
+        "author": "凪良ゆう",
+        "score": 90,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
+        "rank": 11,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "多類婚姻譚",
+        "author": "凪良ゆう",
+        "score": 90,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
         "rank": 14,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "4390000015358",
+      "title": "青天",
+      "author": "若林正恭",
+      "publisher": "文藝春秋",
+      "price": 1900,
+      "url": "https://books.rakuten.co.jp/rk/a6fc1b8794af3eafb7f064fac9c68dfa/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0144/2000019330144.jpg?_ex=600x600",
+      "caption": "オードリー・若林正恭、初小説！\n人にぶつかっていないと、自分が生きているかどうかよくわからなくなるーー\n総大三高の「アリ」こと中村昴が所属するアメフト部は、万年２回戦どまり。相手校の練習を隠し撮りして迎えた高３の引退大会では、強豪・遼西学園に打ち破れた。引退後、みなが受験に向かうなか、勉強にも気持ちが入らず、不良になる覚悟もないまま宙ぶらりんの日々を過ごす。自分自身の不甲斐なさにもがき続けるなかで、アリは再びアメフトと向き合う決意を固める。\n青春の苦みと悦びに満ちた、著者渾身の初小説。\n",
+      "salesDate": "2026年02月20日",
+      "series": "",
+      "reviewAverage": 4.03,
+      "reviewCount": 563,
+      "genreId": "101901",
+      "isbn": "4390000015358",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "青天",
+        "author": "若林正恭",
+        "score": 78,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 15,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "青天",
+        "author": "若林正恭",
+        "score": 78,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 15,
         "originalTitle": ""
       }
     },
@@ -821,7 +846,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17,
+        "rank": 16,
         "originalTitle": ""
       },
       "ranking": {
@@ -836,7 +861,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15,
+        "rank": 16,
         "originalTitle": ""
       }
     },
@@ -883,7 +908,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16,
+        "rank": 17,
         "originalTitle": ""
       }
     }
@@ -893,11 +918,12 @@
       "4820000903843",
       "4660629612104",
       "4340008066911",
-      "4320000865495",
       "4331000700320",
-      "4310000858457",
+      "4320000865495",
       "4320000867368",
-      "4320000865494"
+      "4320000865494",
+      "4310000858457",
+      "4390000015358"
     ],
     "mystery": [
       "4820000903843",
@@ -927,9 +953,7 @@
     ],
     "health": [],
     "hobby": [],
-    "travel": [
-      "9784059239659"
-    ],
+    "travel": [],
     "language": [
       "6681311679960"
     ],
@@ -937,11 +961,13 @@
     "essay": [
       "4320000867368"
     ],
-    "comic": []
+    "comic": [
+      "4972000161524"
+    ]
   },
   "genreStatus": {
     "fiction": {
-      "matched": 8,
+      "matched": 9,
       "complete": true
     },
     "mystery": {
@@ -985,7 +1011,7 @@
       "complete": true
     },
     "travel": {
-      "matched": 1,
+      "matched": 0,
       "complete": true
     },
     "language": {
@@ -1001,7 +1027,7 @@
       "complete": true
     },
     "comic": {
-      "matched": 0,
+      "matched": 1,
       "complete": true
     }
   }

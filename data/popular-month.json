@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-09-16T17:32:59.939Z",
+  "updatedAt": "2026-09-16T21:58:49.506Z",
   "candidateCount": 40,
-  "baseMatched": 12,
+  "baseMatched": 9,
   "matched": 17,
-  "addedMatches": 5,
+  "addedMatches": 8,
   "unavailable": [],
   "snapshots": {
     "kinokuniya": {
@@ -90,6 +90,12 @@
           "author": "",
           "isbn": "",
           "rank": 9
+        },
+        {
+          "title": "キングダム magazine 2026",
+          "author": "",
+          "isbn": "",
+          "rank": 10
         },
         {
           "title": "FOR OVERSEAS",
@@ -307,7 +313,7 @@
       "isbn": "9784059239659",
       "salesType": 0,
       "matchMeta": {
-        "title": "地球の歩き方 スター･ウォーズ",
+        "title": "地球の歩き方 スター・ウォーズ",
         "author": "",
         "isbn": "",
         "score": 171,
@@ -319,7 +325,8 @@
           }
         ],
         "source": "combined",
-        "rank": 16
+        "rank": 16,
+        "originalTitle": "地球の歩き方 スター･ウォーズ"
       },
       "ranking": {
         "title": "地球の歩き方 スター･ウォーズ",
@@ -335,6 +342,54 @@
         ],
         "source": "combined",
         "rank": 5
+      }
+    },
+    {
+      "id": "4972000161524",
+      "title": "キングダム magazine 2026",
+      "author": "原泰久",
+      "publisher": "集英社",
+      "price": 1881,
+      "url": "https://books.rakuten.co.jp/rk/47fb09e2be1731b4a06b3f70f3466419/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2094/2000021122094.jpg?_ex=600x600",
+      "caption": "キングダム連載20周年を記念して、読むたびにアツくなる！　語りたくなる!!　キングダムを楽しみ尽くす一冊!!　読切『金剛』掲載。『キングダム』の原点、主人公・信が誕生した幻の読切を再掲。原泰久3大インタビュー。・20周年スペシャル単独インタビュー　・原泰久×松原利光（YJ連載『ガス灯野良犬探偵団』作画）×笠原真樹（ビッグコミックスピリッツ連載『夢なし先生の進路指導』） 師弟鼎談　・ちばてつや×原泰久特別対談。　大特集『キングダム』二十年の軌跡。様々な角度から連載20年を振り返る大特集。その他、映画、アニメ、ゲーム、キングダムの20年が凝縮された企画盛り沢山の240ページ。　※電子版には3大アプリゲーム特典コードはつきません。\n",
+      "salesDate": "2026年08月19日",
+      "series": "キングダム magazine 2026",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904002006",
+      "isbn": "4972000161524",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "キングダム magazine 2026",
+        "author": "",
+        "isbn": "",
+        "score": 170,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 18,
+        "originalTitle": "キングダム magazine 2026"
+      },
+      "ranking": {
+        "title": "キングダム magazine 2026",
+        "author": "",
+        "isbn": "",
+        "score": 170,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 6
       }
     },
     {
@@ -355,14 +410,10 @@
       "salesType": 0,
       "matchMeta": {
         "title": "イン・ザ・メガチャーチ",
-        "author": "朝井リョウ",
-        "score": 152,
+        "author": "",
+        "isbn": "",
+        "score": 170,
         "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 7
-          },
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
@@ -370,8 +421,7 @@
           }
         ],
         "source": "combined",
-        "rank": 2,
-        "originalTitle": ""
+        "rank": 17
       },
       "ranking": {
         "title": "イン・ザ・メガチャーチ",
@@ -386,7 +436,7 @@
           }
         ],
         "source": "combined",
-        "rank": 6
+        "rank": 7
       }
     },
     {
@@ -434,7 +484,7 @@
           }
         ],
         "source": "combined",
-        "rank": 7
+        "rank": 8
       }
     },
     {
@@ -454,9 +504,10 @@
       "isbn": "4340008066911",
       "salesType": 0,
       "matchMeta": {
-        "title": "夏帆 - The Tale of KAHO",
+        "title": "夏帆 - Ｔｈｅ Ｔａｌｅ ｏｆ ＫＡＨＯ",
         "author": "",
-        "score": 46,
+        "isbn": "",
+        "score": 164,
         "sources": [
           {
             "source": "kinokuniya",
@@ -465,8 +516,7 @@
           }
         ],
         "source": "combined",
-        "rank": 24,
-        "originalTitle": "夏帆 - Ｔｈｅ　Ｔａｌｅ　ｏｆ　ＫＡＨＯ"
+        "rank": 26
       },
       "ranking": {
         "title": "夏帆 - Ｔｈｅ Ｔａｌｅ ｏｆ ＫＡＨＯ",
@@ -481,7 +531,7 @@
           }
         ],
         "source": "combined",
-        "rank": 8
+        "rank": 9
       }
     },
     {
@@ -528,7 +578,7 @@
           }
         ],
         "source": "combined",
-        "rank": 9
+        "rank": 10
       }
     },
     {
@@ -575,7 +625,7 @@
           }
         ],
         "source": "combined",
-        "rank": 10
+        "rank": 11
       }
     },
     {
@@ -607,8 +657,7 @@
           }
         ],
         "source": "combined",
-        "rank": 35,
-        "originalTitle": "ファイア・ドーム 〈上〉"
+        "rank": 35
       },
       "ranking": {
         "title": "ファイア・ドーム 〈上〉",
@@ -623,7 +672,7 @@
           }
         ],
         "source": "combined",
-        "rank": 11
+        "rank": 12
       }
     },
     {
@@ -669,7 +718,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12,
+        "rank": 13,
         "originalTitle": ""
       }
     },
@@ -716,7 +765,7 @@
           }
         ],
         "source": "combined",
-        "rank": 13,
+        "rank": 14,
         "originalTitle": ""
       }
     },
@@ -760,53 +809,6 @@
             "source": "tohan",
             "label": "トーハン",
             "rank": 5
-          }
-        ],
-        "source": "combined",
-        "rank": 14,
-        "originalTitle": ""
-      }
-    },
-    {
-      "id": "4390000015358",
-      "title": "青天",
-      "author": "若林正恭",
-      "publisher": "文藝春秋",
-      "price": 1900,
-      "url": "https://books.rakuten.co.jp/rk/a6fc1b8794af3eafb7f064fac9c68dfa/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0144/2000019330144.jpg?_ex=600x600",
-      "caption": "オードリー・若林正恭、初小説！\n人にぶつかっていないと、自分が生きているかどうかよくわからなくなるーー\n総大三高の「アリ」こと中村昴が所属するアメフト部は、万年２回戦どまり。相手校の練習を隠し撮りして迎えた高３の引退大会では、強豪・遼西学園に打ち破れた。引退後、みなが受験に向かうなか、勉強にも気持ちが入らず、不良になる覚悟もないまま宙ぶらりんの日々を過ごす。自分自身の不甲斐なさにもがき続けるなかで、アリは再びアメフトと向き合う決意を固める。\n青春の苦みと悦びに満ちた、著者渾身の初小説。\n",
-      "salesDate": "2026年02月20日",
-      "series": "",
-      "reviewAverage": 4.03,
-      "reviewCount": 563,
-      "genreId": "101901",
-      "isbn": "4390000015358",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "青天",
-        "author": "若林正恭",
-        "score": 78,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 15,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "青天",
-        "author": "若林正恭",
-        "score": 78,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 8
           }
         ],
         "source": "combined",
@@ -918,8 +920,7 @@
       "4320000865495",
       "4320000867368",
       "4320000865494",
-      "4310000858457",
-      "4390000015358"
+      "4310000858457"
     ],
     "mystery": [
       "4820000903843",
@@ -959,11 +960,13 @@
     "essay": [
       "4320000867368"
     ],
-    "comic": []
+    "comic": [
+      "4972000161524"
+    ]
   },
   "genreStatus": {
     "fiction": {
-      "matched": 9,
+      "matched": 8,
       "complete": true
     },
     "mystery": {
@@ -1023,7 +1026,7 @@
       "complete": true
     },
     "comic": {
-      "matched": 0,
+      "matched": 1,
       "complete": true
     }
   }

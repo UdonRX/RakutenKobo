@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-09-16T05:34:54.910Z",
+  "updatedAt": "2026-09-16T12:20:07.402Z",
   "candidateCount": 80,
-  "baseMatched": 23,
+  "baseMatched": 21,
   "matched": 30,
-  "addedMatches": 7,
+  "addedMatches": 9,
   "unavailable": [
     "rakuten"
   ],
@@ -53,6 +53,12 @@
           "rank": 14
         },
         {
+          "title": "薫る花は凛と咲く(24) (少年マガジンKC)",
+          "author": "三香見 サカ",
+          "isbn": "",
+          "rank": 17
+        },
+        {
           "title": "ダンダダン 25 (ジャンプコミックス)",
           "author": "龍 幸伸",
           "isbn": "",
@@ -69,12 +75,6 @@
           "author": "赤根 智子",
           "isbn": "",
           "rank": 28
-        },
-        {
-          "title": "うるわしの宵の月(11) (KCデザート)",
-          "author": "やまもり 三香",
-          "isbn": "",
-          "rank": 29
         },
         {
           "title": "キングダム 80 (ヤングジャンプコミックス)",
@@ -198,6 +198,12 @@
           "author": "",
           "isbn": "",
           "rank": 2
+        },
+        {
+          "title": "FINEBOYS＋plus OYASUMI vol.2",
+          "author": "",
+          "isbn": "",
+          "rank": 3
         },
         {
           "title": "ギャルにひかれて寺マルシェ",
@@ -379,25 +385,26 @@
       }
     },
     {
-      "id": "4916475490001",
-      "title": "プレゼント",
-      "author": "若竹七海",
-      "publisher": "中央公論新社",
-      "price": 776,
-      "url": "https://books.rakuten.co.jp/rk/9fe631efeb0f3eb0a09ce80197395709/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1444/2000007701444.jpg?_ex=600x600",
-      "caption": "ルーム・クリーナー、電話相談、興信所。トラブルメイカーのフリーター・葉村晶と、娘に借りたピンクの子供用自転車で現場に駆けつける小林警部補。二人が巻き込まれたハードボイルドで悲しい八つの事件とはーー。間抜けだが悪気のない隣人たちがひき起こす騒動はいつも危険すぎる！\n",
-      "salesDate": "2019年08月30日",
-      "series": "プレゼント",
-      "reviewAverage": 3.52,
-      "reviewCount": 92,
-      "genreId": "101901/101902",
-      "isbn": "4916475490001",
+      "id": "4340008067051",
+      "title": "プレゼント（新潮文庫）",
+      "author": "伊坂幸太郎/江國香織/恩田陸/梨木香歩/町田そのこ/宮部みゆき/米澤穂信",
+      "publisher": "新潮社",
+      "price": 825,
+      "url": "https://books.rakuten.co.jp/rk/e8a60fd88eb63075a76e50e52cf98712/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8962/2000020598962.jpg?_ex=600x600",
+      "caption": "これはこれまで小説を愛してきてくれた人へ、そしてこれから小説の世界に一歩踏み出す人へ贈るプレゼント。何気なく読んだ物語が、ふと目にした一行が、意外な言葉ひとつが、人生を大きく変えるかもしれない。現代を代表する７人の作家が「夏」をテーマに書き下ろした、驚きと切なさ、怖さと美しさ、何よりとびきりの面白さを詰め込んだ奇跡の一冊。さぁ、あなたの人生に小説という選択肢を。\n",
+      "salesDate": "2026年06月24日",
+      "series": "",
+      "reviewAverage": 3.88,
+      "reviewCount": 318,
+      "genreId": "101901",
+      "isbn": "4340008067051",
       "salesType": 0,
       "matchMeta": {
         "title": "プレゼント",
         "author": "伊坂幸太郎",
-        "score": 98,
+        "isbn": "",
+        "score": 177,
         "sources": [
           {
             "source": "maruzen",
@@ -406,8 +413,8 @@
           }
         ],
         "source": "combined",
-        "rank": 9,
-        "originalTitle": ""
+        "rank": 8,
+        "originalTitle": "プレゼント"
       },
       "ranking": {
         "title": "プレゼント",
@@ -423,6 +430,53 @@
         ],
         "source": "combined",
         "rank": 4
+      }
+    },
+    {
+      "id": "5430000025522",
+      "title": "FINEBOYS+plus OYASUMI vol.2",
+      "author": "",
+      "publisher": "日之出出版",
+      "price": 1800,
+      "url": "https://books.rakuten.co.jp/rk/abeaa61291983bc8acfdac3d70d6436b/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7298/2000021617298.jpg?_ex=600x600",
+      "caption": "カラーページを含むコンテンツの場合、カラー表示が可能な端末またはアプリでの閲覧を推奨します。\nこのデジタル雑誌には目次に記載されているコンテンツが含まれています。\nそれ以外のコンテンツは、本誌のコンテンツであっても含まれていませんのでご注意ださい。\nまた著作権等の問題でマスク処理されているページもありますので、ご了承ください。\nいい夢を、きみと、もっと。\n表紙・裏表紙：吉田仁人（M!LK）　明日につながる「おやすみ」 いい夢を、きみと、もっと。／RUI （STARGLOW）がナイトウェアでダンス／西山智樹（TAGRIGHT）とりらっくすたいむ／越山敬達、長野蒼大、 難波碧空、森本陸斗　明日の僕のためにすること／ほか\n目次\n吉田仁人がふにゃ〜っとあくびした。しあわせな彼の寝息。\n明日につながる「おやすみ」　いい夢を、きみと、もっと。\n西山智樹がスヤスヤ眠るその前に りらっくすたいむ\n夜更かししてでも観たい映画。\n越山敬達、長野蒼大、難波碧空、森本陸斗　明日の僕のためにすること\nRUIと素敵な夢をみるナイトウエアでダンス\n厚紙ページ\n裏表紙\n",
+      "salesDate": "2026年08月31日",
+      "series": "FINEBOYS+plus OYASUMI",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101950090",
+      "isbn": "5430000025522",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "FINEBOYS＋plus OYASUMI vol.2",
+        "author": "",
+        "isbn": "",
+        "score": 177,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 3
+          }
+        ],
+        "source": "combined",
+        "rank": 10
+      },
+      "ranking": {
+        "title": "FINEBOYS＋plus OYASUMI vol.2",
+        "author": "",
+        "isbn": "",
+        "score": 177,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 3
+          }
+        ],
+        "source": "combined",
+        "rank": 5
       }
     },
     {
@@ -469,7 +523,7 @@
           }
         ],
         "source": "combined",
-        "rank": 5
+        "rank": 6
       }
     },
     {
@@ -516,7 +570,7 @@
           }
         ],
         "source": "combined",
-        "rank": 6
+        "rank": 7
       }
     },
     {
@@ -563,7 +617,7 @@
           }
         ],
         "source": "combined",
-        "rank": 7
+        "rank": 8
       }
     },
     {
@@ -610,7 +664,7 @@
           }
         ],
         "source": "combined",
-        "rank": 8
+        "rank": 9
       }
     },
     {
@@ -642,8 +696,7 @@
           }
         ],
         "source": "combined",
-        "rank": 25,
-        "originalTitle": "会社四季報 業界地図 2027年版"
+        "rank": 25
       },
       "ranking": {
         "title": "会社四季報 業界地図 2027年版",
@@ -658,7 +711,7 @@
           }
         ],
         "source": "combined",
-        "rank": 9
+        "rank": 10
       }
     },
     {
@@ -705,7 +758,7 @@
           }
         ],
         "source": "combined",
-        "rank": 10
+        "rank": 11
       }
     },
     {
@@ -727,7 +780,8 @@
       "matchMeta": {
         "title": "ブラッディダイスの殺人 上",
         "author": "M・W・クレイヴン",
-        "score": 74,
+        "isbn": "",
+        "score": 171,
         "sources": [
           {
             "source": "maruzen",
@@ -736,8 +790,7 @@
           }
         ],
         "source": "combined",
-        "rank": 31,
-        "originalTitle": ""
+        "rank": 31
       },
       "ranking": {
         "title": "ブラッディダイスの殺人 上",
@@ -752,7 +805,7 @@
           }
         ],
         "source": "combined",
-        "rank": 11
+        "rank": 12
       }
     },
     {
@@ -799,7 +852,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12
+        "rank": 13
       }
     },
     {
@@ -846,7 +899,7 @@
           }
         ],
         "source": "combined",
-        "rank": 13
+        "rank": 14
       }
     },
     {
@@ -893,7 +946,7 @@
           }
         ],
         "source": "combined",
-        "rank": 14
+        "rank": 15
       }
     },
     {
@@ -940,7 +993,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15
+        "rank": 16
       }
     },
     {
@@ -962,7 +1015,8 @@
       "matchMeta": {
         "title": "週刊プレイボーイ (38号)",
         "author": "",
-        "score": 54,
+        "isbn": "",
+        "score": 166,
         "sources": [
           {
             "source": "amazon",
@@ -971,8 +1025,7 @@
           }
         ],
         "source": "combined",
-        "rank": 46,
-        "originalTitle": ""
+        "rank": 47
       },
       "ranking": {
         "title": "週刊プレイボーイ (38号)",
@@ -987,7 +1040,54 @@
           }
         ],
         "source": "combined",
-        "rank": 16
+        "rank": 17
+      }
+    },
+    {
+      "id": "4310000917800",
+      "title": "薫る花は凛と咲く（２４）",
+      "author": "三香見サカ",
+      "publisher": "講談社",
+      "price": 627,
+      "url": "https://books.rakuten.co.jp/rk/7c1cbc3f06163e1284f3827f2251dd16/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3486/2000021613486.jpg?_ex=600x600",
+      "caption": "明かされた土岐先生の秘められた過去。かつての生徒・松笠を守れなかった後悔と自責が、桔梗と千鳥の深い溝を作った理由となっていた。しかし、凛太郎たちの真摯な想いは、両校の先生たちの心を動かす。「新しい千鳥と桔梗の関係の、礎になってほしい」閉ざされた両校の歴史に開いた“風穴”。新たな交流の兆しが芽吹く──。そんな中、薫子たち桔梗の面々も土岐先生のもとへ。交わすのは過去の清算ではなく、未来の展望。生徒たちの成長に、優しい笑みを零す土岐先生。そんな彼女は、薫子と二人で話したいことがあるようで──。\n",
+      "salesDate": "2026年09月09日",
+      "series": "薫る花は凛と咲く",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904",
+      "isbn": "4310000917800",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "薫る花は凛と咲く(24) (少年マガジンKC)",
+        "author": "三香見 サカ",
+        "score": 42,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 17
+          }
+        ],
+        "source": "combined",
+        "rank": 52,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "薫る花は凛と咲く(24) (少年マガジンKC)",
+        "author": "三香見 サカ",
+        "isbn": "",
+        "score": 163,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 17
+          }
+        ],
+        "source": "combined",
+        "rank": 18
       }
     },
     {
@@ -1009,8 +1109,7 @@
       "matchMeta": {
         "title": "イン・ザ・メガチャーチ",
         "author": "",
-        "isbn": "",
-        "score": 158,
+        "score": 22,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1019,7 +1118,8 @@
           }
         ],
         "source": "combined",
-        "rank": 64
+        "rank": 61,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "イン・ザ・メガチャーチ",
@@ -1034,7 +1134,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17
+        "rank": 19
       }
     },
     {
@@ -1081,7 +1181,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18
+        "rank": 20
       }
     },
     {
@@ -1128,7 +1228,7 @@
           }
         ],
         "source": "combined",
-        "rank": 19
+        "rank": 21
       }
     },
     {
@@ -1175,7 +1275,7 @@
           }
         ],
         "source": "combined",
-        "rank": 20
+        "rank": 22
       }
     },
     {
@@ -1222,7 +1322,7 @@
           }
         ],
         "source": "combined",
-        "rank": 21
+        "rank": 23
       }
     },
     {
@@ -1269,7 +1369,7 @@
           }
         ],
         "source": "combined",
-        "rank": 22
+        "rank": 24
       }
     },
     {
@@ -1316,54 +1416,7 @@
           }
         ],
         "source": "combined",
-        "rank": 23
-      }
-    },
-    {
-      "id": "4310000920047",
-      "title": "うるわしの宵の月（１１）",
-      "author": "やまもり三香",
-      "publisher": "講談社",
-      "price": 594,
-      "url": "https://books.rakuten.co.jp/rk/6fc3b4fd623b344c923ab1e6d55b7031/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9731/2000021649731.jpg?_ex=600x600",
-      "caption": "滝口宵は、容姿端麗・スマートなふるまいで「王子」と呼ばれる女子。\n学校で同じく「王子」と呼ばれる市村先輩に出会い、\nひょんなことからお試しでのお付き合いが始まる。\n初めは身構えていた宵も段々と気持ちが変化し、夏祭りで\nお互いようやく素直に気持ちを打ち合け、正式に付き合うことに。\nクリスマスから年末と幸せな日々を過ごす２人。だけど新学期、\nなぜか先輩が学校に来なくなる。先輩から家の事情で学校をやめ、\n留学することになったと聞かされ、さらに別れることになってしまい…!!?\nともに「王子」と呼ばれる男女の恋、再び２人の絆は戻るの─!!?\n",
-      "salesDate": "2026年09月11日",
-      "series": "うるわしの宵の月",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904011016",
-      "isbn": "4310000920047",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "うるわしの宵の月(11) (KCデザート)",
-        "author": "やまもり 三香",
-        "isbn": "",
-        "score": 151,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 29
-          }
-        ],
-        "source": "combined",
-        "rank": 77
-      },
-      "ranking": {
-        "title": "うるわしの宵の月(11) (KCデザート)",
-        "author": "やまもり 三香",
-        "isbn": "",
-        "score": 151,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 29
-          }
-        ],
-        "source": "combined",
-        "rank": 24
+        "rank": 25
       }
     },
     {
@@ -1385,8 +1438,7 @@
       "matchMeta": {
         "title": "帳の向こう",
         "author": "",
-        "isbn": "",
-        "score": 151,
+        "score": 5,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1395,7 +1447,8 @@
           }
         ],
         "source": "combined",
-        "rank": 78
+        "rank": 73,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "帳の向こう",
@@ -1407,53 +1460,6 @@
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
             "rank": 29
-          }
-        ],
-        "source": "combined",
-        "rank": 25
-      }
-    },
-    {
-      "id": "4972000161446",
-      "title": "キングダム 80",
-      "author": "原泰久",
-      "publisher": "集英社",
-      "price": 770,
-      "url": "https://books.rakuten.co.jp/rk/050764b407853c8da27e5a42ab86656e/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2133/2000021122133.jpg?_ex=600x600",
-      "caption": "李牧の防衛網を突破せよ!!　紀元前229年 趙完全攻略戦　白熱する趙完全攻略戦。北部では、司馬尚軍と宜安・番吾からなる趙北部軍とで、王翦軍への挟撃を図ろうとする李牧の策を阻止するべく玉鳳軍が立ちはだかる。一方、中華十弓・青華雲を討ち取った飛信隊は、蒙恬の発案により、楽華軍・羌カイ軍との三軍連合攻撃を開始するが…!?\n",
-      "salesDate": "2026年08月19日",
-      "series": "キングダム",
-      "reviewAverage": 3.92,
-      "reviewCount": 12,
-      "genreId": "101904002006",
-      "isbn": "4972000161446",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "キングダム 80",
-        "author": "原 泰久",
-        "score": 5,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 30
-          }
-        ],
-        "source": "combined",
-        "rank": 78,
-        "originalTitle": "キングダム 80 (ヤングジャンプコミックス)"
-      },
-      "ranking": {
-        "title": "キングダム 80 (ヤングジャンプコミックス)",
-        "author": "原 泰久",
-        "isbn": "",
-        "score": 150,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 30
           }
         ],
         "source": "combined",
@@ -1508,6 +1514,53 @@
       }
     },
     {
+      "id": "4972000161446",
+      "title": "キングダム 80",
+      "author": "原泰久",
+      "publisher": "集英社",
+      "price": 770,
+      "url": "https://books.rakuten.co.jp/rk/050764b407853c8da27e5a42ab86656e/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2133/2000021122133.jpg?_ex=600x600",
+      "caption": "李牧の防衛網を突破せよ!!　紀元前229年 趙完全攻略戦　白熱する趙完全攻略戦。北部では、司馬尚軍と宜安・番吾からなる趙北部軍とで、王翦軍への挟撃を図ろうとする李牧の策を阻止するべく玉鳳軍が立ちはだかる。一方、中華十弓・青華雲を討ち取った飛信隊は、蒙恬の発案により、楽華軍・羌カイ軍との三軍連合攻撃を開始するが…!?\n",
+      "salesDate": "2026年08月19日",
+      "series": "キングダム",
+      "reviewAverage": 3.92,
+      "reviewCount": 12,
+      "genreId": "101904002006",
+      "isbn": "4972000161446",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "キングダム 80 (ヤングジャンプコミックス)",
+        "author": "原 泰久",
+        "isbn": "",
+        "score": 150,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 30
+          }
+        ],
+        "source": "combined",
+        "rank": 79
+      },
+      "ranking": {
+        "title": "キングダム 80 (ヤングジャンプコミックス)",
+        "author": "原 泰久",
+        "isbn": "",
+        "score": 150,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 30
+          }
+        ],
+        "source": "combined",
+        "rank": 28
+      }
+    },
+    {
       "id": "6681311679960",
       "title": "つかめ！理科ダマン 12 最強ロボット決戦！編",
       "author": "シン・テフン/ナ・スンフン/呉華順",
@@ -1547,53 +1600,6 @@
             "source": "tohan",
             "label": "トーハン",
             "rank": 1
-          }
-        ],
-        "source": "combined",
-        "rank": 28,
-        "originalTitle": ""
-      }
-    },
-    {
-      "id": "9784059239659",
-      "title": "地球の歩き方 スター・ウォーズ",
-      "author": "",
-      "publisher": "地球の歩き方",
-      "price": 2750,
-      "url": "https://books.rakuten.co.jp/rk/40558a21970c38b8891b35aee564d356/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9941/2000020489941.jpg?_ex=600x600",
-      "caption": "銀河の果てまで旅するように、物語の舞台を歩く……。\n『スター・ウォーズ』の世界を「地球の歩き方」ならではの旅行ガイドスタイルでひもとく、スペシャルブックが登場！\nもしあなたが『スター・ウォーズ』の世界を訪れることになっても、本書があれば安心。劇場公開作品を中心に、ストーリーの流れや主要キャラクターの魅力を、心に残る名シーンとともにしっかりおさらいできます。さらに、モデルプランや旅のテクニックなど、ファン心をくすぐるコンテンツも充実。\n作品世界をより深く理解し、楽しむための情報を厳選して収録した、ファン必携の永久保存版です。\n※予告なく一部内容が変更される可能性もあります。予めご了承ください。\n※電子版では、紙のガイドブックと内容が一部異なります。掲載されない写真や図版、収録されないページがある場合があります。あらかじめご了承下さい。\n",
-      "salesDate": "2026年07月29日",
-      "series": "",
-      "reviewAverage": 4.33,
-      "reviewCount": 3,
-      "genreId": "101911",
-      "isbn": "9784059239659",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "地球の歩き方 スター・ウォーズ",
-        "author": "地球の歩き方編集室",
-        "score": 90,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 5
-          }
-        ],
-        "source": "combined",
-        "rank": 16,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "地球の歩き方 スター・ウォーズ",
-        "author": "地球の歩き方編集室",
-        "score": 90,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 5
           }
         ],
         "source": "combined",
@@ -1652,7 +1658,7 @@
   "byGenre": {
     "fiction": [
       "4340008067611",
-      "4916475490001",
+      "4340008067051",
       "4331000700320",
       "4910000909001",
       "4390000005636",
@@ -1661,7 +1667,6 @@
       "4480000838415"
     ],
     "mystery": [
-      "4916475490001",
       "4390000005636",
       "4620000615075",
       "4620000615076"
@@ -1692,9 +1697,7 @@
     ],
     "health": [],
     "hobby": [],
-    "travel": [
-      "9784059239659"
-    ],
+    "travel": [],
     "language": [
       "6681311679960"
     ],
@@ -1703,9 +1706,9 @@
     "comic": [
       "4681308443742",
       "7131315591790",
+      "4310000917800",
       "4972000164838",
       "4336195000320",
-      "4310000920047",
       "4972000161446"
     ]
   },
@@ -1715,7 +1718,7 @@
       "complete": true
     },
     "mystery": {
-      "matched": 4,
+      "matched": 3,
       "complete": true
     },
     "sf": {
@@ -1755,7 +1758,7 @@
       "complete": true
     },
     "travel": {
-      "matched": 1,
+      "matched": 0,
       "complete": true
     },
     "language": {

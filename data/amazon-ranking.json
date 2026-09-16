@@ -4,218 +4,218 @@
   "attribution": "Amazon.co.jp",
   "sourceUrl": "https://www.amazon.co.jp/gp/bestsellers/books",
   "periodLabel": "現在のベストセラー",
-  "updatedAt": "2026-09-10T23:10:17.190Z",
+  "updatedAt": "2026-09-16T23:39:21.750Z",
   "live": false,
   "items": [
     {
       "rank": 1,
-      "title": "女の園の星 ５ (フィールコミックス)",
-      "author": "和山やま",
-      "asin": "4396751044",
-      "url": "https://www.amazon.co.jp/dp/4396751044"
+      "title": "MAQUIA（マキア）2026年12月号増刊",
+      "author": "マキア編集",
+      "asin": "B0HJC3R6FQ",
+      "url": "https://www.amazon.co.jp/dp/B0HJC3R6FQ"
     },
     {
       "rank": 2,
+      "title": "Cut 2026年 10 月号 [雑誌]",
+      "author": "",
+      "asin": "B0HFKFS69M",
+      "url": "https://www.amazon.co.jp/dp/B0HFKFS69M"
+    },
+    {
+      "rank": 3,
+      "title": "【初回特典付】パペットスンスン ガイドブック",
+      "author": "パペットスンスン",
+      "asin": "4591974944",
+      "url": "https://www.amazon.co.jp/dp/4591974944"
+    },
+    {
+      "rank": 4,
+      "title": "ポケットモンスター ビジュアルアートブック 30th anniversary Art Book of Pokémon Video Games developed by GAME FREAK BOOK1 (ポケモン)",
+      "author": "元宮秀介",
+      "asin": "4824018730",
+      "url": "https://www.amazon.co.jp/dp/4824018730"
+    },
+    {
+      "rank": 5,
+      "title": "まるごとシールブックＤＸ マンダロリアン・アンド・グローグー キラキラシールブック",
+      "author": "小学館",
+      "asin": "4097356380",
+      "url": "https://www.amazon.co.jp/dp/4097356380"
+    },
+    {
+      "rank": 6,
       "title": "幽冥の岸 十二国記 (新潮文庫 お 37-66)",
       "author": "小野不由美",
       "asin": "4101240663",
       "url": "https://www.amazon.co.jp/dp/4101240663"
     },
     {
-      "rank": 3,
-      "title": "F.S.S. EPISODES of 40th MEMORIAL",
-      "author": "永野 護",
-      "asin": "4041178304",
-      "url": "https://www.amazon.co.jp/dp/4041178304"
-    },
-    {
-      "rank": 4,
-      "title": "【Amazon特別版】フィギュアスケートLife Extra 「羽生結弦 PROFESSIONAL Season4」 (扶桑社ムック)",
-      "author": "扶桑社",
-      "asin": "4594625436",
-      "url": "https://www.amazon.co.jp/dp/4594625436"
-    },
-    {
-      "rank": 5,
-      "title": "mini（ミニ）2026年11月号",
-      "author": "宝島社",
-      "asin": "B0HGRJ2G72",
-      "url": "https://www.amazon.co.jp/dp/B0HGRJ2G72"
-    },
-    {
-      "rank": 6,
-      "title": "ニュータイプ 2026年10月号",
-      "author": "",
-      "asin": "B0H74GB9YN",
-      "url": "https://www.amazon.co.jp/dp/B0H74GB9YN"
-    },
-    {
       "rank": 7,
-      "title": "BE-PAL(ビ-パル) 2026年 10 月号【特別付録: Nordisk(ノルディスク) 4ホール鋳鉄スキレット】",
-      "author": "小学館",
-      "asin": "B0HCB8TPD8",
-      "url": "https://www.amazon.co.jp/dp/B0HCB8TPD8"
+      "title": "ポケットモンスター ビジュアルアートブック 30th anniversary Art Book of Pokémon Video Games developed by GAME FREAK BOOK3 (ポケモン)",
+      "author": "元宮秀介",
+      "asin": "4824018757",
+      "url": "https://www.amazon.co.jp/dp/4824018757"
     },
     {
       "rank": 8,
-      "title": "Casa BRUTUS(カーサ ブルータス) 2026年 10月号[ソウル・ライフスタイル・ガイド]",
-      "author": "CasaBRUTUS編集部",
-      "asin": "B0HFRNWK12",
-      "url": "https://www.amazon.co.jp/dp/B0HFRNWK12"
+      "title": "ポケットモンスター ビジュアルアートブック 30th anniversary Art Book of Pokémon Video Games developed by GAME FREAK BOOK2 (ポケモン)",
+      "author": "元宮秀介",
+      "asin": "4824018749",
+      "url": "https://www.amazon.co.jp/dp/4824018749"
     },
     {
       "rank": 9,
+      "title": "otona MUSE（オトナミューズ）2026年12月号",
+      "author": "宝島社",
+      "asin": "B0HGR736YM",
+      "url": "https://www.amazon.co.jp/dp/B0HGR736YM"
+    },
+    {
+      "rank": 10,
       "title": "オレンジページ 2026年 10/17号増刊「Suicaのペンギンのぬいぐるみポーチ＆エコバッグ〈ウインク＆グレー〉」",
       "author": "オレンジページ",
       "asin": "B0HBW2W7WW",
       "url": "https://www.amazon.co.jp/dp/B0HBW2W7WW"
     },
     {
-      "rank": 10,
-      "title": "白鳥とコウモリ（上） (幻冬舎文庫)",
-      "author": "東野 圭吾",
-      "asin": "434443370X",
-      "url": "https://www.amazon.co.jp/dp/434443370X"
-    },
-    {
       "rank": 11,
-      "title": "美ST増刊 2026年11月号",
-      "author": "美ＳＴ編集部",
-      "asin": "B0HGQDKGSJ",
-      "url": "https://www.amazon.co.jp/dp/B0HGQDKGSJ"
+      "title": "パンどろぼうとさすらいラーメン",
+      "author": "柴田 ケイコ",
+      "asin": "4041174953",
+      "url": "https://www.amazon.co.jp/dp/4041174953"
     },
     {
       "rank": 12,
-      "title": "文藝春秋 (2026年10月号)",
-      "author": "文藝春秋",
-      "asin": "B0HG9HMHWH",
-      "url": "https://www.amazon.co.jp/dp/B0HG9HMHWH"
+      "title": "ViVi SPECIAL (2026年12月号)",
+      "author": "講談社",
+      "asin": "B0HDCBK25G",
+      "url": "https://www.amazon.co.jp/dp/B0HDCBK25G"
     },
     {
       "rank": 13,
-      "title": "白鳥とコウモリ（下） (幻冬舎文庫)",
-      "author": "東野 圭吾",
-      "asin": "4344433718",
-      "url": "https://www.amazon.co.jp/dp/4344433718"
+      "title": "転生したらスライムだった件(33) (シリウスKC)",
+      "author": "川上 泰樹",
+      "asin": "4065451191",
+      "url": "https://www.amazon.co.jp/dp/4065451191"
     },
     {
       "rank": 14,
-      "title": "週刊プレイボーイ (38号)",
-      "author": "",
-      "asin": "B0HGGJ4PTK",
-      "url": "https://www.amazon.co.jp/dp/B0HGGJ4PTK"
+      "title": "The JOJOLands 9 (ジャンプコミックス)",
+      "author": "荒木 飛呂彦",
+      "asin": "4088851579",
+      "url": "https://www.amazon.co.jp/dp/4088851579"
     },
     {
       "rank": 15,
-      "title": "smart（スマート）2026年10号【表紙：吉田仁人（M!LK）】",
-      "author": "宝島社",
-      "asin": "B0H6X79VCL",
-      "url": "https://www.amazon.co.jp/dp/B0H6X79VCL"
+      "title": "会社四季報プロ500 2026年秋号",
+      "author": "東洋経済新報社",
+      "asin": "B0H5V35CR1",
+      "url": "https://www.amazon.co.jp/dp/B0H5V35CR1"
     },
     {
       "rank": 16,
-      "title": "mini（ミニ）2026年11月号増刊【表紙：塩﨑太智（M!LK）】",
-      "author": "宝島社",
-      "asin": "B0HGRFQ88M",
-      "url": "https://www.amazon.co.jp/dp/B0HGRFQ88M"
+      "title": "MUSICA(ムジカ) 2026年 10 月号 [雑誌]",
+      "author": "",
+      "asin": "B0HHT6C6MG",
+      "url": "https://www.amazon.co.jp/dp/B0HHT6C6MG"
     },
     {
       "rank": 17,
-      "title": "薫る花は凛と咲く(24) (少年マガジンKC)",
-      "author": "三香見 サカ",
-      "asin": "B0H2H3S7RW",
-      "url": "https://www.amazon.co.jp/dp/B0H2H3S7RW"
+      "title": "会社四季報 2026年4集・秋号",
+      "author": "東洋経済新報社",
+      "asin": "B0H5TM2DN3",
+      "url": "https://www.amazon.co.jp/dp/B0H5TM2DN3"
     },
     {
       "rank": 18,
-      "title": "2026-2027 欧州サッカー選手名鑑 サッカー新聞エル･ゴラッソ特別編集",
-      "author": "エル･ゴラッソ 編集部",
-      "asin": "B0HDNVNFTB",
-      "url": "https://www.amazon.co.jp/dp/B0HDNVNFTB"
+      "title": "美的11月号 増刊",
+      "author": "小学館",
+      "asin": "B0HF7BM42S",
+      "url": "https://www.amazon.co.jp/dp/B0HF7BM42S"
     },
     {
       "rank": 19,
-      "title": "smart（スマート）2026年11月・12月合併号【10月中旬重版分】",
-      "author": "宝島社",
-      "asin": "B0HBWQGBQ6",
-      "url": "https://www.amazon.co.jp/dp/B0HBWQGBQ6"
+      "title": "影響力の正体 世界最先端の研究でわかった「人を動かす全技術」",
+      "author": "中島 侑子",
+      "asin": "4043302150",
+      "url": "https://www.amazon.co.jp/dp/4043302150"
     },
     {
       "rank": 20,
-      "title": "2026-2027 EUROPE SOCCER TODAY シーズン開幕号 (NSK MOOK)",
-      "author": "",
-      "asin": "4911086238",
-      "url": "https://www.amazon.co.jp/dp/4911086238"
+      "title": "週刊ファミ通 2026年10月1・8日合併号 No.1964",
+      "author": "週刊ファミ通編集部",
+      "asin": "B0HH9VL64G",
+      "url": "https://www.amazon.co.jp/dp/B0HH9VL64G"
     },
     {
       "rank": 21,
-      "title": "2026年non-no（ノンノ）11月号増刊",
-      "author": "ノンノ編集",
-      "asin": "B0HF7F7XY1",
-      "url": "https://www.amazon.co.jp/dp/B0HF7F7XY1"
+      "title": "ゆるキャン△ １９ (まんがタイムKRコミックス)",
+      "author": "あfろ",
+      "asin": "4832297570",
+      "url": "https://www.amazon.co.jp/dp/4832297570"
     },
     {
       "rank": 22,
-      "title": "秘密にしたい魅惑のスイーツレシピ",
-      "author": "小林啓吾",
-      "asin": "4651205941",
-      "url": "https://www.amazon.co.jp/dp/4651205941"
+      "title": "家庭画報 2026年11月号",
+      "author": "家庭画報編集部",
+      "asin": "B0HJ51K9YY",
+      "url": "https://www.amazon.co.jp/dp/B0HJ51K9YY"
     },
     {
       "rank": 23,
-      "title": "ダンダダン 25 (ジャンプコミックス)",
-      "author": "龍 幸伸",
-      "asin": "4088851889",
-      "url": "https://www.amazon.co.jp/dp/4088851889"
+      "title": "全肯定 ～新時代のバイブル～",
+      "author": "愛理",
+      "asin": "4867396567",
+      "url": "https://www.amazon.co.jp/dp/4867396567"
     },
     {
       "rank": 24,
-      "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 (幻冬舎新書 803)",
-      "author": "林真理子",
-      "asin": "434498806X",
-      "url": "https://www.amazon.co.jp/dp/434498806X"
+      "title": "Myojo 2026年11月号",
+      "author": "明星編集",
+      "asin": "B0HFJJMWX3",
+      "url": "https://www.amazon.co.jp/dp/B0HFJJMWX3"
     },
     {
       "rank": 25,
-      "title": "Fine(ファイン) 2026年 10 月号 [アベンジャーズをもう一度。]",
-      "author": "日之出出版",
-      "asin": "B0HF7MFLJQ",
-      "url": "https://www.amazon.co.jp/dp/B0HF7MFLJQ"
+      "title": "MAQUIA（マキア）2026年12月号",
+      "author": "マキア編集",
+      "asin": "B0HJCBRZC5",
+      "url": "https://www.amazon.co.jp/dp/B0HJCBRZC5"
     },
     {
       "rank": 26,
-      "title": "異世界のんびり農家 17 (ドラゴンコミックスエイジ)",
-      "author": "剣 康之",
-      "asin": "B0GS7RT6S1",
-      "url": "https://www.amazon.co.jp/dp/B0GS7RT6S1"
+      "title": "女の園の星 ５ (フィールコミックス)",
+      "author": "和山やま",
+      "asin": "4396751044",
+      "url": "https://www.amazon.co.jp/dp/4396751044"
     },
     {
       "rank": 27,
-      "title": "HYSTERIC MINI 3ROOM SHOULDER BAG BOOK MONOGRAM ver. (宝島社ブランドムック)",
-      "author": "宝島社",
-      "asin": "4299081048",
-      "url": "https://www.amazon.co.jp/dp/4299081048"
+      "title": "黒執事(36) (Gファンタジーコミックス)",
+      "author": "枢やな",
+      "asin": "4301007806",
+      "url": "https://www.amazon.co.jp/dp/4301007806"
     },
     {
       "rank": 28,
-      "title": "戦争犯罪と闘う 国際刑事裁判所は屈しない (文春新書 1496)",
-      "author": "赤根 智子",
-      "asin": "4166614967",
-      "url": "https://www.amazon.co.jp/dp/4166614967"
+      "title": "初めてのたまごクラブ 2026年 秋号",
+      "author": "たまごクラブ",
+      "asin": "B0HDYHGKWR",
+      "url": "https://www.amazon.co.jp/dp/B0HDYHGKWR"
     },
     {
       "rank": 29,
-      "title": "うるわしの宵の月(11) (KCデザート)",
-      "author": "やまもり 三香",
-      "asin": "B0GH3SDBTD",
-      "url": "https://www.amazon.co.jp/dp/B0GH3SDBTD"
+      "title": "F.S.S. EPISODES of 40th MEMORIAL",
+      "author": "永野 護",
+      "asin": "4041178304",
+      "url": "https://www.amazon.co.jp/dp/4041178304"
     },
     {
       "rank": 30,
-      "title": "キングダム 80 (ヤングジャンプコミックス)",
-      "author": "原 泰久",
-      "asin": "4088942671",
-      "url": "https://www.amazon.co.jp/dp/4088942671"
+      "title": "B.LEAGUE完全ガイド2026-27 (COSMIC MOOK)",
+      "author": "コスミック出版",
+      "asin": "4774776270",
+      "url": "https://www.amazon.co.jp/dp/4774776270"
     }
   ]
 }

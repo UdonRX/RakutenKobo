@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-09-17T05:41:27.403Z",
-  "candidateCount": 82,
-  "baseMatched": 17,
-  "matched": 33,
-  "addedMatches": 16,
+  "updatedAt": "2026-09-17T12:22:10.276Z",
+  "candidateCount": 80,
+  "baseMatched": 24,
+  "matched": 32,
+  "addedMatches": 8,
   "unavailable": [
     "rakuten"
   ],
@@ -63,6 +63,12 @@
           "author": "あfろ",
           "isbn": "",
           "rank": 21
+        },
+        {
+          "title": "家庭画報 2026年11月号",
+          "author": "家庭画報編集部",
+          "isbn": "",
+          "rank": 22
         },
         {
           "title": "女の園の星 ５ (フィールコミックス)",
@@ -230,32 +236,6 @@
           "rank": 12
         }
       ]
-    },
-    "rakuten": {
-      "id": "rakuten",
-      "label": "楽天ブックス",
-      "attribution": "楽天ブックス",
-      "sourceUrl": "https://books.rakuten.co.jp/",
-      "periodLabel": "売れ筋順",
-      "updatedAt": "2026-09-17",
-      "live": true,
-      "items": [
-        {
-          "title": "パンどろぼうとさすらいラーメン",
-          "author": "柴田　ケイコ",
-          "rank": 6
-        },
-        {
-          "title": "波動の法則",
-          "author": "足立 育朗",
-          "rank": 13
-        },
-        {
-          "title": "自分の思いを言葉にする こどもアウトプット図鑑",
-          "author": "樺沢 紫苑/精神科医さわ",
-          "rank": 15
-        }
-      ]
     }
   },
   "items": [
@@ -317,63 +297,6 @@
       }
     },
     {
-      "id": "4335396900320",
-      "title": "パンどろぼうとさすらいラーメン",
-      "author": "柴田　ケイコ",
-      "publisher": "KADOKAWA",
-      "price": 1650,
-      "url": "https://books.rakuten.co.jp/rk/ced96eda0a863fdeae0a78fb0bf25801/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2405/2000021682405.jpg?_ex=600x600",
-      "caption": "とっても寒い“ぶるぶるじま”にやってきたパンどろぼう。できたてのパンをふるまおうとパン作りをはじめますが、窯の扉をあけようとした、その瞬間・・・＼＼＼ボフーーーン／／／パンが作れずこまっているところへさっそうと現れたのは、いったい、誰ーーー？ほかほかのパンとあつあつのラーメンが織りなす、熱血ハートフルストーリー開幕！「パンどろぼう」シリーズ待望の第8弾！\n",
-      "salesDate": "2026年09月16日",
-      "series": "パンどろぼう",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101916",
-      "isbn": "4335396900320",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "パンどろぼうとさすらいラーメン",
-        "author": "柴田　ケイコ",
-        "score": 152,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 6
-          },
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 11
-          }
-        ],
-        "source": "combined",
-        "rank": 3,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "パンどろぼうとさすらいラーメン",
-        "author": "柴田 ケイコ",
-        "isbn": "",
-        "score": 343,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 11
-          },
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 6
-          }
-        ],
-        "source": "combined",
-        "rank": 2
-      }
-    },
-    {
       "id": "4916475490001",
       "title": "プレゼント",
       "author": "若竹七海",
@@ -401,7 +324,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12,
+        "rank": 9,
         "originalTitle": ""
       },
       "ranking": {
@@ -417,7 +340,7 @@
           }
         ],
         "source": "combined",
-        "rank": 3
+        "rank": 2
       }
     },
     {
@@ -449,7 +372,7 @@
           }
         ],
         "source": "combined",
-        "rank": 11
+        "rank": 10
       },
       "ranking": {
         "title": "FINEBOYS＋plus OYASUMI vol.2",
@@ -464,7 +387,7 @@
           }
         ],
         "source": "combined",
-        "rank": 4
+        "rank": 3
       }
     },
     {
@@ -496,8 +419,7 @@
           }
         ],
         "source": "combined",
-        "rank": 14,
-        "originalTitle": "ギャルにひかれて寺マルシェ"
+        "rank": 13
       },
       "ranking": {
         "title": "ギャルにひかれて寺マルシェ",
@@ -512,7 +434,7 @@
           }
         ],
         "source": "combined",
-        "rank": 5
+        "rank": 4
       }
     },
     {
@@ -543,7 +465,7 @@
           }
         ],
         "source": "combined",
-        "rank": 20,
+        "rank": 15,
         "originalTitle": ""
       },
       "ranking": {
@@ -559,7 +481,7 @@
           }
         ],
         "source": "combined",
-        "rank": 6
+        "rank": 5
       }
     },
     {
@@ -590,7 +512,7 @@
           }
         ],
         "source": "combined",
-        "rank": 27,
+        "rank": 21,
         "originalTitle": ""
       },
       "ranking": {
@@ -606,7 +528,7 @@
           }
         ],
         "source": "combined",
-        "rank": 7
+        "rank": 6
       }
     },
     {
@@ -637,7 +559,7 @@
           }
         ],
         "source": "combined",
-        "rank": 28,
+        "rank": 22,
         "originalTitle": "幽冥の岸 十二国記 (新潮文庫 お 37-66)"
       },
       "ranking": {
@@ -653,7 +575,7 @@
           }
         ],
         "source": "combined",
-        "rank": 8
+        "rank": 7
       }
     },
     {
@@ -684,7 +606,7 @@
           }
         ],
         "source": "combined",
-        "rank": 29,
+        "rank": 23,
         "originalTitle": ""
       },
       "ranking": {
@@ -700,7 +622,7 @@
           }
         ],
         "source": "combined",
-        "rank": 9
+        "rank": 8
       }
     },
     {
@@ -732,7 +654,8 @@
           }
         ],
         "source": "combined",
-        "rank": 26
+        "rank": 25,
+        "originalTitle": "会社四季報 業界地図 2027年版"
       },
       "ranking": {
         "title": "会社四季報 業界地図 2027年版",
@@ -747,7 +670,7 @@
           }
         ],
         "source": "combined",
-        "rank": 10
+        "rank": 9
       }
     },
     {
@@ -778,7 +701,7 @@
           }
         ],
         "source": "combined",
-        "rank": 39,
+        "rank": 31,
         "originalTitle": ""
       },
       "ranking": {
@@ -794,7 +717,7 @@
           }
         ],
         "source": "combined",
-        "rank": 11
+        "rank": 10
       }
     },
     {
@@ -825,7 +748,7 @@
           }
         ],
         "source": "combined",
-        "rank": 44,
+        "rank": 35,
         "originalTitle": ""
       },
       "ranking": {
@@ -841,7 +764,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12
+        "rank": 11
       }
     },
     {
@@ -873,7 +796,7 @@
           }
         ],
         "source": "combined",
-        "rank": 39
+        "rank": 38
       },
       "ranking": {
         "title": "オーイ!とんぼ 64",
@@ -885,6 +808,53 @@
             "source": "tohan",
             "label": "トーハン",
             "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 12
+      }
+    },
+    {
+      "id": "4335396900320",
+      "title": "パンどろぼうとさすらいラーメン",
+      "author": "柴田　ケイコ",
+      "publisher": "KADOKAWA",
+      "price": 1650,
+      "url": "https://books.rakuten.co.jp/rk/ced96eda0a863fdeae0a78fb0bf25801/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2405/2000021682405.jpg?_ex=600x600",
+      "caption": "とっても寒い“ぶるぶるじま”にやってきたパンどろぼう。できたてのパンをふるまおうとパン作りをはじめますが、窯の扉をあけようとした、その瞬間・・・＼＼＼ボフーーーン／／／パンが作れずこまっているところへさっそうと現れたのは、いったい、誰ーーー？ほかほかのパンとあつあつのラーメンが織りなす、熱血ハートフルストーリー開幕！「パンどろぼう」シリーズ待望の第8弾！\n",
+      "salesDate": "2026年09月16日",
+      "series": "パンどろぼう",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101916",
+      "isbn": "4335396900320",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "パンどろぼうとさすらいラーメン",
+        "author": "柴田 ケイコ",
+        "score": 66,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 11
+          }
+        ],
+        "source": "combined",
+        "rank": 40,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "パンどろぼうとさすらいラーメン",
+        "author": "柴田 ケイコ",
+        "isbn": "",
+        "score": 169,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 11
           }
         ],
         "source": "combined",
@@ -939,53 +909,6 @@
       }
     },
     {
-      "id": "7276547556001",
-      "title": "波動の法則　実践体験報告",
-      "author": "形態波動エネルギー研究所/今井博樹",
-      "publisher": "ナチュラルスピリット",
-      "price": 1463,
-      "url": "https://books.rakuten.co.jp/rk/1c25a4328b393314a30ea91d000b01ee/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5634/2000006795634.jpg?_ex=600x600",
-      "caption": "『波動の法則』『真 地球の歴史』以降の最新の研究成果を公開! 今までの宇宙や時空についての概念をはるかに超える内容になっています。時空の根源となるものについて、回転について、時空のサイクルについて、病気のこと、お金の本質について、家族の重要性、直観について、ウォークインについてパワースポットや先祖供養まで、お聞きして、公開できるものを公開しています。そこには常に、「自然の仕組み」に適ってより調和した方向に展開するために、ということが前提となって語られています。現在、人々はどんどん振動波を落とし、多くの方がマイナスの状態になっているとのことですが、この本が「自然の仕組み」に適ってより調和した方向に方向転換するための気づきに役立てていただけましたら幸いです。/「今、この時期、地球という惑星にとって必要かつ重要な情報を「波動の法則」の実践体験に基づく適切なる実例を含めて、可能な限り正確に報告し、私達地球人の意識レベルが興味本位を卒業して、本気で人生をかけて何のために生まれ、何のために生きるのか、自然の仕組みに適って調和のとれた方向に直観を使って、決心をして実行され、現実の日常生活に環現し、自らも実体験される事により、読者の一人一人が現実のエゴの文化のなかで真の生き方に向かって勇気が生まれる機会となるよう最善を尽くす。」(足立育朗「あとがき」より)\n",
-      "salesDate": "2018年10月01日",
-      "series": "波動の法則　実践体験報告",
-      "reviewAverage": 5,
-      "reviewCount": 1,
-      "genreId": "101909013/101907003003/101907002002",
-      "isbn": "7276547556001",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "波動の法則",
-        "author": "足立 育朗",
-        "score": 58,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 13
-          }
-        ],
-        "source": "combined",
-        "rank": 54,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "波動の法則",
-        "author": "足立 育朗",
-        "isbn": "",
-        "score": 167,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 13
-          }
-        ],
-        "source": "combined",
-        "rank": 15
-      }
-    },
-    {
       "id": "4310000862928",
       "title": "転生したらスライムだった件（３２）",
       "author": "川上泰樹/伏瀬/みっつばー",
@@ -1004,8 +927,7 @@
       "matchMeta": {
         "title": "転生したらスライムだった件(33) (シリウスKC)",
         "author": "川上 泰樹",
-        "isbn": "",
-        "score": 167,
+        "score": 58,
         "sources": [
           {
             "source": "amazon",
@@ -1014,7 +936,8 @@
           }
         ],
         "source": "combined",
-        "rank": 44
+        "rank": 44,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "転生したらスライムだった件(33) (シリウスKC)",
@@ -1029,7 +952,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16
+        "rank": 15
       }
     },
     {
@@ -1060,7 +983,7 @@
           }
         ],
         "source": "combined",
-        "rank": 62,
+        "rank": 48,
         "originalTitle": ""
       },
       "ranking": {
@@ -1076,54 +999,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17
-      }
-    },
-    {
-      "id": "8910128251768",
-      "title": "自分の思いを言葉にする こどもアウトプット図鑑",
-      "author": "樺沢紫苑/精神科医さわ",
-      "publisher": "サンクチュアリ出版",
-      "price": 1650,
-      "url": "https://books.rakuten.co.jp/rk/4b19036bb6eb355dbe194b8ac4082170/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7570/2000017087570.jpg?_ex=600x600",
-      "caption": "◎子どもの「話す」「書く」「行動する」能力を最大化！\n◎シリーズ100万部『学びを結果に変えるアウトプット大全』待望の小学生版\n◎小学生を取材して集めた悩みごとに「心のお医者さん」が名回答\n◎82項目すべてにイラスト＆今日からできる『アクションプラン』付きでわかりやすい\n◎小1から自分で読める！（全漢字ふりがなつき）\n大ベストセラー『学びを結果に変えるアウトプット大全』の精神科医樺沢紫苑と、『子どもが本当に思っていること』の精神科医さわの初タッグ。\n子どもの話す・書く・行動する力を育む本です。\n・どうすれば人気者になれる？\n・お母さんの機嫌が悪いときはどうすればいい？\n・ゲームの時間をのばすには？\n・友だちになりたい子に、なんて声かけたらいい？\n・勉強がなかなかはじめられない\n・大人はずっとスマホ見ているのに、なんで子どもにはダメって言うの？\n・大人って大変？　楽しい？　\nなど、小学生を取材して集めた「学校や家で困っていること」の中から厳選。\n精神科医2人が子どもの目線で解決プランを提案します。\n",
-      "salesDate": "2025年03月07日",
-      "series": "",
-      "reviewAverage": 4.73,
-      "reviewCount": 14,
-      "genreId": "101905010",
-      "isbn": "8910128251768",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "自分の思いを言葉にする こどもアウトプット図鑑",
-        "author": "樺沢 紫苑/精神科医さわ",
-        "score": 50,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 15
-          }
-        ],
-        "source": "combined",
-        "rank": 60,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "自分の思いを言葉にする こどもアウトプット図鑑",
-        "author": "樺沢 紫苑/精神科医さわ",
-        "isbn": "",
-        "score": 165,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 15
-          }
-        ],
-        "source": "combined",
-        "rank": 18
+        "rank": 16
       }
     },
     {
@@ -1154,7 +1030,7 @@
           }
         ],
         "source": "combined",
-        "rank": 68,
+        "rank": 52,
         "originalTitle": ""
       },
       "ranking": {
@@ -1170,7 +1046,7 @@
           }
         ],
         "source": "combined",
-        "rank": 19
+        "rank": 17
       }
     },
     {
@@ -1192,8 +1068,7 @@
       "matchMeta": {
         "title": "イン・ザ・メガチャーチ",
         "author": "",
-        "isbn": "",
-        "score": 161,
+        "score": 34,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1202,7 +1077,8 @@
           }
         ],
         "source": "combined",
-        "rank": 60
+        "rank": 55,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "イン・ザ・メガチャーチ",
@@ -1217,7 +1093,54 @@
           }
         ],
         "source": "combined",
-        "rank": 20
+        "rank": 18
+      }
+    },
+    {
+      "id": "4770024930000",
+      "title": "改訂新版 入社1年目 ビジネスマナーの教科書",
+      "author": "西出ひろ子",
+      "publisher": "プレジデント社",
+      "price": 1430,
+      "url": "https://books.rakuten.co.jp/rk/854545aaf4cc34058ef9c1d9756664a8/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4081/2000014864081.jpg?_ex=600x600",
+      "caption": "【内容紹介】\n新入社員、転職して新しい職場で仕事を始める人、若手をマネジメントする管理職、すべてのビジネスパーソンへ。\n社会人として必要なビジネスマナーのすべてを図解で紹介。\n「テレワークのマナー」など、昨今のビジネスシーンに即した内容で、\nビジネスマナー全般をイラストとともにまず理解したい人にお薦め。\n今日から、すぐに使える一冊です！\n【目次抜粋】\n第1章 社会人に求められる「身だしなみ」の基本\n第2章 社会人に求められる「コミュニケーション」の基本\n第3章 社会人に求められる「話し方・聞き方」の基本\n第4章 社会人に求められる「テレワーク」の基本\n第5章 社会人に求められる「電話応対」の基本\n第6章 社会人に求められる「敬語」の基本\n第7章 社会人に求められる「指示・報告・連絡・相談・確認」の基本\n第8章 社会人に求められる「来客応対」の基本\n第9章 社会人に求められる「他社訪問」の基本\n第10章 社会人に求められる「ビジネス文書」の基本\n第11章 社会人に求められる「ビジネスメール」の基本\n第12章 社会人に求められる「会食」の基本\n第13章 社会人に求められる「葬式」の基本\n第14章 社会人に求められる「結婚式」「お見舞い」の基本\n",
+      "salesDate": "2024年03月16日",
+      "series": "",
+      "reviewAverage": 3.67,
+      "reviewCount": 3,
+      "genreId": "101905009",
+      "isbn": "4770024930000",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "入社1年目ビジネスマナーの教科書 (改訂新版)",
+        "author": "",
+        "score": 30,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 20
+          }
+        ],
+        "source": "combined",
+        "rank": 57,
+        "originalTitle": "入社１年目ビジネスマナーの教科書 （改訂新版）"
+      },
+      "ranking": {
+        "title": "入社１年目ビジネスマナーの教科書 （改訂新版）",
+        "author": "",
+        "isbn": "",
+        "score": 160,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 20
+          }
+        ],
+        "source": "combined",
+        "rank": 19
       }
     },
     {
@@ -1239,8 +1162,7 @@
       "matchMeta": {
         "title": "週刊ファミ通 2026年10月1・8日合併号 No.1964",
         "author": "週刊ファミ通編集部",
-        "isbn": "",
-        "score": 160,
+        "score": 30,
         "sources": [
           {
             "source": "amazon",
@@ -1249,7 +1171,8 @@
           }
         ],
         "source": "combined",
-        "rank": 61
+        "rank": 58,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "週刊ファミ通 2026年10月1・8日合併号 No.1964",
@@ -1264,102 +1187,7 @@
           }
         ],
         "source": "combined",
-        "rank": 21
-      }
-    },
-    {
-      "id": "4770024930000",
-      "title": "改訂新版 入社1年目 ビジネスマナーの教科書",
-      "author": "西出ひろ子",
-      "publisher": "プレジデント社",
-      "price": 1430,
-      "url": "https://books.rakuten.co.jp/rk/854545aaf4cc34058ef9c1d9756664a8/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4081/2000014864081.jpg?_ex=600x600",
-      "caption": "【内容紹介】\n新入社員、転職して新しい職場で仕事を始める人、若手をマネジメントする管理職、すべてのビジネスパーソンへ。\n社会人として必要なビジネスマナーのすべてを図解で紹介。\n「テレワークのマナー」など、昨今のビジネスシーンに即した内容で、\nビジネスマナー全般をイラストとともにまず理解したい人にお薦め。\n今日から、すぐに使える一冊です！\n【目次抜粋】\n第1章 社会人に求められる「身だしなみ」の基本\n第2章 社会人に求められる「コミュニケーション」の基本\n第3章 社会人に求められる「話し方・聞き方」の基本\n第4章 社会人に求められる「テレワーク」の基本\n第5章 社会人に求められる「電話応対」の基本\n第6章 社会人に求められる「敬語」の基本\n第7章 社会人に求められる「指示・報告・連絡・相談・確認」の基本\n第8章 社会人に求められる「来客応対」の基本\n第9章 社会人に求められる「他社訪問」の基本\n第10章 社会人に求められる「ビジネス文書」の基本\n第11章 社会人に求められる「ビジネスメール」の基本\n第12章 社会人に求められる「会食」の基本\n第13章 社会人に求められる「葬式」の基本\n第14章 社会人に求められる「結婚式」「お見舞い」の基本\n",
-      "salesDate": "2024年03月16日",
-      "series": "",
-      "reviewAverage": 3.67,
-      "reviewCount": 3,
-      "genreId": "101905009",
-      "isbn": "4770024930000",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "入社１年目ビジネスマナーの教科書 （改訂新版）",
-        "author": "",
-        "isbn": "",
-        "score": 160,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 20
-          }
-        ],
-        "source": "combined",
-        "rank": 62
-      },
-      "ranking": {
-        "title": "入社１年目ビジネスマナーの教科書 （改訂新版）",
-        "author": "",
-        "isbn": "",
-        "score": 160,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 20
-          }
-        ],
-        "source": "combined",
-        "rank": 22
-      }
-    },
-    {
-      "id": "7225000908848",
-      "title": "ゆるキャン△　１９巻",
-      "author": "あｆろ",
-      "publisher": "芳文社",
-      "price": 880,
-      "url": "https://books.rakuten.co.jp/rk/2e05dc18629c31c7a4df524017200304/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8495/2000021498495.jpg?_ex=600x600",
-      "caption": "まんがタイムＫＲコミックス『ゆるキャン△　１９巻』※本作品の紹介文は現在作成中です。作成できましたら反映いたしますので、今しばらくお待ちください。\n",
-      "salesDate": "2026年10月09日",
-      "series": "ゆるキャン△",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904",
-      "isbn": "7225000908848",
-      "salesType": 1,
-      "matchMeta": {
-        "title": "ゆるキャン△ 19",
-        "author": "あfろ",
-        "isbn": "",
-        "score": 159,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 21
-          }
-        ],
-        "source": "combined",
-        "rank": 63,
-        "originalTitle": "ゆるキャン△ １９ (まんがタイムKRコミックス)"
-      },
-      "ranking": {
-        "title": "ゆるキャン△ １９ (まんがタイムKRコミックス)",
-        "author": "あfろ",
-        "isbn": "",
-        "score": 159,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 21
-          }
-        ],
-        "source": "combined",
-        "rank": 23
+        "rank": 20
       }
     },
     {
@@ -1381,8 +1209,7 @@
       "matchMeta": {
         "title": "「思い込み」が未来を決める 東大・早稲田大・筑波大生、上場企業経営者らを指導して",
         "author": "",
-        "isbn": "",
-        "score": 159,
+        "score": 26,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1391,8 +1218,8 @@
           }
         ],
         "source": "combined",
-        "rank": 64,
-        "originalTitle": "「思い込み」が未来を決める 東大・早稲田大・筑波大生、上場企業経営者らを指導して"
+        "rank": 59,
+        "originalTitle": "「思い込み」が未来を決める　東大・早稲田大・筑波大生、上場企業経営者らを指導して"
       },
       "ranking": {
         "title": "「思い込み」が未来を決める 東大・早稲田大・筑波大生、上場企業経営者らを指導して",
@@ -1407,7 +1234,101 @@
           }
         ],
         "source": "combined",
-        "rank": 24
+        "rank": 21
+      }
+    },
+    {
+      "id": "7225000908848",
+      "title": "ゆるキャン△　１９巻",
+      "author": "あｆろ",
+      "publisher": "芳文社",
+      "price": 880,
+      "url": "https://books.rakuten.co.jp/rk/2e05dc18629c31c7a4df524017200304/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8495/2000021498495.jpg?_ex=600x600",
+      "caption": "まんがタイムＫＲコミックス『ゆるキャン△　１９巻』※本作品の紹介文は現在作成中です。作成できましたら反映いたしますので、今しばらくお待ちください。\n",
+      "salesDate": "2026年10月09日",
+      "series": "ゆるキャン△",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904",
+      "isbn": "7225000908848",
+      "salesType": 1,
+      "matchMeta": {
+        "title": "ゆるキャン△ 19",
+        "author": "あfろ",
+        "score": 26,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 21
+          }
+        ],
+        "source": "combined",
+        "rank": 60,
+        "originalTitle": "ゆるキャン△ １９ (まんがタイムKRコミックス)"
+      },
+      "ranking": {
+        "title": "ゆるキャン△ １９ (まんがタイムKRコミックス)",
+        "author": "あfろ",
+        "isbn": "",
+        "score": 159,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 21
+          }
+        ],
+        "source": "combined",
+        "rank": 22
+      }
+    },
+    {
+      "id": "6162024330161",
+      "title": "家庭画報 2026年1月号",
+      "author": "",
+      "publisher": "世界文化社",
+      "price": 1220,
+      "url": "https://books.rakuten.co.jp/rk/eb5ebff282ca32ab9f3c550aaffed7b4/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1025/2000019281025.jpg?_ex=600x600",
+      "caption": "※この商品は固定レイアウトで作成されており、タブレットなど大きいディスプレイを備えた端末で読むことに適しています。\n新春特大号\n●2026年開運祈願　富士山から福来たる\n●その魅力は世界へ、未来へ　歌舞伎こそ、“国の宝”\n●本当においしい令和の「京おせち」レシピ\n●食・住・遊で堪能する　新しいハワイ\n●今をときめく人のお正月きもの\n●三浦璃来　木原龍一　歴史を変える奇跡のペア\n●シャンパーニュ　個性豊かなワイナリーを巡る旅へ\n●【新春付録】中山秀征　特別揮毫「寿ぎの心を書に宿して」\nほか\n※デジタル版には付録や記事が一部収録されない場合があります。\n　2026年1月号電子版には以下のコンテンツは含まれておりません。あらかじめご了承ください。\n　・【付録】祝箸５膳セット\n　・【付録】午年・開運切り絵\n　・【別冊付録】ハイジュエリーカレンダー　2026\n　・歌舞伎こそ国の宝（一部）\n",
+      "salesDate": "2025年12月01日",
+      "series": "家庭画報",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101950017/101950011",
+      "isbn": "6162024330161",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "家庭画報 2026年11月号",
+        "author": "家庭画報編集部",
+        "score": 22,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 22
+          }
+        ],
+        "source": "combined",
+        "rank": 62,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "家庭画報 2026年11月号",
+        "author": "家庭画報編集部",
+        "isbn": "",
+        "score": 158,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 22
+          }
+        ],
+        "source": "combined",
+        "rank": 23
       }
     },
     {
@@ -1438,7 +1359,7 @@
           }
         ],
         "source": "combined",
-        "rank": 88,
+        "rank": 65,
         "originalTitle": ""
       },
       "ranking": {
@@ -1454,7 +1375,7 @@
           }
         ],
         "source": "combined",
-        "rank": 25
+        "rank": 24
       }
     },
     {
@@ -1476,8 +1397,7 @@
       "matchMeta": {
         "title": "捨てられた僕と母猫と奇跡 - 心に傷を負った二人が新たに見つけた居場所",
         "author": "",
-        "isbn": "",
-        "score": 155,
+        "score": 10,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1486,7 +1406,8 @@
           }
         ],
         "source": "combined",
-        "rank": 72
+        "rank": 67,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "捨てられた僕と母猫と奇跡 - 心に傷を負った二人が新たに見つけた居場所",
@@ -1501,7 +1422,7 @@
           }
         ],
         "source": "combined",
-        "rank": 26
+        "rank": 25
       }
     },
     {
@@ -1533,7 +1454,7 @@
           }
         ],
         "source": "combined",
-        "rank": 73
+        "rank": 71
       },
       "ranking": {
         "title": "女の園の星 ５ (フィールコミックス)",
@@ -1548,7 +1469,7 @@
           }
         ],
         "source": "combined",
-        "rank": 27
+        "rank": 26
       }
     },
     {
@@ -1580,7 +1501,7 @@
           }
         ],
         "source": "combined",
-        "rank": 74
+        "rank": 72
       },
       "ranking": {
         "title": "営業実行学 - やりきる組織は、設計できる",
@@ -1595,7 +1516,7 @@
           }
         ],
         "source": "combined",
-        "rank": 28
+        "rank": 27
       }
     },
     {
@@ -1615,10 +1536,9 @@
       "isbn": "7328131415919",
       "salesType": 1,
       "matchMeta": {
-        "title": "黒執事(36) (Gファンタジーコミックス)",
+        "title": "黒執事(36)",
         "author": "枢やな",
-        "isbn": "",
-        "score": 153,
+        "score": 5,
         "sources": [
           {
             "source": "amazon",
@@ -1627,7 +1547,8 @@
           }
         ],
         "source": "combined",
-        "rank": 75
+        "rank": 75,
+        "originalTitle": "黒執事(36) (Gファンタジーコミックス)"
       },
       "ranking": {
         "title": "黒執事(36) (Gファンタジーコミックス)",
@@ -1642,7 +1563,7 @@
           }
         ],
         "source": "combined",
-        "rank": 29
+        "rank": 28
       }
     },
     {
@@ -1674,7 +1595,7 @@
           }
         ],
         "source": "combined",
-        "rank": 78
+        "rank": 76
       },
       "ranking": {
         "title": "ミリオンダラー強運思考",
@@ -1689,7 +1610,7 @@
           }
         ],
         "source": "combined",
-        "rank": 30
+        "rank": 29
       }
     },
     {
@@ -1720,7 +1641,7 @@
           }
         ],
         "source": "combined",
-        "rank": 4,
+        "rank": 3,
         "originalTitle": ""
       },
       "ranking": {
@@ -1735,7 +1656,7 @@
           }
         ],
         "source": "combined",
-        "rank": 31,
+        "rank": 30,
         "originalTitle": ""
       }
     },
@@ -1767,7 +1688,7 @@
           }
         ],
         "source": "combined",
-        "rank": 21,
+        "rank": 16,
         "originalTitle": ""
       },
       "ranking": {
@@ -1782,7 +1703,7 @@
           }
         ],
         "source": "combined",
-        "rank": 32,
+        "rank": 31,
         "originalTitle": ""
       }
     },
@@ -1814,7 +1735,7 @@
           }
         ],
         "source": "combined",
-        "rank": 45,
+        "rank": 36,
         "originalTitle": ""
       },
       "ranking": {
@@ -1829,7 +1750,7 @@
           }
         ],
         "source": "combined",
-        "rank": 33,
+        "rank": 32,
         "originalTitle": ""
       }
     }
@@ -1855,7 +1776,6 @@
     "business": [
       "4659733601001",
       "4659930526040",
-      "8910128251768",
       "4659930126040",
       "4770024930000",
       "7275000923851",
@@ -1865,7 +1785,6 @@
     "humanities": [
       "4380000407898",
       "4390000014247",
-      "7276547556001",
       "4390000016485",
       "4770025390000"
     ],
@@ -1877,8 +1796,7 @@
     ],
     "it": [],
     "life": [
-      "4380000407898",
-      "7276547556001"
+      "4380000407898"
     ],
     "health": [],
     "hobby": [],
@@ -1914,11 +1832,11 @@
       "complete": true
     },
     "business": {
-      "matched": 8,
+      "matched": 7,
       "complete": true
     },
     "humanities": {
-      "matched": 5,
+      "matched": 4,
       "complete": true
     },
     "nonfiction": {
@@ -1934,7 +1852,7 @@
       "complete": true
     },
     "life": {
-      "matched": 2,
+      "matched": 1,
       "complete": true
     },
     "health": {

@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "year",
-  "updatedAt": "2026-09-18T12:01:55.003Z",
+  "updatedAt": "2026-09-18T16:55:20.337Z",
   "candidateCount": 13,
-  "baseMatched": 6,
+  "baseMatched": 8,
   "matched": 9,
-  "addedMatches": 3,
+  "addedMatches": 1,
   "unavailable": [],
   "snapshots": {
     "tohan": {
@@ -190,9 +190,8 @@
       "salesType": 0,
       "matchMeta": {
         "title": "イン・ザ・メガチャーチ",
-        "author": "",
-        "isbn": "",
-        "score": 177,
+        "author": "朝井リョウ",
+        "score": 98,
         "sources": [
           {
             "source": "tohan",
@@ -202,7 +201,7 @@
         ],
         "source": "combined",
         "rank": 3,
-        "originalTitle": "イン･ザ･メガチャーチ"
+        "originalTitle": ""
       },
       "ranking": {
         "title": "イン･ザ･メガチャーチ",
@@ -332,9 +331,8 @@
       "salesType": 0,
       "matchMeta": {
         "title": "大河の一滴 最終章",
-        "author": "",
-        "isbn": "",
-        "score": 172,
+        "author": "五木寛之",
+        "score": 78,
         "sources": [
           {
             "source": "tohan",
@@ -344,7 +342,7 @@
         ],
         "source": "combined",
         "rank": 8,
-        "originalTitle": "大河の一滴 最終章"
+        "originalTitle": ""
       },
       "ranking": {
         "title": "大河の一滴 最終章",

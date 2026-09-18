@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-09-18T12:01:29.911Z",
+  "updatedAt": "2026-09-18T16:54:49.002Z",
   "candidateCount": 81,
-  "baseMatched": 17,
-  "matched": 30,
-  "addedMatches": 13,
+  "baseMatched": 19,
+  "matched": 33,
+  "addedMatches": 14,
   "unavailable": [
     "rakuten"
   ],
@@ -41,6 +41,12 @@
           "rank": 15
         },
         {
+          "title": "会社四季報 2026年4集・秋号",
+          "author": "東洋経済新報社",
+          "isbn": "",
+          "rank": 17
+        },
+        {
           "title": "週刊ファミ通 2026年10月1・8日合併号 No.1964",
           "author": "週刊ファミ通編集部",
           "isbn": "",
@@ -53,6 +59,12 @@
           "rank": 21
         },
         {
+          "title": "家庭画報 2026年11月号",
+          "author": "家庭画報編集部",
+          "isbn": "",
+          "rank": 22
+        },
+        {
           "title": "女の園の星 ５ (フィールコミックス)",
           "author": "和山やま",
           "isbn": "",
@@ -63,6 +75,12 @@
           "author": "枢やな",
           "isbn": "",
           "rank": 27
+        },
+        {
+          "title": "初めてのたまごクラブ 2026年 秋号",
+          "author": "たまごクラブ",
+          "isbn": "",
+          "rank": 28
         }
       ]
     },
@@ -266,17 +284,12 @@
       "matchMeta": {
         "title": "パンどろぼうとさすらいラーメン",
         "author": "柴田　ケイコ",
-        "score": 162,
+        "score": 120,
         "sources": [
           {
             "source": "rakuten",
             "label": "楽天ブックス",
             "rank": 14
-          },
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 17
           },
           {
             "source": "amazon",
@@ -285,7 +298,7 @@
           }
         ],
         "source": "combined",
-        "rank": 1,
+        "rank": 2,
         "originalTitle": ""
       },
       "ranking": {
@@ -347,7 +360,7 @@
           }
         ],
         "source": "combined",
-        "rank": 3,
+        "rank": 1,
         "originalTitle": ""
       },
       "ranking": {
@@ -372,20 +385,20 @@
       }
     },
     {
-      "id": "4340008067051",
-      "title": "プレゼント（新潮文庫）",
-      "author": "伊坂幸太郎/江國香織/恩田陸/梨木香歩/町田そのこ/宮部みゆき/米澤穂信",
-      "publisher": "新潮社",
-      "price": 825,
-      "url": "https://books.rakuten.co.jp/rk/e8a60fd88eb63075a76e50e52cf98712/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8962/2000020598962.jpg?_ex=600x600",
-      "caption": "これはこれまで小説を愛してきてくれた人へ、そしてこれから小説の世界に一歩踏み出す人へ贈るプレゼント。何気なく読んだ物語が、ふと目にした一行が、意外な言葉ひとつが、人生を大きく変えるかもしれない。現代を代表する７人の作家が「夏」をテーマに書き下ろした、驚きと切なさ、怖さと美しさ、何よりとびきりの面白さを詰め込んだ奇跡の一冊。さぁ、あなたの人生に小説という選択肢を。\n",
-      "salesDate": "2026年06月24日",
-      "series": "",
-      "reviewAverage": 3.9,
-      "reviewCount": 346,
-      "genreId": "101901",
-      "isbn": "4340008067051",
+      "id": "4916475490001",
+      "title": "プレゼント",
+      "author": "若竹七海",
+      "publisher": "中央公論新社",
+      "price": 776,
+      "url": "https://books.rakuten.co.jp/rk/9fe631efeb0f3eb0a09ce80197395709/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1444/2000007701444.jpg?_ex=600x600",
+      "caption": "ルーム・クリーナー、電話相談、興信所。トラブルメイカーのフリーター・葉村晶と、娘に借りたピンクの子供用自転車で現場に駆けつける小林警部補。二人が巻き込まれたハードボイルドで悲しい八つの事件とはーー。間抜けだが悪気のない隣人たちがひき起こす騒動はいつも危険すぎる！\n",
+      "salesDate": "2019年08月30日",
+      "series": "プレゼント",
+      "reviewAverage": 3.52,
+      "reviewCount": 92,
+      "genreId": "101901/101902",
+      "isbn": "4916475490001",
       "salesType": 0,
       "matchMeta": {
         "title": "プレゼント",
@@ -399,7 +412,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12,
+        "rank": 11,
         "originalTitle": ""
       },
       "ranking": {
@@ -494,7 +507,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17,
+        "rank": 15,
         "originalTitle": ""
       },
       "ranking": {
@@ -579,7 +592,8 @@
       "matchMeta": {
         "title": "シャーロック・ホームズの凱旋",
         "author": "森見登美彦",
-        "score": 90,
+        "isbn": "",
+        "score": 175,
         "sources": [
           {
             "source": "maruzen",
@@ -588,8 +602,7 @@
           }
         ],
         "source": "combined",
-        "rank": 20,
-        "originalTitle": ""
+        "rank": 17
       },
       "ranking": {
         "title": "シャーロック・ホームズの凱旋",
@@ -626,7 +639,8 @@
       "matchMeta": {
         "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
         "author": "",
-        "score": 86,
+        "isbn": "",
+        "score": 174,
         "sources": [
           {
             "source": "kinokuniya",
@@ -635,8 +649,7 @@
           }
         ],
         "source": "combined",
-        "rank": 28,
-        "originalTitle": ""
+        "rank": 22
       },
       "ranking": {
         "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
@@ -682,7 +695,7 @@
           }
         ],
         "source": "combined",
-        "rank": 30,
+        "rank": 25,
         "originalTitle": ""
       },
       "ranking": {
@@ -776,7 +789,7 @@
           }
         ],
         "source": "combined",
-        "rank": 40,
+        "rank": 33,
         "originalTitle": ""
       },
       "ranking": {
@@ -823,7 +836,7 @@
           }
         ],
         "source": "combined",
-        "rank": 45,
+        "rank": 37,
         "originalTitle": ""
       },
       "ranking": {
@@ -918,7 +931,8 @@
           }
         ],
         "source": "combined",
-        "rank": 44
+        "rank": 44,
+        "originalTitle": "FOR OVERSEAS"
       },
       "ranking": {
         "title": "FOR OVERSEAS",
@@ -964,7 +978,7 @@
           }
         ],
         "source": "combined",
-        "rank": 57,
+        "rank": 45,
         "originalTitle": ""
       },
       "ranking": {
@@ -1011,7 +1025,7 @@
           }
         ],
         "source": "combined",
-        "rank": 62,
+        "rank": 48,
         "originalTitle": ""
       },
       "ranking": {
@@ -1031,20 +1045,20 @@
       }
     },
     {
-      "id": "7276000297039",
-      "title": "金色のガッシュ！！ 2【単話版】 Page 7",
+      "id": "7276529347007",
+      "title": "金色のガッシュ！！ 完全版（7）",
       "author": "雷句誠",
       "publisher": "BIRGDIN BOARD Corp.",
-      "price": 110,
-      "url": "https://books.rakuten.co.jp/rk/6b91f4b3c92b3fc696b43e74f630bd8f/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3888/2000012023888.jpg?_ex=600x600",
-      "caption": "金色のガッシュ！！の続編。100名の魔物の子が戦い合う魔界の王を決める戦いが終わったその後・・・魔界の王が決まり、魔界では平和な日々が訪れていた・・・ハズだった！！現在の魔界について、衝撃の事実が明かされる。その絶望の淵で、３名の魔物の子供は賭けに出る。\n",
-      "salesDate": "2022年10月14日",
-      "series": "金色のガッシュ！！ 2【単話版】",
-      "reviewAverage": 0,
-      "reviewCount": 0,
+      "price": 660,
+      "url": "https://books.rakuten.co.jp/rk/2a5dd59a4b6e3073a0255dae7cdfc9cf/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6036/2000006796036.jpg?_ex=600x600",
+      "caption": "あの「金色のガッシュ！！」が完全版として登場！雷句誠による表紙全巻描き下ろし、カラーページはカラーのまま鮮やかによみがえります。そして注目は描き下ろしとなるオマケの短編マンガ「ガッシュカフェ」。魔物の子供達が戦いを離れ、お茶を飲みながら語り合い、意外な一面を見せ合います。第7回は「パティとベルギムE・O」がお客様。　第7巻は、とうとうウマゴンのパートナーが登場！そして、千年前の魔物のビッグスリー、ツァオロン、ベルギムE・O、パムーンとの戦いを収録！ビッグボインの必殺技、「ボインチョップ」も初披露されます！！第7巻はLEVEL120〜LEVEL140までを収録。\n",
+      "salesDate": "2018年10月01日",
+      "series": "金色のガッシュ！！",
+      "reviewAverage": 4.5,
+      "reviewCount": 2,
       "genreId": "101904",
-      "isbn": "7276000297039",
+      "isbn": "7276529347007",
       "salesType": 0,
       "matchMeta": {
         "title": "金色のガッシュ!! 2(7)",
@@ -1058,7 +1072,7 @@
           }
         ],
         "source": "combined",
-        "rank": 63,
+        "rank": 49,
         "originalTitle": "金色のガッシュ!! 2（7）"
       },
       "ranking": {
@@ -1075,6 +1089,53 @@
         ],
         "source": "combined",
         "rank": 17
+      }
+    },
+    {
+      "id": "4659930126040",
+      "title": "会社四季報 2026年4集 秋号",
+      "author": "",
+      "publisher": "東洋経済新報社",
+      "price": 2900,
+      "url": "https://books.rakuten.co.jp/rk/c8fde22d2a613729803ade257a2672d6/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0605/2000021650605.jpg?_ex=600x600",
+      "caption": "**※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字列のハイライトや検索、辞書の参照、引用などの機能が使用できません。\n【ご注意ください！】\n・本コンテンツは冊子版を電子化した大型電子雑誌です。ご利用いただく環境によっては、ダウンロードに時間がかかったり、一部ページの濃淡が明瞭でない場合がございますが、あらかじめご了承ください。\n・本コンテンツに社名や収録情報での検索機能はございません。巻頭の五十音順索引ページまたは本社所在地索引から、各社の掲載ページを探してください。**\n業績躍進＆株主還元強化\n「勝ち組」企業を探せ\n全上場3802社の業績を独自2期予想\n2026年4集秋号では、3月期決算企業の第1四半期決算実績を踏まえ、業界担当記者が今・来年度の業績を独自予想。\n日本国内全上場3,802社をフルカバーした四季報で、「勝ち組」企業を見つけましょう！\n株式投資はもちろんのこと、営業先開拓などのビジネスユースや就職活動などにも、ぜひお役立てください。\n【今号のおもなトピック】\n業績進捗率で上方修正先取り！\n「収益性の変化」で有望企業を発掘 営業利益率＆改善度を全社検証\n※お知らせ※\n●袋とじ付録は、ワイド版だけのオリジナル付録です。ご注意ください。\n●**「会社四季報ONLINE」最新情報多数！詳しくは巻末で。**\n",
+      "salesDate": "2026年09月16日",
+      "series": "",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101905017004",
+      "isbn": "4659930126040",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "会社四季報 2026年4集・秋号",
+        "author": "東洋経済新報社",
+        "score": 42,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 17
+          }
+        ],
+        "source": "combined",
+        "rank": 52,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "会社四季報 2026年4集・秋号",
+        "author": "東洋経済新報社",
+        "isbn": "",
+        "score": 163,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 17
+          }
+        ],
+        "source": "combined",
+        "rank": 18
       }
     },
     {
@@ -1096,7 +1157,8 @@
       "matchMeta": {
         "title": "イン・ザ・メガチャーチ",
         "author": "",
-        "score": 34,
+        "isbn": "",
+        "score": 161,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1105,8 +1167,7 @@
           }
         ],
         "source": "combined",
-        "rank": 72,
-        "originalTitle": ""
+        "rank": 59
       },
       "ranking": {
         "title": "イン・ザ・メガチャーチ",
@@ -1121,7 +1182,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18
+        "rank": 19
       }
     },
     {
@@ -1143,8 +1204,7 @@
       "matchMeta": {
         "title": "週刊ファミ通 2026年10月1・8日合併号 No.1964",
         "author": "週刊ファミ通編集部",
-        "isbn": "",
-        "score": 160,
+        "score": 30,
         "sources": [
           {
             "source": "amazon",
@@ -1153,8 +1213,8 @@
           }
         ],
         "source": "combined",
-        "rank": 60,
-        "originalTitle": "週刊ファミ通 2026年10月1・8日合併号 No.1964"
+        "rank": 58,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "週刊ファミ通 2026年10月1・8日合併号 No.1964",
@@ -1169,7 +1229,7 @@
           }
         ],
         "source": "combined",
-        "rank": 19
+        "rank": 20
       }
     },
     {
@@ -1189,10 +1249,9 @@
       "isbn": "7225000908848",
       "salesType": 1,
       "matchMeta": {
-        "title": "ゆるキャン△ １９ (まんがタイムKRコミックス)",
+        "title": "ゆるキャン△ 19",
         "author": "あfろ",
-        "isbn": "",
-        "score": 159,
+        "score": 26,
         "sources": [
           {
             "source": "amazon",
@@ -1201,7 +1260,8 @@
           }
         ],
         "source": "combined",
-        "rank": 62
+        "rank": 60,
+        "originalTitle": "ゆるキャン△ １９ (まんがタイムKRコミックス)"
       },
       "ranking": {
         "title": "ゆるキャン△ １９ (まんがタイムKRコミックス)",
@@ -1216,7 +1276,54 @@
           }
         ],
         "source": "combined",
-        "rank": 20
+        "rank": 21
+      }
+    },
+    {
+      "id": "6162024330161",
+      "title": "家庭画報 2026年1月号",
+      "author": "",
+      "publisher": "世界文化社",
+      "price": 1220,
+      "url": "https://books.rakuten.co.jp/rk/eb5ebff282ca32ab9f3c550aaffed7b4/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1025/2000019281025.jpg?_ex=600x600",
+      "caption": "※この商品は固定レイアウトで作成されており、タブレットなど大きいディスプレイを備えた端末で読むことに適しています。\n新春特大号\n●2026年開運祈願　富士山から福来たる\n●その魅力は世界へ、未来へ　歌舞伎こそ、“国の宝”\n●本当においしい令和の「京おせち」レシピ\n●食・住・遊で堪能する　新しいハワイ\n●今をときめく人のお正月きもの\n●三浦璃来　木原龍一　歴史を変える奇跡のペア\n●シャンパーニュ　個性豊かなワイナリーを巡る旅へ\n●【新春付録】中山秀征　特別揮毫「寿ぎの心を書に宿して」\nほか\n※デジタル版には付録や記事が一部収録されない場合があります。\n　2026年1月号電子版には以下のコンテンツは含まれておりません。あらかじめご了承ください。\n　・【付録】祝箸５膳セット\n　・【付録】午年・開運切り絵\n　・【別冊付録】ハイジュエリーカレンダー　2026\n　・歌舞伎こそ国の宝（一部）\n",
+      "salesDate": "2025年12月01日",
+      "series": "家庭画報",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101950017/101950011",
+      "isbn": "6162024330161",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "家庭画報 2026年11月号",
+        "author": "家庭画報編集部",
+        "score": 22,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 22
+          }
+        ],
+        "source": "combined",
+        "rank": 62,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "家庭画報 2026年11月号",
+        "author": "家庭画報編集部",
+        "isbn": "",
+        "score": 158,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 22
+          }
+        ],
+        "source": "combined",
+        "rank": 22
       }
     },
     {
@@ -1263,7 +1370,7 @@
           }
         ],
         "source": "combined",
-        "rank": 21
+        "rank": 23
       }
     },
     {
@@ -1310,7 +1417,7 @@
           }
         ],
         "source": "combined",
-        "rank": 22
+        "rank": 24
       }
     },
     {
@@ -1357,7 +1464,7 @@
           }
         ],
         "source": "combined",
-        "rank": 23
+        "rank": 25
       }
     },
     {
@@ -1377,10 +1484,9 @@
       "isbn": "4681308443742",
       "salesType": 0,
       "matchMeta": {
-        "title": "女の園の星 ５ (フィールコミックス)",
+        "title": "女の園の星 5",
         "author": "和山やま",
-        "isbn": "",
-        "score": 154,
+        "score": 6,
         "sources": [
           {
             "source": "amazon",
@@ -1389,7 +1495,8 @@
           }
         ],
         "source": "combined",
-        "rank": 72
+        "rank": 70,
+        "originalTitle": "女の園の星 ５ (フィールコミックス)"
       },
       "ranking": {
         "title": "女の園の星 ５ (フィールコミックス)",
@@ -1404,7 +1511,7 @@
           }
         ],
         "source": "combined",
-        "rank": 24
+        "rank": 26
       }
     },
     {
@@ -1451,7 +1558,7 @@
           }
         ],
         "source": "combined",
-        "rank": 25
+        "rank": 27
       }
     },
     {
@@ -1482,7 +1589,7 @@
           }
         ],
         "source": "combined",
-        "rank": 103,
+        "rank": 75,
         "originalTitle": "黒執事(36) (Gファンタジーコミックス)"
       },
       "ranking": {
@@ -1498,7 +1605,55 @@
           }
         ],
         "source": "combined",
-        "rank": 26
+        "rank": 28
+      }
+    },
+    {
+      "id": "7131316863590",
+      "title": "初めてのたまごクラブ2026年秋号",
+      "author": "たまごクラブ編集部",
+      "publisher": "ベネッセコーポレーション",
+      "price": 1720,
+      "url": "https://books.rakuten.co.jp/rk/085802edf66e3b7fbbd473c05ab4ae03/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1302/2000021771302.jpg?_ex=600x600",
+      "caption": "※注：電子版には紙の雑誌に掲載された一部の広告や特集ページ、付録、冊子、クーポンなど掲載されない場合があります。一部目次が内容と異なる場合があります。ご了承ください。\n※電子版には「GELARTO　PIQUE マタニティマークストラップ＆母子手帳ポーチ」はつきません\nたまひよは、妊娠期2誌＋育児期2誌の計4誌\n【応募者全員プレゼント】\nGELATO　PIQUE（ジェラートピケ）\nエコー写真専用アルバム\n※応募にはスマホアプリ「まいにちのたまひよ」(無料)が必要です。\n※応募は2026年12月14日(月) 9:00まで\n【別冊付録】\n＼妻の妊娠がわかったら最初に読む本／\nパパBOOK\n妊娠〜育児が見通せる入門書\n【とじ込みBOOK】\n家族を幸せにするお金＆夫婦の話\n【とじ込み付録】\n・妊娠4〜15週 おなかの赤ちゃん 実物大シート\n・妊娠中の食べ物＆飲み物 OK・NG 早わかりチェックシート\n【大特集】\n産院選び＆今後の見通し　妊娠したらまず”気になること”解説\n妊娠中にやっていいこと？ダメなこと？ 気がかり解消　全278問Q＆A\n【特集】\n・妊娠判明！そのあと、みんなどうしてた？\n・つわり大解剖！つらさをラクにするためにできること\n・超音波写真の見方ガイド\n・妊娠線をつくらないための“保湿ケア”\n・解説 妊娠初期の「出血」「おなかの痛み」\n・先輩ママが選んだ妊婦におすすめの飲み物ランキング\n・働く妊婦の“困った…”解決マニュアル\n・“出生前検査”きちんと知っていますか？\n・葉酸たっぷり食材図鑑\n・不妊治療を乗り越えて。私の妊娠ヒストリー\n・感染症 今すぐ妊婦と家族が知っておきたいこと\n・マタニティインナーはコスパ重視でそろえたい！\nほか\n",
+      "salesDate": "2026年09月15日",
+      "series": "初めてのたまごクラブ",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101950021/101907010004",
+      "isbn": "7131316863590",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "初めてのたまごクラブ 2026年 秋号",
+        "author": "たまごクラブ",
+        "isbn": "",
+        "score": 152,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 28
+          }
+        ],
+        "source": "combined",
+        "rank": 76,
+        "originalTitle": "初めてのたまごクラブ 2026年 秋号"
+      },
+      "ranking": {
+        "title": "初めてのたまごクラブ 2026年 秋号",
+        "author": "たまごクラブ",
+        "isbn": "",
+        "score": 152,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 28
+          }
+        ],
+        "source": "combined",
+        "rank": 29
       }
     },
     {
@@ -1545,7 +1700,7 @@
           }
         ],
         "source": "combined",
-        "rank": 27
+        "rank": 30
       }
     },
     {
@@ -1591,7 +1746,7 @@
           }
         ],
         "source": "combined",
-        "rank": 28,
+        "rank": 31,
         "originalTitle": ""
       }
     },
@@ -1623,7 +1778,7 @@
           }
         ],
         "source": "combined",
-        "rank": 21,
+        "rank": 18,
         "originalTitle": ""
       },
       "ranking": {
@@ -1638,7 +1793,7 @@
           }
         ],
         "source": "combined",
-        "rank": 29,
+        "rank": 32,
         "originalTitle": ""
       }
     },
@@ -1670,7 +1825,7 @@
           }
         ],
         "source": "combined",
-        "rank": 46,
+        "rank": 38,
         "originalTitle": ""
       },
       "ranking": {
@@ -1685,14 +1840,14 @@
           }
         ],
         "source": "combined",
-        "rank": 30,
+        "rank": 33,
         "originalTitle": ""
       }
     }
   ],
   "byGenre": {
     "fiction": [
-      "4340008067051",
+      "4916475490001",
       "4340008067611",
       "4331000700320",
       "4910000909001",
@@ -1702,6 +1857,7 @@
       "4480000838415"
     ],
     "mystery": [
+      "4916475490001",
       "4390000005636",
       "4620000615075",
       "4620000615076"
@@ -1710,6 +1866,7 @@
     "business": [
       "4659733601001",
       "4659930526040",
+      "4659930126040",
       "7275000923851",
       "4410000009676",
       "4770024930000"
@@ -1718,7 +1875,8 @@
       "4380000407898",
       "4390000014247",
       "4390000016485",
-      "4770025390000"
+      "4770025390000",
+      "7131316863590"
     ],
     "nonfiction": [
       "4390000014247"
@@ -1745,7 +1903,7 @@
     "comic": [
       "7131315591790",
       "4310000862928",
-      "7276000297039",
+      "7276529347007",
       "7225000908848",
       "4681308443742",
       "7328131415919"
@@ -1757,7 +1915,7 @@
       "complete": true
     },
     "mystery": {
-      "matched": 3,
+      "matched": 4,
       "complete": true
     },
     "sf": {
@@ -1765,11 +1923,11 @@
       "complete": true
     },
     "business": {
-      "matched": 5,
+      "matched": 6,
       "complete": true
     },
     "humanities": {
-      "matched": 4,
+      "matched": 5,
       "complete": true
     },
     "nonfiction": {

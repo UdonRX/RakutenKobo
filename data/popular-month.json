@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-09-17T22:02:24.456Z",
+  "updatedAt": "2026-09-18T05:28:54.941Z",
   "candidateCount": 40,
-  "baseMatched": 11,
-  "matched": 18,
-  "addedMatches": 7,
+  "baseMatched": 12,
+  "matched": 16,
+  "addedMatches": 4,
   "unavailable": [],
   "snapshots": {
     "kinokuniya": {
@@ -17,7 +17,7 @@
       "attribution": "紀伊國屋書店調べ",
       "sourceUrl": "https://www.kinokuniya.co.jp/disp/CKnRankingPageCList.jsp?dispNo=107002001001&vTp=m",
       "periodLabel": "マンスリー",
-      "updatedAt": "2026-09-17",
+      "updatedAt": "2026-09-18",
       "live": true,
       "items": [
         {
@@ -36,7 +36,7 @@
           "title": "イン・ザ・メガチャーチ",
           "author": "",
           "isbn": "",
-          "rank": 10
+          "rank": 8
         },
         {
           "title": "会社四季報業界地図 〈２０２７年版〉",
@@ -48,19 +48,13 @@
           "title": "夏帆 - Ｔｈｅ Ｔａｌｅ ｏｆ ＫＡＨＯ",
           "author": "",
           "isbn": "",
-          "rank": 20
+          "rank": 23
         },
         {
           "title": "ギャルにひかれて寺マルシェ",
           "author": "",
           "isbn": "",
-          "rank": 25
-        },
-        {
-          "title": "ファイア・ドーム 〈上〉",
-          "author": "",
-          "isbn": "",
-          "rank": 30
+          "rank": 29
         }
       ]
     },
@@ -70,7 +64,7 @@
       "attribution": "トーハン調べ",
       "sourceUrl": "https://www.tohan.jp/bestsellers/2026_08_monthly/",
       "periodLabel": "月間",
-      "updatedAt": "2026-09-17",
+      "updatedAt": "2026-09-18",
       "live": true,
       "items": [
         {
@@ -90,12 +84,6 @@
           "author": "",
           "isbn": "",
           "rank": 9
-        },
-        {
-          "title": "キングダム magazine 2026",
-          "author": "",
-          "isbn": "",
-          "rank": 10
         },
         {
           "title": "FOR OVERSEAS",
@@ -278,7 +266,8 @@
           }
         ],
         "source": "combined",
-        "rank": 10
+        "rank": 10,
+        "originalTitle": "つかめ!理科ダマン 12 最強ロボット決戦!編"
       },
       "ranking": {
         "title": "つかめ!理科ダマン 12 最強ロボット決戦!編",
@@ -294,6 +283,58 @@
         ],
         "source": "combined",
         "rank": 4
+      }
+    },
+    {
+      "id": "4660629612104",
+      "title": "イン・ザ・メガチャーチ",
+      "author": "朝井リョウ",
+      "publisher": "日経BP",
+      "price": 2200,
+      "url": "https://books.rakuten.co.jp/rk/d3fd58a999d73fbaaf1de480b1d262ba/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3254/2000018463254.jpg?_ex=600x600",
+      "caption": "☆2026年本屋大賞受賞☆\n【第9回未来屋小説大賞】\n【第2回あの本、読みました？大賞】\n沈みゆく列島で、“界隈”は沸騰するーー。\nあるアイドルグループの運営に参画することになった、家族と離れて暮らす男。内向的で繊細な気質ゆえ積み重なる心労を癒やしたい大学生。仲間と楽しく舞台俳優を応援していたが、とある報道で状況が一変する女。ファンダム経済を仕掛ける側、のめり込む側、かつてのめり込んでいた側ーー世代も立場も異なる３つの視点から、人の心を動かす“物語”の功罪を炙り出す。\n「神がいないこの国で人を操るには、“物語”を使うのが一番いいんですよ」\n",
+      "salesDate": "2025年09月03日",
+      "series": "",
+      "reviewAverage": 4.28,
+      "reviewCount": 3471,
+      "genreId": "101901",
+      "isbn": "4660629612104",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "イン・ザ・メガチャーチ",
+        "author": "朝井リョウ",
+        "score": 160,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 7
+          },
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 1,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "イン・ザ・メガチャーチ",
+        "author": "",
+        "isbn": "",
+        "score": 172,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 5
       }
     },
     {
@@ -325,7 +366,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16
+        "rank": 17
       },
       "ranking": {
         "title": "地球の歩き方 スター･ウォーズ",
@@ -340,106 +381,7 @@
           }
         ],
         "source": "combined",
-        "rank": 5
-      }
-    },
-    {
-      "id": "4660629612104",
-      "title": "イン・ザ・メガチャーチ",
-      "author": "朝井リョウ",
-      "publisher": "日経BP",
-      "price": 2200,
-      "url": "https://books.rakuten.co.jp/rk/d3fd58a999d73fbaaf1de480b1d262ba/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3254/2000018463254.jpg?_ex=600x600",
-      "caption": "☆2026年本屋大賞受賞☆\n【第9回未来屋小説大賞】\n【第2回あの本、読みました？大賞】\n沈みゆく列島で、“界隈”は沸騰するーー。\nあるアイドルグループの運営に参画することになった、家族と離れて暮らす男。内向的で繊細な気質ゆえ積み重なる心労を癒やしたい大学生。仲間と楽しく舞台俳優を応援していたが、とある報道で状況が一変する女。ファンダム経済を仕掛ける側、のめり込む側、かつてのめり込んでいた側ーー世代も立場も異なる３つの視点から、人の心を動かす“物語”の功罪を炙り出す。\n「神がいないこの国で人を操るには、“物語”を使うのが一番いいんですよ」\n",
-      "salesDate": "2025年09月03日",
-      "series": "",
-      "reviewAverage": 4.28,
-      "reviewCount": 3471,
-      "genreId": "101901",
-      "isbn": "4660629612104",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "イン・ザ・メガチャーチ",
-        "author": "朝井リョウ",
-        "score": 152,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 7
-          },
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 2,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "イン・ザ・メガチャーチ",
-        "author": "",
-        "isbn": "",
-        "score": 170,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
         "rank": 6
-      }
-    },
-    {
-      "id": "4972000161524",
-      "title": "キングダム magazine 2026",
-      "author": "原泰久",
-      "publisher": "集英社",
-      "price": 1881,
-      "url": "https://books.rakuten.co.jp/rk/47fb09e2be1731b4a06b3f70f3466419/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2094/2000021122094.jpg?_ex=600x600",
-      "caption": "キングダム連載20周年を記念して、読むたびにアツくなる！　語りたくなる!!　キングダムを楽しみ尽くす一冊!!　読切『金剛』掲載。『キングダム』の原点、主人公・信が誕生した幻の読切を再掲。原泰久3大インタビュー。・20周年スペシャル単独インタビュー　・原泰久×松原利光（YJ連載『ガス灯野良犬探偵団』作画）×笠原真樹（ビッグコミックスピリッツ連載『夢なし先生の進路指導』） 師弟鼎談　・ちばてつや×原泰久特別対談。　大特集『キングダム』二十年の軌跡。様々な角度から連載20年を振り返る大特集。その他、映画、アニメ、ゲーム、キングダムの20年が凝縮された企画盛り沢山の240ページ。　※電子版には3大アプリゲーム特典コードはつきません。\n",
-      "salesDate": "2026年08月19日",
-      "series": "キングダム magazine 2026",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904002006",
-      "isbn": "4972000161524",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "キングダム magazine 2026",
-        "author": "",
-        "isbn": "",
-        "score": 170,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 18
-      },
-      "ranking": {
-        "title": "キングダム magazine 2026",
-        "author": "",
-        "isbn": "",
-        "score": 170,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 7
       }
     },
     {
@@ -486,7 +428,7 @@
           }
         ],
         "source": "combined",
-        "rank": 8
+        "rank": 7
       }
     },
     {
@@ -533,7 +475,7 @@
           }
         ],
         "source": "combined",
-        "rank": 9
+        "rank": 8
       }
     },
     {
@@ -553,34 +495,34 @@
       "isbn": "4340008066911",
       "salesType": 0,
       "matchMeta": {
-        "title": "夏帆 - Ｔｈｅ Ｔａｌｅ ｏｆ ＫＡＨＯ",
+        "title": "夏帆 - The Tale of KAHO",
         "author": "",
-        "isbn": "",
-        "score": 160,
+        "score": 18,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 20
+            "rank": 23
           }
         ],
         "source": "combined",
-        "rank": 30
+        "rank": 31,
+        "originalTitle": "夏帆 - Ｔｈｅ　Ｔａｌｅ　ｏｆ　ＫＡＨＯ"
       },
       "ranking": {
         "title": "夏帆 - Ｔｈｅ Ｔａｌｅ ｏｆ ＫＡＨＯ",
         "author": "",
         "isbn": "",
-        "score": 160,
+        "score": 157,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 20
+            "rank": 23
           }
         ],
         "source": "combined",
-        "rank": 10
+        "rank": 9
       }
     },
     {
@@ -602,79 +544,32 @@
       "matchMeta": {
         "title": "ギャルにひかれて寺マルシェ",
         "author": "",
-        "score": 10,
+        "score": 5,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 25
+            "rank": 29
           }
         ],
         "source": "combined",
-        "rank": 33,
+        "rank": 37,
         "originalTitle": ""
       },
       "ranking": {
         "title": "ギャルにひかれて寺マルシェ",
         "author": "",
         "isbn": "",
-        "score": 155,
+        "score": 151,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 25
+            "rank": 29
           }
         ],
         "source": "combined",
-        "rank": 11
-      }
-    },
-    {
-      "id": "4320000865495",
-      "title": "ファイア・ドーム 上",
-      "author": "辻村深月",
-      "publisher": "小学館",
-      "price": 1881,
-      "url": "https://books.rakuten.co.jp/rk/22c26517c9353107819b56539afa6896/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1853/2000020771853.jpg?_ex=600x600",
-      "caption": "人はなぜ大きな事件に魅了されてしまうのか。\n噂は、軽薄な娯楽だ。\n25年前、平穏だったはずの地方都市は、百貨店受付嬢誘拐殺人事件の発生、その報道により揺り動かされ、「噂」という大量の炎が、加害者のみならず被害者にも降り注ぎ、燃えさかった。ようやく静けさを取り戻したかに見える町に燻り続ける因縁が、いま新たな事件を呼び起こすーー。\n「もう言われてるよ！　どうせ、親が殺したんだろうって！」ーー本文より\n",
-      "salesDate": "2026年06月05日",
-      "series": "ファイア・ドーム",
-      "reviewAverage": 4.56,
-      "reviewCount": 411,
-      "genreId": "101901/101902",
-      "isbn": "4320000865495",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ファイア・ドーム 〈上〉",
-        "author": "",
-        "isbn": "",
-        "score": 150,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 30
-          }
-        ],
-        "source": "combined",
-        "rank": 40
-      },
-      "ranking": {
-        "title": "ファイア・ドーム 〈上〉",
-        "author": "",
-        "isbn": "",
-        "score": 150,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 30
-          }
-        ],
-        "source": "combined",
-        "rank": 12
+        "rank": 10
       }
     },
     {
@@ -705,7 +600,7 @@
           }
         ],
         "source": "combined",
-        "rank": 4,
+        "rank": 3,
         "originalTitle": ""
       },
       "ranking": {
@@ -720,54 +615,54 @@
           }
         ],
         "source": "combined",
-        "rank": 13,
+        "rank": 11,
         "originalTitle": ""
       }
     },
     {
-      "id": "4320000865494",
-      "title": "ファイア・ドーム 下",
+      "id": "4320000865495",
+      "title": "ファイア・ドーム 上",
       "author": "辻村深月",
       "publisher": "小学館",
       "price": 1881,
-      "url": "https://books.rakuten.co.jp/rk/0cf87d9a77c93fe8a0124e6398a0aa4b/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1763/2000020771763.jpg?_ex=600x600",
-      "caption": "お前の家は、人殺しだ。\n真実を知っても、人は忘れていく。\n25年前の夏、この町には炎が降り注いだ。百貨店受付嬢誘拐殺人事件という、身近で突然起こった全国レベルのニュースを、誰もがいつまでも終わらせたくなかった。傷ついた人をさらに傷つけてしまった土地に、事件の火の粉は、まだ残っている。夏の日、写生遠足の帰りに姿を消した少年は無事に帰ってくるのか？　25年前の事件には、「まだ明かされていない」事実が本当にあるのか？\n「病気なんかで、死ねると思うな」ーー本文より\n",
+      "url": "https://books.rakuten.co.jp/rk/22c26517c9353107819b56539afa6896/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1853/2000020771853.jpg?_ex=600x600",
+      "caption": "人はなぜ大きな事件に魅了されてしまうのか。\n噂は、軽薄な娯楽だ。\n25年前、平穏だったはずの地方都市は、百貨店受付嬢誘拐殺人事件の発生、その報道により揺り動かされ、「噂」という大量の炎が、加害者のみならず被害者にも降り注ぎ、燃えさかった。ようやく静けさを取り戻したかに見える町に燻り続ける因縁が、いま新たな事件を呼び起こすーー。\n「もう言われてるよ！　どうせ、親が殺したんだろうって！」ーー本文より\n",
       "salesDate": "2026年06月05日",
       "series": "ファイア・ドーム",
-      "reviewAverage": 4.6,
-      "reviewCount": 568,
+      "reviewAverage": 4.56,
+      "reviewCount": 411,
       "genreId": "101901/101902",
-      "isbn": "4320000865494",
+      "isbn": "4320000865495",
       "salesType": 0,
       "matchMeta": {
-        "title": "ファイア・ドーム 下",
+        "title": "ファイア・ドーム 上",
         "author": "辻村深月",
-        "score": 98,
+        "score": 102,
         "sources": [
           {
             "source": "tohan",
             "label": "トーハン",
-            "rank": 3
+            "rank": 2
           }
         ],
         "source": "combined",
-        "rank": 7,
+        "rank": 5,
         "originalTitle": ""
       },
       "ranking": {
-        "title": "ファイア・ドーム 下",
+        "title": "ファイア・ドーム 上",
         "author": "辻村深月",
-        "score": 98,
+        "score": 102,
         "sources": [
           {
             "source": "tohan",
             "label": "トーハン",
-            "rank": 3
+            "rank": 2
           }
         ],
         "source": "combined",
-        "rank": 14,
+        "rank": 12,
         "originalTitle": ""
       }
     },
@@ -814,7 +709,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15,
+        "rank": 13,
         "originalTitle": ""
       }
     },
@@ -861,7 +756,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16,
+        "rank": 14,
         "originalTitle": ""
       }
     },
@@ -893,7 +788,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17,
+        "rank": 16,
         "originalTitle": ""
       },
       "ranking": {
@@ -908,7 +803,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17,
+        "rank": 15,
         "originalTitle": ""
       }
     },
@@ -955,7 +850,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18,
+        "rank": 16,
         "originalTitle": ""
       }
     }
@@ -966,16 +861,14 @@
       "4660629612104",
       "4340008066911",
       "4331000700320",
-      "4320000865495",
       "4320000867368",
-      "4320000865494",
+      "4320000865495",
       "4310000858457",
       "4390000015358"
     ],
     "mystery": [
       "4820000903843",
-      "4320000865495",
-      "4320000865494"
+      "4320000865495"
     ],
     "sf": [],
     "business": [
@@ -1010,17 +903,15 @@
     "essay": [
       "4320000867368"
     ],
-    "comic": [
-      "4972000161524"
-    ]
+    "comic": []
   },
   "genreStatus": {
     "fiction": {
-      "matched": 9,
+      "matched": 8,
       "complete": true
     },
     "mystery": {
-      "matched": 3,
+      "matched": 2,
       "complete": true
     },
     "sf": {
@@ -1076,7 +967,7 @@
       "complete": true
     },
     "comic": {
-      "matched": 1,
+      "matched": 0,
       "complete": true
     }
   }

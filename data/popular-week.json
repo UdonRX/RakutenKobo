@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-09-17T22:02:03.688Z",
-  "candidateCount": 80,
-  "baseMatched": 28,
-  "matched": 33,
-  "addedMatches": 5,
+  "updatedAt": "2026-09-18T05:28:38.219Z",
+  "candidateCount": 81,
+  "baseMatched": 20,
+  "matched": 32,
+  "addedMatches": 12,
   "unavailable": [
     "rakuten"
   ],
@@ -143,14 +143,14 @@
       "attribution": "紀伊國屋書店調べ",
       "sourceUrl": "https://www.kinokuniya.co.jp/disp/CKnRankingPageCList.jsp?dispNo=107002001001&vTp=w",
       "periodLabel": "ウィークリー",
-      "updatedAt": "2026-09-17",
+      "updatedAt": "2026-09-18",
       "live": true,
       "items": [
         {
-          "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
+          "title": "パンどろぼうとさすらいラーメン",
           "author": "",
           "isbn": "",
-          "rank": 6
+          "rank": 17
         },
         {
           "title": "イン・ザ・メガチャーチ",
@@ -159,16 +159,10 @@
           "rank": 19
         },
         {
-          "title": "入社１年目ビジネスマナーの教科書 （改訂新版）",
-          "author": "",
-          "isbn": "",
-          "rank": 20
-        },
-        {
           "title": "「思い込み」が未来を決める 東大・早稲田大・筑波大生、上場企業経営者らを指導して",
           "author": "",
           "isbn": "",
-          "rank": 21
+          "rank": 23
         },
         {
           "title": "帳の向こう",
@@ -189,10 +183,10 @@
           "rank": 26
         },
         {
-          "title": "ミリオンダラー強運思考",
+          "title": "入社１年目ビジネスマナーの教科書 （改訂新版）",
           "author": "",
           "isbn": "",
-          "rank": 28
+          "rank": 30
         }
       ]
     },
@@ -202,7 +196,7 @@
       "attribution": "トーハン調べ",
       "sourceUrl": "https://www.tohan.jp/bestsellers/2026_0908_weekly/",
       "periodLabel": "週間",
-      "updatedAt": "2026-09-17",
+      "updatedAt": "2026-09-18",
       "live": true,
       "items": [
         {
@@ -242,9 +236,97 @@
           "rank": 12
         }
       ]
+    },
+    "rakuten": {
+      "id": "rakuten",
+      "label": "楽天ブックス",
+      "attribution": "楽天ブックス",
+      "sourceUrl": "https://books.rakuten.co.jp/",
+      "periodLabel": "売れ筋順",
+      "updatedAt": "2026-09-18",
+      "live": true,
+      "items": [
+        {
+          "title": "パンどろぼうとさすらいラーメン",
+          "author": "柴田　ケイコ",
+          "rank": 12
+        },
+        {
+          "title": "金色のガッシュ!! 2（7）",
+          "author": "雷句 誠",
+          "rank": 15
+        },
+        {
+          "title": "おうちでヒヤッ　でない、あけない、のぼらない　子どもの身をまもるための本",
+          "author": "清永 奈穂/石塚　ワカメ",
+          "rank": 21
+        }
+      ]
     }
   },
   "items": [
+    {
+      "id": "4335396900320",
+      "title": "パンどろぼうとさすらいラーメン",
+      "author": "柴田　ケイコ",
+      "publisher": "KADOKAWA",
+      "price": 1650,
+      "url": "https://books.rakuten.co.jp/rk/ced96eda0a863fdeae0a78fb0bf25801/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2405/2000021682405.jpg?_ex=600x600",
+      "caption": "とっても寒い“ぶるぶるじま”にやってきたパンどろぼう。できたてのパンをふるまおうとパン作りをはじめますが、窯の扉をあけようとした、その瞬間・・・＼＼＼ボフーーーン／／／パンが作れずこまっているところへさっそうと現れたのは、いったい、誰ーーー？ほかほかのパンとあつあつのラーメンが織りなす、熱血ハートフルストーリー開幕！「パンどろぼう」シリーズ待望の第8弾！\n",
+      "salesDate": "2026年09月16日",
+      "series": "パンどろぼう",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101916",
+      "isbn": "4335396900320",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "パンどろぼうとさすらいラーメン",
+        "author": "柴田　ケイコ",
+        "score": 128,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 12
+          },
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 11
+          }
+        ],
+        "source": "combined",
+        "rank": 2,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "パンどろぼうとさすらいラーメン",
+        "author": "柴田 ケイコ",
+        "isbn": "",
+        "score": 500,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 11
+          },
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 17
+          },
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 12
+          }
+        ],
+        "source": "combined",
+        "rank": 1
+      }
+    },
     {
       "id": "4380000407898",
       "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
@@ -278,7 +360,7 @@
           }
         ],
         "source": "combined",
-        "rank": 2,
+        "rank": 1,
         "originalTitle": ""
       },
       "ranking": {
@@ -299,7 +381,7 @@
           }
         ],
         "source": "combined",
-        "rank": 1
+        "rank": 2
       }
     },
     {
@@ -330,7 +412,7 @@
           }
         ],
         "source": "combined",
-        "rank": 9,
+        "rank": 11,
         "originalTitle": ""
       },
       "ranking": {
@@ -346,7 +428,7 @@
           }
         ],
         "source": "combined",
-        "rank": 2
+        "rank": 3
       }
     },
     {
@@ -378,7 +460,7 @@
           }
         ],
         "source": "combined",
-        "rank": 10,
+        "rank": 11,
         "originalTitle": "FINEBOYS＋plus OYASUMI vol.2"
       },
       "ranking": {
@@ -394,7 +476,7 @@
           }
         ],
         "source": "combined",
-        "rank": 3
+        "rank": 4
       }
     },
     {
@@ -426,7 +508,7 @@
           }
         ],
         "source": "combined",
-        "rank": 13,
+        "rank": 14,
         "originalTitle": "ギャルにひかれて寺マルシェ"
       },
       "ranking": {
@@ -442,7 +524,7 @@
           }
         ],
         "source": "combined",
-        "rank": 4
+        "rank": 5
       }
     },
     {
@@ -473,7 +555,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15,
+        "rank": 17,
         "originalTitle": ""
       },
       "ranking": {
@@ -486,53 +568,6 @@
             "source": "maruzen",
             "label": "丸善ジュンク堂",
             "rank": 5
-          }
-        ],
-        "source": "combined",
-        "rank": 5
-      }
-    },
-    {
-      "id": "4390000014247",
-      "title": "戦争犯罪と闘う　国際刑事裁判所は屈しない",
-      "author": "赤根智子",
-      "publisher": "文藝春秋",
-      "price": 1000,
-      "url": "https://books.rakuten.co.jp/rk/ed83c0d4161a37adb64937f2dc843815/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5761/2000017995761.jpg?_ex=600x600",
-      "caption": "二つの戦争、そして戦後国際秩序の行方は\nロシアによるウクライナ侵攻とイスラエルによるパレスチナへの非人道的な攻撃。目まぐるしく国際情勢が変化するなか、この二つの戦争に向き合い、プーチンとネタニヤフに逮捕状を出した国際刑事裁判所（ICC）。日本人として初めてそのトップに就任した著者は、ほどなくしてプーチンから逆指名手配を受けることにもなった。さらにはトランプ大統領の大統領令による経済制裁の脅威にさらされるなど、世界規模の戦争犯罪に向き合ってきた国際刑事裁判所はいま、存続の危機にある。\n第二次世界大戦後にホロコーストに向き合ったニュルンベルク裁判、日本の戦争責任を裁いた東京裁判。二つの軍事法廷裁判にルーツをもち、国際平和秩序を守ろうと奮闘してきた国際刑事裁判所とはいかなる機関か。二つの戦争という異例の事態にどう向き合ったのか。「世界の警察」アメリカが過去のものになりつつある戦後国際秩序の行方とはーー。\n「世界で起きていることが日本では起きないとは限らない」。「力による支配」がむき出しになりつつある今こそ「法の支配」による安全保障が必要だ。\n「ウクライナ戦争の勃発で完全に覚醒した」と語る赤根さんが、その奮闘を通じて未来への責任を語りかける。\n※本書電子書籍版は刊行後の国際情勢の変化を鑑み、２０２５年１０月に記述の一部を更新しました。\n",
-      "salesDate": "2025年06月20日",
-      "series": "",
-      "reviewAverage": 4.1,
-      "reviewCount": 32,
-      "genreId": "101907009/101907005003/101914",
-      "isbn": "4390000014247",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
-        "author": "",
-        "score": 86,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 6
-          }
-        ],
-        "source": "combined",
-        "rank": 21,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
-        "author": "",
-        "isbn": "",
-        "score": 174,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 6
           }
         ],
         "source": "combined",
@@ -567,7 +602,7 @@
           }
         ],
         "source": "combined",
-        "rank": 22,
+        "rank": 24,
         "originalTitle": "幽冥の岸 十二国記 (新潮文庫 お 37-66)"
       },
       "ranking": {
@@ -614,7 +649,7 @@
           }
         ],
         "source": "combined",
-        "rank": 23,
+        "rank": 25,
         "originalTitle": ""
       },
       "ranking": {
@@ -662,8 +697,7 @@
           }
         ],
         "source": "combined",
-        "rank": 25,
-        "originalTitle": "会社四季報 業界地図 2027年版"
+        "rank": 26
       },
       "ranking": {
         "title": "会社四季報 業界地図 2027年版",
@@ -709,7 +743,7 @@
           }
         ],
         "source": "combined",
-        "rank": 31,
+        "rank": 33,
         "originalTitle": ""
       },
       "ranking": {
@@ -756,7 +790,7 @@
           }
         ],
         "source": "combined",
-        "rank": 35,
+        "rank": 37,
         "originalTitle": ""
       },
       "ranking": {
@@ -823,53 +857,6 @@
       }
     },
     {
-      "id": "4335396900320",
-      "title": "パンどろぼうとさすらいラーメン",
-      "author": "柴田　ケイコ",
-      "publisher": "KADOKAWA",
-      "price": 1650,
-      "url": "https://books.rakuten.co.jp/rk/ced96eda0a863fdeae0a78fb0bf25801/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2405/2000021682405.jpg?_ex=600x600",
-      "caption": "とっても寒い“ぶるぶるじま”にやってきたパンどろぼう。できたてのパンをふるまおうとパン作りをはじめますが、窯の扉をあけようとした、その瞬間・・・＼＼＼ボフーーーン／／／パンが作れずこまっているところへさっそうと現れたのは、いったい、誰ーーー？ほかほかのパンとあつあつのラーメンが織りなす、熱血ハートフルストーリー開幕！「パンどろぼう」シリーズ待望の第8弾！\n",
-      "salesDate": "2026年09月16日",
-      "series": "パンどろぼう",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101916",
-      "isbn": "4335396900320",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "パンどろぼうとさすらいラーメン",
-        "author": "柴田 ケイコ",
-        "score": 66,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 11
-          }
-        ],
-        "source": "combined",
-        "rank": 40,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "パンどろぼうとさすらいラーメン",
-        "author": "柴田 ケイコ",
-        "isbn": "",
-        "score": 169,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 11
-          }
-        ],
-        "source": "combined",
-        "rank": 13
-      }
-    },
-    {
       "id": "9781505942323",
       "title": "How to Start a Crown Agents for Overseas Governments and Administrations Business (Beginners Guide)",
       "author": "Leclair Jaquelyn",
@@ -914,7 +901,7 @@
           }
         ],
         "source": "combined",
-        "rank": 14
+        "rank": 13
       }
     },
     {
@@ -958,6 +945,53 @@
             "source": "amazon",
             "label": "Amazon",
             "rank": 13
+          }
+        ],
+        "source": "combined",
+        "rank": 14
+      }
+    },
+    {
+      "id": "7276529347007",
+      "title": "金色のガッシュ！！ 完全版（7）",
+      "author": "雷句誠",
+      "publisher": "BIRGDIN BOARD Corp.",
+      "price": 660,
+      "url": "https://books.rakuten.co.jp/rk/2a5dd59a4b6e3073a0255dae7cdfc9cf/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6036/2000006796036.jpg?_ex=600x600",
+      "caption": "あの「金色のガッシュ！！」が完全版として登場！雷句誠による表紙全巻描き下ろし、カラーページはカラーのまま鮮やかによみがえります。そして注目は描き下ろしとなるオマケの短編マンガ「ガッシュカフェ」。魔物の子供達が戦いを離れ、お茶を飲みながら語り合い、意外な一面を見せ合います。第7回は「パティとベルギムE・O」がお客様。　第7巻は、とうとうウマゴンのパートナーが登場！そして、千年前の魔物のビッグスリー、ツァオロン、ベルギムE・O、パムーンとの戦いを収録！ビッグボインの必殺技、「ボインチョップ」も初披露されます！！第7巻はLEVEL120〜LEVEL140までを収録。\n",
+      "salesDate": "2018年10月01日",
+      "series": "金色のガッシュ！！",
+      "reviewAverage": 4.5,
+      "reviewCount": 2,
+      "genreId": "101904",
+      "isbn": "7276529347007",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "金色のガッシュ!! 2(7)",
+        "author": "雷句 誠",
+        "score": 50,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 15
+          }
+        ],
+        "source": "combined",
+        "rank": 47,
+        "originalTitle": "金色のガッシュ!! 2（7）"
+      },
+      "ranking": {
+        "title": "金色のガッシュ!! 2（7）",
+        "author": "雷句 誠",
+        "isbn": "",
+        "score": 165,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 15
           }
         ],
         "source": "combined",
@@ -1077,7 +1111,8 @@
       "matchMeta": {
         "title": "イン・ザ・メガチャーチ",
         "author": "",
-        "score": 34,
+        "isbn": "",
+        "score": 161,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1086,8 +1121,7 @@
           }
         ],
         "source": "combined",
-        "rank": 55,
-        "originalTitle": ""
+        "rank": 58
       },
       "ranking": {
         "title": "イン・ザ・メガチャーチ",
@@ -1103,53 +1137,6 @@
         ],
         "source": "combined",
         "rank": 18
-      }
-    },
-    {
-      "id": "4770024930000",
-      "title": "改訂新版 入社1年目 ビジネスマナーの教科書",
-      "author": "西出ひろ子",
-      "publisher": "プレジデント社",
-      "price": 1430,
-      "url": "https://books.rakuten.co.jp/rk/854545aaf4cc34058ef9c1d9756664a8/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4081/2000014864081.jpg?_ex=600x600",
-      "caption": "【内容紹介】\n新入社員、転職して新しい職場で仕事を始める人、若手をマネジメントする管理職、すべてのビジネスパーソンへ。\n社会人として必要なビジネスマナーのすべてを図解で紹介。\n「テレワークのマナー」など、昨今のビジネスシーンに即した内容で、\nビジネスマナー全般をイラストとともにまず理解したい人にお薦め。\n今日から、すぐに使える一冊です！\n【目次抜粋】\n第1章 社会人に求められる「身だしなみ」の基本\n第2章 社会人に求められる「コミュニケーション」の基本\n第3章 社会人に求められる「話し方・聞き方」の基本\n第4章 社会人に求められる「テレワーク」の基本\n第5章 社会人に求められる「電話応対」の基本\n第6章 社会人に求められる「敬語」の基本\n第7章 社会人に求められる「指示・報告・連絡・相談・確認」の基本\n第8章 社会人に求められる「来客応対」の基本\n第9章 社会人に求められる「他社訪問」の基本\n第10章 社会人に求められる「ビジネス文書」の基本\n第11章 社会人に求められる「ビジネスメール」の基本\n第12章 社会人に求められる「会食」の基本\n第13章 社会人に求められる「葬式」の基本\n第14章 社会人に求められる「結婚式」「お見舞い」の基本\n",
-      "salesDate": "2024年03月16日",
-      "series": "",
-      "reviewAverage": 3.67,
-      "reviewCount": 3,
-      "genreId": "101905009",
-      "isbn": "4770024930000",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "入社1年目ビジネスマナーの教科書 (改訂新版)",
-        "author": "",
-        "score": 30,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 20
-          }
-        ],
-        "source": "combined",
-        "rank": 57,
-        "originalTitle": "入社１年目ビジネスマナーの教科書 （改訂新版）"
-      },
-      "ranking": {
-        "title": "入社１年目ビジネスマナーの教科書 （改訂新版）",
-        "author": "",
-        "isbn": "",
-        "score": 160,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 20
-          }
-        ],
-        "source": "combined",
-        "rank": 19
       }
     },
     {
@@ -1196,54 +1183,7 @@
           }
         ],
         "source": "combined",
-        "rank": 20
-      }
-    },
-    {
-      "id": "7275000923851",
-      "title": "「思い込み」が未来を決める　東大・早稲田大・筑波大生、上場企業経営者らを指導してきたコンサルタントが教える「限界」を超える思考習慣",
-      "author": "高木謙治",
-      "publisher": "アチーブメント出版",
-      "price": 1760,
-      "url": "https://books.rakuten.co.jp/rk/0d1bd558b99b3c59952d3d0d9db1dd21/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2952/2000021692952.jpg?_ex=600x600",
-      "caption": "ビジネスやスポーツの世界で、圧倒的な成果を出し続ける人たち。彼らには、ある共通点があります。それは、「できない」と思っていないこと。\n一方で、多くの人は違います。本当は可能性を持っているにもかかわらず、できるはずがないという“思い込み”によって、自ら限界をつくってしまっているのです。\n夢をかなえるために。なりたい自分になるために。「能力」を高めることも大事です。しかしそれ以上に重要なのは、自分を縛っているネガティブな“思い込み”、すなわち、思考の「枠」を外すことです。\n“思い込み”が変われば、“行動”が変わる。\n“行動”が変われば、“習慣”が変わる。\n“習慣”が変われば、“結果”が変わる。\n必要なのは、自分の可能性を制限している“思い込み”に気づき、未来を切り拓けるというポジティブな“思い込み”へと書き換えること。\n本書では、私たちの可能性を縛る「ネガティブな思い込み」を手放す技術、感情に振り回されないためのセルフカウンセリング、「しんどさ」を成長のエンジンに変える方法、役職に頼らないリーダーシップの発揮の仕方、そして「心理的安全性」と「規律」を両立させる組織づくりまで、“思い込み”を起点に人生と組織を好転させる技術を体系的に解説します。\nビジネスやスポーツの現場で自ら圧倒的な成果を出し、コンサルタントとして延べ2万4000名を超える受講生を指導してきた著者だからこそ語れる、再現性のある実践知が詰まっています。\nあなたの未来を変えるのは、才能でも環境でもありません。**\"思い込み\"**です。\n",
-      "salesDate": "2026年09月08日",
-      "series": "「思い込み」が未来を決める　東大・早稲田大・筑波大生、上場企業経営者らを指導してきたコンサルタントが教える「限界」を超える思考習慣",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101905017004/101905016001",
-      "isbn": "7275000923851",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "「思い込み」が未来を決める 東大・早稲田大・筑波大生、上場企業経営者らを指導して",
-        "author": "",
-        "score": 26,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 21
-          }
-        ],
-        "source": "combined",
-        "rank": 59,
-        "originalTitle": "「思い込み」が未来を決める　東大・早稲田大・筑波大生、上場企業経営者らを指導して"
-      },
-      "ranking": {
-        "title": "「思い込み」が未来を決める 東大・早稲田大・筑波大生、上場企業経営者らを指導して",
-        "author": "",
-        "isbn": "",
-        "score": 159,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 21
-          }
-        ],
-        "source": "combined",
-        "rank": 21
+        "rank": 19
       }
     },
     {
@@ -1290,7 +1230,54 @@
           }
         ],
         "source": "combined",
-        "rank": 22
+        "rank": 20
+      }
+    },
+    {
+      "id": "8916130673919",
+      "title": "おうちでヒヤッ でない、あけない、のぼらない",
+      "author": "清永奈穂",
+      "publisher": "岩崎書店",
+      "price": 1430,
+      "url": "https://books.rakuten.co.jp/rk/225770d046453112befb4c5fe89bd09a/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7652/2000020177652.jpg?_ex=600x600",
+      "caption": "ベランダからの転落、不審者の訪問など、家の中も危険が少なくない。どんな危機があり、どうやったらそれを子どもにわからせ、未然に防げばいいのかを教える絵本。\n",
+      "salesDate": "2026年03月31日",
+      "series": "",
+      "reviewAverage": 4,
+      "reviewCount": 4,
+      "genreId": "101950012/101909012/101916",
+      "isbn": "8916130673919",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "おうちでヒヤッ でない、あけない、のぼらない 子どもの身をまもるための本",
+        "author": "清永 奈穂/石塚　ワカメ",
+        "score": 26,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 21
+          }
+        ],
+        "source": "combined",
+        "rank": 59,
+        "originalTitle": "おうちでヒヤッ　でない、あけない、のぼらない　子どもの身をまもるための本"
+      },
+      "ranking": {
+        "title": "おうちでヒヤッ　でない、あけない、のぼらない　子どもの身をまもるための本",
+        "author": "清永 奈穂/石塚　ワカメ",
+        "isbn": "",
+        "score": 159,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 21
+          }
+        ],
+        "source": "combined",
+        "rank": 21
       }
     },
     {
@@ -1337,6 +1324,53 @@
           }
         ],
         "source": "combined",
+        "rank": 22
+      }
+    },
+    {
+      "id": "7275000923851",
+      "title": "「思い込み」が未来を決める　東大・早稲田大・筑波大生、上場企業経営者らを指導してきたコンサルタントが教える「限界」を超える思考習慣",
+      "author": "高木謙治",
+      "publisher": "アチーブメント出版",
+      "price": 1760,
+      "url": "https://books.rakuten.co.jp/rk/0d1bd558b99b3c59952d3d0d9db1dd21/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2952/2000021692952.jpg?_ex=600x600",
+      "caption": "ビジネスやスポーツの世界で、圧倒的な成果を出し続ける人たち。彼らには、ある共通点があります。それは、「できない」と思っていないこと。\n一方で、多くの人は違います。本当は可能性を持っているにもかかわらず、できるはずがないという“思い込み”によって、自ら限界をつくってしまっているのです。\n夢をかなえるために。なりたい自分になるために。「能力」を高めることも大事です。しかしそれ以上に重要なのは、自分を縛っているネガティブな“思い込み”、すなわち、思考の「枠」を外すことです。\n“思い込み”が変われば、“行動”が変わる。\n“行動”が変われば、“習慣”が変わる。\n“習慣”が変われば、“結果”が変わる。\n必要なのは、自分の可能性を制限している“思い込み”に気づき、未来を切り拓けるというポジティブな“思い込み”へと書き換えること。\n本書では、私たちの可能性を縛る「ネガティブな思い込み」を手放す技術、感情に振り回されないためのセルフカウンセリング、「しんどさ」を成長のエンジンに変える方法、役職に頼らないリーダーシップの発揮の仕方、そして「心理的安全性」と「規律」を両立させる組織づくりまで、“思い込み”を起点に人生と組織を好転させる技術を体系的に解説します。\nビジネスやスポーツの現場で自ら圧倒的な成果を出し、コンサルタントとして延べ2万4000名を超える受講生を指導してきた著者だからこそ語れる、再現性のある実践知が詰まっています。\nあなたの未来を変えるのは、才能でも環境でもありません。**\"思い込み\"**です。\n",
+      "salesDate": "2026年09月08日",
+      "series": "「思い込み」が未来を決める　東大・早稲田大・筑波大生、上場企業経営者らを指導してきたコンサルタントが教える「限界」を超える思考習慣",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101905017004/101905016001",
+      "isbn": "7275000923851",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "「思い込み」が未来を決める 東大・早稲田大・筑波大生、上場企業経営者らを指導して",
+        "author": "",
+        "isbn": "",
+        "score": 157,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 23
+          }
+        ],
+        "source": "combined",
+        "rank": 67
+      },
+      "ranking": {
+        "title": "「思い込み」が未来を決める 東大・早稲田大・筑波大生、上場企業経営者らを指導して",
+        "author": "",
+        "isbn": "",
+        "score": 157,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 23
+          }
+        ],
+        "source": "combined",
         "rank": 23
       }
     },
@@ -1359,7 +1393,8 @@
       "matchMeta": {
         "title": "帳の向こう",
         "author": "",
-        "score": 14,
+        "isbn": "",
+        "score": 156,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1368,8 +1403,7 @@
           }
         ],
         "source": "combined",
-        "rank": 65,
-        "originalTitle": ""
+        "rank": 69
       },
       "ranking": {
         "title": "帳の向こう",
@@ -1406,7 +1440,8 @@
       "matchMeta": {
         "title": "捨てられた僕と母猫と奇跡 - 心に傷を負った二人が新たに見つけた居場所",
         "author": "",
-        "score": 10,
+        "isbn": "",
+        "score": 155,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1415,8 +1450,7 @@
           }
         ],
         "source": "combined",
-        "rank": 67,
-        "originalTitle": ""
+        "rank": 71
       },
       "ranking": {
         "title": "捨てられた僕と母猫と奇跡 - 心に傷を負った二人が新たに見つけた居場所",
@@ -1432,53 +1466,6 @@
         ],
         "source": "combined",
         "rank": 25
-      }
-    },
-    {
-      "id": "4410000009676",
-      "title": "営業実行学",
-      "author": "中内崇人",
-      "publisher": "ダイヤモンド社",
-      "price": 1980,
-      "url": "https://books.rakuten.co.jp/rk/9290b73162833f1c975620ad30b69697/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2017/2000021582017.jpg?_ex=600x600",
-      "caption": "変革が形骸化する原因を「定着負荷＜組織実行力」の不等式で解き明かし、精神論ではなく「科学」で現場を動かす『営業実行学』を解説した一冊。「変われなかった組織」が劇的に進化するプロセスを追った事例も多数掲載。新しい施策を導入しても現場が動かない、続かない……そんな組織の空回りに悩むリーダー必読の書です。\n",
-      "salesDate": "2026年08月26日",
-      "series": "",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101905004/101905003",
-      "isbn": "4410000009676",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "営業実行学 - やりきる組織は、設計できる",
-        "author": "",
-        "score": 6,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 26
-          }
-        ],
-        "source": "combined",
-        "rank": 69,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "営業実行学 - やりきる組織は、設計できる",
-        "author": "",
-        "isbn": "",
-        "score": 154,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 26
-          }
-        ],
-        "source": "combined",
-        "rank": 26
       }
     },
     {
@@ -1525,6 +1512,53 @@
           }
         ],
         "source": "combined",
+        "rank": 26
+      }
+    },
+    {
+      "id": "4410000009676",
+      "title": "営業実行学",
+      "author": "中内崇人",
+      "publisher": "ダイヤモンド社",
+      "price": 1980,
+      "url": "https://books.rakuten.co.jp/rk/9290b73162833f1c975620ad30b69697/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2017/2000021582017.jpg?_ex=600x600",
+      "caption": "変革が形骸化する原因を「定着負荷＜組織実行力」の不等式で解き明かし、精神論ではなく「科学」で現場を動かす『営業実行学』を解説した一冊。「変われなかった組織」が劇的に進化するプロセスを追った事例も多数掲載。新しい施策を導入しても現場が動かない、続かない……そんな組織の空回りに悩むリーダー必読の書です。\n",
+      "salesDate": "2026年08月26日",
+      "series": "",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101905004/101905003",
+      "isbn": "4410000009676",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "営業実行学 - やりきる組織は、設計できる",
+        "author": "",
+        "isbn": "",
+        "score": 154,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 26
+          }
+        ],
+        "source": "combined",
+        "rank": 73
+      },
+      "ranking": {
+        "title": "営業実行学 - やりきる組織は、設計できる",
+        "author": "",
+        "isbn": "",
+        "score": 154,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 26
+          }
+        ],
+        "source": "combined",
         "rank": 27
       }
     },
@@ -1545,9 +1579,10 @@
       "isbn": "7328131415919",
       "salesType": 1,
       "matchMeta": {
-        "title": "黒執事(36)",
+        "title": "黒執事(36) (Gファンタジーコミックス)",
         "author": "枢やな",
-        "score": 5,
+        "isbn": "",
+        "score": 153,
         "sources": [
           {
             "source": "amazon",
@@ -1556,8 +1591,7 @@
           }
         ],
         "source": "combined",
-        "rank": 75,
-        "originalTitle": "黒執事(36) (Gファンタジーコミックス)"
+        "rank": 74
       },
       "ranking": {
         "title": "黒執事(36) (Gファンタジーコミックス)",
@@ -1573,53 +1607,6 @@
         ],
         "source": "combined",
         "rank": 28
-      }
-    },
-    {
-      "id": "4561004112000",
-      "title": "ミリオンダラー強運思考",
-      "author": "冨田顕子",
-      "publisher": "三笠書房",
-      "price": 1760,
-      "url": "https://books.rakuten.co.jp/rk/ab50d0b1d7233fff9d416e571cbd93c7/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9207/2000021649207.jpg?_ex=600x600",
-      "caption": "人生って、こんなにうまくいっていいの？　運がいい人は、生まれつき恵まれているわけではありません。結果を出す人は、動く前の「最初の１％」を整えています。月収５万円未満、営業成績ビリから、年商２億円超へ。著者が自身の逆転と、売上が数倍、数十倍に伸びた受講生たちの変化からつかんだ、人生を好転させる実践法を初公開。思考や口ぐせ、人間関係、身を置く空間、時間とお金の使い方、迷ったときの選択基準まで、強運を偶然にまかせないための具体策。ヘタレでも、根性がなくても、体力がなくても大丈夫。頑張る量を増やす必要もありません。ほんの少しズレを戻せば、同じ能力、同じ仕事、同じ一日から生まれる結果が変わりはじめます。仕事も、お金も、人間関係も。人生は、もっと、うまくいっていい。どんな状態からでも「結果が出る流れ」へ自分を整えていく、新しい強運の教科書。実践の決定版。\n",
-      "salesDate": "2026年09月10日",
-      "series": "",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101905090",
-      "isbn": "4561004112000",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ミリオンダラー強運思考",
-        "author": "",
-        "score": 5,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 28
-          }
-        ],
-        "source": "combined",
-        "rank": 72,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "ミリオンダラー強運思考",
-        "author": "",
-        "isbn": "",
-        "score": 152,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 28
-          }
-        ],
-        "source": "combined",
-        "rank": 29
       }
     },
     {
@@ -1666,100 +1653,100 @@
           }
         ],
         "source": "combined",
+        "rank": 29
+      }
+    },
+    {
+      "id": "4770024930000",
+      "title": "改訂新版 入社1年目 ビジネスマナーの教科書",
+      "author": "西出ひろ子",
+      "publisher": "プレジデント社",
+      "price": 1430,
+      "url": "https://books.rakuten.co.jp/rk/854545aaf4cc34058ef9c1d9756664a8/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4081/2000014864081.jpg?_ex=600x600",
+      "caption": "【内容紹介】\n新入社員、転職して新しい職場で仕事を始める人、若手をマネジメントする管理職、すべてのビジネスパーソンへ。\n社会人として必要なビジネスマナーのすべてを図解で紹介。\n「テレワークのマナー」など、昨今のビジネスシーンに即した内容で、\nビジネスマナー全般をイラストとともにまず理解したい人にお薦め。\n今日から、すぐに使える一冊です！\n【目次抜粋】\n第1章 社会人に求められる「身だしなみ」の基本\n第2章 社会人に求められる「コミュニケーション」の基本\n第3章 社会人に求められる「話し方・聞き方」の基本\n第4章 社会人に求められる「テレワーク」の基本\n第5章 社会人に求められる「電話応対」の基本\n第6章 社会人に求められる「敬語」の基本\n第7章 社会人に求められる「指示・報告・連絡・相談・確認」の基本\n第8章 社会人に求められる「来客応対」の基本\n第9章 社会人に求められる「他社訪問」の基本\n第10章 社会人に求められる「ビジネス文書」の基本\n第11章 社会人に求められる「ビジネスメール」の基本\n第12章 社会人に求められる「会食」の基本\n第13章 社会人に求められる「葬式」の基本\n第14章 社会人に求められる「結婚式」「お見舞い」の基本\n",
+      "salesDate": "2024年03月16日",
+      "series": "",
+      "reviewAverage": 3.67,
+      "reviewCount": 3,
+      "genreId": "101905009",
+      "isbn": "4770024930000",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "入社１年目ビジネスマナーの教科書 （改訂新版）",
+        "author": "",
+        "isbn": "",
+        "score": 150,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 30
+          }
+        ],
+        "source": "combined",
+        "rank": 81
+      },
+      "ranking": {
+        "title": "入社１年目ビジネスマナーの教科書 （改訂新版）",
+        "author": "",
+        "isbn": "",
+        "score": 150,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 30
+          }
+        ],
+        "source": "combined",
         "rank": 30
       }
     },
     {
-      "id": "6681311679960",
-      "title": "つかめ！理科ダマン 12 最強ロボット決戦！編",
-      "author": "シン・テフン/ナ・スンフン/呉華順",
-      "publisher": "マガジンハウス",
-      "price": 1320,
-      "url": "https://books.rakuten.co.jp/rk/d5144a342674388cb89766522b26d5f0/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6738/2000021036738.jpg?_ex=600x600",
-      "caption": "■注目のシリーズ第12巻は、ロボット世界大会の決戦編！■\n恐竜ロボット大会の勝者を決める決戦がいよいよ始まる！\nシンとグゥのチームが戦うライバルチームに、弱点はあるのか!?\n優勝を目指すシンたちといっしょに\nプログラミングやA I、恐竜にまつわる19の疑問が楽しく学べます。\n★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★\n＼＼日韓でシリーズ累計400万部／／\n理科のテストで100点取れちゃう！！\n「笑いながら理科の知識が学べるところが大好きです」\n「子供が夢中になって読んでいます」\n「身近な“どうして？”をわかりやすく説明されていて、子供も大人も楽しめます」\n……とクチコミで話題沸騰!!\n★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★\nギャグ満載の超オモシロまんがで\n小学校の理科の知識がスイスイ身につく！！\nそして、科学と読書がどんどん好きになる！！\n《こんな疑問に答えます》\n◎アルゴリズムってなに？\n◎フローチャートってなに？\n◎コンピュータはどうやってプログラミング言語を理解している？\n◎座標ってなに？\n◎ロボットは人間より賢くなれる？\n◎コンピュータに虫がいる？　\n◎翼竜は恐竜か？　……etc.\n",
-      "salesDate": "2026年07月16日",
-      "series": "つかめ！理科ダマン",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101908004/101906006/101906001009",
-      "isbn": "6681311679960",
+      "id": "9784059239659",
+      "title": "地球の歩き方 スター・ウォーズ",
+      "author": "",
+      "publisher": "地球の歩き方",
+      "price": 2750,
+      "url": "https://books.rakuten.co.jp/rk/40558a21970c38b8891b35aee564d356/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9941/2000020489941.jpg?_ex=600x600",
+      "caption": "銀河の果てまで旅するように、物語の舞台を歩く……。\n『スター・ウォーズ』の世界を「地球の歩き方」ならではの旅行ガイドスタイルでひもとく、スペシャルブックが登場！\nもしあなたが『スター・ウォーズ』の世界を訪れることになっても、本書があれば安心。劇場公開作品を中心に、ストーリーの流れや主要キャラクターの魅力を、心に残る名シーンとともにしっかりおさらいできます。さらに、モデルプランや旅のテクニックなど、ファン心をくすぐるコンテンツも充実。\n作品世界をより深く理解し、楽しむための情報を厳選して収録した、ファン必携の永久保存版です。\n※予告なく一部内容が変更される可能性もあります。予めご了承ください。\n※電子版では、紙のガイドブックと内容が一部異なります。掲載されない写真や図版、収録されないページがある場合があります。あらかじめご了承下さい。\n",
+      "salesDate": "2026年07月29日",
+      "series": "",
+      "reviewAverage": 4.33,
+      "reviewCount": 3,
+      "genreId": "101911",
+      "isbn": "9784059239659",
       "salesType": 0,
       "matchMeta": {
-        "title": "つかめ!理科ダマン 12 最強ロボット決戦!編",
-        "author": "シン・テフン",
-        "score": 106,
+        "title": "地球の歩き方 スター・ウォーズ",
+        "author": "地球の歩き方編集室",
+        "score": 90,
         "sources": [
           {
             "source": "tohan",
             "label": "トーハン",
-            "rank": 1
+            "rank": 5
           }
         ],
         "source": "combined",
-        "rank": 3,
+        "rank": 18,
         "originalTitle": ""
       },
       "ranking": {
-        "title": "つかめ!理科ダマン 12 最強ロボット決戦!編",
-        "author": "シン・テフン",
-        "score": 106,
+        "title": "地球の歩き方 スター・ウォーズ",
+        "author": "地球の歩き方編集室",
+        "score": 90,
         "sources": [
           {
             "source": "tohan",
             "label": "トーハン",
-            "rank": 1
+            "rank": 5
           }
         ],
         "source": "combined",
         "rank": 31,
-        "originalTitle": ""
-      }
-    },
-    {
-      "id": "4310000890409",
-      "title": "楽園",
-      "author": "夕木春央",
-      "publisher": "講談社",
-      "price": 1980,
-      "url": "https://books.rakuten.co.jp/rk/1a1c684dcee83b98b4d0187187c813d0/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1651/2000021221651.jpg?_ex=600x600",
-      "caption": "殺人犯にならなければ脱出できない。\n『方舟』『十戒』の著者が仕掛ける“禁忌の驚き”\n亡き両親から不動産を譲り受けた康之は、失踪した賃借人・海原の遺留品整理の際に、群馬の山奥の謎の物件の存在を知る。そこは、切り立った岩壁に囲まれた、「楽園」と呼ばれる奇妙な場所だった。恋人の沙織と一緒にそこを訪ね、探索をはじめた康之たちは、すぐに六人の“住人”に拿捕された。脱出のための条件はーー\n「誰か一人を殺さなければならない」\n『方舟』\n第19回オリコン上半期”本”ランキング　文庫ランキングTOP10 第1位\n週刊文春ミステリーベスト10　第1位　（「週刊文春」2022年12月8日号）国内部門\nMRC大賞2022　第1位\n『方舟』＋『十戒』の累計発行部数が100万部突破。\nーー夕木春央が描く、極限のクローズド・サークル。\n",
-      "salesDate": "2026年07月22日",
-      "series": "楽園",
-      "reviewAverage": 4.19,
-      "reviewCount": 395,
-      "genreId": "101902",
-      "isbn": "4310000890409",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "楽園",
-        "author": "夕木春央",
-        "score": 94,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
-          }
-        ],
-        "source": "combined",
-        "rank": 12,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "楽園",
-        "author": "夕木春央",
-        "score": 94,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
-          }
-        ],
-        "source": "combined",
-        "rank": 32,
         "originalTitle": ""
       }
     },
@@ -1791,7 +1778,7 @@
           }
         ],
         "source": "combined",
-        "rank": 36,
+        "rank": 38,
         "originalTitle": ""
       },
       "ranking": {
@@ -1806,7 +1793,7 @@
           }
         ],
         "source": "combined",
-        "rank": 33,
+        "rank": 32,
         "originalTitle": ""
       }
     }
@@ -1825,49 +1812,45 @@
     "mystery": [
       "4390000005636",
       "4620000615075",
-      "4620000615076",
-      "4310000890409"
+      "4620000615076"
     ],
     "sf": [],
     "business": [
       "4659733601001",
       "4659930526040",
       "4659930126040",
-      "4770024930000",
       "7275000923851",
       "4410000009676",
-      "4561004112000"
+      "4770024930000"
     ],
     "humanities": [
       "4380000407898",
-      "4390000014247",
       "4390000016485",
       "4770025390000",
       "7131316863590"
     ],
-    "nonfiction": [
-      "4390000014247"
-    ],
-    "science": [
-      "6681311679960"
-    ],
+    "nonfiction": [],
+    "science": [],
     "it": [],
     "life": [
-      "4380000407898"
+      "4380000407898",
+      "8916130673919"
     ],
     "health": [],
     "hobby": [],
-    "travel": [],
-    "language": [
-      "6681311679960"
+    "travel": [
+      "9784059239659"
     ],
+    "language": [],
     "children": [
-      "4335396900320"
+      "4335396900320",
+      "8916130673919"
     ],
     "essay": [],
     "comic": [
       "7131315591790",
       "4310000862928",
+      "7276529347007",
       "7225000908848",
       "4681308443742",
       "7328131415919"
@@ -1879,7 +1862,7 @@
       "complete": true
     },
     "mystery": {
-      "matched": 4,
+      "matched": 3,
       "complete": true
     },
     "sf": {
@@ -1887,19 +1870,19 @@
       "complete": true
     },
     "business": {
-      "matched": 7,
+      "matched": 6,
       "complete": true
     },
     "humanities": {
-      "matched": 5,
+      "matched": 4,
       "complete": true
     },
     "nonfiction": {
-      "matched": 1,
+      "matched": 0,
       "complete": true
     },
     "science": {
-      "matched": 1,
+      "matched": 0,
       "complete": true
     },
     "it": {
@@ -1907,7 +1890,7 @@
       "complete": true
     },
     "life": {
-      "matched": 1,
+      "matched": 2,
       "complete": true
     },
     "health": {
@@ -1919,15 +1902,15 @@
       "complete": true
     },
     "travel": {
-      "matched": 0,
+      "matched": 1,
       "complete": true
     },
     "language": {
-      "matched": 1,
+      "matched": 0,
       "complete": true
     },
     "children": {
-      "matched": 1,
+      "matched": 2,
       "complete": true
     },
     "essay": {
@@ -1935,7 +1918,7 @@
       "complete": true
     },
     "comic": {
-      "matched": 5,
+      "matched": 6,
       "complete": true
     }
   }

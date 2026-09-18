@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-09-18T16:55:15.493Z",
+  "updatedAt": "2026-09-18T21:26:52.845Z",
   "candidateCount": 40,
-  "baseMatched": 7,
-  "matched": 15,
-  "addedMatches": 8,
+  "baseMatched": 11,
+  "matched": 17,
+  "addedMatches": 6,
   "unavailable": [],
   "snapshots": {
     "kinokuniya": {
@@ -20,6 +20,12 @@
       "updatedAt": "2026-09-18",
       "live": true,
       "items": [
+        {
+          "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
+          "author": "",
+          "isbn": "",
+          "rank": 2
+        },
         {
           "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
           "author": "",
@@ -62,12 +68,6 @@
       "live": true,
       "items": [
         {
-          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-          "author": "",
-          "isbn": "",
-          "rank": 2
-        },
-        {
           "title": "ハヤブサ消防団 森へつづく道",
           "author": "",
           "isbn": "",
@@ -78,6 +78,12 @@
           "author": "",
           "isbn": "",
           "rank": 5
+        },
+        {
+          "title": "地球の歩き方 スター･ウォーズ",
+          "author": "",
+          "isbn": "",
+          "rank": 9
         },
         {
           "title": "キングダム magazine 2026",
@@ -112,29 +118,29 @@
       "isbn": "4380000407898",
       "salesType": 0,
       "matchMeta": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-        "author": "林真理子",
-        "score": 94,
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 幻冬舎新書",
+        "author": "",
+        "score": 102,
         "sources": [
           {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 2
           }
         ],
         "source": "combined",
-        "rank": 4,
-        "originalTitle": ""
+        "rank": 6,
+        "originalTitle": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書"
       },
       "ranking": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
         "author": "",
         "isbn": "",
         "score": 178,
         "sources": [
           {
-            "source": "tohan",
-            "label": "トーハン",
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
             "rank": 2
           }
         ],
@@ -171,7 +177,8 @@
           }
         ],
         "source": "combined",
-        "rank": 8
+        "rank": 8,
+        "originalTitle": "ハヤブサ消防団 森へつづく道"
       },
       "ranking": {
         "title": "ハヤブサ消防団 森へつづく道",
@@ -208,8 +215,7 @@
       "matchMeta": {
         "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
         "author": "",
-        "isbn": "",
-        "score": 175,
+        "score": 90,
         "sources": [
           {
             "source": "kinokuniya",
@@ -218,7 +224,8 @@
           }
         ],
         "source": "combined",
-        "rank": 9
+        "rank": 12,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
@@ -302,16 +309,21 @@
       "matchMeta": {
         "title": "イン・ザ・メガチャーチ",
         "author": "朝井リョウ",
-        "score": 82,
+        "score": 160,
         "sources": [
           {
             "source": "tohan",
             "label": "トーハン",
             "rank": 7
+          },
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 8
           }
         ],
         "source": "combined",
-        "rank": 7,
+        "rank": 1,
         "originalTitle": ""
       },
       "ranking": {
@@ -328,6 +340,54 @@
         ],
         "source": "combined",
         "rank": 5
+      }
+    },
+    {
+      "id": "9784059239659",
+      "title": "地球の歩き方 スター・ウォーズ",
+      "author": "",
+      "publisher": "地球の歩き方",
+      "price": 2750,
+      "url": "https://books.rakuten.co.jp/rk/40558a21970c38b8891b35aee564d356/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9941/2000020489941.jpg?_ex=600x600",
+      "caption": "銀河の果てまで旅するように、物語の舞台を歩く……。\n『スター・ウォーズ』の世界を「地球の歩き方」ならではの旅行ガイドスタイルでひもとく、スペシャルブックが登場！\nもしあなたが『スター・ウォーズ』の世界を訪れることになっても、本書があれば安心。劇場公開作品を中心に、ストーリーの流れや主要キャラクターの魅力を、心に残る名シーンとともにしっかりおさらいできます。さらに、モデルプランや旅のテクニックなど、ファン心をくすぐるコンテンツも充実。\n作品世界をより深く理解し、楽しむための情報を厳選して収録した、ファン必携の永久保存版です。\n※予告なく一部内容が変更される可能性もあります。予めご了承ください。\n※電子版では、紙のガイドブックと内容が一部異なります。掲載されない写真や図版、収録されないページがある場合があります。あらかじめご了承下さい。\n",
+      "salesDate": "2026年07月29日",
+      "series": "",
+      "reviewAverage": 4.33,
+      "reviewCount": 3,
+      "genreId": "101911",
+      "isbn": "9784059239659",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "地球の歩き方 スター・ウォーズ",
+        "author": "",
+        "isbn": "",
+        "score": 171,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 17,
+        "originalTitle": "地球の歩き方 スター･ウォーズ"
+      },
+      "ranking": {
+        "title": "地球の歩き方 スター･ウォーズ",
+        "author": "",
+        "isbn": "",
+        "score": 171,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 6
       }
     },
     {
@@ -374,7 +434,7 @@
           }
         ],
         "source": "combined",
-        "rank": 6
+        "rank": 7
       }
     },
     {
@@ -406,8 +466,7 @@
           }
         ],
         "source": "combined",
-        "rank": 22,
-        "originalTitle": "FOR OVERSEAS"
+        "rank": 22
       },
       "ranking": {
         "title": "FOR OVERSEAS",
@@ -422,7 +481,7 @@
           }
         ],
         "source": "combined",
-        "rank": 7
+        "rank": 8
       }
     },
     {
@@ -469,7 +528,7 @@
           }
         ],
         "source": "combined",
-        "rank": 8
+        "rank": 9
       }
     },
     {
@@ -489,10 +548,9 @@
       "isbn": "4340008066911",
       "salesType": 0,
       "matchMeta": {
-        "title": "夏帆 - Ｔｈｅ Ｔａｌｅ ｏｆ ＫＡＨＯ",
+        "title": "夏帆 - The Tale of KAHO",
         "author": "",
-        "isbn": "",
-        "score": 157,
+        "score": 18,
         "sources": [
           {
             "source": "kinokuniya",
@@ -501,7 +559,8 @@
           }
         ],
         "source": "combined",
-        "rank": 33
+        "rank": 31,
+        "originalTitle": "夏帆 - Ｔｈｅ　Ｔａｌｅ　ｏｆ　ＫＡＨＯ"
       },
       "ranking": {
         "title": "夏帆 - Ｔｈｅ Ｔａｌｅ ｏｆ ＫＡＨＯ",
@@ -516,7 +575,7 @@
           }
         ],
         "source": "combined",
-        "rank": 9
+        "rank": 10
       }
     },
     {
@@ -538,8 +597,7 @@
       "matchMeta": {
         "title": "ギャルにひかれて寺マルシェ",
         "author": "",
-        "isbn": "",
-        "score": 151,
+        "score": 5,
         "sources": [
           {
             "source": "kinokuniya",
@@ -548,8 +606,8 @@
           }
         ],
         "source": "combined",
-        "rank": 39,
-        "originalTitle": "ギャルにひかれて寺マルシェ"
+        "rank": 37,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "ギャルにひかれて寺マルシェ",
@@ -564,7 +622,7 @@
           }
         ],
         "source": "combined",
-        "rank": 10
+        "rank": 11
       }
     },
     {
@@ -595,7 +653,7 @@
           }
         ],
         "source": "combined",
-        "rank": 1,
+        "rank": 3,
         "originalTitle": ""
       },
       "ranking": {
@@ -610,7 +668,54 @@
           }
         ],
         "source": "combined",
-        "rank": 11,
+        "rank": 12,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "4320000865495",
+      "title": "ファイア・ドーム 上",
+      "author": "辻村深月",
+      "publisher": "小学館",
+      "price": 1881,
+      "url": "https://books.rakuten.co.jp/rk/22c26517c9353107819b56539afa6896/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1853/2000020771853.jpg?_ex=600x600",
+      "caption": "人はなぜ大きな事件に魅了されてしまうのか。\n噂は、軽薄な娯楽だ。\n25年前、平穏だったはずの地方都市は、百貨店受付嬢誘拐殺人事件の発生、その報道により揺り動かされ、「噂」という大量の炎が、加害者のみならず被害者にも降り注ぎ、燃えさかった。ようやく静けさを取り戻したかに見える町に燻り続ける因縁が、いま新たな事件を呼び起こすーー。\n「もう言われてるよ！　どうせ、親が殺したんだろうって！」ーー本文より\n",
+      "salesDate": "2026年06月05日",
+      "series": "ファイア・ドーム",
+      "reviewAverage": 4.56,
+      "reviewCount": 411,
+      "genreId": "101901/101902",
+      "isbn": "4320000865495",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ファイア・ドーム 上",
+        "author": "辻村深月",
+        "score": 102,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 2
+          }
+        ],
+        "source": "combined",
+        "rank": 5,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "ファイア・ドーム 上",
+        "author": "辻村深月",
+        "score": 102,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 2
+          }
+        ],
+        "source": "combined",
+        "rank": 13,
         "originalTitle": ""
       }
     },
@@ -642,7 +747,7 @@
           }
         ],
         "source": "combined",
-        "rank": 3,
+        "rank": 7,
         "originalTitle": ""
       },
       "ranking": {
@@ -657,7 +762,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12,
+        "rank": 14,
         "originalTitle": ""
       }
     },
@@ -689,7 +794,7 @@
           }
         ],
         "source": "combined",
-        "rank": 5,
+        "rank": 11,
         "originalTitle": ""
       },
       "ranking": {
@@ -704,7 +809,7 @@
           }
         ],
         "source": "combined",
-        "rank": 13,
+        "rank": 15,
         "originalTitle": ""
       }
     },
@@ -736,7 +841,7 @@
           }
         ],
         "source": "combined",
-        "rank": 9,
+        "rank": 16,
         "originalTitle": ""
       },
       "ranking": {
@@ -751,7 +856,7 @@
           }
         ],
         "source": "combined",
-        "rank": 14,
+        "rank": 16,
         "originalTitle": ""
       }
     },
@@ -783,7 +888,7 @@
           }
         ],
         "source": "combined",
-        "rank": 10,
+        "rank": 18,
         "originalTitle": ""
       },
       "ranking": {
@@ -798,7 +903,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15,
+        "rank": 17,
         "originalTitle": ""
       }
     }
@@ -810,11 +915,13 @@
       "4340008066911",
       "4331000700320",
       "4320000867368",
+      "4320000865495",
       "4320000865494",
       "4310000858457"
     ],
     "mystery": [
       "4820000903843",
+      "4320000865495",
       "4320000865494"
     ],
     "sf": [],
@@ -840,7 +947,9 @@
     ],
     "health": [],
     "hobby": [],
-    "travel": [],
+    "travel": [
+      "9784059239659"
+    ],
     "language": [
       "6681311679960"
     ],
@@ -854,11 +963,11 @@
   },
   "genreStatus": {
     "fiction": {
-      "matched": 7,
+      "matched": 8,
       "complete": true
     },
     "mystery": {
-      "matched": 2,
+      "matched": 3,
       "complete": true
     },
     "sf": {
@@ -898,7 +1007,7 @@
       "complete": true
     },
     "travel": {
-      "matched": 0,
+      "matched": 1,
       "complete": true
     },
     "language": {

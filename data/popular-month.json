@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-09-20T16:40:32.524Z",
+  "updatedAt": "2026-09-20T21:14:37.767Z",
   "candidateCount": 40,
-  "baseMatched": 10,
-  "matched": 17,
-  "addedMatches": 7,
+  "baseMatched": 11,
+  "matched": 16,
+  "addedMatches": 5,
   "unavailable": [],
   "snapshots": {
     "kinokuniya": {
@@ -277,8 +277,7 @@
           }
         ],
         "source": "combined",
-        "rank": 10,
-        "originalTitle": "つかめ!理科ダマン 12 最強ロボット決戦!編"
+        "rank": 10
       },
       "ranking": {
         "title": "つかめ!理科ダマン 12 最強ロボット決戦!編",
@@ -315,8 +314,7 @@
       "matchMeta": {
         "title": "パンどろぼうとさすらいラーメン",
         "author": "",
-        "isbn": "",
-        "score": 172,
+        "score": 78,
         "sources": [
           {
             "source": "kinokuniya",
@@ -325,8 +323,8 @@
           }
         ],
         "source": "combined",
-        "rank": 14,
-        "originalTitle": "パンどろぼうとさすらいラーメン"
+        "rank": 16,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "パンどろぼうとさすらいラーメン",
@@ -649,10 +647,9 @@
       "isbn": "4340008066911",
       "salesType": 0,
       "matchMeta": {
-        "title": "夏帆 - Ｔｈｅ Ｔａｌｅ ｏｆ ＫＡＨＯ",
+        "title": "夏帆 - The Tale of KAHO",
         "author": "",
-        "isbn": "",
-        "score": 150,
+        "score": 5,
         "sources": [
           {
             "source": "kinokuniya",
@@ -661,7 +658,8 @@
           }
         ],
         "source": "combined",
-        "rank": 40
+        "rank": 38,
+        "originalTitle": "夏帆 - Ｔｈｅ　Ｔａｌｅ　ｏｆ　ＫＡＨＯ"
       },
       "ranking": {
         "title": "夏帆 - Ｔｈｅ Ｔａｌｅ ｏｆ ＫＡＨＯ",
@@ -677,6 +675,53 @@
         ],
         "source": "combined",
         "rank": 12
+      }
+    },
+    {
+      "id": "4320000867368",
+      "title": "GOAT Summer 2026",
+      "author": "宮島未奈/尾崎世界観/山内マリコ/梨/麻布競馬場",
+      "publisher": "小学館",
+      "price": 506,
+      "url": "https://books.rakuten.co.jp/rk/f5b51183e72e30a7a80fcb62bd0705ba/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9590/2000020809590.jpg?_ex=600x600",
+      "caption": "大ヒット！話題沸騰の新文芸誌、第4号！\n〇特集「食」\n【小説】\n宮島未奈 尾崎世界観 山内マリコ 市川沙央 梨 麻布競馬場 山口未桜 前川知大 小田雅久仁 佐久間由衣 芦沢央 上條一輝 真下みこと 方丈貴恵 青柳碧人 中西智佐乃 三木三奈 村雲菜月\n【エッセイ】\n角田光代 酒徒 吉川トリコ\n【わたしの偏食 エッセイ】\n伊藤亜和 井上咲楽 けんた食堂 ジェーン・スー 絶対に終電を逃さない女 生湯葉シホ 福徳秀介 穂村弘 吉田恵里香 ヨシダナギ\n【食日記】\nでか美ちゃん\n【対談】\n山極壽一×平野紗季子\n藤原辰史×小林エリカ\n【自炊レッスン】\n山口祐加×ダ・ヴィンチ・恐山\n【私のGOAT本】\n宇多丸 宮部みゆき 山崎怜奈 米澤穂信\n【文学賞】\n第1回GO-mono長編文学賞 受賞作発表\n選考委員長:加藤シゲアキ\n【連載】\n藤ヶ谷太輔\n【ゴートアム短歌賞】\n俵万智×岸田繁\n【出せなかった手紙】\n荒井良二\n【ゴートくんがゆく！】\n印刷博物館編　インタビュー:京極夏彦館長\n【特集】『ファイア・ドーム』（辻村深月）\n他豪華企画多数！\n（底本　2026年6月発売作品）\n※底本綴じ込み付録の「ゴートくんのおべんとうしおり」は、電子書籍には含まれておりません。あらかじめご了承ください。\n※本電子書籍に掲載されている二次元バーコードは、端末の機種やアプリの仕様によっては読み取れない場合があります。その際はURLからアクセスしてください。\n※この作品はカラーが含まれます。\n",
+      "salesDate": "2026年06月10日",
+      "series": "GOAT",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101907015004/101907015001/101901002",
+      "isbn": "4320000867368",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "GOAT Summer 2026",
+        "author": "",
+        "score": 106,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 1
+          }
+        ],
+        "source": "combined",
+        "rank": 3,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "GOAT Summer 2026",
+        "author": "",
+        "score": 106,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 1
+          }
+        ],
+        "source": "combined",
+        "rank": 13,
+        "originalTitle": ""
       }
     },
     {
@@ -722,7 +767,7 @@
           }
         ],
         "source": "combined",
-        "rank": 13,
+        "rank": 14,
         "originalTitle": ""
       }
     },
@@ -766,53 +811,6 @@
             "source": "tohan",
             "label": "トーハン",
             "rank": 3
-          }
-        ],
-        "source": "combined",
-        "rank": 14,
-        "originalTitle": ""
-      }
-    },
-    {
-      "id": "4310000858457",
-      "title": "多類婚姻譚",
-      "author": "凪良ゆう",
-      "publisher": "講談社",
-      "price": 2090,
-      "url": "https://books.rakuten.co.jp/rk/35543b7edf2e30ee99d978d6e6e59bdd/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9189/2000020649189.jpg?_ex=600x600",
-      "caption": "一緒に生きる。わかりあえないあなたと。\n一番近くにいる他人ーこいびとー。どうして結婚はこんなに難しくなってしまったのだろう。\n『流浪の月』『汝、星のごとく』で二度の本屋大賞を受賞した著者が描く、今そこにある愛のかたち。\nセクシュアリティ/ジェンダー、金銭感覚、世代間格差、成育環境……\nあらゆる価値観の対立の中で現代を生きるわたしたちの祈りと叫び。\n【凪良ゆう　コメント】\n「文芸書としては『星を編む』から２年半、ようやく新刊をお届けできます。\n今作は結婚について。\n婚姻譚と銘打ちながらも、婚姻への道のりがはてしなく遠い!!　これは果たして婚姻譚と言えるのか、と担当さん達と首をかしげる場面もありました。\n読んでくださった方たちと”現代の結婚”について語り合ってみたいです。」\n【収録作　紹介】\n「Thank you for your understanding」\n家族の期待に応え、ついに恋人と帰省する決意を固めた華。\n「Beautiful Dreamer」\n結婚したい。ありふれた夢のはずなのに、東京ではこんなにも遠い。\n「小鳥たち」\n離婚して、実家の書店を継いだ一葉。そこに偶然、初恋の人がやって来てーー。\n「Position Talk」\n入籍を目前にした男女。性差を越え、個としてわかり合える日は来るのか。\n「C'est la vie」\n仕事も恋も、魂を分けあった二人。だが、夢のような時間にはいつか終わりが来る。\n",
-      "salesDate": "2026年05月26日",
-      "series": "多類婚姻譚",
-      "reviewAverage": 4.23,
-      "reviewCount": 555,
-      "genreId": "101901",
-      "isbn": "4310000858457",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "多類婚姻譚",
-        "author": "凪良ゆう",
-        "score": 90,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 5
-          }
-        ],
-        "source": "combined",
-        "rank": 11,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "多類婚姻譚",
-        "author": "凪良ゆう",
-        "score": 90,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 5
           }
         ],
         "source": "combined",
@@ -866,53 +864,6 @@
         "rank": 16,
         "originalTitle": ""
       }
-    },
-    {
-      "id": "4479234030000",
-      "title": "豊臣兄弟！　後編",
-      "author": "八津弘幸/ＮＨＫドラマ制作班",
-      "publisher": "NHK出版",
-      "price": 1540,
-      "url": "https://books.rakuten.co.jp/rk/03955594478a34569322faf481fd73c8/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0762/2000020710762.jpg?_ex=600x600",
-      "caption": "兄弟の絆で天下を狙え！　2026年大河ドラマ「豊臣兄弟！」完全ガイド第2弾！\n仲野太賀主演・2026年大河ドラマ「豊臣兄弟！」。\nドラマをもっと楽しむためのガイドブック「後編」が登場！\n時は戦国乱世。時の戦国大名・織田信長に仕官して大出世を目指す兄の誘いに巻き込まれた小一郎は、知恵と勇気、そして持ち前の「調整力」を生かしながら、目の前に立ちはだかるハードミッションを兄との絶妙なコンビネーションで次々とクリアしていく。やがて小一郎は兄とともに、万民が笑って暮らせる太平の世を作るという夢を抱き始めーー。\n弟・秀長の視点で戦国時代をダイナミックに描く、夢と希望の下克上サクセスストーリー！\n＊電子書籍版ではプレゼントページほか、一部収録していないコンテンツがございます。あらかじめご了承ください。\n全3冊でお届けするドラマ・ガイドの第２弾「後編」では、主演・仲野太賀×吉岡里帆の撮り下ろし対談をはじめ、豪華出演者インタビューや物語中盤までのあらすじを掲載。さらに、タイトルバック徹底分析やマンガで読む秀長の生涯、豊臣しつもん箱、作家・今村翔吾さんに聞く戦国の兄弟たち特集、「本能寺の変」のヒミツに迫る歴史解説企画など充実の内容。美麗グラビア満載でお届けする、家族みんなで読めるフルカラー・ドラマガイド！　\n",
-      "salesDate": "2026年05月29日",
-      "series": "ＮＨＫ大河ドラマ・ガイド",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101913002",
-      "isbn": "4479234030000",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "NHK大河ドラマ・ガイド 豊臣兄弟! 後編",
-        "author": "",
-        "score": 70,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 18,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "NHK大河ドラマ・ガイド 豊臣兄弟! 後編",
-        "author": "",
-        "score": 70,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 17,
-        "originalTitle": ""
-      }
     }
   ],
   "byGenre": {
@@ -921,9 +872,9 @@
       "4660629612104",
       "4331000700320",
       "4340008066911",
+      "4320000867368",
       "4320000865495",
-      "4320000865494",
-      "4310000858457"
+      "4320000865494"
     ],
     "mystery": [
       "4820000903843",
@@ -938,6 +889,7 @@
     "humanities": [
       "4380000407898",
       "4390000014247",
+      "4320000867368",
       "7225000866451"
     ],
     "nonfiction": [
@@ -961,7 +913,9 @@
     "children": [
       "4335396900320"
     ],
-    "essay": [],
+    "essay": [
+      "4320000867368"
+    ],
     "comic": [
       "4972000161524"
     ]
@@ -984,7 +938,7 @@
       "complete": true
     },
     "humanities": {
-      "matched": 3,
+      "matched": 4,
       "complete": true
     },
     "nonfiction": {
@@ -1024,7 +978,7 @@
       "complete": true
     },
     "essay": {
-      "matched": 0,
+      "matched": 1,
       "complete": true
     },
     "comic": {

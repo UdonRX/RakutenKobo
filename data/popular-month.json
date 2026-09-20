@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-09-20T05:36:51.624Z",
+  "updatedAt": "2026-09-20T12:00:47.544Z",
   "candidateCount": 40,
   "baseMatched": 13,
-  "matched": 19,
-  "addedMatches": 6,
+  "matched": 18,
+  "addedMatches": 5,
   "unavailable": [],
   "snapshots": {
     "kinokuniya": {
@@ -230,8 +230,7 @@
           }
         ],
         "source": "combined",
-        "rank": 8,
-        "originalTitle": "ハヤブサ消防団 森へつづく道"
+        "rank": 8
       },
       "ranking": {
         "title": "ハヤブサ消防団 森へつづく道",
@@ -278,8 +277,7 @@
           }
         ],
         "source": "combined",
-        "rank": 10,
-        "originalTitle": "つかめ!理科ダマン 12 最強ロボット決戦!編"
+        "rank": 10
       },
       "ranking": {
         "title": "つかめ!理科ダマン 12 最強ロボット決戦!編",
@@ -316,8 +314,7 @@
       "matchMeta": {
         "title": "パンどろぼうとさすらいラーメン",
         "author": "",
-        "isbn": "",
-        "score": 172,
+        "score": 78,
         "sources": [
           {
             "source": "kinokuniya",
@@ -326,7 +323,8 @@
           }
         ],
         "source": "combined",
-        "rank": 14
+        "rank": 16,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "パンどろぼうとさすらいラーメン",
@@ -413,7 +411,7 @@
       "isbn": "9784059239659",
       "salesType": 0,
       "matchMeta": {
-        "title": "地球の歩き方 スター・ウォーズ",
+        "title": "地球の歩き方 スター･ウォーズ",
         "author": "",
         "isbn": "",
         "score": 171,
@@ -425,8 +423,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17,
-        "originalTitle": "地球の歩き方 スター･ウォーズ"
+        "rank": 17
       },
       "ranking": {
         "title": "地球の歩き方 スター･ウォーズ",
@@ -473,7 +470,8 @@
           }
         ],
         "source": "combined",
-        "rank": 19
+        "rank": 19,
+        "originalTitle": "キングダム magazine 2026"
       },
       "ranking": {
         "title": "キングダム magazine 2026",
@@ -520,8 +518,7 @@
           }
         ],
         "source": "combined",
-        "rank": 22,
-        "originalTitle": "FOR OVERSEAS"
+        "rank": 22
       },
       "ranking": {
         "title": "FOR OVERSEAS",
@@ -869,53 +866,6 @@
       }
     },
     {
-      "id": "4390000015358",
-      "title": "青天",
-      "author": "若林正恭",
-      "publisher": "文藝春秋",
-      "price": 1900,
-      "url": "https://books.rakuten.co.jp/rk/a6fc1b8794af3eafb7f064fac9c68dfa/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0144/2000019330144.jpg?_ex=600x600",
-      "caption": "オードリー・若林正恭、初小説！\n人にぶつかっていないと、自分が生きているかどうかよくわからなくなるーー\n総大三高の「アリ」こと中村昴が所属するアメフト部は、万年２回戦どまり。相手校の練習を隠し撮りして迎えた高３の引退大会では、強豪・遼西学園に打ち破れた。引退後、みなが受験に向かうなか、勉強にも気持ちが入らず、不良になる覚悟もないまま宙ぶらりんの日々を過ごす。自分自身の不甲斐なさにもがき続けるなかで、アリは再びアメフトと向き合う決意を固める。\n青春の苦みと悦びに満ちた、著者渾身の初小説。\n",
-      "salesDate": "2026年02月20日",
-      "series": "",
-      "reviewAverage": 4.03,
-      "reviewCount": 577,
-      "genreId": "101901",
-      "isbn": "4390000015358",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "青天",
-        "author": "若林正恭",
-        "score": 78,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 15,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "青天",
-        "author": "若林正恭",
-        "score": 78,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 17,
-        "originalTitle": ""
-      }
-    },
-    {
       "id": "7225000866451",
       "title": "悩みの本──あなたが本気で生きている証",
       "author": "高橋佳子",
@@ -958,7 +908,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18,
+        "rank": 17,
         "originalTitle": ""
       }
     },
@@ -1005,7 +955,7 @@
           }
         ],
         "source": "combined",
-        "rank": 19,
+        "rank": 18,
         "originalTitle": ""
       }
     }
@@ -1019,8 +969,7 @@
       "4320000867368",
       "4320000865495",
       "4320000865494",
-      "4310000858457",
-      "4390000015358"
+      "4310000858457"
     ],
     "mystery": [
       "4820000903843",
@@ -1068,7 +1017,7 @@
   },
   "genreStatus": {
     "fiction": {
-      "matched": 9,
+      "matched": 8,
       "complete": true
     },
     "mystery": {

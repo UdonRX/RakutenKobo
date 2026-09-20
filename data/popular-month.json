@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-09-20T12:00:47.544Z",
+  "updatedAt": "2026-09-20T16:40:32.524Z",
   "candidateCount": 40,
-  "baseMatched": 13,
-  "matched": 18,
-  "addedMatches": 5,
+  "baseMatched": 10,
+  "matched": 17,
+  "addedMatches": 7,
   "unavailable": [],
   "snapshots": {
     "kinokuniya": {
@@ -20,6 +20,12 @@
       "updatedAt": "2026-09-20",
       "live": true,
       "items": [
+        {
+          "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
+          "author": "",
+          "isbn": "",
+          "rank": 2
+        },
         {
           "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
           "author": "",
@@ -67,12 +73,6 @@
       "updatedAt": "2026-09-20",
       "live": true,
       "items": [
-        {
-          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-          "author": "",
-          "isbn": "",
-          "rank": 2
-        },
         {
           "title": "ハヤブサ消防団 森へつづく道",
           "author": "",
@@ -124,29 +124,29 @@
       "isbn": "4380000407898",
       "salesType": 0,
       "matchMeta": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-        "author": "林真理子",
-        "score": 94,
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 幻冬舎新書",
+        "author": "",
+        "score": 102,
         "sources": [
           {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 2
           }
         ],
         "source": "combined",
-        "rank": 9,
-        "originalTitle": ""
+        "rank": 6,
+        "originalTitle": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書"
       },
       "ranking": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
         "author": "",
         "isbn": "",
         "score": 178,
         "sources": [
           {
-            "source": "tohan",
-            "label": "トーハン",
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
             "rank": 2
           }
         ],
@@ -277,7 +277,8 @@
           }
         ],
         "source": "combined",
-        "rank": 10
+        "rank": 10,
+        "originalTitle": "つかめ!理科ダマン 12 最強ロボット決戦!編"
       },
       "ranking": {
         "title": "つかめ!理科ダマン 12 最強ロボット決戦!編",
@@ -314,7 +315,8 @@
       "matchMeta": {
         "title": "パンどろぼうとさすらいラーメン",
         "author": "",
-        "score": 78,
+        "isbn": "",
+        "score": 172,
         "sources": [
           {
             "source": "kinokuniya",
@@ -323,8 +325,8 @@
           }
         ],
         "source": "combined",
-        "rank": 16,
-        "originalTitle": ""
+        "rank": 14,
+        "originalTitle": "パンどろぼうとさすらいラーメン"
       },
       "ranking": {
         "title": "パンどろぼうとさすらいラーメン",
@@ -470,8 +472,7 @@
           }
         ],
         "source": "combined",
-        "rank": 19,
-        "originalTitle": "キングダム magazine 2026"
+        "rank": 19
       },
       "ranking": {
         "title": "キングダム magazine 2026",
@@ -518,7 +519,8 @@
           }
         ],
         "source": "combined",
-        "rank": 22
+        "rank": 22,
+        "originalTitle": "FOR OVERSEAS"
       },
       "ranking": {
         "title": "FOR OVERSEAS",
@@ -647,9 +649,10 @@
       "isbn": "4340008066911",
       "salesType": 0,
       "matchMeta": {
-        "title": "夏帆 - The Tale of KAHO",
+        "title": "夏帆 - Ｔｈｅ Ｔａｌｅ ｏｆ ＫＡＨＯ",
         "author": "",
-        "score": 5,
+        "isbn": "",
+        "score": 150,
         "sources": [
           {
             "source": "kinokuniya",
@@ -658,8 +661,7 @@
           }
         ],
         "source": "combined",
-        "rank": 38,
-        "originalTitle": "夏帆 - Ｔｈｅ　Ｔａｌｅ　ｏｆ　ＫＡＨＯ"
+        "rank": 40
       },
       "ranking": {
         "title": "夏帆 - Ｔｈｅ Ｔａｌｅ ｏｆ ＫＡＨＯ",
@@ -675,53 +677,6 @@
         ],
         "source": "combined",
         "rank": 12
-      }
-    },
-    {
-      "id": "4320000867368",
-      "title": "GOAT Summer 2026",
-      "author": "宮島未奈/尾崎世界観/山内マリコ/梨/麻布競馬場",
-      "publisher": "小学館",
-      "price": 506,
-      "url": "https://books.rakuten.co.jp/rk/f5b51183e72e30a7a80fcb62bd0705ba/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9590/2000020809590.jpg?_ex=600x600",
-      "caption": "大ヒット！話題沸騰の新文芸誌、第4号！\n〇特集「食」\n【小説】\n宮島未奈 尾崎世界観 山内マリコ 市川沙央 梨 麻布競馬場 山口未桜 前川知大 小田雅久仁 佐久間由衣 芦沢央 上條一輝 真下みこと 方丈貴恵 青柳碧人 中西智佐乃 三木三奈 村雲菜月\n【エッセイ】\n角田光代 酒徒 吉川トリコ\n【わたしの偏食 エッセイ】\n伊藤亜和 井上咲楽 けんた食堂 ジェーン・スー 絶対に終電を逃さない女 生湯葉シホ 福徳秀介 穂村弘 吉田恵里香 ヨシダナギ\n【食日記】\nでか美ちゃん\n【対談】\n山極壽一×平野紗季子\n藤原辰史×小林エリカ\n【自炊レッスン】\n山口祐加×ダ・ヴィンチ・恐山\n【私のGOAT本】\n宇多丸 宮部みゆき 山崎怜奈 米澤穂信\n【文学賞】\n第1回GO-mono長編文学賞 受賞作発表\n選考委員長:加藤シゲアキ\n【連載】\n藤ヶ谷太輔\n【ゴートアム短歌賞】\n俵万智×岸田繁\n【出せなかった手紙】\n荒井良二\n【ゴートくんがゆく！】\n印刷博物館編　インタビュー:京極夏彦館長\n【特集】『ファイア・ドーム』（辻村深月）\n他豪華企画多数！\n（底本　2026年6月発売作品）\n※底本綴じ込み付録の「ゴートくんのおべんとうしおり」は、電子書籍には含まれておりません。あらかじめご了承ください。\n※本電子書籍に掲載されている二次元バーコードは、端末の機種やアプリの仕様によっては読み取れない場合があります。その際はURLからアクセスしてください。\n※この作品はカラーが含まれます。\n",
-      "salesDate": "2026年06月10日",
-      "series": "GOAT",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101907015004/101907015001/101901002",
-      "isbn": "4320000867368",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "GOAT Summer 2026",
-        "author": "",
-        "score": 106,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 1
-          }
-        ],
-        "source": "combined",
-        "rank": 3,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "GOAT Summer 2026",
-        "author": "",
-        "score": 106,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 1
-          }
-        ],
-        "source": "combined",
-        "rank": 13,
-        "originalTitle": ""
       }
     },
     {
@@ -767,7 +722,7 @@
           }
         ],
         "source": "combined",
-        "rank": 14,
+        "rank": 13,
         "originalTitle": ""
       }
     },
@@ -814,7 +769,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15,
+        "rank": 14,
         "originalTitle": ""
       }
     },
@@ -861,7 +816,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16,
+        "rank": 15,
         "originalTitle": ""
       }
     },
@@ -908,7 +863,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17,
+        "rank": 16,
         "originalTitle": ""
       }
     },
@@ -955,7 +910,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18,
+        "rank": 17,
         "originalTitle": ""
       }
     }
@@ -966,7 +921,6 @@
       "4660629612104",
       "4331000700320",
       "4340008066911",
-      "4320000867368",
       "4320000865495",
       "4320000865494",
       "4310000858457"
@@ -984,7 +938,6 @@
     "humanities": [
       "4380000407898",
       "4390000014247",
-      "4320000867368",
       "7225000866451"
     ],
     "nonfiction": [
@@ -1008,16 +961,14 @@
     "children": [
       "4335396900320"
     ],
-    "essay": [
-      "4320000867368"
-    ],
+    "essay": [],
     "comic": [
       "4972000161524"
     ]
   },
   "genreStatus": {
     "fiction": {
-      "matched": 8,
+      "matched": 7,
       "complete": true
     },
     "mystery": {
@@ -1033,7 +984,7 @@
       "complete": true
     },
     "humanities": {
-      "matched": 4,
+      "matched": 3,
       "complete": true
     },
     "nonfiction": {
@@ -1073,7 +1024,7 @@
       "complete": true
     },
     "essay": {
-      "matched": 1,
+      "matched": 0,
       "complete": true
     },
     "comic": {

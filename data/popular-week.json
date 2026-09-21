@@ -4,7 +4,7 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-09-21T13:32:50.444Z",
+  "updatedAt": "2026-09-21T22:26:03.085Z",
   "candidateCount": 79,
   "baseMatched": 21,
   "matched": 28,
@@ -59,12 +59,6 @@
           "rank": 15
         },
         {
-          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 (幻冬舎新書 803)",
-          "author": "林真理子",
-          "isbn": "",
-          "rank": 20
-        },
-        {
           "title": "現代語古事記 第二版: (改訂版)",
           "author": "竹田恒泰",
           "isbn": "",
@@ -94,6 +88,12 @@
           "rank": 3
         },
         {
+          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+          "author": "林真理子",
+          "isbn": "",
+          "rank": 4
+        },
+        {
           "title": "シャーロック・ホームズの凱旋",
           "author": "森見登美彦",
           "isbn": "",
@@ -104,6 +104,12 @@
           "author": "東野圭吾",
           "isbn": "",
           "rank": 7
+        },
+        {
+          "title": "ブラッディダイスの殺人 上",
+          "author": "M・W・クレイヴン",
+          "isbn": "",
+          "rank": 9
         },
         {
           "title": "ブラッディダイスの殺人 下",
@@ -182,6 +188,12 @@
       "live": true,
       "items": [
         {
+          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+          "author": "",
+          "isbn": "",
+          "rank": 2
+        },
+        {
           "title": "FINEBOYS＋plus OYASUMI vol.2",
           "author": "",
           "isbn": "",
@@ -216,6 +228,63 @@
   },
   "items": [
     {
+      "id": "4380000407898",
+      "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+      "author": "林真理子",
+      "publisher": "幻冬舎",
+      "price": 982,
+      "url": "https://books.rakuten.co.jp/rk/1e28fc1db6b83578b06b0919e0a52cd7/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0908/2000020490908.jpg?_ex=600x600",
+      "caption": "70代は頭も体もまだ大丈夫。\nそれなりに蓄えもできている。\nでもこれまでと全く同じことをしていたらダメ。\nできないことは諦め、楽しいことを大事にし、人生の新しいステージに立とう。\n同じ年代とばかりつるまず、ダイエットはしない。\n嫌われずに自慢話をするテクニック、お金にキレイな人と思われるおごり方ーー。\n72歳の人気作家が本音で語る「健康」「おしゃれ」「仕事」「お金」「人間関係」「趣味」。\n確実に近づく「その日」を見つめ、今の1分1秒を楽しんで生きるための、痛快・人生論。\n",
+      "salesDate": "2026年05月27日",
+      "series": "",
+      "reviewAverage": 3.48,
+      "reviewCount": 49,
+      "genreId": "101907010004/101909",
+      "isbn": "4380000407898",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "author": "林真理子",
+        "score": 192,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 4
+          },
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 3
+          }
+        ],
+        "source": "combined",
+        "rank": 2,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "author": "林真理子",
+        "isbn": "",
+        "score": 354,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 4
+          },
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 2
+          }
+        ],
+        "source": "combined",
+        "rank": 1
+      }
+    },
+    {
       "id": "4335396900320",
       "title": "パンどろぼうとさすらいラーメン",
       "author": "柴田　ケイコ",
@@ -234,22 +303,23 @@
       "matchMeta": {
         "title": "パンどろぼうとさすらいラーメン",
         "author": "柴田 ケイコ",
-        "score": 156,
+        "isbn": "",
+        "score": 344,
         "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 1
-          },
           {
             "source": "amazon",
             "label": "Amazon",
             "rank": 15
+          },
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 1
           }
         ],
         "source": "combined",
         "rank": 3,
-        "originalTitle": ""
+        "originalTitle": "パンどろぼうとさすらいラーメン"
       },
       "ranking": {
         "title": "パンどろぼうとさすらいラーメン",
@@ -269,7 +339,7 @@
           }
         ],
         "source": "combined",
-        "rank": 1
+        "rank": 2
       }
     },
     {
@@ -313,53 +383,6 @@
             "source": "amazon",
             "label": "Amazon",
             "rank": 1
-          }
-        ],
-        "source": "combined",
-        "rank": 2
-      }
-    },
-    {
-      "id": "4916475490001",
-      "title": "プレゼント",
-      "author": "若竹七海",
-      "publisher": "中央公論新社",
-      "price": 776,
-      "url": "https://books.rakuten.co.jp/rk/9fe631efeb0f3eb0a09ce80197395709/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1444/2000007701444.jpg?_ex=600x600",
-      "caption": "ルーム・クリーナー、電話相談、興信所。トラブルメイカーのフリーター・葉村晶と、娘に借りたピンクの子供用自転車で現場に駆けつける小林警部補。二人が巻き込まれたハードボイルドで悲しい八つの事件とはーー。間抜けだが悪気のない隣人たちがひき起こす騒動はいつも危険すぎる！\n",
-      "salesDate": "2019年08月30日",
-      "series": "プレゼント",
-      "reviewAverage": 3.52,
-      "reviewCount": 92,
-      "genreId": "101901/101902",
-      "isbn": "4916475490001",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "プレゼント",
-        "author": "伊坂幸太郎",
-        "score": 98,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 3
-          }
-        ],
-        "source": "combined",
-        "rank": 10,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "プレゼント",
-        "author": "伊坂幸太郎",
-        "isbn": "",
-        "score": 177,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 3
           }
         ],
         "source": "combined",
@@ -414,6 +437,53 @@
       }
     },
     {
+      "id": "4916475490001",
+      "title": "プレゼント",
+      "author": "若竹七海",
+      "publisher": "中央公論新社",
+      "price": 776,
+      "url": "https://books.rakuten.co.jp/rk/9fe631efeb0f3eb0a09ce80197395709/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1444/2000007701444.jpg?_ex=600x600",
+      "caption": "ルーム・クリーナー、電話相談、興信所。トラブルメイカーのフリーター・葉村晶と、娘に借りたピンクの子供用自転車で現場に駆けつける小林警部補。二人が巻き込まれたハードボイルドで悲しい八つの事件とはーー。間抜けだが悪気のない隣人たちがひき起こす騒動はいつも危険すぎる！\n",
+      "salesDate": "2019年08月30日",
+      "series": "プレゼント",
+      "reviewAverage": 3.52,
+      "reviewCount": 92,
+      "genreId": "101901/101902",
+      "isbn": "4916475490001",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "プレゼント",
+        "author": "伊坂幸太郎",
+        "score": 98,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 3
+          }
+        ],
+        "source": "combined",
+        "rank": 10,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "プレゼント",
+        "author": "伊坂幸太郎",
+        "isbn": "",
+        "score": 177,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 3
+          }
+        ],
+        "source": "combined",
+        "rank": 5
+      }
+    },
+    {
       "id": "5430000025522",
       "title": "FINEBOYS+plus OYASUMI vol.2",
       "author": "",
@@ -430,7 +500,7 @@
       "isbn": "5430000025522",
       "salesType": 0,
       "matchMeta": {
-        "title": "FINEBOYS＋plus OYASUMI vol.2",
+        "title": "FINEBOYS+plus OYASUMI vol.2",
         "author": "",
         "isbn": "",
         "score": 177,
@@ -442,7 +512,8 @@
           }
         ],
         "source": "combined",
-        "rank": 10
+        "rank": 10,
+        "originalTitle": "FINEBOYS＋plus OYASUMI vol.2"
       },
       "ranking": {
         "title": "FINEBOYS＋plus OYASUMI vol.2",
@@ -457,7 +528,7 @@
           }
         ],
         "source": "combined",
-        "rank": 5
+        "rank": 6
       }
     },
     {
@@ -489,7 +560,8 @@
           }
         ],
         "source": "combined",
-        "rank": 13
+        "rank": 13,
+        "originalTitle": "ギャルにひかれて寺マルシェ"
       },
       "ranking": {
         "title": "ギャルにひかれて寺マルシェ",
@@ -504,7 +576,7 @@
           }
         ],
         "source": "combined",
-        "rank": 6
+        "rank": 7
       }
     },
     {
@@ -551,7 +623,7 @@
           }
         ],
         "source": "combined",
-        "rank": 7
+        "rank": 8
       }
     },
     {
@@ -598,7 +670,7 @@
           }
         ],
         "source": "combined",
-        "rank": 8
+        "rank": 9
       }
     },
     {
@@ -645,7 +717,7 @@
           }
         ],
         "source": "combined",
-        "rank": 9
+        "rank": 10
       }
     },
     {
@@ -692,7 +764,7 @@
           }
         ],
         "source": "combined",
-        "rank": 10
+        "rank": 11
       }
     },
     {
@@ -724,8 +796,7 @@
           }
         ],
         "source": "combined",
-        "rank": 25,
-        "originalTitle": "会社四季報 業界地図 2027年版"
+        "rank": 25
       },
       "ranking": {
         "title": "会社四季報 業界地図 2027年版",
@@ -740,7 +811,7 @@
           }
         ],
         "source": "combined",
-        "rank": 11
+        "rank": 12
       }
     },
     {
@@ -787,7 +858,54 @@
           }
         ],
         "source": "combined",
-        "rank": 12
+        "rank": 13
+      }
+    },
+    {
+      "id": "4620000615075",
+      "title": "ブラッディダイスの殺人　上",
+      "author": "Ｍ Ｗ クレイヴン",
+      "publisher": "早川書房",
+      "price": 1210,
+      "url": "https://books.rakuten.co.jp/rk/91ea3c43631d345d8bb867055aba005f/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9728/2000021429728.jpg?_ex=600x600",
+      "caption": "ポーとティリーが再びタッグを組む！　シリーズ累計30万部の最新作！\n英国全土で連続狙撃事件が発生。犠牲者は17人にのぼるも犯人の手がかりはなく、ポーとティリーは国家犯罪対策庁に呼び戻されるが\n",
+      "salesDate": "2026年08月19日",
+      "series": "ワシントン・ポー",
+      "reviewAverage": 4.53,
+      "reviewCount": 16,
+      "genreId": "101902",
+      "isbn": "4620000615075",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ブラッディダイスの殺人 上",
+        "author": "M・W・クレイヴン",
+        "score": 74,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 31,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "ブラッディダイスの殺人 上",
+        "author": "M・W・クレイヴン",
+        "isbn": "",
+        "score": 171,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 14
       }
     },
     {
@@ -809,8 +927,7 @@
       "matchMeta": {
         "title": "転生したらスライムだった件(33) (シリウスKC)",
         "author": "川上 泰樹",
-        "isbn": "",
-        "score": 171,
+        "score": 74,
         "sources": [
           {
             "source": "amazon",
@@ -819,7 +936,8 @@
           }
         ],
         "source": "combined",
-        "rank": 30
+        "rank": 34,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "転生したらスライムだった件(33) (シリウスKC)",
@@ -834,7 +952,7 @@
           }
         ],
         "source": "combined",
-        "rank": 13
+        "rank": 15
       }
     },
     {
@@ -881,7 +999,7 @@
           }
         ],
         "source": "combined",
-        "rank": 14
+        "rank": 16
       }
     },
     {
@@ -928,7 +1046,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15
+        "rank": 17
       }
     },
     {
@@ -975,54 +1093,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16
-      }
-    },
-    {
-      "id": "7328131415919",
-      "title": "黒執事 36巻",
-      "author": "枢やな",
-      "publisher": "スクウェア・エニックス",
-      "price": 770,
-      "url": "https://books.rakuten.co.jp/rk/1e4f0989d4aa32ffaf057afb8fa437a2/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6489/2000021386489.jpg?_ex=600x600",
-      "caption": "最新リゾートホテルの実態を探るべく、調査に乗り出したシエルとその執事。ところが開始早々、グランドフロアでセバスチャンを“悪魔”と呼ぶ謎の人物が現れる。モドリと名乗るその男は、セバスチャンと浅からぬ因縁を持つようでーー？No.１執事コミック、待望の第36巻登場!!\n",
-      "salesDate": "2026年09月26日",
-      "series": "黒執事",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904090",
-      "isbn": "7328131415919",
-      "salesType": 1,
-      "matchMeta": {
-        "title": "黒執事(36)",
-        "author": "枢やな",
-        "score": 66,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 11
-          }
-        ],
-        "source": "combined",
-        "rank": 40,
-        "originalTitle": "黒執事(36) (Gファンタジーコミックス)"
-      },
-      "ranking": {
-        "title": "黒執事(36) (Gファンタジーコミックス)",
-        "author": "枢やな",
-        "isbn": "",
-        "score": 169,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 11
-          }
-        ],
-        "source": "combined",
-        "rank": 17
+        "rank": 18
       }
     },
     {
@@ -1069,7 +1140,54 @@
           }
         ],
         "source": "combined",
-        "rank": 18
+        "rank": 19
+      }
+    },
+    {
+      "id": "7328131415919",
+      "title": "黒執事 36巻",
+      "author": "枢やな",
+      "publisher": "スクウェア・エニックス",
+      "price": 770,
+      "url": "https://books.rakuten.co.jp/rk/1e4f0989d4aa32ffaf057afb8fa437a2/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6489/2000021386489.jpg?_ex=600x600",
+      "caption": "最新リゾートホテルの実態を探るべく、調査に乗り出したシエルとその執事。ところが開始早々、グランドフロアでセバスチャンを“悪魔”と呼ぶ謎の人物が現れる。モドリと名乗るその男は、セバスチャンと浅からぬ因縁を持つようでーー？No.１執事コミック、待望の第36巻登場!!\n",
+      "salesDate": "2026年09月26日",
+      "series": "黒執事",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904090",
+      "isbn": "7328131415919",
+      "salesType": 1,
+      "matchMeta": {
+        "title": "黒執事(36)",
+        "author": "枢やな",
+        "score": 66,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 11
+          }
+        ],
+        "source": "combined",
+        "rank": 40,
+        "originalTitle": "黒執事(36) (Gファンタジーコミックス)"
+      },
+      "ranking": {
+        "title": "黒執事(36) (Gファンタジーコミックス)",
+        "author": "枢やな",
+        "isbn": "",
+        "score": 169,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 11
+          }
+        ],
+        "source": "combined",
+        "rank": 20
       }
     },
     {
@@ -1116,7 +1234,7 @@
           }
         ],
         "source": "combined",
-        "rank": 19
+        "rank": 21
       }
     },
     {
@@ -1148,8 +1266,7 @@
           }
         ],
         "source": "combined",
-        "rank": 43,
-        "originalTitle": "FOR OVERSEAS"
+        "rank": 43
       },
       "ranking": {
         "title": "FOR OVERSEAS",
@@ -1164,7 +1281,7 @@
           }
         ],
         "source": "combined",
-        "rank": 20
+        "rank": 22
       }
     },
     {
@@ -1211,54 +1328,7 @@
           }
         ],
         "source": "combined",
-        "rank": 21
-      }
-    },
-    {
-      "id": "4380000407898",
-      "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-      "author": "林真理子",
-      "publisher": "幻冬舎",
-      "price": 982,
-      "url": "https://books.rakuten.co.jp/rk/1e28fc1db6b83578b06b0919e0a52cd7/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0908/2000020490908.jpg?_ex=600x600",
-      "caption": "70代は頭も体もまだ大丈夫。\nそれなりに蓄えもできている。\nでもこれまでと全く同じことをしていたらダメ。\nできないことは諦め、楽しいことを大事にし、人生の新しいステージに立とう。\n同じ年代とばかりつるまず、ダイエットはしない。\n嫌われずに自慢話をするテクニック、お金にキレイな人と思われるおごり方ーー。\n72歳の人気作家が本音で語る「健康」「おしゃれ」「仕事」「お金」「人間関係」「趣味」。\n確実に近づく「その日」を見つめ、今の1分1秒を楽しんで生きるための、痛快・人生論。\n",
-      "salesDate": "2026年05月27日",
-      "series": "",
-      "reviewAverage": 3.48,
-      "reviewCount": 49,
-      "genreId": "101907010004/101909",
-      "isbn": "4380000407898",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-        "author": "林真理子",
-        "score": 30,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 20
-          }
-        ],
-        "source": "combined",
-        "rank": 57,
-        "originalTitle": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 (幻冬舎新書 803)"
-      },
-      "ranking": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 (幻冬舎新書 803)",
-        "author": "林真理子",
-        "isbn": "",
-        "score": 160,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 20
-          }
-        ],
-        "source": "combined",
-        "rank": 22
+        "rank": 23
       }
     },
     {
@@ -1290,7 +1360,8 @@
           }
         ],
         "source": "combined",
-        "rank": 68
+        "rank": 68,
+        "originalTitle": "現代語古事記 第二版: (改訂版)"
       },
       "ranking": {
         "title": "現代語古事記 第二版: (改訂版)",
@@ -1305,7 +1376,7 @@
           }
         ],
         "source": "combined",
-        "rank": 23
+        "rank": 24
       }
     },
     {
@@ -1352,7 +1423,7 @@
           }
         ],
         "source": "combined",
-        "rank": 24
+        "rank": 25
       }
     },
     {
@@ -1399,7 +1470,7 @@
           }
         ],
         "source": "combined",
-        "rank": 25
+        "rank": 26
       }
     },
     {
@@ -1442,53 +1513,6 @@
             "source": "tohan",
             "label": "トーハン",
             "rank": 1
-          }
-        ],
-        "source": "combined",
-        "rank": 26,
-        "originalTitle": ""
-      }
-    },
-    {
-      "id": "9784059239659",
-      "title": "地球の歩き方 スター・ウォーズ",
-      "author": "",
-      "publisher": "地球の歩き方",
-      "price": 2750,
-      "url": "https://books.rakuten.co.jp/rk/40558a21970c38b8891b35aee564d356/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9941/2000020489941.jpg?_ex=600x600",
-      "caption": "銀河の果てまで旅するように、物語の舞台を歩く……。\n『スター・ウォーズ』の世界を「地球の歩き方」ならではの旅行ガイドスタイルでひもとく、スペシャルブックが登場！\nもしあなたが『スター・ウォーズ』の世界を訪れることになっても、本書があれば安心。劇場公開作品を中心に、ストーリーの流れや主要キャラクターの魅力を、心に残る名シーンとともにしっかりおさらいできます。さらに、モデルプランや旅のテクニックなど、ファン心をくすぐるコンテンツも充実。\n作品世界をより深く理解し、楽しむための情報を厳選して収録した、ファン必携の永久保存版です。\n※予告なく一部内容が変更される可能性もあります。予めご了承ください。\n※電子版では、紙のガイドブックと内容が一部異なります。掲載されない写真や図版、収録されないページがある場合があります。あらかじめご了承下さい。\n",
-      "salesDate": "2026年07月29日",
-      "series": "",
-      "reviewAverage": 4.33,
-      "reviewCount": 3,
-      "genreId": "101911",
-      "isbn": "9784059239659",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "地球の歩き方 スター・ウォーズ",
-        "author": "地球の歩き方編集室",
-        "score": 90,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 5
-          }
-        ],
-        "source": "combined",
-        "rank": 16,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "地球の歩き方 スター・ウォーズ",
-        "author": "地球の歩き方編集室",
-        "score": 90,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 5
           }
         ],
         "source": "combined",
@@ -1546,8 +1570,8 @@
   ],
   "byGenre": {
     "fiction": [
-      "4916475490001",
       "4340008067611",
+      "4916475490001",
       "4331000700320",
       "4910000909001",
       "4390000005636",
@@ -1558,6 +1582,7 @@
     "mystery": [
       "4916475490001",
       "4390000005636",
+      "4620000615075",
       "4620000615076"
     ],
     "sf": [],
@@ -1567,9 +1592,9 @@
       "7275000923851"
     ],
     "humanities": [
+      "4380000407898",
       "4390000014247",
       "4910000910142",
-      "4380000407898",
       "9784059242475",
       "4390000016485"
     ],
@@ -1586,9 +1611,7 @@
     ],
     "health": [],
     "hobby": [],
-    "travel": [
-      "9784059239659"
-    ],
+    "travel": [],
     "language": [
       "6681311679960"
     ],
@@ -1610,7 +1633,7 @@
       "complete": true
     },
     "mystery": {
-      "matched": 3,
+      "matched": 4,
       "complete": true
     },
     "sf": {
@@ -1650,7 +1673,7 @@
       "complete": true
     },
     "travel": {
-      "matched": 1,
+      "matched": 0,
       "complete": true
     },
     "language": {

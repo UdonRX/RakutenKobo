@@ -4,8 +4,8 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-09-22T12:14:07.997Z",
-  "candidateCount": 85,
+  "updatedAt": "2026-09-22T17:29:13.695Z",
+  "candidateCount": 84,
   "baseMatched": 27,
   "matched": 36,
   "addedMatches": 9,
@@ -241,11 +241,6 @@
       "live": true,
       "items": [
         {
-          "title": "キングダム 81",
-          "author": "原 泰久",
-          "rank": 1
-        },
-        {
           "title": "ダンダダン 26",
           "author": "龍 幸伸",
           "rank": 7
@@ -424,53 +419,6 @@
       }
     },
     {
-      "id": "4972000161524",
-      "title": "キングダム magazine 2026",
-      "author": "原泰久",
-      "publisher": "集英社",
-      "price": 1881,
-      "url": "https://books.rakuten.co.jp/rk/47fb09e2be1731b4a06b3f70f3466419/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2094/2000021122094.jpg?_ex=600x600",
-      "caption": "キングダム連載20周年を記念して、読むたびにアツくなる！　語りたくなる!!　キングダムを楽しみ尽くす一冊!!　読切『金剛』掲載。『キングダム』の原点、主人公・信が誕生した幻の読切を再掲。原泰久3大インタビュー。・20周年スペシャル単独インタビュー　・原泰久×松原利光（YJ連載『ガス灯野良犬探偵団』作画）×笠原真樹（ビッグコミックスピリッツ連載『夢なし先生の進路指導』） 師弟鼎談　・ちばてつや×原泰久特別対談。　大特集『キングダム』二十年の軌跡。様々な角度から連載20年を振り返る大特集。その他、映画、アニメ、ゲーム、キングダムの20年が凝縮された企画盛り沢山の240ページ。　※電子版には3大アプリゲーム特典コードはつきません。\n",
-      "salesDate": "2026年08月19日",
-      "series": "キングダム magazine 2026",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904002006",
-      "isbn": "4972000161524",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "キングダム 81",
-        "author": "原 泰久",
-        "score": 106,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 1
-          }
-        ],
-        "source": "combined",
-        "rank": 8,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "キングダム 81",
-        "author": "原 泰久",
-        "isbn": "",
-        "score": 179,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 1
-          }
-        ],
-        "source": "combined",
-        "rank": 3
-      }
-    },
-    {
       "id": "9784059243236",
       "title": "がんばれ パンチ",
       "author": "市川市動植物園/今泉忠明/市進ホールディングス",
@@ -514,24 +462,24 @@
           }
         ],
         "source": "combined",
-        "rank": 4
+        "rank": 3
       }
     },
     {
-      "id": "4916475490001",
-      "title": "プレゼント",
-      "author": "若竹七海",
-      "publisher": "中央公論新社",
-      "price": 776,
-      "url": "https://books.rakuten.co.jp/rk/9fe631efeb0f3eb0a09ce80197395709/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1444/2000007701444.jpg?_ex=600x600",
-      "caption": "ルーム・クリーナー、電話相談、興信所。トラブルメイカーのフリーター・葉村晶と、娘に借りたピンクの子供用自転車で現場に駆けつける小林警部補。二人が巻き込まれたハードボイルドで悲しい八つの事件とはーー。間抜けだが悪気のない隣人たちがひき起こす騒動はいつも危険すぎる！\n",
-      "salesDate": "2019年08月30日",
-      "series": "プレゼント",
-      "reviewAverage": 3.52,
-      "reviewCount": 92,
-      "genreId": "101901/101902",
-      "isbn": "4916475490001",
+      "id": "4340008067051",
+      "title": "プレゼント（新潮文庫）",
+      "author": "伊坂幸太郎/江國香織/恩田陸/梨木香歩/町田そのこ/宮部みゆき/米澤穂信",
+      "publisher": "新潮社",
+      "price": 825,
+      "url": "https://books.rakuten.co.jp/rk/e8a60fd88eb63075a76e50e52cf98712/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8962/2000020598962.jpg?_ex=600x600",
+      "caption": "これはこれまで小説を愛してきてくれた人へ、そしてこれから小説の世界に一歩踏み出す人へ贈るプレゼント。何気なく読んだ物語が、ふと目にした一行が、意外な言葉ひとつが、人生を大きく変えるかもしれない。現代を代表する７人の作家が「夏」をテーマに書き下ろした、驚きと切なさ、怖さと美しさ、何よりとびきりの面白さを詰め込んだ奇跡の一冊。さぁ、あなたの人生に小説という選択肢を。\n",
+      "salesDate": "2026年06月24日",
+      "series": "",
+      "reviewAverage": 3.9,
+      "reviewCount": 346,
+      "genreId": "101901",
+      "isbn": "4340008067051",
       "salesType": 0,
       "matchMeta": {
         "title": "プレゼント",
@@ -561,7 +509,7 @@
           }
         ],
         "source": "combined",
-        "rank": 5
+        "rank": 4
       }
     },
     {
@@ -583,8 +531,7 @@
       "matchMeta": {
         "title": "幽冥の岸 十二国記",
         "author": "小野不由美",
-        "isbn": "",
-        "score": 177,
+        "score": 98,
         "sources": [
           {
             "source": "amazon",
@@ -593,7 +540,7 @@
           }
         ],
         "source": "combined",
-        "rank": 10,
+        "rank": 16,
         "originalTitle": "幽冥の岸 十二国記 (新潮文庫 お 37-66)"
       },
       "ranking": {
@@ -609,7 +556,7 @@
           }
         ],
         "source": "combined",
-        "rank": 6
+        "rank": 5
       }
     },
     {
@@ -629,7 +576,7 @@
       "isbn": "5430000025522",
       "salesType": 0,
       "matchMeta": {
-        "title": "FINEBOYS+plus OYASUMI vol.2",
+        "title": "FINEBOYS＋plus OYASUMI vol.2",
         "author": "",
         "isbn": "",
         "score": 177,
@@ -641,8 +588,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12,
-        "originalTitle": "FINEBOYS＋plus OYASUMI vol.2"
+        "rank": 11
       },
       "ranking": {
         "title": "FINEBOYS＋plus OYASUMI vol.2",
@@ -657,7 +603,7 @@
           }
         ],
         "source": "combined",
-        "rank": 7
+        "rank": 6
       }
     },
     {
@@ -689,7 +635,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15
+        "rank": 14
       },
       "ranking": {
         "title": "ギャルにひかれて寺マルシェ",
@@ -704,7 +650,7 @@
           }
         ],
         "source": "combined",
-        "rank": 8
+        "rank": 7
       }
     },
     {
@@ -751,7 +697,7 @@
           }
         ],
         "source": "combined",
-        "rank": 9
+        "rank": 8
       }
     },
     {
@@ -798,7 +744,7 @@
           }
         ],
         "source": "combined",
-        "rank": 10
+        "rank": 9
       }
     },
     {
@@ -845,7 +791,7 @@
           }
         ],
         "source": "combined",
-        "rank": 11
+        "rank": 10
       }
     },
     {
@@ -892,7 +838,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12
+        "rank": 11
       }
     },
     {
@@ -939,7 +885,7 @@
           }
         ],
         "source": "combined",
-        "rank": 13
+        "rank": 12
       }
     },
     {
@@ -986,7 +932,7 @@
           }
         ],
         "source": "combined",
-        "rank": 14
+        "rank": 13
       }
     },
     {
@@ -1018,7 +964,7 @@
           }
         ],
         "source": "combined",
-        "rank": 26
+        "rank": 25
       },
       "ranking": {
         "title": "会社四季報 業界地図 2027年版",
@@ -1033,7 +979,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15
+        "rank": 14
       }
     },
     {
@@ -1080,24 +1026,24 @@
           }
         ],
         "source": "combined",
-        "rank": 16
+        "rank": 15
       }
     },
     {
-      "id": "4331990700310",
-      "title": "死に戻りの魔法学校生活を、元恋人とプロローグから　（※ただし好感度はゼロ）【分冊版】　8",
+      "id": "4333811000320",
+      "title": "死に戻りの魔法学校生活を、元恋人とプロローグから ７　（※ただし好感度はゼロ）",
       "author": "白川　蟻ん/六つ花　えいこ/秋鹿　ユギリ",
       "publisher": "KADOKAWA",
-      "price": 88,
-      "url": "https://books.rakuten.co.jp/rk/2c536db1bd9f361ba105f51cf8ecc505/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1407/2000011011407.jpg?_ex=600x600",
-      "caption": "魔法学校に通う17歳のオリアナは、ある日恋人のヴィンセントと共に原因不明の死を迎える。死ぬ前の記憶を持ったまま、７歳の姿に死に戻ったオリアナ。愛しい恋人との再会を夢見ながら幾年を過ごし、やっと再会するも、彼はオリアナのことを何も覚えていなくて……。「次にくるライトノベル大賞2021」ノミネート作品、待望のコミカライズ。分冊版第8弾。\n",
-      "salesDate": "2022年04月05日",
-      "series": "死に戻りの魔法学校生活を、元恋人とプロローグから【分冊版】",
-      "reviewAverage": 0,
-      "reviewCount": 0,
+      "price": 836,
+      "url": "https://books.rakuten.co.jp/rk/99dc7d7d51533fc48cc04d91394980aa/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5028/2000019585028.jpg?_ex=600x600",
+      "caption": "「僕が見つけて抱きしめたい。彼女から恐れや不安を取り除けるように」オリアナとの交際を父に認めてもらうため、実家へ帰省していたヴィンセント。戻ったら、彼女にどう愛を伝えようーー逸る気持ちを抑え、彼はオリアナの元へ走り出す。一方オリアナは、前の人生で二人が死んだ日が近づき不安を募らせていた。無情にも降り出した雨の中、ヴィンセントの帰りを待つオリアナ。そこへ現れ、そっと傘を差し出したのは……。\n",
+      "salesDate": "2026年02月05日",
+      "series": "死に戻りの魔法学校生活を、元恋人とプロローグから",
+      "reviewAverage": 4.57,
+      "reviewCount": 14,
       "genreId": "101904090",
-      "isbn": "4331990700310",
+      "isbn": "4333811000320",
       "salesType": 0,
       "matchMeta": {
         "title": "死に戻りの魔法学校生活を、元恋人とプロローグから 8 (※ただし好感度はゼロ)",
@@ -1127,7 +1073,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17
+        "rank": 16
       }
     },
     {
@@ -1174,7 +1120,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18
+        "rank": 17
       }
     },
     {
@@ -1221,7 +1167,7 @@
           }
         ],
         "source": "combined",
-        "rank": 19
+        "rank": 18
       }
     },
     {
@@ -1268,7 +1214,7 @@
           }
         ],
         "source": "combined",
-        "rank": 20
+        "rank": 19
       }
     },
     {
@@ -1290,8 +1236,7 @@
       "matchMeta": {
         "title": "「思い込み」が未来を決める 東大・早稲田大・筑波大生、上場企業経営者らを指導して",
         "author": "",
-        "isbn": "",
-        "score": 170,
+        "score": 70,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1300,8 +1245,8 @@
           }
         ],
         "source": "combined",
-        "rank": 39,
-        "originalTitle": "「思い込み」が未来を決める 東大・早稲田大・筑波大生、上場企業経営者らを指導して"
+        "rank": 48,
+        "originalTitle": "「思い込み」が未来を決める　東大・早稲田大・筑波大生、上場企業経営者らを指導して"
       },
       "ranking": {
         "title": "「思い込み」が未来を決める 東大・早稲田大・筑波大生、上場企業経営者らを指導して",
@@ -1316,7 +1261,7 @@
           }
         ],
         "source": "combined",
-        "rank": 21
+        "rank": 20
       }
     },
     {
@@ -1348,7 +1293,7 @@
           }
         ],
         "source": "combined",
-        "rank": 40
+        "rank": 39
       },
       "ranking": {
         "title": "オーイ!とんぼ 64",
@@ -1363,7 +1308,7 @@
           }
         ],
         "source": "combined",
-        "rank": 22
+        "rank": 21
       }
     },
     {
@@ -1410,7 +1355,7 @@
           }
         ],
         "source": "combined",
-        "rank": 23
+        "rank": 22
       }
     },
     {
@@ -1457,7 +1402,7 @@
           }
         ],
         "source": "combined",
-        "rank": 24
+        "rank": 23
       }
     },
     {
@@ -1504,7 +1449,7 @@
           }
         ],
         "source": "combined",
-        "rank": 25
+        "rank": 24
       }
     },
     {
@@ -1551,7 +1496,7 @@
           }
         ],
         "source": "combined",
-        "rank": 26
+        "rank": 25
       }
     },
     {
@@ -1583,7 +1528,7 @@
           }
         ],
         "source": "combined",
-        "rank": 47
+        "rank": 46
       },
       "ranking": {
         "title": "FOR OVERSEAS",
@@ -1598,7 +1543,7 @@
           }
         ],
         "source": "combined",
-        "rank": 27
+        "rank": 26
       }
     },
     {
@@ -1645,7 +1590,7 @@
           }
         ],
         "source": "combined",
-        "rank": 28
+        "rank": 27
       }
     },
     {
@@ -1667,7 +1612,8 @@
       "matchMeta": {
         "title": "週刊ファミ通 2026年10月1・8日合併号 No.1964",
         "author": "週刊ファミ通編集部",
-        "score": 54,
+        "isbn": "",
+        "score": 166,
         "sources": [
           {
             "source": "amazon",
@@ -1676,8 +1622,8 @@
           }
         ],
         "source": "combined",
-        "rank": 59,
-        "originalTitle": ""
+        "rank": 52,
+        "originalTitle": "週刊ファミ通 2026年10月1・8日合併号 No.1964"
       },
       "ranking": {
         "title": "週刊ファミ通 2026年10月1・8日合併号 No.1964",
@@ -1692,7 +1638,7 @@
           }
         ],
         "source": "combined",
-        "rank": 29
+        "rank": 28
       }
     },
     {
@@ -1739,7 +1685,7 @@
           }
         ],
         "source": "combined",
-        "rank": 30
+        "rank": 29
       }
     },
     {
@@ -1761,8 +1707,7 @@
       "matchMeta": {
         "title": "現代語古事記 第二版: (改訂版)",
         "author": "竹田恒泰",
-        "isbn": "",
-        "score": 155,
+        "score": 10,
         "sources": [
           {
             "source": "amazon",
@@ -1771,7 +1716,8 @@
           }
         ],
         "source": "combined",
-        "rank": 75
+        "rank": 88,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "現代語古事記 第二版: (改訂版)",
@@ -1786,7 +1732,7 @@
           }
         ],
         "source": "combined",
-        "rank": 31
+        "rank": 30
       }
     },
     {
@@ -1818,7 +1764,7 @@
           }
         ],
         "source": "combined",
-        "rank": 76
+        "rank": 75
       },
       "ranking": {
         "title": "なぜ日本が世界に必要なのか 文春新書",
@@ -1833,7 +1779,7 @@
           }
         ],
         "source": "combined",
-        "rank": 32
+        "rank": 31
       }
     },
     {
@@ -1853,9 +1799,10 @@
       "isbn": "7225000908848",
       "salesType": 1,
       "matchMeta": {
-        "title": "ゆるキャン△ 19",
+        "title": "ゆるキャン△ １９ (まんがタイムKRコミックス)",
         "author": "あfろ",
-        "score": 6,
+        "isbn": "",
+        "score": 154,
         "sources": [
           {
             "source": "amazon",
@@ -1864,8 +1811,7 @@
           }
         ],
         "source": "combined",
-        "rank": 90,
-        "originalTitle": "ゆるキャン△ １９ (まんがタイムKRコミックス)"
+        "rank": 76
       },
       "ranking": {
         "title": "ゆるキャン△ １９ (まんがタイムKRコミックス)",
@@ -1880,7 +1826,7 @@
           }
         ],
         "source": "combined",
-        "rank": 33
+        "rank": 32
       }
     },
     {
@@ -1902,7 +1848,8 @@
       "matchMeta": {
         "title": "帳の向こう",
         "author": "",
-        "score": 5,
+        "isbn": "",
+        "score": 150,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1911,8 +1858,8 @@
           }
         ],
         "source": "combined",
-        "rank": 98,
-        "originalTitle": ""
+        "rank": 84,
+        "originalTitle": "帳の向こう"
       },
       "ranking": {
         "title": "帳の向こう",
@@ -1927,7 +1874,7 @@
           }
         ],
         "source": "combined",
-        "rank": 34
+        "rank": 33
       }
     },
     {
@@ -1973,7 +1920,7 @@
           }
         ],
         "source": "combined",
-        "rank": 35,
+        "rank": 34,
         "originalTitle": ""
       }
     },
@@ -2020,6 +1967,53 @@
           }
         ],
         "source": "combined",
+        "rank": 35,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "4480000838415",
+      "title": "けんぐゎい",
+      "author": "朝倉かすみ",
+      "publisher": "光文社",
+      "price": 1980,
+      "url": "https://books.rakuten.co.jp/rk/7249a640151339f4ab53ef18f6bba0b0/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8537/2000020238537.jpg?_ex=600x600",
+      "caption": "利発だが酷い痘痕の姉ふゆ。逆上せ癖で縹緻よしの妹りよ。幼くして父を亡くし、ふゆは手習師匠の手伝いに、りよは船宿の下女奉公に出された。師匠の養子で禍々しいほどに歪んだ性癖をもつ宗三郎から手籠めにされたふゆは懐妊するが、現人神と崇められる女医者と出逢い、彼女の人生は大きく変わっていく。自我に目覚めた主人公が、女の生と向き合う、時代小説の新しい扉！　第175回直木賞受賞作！\n",
+      "salesDate": "2026年04月22日",
+      "series": "けんぐゎい",
+      "reviewAverage": 3.39,
+      "reviewCount": 108,
+      "genreId": "101901001001",
+      "isbn": "4480000838415",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "けんぐゎい",
+        "author": "朝倉かすみ",
+        "score": 70,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 46,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "けんぐゎい",
+        "author": "朝倉かすみ",
+        "score": 70,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
         "rank": 36,
         "originalTitle": ""
       }
@@ -2027,16 +2021,16 @@
   ],
   "byGenre": {
     "fiction": [
-      "4916475490001",
+      "4340008067051",
       "4340008067611",
       "4331000700320",
       "4910000909001",
       "4390000005636",
       "6681316776900",
-      "4660629612104"
+      "4660629612104",
+      "4480000838415"
     ],
     "mystery": [
-      "4916475490001",
       "4390000005636",
       "4620000615075",
       "4620000615076"
@@ -2083,9 +2077,8 @@
     ],
     "essay": [],
     "comic": [
-      "4972000161524",
       "4972000126759",
-      "4331990700310",
+      "4333811000320",
       "4310000862928",
       "7131315591790",
       "7328131415919",
@@ -2095,11 +2088,11 @@
   },
   "genreStatus": {
     "fiction": {
-      "matched": 7,
+      "matched": 8,
       "complete": true
     },
     "mystery": {
-      "matched": 4,
+      "matched": 3,
       "complete": true
     },
     "sf": {
@@ -2155,7 +2148,7 @@
       "complete": true
     },
     "comic": {
-      "matched": 8,
+      "matched": 7,
       "complete": true
     }
   }

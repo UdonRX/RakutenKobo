@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-09-22T12:14:25.737Z",
+  "updatedAt": "2026-09-22T17:29:30.991Z",
   "candidateCount": 40,
-  "baseMatched": 10,
-  "matched": 15,
-  "addedMatches": 5,
+  "baseMatched": 12,
+  "matched": 18,
+  "addedMatches": 6,
   "unavailable": [],
   "snapshots": {
     "kinokuniya": {
@@ -20,12 +20,6 @@
       "updatedAt": "2026-09-22",
       "live": true,
       "items": [
-        {
-          "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
-          "author": "",
-          "isbn": "",
-          "rank": 2
-        },
         {
           "title": "パンどろぼうとさすらいラーメン",
           "author": "",
@@ -67,6 +61,12 @@
       "updatedAt": "2026-09-22",
       "live": true,
       "items": [
+        {
+          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+          "author": "",
+          "isbn": "",
+          "rank": 2
+        },
         {
           "title": "ハヤブサ消防団 森へつづく道",
           "author": "",
@@ -118,29 +118,29 @@
       "isbn": "4380000407898",
       "salesType": 0,
       "matchMeta": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 幻冬舎新書",
-        "author": "",
-        "score": 102,
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "author": "林真理子",
+        "score": 94,
         "sources": [
           {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 2
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
           }
         ],
         "source": "combined",
-        "rank": 6,
-        "originalTitle": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書"
+        "rank": 9,
+        "originalTitle": ""
       },
       "ranking": {
-        "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
         "author": "",
         "isbn": "",
         "score": 178,
         "sources": [
           {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
+            "source": "tohan",
+            "label": "トーハン",
             "rank": 2
           }
         ],
@@ -407,7 +407,7 @@
       "isbn": "9784059239659",
       "salesType": 0,
       "matchMeta": {
-        "title": "地球の歩き方 スター・ウォーズ",
+        "title": "地球の歩き方 スター･ウォーズ",
         "author": "",
         "isbn": "",
         "score": 171,
@@ -419,8 +419,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17,
-        "originalTitle": "地球の歩き方 スター･ウォーズ"
+        "rank": 17
       },
       "ranking": {
         "title": "地球の歩き方 スター･ウォーズ",
@@ -467,8 +466,7 @@
           }
         ],
         "source": "combined",
-        "rank": 19,
-        "originalTitle": "キングダム magazine 2026"
+        "rank": 19
       },
       "ranking": {
         "title": "キングダム magazine 2026",
@@ -515,8 +513,7 @@
           }
         ],
         "source": "combined",
-        "rank": 23,
-        "originalTitle": "FOR OVERSEAS"
+        "rank": 23
       },
       "ranking": {
         "title": "FOR OVERSEAS",
@@ -551,9 +548,10 @@
       "isbn": "4659733601001",
       "salesType": 0,
       "matchMeta": {
-        "title": "会社四季報業界地図 〈2027年版〉",
+        "title": "会社四季報業界地図 〈２０２７年版〉",
         "author": "",
-        "score": 18,
+        "isbn": "",
+        "score": 157,
         "sources": [
           {
             "source": "kinokuniya",
@@ -562,8 +560,7 @@
           }
         ],
         "source": "combined",
-        "rank": 31,
-        "originalTitle": "会社四季報業界地図 〈２０２７年版〉"
+        "rank": 33
       },
       "ranking": {
         "title": "会社四季報業界地図 〈２０２７年版〉",
@@ -676,6 +673,53 @@
       }
     },
     {
+      "id": "4320000865495",
+      "title": "ファイア・ドーム 上",
+      "author": "辻村深月",
+      "publisher": "小学館",
+      "price": 1881,
+      "url": "https://books.rakuten.co.jp/rk/22c26517c9353107819b56539afa6896/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1853/2000020771853.jpg?_ex=600x600",
+      "caption": "人はなぜ大きな事件に魅了されてしまうのか。\n噂は、軽薄な娯楽だ。\n25年前、平穏だったはずの地方都市は、百貨店受付嬢誘拐殺人事件の発生、その報道により揺り動かされ、「噂」という大量の炎が、加害者のみならず被害者にも降り注ぎ、燃えさかった。ようやく静けさを取り戻したかに見える町に燻り続ける因縁が、いま新たな事件を呼び起こすーー。\n「もう言われてるよ！　どうせ、親が殺したんだろうって！」ーー本文より\n",
+      "salesDate": "2026年06月05日",
+      "series": "ファイア・ドーム",
+      "reviewAverage": 4.56,
+      "reviewCount": 411,
+      "genreId": "101901/101902",
+      "isbn": "4320000865495",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ファイア・ドーム 上",
+        "author": "辻村深月",
+        "score": 102,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 2
+          }
+        ],
+        "source": "combined",
+        "rank": 5,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "ファイア・ドーム 上",
+        "author": "辻村深月",
+        "score": 102,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 2
+          }
+        ],
+        "source": "combined",
+        "rank": 13,
+        "originalTitle": ""
+      }
+    },
+    {
       "id": "4320000865494",
       "title": "ファイア・ドーム 下",
       "author": "辻村深月",
@@ -718,7 +762,101 @@
           }
         ],
         "source": "combined",
-        "rank": 13,
+        "rank": 14,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "4310000858457",
+      "title": "多類婚姻譚",
+      "author": "凪良ゆう",
+      "publisher": "講談社",
+      "price": 2090,
+      "url": "https://books.rakuten.co.jp/rk/35543b7edf2e30ee99d978d6e6e59bdd/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9189/2000020649189.jpg?_ex=600x600",
+      "caption": "一緒に生きる。わかりあえないあなたと。\n一番近くにいる他人ーこいびとー。どうして結婚はこんなに難しくなってしまったのだろう。\n『流浪の月』『汝、星のごとく』で二度の本屋大賞を受賞した著者が描く、今そこにある愛のかたち。\nセクシュアリティ/ジェンダー、金銭感覚、世代間格差、成育環境……\nあらゆる価値観の対立の中で現代を生きるわたしたちの祈りと叫び。\n【凪良ゆう　コメント】\n「文芸書としては『星を編む』から２年半、ようやく新刊をお届けできます。\n今作は結婚について。\n婚姻譚と銘打ちながらも、婚姻への道のりがはてしなく遠い!!　これは果たして婚姻譚と言えるのか、と担当さん達と首をかしげる場面もありました。\n読んでくださった方たちと”現代の結婚”について語り合ってみたいです。」\n【収録作　紹介】\n「Thank you for your understanding」\n家族の期待に応え、ついに恋人と帰省する決意を固めた華。\n「Beautiful Dreamer」\n結婚したい。ありふれた夢のはずなのに、東京ではこんなにも遠い。\n「小鳥たち」\n離婚して、実家の書店を継いだ一葉。そこに偶然、初恋の人がやって来てーー。\n「Position Talk」\n入籍を目前にした男女。性差を越え、個としてわかり合える日は来るのか。\n「C'est la vie」\n仕事も恋も、魂を分けあった二人。だが、夢のような時間にはいつか終わりが来る。\n",
+      "salesDate": "2026年05月26日",
+      "series": "多類婚姻譚",
+      "reviewAverage": 4.23,
+      "reviewCount": 555,
+      "genreId": "101901",
+      "isbn": "4310000858457",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "多類婚姻譚",
+        "author": "凪良ゆう",
+        "score": 90,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
+        "rank": 11,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "多類婚姻譚",
+        "author": "凪良ゆう",
+        "score": 90,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
+        "rank": 15,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "4390000015358",
+      "title": "青天",
+      "author": "若林正恭",
+      "publisher": "文藝春秋",
+      "price": 1900,
+      "url": "https://books.rakuten.co.jp/rk/a6fc1b8794af3eafb7f064fac9c68dfa/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0144/2000019330144.jpg?_ex=600x600",
+      "caption": "オードリー・若林正恭、初小説！\n人にぶつかっていないと、自分が生きているかどうかよくわからなくなるーー\n総大三高の「アリ」こと中村昴が所属するアメフト部は、万年２回戦どまり。相手校の練習を隠し撮りして迎えた高３の引退大会では、強豪・遼西学園に打ち破れた。引退後、みなが受験に向かうなか、勉強にも気持ちが入らず、不良になる覚悟もないまま宙ぶらりんの日々を過ごす。自分自身の不甲斐なさにもがき続けるなかで、アリは再びアメフトと向き合う決意を固める。\n青春の苦みと悦びに満ちた、著者渾身の初小説。\n",
+      "salesDate": "2026年02月20日",
+      "series": "",
+      "reviewAverage": 4.03,
+      "reviewCount": 577,
+      "genreId": "101901",
+      "isbn": "4390000015358",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "青天",
+        "author": "若林正恭",
+        "score": 78,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 15,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "青天",
+        "author": "若林正恭",
+        "score": 78,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 16,
         "originalTitle": ""
       }
     },
@@ -765,7 +903,7 @@
           }
         ],
         "source": "combined",
-        "rank": 14,
+        "rank": 17,
         "originalTitle": ""
       }
     },
@@ -812,7 +950,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15,
+        "rank": 18,
         "originalTitle": ""
       }
     }
@@ -823,10 +961,14 @@
       "4660629612104",
       "4331000700320",
       "4320000867368",
-      "4320000865494"
+      "4320000865495",
+      "4320000865494",
+      "4310000858457",
+      "4390000015358"
     ],
     "mystery": [
       "4820000903843",
+      "4320000865495",
       "4320000865494"
     ],
     "sf": [],
@@ -870,11 +1012,11 @@
   },
   "genreStatus": {
     "fiction": {
-      "matched": 5,
+      "matched": 8,
       "complete": true
     },
     "mystery": {
-      "matched": 2,
+      "matched": 3,
       "complete": true
     },
     "sf": {

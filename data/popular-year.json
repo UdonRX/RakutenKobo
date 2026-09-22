@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "year",
-  "updatedAt": "2026-09-22T17:29:35.683Z",
+  "updatedAt": "2026-09-22T21:50:58.750Z",
   "candidateCount": 13,
-  "baseMatched": 6,
+  "baseMatched": 4,
   "matched": 9,
-  "addedMatches": 3,
+  "addedMatches": 5,
   "unavailable": [],
   "snapshots": {
     "tohan": {
@@ -95,9 +95,10 @@
       "isbn": "4524815633410",
       "salesType": 0,
       "matchMeta": {
-        "title": "科学的に証明された すごい習慣大百科",
-        "author": "堀田秀吾",
-        "score": 106,
+        "title": "ハーバード、スタンフォード、オックスフォード... 科学的に証明された すごい習慣大百科",
+        "author": "",
+        "isbn": "",
+        "score": 179,
         "sources": [
           {
             "source": "tohan",
@@ -107,7 +108,7 @@
         ],
         "source": "combined",
         "rank": 1,
-        "originalTitle": ""
+        "originalTitle": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科"
       },
       "ranking": {
         "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
@@ -189,9 +190,10 @@
       "isbn": "4660629612104",
       "salesType": 0,
       "matchMeta": {
-        "title": "イン・ザ・メガチャーチ",
-        "author": "朝井リョウ",
-        "score": 98,
+        "title": "イン･ザ･メガチャーチ",
+        "author": "",
+        "isbn": "",
+        "score": 177,
         "sources": [
           {
             "source": "tohan",
@@ -200,8 +202,7 @@
           }
         ],
         "source": "combined",
-        "rank": 3,
-        "originalTitle": ""
+        "rank": 3
       },
       "ranking": {
         "title": "イン･ザ･メガチャーチ",
@@ -332,8 +333,9 @@
       "salesType": 0,
       "matchMeta": {
         "title": "大河の一滴 最終章",
-        "author": "五木寛之",
-        "score": 78,
+        "author": "",
+        "isbn": "",
+        "score": 172,
         "sources": [
           {
             "source": "tohan",
@@ -343,7 +345,7 @@
         ],
         "source": "combined",
         "rank": 8,
-        "originalTitle": ""
+        "originalTitle": "大河の一滴 最終章"
       },
       "ranking": {
         "title": "大河の一滴 最終章",
@@ -426,9 +428,8 @@
       "salesType": 0,
       "matchMeta": {
         "title": "棺桶まで歩こう",
-        "author": "",
-        "isbn": "",
-        "score": 170,
+        "author": "萬田緑平",
+        "score": 70,
         "sources": [
           {
             "source": "tohan",
@@ -437,7 +438,8 @@
           }
         ],
         "source": "combined",
-        "rank": 10
+        "rank": 10,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "棺桶まで歩こう",

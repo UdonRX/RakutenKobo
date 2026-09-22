@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-09-22T05:34:30.575Z",
+  "updatedAt": "2026-09-22T12:14:25.737Z",
   "candidateCount": 40,
-  "baseMatched": 12,
-  "matched": 16,
-  "addedMatches": 4,
+  "baseMatched": 10,
+  "matched": 15,
+  "addedMatches": 5,
   "unavailable": [],
   "snapshots": {
     "kinokuniya": {
@@ -84,6 +84,12 @@
           "author": "",
           "isbn": "",
           "rank": 9
+        },
+        {
+          "title": "キングダム magazine 2026",
+          "author": "",
+          "isbn": "",
+          "rank": 10
         },
         {
           "title": "FOR OVERSEAS",
@@ -401,7 +407,7 @@
       "isbn": "9784059239659",
       "salesType": 0,
       "matchMeta": {
-        "title": "地球の歩き方 スター･ウォーズ",
+        "title": "地球の歩き方 スター・ウォーズ",
         "author": "",
         "isbn": "",
         "score": 171,
@@ -413,7 +419,8 @@
           }
         ],
         "source": "combined",
-        "rank": 17
+        "rank": 17,
+        "originalTitle": "地球の歩き方 スター･ウォーズ"
       },
       "ranking": {
         "title": "地球の歩き方 スター･ウォーズ",
@@ -429,6 +436,54 @@
         ],
         "source": "combined",
         "rank": 7
+      }
+    },
+    {
+      "id": "4972000161524",
+      "title": "キングダム magazine 2026",
+      "author": "原泰久",
+      "publisher": "集英社",
+      "price": 1881,
+      "url": "https://books.rakuten.co.jp/rk/47fb09e2be1731b4a06b3f70f3466419/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2094/2000021122094.jpg?_ex=600x600",
+      "caption": "キングダム連載20周年を記念して、読むたびにアツくなる！　語りたくなる!!　キングダムを楽しみ尽くす一冊!!　読切『金剛』掲載。『キングダム』の原点、主人公・信が誕生した幻の読切を再掲。原泰久3大インタビュー。・20周年スペシャル単独インタビュー　・原泰久×松原利光（YJ連載『ガス灯野良犬探偵団』作画）×笠原真樹（ビッグコミックスピリッツ連載『夢なし先生の進路指導』） 師弟鼎談　・ちばてつや×原泰久特別対談。　大特集『キングダム』二十年の軌跡。様々な角度から連載20年を振り返る大特集。その他、映画、アニメ、ゲーム、キングダムの20年が凝縮された企画盛り沢山の240ページ。　※電子版には3大アプリゲーム特典コードはつきません。\n",
+      "salesDate": "2026年08月19日",
+      "series": "キングダム magazine 2026",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904002006",
+      "isbn": "4972000161524",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "キングダム magazine 2026",
+        "author": "",
+        "isbn": "",
+        "score": 170,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 19,
+        "originalTitle": "キングダム magazine 2026"
+      },
+      "ranking": {
+        "title": "キングダム magazine 2026",
+        "author": "",
+        "isbn": "",
+        "score": 170,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 8
       }
     },
     {
@@ -476,7 +531,7 @@
           }
         ],
         "source": "combined",
-        "rank": 8
+        "rank": 9
       }
     },
     {
@@ -523,7 +578,7 @@
           }
         ],
         "source": "combined",
-        "rank": 9
+        "rank": 10
       }
     },
     {
@@ -570,7 +625,7 @@
           }
         ],
         "source": "combined",
-        "rank": 10
+        "rank": 11
       }
     },
     {
@@ -613,53 +668,6 @@
             "source": "tohan",
             "label": "トーハン",
             "rank": 1
-          }
-        ],
-        "source": "combined",
-        "rank": 11,
-        "originalTitle": ""
-      }
-    },
-    {
-      "id": "4320000865495",
-      "title": "ファイア・ドーム 上",
-      "author": "辻村深月",
-      "publisher": "小学館",
-      "price": 1881,
-      "url": "https://books.rakuten.co.jp/rk/22c26517c9353107819b56539afa6896/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1853/2000020771853.jpg?_ex=600x600",
-      "caption": "人はなぜ大きな事件に魅了されてしまうのか。\n噂は、軽薄な娯楽だ。\n25年前、平穏だったはずの地方都市は、百貨店受付嬢誘拐殺人事件の発生、その報道により揺り動かされ、「噂」という大量の炎が、加害者のみならず被害者にも降り注ぎ、燃えさかった。ようやく静けさを取り戻したかに見える町に燻り続ける因縁が、いま新たな事件を呼び起こすーー。\n「もう言われてるよ！　どうせ、親が殺したんだろうって！」ーー本文より\n",
-      "salesDate": "2026年06月05日",
-      "series": "ファイア・ドーム",
-      "reviewAverage": 4.56,
-      "reviewCount": 411,
-      "genreId": "101901/101902",
-      "isbn": "4320000865495",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ファイア・ドーム 上",
-        "author": "辻村深月",
-        "score": 102,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 2
-          }
-        ],
-        "source": "combined",
-        "rank": 5,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "ファイア・ドーム 上",
-        "author": "辻村深月",
-        "score": 102,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 2
           }
         ],
         "source": "combined",
@@ -715,53 +723,6 @@
       }
     },
     {
-      "id": "4310000858457",
-      "title": "多類婚姻譚",
-      "author": "凪良ゆう",
-      "publisher": "講談社",
-      "price": 2090,
-      "url": "https://books.rakuten.co.jp/rk/35543b7edf2e30ee99d978d6e6e59bdd/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9189/2000020649189.jpg?_ex=600x600",
-      "caption": "一緒に生きる。わかりあえないあなたと。\n一番近くにいる他人ーこいびとー。どうして結婚はこんなに難しくなってしまったのだろう。\n『流浪の月』『汝、星のごとく』で二度の本屋大賞を受賞した著者が描く、今そこにある愛のかたち。\nセクシュアリティ/ジェンダー、金銭感覚、世代間格差、成育環境……\nあらゆる価値観の対立の中で現代を生きるわたしたちの祈りと叫び。\n【凪良ゆう　コメント】\n「文芸書としては『星を編む』から２年半、ようやく新刊をお届けできます。\n今作は結婚について。\n婚姻譚と銘打ちながらも、婚姻への道のりがはてしなく遠い!!　これは果たして婚姻譚と言えるのか、と担当さん達と首をかしげる場面もありました。\n読んでくださった方たちと”現代の結婚”について語り合ってみたいです。」\n【収録作　紹介】\n「Thank you for your understanding」\n家族の期待に応え、ついに恋人と帰省する決意を固めた華。\n「Beautiful Dreamer」\n結婚したい。ありふれた夢のはずなのに、東京ではこんなにも遠い。\n「小鳥たち」\n離婚して、実家の書店を継いだ一葉。そこに偶然、初恋の人がやって来てーー。\n「Position Talk」\n入籍を目前にした男女。性差を越え、個としてわかり合える日は来るのか。\n「C'est la vie」\n仕事も恋も、魂を分けあった二人。だが、夢のような時間にはいつか終わりが来る。\n",
-      "salesDate": "2026年05月26日",
-      "series": "多類婚姻譚",
-      "reviewAverage": 4.23,
-      "reviewCount": 555,
-      "genreId": "101901",
-      "isbn": "4310000858457",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "多類婚姻譚",
-        "author": "凪良ゆう",
-        "score": 90,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 5
-          }
-        ],
-        "source": "combined",
-        "rank": 11,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "多類婚姻譚",
-        "author": "凪良ゆう",
-        "score": 90,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 5
-          }
-        ],
-        "source": "combined",
-        "rank": 14,
-        "originalTitle": ""
-      }
-    },
-    {
       "id": "7225000866451",
       "title": "悩みの本──あなたが本気で生きている証",
       "author": "高橋佳子",
@@ -804,7 +765,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15,
+        "rank": 14,
         "originalTitle": ""
       }
     },
@@ -851,7 +812,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16,
+        "rank": 15,
         "originalTitle": ""
       }
     }
@@ -862,13 +823,10 @@
       "4660629612104",
       "4331000700320",
       "4320000867368",
-      "4320000865495",
-      "4320000865494",
-      "4310000858457"
+      "4320000865494"
     ],
     "mystery": [
       "4820000903843",
-      "4320000865495",
       "4320000865494"
     ],
     "sf": [],
@@ -906,15 +864,17 @@
     "essay": [
       "4320000867368"
     ],
-    "comic": []
+    "comic": [
+      "4972000161524"
+    ]
   },
   "genreStatus": {
     "fiction": {
-      "matched": 7,
+      "matched": 5,
       "complete": true
     },
     "mystery": {
-      "matched": 3,
+      "matched": 2,
       "complete": true
     },
     "sf": {
@@ -970,7 +930,7 @@
       "complete": true
     },
     "comic": {
-      "matched": 0,
+      "matched": 1,
       "complete": true
     }
   }

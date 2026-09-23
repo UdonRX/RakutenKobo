@@ -4,7 +4,7 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "year",
-  "updatedAt": "2026-09-23T12:25:01.275Z",
+  "updatedAt": "2026-09-23T17:39:32.872Z",
   "candidateCount": 13,
   "baseMatched": 7,
   "matched": 9,
@@ -284,8 +284,9 @@
       "salesType": 0,
       "matchMeta": {
         "title": "暁星",
-        "author": "湊かなえ",
-        "score": 82,
+        "author": "",
+        "isbn": "",
+        "score": 173,
         "sources": [
           {
             "source": "tohan",
@@ -295,7 +296,7 @@
         ],
         "source": "combined",
         "rank": 7,
-        "originalTitle": ""
+        "originalTitle": "暁星"
       },
       "ranking": {
         "title": "暁星",
@@ -425,9 +426,8 @@
       "salesType": 0,
       "matchMeta": {
         "title": "棺桶まで歩こう",
-        "author": "",
-        "isbn": "",
-        "score": 170,
+        "author": "萬田緑平",
+        "score": 70,
         "sources": [
           {
             "source": "tohan",
@@ -437,7 +437,7 @@
         ],
         "source": "combined",
         "rank": 10,
-        "originalTitle": "棺桶まで歩こう"
+        "originalTitle": ""
       },
       "ranking": {
         "title": "棺桶まで歩こう",
@@ -484,7 +484,8 @@
           }
         ],
         "source": "combined",
-        "rank": 12
+        "rank": 12,
+        "originalTitle": "FOR OVERSEAS"
       },
       "ranking": {
         "title": "FOR OVERSEAS",

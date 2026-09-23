@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "year",
-  "updatedAt": "2026-09-23T05:23:33.423Z",
+  "updatedAt": "2026-09-23T12:25:01.275Z",
   "candidateCount": 13,
-  "baseMatched": 8,
-  "matched": 8,
-  "addedMatches": 0,
+  "baseMatched": 7,
+  "matched": 9,
+  "addedMatches": 2,
   "unavailable": [],
   "snapshots": {
     "tohan": {
@@ -67,6 +67,12 @@
           "author": "",
           "isbn": "",
           "rank": 10
+        },
+        {
+          "title": "FOR OVERSEAS",
+          "author": "",
+          "isbn": "",
+          "rank": 12
         }
       ]
     }
@@ -419,8 +425,9 @@
       "salesType": 0,
       "matchMeta": {
         "title": "棺桶まで歩こう",
-        "author": "萬田緑平",
-        "score": 70,
+        "author": "",
+        "isbn": "",
+        "score": 170,
         "sources": [
           {
             "source": "tohan",
@@ -430,7 +437,7 @@
         ],
         "source": "combined",
         "rank": 10,
-        "originalTitle": ""
+        "originalTitle": "棺桶まで歩こう"
       },
       "ranking": {
         "title": "棺桶まで歩こう",
@@ -446,6 +453,53 @@
         ],
         "source": "combined",
         "rank": 8
+      }
+    },
+    {
+      "id": "9781505942323",
+      "title": "How to Start a Crown Agents for Overseas Governments and Administrations Business (Beginners Guide)",
+      "author": "Leclair Jaquelyn",
+      "publisher": "SamEnrico",
+      "price": 2515,
+      "url": "https://books.rakuten.co.jp/rk/da3f192a66453cb193c43421103700ab/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5952/2000020915952.jpg?_ex=600x600",
+      "caption": "This publication, published by SamEnrico, covers How to Start a Crown Agents for Overseas Governments and Administrations Business (Beginners Guide)\n",
+      "salesDate": "2015年12月20日",
+      "series": "",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101970003007",
+      "isbn": "9781505942323",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "FOR OVERSEAS",
+        "author": "",
+        "isbn": "",
+        "score": 168,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 12
+          }
+        ],
+        "source": "combined",
+        "rank": 12
+      },
+      "ranking": {
+        "title": "FOR OVERSEAS",
+        "author": "",
+        "isbn": "",
+        "score": 168,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 12
+          }
+        ],
+        "source": "combined",
+        "rank": 9
       }
     }
   ],

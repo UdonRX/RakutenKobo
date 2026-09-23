@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-09-22T21:50:54.109Z",
+  "updatedAt": "2026-09-23T05:23:29.849Z",
   "candidateCount": 40,
-  "baseMatched": 11,
+  "baseMatched": 12,
   "matched": 16,
-  "addedMatches": 5,
+  "addedMatches": 4,
   "unavailable": [],
   "snapshots": {
     "kinokuniya": {
@@ -17,15 +17,9 @@
       "attribution": "紀伊國屋書店調べ",
       "sourceUrl": "https://www.kinokuniya.co.jp/disp/CKnRankingPageCList.jsp?dispNo=107002001001&vTp=m",
       "periodLabel": "マンスリー",
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "live": true,
       "items": [
-        {
-          "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
-          "author": "",
-          "isbn": "",
-          "rank": 2
-        },
         {
           "title": "パンどろぼうとさすらいラーメン",
           "author": "",
@@ -42,19 +36,19 @@
           "title": "イン・ザ・メガチャーチ",
           "author": "",
           "isbn": "",
-          "rank": 8
-        },
-        {
-          "title": "会社四季報業界地図 〈２０２７年版〉",
-          "author": "",
-          "isbn": "",
-          "rank": 23
+          "rank": 9
         },
         {
           "title": "ギャルにひかれて寺マルシェ",
           "author": "",
           "isbn": "",
-          "rank": 26
+          "rank": 23
+        },
+        {
+          "title": "会社四季報業界地図 〈２０２７年版〉",
+          "author": "",
+          "isbn": "",
+          "rank": 27
         }
       ]
     },
@@ -64,9 +58,15 @@
       "attribution": "トーハン調べ",
       "sourceUrl": "https://www.tohan.jp/bestsellers/2026_08_monthly/",
       "periodLabel": "月間",
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "live": true,
       "items": [
+        {
+          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+          "author": "",
+          "isbn": "",
+          "rank": 2
+        },
         {
           "title": "ハヤブサ消防団 森へつづく道",
           "author": "",
@@ -74,16 +74,16 @@
           "rank": 4
         },
         {
+          "title": "つかめ!理科ダマン 12 最強ロボット決戦!編",
+          "author": "",
+          "isbn": "",
+          "rank": 5
+        },
+        {
           "title": "地球の歩き方 スター･ウォーズ",
           "author": "",
           "isbn": "",
           "rank": 9
-        },
-        {
-          "title": "キングダム magazine 2026",
-          "author": "",
-          "isbn": "",
-          "rank": 10
         },
         {
           "title": "FOR OVERSEAS",
@@ -112,29 +112,29 @@
       "isbn": "4380000407898",
       "salesType": 0,
       "matchMeta": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 幻冬舎新書",
-        "author": "",
-        "score": 102,
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "author": "林真理子",
+        "score": 94,
         "sources": [
           {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 2
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
           }
         ],
         "source": "combined",
-        "rank": 6,
-        "originalTitle": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書"
+        "rank": 9,
+        "originalTitle": ""
       },
       "ranking": {
-        "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
         "author": "",
         "isbn": "",
         "score": 178,
         "sources": [
           {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
+            "source": "tohan",
+            "label": "トーハン",
             "rank": 2
           }
         ],
@@ -218,7 +218,8 @@
           }
         ],
         "source": "combined",
-        "rank": 8
+        "rank": 8,
+        "originalTitle": "ハヤブサ消防団 森へつづく道"
       },
       "ranking": {
         "title": "ハヤブサ消防団 森へつづく道",
@@ -284,6 +285,53 @@
       }
     },
     {
+      "id": "6681311679960",
+      "title": "つかめ！理科ダマン 12 最強ロボット決戦！編",
+      "author": "シン・テフン/ナ・スンフン/呉華順",
+      "publisher": "マガジンハウス",
+      "price": 1320,
+      "url": "https://books.rakuten.co.jp/rk/d5144a342674388cb89766522b26d5f0/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6738/2000021036738.jpg?_ex=600x600",
+      "caption": "■注目のシリーズ第12巻は、ロボット世界大会の決戦編！■\n恐竜ロボット大会の勝者を決める決戦がいよいよ始まる！\nシンとグゥのチームが戦うライバルチームに、弱点はあるのか!?\n優勝を目指すシンたちといっしょに\nプログラミングやA I、恐竜にまつわる19の疑問が楽しく学べます。\n★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★\n＼＼日韓でシリーズ累計400万部／／\n理科のテストで100点取れちゃう！！\n「笑いながら理科の知識が学べるところが大好きです」\n「子供が夢中になって読んでいます」\n「身近な“どうして？”をわかりやすく説明されていて、子供も大人も楽しめます」\n……とクチコミで話題沸騰!!\n★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★\nギャグ満載の超オモシロまんがで\n小学校の理科の知識がスイスイ身につく！！\nそして、科学と読書がどんどん好きになる！！\n《こんな疑問に答えます》\n◎アルゴリズムってなに？\n◎フローチャートってなに？\n◎コンピュータはどうやってプログラミング言語を理解している？\n◎座標ってなに？\n◎ロボットは人間より賢くなれる？\n◎コンピュータに虫がいる？　\n◎翼竜は恐竜か？　……etc.\n",
+      "salesDate": "2026年07月16日",
+      "series": "つかめ！理科ダマン",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101908004/101906006/101906001009",
+      "isbn": "6681311679960",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "つかめ!理科ダマン 12 最強ロボット決戦!編",
+        "author": "",
+        "isbn": "",
+        "score": 175,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
+        "rank": 10
+      },
+      "ranking": {
+        "title": "つかめ!理科ダマン 12 最強ロボット決戦!編",
+        "author": "",
+        "isbn": "",
+        "score": 175,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
+        "rank": 5
+      }
+    },
+    {
       "id": "4660629612104",
       "title": "イン・ザ・メガチャーチ",
       "author": "朝井リョウ",
@@ -302,7 +350,7 @@
       "matchMeta": {
         "title": "イン・ザ・メガチャーチ",
         "author": "朝井リョウ",
-        "score": 160,
+        "score": 156,
         "sources": [
           {
             "source": "tohan",
@@ -312,7 +360,7 @@
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 8
+            "rank": 9
           }
         ],
         "source": "combined",
@@ -323,16 +371,16 @@
         "title": "イン・ザ・メガチャーチ",
         "author": "",
         "isbn": "",
-        "score": 172,
+        "score": 171,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 8
+            "rank": 9
           }
         ],
         "source": "combined",
-        "rank": 5
+        "rank": 6
       }
     },
     {
@@ -379,54 +427,6 @@
           }
         ],
         "source": "combined",
-        "rank": 6
-      }
-    },
-    {
-      "id": "4972000161524",
-      "title": "キングダム magazine 2026",
-      "author": "原泰久",
-      "publisher": "集英社",
-      "price": 1881,
-      "url": "https://books.rakuten.co.jp/rk/47fb09e2be1731b4a06b3f70f3466419/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2094/2000021122094.jpg?_ex=600x600",
-      "caption": "キングダム連載20周年を記念して、読むたびにアツくなる！　語りたくなる!!　キングダムを楽しみ尽くす一冊!!　読切『金剛』掲載。『キングダム』の原点、主人公・信が誕生した幻の読切を再掲。原泰久3大インタビュー。・20周年スペシャル単独インタビュー　・原泰久×松原利光（YJ連載『ガス灯野良犬探偵団』作画）×笠原真樹（ビッグコミックスピリッツ連載『夢なし先生の進路指導』） 師弟鼎談　・ちばてつや×原泰久特別対談。　大特集『キングダム』二十年の軌跡。様々な角度から連載20年を振り返る大特集。その他、映画、アニメ、ゲーム、キングダムの20年が凝縮された企画盛り沢山の240ページ。　※電子版には3大アプリゲーム特典コードはつきません。\n",
-      "salesDate": "2026年08月19日",
-      "series": "キングダム magazine 2026",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904002006",
-      "isbn": "4972000161524",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "キングダム magazine 2026",
-        "author": "",
-        "isbn": "",
-        "score": 170,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 19,
-        "originalTitle": "キングダム magazine 2026"
-      },
-      "ranking": {
-        "title": "キングダム magazine 2026",
-        "author": "",
-        "isbn": "",
-        "score": 170,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
         "rank": 7
       }
     },
@@ -459,7 +459,8 @@
           }
         ],
         "source": "combined",
-        "rank": 23
+        "rank": 23,
+        "originalTitle": "FOR OVERSEAS"
       },
       "ranking": {
         "title": "FOR OVERSEAS",
@@ -475,54 +476,6 @@
         ],
         "source": "combined",
         "rank": 8
-      }
-    },
-    {
-      "id": "4659733601001",
-      "title": "「会社四季報」業界地図 2027年版",
-      "author": "0",
-      "publisher": "東洋経済新報社",
-      "price": 2200,
-      "url": "https://books.rakuten.co.jp/rk/fff54685789b3ecbabd20a047911a783/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4237/2000021504237.jpg?_ex=600x600",
-      "caption": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字列のハイライトや検索、辞書の参照、引用などの機能が使用できません。\n累計部数300万部突破！ 日本経済と企業の「今」が、この1冊でよくわかる！\n「業界地図」の最新決定版（大手書店調べ）\n【経済ニュースの背景がスッキリわかる】\n解説をアップデート： 生成AIの広がりを踏まえ、サプライチェーンや業界再編史の解説を増強。企業の決算、提携関係、最新トレンドまでこれ1冊で掴めます。\n最新トレンドを網羅： 「生成AI」、「フィジカルAI」ほか、アニメ・マンガで大注目の「IP（キャラクタービジネス）」から、AIを支える「データセンター」、激変する「宇宙開発」まで、知っておきたい業界の最新動向を徹底解説。\n【産業ガイドブックの決定版！こんな方におすすめ】\n経済ニュース： 「今、どうしてこれが話題になっているのか」の背景を知りたい方に\n株式投資： 有望な銘柄発掘や、深い銘柄分析のツールとして\n就活・転職： 徹底的な業界研究や、自分に合う志望企業探しに\nビジネス： 商談前の客先動向把握や、役立つ雑談ネタ探しに\n【2027年版の注目トピック＆新要素】\n大注目の業界を新規追加！ 「ロボット（フィジカルAI）」、中東情勢を受けた「エネルギー地政学」、製造業を変革する「ファクトリーオートメーション」など、最先端の業界を続々追加。さらに金利上昇で注目の「住宅ローン」や、「電炉」「後発薬」など、ニッチ・深掘り業界も新たに掲載。\n日本各地、世界各国の有力企業も網羅！ 日本の47都道府県の有力企業、アメリカ・中国・欧州・インドの動向はもちろん、2027年版では、財閥の支配構造がわかる「韓国」、半導体ブームに沸く「台湾」を新規掲載。\n株式投資家も大注目！充実のデータ量 約60業界の「10年間の天気予想」に加え、業界平均の利益率や時価総額、平均年収を収録。主要企業1000社超の時価総額、株価騰落率、配当利回りなど、投資に直結するデータも満載！\n",
-      "salesDate": "2026年08月22日",
-      "series": "",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101905017004/101905001002",
-      "isbn": "4659733601001",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "会社四季報業界地図 〈2027年版〉",
-        "author": "",
-        "isbn": "",
-        "score": 157,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 23
-          }
-        ],
-        "source": "combined",
-        "rank": 33,
-        "originalTitle": "会社四季報業界地図 〈２０２７年版〉"
-      },
-      "ranking": {
-        "title": "会社四季報業界地図 〈２０２７年版〉",
-        "author": "",
-        "isbn": "",
-        "score": 157,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 23
-          }
-        ],
-        "source": "combined",
-        "rank": 9
       }
     },
     {
@@ -544,28 +497,75 @@
       "matchMeta": {
         "title": "ギャルにひかれて寺マルシェ",
         "author": "",
-        "score": 6,
+        "score": 18,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 26
+            "rank": 23
           }
         ],
         "source": "combined",
-        "rank": 34,
+        "rank": 31,
         "originalTitle": ""
       },
       "ranking": {
         "title": "ギャルにひかれて寺マルシェ",
         "author": "",
         "isbn": "",
-        "score": 154,
+        "score": 157,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 26
+            "rank": 23
+          }
+        ],
+        "source": "combined",
+        "rank": 9
+      }
+    },
+    {
+      "id": "4659733601001",
+      "title": "「会社四季報」業界地図 2027年版",
+      "author": "0",
+      "publisher": "東洋経済新報社",
+      "price": 2200,
+      "url": "https://books.rakuten.co.jp/rk/fff54685789b3ecbabd20a047911a783/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4237/2000021504237.jpg?_ex=600x600",
+      "caption": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字列のハイライトや検索、辞書の参照、引用などの機能が使用できません。\n累計部数300万部突破！ 日本経済と企業の「今」が、この1冊でよくわかる！\n「業界地図」の最新決定版（大手書店調べ）\n【経済ニュースの背景がスッキリわかる】\n解説をアップデート： 生成AIの広がりを踏まえ、サプライチェーンや業界再編史の解説を増強。企業の決算、提携関係、最新トレンドまでこれ1冊で掴めます。\n最新トレンドを網羅： 「生成AI」、「フィジカルAI」ほか、アニメ・マンガで大注目の「IP（キャラクタービジネス）」から、AIを支える「データセンター」、激変する「宇宙開発」まで、知っておきたい業界の最新動向を徹底解説。\n【産業ガイドブックの決定版！こんな方におすすめ】\n経済ニュース： 「今、どうしてこれが話題になっているのか」の背景を知りたい方に\n株式投資： 有望な銘柄発掘や、深い銘柄分析のツールとして\n就活・転職： 徹底的な業界研究や、自分に合う志望企業探しに\nビジネス： 商談前の客先動向把握や、役立つ雑談ネタ探しに\n【2027年版の注目トピック＆新要素】\n大注目の業界を新規追加！ 「ロボット（フィジカルAI）」、中東情勢を受けた「エネルギー地政学」、製造業を変革する「ファクトリーオートメーション」など、最先端の業界を続々追加。さらに金利上昇で注目の「住宅ローン」や、「電炉」「後発薬」など、ニッチ・深掘り業界も新たに掲載。\n日本各地、世界各国の有力企業も網羅！ 日本の47都道府県の有力企業、アメリカ・中国・欧州・インドの動向はもちろん、2027年版では、財閥の支配構造がわかる「韓国」、半導体ブームに沸く「台湾」を新規掲載。\n株式投資家も大注目！充実のデータ量 約60業界の「10年間の天気予想」に加え、業界平均の利益率や時価総額、平均年収を収録。主要企業1000社超の時価総額、株価騰落率、配当利回りなど、投資に直結するデータも満載！\n",
+      "salesDate": "2026年08月22日",
+      "series": "",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101905017004/101905001002",
+      "isbn": "4659733601001",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "会社四季報業界地図 〈2027年版〉",
+        "author": "",
+        "score": 5,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 27
+          }
+        ],
+        "source": "combined",
+        "rank": 35,
+        "originalTitle": "会社四季報業界地図 〈２０２７年版〉"
+      },
+      "ranking": {
+        "title": "会社四季報業界地図 〈２０２７年版〉",
+        "author": "",
+        "isbn": "",
+        "score": 153,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 27
           }
         ],
         "source": "combined",
@@ -788,7 +788,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16,
+        "rank": 17,
         "originalTitle": ""
       },
       "ranking": {
@@ -884,7 +884,9 @@
     "nonfiction": [
       "4390000014247"
     ],
-    "science": [],
+    "science": [
+      "6681311679960"
+    ],
     "it": [],
     "life": [
       "4380000407898"
@@ -894,16 +896,16 @@
     "travel": [
       "9784059239659"
     ],
-    "language": [],
+    "language": [
+      "6681311679960"
+    ],
     "children": [
       "4335396900320"
     ],
     "essay": [
       "4320000867368"
     ],
-    "comic": [
-      "4972000161524"
-    ]
+    "comic": []
   },
   "genreStatus": {
     "fiction": {
@@ -931,7 +933,7 @@
       "complete": true
     },
     "science": {
-      "matched": 0,
+      "matched": 1,
       "complete": true
     },
     "it": {
@@ -955,7 +957,7 @@
       "complete": true
     },
     "language": {
-      "matched": 0,
+      "matched": 1,
       "complete": true
     },
     "children": {
@@ -967,7 +969,7 @@
       "complete": true
     },
     "comic": {
-      "matched": 1,
+      "matched": 0,
       "complete": true
     }
   }

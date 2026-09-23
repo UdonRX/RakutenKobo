@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-09-22T21:50:36.970Z",
-  "candidateCount": 82,
-  "baseMatched": 20,
-  "matched": 33,
-  "addedMatches": 13,
+  "updatedAt": "2026-09-23T05:23:13.665Z",
+  "candidateCount": 78,
+  "baseMatched": 22,
+  "matched": 29,
+  "addedMatches": 7,
   "unavailable": [
     "rakuten"
   ],
@@ -125,7 +125,7 @@
       "attribution": "紀伊國屋書店調べ",
       "sourceUrl": "https://www.kinokuniya.co.jp/disp/CKnRankingPageCList.jsp?dispNo=107002001001&vTp=w",
       "periodLabel": "ウィークリー",
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "live": true,
       "items": [
         {
@@ -135,46 +135,40 @@
           "rank": 1
         },
         {
-          "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
-          "author": "",
-          "isbn": "",
-          "rank": 5
-        },
-        {
-          "title": "収益性・節税・資産保全・相続対策まで完全網羅！ 不動産投資の成功法則",
+          "title": "春までのセンセイ",
           "author": "",
           "isbn": "",
           "rank": 6
         },
         {
-          "title": "春までのセンセイ",
+          "title": "イン・ザ・メガチャーチ",
           "author": "",
           "isbn": "",
-          "rank": 7
-        },
-        {
-          "title": "「思い込み」が未来を決める 東大・早稲田大・筑波大生、上場企業経営者らを指導して",
-          "author": "",
-          "isbn": "",
-          "rank": 10
+          "rank": 9
         },
         {
           "title": "在米５０年の弁護士が当事者として見た「内乱」のアメリカ - 自由と民主主義はいかに崩壊したか",
           "author": "",
           "isbn": "",
-          "rank": 11
-        },
-        {
-          "title": "イン・ザ・メガチャーチ",
-          "author": "",
-          "isbn": "",
-          "rank": 12
+          "rank": 10
         },
         {
           "title": "なぜ日本が世界に必要なのか 文春新書",
           "author": "",
           "isbn": "",
+          "rank": 12
+        },
+        {
+          "title": "おもうがたび",
+          "author": "",
+          "isbn": "",
           "rank": 25
+        },
+        {
+          "title": "アラームが鳴らないうちに",
+          "author": "",
+          "isbn": "",
+          "rank": 26
         },
         {
           "title": "帳の向こう",
@@ -190,7 +184,7 @@
       "attribution": "トーハン調べ",
       "sourceUrl": "https://www.tohan.jp/bestsellers/2026_0908_weekly/",
       "periodLabel": "週間",
-      "updatedAt": "2026-09-22",
+      "updatedAt": "2026-09-23",
       "live": true,
       "items": [
         {
@@ -198,6 +192,12 @@
           "author": "",
           "isbn": "",
           "rank": 2
+        },
+        {
+          "title": "FINEBOYS＋plus OYASUMI vol.2",
+          "author": "",
+          "isbn": "",
+          "rank": 3
         },
         {
           "title": "ギャルにひかれて寺マルシェ",
@@ -224,112 +224,9 @@
           "rank": 12
         }
       ]
-    },
-    "rakuten": {
-      "id": "rakuten",
-      "label": "楽天ブックス",
-      "attribution": "楽天ブックス",
-      "sourceUrl": "https://books.rakuten.co.jp/",
-      "periodLabel": "売れ筋順",
-      "updatedAt": "2026-09-22",
-      "live": true,
-      "items": [
-        {
-          "title": "証券マンひりひり日記",
-          "author": "日野山 大",
-          "rank": 11
-        },
-        {
-          "title": "パンどろぼうとさすらいラーメン",
-          "author": "柴田　ケイコ",
-          "rank": 12
-        },
-        {
-          "title": "転生したらスライムだった件（33）",
-          "author": "川上 泰樹/伏瀬/みっつばー",
-          "rank": 13
-        },
-        {
-          "title": "ダンダダン 26",
-          "author": "龍 幸伸",
-          "rank": 16
-        },
-        {
-          "title": "これ、かなりマジです。時間・お金・心を整える365の言葉",
-          "author": "いれぶん",
-          "rank": 23
-        }
-      ]
     }
   },
   "items": [
-    {
-      "id": "4335396900320",
-      "title": "パンどろぼうとさすらいラーメン",
-      "author": "柴田　ケイコ",
-      "publisher": "KADOKAWA",
-      "price": 1650,
-      "url": "https://books.rakuten.co.jp/rk/ced96eda0a863fdeae0a78fb0bf25801/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2405/2000021682405.jpg?_ex=600x600",
-      "caption": "とっても寒い“ぶるぶるじま”にやってきたパンどろぼう。できたてのパンをふるまおうとパン作りをはじめますが、窯の扉をあけようとした、その瞬間・・・＼＼＼ボフーーーン／／／パンが作れずこまっているところへさっそうと現れたのは、いったい、誰ーーー？ほかほかのパンとあつあつのラーメンが織りなす、熱血ハートフルストーリー開幕！「パンどろぼう」シリーズ待望の第8弾！\n",
-      "salesDate": "2026年09月16日",
-      "series": "パンどろぼう",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101916",
-      "isbn": "4335396900320",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "パンどろぼうとさすらいラーメン",
-        "author": "柴田　ケイコ",
-        "score": 218,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 12
-          },
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 1
-          },
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 15
-          }
-        ],
-        "source": "combined",
-        "rank": 1,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "パンどろぼうとさすらいラーメン",
-        "author": "柴田 ケイコ",
-        "isbn": "",
-        "score": 512,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 15
-          },
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 1
-          },
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 12
-          }
-        ],
-        "source": "combined",
-        "rank": 1
-      }
-    },
     {
       "id": "4380000407898",
       "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
@@ -363,7 +260,7 @@
           }
         ],
         "source": "combined",
-        "rank": 3,
+        "rank": 2,
         "originalTitle": ""
       },
       "ranking": {
@@ -381,6 +278,63 @@
             "source": "tohan",
             "label": "トーハン",
             "rank": 2
+          }
+        ],
+        "source": "combined",
+        "rank": 1
+      }
+    },
+    {
+      "id": "4335396900320",
+      "title": "パンどろぼうとさすらいラーメン",
+      "author": "柴田　ケイコ",
+      "publisher": "KADOKAWA",
+      "price": 1650,
+      "url": "https://books.rakuten.co.jp/rk/ced96eda0a863fdeae0a78fb0bf25801/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2405/2000021682405.jpg?_ex=600x600",
+      "caption": "とっても寒い“ぶるぶるじま”にやってきたパンどろぼう。できたてのパンをふるまおうとパン作りをはじめますが、窯の扉をあけようとした、その瞬間・・・＼＼＼ボフーーーン／／／パンが作れずこまっているところへさっそうと現れたのは、いったい、誰ーーー？ほかほかのパンとあつあつのラーメンが織りなす、熱血ハートフルストーリー開幕！「パンどろぼう」シリーズ待望の第8弾！\n",
+      "salesDate": "2026年09月16日",
+      "series": "パンどろぼう",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101916",
+      "isbn": "4335396900320",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "パンどろぼうとさすらいラーメン",
+        "author": "柴田 ケイコ",
+        "score": 156,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 1
+          },
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 15
+          }
+        ],
+        "source": "combined",
+        "rank": 3,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "パンどろぼうとさすらいラーメン",
+        "author": "柴田 ケイコ",
+        "isbn": "",
+        "score": 344,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 15
+          },
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 1
           }
         ],
         "source": "combined",
@@ -415,7 +369,7 @@
           }
         ],
         "source": "combined",
-        "rank": 8,
+        "rank": 5,
         "originalTitle": ""
       },
       "ranking": {
@@ -432,6 +386,53 @@
         ],
         "source": "combined",
         "rank": 3
+      }
+    },
+    {
+      "id": "4340008067051",
+      "title": "プレゼント（新潮文庫）",
+      "author": "伊坂幸太郎/江國香織/恩田陸/梨木香歩/町田そのこ/宮部みゆき/米澤穂信",
+      "publisher": "新潮社",
+      "price": 825,
+      "url": "https://books.rakuten.co.jp/rk/e8a60fd88eb63075a76e50e52cf98712/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8962/2000020598962.jpg?_ex=600x600",
+      "caption": "これはこれまで小説を愛してきてくれた人へ、そしてこれから小説の世界に一歩踏み出す人へ贈るプレゼント。何気なく読んだ物語が、ふと目にした一行が、意外な言葉ひとつが、人生を大きく変えるかもしれない。現代を代表する７人の作家が「夏」をテーマに書き下ろした、驚きと切なさ、怖さと美しさ、何よりとびきりの面白さを詰め込んだ奇跡の一冊。さぁ、あなたの人生に小説という選択肢を。\n",
+      "salesDate": "2026年06月24日",
+      "series": "",
+      "reviewAverage": 3.9,
+      "reviewCount": 346,
+      "genreId": "101901",
+      "isbn": "4340008067051",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "プレゼント",
+        "author": "伊坂幸太郎",
+        "score": 98,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 3
+          }
+        ],
+        "source": "combined",
+        "rank": 10,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "プレゼント",
+        "author": "伊坂幸太郎",
+        "isbn": "",
+        "score": 177,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 3
+          }
+        ],
+        "source": "combined",
+        "rank": 4
       }
     },
     {
@@ -462,7 +463,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15,
+        "rank": 11,
         "originalTitle": "幽冥の岸 十二国記 (新潮文庫 お 37-66)"
       },
       "ranking": {
@@ -478,55 +479,55 @@
           }
         ],
         "source": "combined",
-        "rank": 4
+        "rank": 5
       }
     },
     {
-      "id": "4340008067051",
-      "title": "プレゼント（新潮文庫）",
-      "author": "伊坂幸太郎/江國香織/恩田陸/梨木香歩/町田そのこ/宮部みゆき/米澤穂信",
-      "publisher": "新潮社",
-      "price": 825,
-      "url": "https://books.rakuten.co.jp/rk/e8a60fd88eb63075a76e50e52cf98712/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8962/2000020598962.jpg?_ex=600x600",
-      "caption": "これはこれまで小説を愛してきてくれた人へ、そしてこれから小説の世界に一歩踏み出す人へ贈るプレゼント。何気なく読んだ物語が、ふと目にした一行が、意外な言葉ひとつが、人生を大きく変えるかもしれない。現代を代表する７人の作家が「夏」をテーマに書き下ろした、驚きと切なさ、怖さと美しさ、何よりとびきりの面白さを詰め込んだ奇跡の一冊。さぁ、あなたの人生に小説という選択肢を。\n",
-      "salesDate": "2026年06月24日",
-      "series": "",
-      "reviewAverage": 3.9,
-      "reviewCount": 346,
-      "genreId": "101901",
-      "isbn": "4340008067051",
+      "id": "5430000025522",
+      "title": "FINEBOYS+plus OYASUMI vol.2",
+      "author": "",
+      "publisher": "日之出出版",
+      "price": 1800,
+      "url": "https://books.rakuten.co.jp/rk/abeaa61291983bc8acfdac3d70d6436b/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7298/2000021617298.jpg?_ex=600x600",
+      "caption": "カラーページを含むコンテンツの場合、カラー表示が可能な端末またはアプリでの閲覧を推奨します。\nこのデジタル雑誌には目次に記載されているコンテンツが含まれています。\nそれ以外のコンテンツは、本誌のコンテンツであっても含まれていませんのでご注意ださい。\nまた著作権等の問題でマスク処理されているページもありますので、ご了承ください。\nいい夢を、きみと、もっと。\n表紙・裏表紙：吉田仁人（M!LK）　明日につながる「おやすみ」 いい夢を、きみと、もっと。／RUI （STARGLOW）がナイトウェアでダンス／西山智樹（TAGRIGHT）とりらっくすたいむ／越山敬達、長野蒼大、 難波碧空、森本陸斗　明日の僕のためにすること／ほか\n目次\n吉田仁人がふにゃ〜っとあくびした。しあわせな彼の寝息。\n明日につながる「おやすみ」　いい夢を、きみと、もっと。\n西山智樹がスヤスヤ眠るその前に りらっくすたいむ\n夜更かししてでも観たい映画。\n越山敬達、長野蒼大、難波碧空、森本陸斗　明日の僕のためにすること\nRUIと素敵な夢をみるナイトウエアでダンス\n厚紙ページ\n裏表紙\n",
+      "salesDate": "2026年08月31日",
+      "series": "FINEBOYS+plus OYASUMI",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101950090",
+      "isbn": "5430000025522",
       "salesType": 0,
       "matchMeta": {
-        "title": "プレゼント",
-        "author": "伊坂幸太郎",
+        "title": "FINEBOYS+plus OYASUMI vol.2",
+        "author": "",
         "isbn": "",
         "score": 177,
         "sources": [
           {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
+            "source": "tohan",
+            "label": "トーハン",
             "rank": 3
           }
         ],
         "source": "combined",
-        "rank": 10,
-        "originalTitle": "プレゼント"
+        "rank": 11,
+        "originalTitle": "FINEBOYS＋plus OYASUMI vol.2"
       },
       "ranking": {
-        "title": "プレゼント",
-        "author": "伊坂幸太郎",
+        "title": "FINEBOYS＋plus OYASUMI vol.2",
+        "author": "",
         "isbn": "",
         "score": 177,
         "sources": [
           {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
+            "source": "tohan",
+            "label": "トーハン",
             "rank": 3
           }
         ],
         "source": "combined",
-        "rank": 5
+        "rank": 6
       }
     },
     {
@@ -558,7 +559,8 @@
           }
         ],
         "source": "combined",
-        "rank": 14
+        "rank": 14,
+        "originalTitle": "ギャルにひかれて寺マルシェ"
       },
       "ranking": {
         "title": "ギャルにひかれて寺マルシェ",
@@ -573,7 +575,7 @@
           }
         ],
         "source": "combined",
-        "rank": 6
+        "rank": 7
       }
     },
     {
@@ -604,7 +606,7 @@
           }
         ],
         "source": "combined",
-        "rank": 19,
+        "rank": 15,
         "originalTitle": ""
       },
       "ranking": {
@@ -620,77 +622,29 @@
           }
         ],
         "source": "combined",
-        "rank": 7
-      }
-    },
-    {
-      "id": "4390000014247",
-      "title": "戦争犯罪と闘う　国際刑事裁判所は屈しない",
-      "author": "赤根智子",
-      "publisher": "文藝春秋",
-      "price": 1000,
-      "url": "https://books.rakuten.co.jp/rk/ed83c0d4161a37adb64937f2dc843815/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5761/2000017995761.jpg?_ex=600x600",
-      "caption": "二つの戦争、そして戦後国際秩序の行方は\nロシアによるウクライナ侵攻とイスラエルによるパレスチナへの非人道的な攻撃。目まぐるしく国際情勢が変化するなか、この二つの戦争に向き合い、プーチンとネタニヤフに逮捕状を出した国際刑事裁判所（ICC）。日本人として初めてそのトップに就任した著者は、ほどなくしてプーチンから逆指名手配を受けることにもなった。さらにはトランプ大統領の大統領令による経済制裁の脅威にさらされるなど、世界規模の戦争犯罪に向き合ってきた国際刑事裁判所はいま、存続の危機にある。\n第二次世界大戦後にホロコーストに向き合ったニュルンベルク裁判、日本の戦争責任を裁いた東京裁判。二つの軍事法廷裁判にルーツをもち、国際平和秩序を守ろうと奮闘してきた国際刑事裁判所とはいかなる機関か。二つの戦争という異例の事態にどう向き合ったのか。「世界の警察」アメリカが過去のものになりつつある戦後国際秩序の行方とはーー。\n「世界で起きていることが日本では起きないとは限らない」。「力による支配」がむき出しになりつつある今こそ「法の支配」による安全保障が必要だ。\n「ウクライナ戦争の勃発で完全に覚醒した」と語る赤根さんが、その奮闘を通じて未来への責任を語りかける。\n※本書電子書籍版は刊行後の国際情勢の変化を鑑み、２０２５年１０月に記述の一部を更新しました。\n",
-      "salesDate": "2025年06月20日",
-      "series": "",
-      "reviewAverage": 4.1,
-      "reviewCount": 32,
-      "genreId": "101907009/101907005003/101914",
-      "isbn": "4390000014247",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
-        "author": "",
-        "isbn": "",
-        "score": 175,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 5
-          }
-        ],
-        "source": "combined",
-        "rank": 17
-      },
-      "ranking": {
-        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
-        "author": "",
-        "isbn": "",
-        "score": 175,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 5
-          }
-        ],
-        "source": "combined",
         "rank": 8
       }
     },
     {
-      "id": "4694295410890",
-      "title": "収益性・節税・資産保全・相続対策まで完全網羅！　不動産投資の成功法則",
-      "author": "藤原正明",
-      "publisher": "クロスメディア・パブリッシング（インプレス）",
-      "price": 1430,
-      "url": "https://books.rakuten.co.jp/rk/ed560fdae3893db29e00f6deca37020b/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7564/2000017967564.jpg?_ex=600x600",
-      "caption": "税負担や社会保障費の増加、トランプ米大統領の関税政策の影響による世界的な経済不安、さらには地政学的リスクの高まりなど、先行きの不透明感は一段と強まっている中、富裕層はもとより一般会社員に至るまで、幅広い方たちが「資産運用」に関心を寄せています。\nそうした中で、注目を集めているのが、収益不動産を保有して賃料収入を得たり、売却益を期待する「不動産投資」です。\n不動産投資には成功するための「成功法則」があります。それを学ぶことで、不動産投資の初心者でも失敗せずに確実に目標に到達することができます。不動産投資で重要なのは、成功法則をもとに正確なシミュレーションを行い、利益が出るかをシビアに見定めることです。大きな金額を投じるわけですから、安易な誘い文句を頼りに始めるのは、あまりにも危険なことです。\nそこで本書では、まずは押さえておきたい不動産投資の基礎知識を整理したうえで、不動産投資を成功させるための「5つの成功法則」を紹介します。\n投資するエリアはどこが狙い目か、正しい指標とは何か、失敗しない物件をどのように選定するか、資金はどう調達するのがベストか、購入後の賃貸経営で利益の最大化実現のためにはどうすればよいか、など初心者でも分かるように解説します。\n本書はもともと、2021年に賃料収入によるインカムゲインを主としたキャッシュフロー（収益）を得られる物件の購入から運営などに関する成功法則を解説するために刊行しましたが、このように状況が変わってきましたので、今必要な視点を盛り込んだ「改訂版」として会社員や土地オーナー、富裕層など、幅広い層を対象とした内容にまとめました。\n",
-      "salesDate": "2025年06月13日",
-      "series": "",
-      "reviewAverage": 4,
+      "id": "6681316776900",
+      "title": "春までのセンセイ",
+      "author": "早見和真",
+      "publisher": "双葉社",
+      "price": 1980,
+      "url": "https://books.rakuten.co.jp/rk/bc5b179ed95d38cca46c4b528e6eda25/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4600/2000021754600.jpg?_ex=600x600",
+      "caption": "先生は私に命がけの言葉をくれたーー\nひとりの教師と32人の生徒が向き合う“最後”の１年\n『ザ・ロイヤルファミリー』『アルプス席の母』を経て辿り着いた著者の新たなる代表作、誕生！\n東京都杉並区にある私立稜花女学院中学校。新年度に発表された3年E組の担任は、加賀美秀彦という中年の国語教師だった。最初は冴えないと思っていたけれど、先生の言葉はなぜだか心に響いてくる。それなのに夏休み直前、先生は病気で学校を辞めるというウワサが流れて・・・・・・。\nこれはクラス全員がバトンをつなぐ、一生に残る一年間の物語。\n「今日、この時点の、僕の代表作です」\nーー早見和真\n",
+      "salesDate": "2026年09月16日",
+      "series": "春までのセンセイ",
+      "reviewAverage": 3,
       "reviewCount": 1,
-      "genreId": "101905005",
-      "isbn": "4694295410890",
+      "genreId": "101901",
+      "isbn": "6681316776900",
       "salesType": 0,
       "matchMeta": {
-        "title": "収益性・節税・資産保全・相続対策まで完全網羅! 不動産投資の成功法則",
+        "title": "春までのセンセイ",
         "author": "",
-        "isbn": "",
-        "score": 174,
+        "score": 86,
         "sources": [
           {
             "source": "kinokuniya",
@@ -699,11 +653,11 @@
           }
         ],
         "source": "combined",
-        "rank": 20,
-        "originalTitle": "収益性・節税・資産保全・相続対策まで完全網羅！ 不動産投資の成功法則"
+        "rank": 21,
+        "originalTitle": ""
       },
       "ranking": {
-        "title": "収益性・節税・資産保全・相続対策まで完全網羅！ 不動産投資の成功法則",
+        "title": "春までのセンセイ",
         "author": "",
         "isbn": "",
         "score": 174,
@@ -746,7 +700,7 @@
           }
         ],
         "source": "combined",
-        "rank": 29,
+        "rank": 23,
         "originalTitle": ""
       },
       "ranking": {
@@ -763,53 +717,6 @@
         ],
         "source": "combined",
         "rank": 10
-      }
-    },
-    {
-      "id": "6681316776900",
-      "title": "春までのセンセイ",
-      "author": "早見和真",
-      "publisher": "双葉社",
-      "price": 1980,
-      "url": "https://books.rakuten.co.jp/rk/bc5b179ed95d38cca46c4b528e6eda25/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4600/2000021754600.jpg?_ex=600x600",
-      "caption": "先生は私に命がけの言葉をくれたーー\nひとりの教師と32人の生徒が向き合う“最後”の１年\n『ザ・ロイヤルファミリー』『アルプス席の母』を経て辿り着いた著者の新たなる代表作、誕生！\n東京都杉並区にある私立稜花女学院中学校。新年度に発表された3年E組の担任は、加賀美秀彦という中年の国語教師だった。最初は冴えないと思っていたけれど、先生の言葉はなぜだか心に響いてくる。それなのに夏休み直前、先生は病気で学校を辞めるというウワサが流れて・・・・・・。\nこれはクラス全員がバトンをつなぐ、一生に残る一年間の物語。\n「今日、この時点の、僕の代表作です」\nーー早見和真\n",
-      "salesDate": "2026年09月16日",
-      "series": "春までのセンセイ",
-      "reviewAverage": 3,
-      "reviewCount": 1,
-      "genreId": "101901",
-      "isbn": "6681316776900",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "春までのセンセイ",
-        "author": "",
-        "score": 82,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 7
-          }
-        ],
-        "source": "combined",
-        "rank": 32,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "春までのセンセイ",
-        "author": "",
-        "isbn": "",
-        "score": 173,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 7
-          }
-        ],
-        "source": "combined",
-        "rank": 11
       }
     },
     {
@@ -841,7 +748,8 @@
           }
         ],
         "source": "combined",
-        "rank": 25
+        "rank": 25,
+        "originalTitle": "会社四季報 業界地図 2027年版"
       },
       "ranking": {
         "title": "会社四季報 業界地図 2027年版",
@@ -856,7 +764,101 @@
           }
         ],
         "source": "combined",
+        "rank": 11
+      }
+    },
+    {
+      "id": "4620000615075",
+      "title": "ブラッディダイスの殺人　上",
+      "author": "Ｍ Ｗ クレイヴン",
+      "publisher": "早川書房",
+      "price": 1210,
+      "url": "https://books.rakuten.co.jp/rk/91ea3c43631d345d8bb867055aba005f/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9728/2000021429728.jpg?_ex=600x600",
+      "caption": "ポーとティリーが再びタッグを組む！　シリーズ累計30万部の最新作！\n英国全土で連続狙撃事件が発生。犠牲者は17人にのぼるも犯人の手がかりはなく、ポーとティリーは国家犯罪対策庁に呼び戻されるが\n",
+      "salesDate": "2026年08月19日",
+      "series": "ワシントン・ポー",
+      "reviewAverage": 4.53,
+      "reviewCount": 16,
+      "genreId": "101902",
+      "isbn": "4620000615075",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ブラッディダイスの殺人 上",
+        "author": "M・W・クレイヴン",
+        "score": 74,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 31,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "ブラッディダイスの殺人 上",
+        "author": "M・W・クレイヴン",
+        "isbn": "",
+        "score": 171,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
         "rank": 12
+      }
+    },
+    {
+      "id": "4660629612104",
+      "title": "イン・ザ・メガチャーチ",
+      "author": "朝井リョウ",
+      "publisher": "日経BP",
+      "price": 2200,
+      "url": "https://books.rakuten.co.jp/rk/d3fd58a999d73fbaaf1de480b1d262ba/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3254/2000018463254.jpg?_ex=600x600",
+      "caption": "☆2026年本屋大賞受賞☆\n【第9回未来屋小説大賞】\n【第2回あの本、読みました？大賞】\n沈みゆく列島で、“界隈”は沸騰するーー。\nあるアイドルグループの運営に参画することになった、家族と離れて暮らす男。内向的で繊細な気質ゆえ積み重なる心労を癒やしたい大学生。仲間と楽しく舞台俳優を応援していたが、とある報道で状況が一変する女。ファンダム経済を仕掛ける側、のめり込む側、かつてのめり込んでいた側ーー世代も立場も異なる３つの視点から、人の心を動かす“物語”の功罪を炙り出す。\n「神がいないこの国で人を操るには、“物語”を使うのが一番いいんですよ」\n",
+      "salesDate": "2025年09月03日",
+      "series": "",
+      "reviewAverage": 4.28,
+      "reviewCount": 3471,
+      "genreId": "101901",
+      "isbn": "4660629612104",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "イン・ザ・メガチャーチ",
+        "author": "",
+        "score": 74,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 33,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "イン・ザ・メガチャーチ",
+        "author": "",
+        "isbn": "",
+        "score": 171,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 13
       }
     },
     {
@@ -887,7 +889,7 @@
           }
         ],
         "source": "combined",
-        "rank": 43,
+        "rank": 34,
         "originalTitle": ""
       },
       "ranking": {
@@ -903,74 +905,27 @@
           }
         ],
         "source": "combined",
-        "rank": 13
-      }
-    },
-    {
-      "id": "4620000615075",
-      "title": "ブラッディダイスの殺人　上",
-      "author": "Ｍ Ｗ クレイヴン",
-      "publisher": "早川書房",
-      "price": 1210,
-      "url": "https://books.rakuten.co.jp/rk/91ea3c43631d345d8bb867055aba005f/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9728/2000021429728.jpg?_ex=600x600",
-      "caption": "ポーとティリーが再びタッグを組む！　シリーズ累計30万部の最新作！\n英国全土で連続狙撃事件が発生。犠牲者は17人にのぼるも犯人の手がかりはなく、ポーとティリーは国家犯罪対策庁に呼び戻されるが\n",
-      "salesDate": "2026年08月19日",
-      "series": "ワシントン・ポー",
-      "reviewAverage": 4.53,
-      "reviewCount": 16,
-      "genreId": "101902",
-      "isbn": "4620000615075",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ブラッディダイスの殺人 上",
-        "author": "M・W・クレイヴン",
-        "isbn": "",
-        "score": 171,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 31
-      },
-      "ranking": {
-        "title": "ブラッディダイスの殺人 上",
-        "author": "M・W・クレイヴン",
-        "isbn": "",
-        "score": 171,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
         "rank": 14
       }
     },
     {
-      "id": "7275000923851",
-      "title": "「思い込み」が未来を決める　東大・早稲田大・筑波大生、上場企業経営者らを指導してきたコンサルタントが教える「限界」を超える思考習慣",
-      "author": "高木謙治",
-      "publisher": "アチーブメント出版",
-      "price": 1760,
-      "url": "https://books.rakuten.co.jp/rk/0d1bd558b99b3c59952d3d0d9db1dd21/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2952/2000021692952.jpg?_ex=600x600",
-      "caption": "ビジネスやスポーツの世界で、圧倒的な成果を出し続ける人たち。彼らには、ある共通点があります。それは、「できない」と思っていないこと。\n一方で、多くの人は違います。本当は可能性を持っているにもかかわらず、できるはずがないという“思い込み”によって、自ら限界をつくってしまっているのです。\n夢をかなえるために。なりたい自分になるために。「能力」を高めることも大事です。しかしそれ以上に重要なのは、自分を縛っているネガティブな“思い込み”、すなわち、思考の「枠」を外すことです。\n“思い込み”が変われば、“行動”が変わる。\n“行動”が変われば、“習慣”が変わる。\n“習慣”が変われば、“結果”が変わる。\n必要なのは、自分の可能性を制限している“思い込み”に気づき、未来を切り拓けるというポジティブな“思い込み”へと書き換えること。\n本書では、私たちの可能性を縛る「ネガティブな思い込み」を手放す技術、感情に振り回されないためのセルフカウンセリング、「しんどさ」を成長のエンジンに変える方法、役職に頼らないリーダーシップの発揮の仕方、そして「心理的安全性」と「規律」を両立させる組織づくりまで、“思い込み”を起点に人生と組織を好転させる技術を体系的に解説します。\nビジネスやスポーツの現場で自ら圧倒的な成果を出し、コンサルタントとして延べ2万4000名を超える受講生を指導してきた著者だからこそ語れる、再現性のある実践知が詰まっています。\nあなたの未来を変えるのは、才能でも環境でもありません。**\"思い込み\"**です。\n",
-      "salesDate": "2026年09月08日",
-      "series": "「思い込み」が未来を決める　東大・早稲田大・筑波大生、上場企業経営者らを指導してきたコンサルタントが教える「限界」を超える思考習慣",
+      "id": "4910000910142",
+      "title": "在米50年の弁護士が当事者として見た「内乱」のアメリカ　自由と民主主義はいかに崩壊したか",
+      "author": "秋山武夫",
+      "publisher": "朝日新聞出版",
+      "price": 1650,
+      "url": "https://books.rakuten.co.jp/rk/cae1591004eb3d11924c3640a531fe50/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6886/2000021516886.jpg?_ex=600x600",
+      "caption": "なぜ大統領の意向一つで戦争ができるのか。なぜ「独裁」が許されてしまうのか。内戦前夜ともいわれる国内の分断の深さはーーアメリカ社会はここまで病んでいた！権力機構・法制度・市民生活の荒廃を、半世紀以上アメリカを内側から見てきた日本人弁護士がぜんぶ書く。\n",
+      "salesDate": "2026年08月20日",
+      "series": "在米50年の弁護士が当事者として見た「内乱」のアメリカ　自由と民主主義はいかに崩壊したか",
       "reviewAverage": 0,
       "reviewCount": 0,
-      "genreId": "101905017004/101905016001",
-      "isbn": "7275000923851",
+      "genreId": "101907010/101907009/101907007/101914",
+      "isbn": "4910000910142",
       "salesType": 0,
       "matchMeta": {
-        "title": "「思い込み」が未来を決める 東大・早稲田大・筑波大生、上場企業経営者らを指導して",
+        "title": "在米50年の弁護士が当事者として見た「内乱」のアメリカ - 自由と民主主義はいかに崩壊したか",
         "author": "",
         "score": 70,
         "sources": [
@@ -981,11 +936,11 @@
           }
         ],
         "source": "combined",
-        "rank": 47,
-        "originalTitle": "「思い込み」が未来を決める　東大・早稲田大・筑波大生、上場企業経営者らを指導して"
+        "rank": 37,
+        "originalTitle": "在米５０年の弁護士が当事者として見た「内乱」のアメリカ - 自由と民主主義はいかに崩壊したか"
       },
       "ranking": {
-        "title": "「思い込み」が未来を決める 東大・早稲田大・筑波大生、上場企業経営者らを指導して",
+        "title": "在米５０年の弁護士が当事者として見た「内乱」のアメリカ - 自由と民主主義はいかに崩壊したか",
         "author": "",
         "isbn": "",
         "score": 170,
@@ -1122,7 +1077,7 @@
           }
         ],
         "source": "combined",
-        "rank": 51,
+        "rank": 40,
         "originalTitle": "黒執事(36) (Gファンタジーコミックス)"
       },
       "ranking": {
@@ -1142,117 +1097,23 @@
       }
     },
     {
-      "id": "8890090035808",
-      "title": "証券マンひりひり日記",
-      "author": "日野山大",
-      "publisher": "三五館シンシャ",
-      "price": 1210,
-      "url": "https://books.rakuten.co.jp/rk/635e5615fc08366f871135567cda1581/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4141/2000021714141.jpg?_ex=600x600",
-      "caption": "おかしいのは、会社か？　それとも私か？　\n「相場操縦」を金融庁へ公益通報したことにより\n会社を去ることになった、日興証券元社員の告白\n【本文より】\n金融庁の公益通報窓口にメールをして２週間ほど、今度はＳＭＦＧ（三井住友フィナンシャルグループ）の人事部から呼び出しを受けた。\n本社に出向き応接室へ入ると、人事担当者は言葉を選ぶように口を開いた。\n「少し確認したいことがあり、お越しいただきました。これからお尋ねすることについてお答えいただく義務はありませんし、お答えになりたくなければ、そのままでも結構です」\n一語一句を慎重に選び、踏み込みすぎないよう過剰な配慮が感じられる口ぶりだった。\n「日野山さんは金融庁に公益通報をされましたでしょうか？」　\n私は後ろめたいことをしたつもりはない。自分が正しいと信じたことに従って行動しただけだ。しかし、一瞬だけどう答えようか迷ってしまったのはどうしてだろう。\n「はい。行ないました」　\nそう答えると、担当者は表情を変えずにうなずいた。\n",
-      "salesDate": "2026年09月16日",
+      "id": "4390000016508",
+      "title": "なぜ日本が世界に必要なのか",
+      "author": "エマニュエル・トッド",
+      "publisher": "文藝春秋",
+      "price": 1100,
+      "url": "https://books.rakuten.co.jp/rk/d3380ef6b5d6352fb44783bb5e41c377/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5838/2000021745838.jpg?_ex=600x600",
+      "caption": "現代最高の知識人による唯一無二の日本論\n「自然人」らしさ、ユーモア、独自の言語が日本の強みだ！ーー現代最高の知識人による、最も今日的で画期的な「日本文明論＝地政学」。\n　世界の行く末は、第二次大戦の敗戦国である日独の選択にかかっている。対米追従を深めるドイツに対し、日本はどうするのか？\n　歴史的に「悪い選択」をしてきたドイツとは反対に、日本は「良い選択」をするだろうと歴史家として予測している。日本人の方がドイツ人よりもユーモアセンスがあるからだ。ユーモアセンスは、ドイツでは完全に破壊されてしまった。厳格なルター主義が、「人類の自然な能力」を根絶してしまったのだ。多くの戦争の原因となった「過剰な生真面目さ」がドイツを支配しているが、日本はそうではない。\n　日本には「この世の美しさと喜び」に幸せを感じる「自然人らしさ」が生き続けている。この点は、ドイツーー偉大な哲学者、物理学者、数学者を誇るが、硬直的で人間味に欠け、あまりに暗いドイツーーと大きく異なる。\n「自然人」はドイツでは死滅した。それゆえにこの国はナチズムを生みだしたが、日本には「自然な人間」「人間らしい人間」が今も存在している。だからこそ、日本人は戦争を拒否できると私は信じる。\n　もし日本がワシントンの圧力に抵抗するなら、その抵抗自体が世界の平和にもたらす利益は測り知れない。米国に対する日本の独立は「平和」に貢献するだろうーー「日本の対米自立」を世界が求めている。\n",
+      "salesDate": "2026年09月17日",
       "series": "",
       "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101907007/101914",
-      "isbn": "8890090035808",
+      "reviewCount": 1,
+      "genreId": "101907009/101907005090",
+      "isbn": "4390000016508",
       "salesType": 0,
       "matchMeta": {
-        "title": "証券マンひりひり日記",
-        "author": "日野山 大",
-        "score": 66,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 11
-          }
-        ],
-        "source": "combined",
-        "rank": 49,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "証券マンひりひり日記",
-        "author": "日野山 大",
-        "isbn": "",
-        "score": 169,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 11
-          }
-        ],
-        "source": "combined",
-        "rank": 19
-      }
-    },
-    {
-      "id": "4910000910142",
-      "title": "在米50年の弁護士が当事者として見た「内乱」のアメリカ　自由と民主主義はいかに崩壊したか",
-      "author": "秋山武夫",
-      "publisher": "朝日新聞出版",
-      "price": 1650,
-      "url": "https://books.rakuten.co.jp/rk/cae1591004eb3d11924c3640a531fe50/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6886/2000021516886.jpg?_ex=600x600",
-      "caption": "なぜ大統領の意向一つで戦争ができるのか。なぜ「独裁」が許されてしまうのか。内戦前夜ともいわれる国内の分断の深さはーーアメリカ社会はここまで病んでいた！権力機構・法制度・市民生活の荒廃を、半世紀以上アメリカを内側から見てきた日本人弁護士がぜんぶ書く。\n",
-      "salesDate": "2026年08月20日",
-      "series": "在米50年の弁護士が当事者として見た「内乱」のアメリカ　自由と民主主義はいかに崩壊したか",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101907010/101907009/101907007/101914",
-      "isbn": "4910000910142",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "在米50年の弁護士が当事者として見た「内乱」のアメリカ - 自由と民主主義はいかに崩壊したか",
-        "author": "",
-        "score": 66,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 11
-          }
-        ],
-        "source": "combined",
-        "rank": 50,
-        "originalTitle": "在米５０年の弁護士が当事者として見た「内乱」のアメリカ - 自由と民主主義はいかに崩壊したか"
-      },
-      "ranking": {
-        "title": "在米５０年の弁護士が当事者として見た「内乱」のアメリカ - 自由と民主主義はいかに崩壊したか",
-        "author": "",
-        "isbn": "",
-        "score": 169,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 11
-          }
-        ],
-        "source": "combined",
-        "rank": 20
-      }
-    },
-    {
-      "id": "4660629612104",
-      "title": "イン・ザ・メガチャーチ",
-      "author": "朝井リョウ",
-      "publisher": "日経BP",
-      "price": 2200,
-      "url": "https://books.rakuten.co.jp/rk/d3fd58a999d73fbaaf1de480b1d262ba/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3254/2000018463254.jpg?_ex=600x600",
-      "caption": "☆2026年本屋大賞受賞☆\n【第9回未来屋小説大賞】\n【第2回あの本、読みました？大賞】\n沈みゆく列島で、“界隈”は沸騰するーー。\nあるアイドルグループの運営に参画することになった、家族と離れて暮らす男。内向的で繊細な気質ゆえ積み重なる心労を癒やしたい大学生。仲間と楽しく舞台俳優を応援していたが、とある報道で状況が一変する女。ファンダム経済を仕掛ける側、のめり込む側、かつてのめり込んでいた側ーー世代も立場も異なる３つの視点から、人の心を動かす“物語”の功罪を炙り出す。\n「神がいないこの国で人を操るには、“物語”を使うのが一番いいんですよ」\n",
-      "salesDate": "2025年09月03日",
-      "series": "",
-      "reviewAverage": 4.28,
-      "reviewCount": 3471,
-      "genreId": "101901",
-      "isbn": "4660629612104",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "イン・ザ・メガチャーチ",
+        "title": "なぜ日本が世界に必要なのか 文春新書",
         "author": "",
         "score": 62,
         "sources": [
@@ -1263,11 +1124,11 @@
           }
         ],
         "source": "combined",
-        "rank": 52,
+        "rank": 41,
         "originalTitle": ""
       },
       "ranking": {
-        "title": "イン・ザ・メガチャーチ",
+        "title": "なぜ日本が世界に必要なのか 文春新書",
         "author": "",
         "isbn": "",
         "score": 168,
@@ -1279,7 +1140,7 @@
           }
         ],
         "source": "combined",
-        "rank": 21
+        "rank": 19
       }
     },
     {
@@ -1311,7 +1172,8 @@
           }
         ],
         "source": "combined",
-        "rank": 44
+        "rank": 43,
+        "originalTitle": "FOR OVERSEAS"
       },
       "ranking": {
         "title": "FOR OVERSEAS",
@@ -1326,54 +1188,7 @@
           }
         ],
         "source": "combined",
-        "rank": 22
-      }
-    },
-    {
-      "id": "6305300000037",
-      "title": "転生したらスライムだった件 11 時空の少女（下）",
-      "author": "伏瀬",
-      "publisher": "マイクロマガジン社",
-      "price": 792,
-      "url": "https://books.rakuten.co.jp/rk/7b33efca0f453b36a0bcdd96f6461c32/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6815/2000016026815.jpg?_ex=600x600",
-      "caption": "本来の力を取り戻したルイとラプラスの熾烈な戦いが続く最奥の間。玄室に残されたルミナスは死んだはずのマリア・ロッゾと戦うさなか、これまで大切に保管していた聖櫃が何者かによって盗まれたことに気づく。時を同じくして、大聖堂ではグランベル・ロッゾとヒナタが激闘を繰り広げ、誰が黒幕なのか理解したリムルとレオンは機が動くまでは剣を交える演技をすることに。そこに、激高したルミナスが現れ、事態が一気に動き始めるーー。\n大人気モンスター転生ファンタジーが児童書化！最強のスライム伝説が今始まるーー\n",
-      "salesDate": "2024年09月17日",
-      "series": "転生したらスライムだった件（かなで文庫）",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101916",
-      "isbn": "6305300000037",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "転生したらスライムだった件(33)",
-        "author": "川上 泰樹/伏瀬/みっつばー",
-        "score": 58,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 13
-          }
-        ],
-        "source": "combined",
-        "rank": 54,
-        "originalTitle": "転生したらスライムだった件（33）"
-      },
-      "ranking": {
-        "title": "転生したらスライムだった件（33）",
-        "author": "川上 泰樹/伏瀬/みっつばー",
-        "isbn": "",
-        "score": 167,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 13
-          }
-        ],
-        "source": "combined",
-        "rank": 23
+        "rank": 20
       }
     },
     {
@@ -1404,7 +1219,7 @@
           }
         ],
         "source": "combined",
-        "rank": 59,
+        "rank": 46,
         "originalTitle": ""
       },
       "ranking": {
@@ -1420,101 +1235,7 @@
           }
         ],
         "source": "combined",
-        "rank": 24
-      }
-    },
-    {
-      "id": "4972000126759",
-      "title": "ダンダダン ダイズカン",
-      "author": "龍幸伸",
-      "publisher": "集英社",
-      "price": 1045,
-      "url": "https://books.rakuten.co.jp/rk/d69b2e615876306f946ee67715d095b8/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7235/2000018127235.jpg?_ex=600x600",
-      "caption": "『ダンダダン』に息づく人間・妖怪・宇宙人・その他もろもろを徹底解析！　各キャラクターの各種解説企画に加え、プロフィール、能力パラメータなどの大量の未公開設定も収録！　さらに、主要キャラクターそれぞれの知られざる日常に迫る、計22ページの描き下ろし漫画!!　オカルトもバトルも青春も丸ごと大図解する、初の公式「ダイズカン」!!\n",
-      "salesDate": "2025年08月04日",
-      "series": "ダンダダン ダイズカン",
-      "reviewAverage": 4,
-      "reviewCount": 1,
-      "genreId": "101904001007",
-      "isbn": "4972000126759",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ダンダダン 26",
-        "author": "龍 幸伸",
-        "score": 46,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 16
-          }
-        ],
-        "source": "combined",
-        "rank": 61,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "ダンダダン 26",
-        "author": "龍 幸伸",
-        "isbn": "",
-        "score": 164,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 16
-          }
-        ],
-        "source": "combined",
-        "rank": 25
-      }
-    },
-    {
-      "id": "8926000912320",
-      "title": "これ、かなりマジです。時間・お金・心を整える３６５の言葉",
-      "author": "いれぶん",
-      "publisher": "徳間書店",
-      "price": 2530,
-      "url": "https://books.rakuten.co.jp/rk/ff2c6bc0e9073b89bd44ede6e0139c83/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1320/2000021551320.jpg?_ex=600x600",
-      "caption": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。\nSNSで大反響！\n18万人の背中を押してきたカリスマ塾長が贈る、人生の処方箋。\n読むたびに、迷いが消え、覚悟が決まるーー。\nお金・時間・心を整える、365の日めくり言葉集。\n「お金の不安をなくしたい」\n「自分の時間が欲しい」\n「人間関係に疲れた」\n上手くいかない原因はなんでしょう？\n努力不足？　意志の弱さ？\n違います。そんなものは必要ありません。\n大切なのは、ちょっとした“整え方”だけです。\n・・・・・・・\nハードワークに明け暮れ、30代で年収8桁に到達するも、体を壊して救急搬送。\nさらに株式投資で700万円の損失を被り、家族からの信用も失ってしまう。\n42歳で人生のどん底に陥った著者。\nしかしそこから身の回りのことをひとつひとつ整えていった結果、人生は激変した。\nわずか2年で収入も自由時間も心のゆとりも爆増。\nどん底からの大逆転を遂げる。\nそんな著者だからこそ伝えられる、最高の人生のつくり方。\n・・・・・・・\n当たり前に見えることほど、人生を変える。\n凡事徹底こそが最強のライフハック。\n＼＼本書の言葉はSNS投稿OK！／／\n「あなたを動かした言葉を、大切な誰かに届けませんか。その言葉がみんなを元気にします」（いれぶん）\n※本書の内容はどなたでも撮影、SNS投稿していただいてOKです。\n※販売目的の複製・複写は、紙、デジタルを問わず、その一切を禁止します。\n■目次\nChapter 1　決める\nChapter 2　やめる\nChapter 3　捨てる\nChapter 4　頼る\nChapter 5　挑む\nChapter 6　整える\nChapter 7　忘れる\nChapter 8　言葉にする\nChapter 9　信じる\nChapter 10　思いやる\nChapter 11　学ぶ\nChapter 12　楽しむ\nChapter 13　積み重ねる\nChapter 14　40代\n",
-      "salesDate": "2026年08月26日",
-      "series": "これ、かなりマジです。時間・お金・心を整える３６５の言葉",
-      "reviewAverage": 4,
-      "reviewCount": 1,
-      "genreId": "101905016001",
-      "isbn": "8926000912320",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "これ、かなりマジです。時間・お金・心を整える365の言葉",
-        "author": "いれぶん",
-        "score": 18,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 23
-          }
-        ],
-        "source": "combined",
-        "rank": 82,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "これ、かなりマジです。時間・お金・心を整える365の言葉",
-        "author": "いれぶん",
-        "isbn": "",
-        "score": 157,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 23
-          }
-        ],
-        "source": "combined",
-        "rank": 26
+        "rank": 21
       }
     },
     {
@@ -1536,8 +1257,7 @@
       "matchMeta": {
         "title": "現代語古事記 第二版: (改訂版)",
         "author": "竹田恒泰",
-        "isbn": "",
-        "score": 155,
+        "score": 10,
         "sources": [
           {
             "source": "amazon",
@@ -1546,7 +1266,8 @@
           }
         ],
         "source": "combined",
-        "rank": 72
+        "rank": 67,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "現代語古事記 第二版: (改訂版)",
@@ -1561,30 +1282,29 @@
           }
         ],
         "source": "combined",
-        "rank": 27
+        "rank": 22
       }
     },
     {
-      "id": "4390000016508",
-      "title": "なぜ日本が世界に必要なのか",
-      "author": "エマニュエル・トッド",
-      "publisher": "文藝春秋",
-      "price": 1100,
-      "url": "https://books.rakuten.co.jp/rk/d3380ef6b5d6352fb44783bb5e41c377/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5838/2000021745838.jpg?_ex=600x600",
-      "caption": "現代最高の知識人による唯一無二の日本論\n「自然人」らしさ、ユーモア、独自の言語が日本の強みだ！ーー現代最高の知識人による、最も今日的で画期的な「日本文明論＝地政学」。\n　世界の行く末は、第二次大戦の敗戦国である日独の選択にかかっている。対米追従を深めるドイツに対し、日本はどうするのか？\n　歴史的に「悪い選択」をしてきたドイツとは反対に、日本は「良い選択」をするだろうと歴史家として予測している。日本人の方がドイツ人よりもユーモアセンスがあるからだ。ユーモアセンスは、ドイツでは完全に破壊されてしまった。厳格なルター主義が、「人類の自然な能力」を根絶してしまったのだ。多くの戦争の原因となった「過剰な生真面目さ」がドイツを支配しているが、日本はそうではない。\n　日本には「この世の美しさと喜び」に幸せを感じる「自然人らしさ」が生き続けている。この点は、ドイツーー偉大な哲学者、物理学者、数学者を誇るが、硬直的で人間味に欠け、あまりに暗いドイツーーと大きく異なる。\n「自然人」はドイツでは死滅した。それゆえにこの国はナチズムを生みだしたが、日本には「自然な人間」「人間らしい人間」が今も存在している。だからこそ、日本人は戦争を拒否できると私は信じる。\n　もし日本がワシントンの圧力に抵抗するなら、その抵抗自体が世界の平和にもたらす利益は測り知れない。米国に対する日本の独立は「平和」に貢献するだろうーー「日本の対米自立」を世界が求めている。\n",
-      "salesDate": "2026年09月17日",
+      "id": "4380000407982",
+      "title": "おもうがたび",
+      "author": "宇賀なつみ",
+      "publisher": "幻冬舎",
+      "price": 1881,
+      "url": "https://books.rakuten.co.jp/rk/ddb5b2415a9c3090a57ce24f75dc0a69/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7857/2000021557857.jpg?_ex=600x600",
+      "caption": "国外27か所、国内13か所。\n世界を歩きながら、自分自身と向き合い、誰かを“おもう”日々ーー。\n地球を舞台に旅した３年間を巡る40篇。\nアナウンサー・宇賀なつみ　第２弾 旅エッセイ！\nいよいよ人生、後半戦。\n面白くなるのは、きっとこれからだ。\n30代、仕事も私生活もフリーになって、旅にすべてを捧げた。\n私はどうして、こんなにも、旅せずにいられないのだろうーー。\n旅をするには、時間とお金と体力が必要です。\n10代の学生時代には、時間と体力は有り余っていましたが、とにかくお金がありませんでした。20代で社会人になり、ある程度お金を稼げるようになると、今度は極端に時間がなくなってしまいました。その後、30代で自分なりに大きな決断をして独立し、ありがたいことにお仕事をいただけている今こそが、旅に全てを捧げる絶好のタイミングだと考えたのです。\nフリーランスとして働いているので、スケジュールは全て自分次第。3週間働いて1週間休むことを目標に毎月連休を作り出し、美容院に行くような頻度で出国ゲートをくぐってきた私は、明らかに異常です。自分でも理解しています。でも、そうせずにはいられませんでした。\nその理由は、きっとこの本を読めばわかっていただけると思います。ーー旅のはじめにより、抜粋\n",
+      "salesDate": "2026年09月16日",
       "series": "",
       "reviewAverage": 0,
-      "reviewCount": 1,
-      "genreId": "101907009/101907005090",
-      "isbn": "4390000016508",
+      "reviewCount": 0,
+      "genreId": "101901002/101915",
+      "isbn": "4380000407982",
       "salesType": 0,
       "matchMeta": {
-        "title": "なぜ日本が世界に必要なのか 文春新書",
+        "title": "おもうがたび",
         "author": "",
-        "isbn": "",
-        "score": 155,
+        "score": 10,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1593,10 +1313,11 @@
           }
         ],
         "source": "combined",
-        "rank": 73
+        "rank": 66,
+        "originalTitle": ""
       },
       "ranking": {
-        "title": "なぜ日本が世界に必要なのか 文春新書",
+        "title": "おもうがたび",
         "author": "",
         "isbn": "",
         "score": 155,
@@ -1608,7 +1329,54 @@
           }
         ],
         "source": "combined",
-        "rank": 28
+        "rank": 23
+      }
+    },
+    {
+      "id": "4704763143280",
+      "title": "アラームが鳴らないうちに",
+      "author": "川口俊和",
+      "publisher": "サンマーク出版",
+      "price": 1650,
+      "url": "https://books.rakuten.co.jp/rk/030271e9b7de3243adcead69000bc305/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2225/2000021532225.jpg?_ex=600x600",
+      "caption": "「このアラームが、\nあの日伝えられなかった言葉の\n代わりをしてくれるからーー」\n過去に戻れる喫茶店で\nコーヒーを淹れつづける主人公、数。\n不思議な力を持つ数の、\n忘れられない後悔とは？\n【シリーズの核心にせまる第７巻！】\nとある街の、とある喫茶店の\nとある座席には不思議な都市伝説があった\nその席に座ると、望んだ通りの時間に戻れるという\nただし、そこにはめんどくさい……\n非常にめんどくさいルールがあった\n一、過去に戻っても、この喫茶店を訪れたことのない者には会うことはできない\n二、過去に戻って、どんな努力をしても、現実は変わらない\n三、過去に戻れる席には先客がいる\n　　その席に座れるのは、その先客が席を立った時だけ\n四、過去に戻っても、席を立って移動することはできない\n五、過去に戻れるのは、コーヒーをカップに注いでから、\n　　そのコーヒーが冷めてしまうまでの間だけ\nこれだけのルールを聞いても、過去に戻りたいと訪れる客は後を絶たない\nそして、亡くなった者に会いに行こうとする客には、\nウエイトレスがあるものをカップに入れ、こう告げる\n「死んだ人に会いに行く人は、ついつい情に流されてしまい、制限時間があることを知っていても、\n別れを切り出すことができなくなります」\nこの物語は、そんな不思議な喫茶店で起こった、\nウエイトレスの想いと、客の後悔が交錯する心温まる四つの奇跡\n第一話「妻の写真を撮りに行く男の話」\n第二話「母親の介護に疲れた女の話」\n第三話「元気だった頃の母に会いに行く男の話」\n第四話「父にウエディングドレス姿を見せたかった娘の話」\nあの日に戻れたら、あなたは誰に会いに行きますか？\n",
+      "salesDate": "2026年09月17日",
+      "series": "コーヒーが冷めないうちに",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101901",
+      "isbn": "4704763143280",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "アラームが鳴らないうちに",
+        "author": "",
+        "score": 6,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 26
+          }
+        ],
+        "source": "combined",
+        "rank": 68,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "アラームが鳴らないうちに",
+        "author": "",
+        "isbn": "",
+        "score": 154,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 26
+          }
+        ],
+        "source": "combined",
+        "rank": 24
       }
     },
     {
@@ -1630,8 +1398,7 @@
       "matchMeta": {
         "title": "ゆるキャン△ 19",
         "author": "あfろ",
-        "isbn": "",
-        "score": 154,
+        "score": 6,
         "sources": [
           {
             "source": "amazon",
@@ -1640,7 +1407,7 @@
           }
         ],
         "source": "combined",
-        "rank": 74,
+        "rank": 69,
         "originalTitle": "ゆるキャン△ １９ (まんがタイムKRコミックス)"
       },
       "ranking": {
@@ -1656,7 +1423,7 @@
           }
         ],
         "source": "combined",
-        "rank": 29
+        "rank": 25
       }
     },
     {
@@ -1688,7 +1455,8 @@
           }
         ],
         "source": "combined",
-        "rank": 82
+        "rank": 78,
+        "originalTitle": "帳の向こう"
       },
       "ranking": {
         "title": "帳の向こう",
@@ -1703,7 +1471,7 @@
           }
         ],
         "source": "combined",
-        "rank": 30
+        "rank": 26
       }
     },
     {
@@ -1734,7 +1502,7 @@
           }
         ],
         "source": "combined",
-        "rank": 6,
+        "rank": 4,
         "originalTitle": ""
       },
       "ranking": {
@@ -1749,7 +1517,7 @@
           }
         ],
         "source": "combined",
-        "rank": 31,
+        "rank": 27,
         "originalTitle": ""
       }
     },
@@ -1781,7 +1549,7 @@
           }
         ],
         "source": "combined",
-        "rank": 20,
+        "rank": 16,
         "originalTitle": ""
       },
       "ranking": {
@@ -1796,7 +1564,7 @@
           }
         ],
         "source": "combined",
-        "rank": 32,
+        "rank": 28,
         "originalTitle": ""
       }
     },
@@ -1828,7 +1596,7 @@
           }
         ],
         "source": "combined",
-        "rank": 45,
+        "rank": 36,
         "originalTitle": ""
       },
       "ranking": {
@@ -1843,20 +1611,22 @@
           }
         ],
         "source": "combined",
-        "rank": 33,
+        "rank": 29,
         "originalTitle": ""
       }
     }
   ],
   "byGenre": {
     "fiction": [
-      "4340008067611",
       "4340008067051",
+      "4340008067611",
       "4331000700320",
       "4910000909001",
-      "4390000005636",
       "6681316776900",
+      "4390000005636",
       "4660629612104",
+      "4380000407982",
+      "4704763143280",
       "4480000838415"
     ],
     "mystery": [
@@ -1866,23 +1636,16 @@
     ],
     "sf": [],
     "business": [
-      "4694295410890",
-      "4659733601001",
-      "7275000923851",
-      "8926000912320"
+      "4659733601001"
     ],
     "humanities": [
       "4380000407898",
-      "4390000014247",
-      "8890090035808",
       "4910000910142",
-      "9784059242475",
       "4390000016508",
+      "9784059242475",
       "4390000016485"
     ],
     "nonfiction": [
-      "4390000014247",
-      "8890090035808",
       "4910000910142"
     ],
     "science": [
@@ -1902,21 +1665,21 @@
     ],
     "children": [
       "4335396900320",
-      "9784059243236",
-      "6305300000037"
+      "9784059243236"
     ],
-    "essay": [],
+    "essay": [
+      "4380000407982"
+    ],
     "comic": [
       "4310000862928",
       "7131315591790",
       "7328131415919",
-      "4972000126759",
       "7225000908848"
     ]
   },
   "genreStatus": {
     "fiction": {
-      "matched": 8,
+      "matched": 10,
       "complete": true
     },
     "mystery": {
@@ -1928,15 +1691,15 @@
       "complete": true
     },
     "business": {
-      "matched": 4,
+      "matched": 1,
       "complete": true
     },
     "humanities": {
-      "matched": 7,
+      "matched": 5,
       "complete": true
     },
     "nonfiction": {
-      "matched": 3,
+      "matched": 1,
       "complete": true
     },
     "science": {
@@ -1968,15 +1731,15 @@
       "complete": true
     },
     "children": {
-      "matched": 3,
+      "matched": 2,
       "complete": true
     },
     "essay": {
-      "matched": 0,
+      "matched": 1,
       "complete": true
     },
     "comic": {
-      "matched": 5,
+      "matched": 4,
       "complete": true
     }
   }

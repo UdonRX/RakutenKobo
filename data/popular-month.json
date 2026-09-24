@@ -4,68 +4,29 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-09-23T21:58:48.013Z",
-  "candidateCount": 40,
-  "baseMatched": 10,
-  "matched": 15,
-  "addedMatches": 5,
-  "unavailable": [],
+  "updatedAt": "2026-09-24T05:38:19.409Z",
+  "candidateCount": 18,
+  "baseMatched": 12,
+  "matched": 16,
+  "addedMatches": 4,
+  "unavailable": [
+    "kinokuniya"
+  ],
   "snapshots": {
-    "kinokuniya": {
-      "id": "kinokuniya",
-      "label": "紀伊國屋書店",
-      "attribution": "紀伊國屋書店調べ",
-      "sourceUrl": "https://www.kinokuniya.co.jp/disp/CKnRankingPageCList.jsp?dispNo=107002001001&vTp=m",
-      "periodLabel": "マンスリー",
-      "updatedAt": "2026-09-23",
-      "live": true,
-      "items": [
-        {
-          "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
-          "author": "",
-          "isbn": "",
-          "rank": 2
-        },
-        {
-          "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
-          "author": "",
-          "isbn": "",
-          "rank": 5
-        },
-        {
-          "title": "イン・ザ・メガチャーチ",
-          "author": "",
-          "isbn": "",
-          "rank": 9
-        },
-        {
-          "title": "ギャルにひかれて寺マルシェ",
-          "author": "",
-          "isbn": "",
-          "rank": 23
-        },
-        {
-          "title": "会社四季報業界地図 〈２０２７年版〉",
-          "author": "",
-          "isbn": "",
-          "rank": 27
-        }
-      ]
-    },
     "tohan": {
       "id": "tohan",
       "label": "トーハン",
       "attribution": "トーハン調べ",
       "sourceUrl": "https://www.tohan.jp/bestsellers/2026_08_monthly/",
       "periodLabel": "月間",
-      "updatedAt": "2026-09-23",
+      "updatedAt": "2026-09-24",
       "live": true,
       "items": [
         {
-          "title": "ハヤブサ消防団 森へつづく道",
+          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
           "author": "",
           "isbn": "",
-          "rank": 4
+          "rank": 2
         },
         {
           "title": "つかめ!理科ダマン 12 最強ロボット決戦!編",
@@ -92,6 +53,42 @@
           "rank": 12
         }
       ]
+    },
+    "kinokuniya": {
+      "id": "kinokuniya",
+      "label": "紀伊國屋書店",
+      "attribution": "紀伊國屋書店調べ",
+      "sourceUrl": "https://www.kinokuniya.co.jp/disp/CKnRankingPageCList.jsp?dispNo=107002001001&vTp=m",
+      "periodLabel": "マンスリー",
+      "updatedAt": "2026-09-24",
+      "live": true,
+      "items": [
+        {
+          "title": "パンどろぼうとさすらいラーメン",
+          "author": "",
+          "rank": 4
+        },
+        {
+          "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
+          "author": "",
+          "rank": 5
+        },
+        {
+          "title": "イン・ザ・メガチャーチ",
+          "author": "",
+          "rank": 11
+        },
+        {
+          "title": "ギャルにひかれて寺マルシェ",
+          "author": "",
+          "rank": 23
+        },
+        {
+          "title": "会社四季報業界地図 〈２０２７年版〉",
+          "author": "",
+          "rank": 29
+        }
+      ]
     }
   },
   "items": [
@@ -112,57 +109,9 @@
       "isbn": "4380000407898",
       "salesType": 0,
       "matchMeta": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 幻冬舎新書",
-        "author": "",
-        "score": 102,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 2
-          }
-        ],
-        "source": "combined",
-        "rank": 6,
-        "originalTitle": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書"
-      },
-      "ranking": {
-        "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
-        "author": "",
-        "isbn": "",
-        "score": 178,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 2
-          }
-        ],
-        "source": "combined",
-        "rank": 1
-      }
-    },
-    {
-      "id": "4820000903843",
-      "title": "ハヤブサ消防団　森へつづく道",
-      "author": "池井戸潤",
-      "publisher": "集英社",
-      "price": 2200,
-      "url": "https://books.rakuten.co.jp/rk/8b8de7f162953f1aa6c2fba789f5c5b5/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9371/2000021419371.jpg?_ex=600x600",
-      "caption": "【田園暮らしのミステリ作家vs美貌の歴史ミステリ作家】\nドラマ化＆柴田錬三郎賞受賞の大ヒットミステリ、待望のシリーズ新作登場！\nミステリ作家の三馬太郎が自然豊かな八百万町ハヤブサ地区に移り住んで数年。地元消防団の一員としても忙しい毎日を過ごすうち、とある文学賞にノミネート！　最大のライバル候補は、今をときめく美貌の歴史ミステリ作家・北原未南。だが、未南に不可解な疑惑が持ち上がる。\n一方、八百万町では、ある若い女性が我が子を残して川から水死体で発見されていた。事件の真相を探るうち、太郎は町を揺るがす巨大な疑惑に巻き込まれて……。\n【集英社創業100周年記念作品】\n■著者プロフィール：\n池井戸 潤（いけいど・じゅん）\n作家。1963年岐阜県生まれ。慶應義塾大学卒。98年『果つる底なき』で江戸川乱歩賞を受賞しデビュー。2010年『鉄の骨』で吉川英治文学新人賞、11年『下町ロケット』で直木賞、23年『ハヤブサ消防団』で柴田錬三郎賞を受賞。\n主な作品に「半沢直樹」シリーズ（『オレたちバブル入行組』『ロスジェネの逆襲』『アルルカンと道化師』ほか）、「下町ロケット」シリーズ（『ガウディ計画』『ヤタガラス』ほか）、『シャイロックの子供たち』『空飛ぶタイヤ』『民王』『七つの会議』『陸王』『ノーサイド・ゲーム』『花咲舞が黙ってない』『アキラとあきら』『俺たちの箱根駅伝』『ブティック』がある。\n",
-      "salesDate": "2026年08月05日",
-      "series": "ハヤブサ消防団",
-      "reviewAverage": 4.29,
-      "reviewCount": 49,
-      "genreId": "101901/101902",
-      "isbn": "4820000903843",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ハヤブサ消防団 森へつづく道",
-        "author": "",
-        "isbn": "",
-        "score": 176,
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "author": "林真理子",
+        "score": 94,
         "sources": [
           {
             "source": "tohan",
@@ -171,17 +120,65 @@
           }
         ],
         "source": "combined",
-        "rank": 8
+        "rank": 9,
+        "originalTitle": ""
       },
       "ranking": {
-        "title": "ハヤブサ消防団 森へつづく道",
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "author": "",
+        "isbn": "",
+        "score": 178,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 2
+          }
+        ],
+        "source": "combined",
+        "rank": 1
+      }
+    },
+    {
+      "id": "4335396900320",
+      "title": "パンどろぼうとさすらいラーメン",
+      "author": "柴田　ケイコ",
+      "publisher": "KADOKAWA",
+      "price": 1650,
+      "url": "https://books.rakuten.co.jp/rk/ced96eda0a863fdeae0a78fb0bf25801/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2405/2000021682405.jpg?_ex=600x600",
+      "caption": "とっても寒い“ぶるぶるじま”にやってきたパンどろぼう。できたてのパンをふるまおうとパン作りをはじめますが、窯の扉をあけようとした、その瞬間・・・＼＼＼ボフーーーン／／／パンが作れずこまっているところへさっそうと現れたのは、いったい、誰ーーー？ほかほかのパンとあつあつのラーメンが織りなす、熱血ハートフルストーリー開幕！「パンどろぼう」シリーズ待望の第8弾！\n",
+      "salesDate": "2026年09月16日",
+      "series": "パンどろぼう",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101916",
+      "isbn": "4335396900320",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "パンどろぼうとさすらいラーメン",
+        "author": "",
+        "score": 94,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 4
+          }
+        ],
+        "source": "combined",
+        "rank": 10,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "パンどろぼうとさすらいラーメン",
         "author": "",
         "isbn": "",
         "score": 176,
         "sources": [
           {
-            "source": "tohan",
-            "label": "トーハン",
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
             "rank": 4
           }
         ],
@@ -265,7 +262,7 @@
           }
         ],
         "source": "combined",
-        "rank": 10
+        "rank": 6
       },
       "ranking": {
         "title": "つかめ!理科ダマン 12 最強ロボット決戦!編",
@@ -281,58 +278,6 @@
         ],
         "source": "combined",
         "rank": 4
-      }
-    },
-    {
-      "id": "4660629612104",
-      "title": "イン・ザ・メガチャーチ",
-      "author": "朝井リョウ",
-      "publisher": "日経BP",
-      "price": 2200,
-      "url": "https://books.rakuten.co.jp/rk/d3fd58a999d73fbaaf1de480b1d262ba/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3254/2000018463254.jpg?_ex=600x600",
-      "caption": "☆2026年本屋大賞受賞☆\n【第9回未来屋小説大賞】\n【第2回あの本、読みました？大賞】\n沈みゆく列島で、“界隈”は沸騰するーー。\nあるアイドルグループの運営に参画することになった、家族と離れて暮らす男。内向的で繊細な気質ゆえ積み重なる心労を癒やしたい大学生。仲間と楽しく舞台俳優を応援していたが、とある報道で状況が一変する女。ファンダム経済を仕掛ける側、のめり込む側、かつてのめり込んでいた側ーー世代も立場も異なる３つの視点から、人の心を動かす“物語”の功罪を炙り出す。\n「神がいないこの国で人を操るには、“物語”を使うのが一番いいんですよ」\n",
-      "salesDate": "2025年09月03日",
-      "series": "",
-      "reviewAverage": 4.28,
-      "reviewCount": 3471,
-      "genreId": "101901",
-      "isbn": "4660629612104",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "イン・ザ・メガチャーチ",
-        "author": "朝井リョウ",
-        "score": 156,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 7
-          },
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 1,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "イン・ザ・メガチャーチ",
-        "author": "",
-        "isbn": "",
-        "score": 171,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 5
       }
     },
     {
@@ -364,7 +309,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17
+        "rank": 11
       },
       "ranking": {
         "title": "地球の歩き方 スター･ウォーズ",
@@ -379,7 +324,7 @@
           }
         ],
         "source": "combined",
-        "rank": 6
+        "rank": 5
       }
     },
     {
@@ -411,7 +356,8 @@
           }
         ],
         "source": "combined",
-        "rank": 19
+        "rank": 12,
+        "originalTitle": "キングダム magazine 2026"
       },
       "ranking": {
         "title": "キングダム magazine 2026",
@@ -423,6 +369,58 @@
             "source": "tohan",
             "label": "トーハン",
             "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 6
+      }
+    },
+    {
+      "id": "4660629612104",
+      "title": "イン・ザ・メガチャーチ",
+      "author": "朝井リョウ",
+      "publisher": "日経BP",
+      "price": 2200,
+      "url": "https://books.rakuten.co.jp/rk/d3fd58a999d73fbaaf1de480b1d262ba/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3254/2000018463254.jpg?_ex=600x600",
+      "caption": "☆2026年本屋大賞受賞☆\n【第9回未来屋小説大賞】\n【第2回あの本、読みました？大賞】\n沈みゆく列島で、“界隈”は沸騰するーー。\nあるアイドルグループの運営に参画することになった、家族と離れて暮らす男。内向的で繊細な気質ゆえ積み重なる心労を癒やしたい大学生。仲間と楽しく舞台俳優を応援していたが、とある報道で状況が一変する女。ファンダム経済を仕掛ける側、のめり込む側、かつてのめり込んでいた側ーー世代も立場も異なる３つの視点から、人の心を動かす“物語”の功罪を炙り出す。\n「神がいないこの国で人を操るには、“物語”を使うのが一番いいんですよ」\n",
+      "salesDate": "2025年09月03日",
+      "series": "",
+      "reviewAverage": 4.28,
+      "reviewCount": 3471,
+      "genreId": "101901",
+      "isbn": "4660629612104",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "イン・ザ・メガチャーチ",
+        "author": "朝井リョウ",
+        "score": 148,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 7
+          },
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 11
+          }
+        ],
+        "source": "combined",
+        "rank": 1,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "イン・ザ・メガチャーチ",
+        "author": "",
+        "isbn": "",
+        "score": 169,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 11
           }
         ],
         "source": "combined",
@@ -458,7 +456,8 @@
           }
         ],
         "source": "combined",
-        "rank": 23
+        "rank": 15,
+        "originalTitle": "FOR OVERSEAS"
       },
       "ranking": {
         "title": "FOR OVERSEAS",
@@ -547,27 +546,74 @@
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 27
+            "rank": 29
           }
         ],
         "source": "combined",
-        "rank": 35,
+        "rank": 37,
         "originalTitle": "会社四季報業界地図 〈２０２７年版〉"
       },
       "ranking": {
         "title": "会社四季報業界地図 〈２０２７年版〉",
         "author": "",
         "isbn": "",
-        "score": 153,
+        "score": 151,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 27
+            "rank": 29
           }
         ],
         "source": "combined",
         "rank": 10
+      }
+    },
+    {
+      "id": "4320000867368",
+      "title": "GOAT Summer 2026",
+      "author": "宮島未奈/尾崎世界観/山内マリコ/梨/麻布競馬場",
+      "publisher": "小学館",
+      "price": 506,
+      "url": "https://books.rakuten.co.jp/rk/f5b51183e72e30a7a80fcb62bd0705ba/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9590/2000020809590.jpg?_ex=600x600",
+      "caption": "大ヒット！話題沸騰の新文芸誌、第4号！\n〇特集「食」\n【小説】\n宮島未奈 尾崎世界観 山内マリコ 市川沙央 梨 麻布競馬場 山口未桜 前川知大 小田雅久仁 佐久間由衣 芦沢央 上條一輝 真下みこと 方丈貴恵 青柳碧人 中西智佐乃 三木三奈 村雲菜月\n【エッセイ】\n角田光代 酒徒 吉川トリコ\n【わたしの偏食 エッセイ】\n伊藤亜和 井上咲楽 けんた食堂 ジェーン・スー 絶対に終電を逃さない女 生湯葉シホ 福徳秀介 穂村弘 吉田恵里香 ヨシダナギ\n【食日記】\nでか美ちゃん\n【対談】\n山極壽一×平野紗季子\n藤原辰史×小林エリカ\n【自炊レッスン】\n山口祐加×ダ・ヴィンチ・恐山\n【私のGOAT本】\n宇多丸 宮部みゆき 山崎怜奈 米澤穂信\n【文学賞】\n第1回GO-mono長編文学賞 受賞作発表\n選考委員長:加藤シゲアキ\n【連載】\n藤ヶ谷太輔\n【ゴートアム短歌賞】\n俵万智×岸田繁\n【出せなかった手紙】\n荒井良二\n【ゴートくんがゆく！】\n印刷博物館編　インタビュー:京極夏彦館長\n【特集】『ファイア・ドーム』（辻村深月）\n他豪華企画多数！\n（底本　2026年6月発売作品）\n※底本綴じ込み付録の「ゴートくんのおべんとうしおり」は、電子書籍には含まれておりません。あらかじめご了承ください。\n※本電子書籍に掲載されている二次元バーコードは、端末の機種やアプリの仕様によっては読み取れない場合があります。その際はURLからアクセスしてください。\n※この作品はカラーが含まれます。\n",
+      "salesDate": "2026年06月10日",
+      "series": "GOAT",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101907015004/101907015001/101901002",
+      "isbn": "4320000867368",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "GOAT Summer 2026",
+        "author": "",
+        "score": 106,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 1
+          }
+        ],
+        "source": "combined",
+        "rank": 3,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "GOAT Summer 2026",
+        "author": "",
+        "score": 106,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 1
+          }
+        ],
+        "source": "combined",
+        "rank": 11,
+        "originalTitle": ""
       }
     },
     {
@@ -613,7 +659,7 @@
           }
         ],
         "source": "combined",
-        "rank": 11,
+        "rank": 12,
         "originalTitle": ""
       }
     },
@@ -660,7 +706,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12,
+        "rank": 13,
         "originalTitle": ""
       }
     },
@@ -707,7 +753,7 @@
           }
         ],
         "source": "combined",
-        "rank": 13,
+        "rank": 14,
         "originalTitle": ""
       }
     },
@@ -754,7 +800,7 @@
           }
         ],
         "source": "combined",
-        "rank": 14,
+        "rank": 15,
         "originalTitle": ""
       }
     },
@@ -786,7 +832,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18,
+        "rank": 19,
         "originalTitle": ""
       },
       "ranking": {
@@ -801,22 +847,21 @@
           }
         ],
         "source": "combined",
-        "rank": 15,
+        "rank": 16,
         "originalTitle": ""
       }
     }
   ],
   "byGenre": {
     "fiction": [
-      "4820000903843",
       "4660629612104",
       "4331000700320",
+      "4320000867368",
       "4320000865495",
       "4320000865494",
       "4310000858457"
     ],
     "mystery": [
-      "4820000903843",
       "4320000865495",
       "4320000865494"
     ],
@@ -828,6 +873,7 @@
     "humanities": [
       "4380000407898",
       "4390000014247",
+      "4320000867368",
       "7225000866451"
     ],
     "nonfiction": [
@@ -848,8 +894,12 @@
     "language": [
       "6681311679960"
     ],
-    "children": [],
-    "essay": [],
+    "children": [
+      "4335396900320"
+    ],
+    "essay": [
+      "4320000867368"
+    ],
     "comic": [
       "4972000161524"
     ]
@@ -860,7 +910,7 @@
       "complete": true
     },
     "mystery": {
-      "matched": 3,
+      "matched": 2,
       "complete": true
     },
     "sf": {
@@ -872,7 +922,7 @@
       "complete": true
     },
     "humanities": {
-      "matched": 3,
+      "matched": 4,
       "complete": true
     },
     "nonfiction": {
@@ -908,11 +958,11 @@
       "complete": true
     },
     "children": {
-      "matched": 0,
+      "matched": 1,
       "complete": true
     },
     "essay": {
-      "matched": 0,
+      "matched": 1,
       "complete": true
     },
     "comic": {

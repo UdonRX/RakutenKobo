@@ -4,10 +4,10 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-09-23T21:58:30.367Z",
-  "candidateCount": 78,
-  "baseMatched": 24,
-  "matched": 31,
+  "updatedAt": "2026-09-24T05:38:07.739Z",
+  "candidateCount": 77,
+  "baseMatched": 19,
+  "matched": 26,
   "addedMatches": 7,
   "unavailable": [
     "rakuten"
@@ -125,7 +125,7 @@
       "attribution": "紀伊國屋書店調べ",
       "sourceUrl": "https://www.kinokuniya.co.jp/disp/CKnRankingPageCList.jsp?dispNo=107002001001&vTp=w",
       "periodLabel": "ウィークリー",
-      "updatedAt": "2026-09-23",
+      "updatedAt": "2026-09-24",
       "live": true,
       "items": [
         {
@@ -156,7 +156,7 @@
           "title": "在米５０年の弁護士が当事者として見た「内乱」のアメリカ - 自由と民主主義はいかに崩壊したか",
           "author": "",
           "isbn": "",
-          "rank": 10
+          "rank": 11
         },
         {
           "title": "なぜ日本が世界に必要なのか 文春新書",
@@ -165,22 +165,10 @@
           "rank": 12
         },
         {
-          "title": "おもうがたび",
-          "author": "",
-          "isbn": "",
-          "rank": 25
-        },
-        {
           "title": "アラームが鳴らないうちに",
           "author": "",
           "isbn": "",
-          "rank": 26
-        },
-        {
-          "title": "帳の向こう",
-          "author": "",
-          "isbn": "",
-          "rank": 30
+          "rank": 27
         }
       ]
     },
@@ -190,7 +178,7 @@
       "attribution": "トーハン調べ",
       "sourceUrl": "https://www.tohan.jp/bestsellers/2026_0908_weekly/",
       "periodLabel": "週間",
-      "updatedAt": "2026-09-23",
+      "updatedAt": "2026-09-24",
       "live": true,
       "items": [
         {
@@ -395,53 +383,6 @@
       }
     },
     {
-      "id": "4340008067051",
-      "title": "プレゼント（新潮文庫）",
-      "author": "伊坂幸太郎/江國香織/恩田陸/梨木香歩/町田そのこ/宮部みゆき/米澤穂信",
-      "publisher": "新潮社",
-      "price": 825,
-      "url": "https://books.rakuten.co.jp/rk/e8a60fd88eb63075a76e50e52cf98712/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8962/2000020598962.jpg?_ex=600x600",
-      "caption": "これはこれまで小説を愛してきてくれた人へ、そしてこれから小説の世界に一歩踏み出す人へ贈るプレゼント。何気なく読んだ物語が、ふと目にした一行が、意外な言葉ひとつが、人生を大きく変えるかもしれない。現代を代表する７人の作家が「夏」をテーマに書き下ろした、驚きと切なさ、怖さと美しさ、何よりとびきりの面白さを詰め込んだ奇跡の一冊。さぁ、あなたの人生に小説という選択肢を。\n",
-      "salesDate": "2026年06月24日",
-      "series": "",
-      "reviewAverage": 3.9,
-      "reviewCount": 346,
-      "genreId": "101901",
-      "isbn": "4340008067051",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "プレゼント",
-        "author": "伊坂幸太郎",
-        "score": 98,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 3
-          }
-        ],
-        "source": "combined",
-        "rank": 10,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "プレゼント",
-        "author": "伊坂幸太郎",
-        "isbn": "",
-        "score": 177,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 3
-          }
-        ],
-        "source": "combined",
-        "rank": 4
-      }
-    },
-    {
       "id": "4340008067611",
       "title": "幽冥の岸　十二国記（新潮文庫）",
       "author": "小野不由美",
@@ -485,7 +426,7 @@
           }
         ],
         "source": "combined",
-        "rank": 5
+        "rank": 4
       }
     },
     {
@@ -517,7 +458,7 @@
           }
         ],
         "source": "combined",
-        "rank": 11,
+        "rank": 12,
         "originalTitle": "FINEBOYS＋plus OYASUMI vol.2"
       },
       "ranking": {
@@ -529,6 +470,53 @@
           {
             "source": "tohan",
             "label": "トーハン",
+            "rank": 3
+          }
+        ],
+        "source": "combined",
+        "rank": 5
+      }
+    },
+    {
+      "id": "4340008067051",
+      "title": "プレゼント（新潮文庫）",
+      "author": "伊坂幸太郎/江國香織/恩田陸/梨木香歩/町田そのこ/宮部みゆき/米澤穂信",
+      "publisher": "新潮社",
+      "price": 825,
+      "url": "https://books.rakuten.co.jp/rk/e8a60fd88eb63075a76e50e52cf98712/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8962/2000020598962.jpg?_ex=600x600",
+      "caption": "これはこれまで小説を愛してきてくれた人へ、そしてこれから小説の世界に一歩踏み出す人へ贈るプレゼント。何気なく読んだ物語が、ふと目にした一行が、意外な言葉ひとつが、人生を大きく変えるかもしれない。現代を代表する７人の作家が「夏」をテーマに書き下ろした、驚きと切なさ、怖さと美しさ、何よりとびきりの面白さを詰め込んだ奇跡の一冊。さぁ、あなたの人生に小説という選択肢を。\n",
+      "salesDate": "2026年06月24日",
+      "series": "",
+      "reviewAverage": 3.9,
+      "reviewCount": 346,
+      "genreId": "101901",
+      "isbn": "4340008067051",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "プレゼント",
+        "author": "伊坂幸太郎",
+        "isbn": "",
+        "score": 177,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 3
+          }
+        ],
+        "source": "combined",
+        "rank": 10
+      },
+      "ranking": {
+        "title": "プレゼント",
+        "author": "伊坂幸太郎",
+        "isbn": "",
+        "score": 177,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
             "rank": 3
           }
         ],
@@ -565,7 +553,7 @@
           }
         ],
         "source": "combined",
-        "rank": 14
+        "rank": 15
       },
       "ranking": {
         "title": "ギャルにひかれて寺マルシェ",
@@ -743,7 +731,8 @@
       "matchMeta": {
         "title": "容疑者Xの献身",
         "author": "東野圭吾",
-        "score": 82,
+        "isbn": "",
+        "score": 173,
         "sources": [
           {
             "source": "maruzen",
@@ -752,8 +741,8 @@
           }
         ],
         "source": "combined",
-        "rank": 23,
-        "originalTitle": ""
+        "rank": 24,
+        "originalTitle": "容疑者Xの献身"
       },
       "ranking": {
         "title": "容疑者Xの献身",
@@ -800,7 +789,7 @@
           }
         ],
         "source": "combined",
-        "rank": 25
+        "rank": 26
       },
       "ranking": {
         "title": "会社四季報 業界地図 2027年版",
@@ -1007,53 +996,6 @@
       }
     },
     {
-      "id": "4910000910142",
-      "title": "在米50年の弁護士が当事者として見た「内乱」のアメリカ　自由と民主主義はいかに崩壊したか",
-      "author": "秋山武夫",
-      "publisher": "朝日新聞出版",
-      "price": 1650,
-      "url": "https://books.rakuten.co.jp/rk/cae1591004eb3d11924c3640a531fe50/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6886/2000021516886.jpg?_ex=600x600",
-      "caption": "なぜ大統領の意向一つで戦争ができるのか。なぜ「独裁」が許されてしまうのか。内戦前夜ともいわれる国内の分断の深さはーーアメリカ社会はここまで病んでいた！権力機構・法制度・市民生活の荒廃を、半世紀以上アメリカを内側から見てきた日本人弁護士がぜんぶ書く。\n",
-      "salesDate": "2026年08月20日",
-      "series": "在米50年の弁護士が当事者として見た「内乱」のアメリカ　自由と民主主義はいかに崩壊したか",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101907010/101907009/101907007/101914",
-      "isbn": "4910000910142",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "在米50年の弁護士が当事者として見た「内乱」のアメリカ - 自由と民主主義はいかに崩壊したか",
-        "author": "",
-        "score": 70,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 37,
-        "originalTitle": "在米５０年の弁護士が当事者として見た「内乱」のアメリカ - 自由と民主主義はいかに崩壊したか"
-      },
-      "ranking": {
-        "title": "在米５０年の弁護士が当事者として見た「内乱」のアメリカ - 自由と民主主義はいかに崩壊したか",
-        "author": "",
-        "isbn": "",
-        "score": 170,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 17
-      }
-    },
-    {
       "id": "7131315591790",
       "title": "オーイ！ とんぼ　第64巻",
       "author": "かわさき健/古沢優",
@@ -1094,6 +1036,53 @@
             "source": "tohan",
             "label": "トーハン",
             "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 17
+      }
+    },
+    {
+      "id": "4910000910142",
+      "title": "在米50年の弁護士が当事者として見た「内乱」のアメリカ　自由と民主主義はいかに崩壊したか",
+      "author": "秋山武夫",
+      "publisher": "朝日新聞出版",
+      "price": 1650,
+      "url": "https://books.rakuten.co.jp/rk/cae1591004eb3d11924c3640a531fe50/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6886/2000021516886.jpg?_ex=600x600",
+      "caption": "なぜ大統領の意向一つで戦争ができるのか。なぜ「独裁」が許されてしまうのか。内戦前夜ともいわれる国内の分断の深さはーーアメリカ社会はここまで病んでいた！権力機構・法制度・市民生活の荒廃を、半世紀以上アメリカを内側から見てきた日本人弁護士がぜんぶ書く。\n",
+      "salesDate": "2026年08月20日",
+      "series": "在米50年の弁護士が当事者として見た「内乱」のアメリカ　自由と民主主義はいかに崩壊したか",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101907010/101907009/101907007/101914",
+      "isbn": "4910000910142",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "在米50年の弁護士が当事者として見た「内乱」のアメリカ - 自由と民主主義はいかに崩壊したか",
+        "author": "",
+        "score": 66,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 11
+          }
+        ],
+        "source": "combined",
+        "rank": 39,
+        "originalTitle": "在米５０年の弁護士が当事者として見た「内乱」のアメリカ - 自由と民主主義はいかに崩壊したか"
+      },
+      "ranking": {
+        "title": "在米５０年の弁護士が当事者として見た「内乱」のアメリカ - 自由と民主主義はいかに崩壊したか",
+        "author": "",
+        "isbn": "",
+        "score": 169,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 11
           }
         ],
         "source": "combined",
@@ -1223,8 +1212,7 @@
           }
         ],
         "source": "combined",
-        "rank": 43,
-        "originalTitle": "FOR OVERSEAS"
+        "rank": 43
       },
       "ranking": {
         "title": "FOR OVERSEAS",
@@ -1261,8 +1249,7 @@
       "matchMeta": {
         "title": "週刊ファミ通 2026年10月1・8日合併号 No.1964",
         "author": "週刊ファミ通編集部",
-        "isbn": "",
-        "score": 166,
+        "score": 54,
         "sources": [
           {
             "source": "amazon",
@@ -1271,8 +1258,8 @@
           }
         ],
         "source": "combined",
-        "rank": 47,
-        "originalTitle": "週刊ファミ通 2026年10月1・8日合併号 No.1964"
+        "rank": 46,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "週刊ファミ通 2026年10月1・8日合併号 No.1964",
@@ -1288,53 +1275,6 @@
         ],
         "source": "combined",
         "rank": 22
-      }
-    },
-    {
-      "id": "4380000407982",
-      "title": "おもうがたび",
-      "author": "宇賀なつみ",
-      "publisher": "幻冬舎",
-      "price": 1881,
-      "url": "https://books.rakuten.co.jp/rk/ddb5b2415a9c3090a57ce24f75dc0a69/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7857/2000021557857.jpg?_ex=600x600",
-      "caption": "国外27か所、国内13か所。\n世界を歩きながら、自分自身と向き合い、誰かを“おもう”日々ーー。\n地球を舞台に旅した３年間を巡る40篇。\nアナウンサー・宇賀なつみ　第２弾 旅エッセイ！\nいよいよ人生、後半戦。\n面白くなるのは、きっとこれからだ。\n30代、仕事も私生活もフリーになって、旅にすべてを捧げた。\n私はどうして、こんなにも、旅せずにいられないのだろうーー。\n旅をするには、時間とお金と体力が必要です。\n10代の学生時代には、時間と体力は有り余っていましたが、とにかくお金がありませんでした。20代で社会人になり、ある程度お金を稼げるようになると、今度は極端に時間がなくなってしまいました。その後、30代で自分なりに大きな決断をして独立し、ありがたいことにお仕事をいただけている今こそが、旅に全てを捧げる絶好のタイミングだと考えたのです。\nフリーランスとして働いているので、スケジュールは全て自分次第。3週間働いて1週間休むことを目標に毎月連休を作り出し、美容院に行くような頻度で出国ゲートをくぐってきた私は、明らかに異常です。自分でも理解しています。でも、そうせずにはいられませんでした。\nその理由は、きっとこの本を読めばわかっていただけると思います。ーー旅のはじめにより、抜粋\n",
-      "salesDate": "2026年09月16日",
-      "series": "",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101901002/101915",
-      "isbn": "4380000407982",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "おもうがたび",
-        "author": "",
-        "score": 10,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 25
-          }
-        ],
-        "source": "combined",
-        "rank": 66,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "おもうがたび",
-        "author": "",
-        "isbn": "",
-        "score": 155,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 25
-          }
-        ],
-        "source": "combined",
-        "rank": 23
       }
     },
     {
@@ -1356,8 +1296,7 @@
       "matchMeta": {
         "title": "現代語古事記 第二版: (改訂版)",
         "author": "竹田恒泰",
-        "isbn": "",
-        "score": 155,
+        "score": 10,
         "sources": [
           {
             "source": "amazon",
@@ -1367,7 +1306,7 @@
         ],
         "source": "combined",
         "rank": 67,
-        "originalTitle": "現代語古事記 第二版: (改訂版)"
+        "originalTitle": ""
       },
       "ranking": {
         "title": "現代語古事記 第二版: (改訂版)",
@@ -1382,54 +1321,7 @@
           }
         ],
         "source": "combined",
-        "rank": 24
-      }
-    },
-    {
-      "id": "4704763143280",
-      "title": "アラームが鳴らないうちに",
-      "author": "川口俊和",
-      "publisher": "サンマーク出版",
-      "price": 1650,
-      "url": "https://books.rakuten.co.jp/rk/030271e9b7de3243adcead69000bc305/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2225/2000021532225.jpg?_ex=600x600",
-      "caption": "「このアラームが、\nあの日伝えられなかった言葉の\n代わりをしてくれるからーー」\n過去に戻れる喫茶店で\nコーヒーを淹れつづける主人公、数。\n不思議な力を持つ数の、\n忘れられない後悔とは？\n【シリーズの核心にせまる第７巻！】\nとある街の、とある喫茶店の\nとある座席には不思議な都市伝説があった\nその席に座ると、望んだ通りの時間に戻れるという\nただし、そこにはめんどくさい……\n非常にめんどくさいルールがあった\n一、過去に戻っても、この喫茶店を訪れたことのない者には会うことはできない\n二、過去に戻って、どんな努力をしても、現実は変わらない\n三、過去に戻れる席には先客がいる\n　　その席に座れるのは、その先客が席を立った時だけ\n四、過去に戻っても、席を立って移動することはできない\n五、過去に戻れるのは、コーヒーをカップに注いでから、\n　　そのコーヒーが冷めてしまうまでの間だけ\nこれだけのルールを聞いても、過去に戻りたいと訪れる客は後を絶たない\nそして、亡くなった者に会いに行こうとする客には、\nウエイトレスがあるものをカップに入れ、こう告げる\n「死んだ人に会いに行く人は、ついつい情に流されてしまい、制限時間があることを知っていても、\n別れを切り出すことができなくなります」\nこの物語は、そんな不思議な喫茶店で起こった、\nウエイトレスの想いと、客の後悔が交錯する心温まる四つの奇跡\n第一話「妻の写真を撮りに行く男の話」\n第二話「母親の介護に疲れた女の話」\n第三話「元気だった頃の母に会いに行く男の話」\n第四話「父にウエディングドレス姿を見せたかった娘の話」\nあの日に戻れたら、あなたは誰に会いに行きますか？\n",
-      "salesDate": "2026年09月17日",
-      "series": "コーヒーが冷めないうちに",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101901",
-      "isbn": "4704763143280",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "アラームが鳴らないうちに",
-        "author": "",
-        "score": 6,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 26
-          }
-        ],
-        "source": "combined",
-        "rank": 68,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "アラームが鳴らないうちに",
-        "author": "",
-        "isbn": "",
-        "score": 154,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 26
-          }
-        ],
-        "source": "combined",
-        "rank": 25
+        "rank": 23
       }
     },
     {
@@ -1476,148 +1368,54 @@
           }
         ],
         "source": "combined",
-        "rank": 26
+        "rank": 24
       }
     },
     {
-      "id": "4390000016485",
-      "title": "帳の向こう",
-      "author": "國分功一郎/若林正恭",
-      "publisher": "文藝春秋",
-      "price": 1800,
-      "url": "https://books.rakuten.co.jp/rk/8757734913463c04b18adb23ecb05ddf/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3363/2000021713363.jpg?_ex=600x600",
-      "caption": "現代の生きづらさを語り合った４年間の記録\nオードリーの若林正恭さんがもっとも話したい相手は、哲学者の國分功一郎さんだった。\n「目的と手段」の社会は終わりつつある？\n資本主義の魔物に、どう立ち向かえばいい？\n現代で「快適」を求めるには、勇気が必要？\n二人が語り合った、現代への違和感のすべて。\n【目次】\nまえがき──どういうわけだか分からないが人間的な精神の仕組みに抗うことになってしまい……　　國分功一郎\n１　真犯人を捜して生きている\n２　目的もなく遊び続けろ\n３　ビッグモーター化する世界の中で\n４　やっとみんな疲れてきた\n５　ネオリベの帳を越えて\nあとがき　　若林正恭\n",
-      "salesDate": "2026年09月11日",
-      "series": "",
+      "id": "4704763143280",
+      "title": "アラームが鳴らないうちに",
+      "author": "川口俊和",
+      "publisher": "サンマーク出版",
+      "price": 1650,
+      "url": "https://books.rakuten.co.jp/rk/030271e9b7de3243adcead69000bc305/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2225/2000021532225.jpg?_ex=600x600",
+      "caption": "「このアラームが、\nあの日伝えられなかった言葉の\n代わりをしてくれるからーー」\n過去に戻れる喫茶店で\nコーヒーを淹れつづける主人公、数。\n不思議な力を持つ数の、\n忘れられない後悔とは？\n【シリーズの核心にせまる第７巻！】\nとある街の、とある喫茶店の\nとある座席には不思議な都市伝説があった\nその席に座ると、望んだ通りの時間に戻れるという\nただし、そこにはめんどくさい……\n非常にめんどくさいルールがあった\n一、過去に戻っても、この喫茶店を訪れたことのない者には会うことはできない\n二、過去に戻って、どんな努力をしても、現実は変わらない\n三、過去に戻れる席には先客がいる\n　　その席に座れるのは、その先客が席を立った時だけ\n四、過去に戻っても、席を立って移動することはできない\n五、過去に戻れるのは、コーヒーをカップに注いでから、\n　　そのコーヒーが冷めてしまうまでの間だけ\nこれだけのルールを聞いても、過去に戻りたいと訪れる客は後を絶たない\nそして、亡くなった者に会いに行こうとする客には、\nウエイトレスがあるものをカップに入れ、こう告げる\n「死んだ人に会いに行く人は、ついつい情に流されてしまい、制限時間があることを知っていても、\n別れを切り出すことができなくなります」\nこの物語は、そんな不思議な喫茶店で起こった、\nウエイトレスの想いと、客の後悔が交錯する心温まる四つの奇跡\n第一話「妻の写真を撮りに行く男の話」\n第二話「母親の介護に疲れた女の話」\n第三話「元気だった頃の母に会いに行く男の話」\n第四話「父にウエディングドレス姿を見せたかった娘の話」\nあの日に戻れたら、あなたは誰に会いに行きますか？\n",
+      "salesDate": "2026年09月17日",
+      "series": "コーヒーが冷めないうちに",
       "reviewAverage": 0,
-      "reviewCount": 1,
-      "genreId": "101907015/101907007/101907002002",
-      "isbn": "4390000016485",
+      "reviewCount": 0,
+      "genreId": "101901",
+      "isbn": "4704763143280",
       "salesType": 0,
       "matchMeta": {
-        "title": "帳の向こう",
+        "title": "アラームが鳴らないうちに",
         "author": "",
         "score": 5,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 30
+            "rank": 27
           }
         ],
         "source": "combined",
-        "rank": 73,
+        "rank": 70,
         "originalTitle": ""
       },
       "ranking": {
-        "title": "帳の向こう",
+        "title": "アラームが鳴らないうちに",
         "author": "",
         "isbn": "",
-        "score": 150,
+        "score": 153,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 30
+            "rank": 27
           }
         ],
         "source": "combined",
-        "rank": 27
-      }
-    },
-    {
-      "id": "6681311679960",
-      "title": "つかめ！理科ダマン 12 最強ロボット決戦！編",
-      "author": "シン・テフン/ナ・スンフン/呉華順",
-      "publisher": "マガジンハウス",
-      "price": 1320,
-      "url": "https://books.rakuten.co.jp/rk/d5144a342674388cb89766522b26d5f0/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6738/2000021036738.jpg?_ex=600x600",
-      "caption": "■注目のシリーズ第12巻は、ロボット世界大会の決戦編！■\n恐竜ロボット大会の勝者を決める決戦がいよいよ始まる！\nシンとグゥのチームが戦うライバルチームに、弱点はあるのか!?\n優勝を目指すシンたちといっしょに\nプログラミングやA I、恐竜にまつわる19の疑問が楽しく学べます。\n★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★\n＼＼日韓でシリーズ累計400万部／／\n理科のテストで100点取れちゃう！！\n「笑いながら理科の知識が学べるところが大好きです」\n「子供が夢中になって読んでいます」\n「身近な“どうして？”をわかりやすく説明されていて、子供も大人も楽しめます」\n……とクチコミで話題沸騰!!\n★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★\nギャグ満載の超オモシロまんがで\n小学校の理科の知識がスイスイ身につく！！\nそして、科学と読書がどんどん好きになる！！\n《こんな疑問に答えます》\n◎アルゴリズムってなに？\n◎フローチャートってなに？\n◎コンピュータはどうやってプログラミング言語を理解している？\n◎座標ってなに？\n◎ロボットは人間より賢くなれる？\n◎コンピュータに虫がいる？　\n◎翼竜は恐竜か？　……etc.\n",
-      "salesDate": "2026年07月16日",
-      "series": "つかめ！理科ダマン",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101908004/101906006/101906001009",
-      "isbn": "6681311679960",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "つかめ!理科ダマン 12 最強ロボット決戦!編",
-        "author": "シン・テフン",
-        "score": 106,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 1
-          }
-        ],
-        "source": "combined",
-        "rank": 4,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "つかめ!理科ダマン 12 最強ロボット決戦!編",
-        "author": "シン・テフン",
-        "score": 106,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 1
-          }
-        ],
-        "source": "combined",
-        "rank": 28,
-        "originalTitle": ""
-      }
-    },
-    {
-      "id": "4310000890409",
-      "title": "楽園",
-      "author": "夕木春央",
-      "publisher": "講談社",
-      "price": 1980,
-      "url": "https://books.rakuten.co.jp/rk/1a1c684dcee83b98b4d0187187c813d0/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1651/2000021221651.jpg?_ex=600x600",
-      "caption": "殺人犯にならなければ脱出できない。\n『方舟』『十戒』の著者が仕掛ける“禁忌の驚き”\n亡き両親から不動産を譲り受けた康之は、失踪した賃借人・海原の遺留品整理の際に、群馬の山奥の謎の物件の存在を知る。そこは、切り立った岩壁に囲まれた、「楽園」と呼ばれる奇妙な場所だった。恋人の沙織と一緒にそこを訪ね、探索をはじめた康之たちは、すぐに六人の“住人”に拿捕された。脱出のための条件はーー\n「誰か一人を殺さなければならない」\n『方舟』\n第19回オリコン上半期”本”ランキング　文庫ランキングTOP10 第1位\n週刊文春ミステリーベスト10　第1位　（「週刊文春」2022年12月8日号）国内部門\nMRC大賞2022　第1位\n『方舟』＋『十戒』の累計発行部数が100万部突破。\nーー夕木春央が描く、極限のクローズド・サークル。\n",
-      "salesDate": "2026年07月22日",
-      "series": "楽園",
-      "reviewAverage": 4.19,
-      "reviewCount": 395,
-      "genreId": "101902",
-      "isbn": "4310000890409",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "楽園",
-        "author": "夕木春央",
-        "score": 94,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
-          }
-        ],
-        "source": "combined",
-        "rank": 12,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "楽園",
-        "author": "夕木春央",
-        "score": 94,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
-          }
-        ],
-        "source": "combined",
-        "rank": 29,
-        "originalTitle": ""
+        "rank": 25
       }
     },
     {
@@ -1663,76 +1461,26 @@
           }
         ],
         "source": "combined",
-        "rank": 30,
-        "originalTitle": ""
-      }
-    },
-    {
-      "id": "4480000838415",
-      "title": "けんぐゎい",
-      "author": "朝倉かすみ",
-      "publisher": "光文社",
-      "price": 1980,
-      "url": "https://books.rakuten.co.jp/rk/7249a640151339f4ab53ef18f6bba0b0/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8537/2000020238537.jpg?_ex=600x600",
-      "caption": "利発だが酷い痘痕の姉ふゆ。逆上せ癖で縹緻よしの妹りよ。幼くして父を亡くし、ふゆは手習師匠の手伝いに、りよは船宿の下女奉公に出された。師匠の養子で禍々しいほどに歪んだ性癖をもつ宗三郎から手籠めにされたふゆは懐妊するが、現人神と崇められる女医者と出逢い、彼女の人生は大きく変わっていく。自我に目覚めた主人公が、女の生と向き合う、時代小説の新しい扉！　第175回直木賞受賞作！\n",
-      "salesDate": "2026年04月22日",
-      "series": "けんぐゎい",
-      "reviewAverage": 3.39,
-      "reviewCount": 108,
-      "genreId": "101901001001",
-      "isbn": "4480000838415",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "けんぐゎい",
-        "author": "朝倉かすみ",
-        "score": 70,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 36,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "けんぐゎい",
-        "author": "朝倉かすみ",
-        "score": 70,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 31,
+        "rank": 26,
         "originalTitle": ""
       }
     }
   ],
   "byGenre": {
     "fiction": [
-      "4340008067051",
       "4340008067611",
+      "4340008067051",
       "4331000700320",
       "4910000909001",
       "6681316776900",
       "4390000005636",
       "4660629612104",
-      "4380000407982",
-      "4704763143280",
-      "4480000838415"
+      "4704763143280"
     ],
     "mystery": [
       "4390000005636",
       "4620000615075",
-      "4620000615076",
-      "4310000890409"
+      "4620000615076"
     ],
     "sf": [],
     "business": [
@@ -1743,16 +1491,13 @@
       "4390000014247",
       "4910000910142",
       "4390000016508",
-      "9784059242475",
-      "4390000016485"
+      "9784059242475"
     ],
     "nonfiction": [
       "4390000014247",
       "4910000910142"
     ],
-    "science": [
-      "6681311679960"
-    ],
+    "science": [],
     "it": [],
     "life": [
       "4380000407898"
@@ -1762,16 +1507,12 @@
     "travel": [
       "9784059239659"
     ],
-    "language": [
-      "6681311679960"
-    ],
+    "language": [],
     "children": [
       "4335396900320",
       "9784059243236"
     ],
-    "essay": [
-      "4380000407982"
-    ],
+    "essay": [],
     "comic": [
       "4310000862928",
       "7131315591790",
@@ -1781,11 +1522,11 @@
   },
   "genreStatus": {
     "fiction": {
-      "matched": 10,
+      "matched": 8,
       "complete": true
     },
     "mystery": {
-      "matched": 4,
+      "matched": 3,
       "complete": true
     },
     "sf": {
@@ -1797,7 +1538,7 @@
       "complete": true
     },
     "humanities": {
-      "matched": 6,
+      "matched": 5,
       "complete": true
     },
     "nonfiction": {
@@ -1805,7 +1546,7 @@
       "complete": true
     },
     "science": {
-      "matched": 1,
+      "matched": 0,
       "complete": true
     },
     "it": {
@@ -1829,7 +1570,7 @@
       "complete": true
     },
     "language": {
-      "matched": 1,
+      "matched": 0,
       "complete": true
     },
     "children": {
@@ -1837,7 +1578,7 @@
       "complete": true
     },
     "essay": {
-      "matched": 1,
+      "matched": 0,
       "complete": true
     },
     "comic": {

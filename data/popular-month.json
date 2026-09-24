@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-09-24T17:44:09.676Z",
+  "updatedAt": "2026-09-24T22:00:37.621Z",
   "candidateCount": 40,
-  "baseMatched": 12,
-  "matched": 16,
-  "addedMatches": 4,
+  "baseMatched": 13,
+  "matched": 18,
+  "addedMatches": 5,
   "unavailable": [],
   "snapshots": {
     "kinokuniya": {
@@ -78,6 +78,12 @@
           "author": "",
           "isbn": "",
           "rank": 5
+        },
+        {
+          "title": "地球の歩き方 スター･ウォーズ",
+          "author": "",
+          "isbn": "",
+          "rank": 9
         },
         {
           "title": "キングダム magazine 2026",
@@ -218,8 +224,7 @@
           }
         ],
         "source": "combined",
-        "rank": 8,
-        "originalTitle": "ハヤブサ消防団 森へつづく道"
+        "rank": 8
       },
       "ranking": {
         "title": "ハヤブサ消防団 森へつづく道",
@@ -313,8 +318,7 @@
           }
         ],
         "source": "combined",
-        "rank": 10,
-        "originalTitle": "つかめ!理科ダマン 12 最強ロボット決戦!編"
+        "rank": 10
       },
       "ranking": {
         "title": "つかめ!理科ダマン 12 最強ロボット決戦!編",
@@ -330,6 +334,53 @@
         ],
         "source": "combined",
         "rank": 5
+      }
+    },
+    {
+      "id": "9784059239659",
+      "title": "地球の歩き方 スター・ウォーズ",
+      "author": "",
+      "publisher": "地球の歩き方",
+      "price": 2750,
+      "url": "https://books.rakuten.co.jp/rk/40558a21970c38b8891b35aee564d356/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9941/2000020489941.jpg?_ex=600x600",
+      "caption": "銀河の果てまで旅するように、物語の舞台を歩く……。\n『スター・ウォーズ』の世界を「地球の歩き方」ならではの旅行ガイドスタイルでひもとく、スペシャルブックが登場！\nもしあなたが『スター・ウォーズ』の世界を訪れることになっても、本書があれば安心。劇場公開作品を中心に、ストーリーの流れや主要キャラクターの魅力を、心に残る名シーンとともにしっかりおさらいできます。さらに、モデルプランや旅のテクニックなど、ファン心をくすぐるコンテンツも充実。\n作品世界をより深く理解し、楽しむための情報を厳選して収録した、ファン必携の永久保存版です。\n※予告なく一部内容が変更される可能性もあります。予めご了承ください。\n※電子版では、紙のガイドブックと内容が一部異なります。掲載されない写真や図版、収録されないページがある場合があります。あらかじめご了承下さい。\n",
+      "salesDate": "2026年07月29日",
+      "series": "",
+      "reviewAverage": 4.25,
+      "reviewCount": 4,
+      "genreId": "101911",
+      "isbn": "9784059239659",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "地球の歩き方 スター･ウォーズ",
+        "author": "",
+        "isbn": "",
+        "score": 171,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 17
+      },
+      "ranking": {
+        "title": "地球の歩き方 スター･ウォーズ",
+        "author": "",
+        "isbn": "",
+        "score": 171,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 6
       }
     },
     {
@@ -376,7 +427,7 @@
           }
         ],
         "source": "combined",
-        "rank": 6
+        "rank": 7
       }
     },
     {
@@ -428,7 +479,7 @@
           }
         ],
         "source": "combined",
-        "rank": 7
+        "rank": 8
       }
     },
     {
@@ -475,7 +526,7 @@
           }
         ],
         "source": "combined",
-        "rank": 8
+        "rank": 9
       }
     },
     {
@@ -522,7 +573,7 @@
           }
         ],
         "source": "combined",
-        "rank": 9
+        "rank": 10
       }
     },
     {
@@ -569,7 +620,7 @@
           }
         ],
         "source": "combined",
-        "rank": 10
+        "rank": 11
       }
     },
     {
@@ -615,7 +666,7 @@
           }
         ],
         "source": "combined",
-        "rank": 11,
+        "rank": 12,
         "originalTitle": ""
       }
     },
@@ -662,7 +713,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12,
+        "rank": 13,
         "originalTitle": ""
       }
     },
@@ -709,7 +760,7 @@
           }
         ],
         "source": "combined",
-        "rank": 13,
+        "rank": 14,
         "originalTitle": ""
       }
     },
@@ -756,7 +807,54 @@
           }
         ],
         "source": "combined",
-        "rank": 14,
+        "rank": 15,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "4390000015358",
+      "title": "青天",
+      "author": "若林正恭",
+      "publisher": "文藝春秋",
+      "price": 1900,
+      "url": "https://books.rakuten.co.jp/rk/a6fc1b8794af3eafb7f064fac9c68dfa/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0144/2000019330144.jpg?_ex=600x600",
+      "caption": "オードリー・若林正恭、初小説！\n人にぶつかっていないと、自分が生きているかどうかよくわからなくなるーー\n総大三高の「アリ」こと中村昴が所属するアメフト部は、万年２回戦どまり。相手校の練習を隠し撮りして迎えた高３の引退大会では、強豪・遼西学園に打ち破れた。引退後、みなが受験に向かうなか、勉強にも気持ちが入らず、不良になる覚悟もないまま宙ぶらりんの日々を過ごす。自分自身の不甲斐なさにもがき続けるなかで、アリは再びアメフトと向き合う決意を固める。\n青春の苦みと悦びに満ちた、著者渾身の初小説。\n",
+      "salesDate": "2026年02月20日",
+      "series": "",
+      "reviewAverage": 4.03,
+      "reviewCount": 588,
+      "genreId": "101901",
+      "isbn": "4390000015358",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "青天",
+        "author": "若林正恭",
+        "score": 78,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 15,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "青天",
+        "author": "若林正恭",
+        "score": 78,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 16,
         "originalTitle": ""
       }
     },
@@ -803,7 +901,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15,
+        "rank": 17,
         "originalTitle": ""
       }
     },
@@ -850,7 +948,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16,
+        "rank": 18,
         "originalTitle": ""
       }
     }
@@ -863,7 +961,8 @@
       "4320000867368",
       "4320000865495",
       "4320000865494",
-      "4310000858457"
+      "4310000858457",
+      "4390000015358"
     ],
     "mystery": [
       "4820000903843",
@@ -893,7 +992,9 @@
     ],
     "health": [],
     "hobby": [],
-    "travel": [],
+    "travel": [
+      "9784059239659"
+    ],
     "language": [
       "6681311679960"
     ],
@@ -909,7 +1010,7 @@
   },
   "genreStatus": {
     "fiction": {
-      "matched": 7,
+      "matched": 8,
       "complete": true
     },
     "mystery": {
@@ -953,7 +1054,7 @@
       "complete": true
     },
     "travel": {
-      "matched": 0,
+      "matched": 1,
       "complete": true
     },
     "language": {

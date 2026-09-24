@@ -4,15 +4,54 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-09-24T05:38:19.409Z",
-  "candidateCount": 18,
+  "updatedAt": "2026-09-24T12:24:21.872Z",
+  "candidateCount": 40,
   "baseMatched": 12,
-  "matched": 16,
-  "addedMatches": 4,
-  "unavailable": [
-    "kinokuniya"
-  ],
+  "matched": 17,
+  "addedMatches": 5,
+  "unavailable": [],
   "snapshots": {
+    "kinokuniya": {
+      "id": "kinokuniya",
+      "label": "紀伊國屋書店",
+      "attribution": "紀伊國屋書店調べ",
+      "sourceUrl": "https://www.kinokuniya.co.jp/disp/CKnRankingPageCList.jsp?dispNo=107002001001&vTp=m",
+      "periodLabel": "マンスリー",
+      "updatedAt": "2026-09-24",
+      "live": true,
+      "items": [
+        {
+          "title": "パンどろぼうとさすらいラーメン",
+          "author": "",
+          "isbn": "",
+          "rank": 4
+        },
+        {
+          "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
+          "author": "",
+          "isbn": "",
+          "rank": 5
+        },
+        {
+          "title": "イン・ザ・メガチャーチ",
+          "author": "",
+          "isbn": "",
+          "rank": 11
+        },
+        {
+          "title": "ギャルにひかれて寺マルシェ",
+          "author": "",
+          "isbn": "",
+          "rank": 23
+        },
+        {
+          "title": "会社四季報業界地図 〈２０２７年版〉",
+          "author": "",
+          "isbn": "",
+          "rank": 29
+        }
+      ]
+    },
     "tohan": {
       "id": "tohan",
       "label": "トーハン",
@@ -27,6 +66,12 @@
           "author": "",
           "isbn": "",
           "rank": 2
+        },
+        {
+          "title": "ハヤブサ消防団 森へつづく道",
+          "author": "",
+          "isbn": "",
+          "rank": 4
         },
         {
           "title": "つかめ!理科ダマン 12 最強ロボット決戦!編",
@@ -51,42 +96,6 @@
           "author": "",
           "isbn": "",
           "rank": 12
-        }
-      ]
-    },
-    "kinokuniya": {
-      "id": "kinokuniya",
-      "label": "紀伊國屋書店",
-      "attribution": "紀伊國屋書店調べ",
-      "sourceUrl": "https://www.kinokuniya.co.jp/disp/CKnRankingPageCList.jsp?dispNo=107002001001&vTp=m",
-      "periodLabel": "マンスリー",
-      "updatedAt": "2026-09-24",
-      "live": true,
-      "items": [
-        {
-          "title": "パンどろぼうとさすらいラーメン",
-          "author": "",
-          "rank": 4
-        },
-        {
-          "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
-          "author": "",
-          "rank": 5
-        },
-        {
-          "title": "イン・ザ・メガチャーチ",
-          "author": "",
-          "rank": 11
-        },
-        {
-          "title": "ギャルにひかれて寺マルシェ",
-          "author": "",
-          "rank": 23
-        },
-        {
-          "title": "会社四季報業界地図 〈２０２７年版〉",
-          "author": "",
-          "rank": 29
         }
       ]
     }
@@ -187,6 +196,53 @@
       }
     },
     {
+      "id": "4820000903843",
+      "title": "ハヤブサ消防団　森へつづく道",
+      "author": "池井戸潤",
+      "publisher": "集英社",
+      "price": 2200,
+      "url": "https://books.rakuten.co.jp/rk/8b8de7f162953f1aa6c2fba789f5c5b5/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9371/2000021419371.jpg?_ex=600x600",
+      "caption": "【田園暮らしのミステリ作家vs美貌の歴史ミステリ作家】\nドラマ化＆柴田錬三郎賞受賞の大ヒットミステリ、待望のシリーズ新作登場！\nミステリ作家の三馬太郎が自然豊かな八百万町ハヤブサ地区に移り住んで数年。地元消防団の一員としても忙しい毎日を過ごすうち、とある文学賞にノミネート！　最大のライバル候補は、今をときめく美貌の歴史ミステリ作家・北原未南。だが、未南に不可解な疑惑が持ち上がる。\n一方、八百万町では、ある若い女性が我が子を残して川から水死体で発見されていた。事件の真相を探るうち、太郎は町を揺るがす巨大な疑惑に巻き込まれて……。\n【集英社創業100周年記念作品】\n■著者プロフィール：\n池井戸 潤（いけいど・じゅん）\n作家。1963年岐阜県生まれ。慶應義塾大学卒。98年『果つる底なき』で江戸川乱歩賞を受賞しデビュー。2010年『鉄の骨』で吉川英治文学新人賞、11年『下町ロケット』で直木賞、23年『ハヤブサ消防団』で柴田錬三郎賞を受賞。\n主な作品に「半沢直樹」シリーズ（『オレたちバブル入行組』『ロスジェネの逆襲』『アルルカンと道化師』ほか）、「下町ロケット」シリーズ（『ガウディ計画』『ヤタガラス』ほか）、『シャイロックの子供たち』『空飛ぶタイヤ』『民王』『七つの会議』『陸王』『ノーサイド・ゲーム』『花咲舞が黙ってない』『アキラとあきら』『俺たちの箱根駅伝』『ブティック』がある。\n",
+      "salesDate": "2026年08月05日",
+      "series": "ハヤブサ消防団",
+      "reviewAverage": 4.29,
+      "reviewCount": 49,
+      "genreId": "101901/101902",
+      "isbn": "4820000903843",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ハヤブサ消防団 森へつづく道",
+        "author": "",
+        "isbn": "",
+        "score": 176,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
+          }
+        ],
+        "source": "combined",
+        "rank": 8
+      },
+      "ranking": {
+        "title": "ハヤブサ消防団 森へつづく道",
+        "author": "",
+        "isbn": "",
+        "score": 176,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
+          }
+        ],
+        "source": "combined",
+        "rank": 3
+      }
+    },
+    {
       "id": "4390000014247",
       "title": "戦争犯罪と闘う　国際刑事裁判所は屈しない",
       "author": "赤根智子",
@@ -230,7 +286,7 @@
           }
         ],
         "source": "combined",
-        "rank": 3
+        "rank": 4
       }
     },
     {
@@ -262,7 +318,7 @@
           }
         ],
         "source": "combined",
-        "rank": 6
+        "rank": 10
       },
       "ranking": {
         "title": "つかめ!理科ダマン 12 最強ロボット決戦!編",
@@ -277,7 +333,7 @@
           }
         ],
         "source": "combined",
-        "rank": 4
+        "rank": 5
       }
     },
     {
@@ -309,7 +365,7 @@
           }
         ],
         "source": "combined",
-        "rank": 11
+        "rank": 17
       },
       "ranking": {
         "title": "地球の歩き方 スター･ウォーズ",
@@ -324,7 +380,7 @@
           }
         ],
         "source": "combined",
-        "rank": 5
+        "rank": 6
       }
     },
     {
@@ -356,7 +412,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12,
+        "rank": 19,
         "originalTitle": "キングダム magazine 2026"
       },
       "ranking": {
@@ -372,7 +428,7 @@
           }
         ],
         "source": "combined",
-        "rank": 6
+        "rank": 7
       }
     },
     {
@@ -424,7 +480,7 @@
           }
         ],
         "source": "combined",
-        "rank": 7
+        "rank": 8
       }
     },
     {
@@ -456,8 +512,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15,
-        "originalTitle": "FOR OVERSEAS"
+        "rank": 23
       },
       "ranking": {
         "title": "FOR OVERSEAS",
@@ -472,7 +527,7 @@
           }
         ],
         "source": "combined",
-        "rank": 8
+        "rank": 9
       }
     },
     {
@@ -519,7 +574,7 @@
           }
         ],
         "source": "combined",
-        "rank": 9
+        "rank": 10
       }
     },
     {
@@ -566,7 +621,7 @@
           }
         ],
         "source": "combined",
-        "rank": 10
+        "rank": 11
       }
     },
     {
@@ -612,7 +667,7 @@
           }
         ],
         "source": "combined",
-        "rank": 11,
+        "rank": 12,
         "originalTitle": ""
       }
     },
@@ -659,7 +714,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12,
+        "rank": 13,
         "originalTitle": ""
       }
     },
@@ -706,7 +761,7 @@
           }
         ],
         "source": "combined",
-        "rank": 13,
+        "rank": 14,
         "originalTitle": ""
       }
     },
@@ -753,7 +808,7 @@
           }
         ],
         "source": "combined",
-        "rank": 14,
+        "rank": 15,
         "originalTitle": ""
       }
     },
@@ -800,7 +855,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15,
+        "rank": 16,
         "originalTitle": ""
       }
     },
@@ -847,13 +902,14 @@
           }
         ],
         "source": "combined",
-        "rank": 16,
+        "rank": 17,
         "originalTitle": ""
       }
     }
   ],
   "byGenre": {
     "fiction": [
+      "4820000903843",
       "4660629612104",
       "4331000700320",
       "4320000867368",
@@ -862,6 +918,7 @@
       "4310000858457"
     ],
     "mystery": [
+      "4820000903843",
       "4320000865495",
       "4320000865494"
     ],
@@ -906,11 +963,11 @@
   },
   "genreStatus": {
     "fiction": {
-      "matched": 6,
+      "matched": 7,
       "complete": true
     },
     "mystery": {
-      "matched": 2,
+      "matched": 3,
       "complete": true
     },
     "sf": {

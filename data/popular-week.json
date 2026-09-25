@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-09-25T17:47:06.612Z",
-  "candidateCount": 76,
-  "baseMatched": 19,
-  "matched": 26,
-  "addedMatches": 7,
+  "updatedAt": "2026-09-25T22:03:18.131Z",
+  "candidateCount": 79,
+  "baseMatched": 21,
+  "matched": 29,
+  "addedMatches": 8,
   "unavailable": [
     "rakuten"
   ],
@@ -59,10 +59,10 @@
           "rank": 15
         },
         {
-          "title": "現代語古事記 第二版: (改訂版)",
-          "author": "竹田恒泰",
+          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 (幻冬舎新書 803)",
+          "author": "林真理子",
           "isbn": "",
-          "rank": 25
+          "rank": 20
         },
         {
           "title": "ゆるキャン△ １９ (まんがタイムKRコミックス)",
@@ -86,12 +86,6 @@
           "author": "伊坂幸太郎",
           "isbn": "",
           "rank": 3
-        },
-        {
-          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-          "author": "林真理子",
-          "isbn": "",
-          "rank": 4
         },
         {
           "title": "シャーロック・ホームズの凱旋",
@@ -176,12 +170,6 @@
       "live": true,
       "items": [
         {
-          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-          "author": "",
-          "isbn": "",
-          "rank": 3
-        },
-        {
           "title": "戦争犯罪と闘う 国際刑事裁判所は屈しない",
           "author": "",
           "isbn": "",
@@ -192,6 +180,12 @@
           "author": "",
           "isbn": "",
           "rank": 5
+        },
+        {
+          "title": "ゲッターズ飯田の五星三心占い2027 銀の鳳凰座",
+          "author": "",
+          "isbn": "",
+          "rank": 7
         },
         {
           "title": "ゲッターズ飯田の五星三心占い2027 銀の羅針盤座",
@@ -212,60 +206,101 @@
           "rank": 12
         }
       ]
+    },
+    "rakuten": {
+      "id": "rakuten",
+      "label": "楽天ブックス",
+      "attribution": "楽天ブックス",
+      "sourceUrl": "https://books.rakuten.co.jp/",
+      "periodLabel": "売れ筋順",
+      "updatedAt": "2026-09-25",
+      "live": true,
+      "items": [
+        {
+          "title": "ワールドトリガー 30",
+          "author": "葦原 大介",
+          "rank": 7
+        },
+        {
+          "title": "自分とか、ないから。　教養としての東洋哲学",
+          "author": "しんめいP",
+          "rank": 15
+        },
+        {
+          "title": "パンどろぼうとさすらいラーメン",
+          "author": "柴田　ケイコ",
+          "rank": 16
+        },
+        {
+          "title": "3秒でハッピーになる超名言100　20周年プレミアムカバー",
+          "author": "ひすいこたろう",
+          "rank": 27
+        }
+      ]
     }
   },
   "items": [
     {
-      "id": "4380000407898",
-      "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-      "author": "林真理子",
-      "publisher": "幻冬舎",
-      "price": 982,
-      "url": "https://books.rakuten.co.jp/rk/1e28fc1db6b83578b06b0919e0a52cd7/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0908/2000020490908.jpg?_ex=600x600",
-      "caption": "70代は頭も体もまだ大丈夫。\nそれなりに蓄えもできている。\nでもこれまでと全く同じことをしていたらダメ。\nできないことは諦め、楽しいことを大事にし、人生の新しいステージに立とう。\n同じ年代とばかりつるまず、ダイエットはしない。\n嫌われずに自慢話をするテクニック、お金にキレイな人と思われるおごり方ーー。\n72歳の人気作家が本音で語る「健康」「おしゃれ」「仕事」「お金」「人間関係」「趣味」。\n確実に近づく「その日」を見つめ、今の1分1秒を楽しんで生きるための、痛快・人生論。\n",
-      "salesDate": "2026年05月27日",
-      "series": "",
-      "reviewAverage": 3.53,
-      "reviewCount": 55,
-      "genreId": "101907010004/101909",
-      "isbn": "4380000407898",
+      "id": "4335396900320",
+      "title": "パンどろぼうとさすらいラーメン",
+      "author": "柴田　ケイコ",
+      "publisher": "KADOKAWA",
+      "price": 1650,
+      "url": "https://books.rakuten.co.jp/rk/ced96eda0a863fdeae0a78fb0bf25801/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2405/2000021682405.jpg?_ex=600x600",
+      "caption": "とっても寒い“ぶるぶるじま”にやってきたパンどろぼう。できたてのパンをふるまおうとパン作りをはじめますが、窯の扉をあけようとした、その瞬間・・・＼＼＼ボフーーーン／／／パンが作れずこまっているところへさっそうと現れたのは、いったい、誰ーーー？ほかほかのパンとあつあつのラーメンが織りなす、熱血ハートフルストーリー開幕！「パンどろぼう」シリーズ待望の第8弾！\n",
+      "salesDate": "2026年09月16日",
+      "series": "パンどろぼう",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101916",
+      "isbn": "4335396900320",
       "salesType": 0,
       "matchMeta": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-        "author": "林真理子",
-        "score": 192,
+        "title": "パンどろぼうとさすらいラーメン",
+        "author": "柴田　ケイコ",
+        "score": 202,
         "sources": [
           {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 4
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 16
           },
           {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 3
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 1
+          },
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 15
           }
         ],
         "source": "combined",
-        "rank": 2,
+        "rank": 1,
         "originalTitle": ""
       },
       "ranking": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-        "author": "林真理子",
+        "title": "パンどろぼうとさすらいラーメン",
+        "author": "柴田 ケイコ",
         "isbn": "",
-        "score": 353,
+        "score": 508,
         "sources": [
           {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 4
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 15
           },
           {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 3
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 1
+          },
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 16
           }
         ],
         "source": "combined",
@@ -291,23 +326,17 @@
       "matchMeta": {
         "title": "イン・ザ・メガチャーチ",
         "author": "",
-        "isbn": "",
-        "score": 346,
+        "score": 74,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
             "rank": 9
-          },
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 5
           }
         ],
         "source": "combined",
-        "rank": 4,
-        "originalTitle": "イン・ザ・メガチャーチ"
+        "rank": 43,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "イン・ザ・メガチャーチ",
@@ -328,63 +357,6 @@
         ],
         "source": "combined",
         "rank": 2
-      }
-    },
-    {
-      "id": "4335396900320",
-      "title": "パンどろぼうとさすらいラーメン",
-      "author": "柴田　ケイコ",
-      "publisher": "KADOKAWA",
-      "price": 1650,
-      "url": "https://books.rakuten.co.jp/rk/ced96eda0a863fdeae0a78fb0bf25801/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2405/2000021682405.jpg?_ex=600x600",
-      "caption": "とっても寒い“ぶるぶるじま”にやってきたパンどろぼう。できたてのパンをふるまおうとパン作りをはじめますが、窯の扉をあけようとした、その瞬間・・・＼＼＼ボフーーーン／／／パンが作れずこまっているところへさっそうと現れたのは、いったい、誰ーーー？ほかほかのパンとあつあつのラーメンが織りなす、熱血ハートフルストーリー開幕！「パンどろぼう」シリーズ待望の第8弾！\n",
-      "salesDate": "2026年09月16日",
-      "series": "パンどろぼう",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101916",
-      "isbn": "4335396900320",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "パンどろぼうとさすらいラーメン",
-        "author": "柴田 ケイコ",
-        "score": 156,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 1
-          },
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 15
-          }
-        ],
-        "source": "combined",
-        "rank": 3,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "パンどろぼうとさすらいラーメン",
-        "author": "柴田 ケイコ",
-        "isbn": "",
-        "score": 344,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 15
-          },
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 1
-          }
-        ],
-        "source": "combined",
-        "rank": 3
       }
     },
     {
@@ -415,7 +387,7 @@
           }
         ],
         "source": "combined",
-        "rank": 5,
+        "rank": 8,
         "originalTitle": ""
       },
       "ranking": {
@@ -431,7 +403,7 @@
           }
         ],
         "source": "combined",
-        "rank": 4
+        "rank": 3
       }
     },
     {
@@ -462,7 +434,7 @@
           }
         ],
         "source": "combined",
-        "rank": 9,
+        "rank": 13,
         "originalTitle": ""
       },
       "ranking": {
@@ -478,7 +450,7 @@
           }
         ],
         "source": "combined",
-        "rank": 5
+        "rank": 4
       }
     },
     {
@@ -509,7 +481,7 @@
           }
         ],
         "source": "combined",
-        "rank": 11,
+        "rank": 16,
         "originalTitle": "幽冥の岸 十二国記 (新潮文庫 お 37-66)"
       },
       "ranking": {
@@ -525,7 +497,7 @@
           }
         ],
         "source": "combined",
-        "rank": 6
+        "rank": 5
       }
     },
     {
@@ -572,7 +544,7 @@
           }
         ],
         "source": "combined",
-        "rank": 7
+        "rank": 6
       }
     },
     {
@@ -594,7 +566,8 @@
       "matchMeta": {
         "title": "シャーロック・ホームズの凱旋",
         "author": "森見登美彦",
-        "score": 90,
+        "isbn": "",
+        "score": 175,
         "sources": [
           {
             "source": "maruzen",
@@ -603,8 +576,8 @@
           }
         ],
         "source": "combined",
-        "rank": 15,
-        "originalTitle": ""
+        "rank": 16,
+        "originalTitle": "シャーロック・ホームズの凱旋"
       },
       "ranking": {
         "title": "シャーロック・ホームズの凱旋",
@@ -619,7 +592,7 @@
           }
         ],
         "source": "combined",
-        "rank": 8
+        "rank": 7
       }
     },
     {
@@ -650,7 +623,7 @@
           }
         ],
         "source": "combined",
-        "rank": 23,
+        "rank": 30,
         "originalTitle": ""
       },
       "ranking": {
@@ -666,7 +639,102 @@
           }
         ],
         "source": "combined",
+        "rank": 8
+      }
+    },
+    {
+      "id": "4972000167723",
+      "title": "ワールドトリガー 30",
+      "author": "葦原大介",
+      "publisher": "集英社",
+      "price": 594,
+      "url": "https://books.rakuten.co.jp/rk/4d8ae792b62e30719d6428c51d3199af/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8631/2000021668631.jpg?_ex=600x600",
+      "caption": "ジャンプコミックスDIGITAL「ワールドトリガー」30巻、10月2日配信スタート!!　※配信日は変更になることがあります。ご了承ください。\n",
+      "salesDate": "2026年10月02日",
+      "series": "ワールドトリガー",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904001007",
+      "isbn": "4972000167723",
+      "salesType": 1,
+      "matchMeta": {
+        "title": "ワールドトリガー 30",
+        "author": "葦原 大介",
+        "score": 82,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 7
+          }
+        ],
+        "source": "combined",
+        "rank": 32,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "ワールドトリガー 30",
+        "author": "葦原 大介",
+        "isbn": "",
+        "score": 173,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 7
+          }
+        ],
+        "source": "combined",
         "rank": 9
+      }
+    },
+    {
+      "id": "4910000924309",
+      "title": "ゲッターズ飯田の五星三心占い2027　銀の鳳凰座",
+      "author": "ゲッターズ飯田",
+      "publisher": "朝日新聞出版",
+      "price": 1430,
+      "url": "https://books.rakuten.co.jp/rk/984c3042d827365296c42cf4d0054c4b/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7064/2000021697064.jpg?_ex=600x600",
+      "caption": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。\n『ゲッターズ飯田の五星三心占い2027』\n＼＼全12タイプ☆大好評発売中！／／\n2027年、あなたはどんな1年に?\n恋も、仕事も、お金も、健康も。ーー365日の「開運」のヒントを、この1冊に詰め込みました。\n8万人以上を無償で占い、25年以上「開運」を極め続けた、\n「芸能界最強の占い師」ゲッターズ飯田。\n最新2027年版の「開運の手引き」が、ついに発売決定！\n＞＞開運するには「理由」があります。\n☆ まいにち10秒、365日読める運気＆開運アドバイス\n☆ どの本よりも「細かく」「詳しく」占える、圧倒的な情報量\n☆ 家族、恋人、友達、同僚、推し……じつは全員占えます\n＞＞さらに、これだけの人に選ばれ続けています。\n☆ 今年で、10年連続＼毎年／100万部！！\n☆ なんとなんと、シリーズ累計1500万部突破！！\n☆ そして、12秒に1冊売れてる！！（※1）\n＞＞ 開運の声が「とんでもない量」届いています！\n☆「人生の教科書！　というより参考書！！　一年通して毎日使えます！　スゴイ！」（50代／女性）\n☆「こんな一面が自分自身にあるのだと気付かされました。」（30代／女性）\n☆「不安な時や背中を押してもらいたい時に読んでます。」（20代／女性）\n☆「すごくわかりやすくて買って本当によかった。もっと早くから買ってみればよかったです。」（40代／男性）\n☆「開運のつぶやきが心に響きます。その言葉1つ1つがありがたいです。」（40代／女性）\n（2026年版の感想から一部を抜粋）\nなぜ、こんなに支持されているの……？？\nその秘密は、ぎっしり詰まった“中身”にあります。\n☆★『ゲッターズ飯田の五星三心占い2027』コンテンツ★☆\n＼今年もコレで開運チャージ！／\n◎2026年9月〜2027年12月の総合運／恋愛運／結婚運／仕事運／金運＆買い物運／美容＆健康運／家庭＆親子運\n◎2026年9月〜2027年12月まで毎月、毎日のアドバイスがぎっしり！「運気カレンダー」\n◎接し方のコツがわかる！　「2027年のあなた×全12タイプの相性」\n◎自分以外も超☆詳しく占える！「全120命数別 2027年はこんな年&開運アクション」\n◎いい運気をMAX活かす「運気のいい時期に心がけたい10か条」\n◎運気の落ち込みも怖くない！「裏の時期に心がけたい10か条」\n＼さらにさらに、今年はここが変わる！／\n【未来がまる見え】中身もデザインも、パワーアップして登場！ーー年と月の運気グラフが見やすくなった「ひと目でわかる！　2027年運気ナビ」、読み応えUPの「2027年の過ごし方で未来はこう変わる！」\n【リニューアル☆復活】編集部があなたのギモンに答えます！ーー「五星三心占いQ＆A」\n￣￣￣￣￣￣￣￣￣￣￣￣￣\nパッとひらいて　超☆開運！\n＿＿＿＿＿＿＿＿＿＿＿＿＿\n※1『ゲッターズ飯田の五星三心占い2026』発売5か月分の販売数より　朝日新聞出版調べ。\n※本書では1942年〜2027年生まれの方の「命数」を調べることができます。\n※電子版には紙の本にあるコンテンツの一部がつきません。\n",
+      "salesDate": "2026年09月11日",
+      "series": "ゲッターズ飯田の五星三心占い2027",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101909013",
+      "isbn": "4910000924309",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ゲッターズ飯田の五星三心占い2027 銀の鳳凰座",
+        "author": "",
+        "isbn": "",
+        "score": 173,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 7
+          }
+        ],
+        "source": "combined",
+        "rank": 25,
+        "originalTitle": "ゲッターズ飯田の五星三心占い2027 銀の鳳凰座"
+      },
+      "ranking": {
+        "title": "ゲッターズ飯田の五星三心占い2027 銀の鳳凰座",
+        "author": "",
+        "isbn": "",
+        "score": 173,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 7
+          }
+        ],
+        "source": "combined",
+        "rank": 10
       }
     },
     {
@@ -697,7 +765,7 @@
           }
         ],
         "source": "combined",
-        "rank": 29,
+        "rank": 38,
         "originalTitle": ""
       },
       "ranking": {
@@ -713,7 +781,7 @@
           }
         ],
         "source": "combined",
-        "rank": 10
+        "rank": 11
       }
     },
     {
@@ -745,7 +813,7 @@
           }
         ],
         "source": "combined",
-        "rank": 29
+        "rank": 30
       },
       "ranking": {
         "title": "ゲッターズ飯田の五星三心占い2027 銀の羅針盤座",
@@ -760,7 +828,7 @@
           }
         ],
         "source": "combined",
-        "rank": 11
+        "rank": 12
       }
     },
     {
@@ -791,7 +859,7 @@
           }
         ],
         "source": "combined",
-        "rank": 31,
+        "rank": 40,
         "originalTitle": ""
       },
       "ranking": {
@@ -807,7 +875,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12
+        "rank": 13
       }
     },
     {
@@ -838,7 +906,7 @@
           }
         ],
         "source": "combined",
-        "rank": 34,
+        "rank": 44,
         "originalTitle": ""
       },
       "ranking": {
@@ -854,7 +922,7 @@
           }
         ],
         "source": "combined",
-        "rank": 13
+        "rank": 14
       }
     },
     {
@@ -885,7 +953,7 @@
           }
         ],
         "source": "combined",
-        "rank": 35,
+        "rank": 45,
         "originalTitle": ""
       },
       "ranking": {
@@ -901,7 +969,7 @@
           }
         ],
         "source": "combined",
-        "rank": 14
+        "rank": 15
       }
     },
     {
@@ -933,7 +1001,7 @@
           }
         ],
         "source": "combined",
-        "rank": 35,
+        "rank": 36,
         "originalTitle": "ゲッターズ飯田の五星三心占い2027 銀のインディアン座"
       },
       "ranking": {
@@ -949,7 +1017,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15
+        "rank": 16
       }
     },
     {
@@ -980,7 +1048,7 @@
           }
         ],
         "source": "combined",
-        "rank": 39,
+        "rank": 51,
         "originalTitle": "在米５０年の弁護士が当事者として見た「内乱」のアメリカ - 自由と民主主義はいかに崩壊したか"
       },
       "ranking": {
@@ -996,7 +1064,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16
+        "rank": 17
       }
     },
     {
@@ -1027,7 +1095,7 @@
           }
         ],
         "source": "combined",
-        "rank": 40,
+        "rank": 52,
         "originalTitle": "黒執事(36) (Gファンタジーコミックス)"
       },
       "ranking": {
@@ -1043,7 +1111,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17
+        "rank": 18
       }
     },
     {
@@ -1074,7 +1142,7 @@
           }
         ],
         "source": "combined",
-        "rank": 41,
+        "rank": 54,
         "originalTitle": ""
       },
       "ranking": {
@@ -1090,7 +1158,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18
+        "rank": 19
       }
     },
     {
@@ -1122,7 +1190,7 @@
           }
         ],
         "source": "combined",
-        "rank": 41
+        "rank": 42
       },
       "ranking": {
         "title": "FOR OVERSEAS",
@@ -1137,7 +1205,7 @@
           }
         ],
         "source": "combined",
-        "rank": 19
+        "rank": 20
       }
     },
     {
@@ -1159,8 +1227,7 @@
       "matchMeta": {
         "title": "週刊ファミ通 2026年10月1・8日合併号 No.1964",
         "author": "週刊ファミ通編集部",
-        "isbn": "",
-        "score": 166,
+        "score": 54,
         "sources": [
           {
             "source": "amazon",
@@ -1169,7 +1236,8 @@
           }
         ],
         "source": "combined",
-        "rank": 44
+        "rank": 61,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "週刊ファミ通 2026年10月1・8日合併号 No.1964",
@@ -1184,7 +1252,54 @@
           }
         ],
         "source": "combined",
-        "rank": 20
+        "rank": 21
+      }
+    },
+    {
+      "id": "8910126773560",
+      "title": "自分とか、ないから。　教養としての東洋哲学",
+      "author": "しんめいP",
+      "publisher": "サンクチュアリ出版",
+      "price": 1650,
+      "url": "https://books.rakuten.co.jp/rk/3e7a28858e2234d6887364847e57ec0c/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2213/2000015032213.jpg?_ex=600x600",
+      "caption": "ぶっ飛んでいるのに、なぜか論理的。\n生きづらさがマシになる（かもしれない）\nそれが、東洋哲学。\n「自分が本当にやりたいことってなんだろう？」\n「そもそも、本当の自分ってなんだろう？」\nそんな全・自分迷子に贈る、衝撃の哲学本がここに誕生。\nすべての答えは、「東洋哲学」にあった！！\nnoteで話題になった\n『東洋哲学本50冊よんだら「本当の自分」とかどうでもよくなった話』待望の書籍化！\n本書の著者・しんめいPさんは、東大卒のニート。\n新卒で大手IT企業→地方で教育事業→フリーランス→お笑い芸人\nと、自分探しをし続けた結果、虚無感から「無職」に。\n５年間、布団に引きこもっていたが\n「東洋哲学」に出会い、衝撃を受ける。\nーーーーーーーーーーーー\n（以下、本文より）\n東洋哲学にふれていると、\n「ふとんに入ってるくらい、何の問題もない」と思えてくるのだ。\n人生は、ムズくない。本当はシンプル。\n難しくしているのは自分なのだ。\nそんなことを教えてくれる。\nそして、ふとんに入ったまま、この本を書くことになったのだ。\n東洋哲学は、とにかく楽になるための哲学だ。\n無職だろうが、離婚してようが、ふとんにいようが、\nめちゃくちゃ楽になれる、ヤバい哲学である。\nこの本では、そんな東洋哲学の哲学者７人を紹介しながら、\n彼らの哲学を知って、実際にぼくがどう楽になったかを語っていく。\nーーーーーーーーーーーー\n〜コンテンツ例〜\nブッダ「自分なんてない」\n龍樹「全部、空」\n老子「ありのままが最強」\n荘子「この世は夢」\n達磨「言葉はいらねえ」\n親鸞「他力本願でOK」\n空海「欲あってよし」\n哲学の本なのに、\nなぜかクスリと笑えて、不思議と心が楽になる。\n「自分探し」まさかの答えを、体感せよ。\n",
+      "salesDate": "2024年04月23日",
+      "series": "",
+      "reviewAverage": 4,
+      "reviewCount": 717,
+      "genreId": "101908008002/101905010",
+      "isbn": "8910126773560",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "自分とか、ないから。 教養としての東洋哲学",
+        "author": "しんめいP",
+        "score": 50,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 15
+          }
+        ],
+        "source": "combined",
+        "rank": 62,
+        "originalTitle": "自分とか、ないから。　教養としての東洋哲学"
+      },
+      "ranking": {
+        "title": "自分とか、ないから。　教養としての東洋哲学",
+        "author": "しんめいP",
+        "isbn": "",
+        "score": 165,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 15
+          }
+        ],
+        "source": "combined",
+        "rank": 22
       }
     },
     {
@@ -1216,7 +1331,7 @@
           }
         ],
         "source": "combined",
-        "rank": 55,
+        "rank": 57,
         "originalTitle": "おもうがたび"
       },
       "ranking": {
@@ -1232,54 +1347,54 @@
           }
         ],
         "source": "combined",
-        "rank": 21
+        "rank": 23
       }
     },
     {
-      "id": "9784059242475",
-      "title": "現代語古事記 第二版",
-      "author": "竹田恒泰",
-      "publisher": "Gakken",
-      "price": 1980,
-      "url": "https://books.rakuten.co.jp/rk/67d4b13f303831b2b17f3e6b6edd3de1/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3517/2000021713517.jpg?_ex=600x600",
-      "caption": "★シリーズ累計35万部突破！★\n★重版を重ね続けるベストセラーの「改訂版」！★\n★★★神々と古代人の躍動感が、生きた言葉でよみがえる！\n「古事記」全巻を完全現代語訳した、現代日本人必読の一冊★★★\n「信じられないほど読みやすい」\n「はじめてでも完読できた」\n「今までで最高の現代語訳」\n「何度も挫折していたけれど、本書は最後まで読めました！」\nとの賞賛の声が続々！\n著者は、明治天皇の玄孫にあたる竹田恒泰。\n著者からの「より読みやすくして届けたい」の声から始まった、\n改訂版プロジェクト。\n本書では訳文と解説を全面的に改訂し、著者の新たな解釈を反映。\nまた、註を欄外に移動するなどの新たなレイアウトで、より本文に没入しやすい形にしました。\nもちろん著者ならではの視点による渾身の解説つき。\n《はじめてでも「古事記」を完読できる本書の特徴》\n●読みやすさを最優先した【現代語訳】\n古い原文や、難しい現代語訳が多い中で、私たちが普段話す「話し言葉」で現代語訳。\n内容がすーっと入ってわかりやすい！\n●項目ごとにわかりやすい解説を挿入\n・現代語訳の文章→解説を段落ごとに入れているので、パートごとに理解しやすい。\n・和歌の部分は原文と訳文の両方を掲載。原文の韻律を味わいながら理解できる。\n・関連部分ごとに古代の氏族を説明。背景知識を身につければ古代の解像度がアップ。\n●神々と天皇の系図、関連の地図を掲載\n巻末には、「神統譜」「歴代天皇系図」ほか、\n神名・人名を中心とした約1500の「主要語句索引」つき。\n…でも、神名や人名はいちいち覚えなくても大丈夫です。（著者より）\n「今回のこのような改訂により、読みやすさを維持しながら完訳とし、また本文を整理したことで、初学者でも深く学びたい人でも使いやすい現代語訳になったのではないかと思う。多くの人が本書で『古事記』との縁を結んで頂けたら幸いである。（第二版発刊に寄せて より）」\n◆目次◆\n序にかえてーー今、なぜ『古事記』なのか\n第二版発刊に寄せて\n古事記 上つ巻\n古事記 中つ巻\n古事記 下つ巻\n序\n神統譜・歴代天皇系図・古代の近畿地方・古代の日本\n主要参考文献・解説目次・主要語句索引\n※シリーズ累計発行部数：2026年8月時点、Gakken調べ\n",
-      "salesDate": "2026年09月08日",
+      "id": "4380000407898",
+      "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+      "author": "林真理子",
+      "publisher": "幻冬舎",
+      "price": 982,
+      "url": "https://books.rakuten.co.jp/rk/1e28fc1db6b83578b06b0919e0a52cd7/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0908/2000020490908.jpg?_ex=600x600",
+      "caption": "70代は頭も体もまだ大丈夫。\nそれなりに蓄えもできている。\nでもこれまでと全く同じことをしていたらダメ。\nできないことは諦め、楽しいことを大事にし、人生の新しいステージに立とう。\n同じ年代とばかりつるまず、ダイエットはしない。\n嫌われずに自慢話をするテクニック、お金にキレイな人と思われるおごり方ーー。\n72歳の人気作家が本音で語る「健康」「おしゃれ」「仕事」「お金」「人間関係」「趣味」。\n確実に近づく「その日」を見つめ、今の1分1秒を楽しんで生きるための、痛快・人生論。\n",
+      "salesDate": "2026年05月27日",
       "series": "",
-      "reviewAverage": 5,
-      "reviewCount": 1,
-      "genreId": "101907005001",
-      "isbn": "9784059242475",
+      "reviewAverage": 3.53,
+      "reviewCount": 55,
+      "genreId": "101907010004/101909",
+      "isbn": "4380000407898",
       "salesType": 0,
       "matchMeta": {
-        "title": "現代語古事記 第二版: (改訂版)",
-        "author": "竹田恒泰",
-        "score": 10,
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "author": "林真理子",
+        "score": 30,
         "sources": [
           {
             "source": "amazon",
             "label": "Amazon",
-            "rank": 25
+            "rank": 20
           }
         ],
         "source": "combined",
-        "rank": 67,
-        "originalTitle": ""
+        "rank": 75,
+        "originalTitle": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 (幻冬舎新書 803)"
       },
       "ranking": {
-        "title": "現代語古事記 第二版: (改訂版)",
-        "author": "竹田恒泰",
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 (幻冬舎新書 803)",
+        "author": "林真理子",
         "isbn": "",
-        "score": 155,
+        "score": 160,
         "sources": [
           {
             "source": "amazon",
             "label": "Amazon",
-            "rank": 25
+            "rank": 20
           }
         ],
         "source": "combined",
-        "rank": 22
+        "rank": 24
       }
     },
     {
@@ -1301,7 +1416,8 @@
       "matchMeta": {
         "title": "ゆるキャン△ 19",
         "author": "あfろ",
-        "score": 6,
+        "isbn": "",
+        "score": 154,
         "sources": [
           {
             "source": "amazon",
@@ -1326,7 +1442,54 @@
           }
         ],
         "source": "combined",
-        "rank": 23
+        "rank": 25
+      }
+    },
+    {
+      "id": "4910000698148",
+      "title": "3秒でハッピーになる超名言100 20周年プレミアムカバー",
+      "author": "ひすいこたろう",
+      "publisher": "ディスカヴァー・トゥエンティワン",
+      "price": 1980,
+      "url": "https://books.rakuten.co.jp/rk/6eecfd9f44243ca68d5d741365ab854d/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4408/2000018284408.jpg?_ex=600x600",
+      "caption": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。\n◎祝・作家デビュー20周年！\nあのベストセラー名言集が、プレミアムカバーで再登場！\n限定スペシャル特典付き\nたった３秒で、心のモヤモヤがすーっと晴れる。\n「もう大丈夫」と思える言葉が、きっと見つかる。\n累計300万部を超えるベストセラー作家であり、YouTubeチャンネル登録者70万人を超える「幸せの翻訳家」、ひすいこたろう氏。\nその大人気作『3秒でハッピーになる超名言100』が、デビュー20周年を迎えた今、装いも新たに生まれ変わりました。\n日夜幸せをもたらす言葉を探求しつづけてきたひすい氏が、その集大成として、人生にずっと寄り添ってほしい珠玉の名言を厳選。ベートーヴェン、シュバイツァー、オスカー・ワイルド、トマス・ハクスリー、ゲーテ、高杉晋作、金子みすゞ、岡本太郎……古今東西の偉人、賢人たちの名言を、ひすい氏流のユーモアあふれる、やさしく心にしみる解説を添えてお届けします。\nあなたの毎日のお供に、そして大切な人への贈りものにも◎\n■20周年記念カバー限定スペシャル特典付き！\n今回は、ひすいこたろうデビュー２０周年を記念した特別仕様。\n限定オリジナルポストカードが付いてきます。\nさらに、本書内のＱＲコードから、オリジナルスマホ用壁紙をダウンロードできます。\n※限定オリジナルポストカードは、本書（プレミアムカバー）紙版の限定特典です。\n電子書籍版には含まれておりません。また予告なく終了する場合がございます。あらかじめご了承ください。\n※本書は2018年に弊社より刊行の『3秒でハッピーになる 超名言100』の限定カバー版です。\nカバー以外のコンテンツは同じですので、あらかじめご了承ください。\n",
+      "salesDate": "2025年08月22日",
+      "series": "3秒でハッピーになる超名言100 20周年プレミアムカバー",
+      "reviewAverage": 4,
+      "reviewCount": 4,
+      "genreId": "101905016001",
+      "isbn": "4910000698148",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "3秒でハッピーになる超名言100 20周年プレミアムカバー",
+        "author": "ひすいこたろう",
+        "score": 5,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 27
+          }
+        ],
+        "source": "combined",
+        "rank": 94,
+        "originalTitle": "3秒でハッピーになる超名言100　20周年プレミアムカバー"
+      },
+      "ranking": {
+        "title": "3秒でハッピーになる超名言100　20周年プレミアムカバー",
+        "author": "ひすいこたろう",
+        "isbn": "",
+        "score": 153,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 27
+          }
+        ],
+        "source": "combined",
+        "rank": 26
       }
     },
     {
@@ -1357,7 +1520,7 @@
           }
         ],
         "source": "combined",
-        "rank": 4,
+        "rank": 6,
         "originalTitle": ""
       },
       "ranking": {
@@ -1372,7 +1535,7 @@
           }
         ],
         "source": "combined",
-        "rank": 24,
+        "rank": 27,
         "originalTitle": ""
       }
     },
@@ -1404,7 +1567,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16,
+        "rank": 21,
         "originalTitle": ""
       },
       "ranking": {
@@ -1419,7 +1582,7 @@
           }
         ],
         "source": "combined",
-        "rank": 25,
+        "rank": 28,
         "originalTitle": ""
       }
     },
@@ -1451,7 +1614,7 @@
           }
         ],
         "source": "combined",
-        "rank": 36,
+        "rank": 46,
         "originalTitle": ""
       },
       "ranking": {
@@ -1466,7 +1629,7 @@
           }
         ],
         "source": "combined",
-        "rank": 26,
+        "rank": 29,
         "originalTitle": ""
       }
     }
@@ -1488,26 +1651,30 @@
       "4620000615076"
     ],
     "sf": [],
-    "business": [],
+    "business": [
+      "8910126773560",
+      "4910000698148"
+    ],
     "humanities": [
-      "4380000407898",
       "4390000014247",
       "4910000910142",
       "4390000016508",
-      "9784059242475"
+      "4380000407898"
     ],
     "nonfiction": [
       "4390000014247",
       "4910000910142"
     ],
     "science": [
+      "8910126773560",
       "6681311679960"
     ],
     "it": [],
     "life": [
-      "4380000407898",
+      "4910000924309",
       "4910000924303",
-      "4910000924301"
+      "4910000924301",
+      "4380000407898"
     ],
     "health": [],
     "hobby": [],
@@ -1525,6 +1692,7 @@
       "4380000407982"
     ],
     "comic": [
+      "4972000167723",
       "4310000937174",
       "7328131415919",
       "7225000908848"
@@ -1544,11 +1712,11 @@
       "complete": true
     },
     "business": {
-      "matched": 0,
+      "matched": 2,
       "complete": true
     },
     "humanities": {
-      "matched": 5,
+      "matched": 4,
       "complete": true
     },
     "nonfiction": {
@@ -1556,7 +1724,7 @@
       "complete": true
     },
     "science": {
-      "matched": 1,
+      "matched": 2,
       "complete": true
     },
     "it": {
@@ -1564,7 +1732,7 @@
       "complete": true
     },
     "life": {
-      "matched": 3,
+      "matched": 4,
       "complete": true
     },
     "health": {
@@ -1592,7 +1760,7 @@
       "complete": true
     },
     "comic": {
-      "matched": 3,
+      "matched": 4,
       "complete": true
     }
   }

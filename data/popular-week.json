@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-09-24T22:00:20.648Z",
+  "updatedAt": "2026-09-25T05:35:31.855Z",
   "candidateCount": 76,
-  "baseMatched": 22,
+  "baseMatched": 20,
   "matched": 27,
-  "addedMatches": 5,
+  "addedMatches": 7,
   "unavailable": [
     "rakuten"
   ],
@@ -59,12 +59,6 @@
           "rank": 15
         },
         {
-          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 (幻冬舎新書 803)",
-          "author": "林真理子",
-          "isbn": "",
-          "rank": 20
-        },
-        {
           "title": "現代語古事記 第二版: (改訂版)",
           "author": "竹田恒泰",
           "isbn": "",
@@ -92,6 +86,12 @@
           "author": "伊坂幸太郎",
           "isbn": "",
           "rank": 3
+        },
+        {
+          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+          "author": "林真理子",
+          "isbn": "",
+          "rank": 4
         },
         {
           "title": "シャーロック・ホームズの凱旋",
@@ -125,7 +125,7 @@
       "attribution": "紀伊國屋書店調べ",
       "sourceUrl": "https://www.kinokuniya.co.jp/disp/CKnRankingPageCList.jsp?dispNo=107002001001&vTp=w",
       "periodLabel": "ウィークリー",
-      "updatedAt": "2026-09-24",
+      "updatedAt": "2026-09-25",
       "live": true,
       "items": [
         {
@@ -144,7 +144,7 @@
           "title": "春までのセンセイ",
           "author": "",
           "isbn": "",
-          "rank": 6
+          "rank": 8
         },
         {
           "title": "イン・ザ・メガチャーチ",
@@ -159,10 +159,16 @@
           "rank": 11
         },
         {
-          "title": "アラームが鳴らないうちに",
+          "title": "なぜ日本が世界に必要なのか 文春新書",
           "author": "",
           "isbn": "",
-          "rank": 27
+          "rank": 12
+        },
+        {
+          "title": "おもうがたび",
+          "author": "",
+          "isbn": "",
+          "rank": 19
         }
       ]
     },
@@ -172,9 +178,15 @@
       "attribution": "トーハン調べ",
       "sourceUrl": "https://www.tohan.jp/bestsellers/2026_0915_weekly/",
       "periodLabel": "週間",
-      "updatedAt": "2026-09-24",
+      "updatedAt": "2026-09-25",
       "live": true,
       "items": [
+        {
+          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+          "author": "",
+          "isbn": "",
+          "rank": 3
+        },
         {
           "title": "イン･ザ･メガチャーチ",
           "author": "",
@@ -209,6 +221,63 @@
     }
   },
   "items": [
+    {
+      "id": "4380000407898",
+      "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+      "author": "林真理子",
+      "publisher": "幻冬舎",
+      "price": 982,
+      "url": "https://books.rakuten.co.jp/rk/1e28fc1db6b83578b06b0919e0a52cd7/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0908/2000020490908.jpg?_ex=600x600",
+      "caption": "70代は頭も体もまだ大丈夫。\nそれなりに蓄えもできている。\nでもこれまでと全く同じことをしていたらダメ。\nできないことは諦め、楽しいことを大事にし、人生の新しいステージに立とう。\n同じ年代とばかりつるまず、ダイエットはしない。\n嫌われずに自慢話をするテクニック、お金にキレイな人と思われるおごり方ーー。\n72歳の人気作家が本音で語る「健康」「おしゃれ」「仕事」「お金」「人間関係」「趣味」。\n確実に近づく「その日」を見つめ、今の1分1秒を楽しんで生きるための、痛快・人生論。\n",
+      "salesDate": "2026年05月27日",
+      "series": "",
+      "reviewAverage": 3.53,
+      "reviewCount": 55,
+      "genreId": "101907010004/101909",
+      "isbn": "4380000407898",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "author": "林真理子",
+        "score": 192,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 4
+          },
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 3
+          }
+        ],
+        "source": "combined",
+        "rank": 2,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "author": "林真理子",
+        "isbn": "",
+        "score": 353,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 4
+          },
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 3
+          }
+        ],
+        "source": "combined",
+        "rank": 1
+      }
+    },
     {
       "id": "4660629612104",
       "title": "イン・ザ・メガチャーチ",
@@ -258,7 +327,7 @@
           }
         ],
         "source": "combined",
-        "rank": 1
+        "rank": 2
       }
     },
     {
@@ -315,7 +384,7 @@
           }
         ],
         "source": "combined",
-        "rank": 2
+        "rank": 3
       }
     },
     {
@@ -362,7 +431,7 @@
           }
         ],
         "source": "combined",
-        "rank": 3
+        "rank": 4
       }
     },
     {
@@ -409,29 +478,30 @@
           }
         ],
         "source": "combined",
-        "rank": 4
+        "rank": 5
       }
     },
     {
-      "id": "4916475490001",
-      "title": "プレゼント",
-      "author": "若竹七海",
-      "publisher": "中央公論新社",
-      "price": 776,
-      "url": "https://books.rakuten.co.jp/rk/9fe631efeb0f3eb0a09ce80197395709/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1444/2000007701444.jpg?_ex=600x600",
-      "caption": "ルーム・クリーナー、電話相談、興信所。トラブルメイカーのフリーター・葉村晶と、娘に借りたピンクの子供用自転車で現場に駆けつける小林警部補。二人が巻き込まれたハードボイルドで悲しい八つの事件とはーー。間抜けだが悪気のない隣人たちがひき起こす騒動はいつも危険すぎる！\n",
-      "salesDate": "2019年08月30日",
-      "series": "プレゼント",
-      "reviewAverage": 3.52,
-      "reviewCount": 92,
-      "genreId": "101901/101902",
-      "isbn": "4916475490001",
+      "id": "4340008067051",
+      "title": "プレゼント（新潮文庫）",
+      "author": "伊坂幸太郎/江國香織/恩田陸/梨木香歩/町田そのこ/宮部みゆき/米澤穂信",
+      "publisher": "新潮社",
+      "price": 825,
+      "url": "https://books.rakuten.co.jp/rk/e8a60fd88eb63075a76e50e52cf98712/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8962/2000020598962.jpg?_ex=600x600",
+      "caption": "これはこれまで小説を愛してきてくれた人へ、そしてこれから小説の世界に一歩踏み出す人へ贈るプレゼント。何気なく読んだ物語が、ふと目にした一行が、意外な言葉ひとつが、人生を大きく変えるかもしれない。現代を代表する７人の作家が「夏」をテーマに書き下ろした、驚きと切なさ、怖さと美しさ、何よりとびきりの面白さを詰め込んだ奇跡の一冊。さぁ、あなたの人生に小説という選択肢を。\n",
+      "salesDate": "2026年06月24日",
+      "series": "",
+      "reviewAverage": 3.88,
+      "reviewCount": 367,
+      "genreId": "101901",
+      "isbn": "4340008067051",
       "salesType": 0,
       "matchMeta": {
         "title": "プレゼント",
         "author": "伊坂幸太郎",
-        "score": 98,
+        "isbn": "",
+        "score": 177,
         "sources": [
           {
             "source": "maruzen",
@@ -440,8 +510,8 @@
           }
         ],
         "source": "combined",
-        "rank": 9,
-        "originalTitle": ""
+        "rank": 11,
+        "originalTitle": "プレゼント"
       },
       "ranking": {
         "title": "プレゼント",
@@ -456,7 +526,7 @@
           }
         ],
         "source": "combined",
-        "rank": 5
+        "rank": 6
       }
     },
     {
@@ -503,7 +573,7 @@
           }
         ],
         "source": "combined",
-        "rank": 6
+        "rank": 7
       }
     },
     {
@@ -547,53 +617,6 @@
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
             "rank": 5
-          }
-        ],
-        "source": "combined",
-        "rank": 7
-      }
-    },
-    {
-      "id": "6681316776900",
-      "title": "春までのセンセイ",
-      "author": "早見和真",
-      "publisher": "双葉社",
-      "price": 1980,
-      "url": "https://books.rakuten.co.jp/rk/bc5b179ed95d38cca46c4b528e6eda25/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4600/2000021754600.jpg?_ex=600x600",
-      "caption": "先生は私に命がけの言葉をくれたーー\nひとりの教師と32人の生徒が向き合う“最後”の１年\n『ザ・ロイヤルファミリー』『アルプス席の母』を経て辿り着いた著者の新たなる代表作、誕生！\n東京都杉並区にある私立稜花女学院中学校。新年度に発表された3年E組の担任は、加賀美秀彦という中年の国語教師だった。最初は冴えないと思っていたけれど、先生の言葉はなぜだか心に響いてくる。それなのに夏休み直前、先生は病気で学校を辞めるというウワサが流れて・・・・・・。\nこれはクラス全員がバトンをつなぐ、一生に残る一年間の物語。\n「今日、この時点の、僕の代表作です」\nーー早見和真\n",
-      "salesDate": "2026年09月16日",
-      "series": "春までのセンセイ",
-      "reviewAverage": 3.5,
-      "reviewCount": 2,
-      "genreId": "101901",
-      "isbn": "6681316776900",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "春までのセンセイ",
-        "author": "",
-        "score": 86,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 6
-          }
-        ],
-        "source": "combined",
-        "rank": 21,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "春までのセンセイ",
-        "author": "",
-        "isbn": "",
-        "score": 174,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 6
           }
         ],
         "source": "combined",
@@ -744,6 +767,53 @@
       }
     },
     {
+      "id": "6681316776900",
+      "title": "春までのセンセイ",
+      "author": "早見和真",
+      "publisher": "双葉社",
+      "price": 1980,
+      "url": "https://books.rakuten.co.jp/rk/bc5b179ed95d38cca46c4b528e6eda25/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4600/2000021754600.jpg?_ex=600x600",
+      "caption": "先生は私に命がけの言葉をくれたーー\nひとりの教師と32人の生徒が向き合う“最後”の１年\n『ザ・ロイヤルファミリー』『アルプス席の母』を経て辿り着いた著者の新たなる代表作、誕生！\n東京都杉並区にある私立稜花女学院中学校。新年度に発表された3年E組の担任は、加賀美秀彦という中年の国語教師だった。最初は冴えないと思っていたけれど、先生の言葉はなぜだか心に響いてくる。それなのに夏休み直前、先生は病気で学校を辞めるというウワサが流れて・・・・・・。\nこれはクラス全員がバトンをつなぐ、一生に残る一年間の物語。\n「今日、この時点の、僕の代表作です」\nーー早見和真\n",
+      "salesDate": "2026年09月16日",
+      "series": "春までのセンセイ",
+      "reviewAverage": 3.5,
+      "reviewCount": 2,
+      "genreId": "101901",
+      "isbn": "6681316776900",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "春までのセンセイ",
+        "author": "",
+        "isbn": "",
+        "score": 172,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 28
+      },
+      "ranking": {
+        "title": "春までのセンセイ",
+        "author": "",
+        "isbn": "",
+        "score": 172,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 12
+      }
+    },
+    {
       "id": "4620000615075",
       "title": "ブラッディダイスの殺人　上",
       "author": "Ｍ Ｗ クレイヴン",
@@ -787,7 +857,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12
+        "rank": 13
       }
     },
     {
@@ -834,7 +904,7 @@
           }
         ],
         "source": "combined",
-        "rank": 13
+        "rank": 14
       }
     },
     {
@@ -856,8 +926,7 @@
       "matchMeta": {
         "title": "ブラッディダイスの殺人 下",
         "author": "M・W・クレイヴン",
-        "isbn": "",
-        "score": 170,
+        "score": 70,
         "sources": [
           {
             "source": "maruzen",
@@ -866,7 +935,8 @@
           }
         ],
         "source": "combined",
-        "rank": 33
+        "rank": 35,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "ブラッディダイスの殺人 下",
@@ -881,7 +951,7 @@
           }
         ],
         "source": "combined",
-        "rank": 14
+        "rank": 15
       }
     },
     {
@@ -928,7 +998,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15
+        "rank": 16
       }
     },
     {
@@ -975,7 +1045,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16
+        "rank": 17
       }
     },
     {
@@ -1022,7 +1092,54 @@
           }
         ],
         "source": "combined",
-        "rank": 17
+        "rank": 18
+      }
+    },
+    {
+      "id": "4390000016508",
+      "title": "なぜ日本が世界に必要なのか",
+      "author": "エマニュエル・トッド",
+      "publisher": "文藝春秋",
+      "price": 1100,
+      "url": "https://books.rakuten.co.jp/rk/d3380ef6b5d6352fb44783bb5e41c377/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5838/2000021745838.jpg?_ex=600x600",
+      "caption": "現代最高の知識人による唯一無二の日本論\n「自然人」らしさ、ユーモア、独自の言語が日本の強みだ！ーー現代最高の知識人による、最も今日的で画期的な「日本文明論＝地政学」。\n　世界の行く末は、第二次大戦の敗戦国である日独の選択にかかっている。対米追従を深めるドイツに対し、日本はどうするのか？\n　歴史的に「悪い選択」をしてきたドイツとは反対に、日本は「良い選択」をするだろうと歴史家として予測している。日本人の方がドイツ人よりもユーモアセンスがあるからだ。ユーモアセンスは、ドイツでは完全に破壊されてしまった。厳格なルター主義が、「人類の自然な能力」を根絶してしまったのだ。多くの戦争の原因となった「過剰な生真面目さ」がドイツを支配しているが、日本はそうではない。\n　日本には「この世の美しさと喜び」に幸せを感じる「自然人らしさ」が生き続けている。この点は、ドイツーー偉大な哲学者、物理学者、数学者を誇るが、硬直的で人間味に欠け、あまりに暗いドイツーーと大きく異なる。\n「自然人」はドイツでは死滅した。それゆえにこの国はナチズムを生みだしたが、日本には「自然な人間」「人間らしい人間」が今も存在している。だからこそ、日本人は戦争を拒否できると私は信じる。\n　もし日本がワシントンの圧力に抵抗するなら、その抵抗自体が世界の平和にもたらす利益は測り知れない。米国に対する日本の独立は「平和」に貢献するだろうーー「日本の対米自立」を世界が求めている。\n",
+      "salesDate": "2026年09月17日",
+      "series": "",
+      "reviewAverage": 0,
+      "reviewCount": 1,
+      "genreId": "101907009/101907005090",
+      "isbn": "4390000016508",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "なぜ日本が世界に必要なのか 文春新書",
+        "author": "",
+        "score": 62,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 12
+          }
+        ],
+        "source": "combined",
+        "rank": 41,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "なぜ日本が世界に必要なのか 文春新書",
+        "author": "",
+        "isbn": "",
+        "score": 168,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 12
+          }
+        ],
+        "source": "combined",
+        "rank": 19
       }
     },
     {
@@ -1070,7 +1187,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18
+        "rank": 20
       }
     },
     {
@@ -1117,54 +1234,54 @@
           }
         ],
         "source": "combined",
-        "rank": 19
+        "rank": 21
       }
     },
     {
-      "id": "4380000407898",
-      "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-      "author": "林真理子",
+      "id": "4380000407982",
+      "title": "おもうがたび",
+      "author": "宇賀なつみ",
       "publisher": "幻冬舎",
-      "price": 982,
-      "url": "https://books.rakuten.co.jp/rk/1e28fc1db6b83578b06b0919e0a52cd7/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0908/2000020490908.jpg?_ex=600x600",
-      "caption": "70代は頭も体もまだ大丈夫。\nそれなりに蓄えもできている。\nでもこれまでと全く同じことをしていたらダメ。\nできないことは諦め、楽しいことを大事にし、人生の新しいステージに立とう。\n同じ年代とばかりつるまず、ダイエットはしない。\n嫌われずに自慢話をするテクニック、お金にキレイな人と思われるおごり方ーー。\n72歳の人気作家が本音で語る「健康」「おしゃれ」「仕事」「お金」「人間関係」「趣味」。\n確実に近づく「その日」を見つめ、今の1分1秒を楽しんで生きるための、痛快・人生論。\n",
-      "salesDate": "2026年05月27日",
+      "price": 1881,
+      "url": "https://books.rakuten.co.jp/rk/ddb5b2415a9c3090a57ce24f75dc0a69/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7857/2000021557857.jpg?_ex=600x600",
+      "caption": "国外27か所、国内13か所。\n世界を歩きながら、自分自身と向き合い、誰かを“おもう”日々ーー。\n地球を舞台に旅した３年間を巡る40篇。\nアナウンサー・宇賀なつみ　第２弾 旅エッセイ！\nいよいよ人生、後半戦。\n面白くなるのは、きっとこれからだ。\n30代、仕事も私生活もフリーになって、旅にすべてを捧げた。\n私はどうして、こんなにも、旅せずにいられないのだろうーー。\n旅をするには、時間とお金と体力が必要です。\n10代の学生時代には、時間と体力は有り余っていましたが、とにかくお金がありませんでした。20代で社会人になり、ある程度お金を稼げるようになると、今度は極端に時間がなくなってしまいました。その後、30代で自分なりに大きな決断をして独立し、ありがたいことにお仕事をいただけている今こそが、旅に全てを捧げる絶好のタイミングだと考えたのです。\nフリーランスとして働いているので、スケジュールは全て自分次第。3週間働いて1週間休むことを目標に毎月連休を作り出し、美容院に行くような頻度で出国ゲートをくぐってきた私は、明らかに異常です。自分でも理解しています。でも、そうせずにはいられませんでした。\nその理由は、きっとこの本を読めばわかっていただけると思います。ーー旅のはじめにより、抜粋\n",
+      "salesDate": "2026年09月16日",
       "series": "",
-      "reviewAverage": 3.53,
-      "reviewCount": 55,
-      "genreId": "101907010004/101909",
-      "isbn": "4380000407898",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101901002/101915",
+      "isbn": "4380000407982",
       "salesType": 0,
       "matchMeta": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-        "author": "林真理子",
+        "title": "おもうがたび",
+        "author": "",
         "score": 30,
         "sources": [
           {
-            "source": "amazon",
-            "label": "Amazon",
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
             "rank": 20
           }
         ],
         "source": "combined",
-        "rank": 57,
-        "originalTitle": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 (幻冬舎新書 803)"
+        "rank": 56,
+        "originalTitle": ""
       },
       "ranking": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 (幻冬舎新書 803)",
-        "author": "林真理子",
+        "title": "おもうがたび",
+        "author": "",
         "isbn": "",
-        "score": 160,
+        "score": 161,
         "sources": [
           {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 20
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 19
           }
         ],
         "source": "combined",
-        "rank": 20
+        "rank": 22
       }
     },
     {
@@ -1186,7 +1303,8 @@
       "matchMeta": {
         "title": "現代語古事記 第二版: (改訂版)",
         "author": "竹田恒泰",
-        "score": 10,
+        "isbn": "",
+        "score": 155,
         "sources": [
           {
             "source": "amazon",
@@ -1195,8 +1313,7 @@
           }
         ],
         "source": "combined",
-        "rank": 67,
-        "originalTitle": ""
+        "rank": 65
       },
       "ranking": {
         "title": "現代語古事記 第二版: (改訂版)",
@@ -1211,7 +1328,7 @@
           }
         ],
         "source": "combined",
-        "rank": 21
+        "rank": 23
       }
     },
     {
@@ -1258,54 +1375,7 @@
           }
         ],
         "source": "combined",
-        "rank": 22
-      }
-    },
-    {
-      "id": "4704763143280",
-      "title": "アラームが鳴らないうちに",
-      "author": "川口俊和",
-      "publisher": "サンマーク出版",
-      "price": 1650,
-      "url": "https://books.rakuten.co.jp/rk/030271e9b7de3243adcead69000bc305/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2225/2000021532225.jpg?_ex=600x600",
-      "caption": "「このアラームが、\nあの日伝えられなかった言葉の\n代わりをしてくれるからーー」\n過去に戻れる喫茶店で\nコーヒーを淹れつづける主人公、数。\n不思議な力を持つ数の、\n忘れられない後悔とは？\n【シリーズの核心にせまる第７巻！】\nとある街の、とある喫茶店の\nとある座席には不思議な都市伝説があった\nその席に座ると、望んだ通りの時間に戻れるという\nただし、そこにはめんどくさい……\n非常にめんどくさいルールがあった\n一、過去に戻っても、この喫茶店を訪れたことのない者には会うことはできない\n二、過去に戻って、どんな努力をしても、現実は変わらない\n三、過去に戻れる席には先客がいる\n　　その席に座れるのは、その先客が席を立った時だけ\n四、過去に戻っても、席を立って移動することはできない\n五、過去に戻れるのは、コーヒーをカップに注いでから、\n　　そのコーヒーが冷めてしまうまでの間だけ\nこれだけのルールを聞いても、過去に戻りたいと訪れる客は後を絶たない\nそして、亡くなった者に会いに行こうとする客には、\nウエイトレスがあるものをカップに入れ、こう告げる\n「死んだ人に会いに行く人は、ついつい情に流されてしまい、制限時間があることを知っていても、\n別れを切り出すことができなくなります」\nこの物語は、そんな不思議な喫茶店で起こった、\nウエイトレスの想いと、客の後悔が交錯する心温まる四つの奇跡\n第一話「妻の写真を撮りに行く男の話」\n第二話「母親の介護に疲れた女の話」\n第三話「元気だった頃の母に会いに行く男の話」\n第四話「父にウエディングドレス姿を見せたかった娘の話」\nあの日に戻れたら、あなたは誰に会いに行きますか？\n",
-      "salesDate": "2026年09月17日",
-      "series": "コーヒーが冷めないうちに",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101901",
-      "isbn": "4704763143280",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "アラームが鳴らないうちに",
-        "author": "",
-        "score": 5,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 27
-          }
-        ],
-        "source": "combined",
-        "rank": 70,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "アラームが鳴らないうちに",
-        "author": "",
-        "isbn": "",
-        "score": 153,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 27
-          }
-        ],
-        "source": "combined",
-        "rank": 23
+        "rank": 24
       }
     },
     {
@@ -1348,53 +1418,6 @@
             "source": "tohan",
             "label": "トーハン",
             "rank": 1
-          }
-        ],
-        "source": "combined",
-        "rank": 24,
-        "originalTitle": ""
-      }
-    },
-    {
-      "id": "4310000890409",
-      "title": "楽園",
-      "author": "夕木春央",
-      "publisher": "講談社",
-      "price": 1980,
-      "url": "https://books.rakuten.co.jp/rk/1a1c684dcee83b98b4d0187187c813d0/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1651/2000021221651.jpg?_ex=600x600",
-      "caption": "殺人犯にならなければ脱出できない。\n『方舟』『十戒』の著者が仕掛ける“禁忌の驚き”\n亡き両親から不動産を譲り受けた康之は、失踪した賃借人・海原の遺留品整理の際に、群馬の山奥の謎の物件の存在を知る。そこは、切り立った岩壁に囲まれた、「楽園」と呼ばれる奇妙な場所だった。恋人の沙織と一緒にそこを訪ね、探索をはじめた康之たちは、すぐに六人の“住人”に拿捕された。脱出のための条件はーー\n「誰か一人を殺さなければならない」\n『方舟』\n第19回オリコン上半期”本”ランキング　文庫ランキングTOP10 第1位\n週刊文春ミステリーベスト10　第1位　（「週刊文春」2022年12月8日号）国内部門\nMRC大賞2022　第1位\n『方舟』＋『十戒』の累計発行部数が100万部突破。\nーー夕木春央が描く、極限のクローズド・サークル。\n",
-      "salesDate": "2026年07月22日",
-      "series": "楽園",
-      "reviewAverage": 4.18,
-      "reviewCount": 427,
-      "genreId": "101902",
-      "isbn": "4310000890409",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "楽園",
-        "author": "夕木春央",
-        "score": 94,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
-          }
-        ],
-        "source": "combined",
-        "rank": 12,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "楽園",
-        "author": "夕木春央",
-        "score": 94,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
           }
         ],
         "source": "combined",
@@ -1501,26 +1524,25 @@
     "fiction": [
       "4660629612104",
       "4340008067611",
-      "4916475490001",
+      "4340008067051",
       "4910000909001",
-      "6681316776900",
       "4390000005636",
-      "4704763143280",
+      "6681316776900",
+      "4380000407982",
       "4480000838415"
     ],
     "mystery": [
-      "4916475490001",
       "4390000005636",
       "4620000615075",
-      "4620000615076",
-      "4310000890409"
+      "4620000615076"
     ],
     "sf": [],
     "business": [],
     "humanities": [
+      "4380000407898",
       "4390000014247",
       "4910000910142",
-      "4380000407898",
+      "4390000016508",
       "9784059242475"
     ],
     "nonfiction": [
@@ -1532,10 +1554,10 @@
     ],
     "it": [],
     "life": [
+      "4380000407898",
       "4910000924309",
       "4910000924303",
-      "4910000924301",
-      "4380000407898"
+      "4910000924301"
     ],
     "health": [],
     "hobby": [],
@@ -1549,7 +1571,9 @@
       "4335396900320",
       "9784059243236"
     ],
-    "essay": [],
+    "essay": [
+      "4380000407982"
+    ],
     "comic": [
       "4310000862928",
       "7328131415919",
@@ -1562,7 +1586,7 @@
       "complete": true
     },
     "mystery": {
-      "matched": 5,
+      "matched": 3,
       "complete": true
     },
     "sf": {
@@ -1574,7 +1598,7 @@
       "complete": true
     },
     "humanities": {
-      "matched": 4,
+      "matched": 5,
       "complete": true
     },
     "nonfiction": {
@@ -1614,7 +1638,7 @@
       "complete": true
     },
     "essay": {
-      "matched": 0,
+      "matched": 1,
       "complete": true
     },
     "comic": {

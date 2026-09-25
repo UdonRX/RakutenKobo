@@ -4,7 +4,7 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "year",
-  "updatedAt": "2026-09-24T22:00:41.725Z",
+  "updatedAt": "2026-09-25T05:35:56.768Z",
   "candidateCount": 13,
   "baseMatched": 7,
   "matched": 8,
@@ -17,7 +17,7 @@
       "attribution": "トーハン調べ",
       "sourceUrl": "https://www.tohan.jp/bestsellers/2026_firsthalf_total/",
       "periodLabel": "年次",
-      "updatedAt": "2026-09-24",
+      "updatedAt": "2026-09-25",
       "live": true,
       "items": [
         {
@@ -430,8 +430,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12,
-        "originalTitle": "FOR OVERSEAS"
+        "rank": 12
       },
       "ranking": {
         "title": "FOR OVERSEAS",

@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-09-25T22:03:18.131Z",
-  "candidateCount": 79,
-  "baseMatched": 21,
-  "matched": 29,
-  "addedMatches": 8,
+  "updatedAt": "2026-09-26T05:45:04.000Z",
+  "candidateCount": 81,
+  "baseMatched": 28,
+  "matched": 35,
+  "addedMatches": 7,
   "unavailable": [
     "rakuten"
   ],
@@ -59,10 +59,10 @@
           "rank": 15
         },
         {
-          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 (幻冬舎新書 803)",
-          "author": "林真理子",
+          "title": "現代語古事記 第二版: (改訂版)",
+          "author": "竹田恒泰",
           "isbn": "",
-          "rank": 20
+          "rank": 25
         },
         {
           "title": "ゆるキャン△ １９ (まんがタイムKRコミックス)",
@@ -86,6 +86,12 @@
           "author": "伊坂幸太郎",
           "isbn": "",
           "rank": 3
+        },
+        {
+          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+          "author": "林真理子",
+          "isbn": "",
+          "rank": 4
         },
         {
           "title": "シャーロック・ホームズの凱旋",
@@ -119,7 +125,7 @@
       "attribution": "紀伊國屋書店調べ",
       "sourceUrl": "https://www.kinokuniya.co.jp/disp/CKnRankingPageCList.jsp?dispNo=107002001001&vTp=w",
       "periodLabel": "ウィークリー",
-      "updatedAt": "2026-09-25",
+      "updatedAt": "2026-09-26",
       "live": true,
       "items": [
         {
@@ -129,19 +135,25 @@
           "rank": 1
         },
         {
-          "title": "春までのセンセイ",
+          "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
           "author": "",
           "isbn": "",
-          "rank": 8
+          "rank": 5
         },
         {
-          "title": "イン・ザ・メガチャーチ",
+          "title": "在米５０年の弁護士が当事者として見た「内乱」のアメリカ - 自由と民主主義はいかに崩壊したか",
           "author": "",
           "isbn": "",
           "rank": 9
         },
         {
-          "title": "在米５０年の弁護士が当事者として見た「内乱」のアメリカ - 自由と民主主義はいかに崩壊したか",
+          "title": "イン・ザ・メガチャーチ",
+          "author": "",
+          "isbn": "",
+          "rank": 10
+        },
+        {
+          "title": "春までのセンセイ",
           "author": "",
           "isbn": "",
           "rank": 11
@@ -157,6 +169,18 @@
           "author": "",
           "isbn": "",
           "rank": 19
+        },
+        {
+          "title": "継体天皇 - 六世紀に現れた世襲王権の「始祖王」 中公新書",
+          "author": "",
+          "isbn": "",
+          "rank": 29
+        },
+        {
+          "title": "自分とか、ないから。 教養としての東洋哲学",
+          "author": "",
+          "isbn": "",
+          "rank": 30
         }
       ]
     },
@@ -166,14 +190,14 @@
       "attribution": "トーハン調べ",
       "sourceUrl": "https://www.tohan.jp/bestsellers/2026_0915_weekly/",
       "periodLabel": "週間",
-      "updatedAt": "2026-09-25",
+      "updatedAt": "2026-09-26",
       "live": true,
       "items": [
         {
-          "title": "戦争犯罪と闘う 国際刑事裁判所は屈しない",
+          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
           "author": "",
           "isbn": "",
-          "rank": 4
+          "rank": 3
         },
         {
           "title": "イン･ザ･メガチャーチ",
@@ -213,28 +237,38 @@
       "attribution": "楽天ブックス",
       "sourceUrl": "https://books.rakuten.co.jp/",
       "periodLabel": "売れ筋順",
-      "updatedAt": "2026-09-25",
+      "updatedAt": "2026-09-26",
       "live": true,
       "items": [
+        {
+          "title": "キングダム 81",
+          "author": "原 泰久",
+          "rank": 3
+        },
         {
           "title": "ワールドトリガー 30",
           "author": "葦原 大介",
           "rank": 7
         },
         {
-          "title": "自分とか、ないから。　教養としての東洋哲学",
-          "author": "しんめいP",
+          "title": "パンどろぼうとさすらいラーメン",
+          "author": "柴田　ケイコ",
           "rank": 15
         },
         {
-          "title": "パンどろぼうとさすらいラーメン",
-          "author": "柴田　ケイコ",
-          "rank": 16
+          "title": "太陽よりも眩しい星 15",
+          "author": "河原 和音",
+          "rank": 22
+        },
+        {
+          "title": "アルスラーン戦記（25）",
+          "author": "荒川 弘/田中 芳樹",
+          "rank": 25
         },
         {
           "title": "3秒でハッピーになる超名言100　20周年プレミアムカバー",
           "author": "ひすいこたろう",
-          "rank": 27
+          "rank": 28
         }
       ]
     }
@@ -259,12 +293,12 @@
       "matchMeta": {
         "title": "パンどろぼうとさすらいラーメン",
         "author": "柴田　ケイコ",
-        "score": 202,
+        "score": 206,
         "sources": [
           {
             "source": "rakuten",
             "label": "楽天ブックス",
-            "rank": 16
+            "rank": 15
           },
           {
             "source": "kinokuniya",
@@ -285,7 +319,7 @@
         "title": "パンどろぼうとさすらいラーメン",
         "author": "柴田 ケイコ",
         "isbn": "",
-        "score": 508,
+        "score": 509,
         "sources": [
           {
             "source": "amazon",
@@ -300,11 +334,68 @@
           {
             "source": "rakuten",
             "label": "楽天ブックス",
-            "rank": 16
+            "rank": 15
           }
         ],
         "source": "combined",
         "rank": 1
+      }
+    },
+    {
+      "id": "4380000407898",
+      "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+      "author": "林真理子",
+      "publisher": "幻冬舎",
+      "price": 982,
+      "url": "https://books.rakuten.co.jp/rk/1e28fc1db6b83578b06b0919e0a52cd7/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0908/2000020490908.jpg?_ex=600x600",
+      "caption": "70代は頭も体もまだ大丈夫。\nそれなりに蓄えもできている。\nでもこれまでと全く同じことをしていたらダメ。\nできないことは諦め、楽しいことを大事にし、人生の新しいステージに立とう。\n同じ年代とばかりつるまず、ダイエットはしない。\n嫌われずに自慢話をするテクニック、お金にキレイな人と思われるおごり方ーー。\n72歳の人気作家が本音で語る「健康」「おしゃれ」「仕事」「お金」「人間関係」「趣味」。\n確実に近づく「その日」を見つめ、今の1分1秒を楽しんで生きるための、痛快・人生論。\n",
+      "salesDate": "2026年05月27日",
+      "series": "",
+      "reviewAverage": 3.53,
+      "reviewCount": 55,
+      "genreId": "101907010004/101909",
+      "isbn": "4380000407898",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "author": "林真理子",
+        "score": 192,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 4
+          },
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 3
+          }
+        ],
+        "source": "combined",
+        "rank": 3,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "author": "林真理子",
+        "isbn": "",
+        "score": 353,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 4
+          },
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 3
+          }
+        ],
+        "source": "combined",
+        "rank": 2
       }
     },
     {
@@ -326,28 +417,28 @@
       "matchMeta": {
         "title": "イン・ザ・メガチャーチ",
         "author": "",
-        "score": 74,
+        "score": 70,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 9
+            "rank": 10
           }
         ],
         "source": "combined",
-        "rank": 43,
+        "rank": 48,
         "originalTitle": ""
       },
       "ranking": {
         "title": "イン・ザ・メガチャーチ",
         "author": "",
         "isbn": "",
-        "score": 346,
+        "score": 345,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 9
+            "rank": 10
           },
           {
             "source": "tohan",
@@ -356,7 +447,7 @@
           }
         ],
         "source": "combined",
-        "rank": 2
+        "rank": 3
       }
     },
     {
@@ -387,7 +478,7 @@
           }
         ],
         "source": "combined",
-        "rank": 8,
+        "rank": 7,
         "originalTitle": ""
       },
       "ranking": {
@@ -400,53 +491,6 @@
             "source": "amazon",
             "label": "Amazon",
             "rank": 1
-          }
-        ],
-        "source": "combined",
-        "rank": 3
-      }
-    },
-    {
-      "id": "4340008067051",
-      "title": "プレゼント（新潮文庫）",
-      "author": "伊坂幸太郎/江國香織/恩田陸/梨木香歩/町田そのこ/宮部みゆき/米澤穂信",
-      "publisher": "新潮社",
-      "price": 825,
-      "url": "https://books.rakuten.co.jp/rk/e8a60fd88eb63075a76e50e52cf98712/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8962/2000020598962.jpg?_ex=600x600",
-      "caption": "これはこれまで小説を愛してきてくれた人へ、そしてこれから小説の世界に一歩踏み出す人へ贈るプレゼント。何気なく読んだ物語が、ふと目にした一行が、意外な言葉ひとつが、人生を大きく変えるかもしれない。現代を代表する７人の作家が「夏」をテーマに書き下ろした、驚きと切なさ、怖さと美しさ、何よりとびきりの面白さを詰め込んだ奇跡の一冊。さぁ、あなたの人生に小説という選択肢を。\n",
-      "salesDate": "2026年06月24日",
-      "series": "",
-      "reviewAverage": 3.88,
-      "reviewCount": 367,
-      "genreId": "101901",
-      "isbn": "4340008067051",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "プレゼント",
-        "author": "伊坂幸太郎",
-        "score": 98,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 3
-          }
-        ],
-        "source": "combined",
-        "rank": 13,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "プレゼント",
-        "author": "伊坂幸太郎",
-        "isbn": "",
-        "score": 177,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 3
           }
         ],
         "source": "combined",
@@ -481,7 +525,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16,
+        "rank": 15,
         "originalTitle": "幽冥の岸 十二国記 (新潮文庫 お 37-66)"
       },
       "ranking": {
@@ -501,50 +545,97 @@
       }
     },
     {
-      "id": "4390000014247",
-      "title": "戦争犯罪と闘う　国際刑事裁判所は屈しない",
-      "author": "赤根智子",
-      "publisher": "文藝春秋",
-      "price": 1000,
-      "url": "https://books.rakuten.co.jp/rk/ed83c0d4161a37adb64937f2dc843815/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5761/2000017995761.jpg?_ex=600x600",
-      "caption": "二つの戦争、そして戦後国際秩序の行方は\nロシアによるウクライナ侵攻とイスラエルによるパレスチナへの非人道的な攻撃。目まぐるしく国際情勢が変化するなか、この二つの戦争に向き合い、プーチンとネタニヤフに逮捕状を出した国際刑事裁判所（ICC）。日本人として初めてそのトップに就任した著者は、ほどなくしてプーチンから逆指名手配を受けることにもなった。さらにはトランプ大統領の大統領令による経済制裁の脅威にさらされるなど、世界規模の戦争犯罪に向き合ってきた国際刑事裁判所はいま、存続の危機にある。\n第二次世界大戦後にホロコーストに向き合ったニュルンベルク裁判、日本の戦争責任を裁いた東京裁判。二つの軍事法廷裁判にルーツをもち、国際平和秩序を守ろうと奮闘してきた国際刑事裁判所とはいかなる機関か。二つの戦争という異例の事態にどう向き合ったのか。「世界の警察」アメリカが過去のものになりつつある戦後国際秩序の行方とはーー。\n「世界で起きていることが日本では起きないとは限らない」。「力による支配」がむき出しになりつつある今こそ「法の支配」による安全保障が必要だ。\n「ウクライナ戦争の勃発で完全に覚醒した」と語る赤根さんが、その奮闘を通じて未来への責任を語りかける。\n※本書電子書籍版は刊行後の国際情勢の変化を鑑み、２０２５年１０月に記述の一部を更新しました。\n",
-      "salesDate": "2025年06月20日",
-      "series": "",
-      "reviewAverage": 4.17,
-      "reviewCount": 39,
-      "genreId": "101907009/101907005003/101914",
-      "isbn": "4390000014247",
+      "id": "4916475490001",
+      "title": "プレゼント",
+      "author": "若竹七海",
+      "publisher": "中央公論新社",
+      "price": 776,
+      "url": "https://books.rakuten.co.jp/rk/9fe631efeb0f3eb0a09ce80197395709/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1444/2000007701444.jpg?_ex=600x600",
+      "caption": "ルーム・クリーナー、電話相談、興信所。トラブルメイカーのフリーター・葉村晶と、娘に借りたピンクの子供用自転車で現場に駆けつける小林警部補。二人が巻き込まれたハードボイルドで悲しい八つの事件とはーー。間抜けだが悪気のない隣人たちがひき起こす騒動はいつも危険すぎる！\n",
+      "salesDate": "2019年08月30日",
+      "series": "プレゼント",
+      "reviewAverage": 3.52,
+      "reviewCount": 92,
+      "genreId": "101901/101902",
+      "isbn": "4916475490001",
       "salesType": 0,
       "matchMeta": {
-        "title": "戦争犯罪と闘う 国際刑事裁判所は屈しない",
-        "author": "",
-        "isbn": "",
-        "score": 176,
+        "title": "プレゼント",
+        "author": "伊坂幸太郎",
+        "score": 98,
         "sources": [
           {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 3
           }
         ],
         "source": "combined",
-        "rank": 14
+        "rank": 12,
+        "originalTitle": ""
       },
       "ranking": {
-        "title": "戦争犯罪と闘う 国際刑事裁判所は屈しない",
-        "author": "",
+        "title": "プレゼント",
+        "author": "伊坂幸太郎",
         "isbn": "",
-        "score": 176,
+        "score": 177,
         "sources": [
           {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 3
           }
         ],
         "source": "combined",
         "rank": 6
+      }
+    },
+    {
+      "id": "4972000161524",
+      "title": "キングダム magazine 2026",
+      "author": "原泰久",
+      "publisher": "集英社",
+      "price": 1881,
+      "url": "https://books.rakuten.co.jp/rk/47fb09e2be1731b4a06b3f70f3466419/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2094/2000021122094.jpg?_ex=600x600",
+      "caption": "キングダム連載20周年を記念して、読むたびにアツくなる！　語りたくなる!!　キングダムを楽しみ尽くす一冊!!　読切『金剛』掲載。『キングダム』の原点、主人公・信が誕生した幻の読切を再掲。原泰久3大インタビュー。・20周年スペシャル単独インタビュー　・原泰久×松原利光（YJ連載『ガス灯野良犬探偵団』作画）×笠原真樹（ビッグコミックスピリッツ連載『夢なし先生の進路指導』） 師弟鼎談　・ちばてつや×原泰久特別対談。　大特集『キングダム』二十年の軌跡。様々な角度から連載20年を振り返る大特集。その他、映画、アニメ、ゲーム、キングダムの20年が凝縮された企画盛り沢山の240ページ。　※電子版には3大アプリゲーム特典コードはつきません。\n",
+      "salesDate": "2026年08月19日",
+      "series": "キングダム magazine 2026",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904002006",
+      "isbn": "4972000161524",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "キングダム 81",
+        "author": "原 泰久",
+        "score": 98,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 3
+          }
+        ],
+        "source": "combined",
+        "rank": 13,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "キングダム 81",
+        "author": "原 泰久",
+        "isbn": "",
+        "score": 177,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 3
+          }
+        ],
+        "source": "combined",
+        "rank": 7
       }
     },
     {
@@ -566,8 +657,7 @@
       "matchMeta": {
         "title": "シャーロック・ホームズの凱旋",
         "author": "森見登美彦",
-        "isbn": "",
-        "score": 175,
+        "score": 90,
         "sources": [
           {
             "source": "maruzen",
@@ -576,8 +666,8 @@
           }
         ],
         "source": "combined",
-        "rank": 16,
-        "originalTitle": "シャーロック・ホームズの凱旋"
+        "rank": 20,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "シャーロック・ホームズの凱旋",
@@ -592,7 +682,54 @@
           }
         ],
         "source": "combined",
-        "rank": 7
+        "rank": 8
+      }
+    },
+    {
+      "id": "4390000014247",
+      "title": "戦争犯罪と闘う　国際刑事裁判所は屈しない",
+      "author": "赤根智子",
+      "publisher": "文藝春秋",
+      "price": 1000,
+      "url": "https://books.rakuten.co.jp/rk/ed83c0d4161a37adb64937f2dc843815/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5761/2000017995761.jpg?_ex=600x600",
+      "caption": "二つの戦争、そして戦後国際秩序の行方は\nロシアによるウクライナ侵攻とイスラエルによるパレスチナへの非人道的な攻撃。目まぐるしく国際情勢が変化するなか、この二つの戦争に向き合い、プーチンとネタニヤフに逮捕状を出した国際刑事裁判所（ICC）。日本人として初めてそのトップに就任した著者は、ほどなくしてプーチンから逆指名手配を受けることにもなった。さらにはトランプ大統領の大統領令による経済制裁の脅威にさらされるなど、世界規模の戦争犯罪に向き合ってきた国際刑事裁判所はいま、存続の危機にある。\n第二次世界大戦後にホロコーストに向き合ったニュルンベルク裁判、日本の戦争責任を裁いた東京裁判。二つの軍事法廷裁判にルーツをもち、国際平和秩序を守ろうと奮闘してきた国際刑事裁判所とはいかなる機関か。二つの戦争という異例の事態にどう向き合ったのか。「世界の警察」アメリカが過去のものになりつつある戦後国際秩序の行方とはーー。\n「世界で起きていることが日本では起きないとは限らない」。「力による支配」がむき出しになりつつある今こそ「法の支配」による安全保障が必要だ。\n「ウクライナ戦争の勃発で完全に覚醒した」と語る赤根さんが、その奮闘を通じて未来への責任を語りかける。\n※本書電子書籍版は刊行後の国際情勢の変化を鑑み、２０２５年１０月に記述の一部を更新しました。\n",
+      "salesDate": "2025年06月20日",
+      "series": "",
+      "reviewAverage": 4.17,
+      "reviewCount": 39,
+      "genreId": "101907009/101907005003/101914",
+      "isbn": "4390000014247",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
+        "author": "",
+        "score": 90,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
+        "rank": 23,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
+        "author": "",
+        "isbn": "",
+        "score": 175,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
+        "rank": 9
       }
     },
     {
@@ -639,7 +776,7 @@
           }
         ],
         "source": "combined",
-        "rank": 8
+        "rank": 10
       }
     },
     {
@@ -686,7 +823,7 @@
           }
         ],
         "source": "combined",
-        "rank": 9
+        "rank": 11
       }
     },
     {
@@ -718,7 +855,7 @@
           }
         ],
         "source": "combined",
-        "rank": 25,
+        "rank": 26,
         "originalTitle": "ゲッターズ飯田の五星三心占い2027 銀の鳳凰座"
       },
       "ranking": {
@@ -734,54 +871,7 @@
           }
         ],
         "source": "combined",
-        "rank": 10
-      }
-    },
-    {
-      "id": "6681316776900",
-      "title": "春までのセンセイ",
-      "author": "早見和真",
-      "publisher": "双葉社",
-      "price": 1980,
-      "url": "https://books.rakuten.co.jp/rk/bc5b179ed95d38cca46c4b528e6eda25/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4600/2000021754600.jpg?_ex=600x600",
-      "caption": "先生は私に命がけの言葉をくれたーー\nひとりの教師と32人の生徒が向き合う“最後”の１年\n『ザ・ロイヤルファミリー』『アルプス席の母』を経て辿り着いた著者の新たなる代表作、誕生！\n東京都杉並区にある私立稜花女学院中学校。新年度に発表された3年E組の担任は、加賀美秀彦という中年の国語教師だった。最初は冴えないと思っていたけれど、先生の言葉はなぜだか心に響いてくる。それなのに夏休み直前、先生は病気で学校を辞めるというウワサが流れて・・・・・・。\nこれはクラス全員がバトンをつなぐ、一生に残る一年間の物語。\n「今日、この時点の、僕の代表作です」\nーー早見和真\n",
-      "salesDate": "2026年09月16日",
-      "series": "春までのセンセイ",
-      "reviewAverage": 3.5,
-      "reviewCount": 2,
-      "genreId": "101901",
-      "isbn": "6681316776900",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "春までのセンセイ",
-        "author": "",
-        "score": 78,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 38,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "春までのセンセイ",
-        "author": "",
-        "isbn": "",
-        "score": 172,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 11
+        "rank": 12
       }
     },
     {
@@ -813,7 +903,7 @@
           }
         ],
         "source": "combined",
-        "rank": 30
+        "rank": 31
       },
       "ranking": {
         "title": "ゲッターズ飯田の五星三心占い2027 銀の羅針盤座",
@@ -828,7 +918,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12
+        "rank": 13
       }
     },
     {
@@ -875,7 +965,54 @@
           }
         ],
         "source": "combined",
-        "rank": 13
+        "rank": 14
+      }
+    },
+    {
+      "id": "4910000910142",
+      "title": "在米50年の弁護士が当事者として見た「内乱」のアメリカ　自由と民主主義はいかに崩壊したか",
+      "author": "秋山武夫",
+      "publisher": "朝日新聞出版",
+      "price": 1650,
+      "url": "https://books.rakuten.co.jp/rk/cae1591004eb3d11924c3640a531fe50/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6886/2000021516886.jpg?_ex=600x600",
+      "caption": "なぜ大統領の意向一つで戦争ができるのか。なぜ「独裁」が許されてしまうのか。内戦前夜ともいわれる国内の分断の深さはーーアメリカ社会はここまで病んでいた！権力機構・法制度・市民生活の荒廃を、半世紀以上アメリカを内側から見てきた日本人弁護士がぜんぶ書く。\n",
+      "salesDate": "2026年08月20日",
+      "series": "在米50年の弁護士が当事者として見た「内乱」のアメリカ　自由と民主主義はいかに崩壊したか",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101907010/101907009/101907007/101914",
+      "isbn": "4910000910142",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "在米50年の弁護士が当事者として見た「内乱」のアメリカ - 自由と民主主義はいかに崩壊したか",
+        "author": "",
+        "score": 74,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 43,
+        "originalTitle": "在米５０年の弁護士が当事者として見た「内乱」のアメリカ - 自由と民主主義はいかに崩壊したか"
+      },
+      "ranking": {
+        "title": "在米５０年の弁護士が当事者として見た「内乱」のアメリカ - 自由と民主主義はいかに崩壊したか",
+        "author": "",
+        "isbn": "",
+        "score": 171,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 15
       }
     },
     {
@@ -922,7 +1059,7 @@
           }
         ],
         "source": "combined",
-        "rank": 14
+        "rank": 16
       }
     },
     {
@@ -969,7 +1106,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15
+        "rank": 17
       }
     },
     {
@@ -1001,8 +1138,7 @@
           }
         ],
         "source": "combined",
-        "rank": 36,
-        "originalTitle": "ゲッターズ飯田の五星三心占い2027 銀のインディアン座"
+        "rank": 37
       },
       "ranking": {
         "title": "ゲッターズ飯田の五星三心占い2027 銀のインディアン座",
@@ -1017,27 +1153,27 @@
           }
         ],
         "source": "combined",
-        "rank": 16
+        "rank": 18
       }
     },
     {
-      "id": "4910000910142",
-      "title": "在米50年の弁護士が当事者として見た「内乱」のアメリカ　自由と民主主義はいかに崩壊したか",
-      "author": "秋山武夫",
-      "publisher": "朝日新聞出版",
-      "price": 1650,
-      "url": "https://books.rakuten.co.jp/rk/cae1591004eb3d11924c3640a531fe50/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6886/2000021516886.jpg?_ex=600x600",
-      "caption": "なぜ大統領の意向一つで戦争ができるのか。なぜ「独裁」が許されてしまうのか。内戦前夜ともいわれる国内の分断の深さはーーアメリカ社会はここまで病んでいた！権力機構・法制度・市民生活の荒廃を、半世紀以上アメリカを内側から見てきた日本人弁護士がぜんぶ書く。\n",
-      "salesDate": "2026年08月20日",
-      "series": "在米50年の弁護士が当事者として見た「内乱」のアメリカ　自由と民主主義はいかに崩壊したか",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101907010/101907009/101907007/101914",
-      "isbn": "4910000910142",
+      "id": "6681316776900",
+      "title": "春までのセンセイ",
+      "author": "早見和真",
+      "publisher": "双葉社",
+      "price": 1980,
+      "url": "https://books.rakuten.co.jp/rk/bc5b179ed95d38cca46c4b528e6eda25/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4600/2000021754600.jpg?_ex=600x600",
+      "caption": "先生は私に命がけの言葉をくれたーー\nひとりの教師と32人の生徒が向き合う“最後”の１年\n『ザ・ロイヤルファミリー』『アルプス席の母』を経て辿り着いた著者の新たなる代表作、誕生！\n東京都杉並区にある私立稜花女学院中学校。新年度に発表された3年E組の担任は、加賀美秀彦という中年の国語教師だった。最初は冴えないと思っていたけれど、先生の言葉はなぜだか心に響いてくる。それなのに夏休み直前、先生は病気で学校を辞めるというウワサが流れて・・・・・・。\nこれはクラス全員がバトンをつなぐ、一生に残る一年間の物語。\n「今日、この時点の、僕の代表作です」\nーー早見和真\n",
+      "salesDate": "2026年09月16日",
+      "series": "春までのセンセイ",
+      "reviewAverage": 3.5,
+      "reviewCount": 2,
+      "genreId": "101901",
+      "isbn": "6681316776900",
       "salesType": 0,
       "matchMeta": {
-        "title": "在米50年の弁護士が当事者として見た「内乱」のアメリカ - 自由と民主主義はいかに崩壊したか",
+        "title": "春までのセンセイ",
         "author": "",
         "score": 66,
         "sources": [
@@ -1049,10 +1185,10 @@
         ],
         "source": "combined",
         "rank": 51,
-        "originalTitle": "在米５０年の弁護士が当事者として見た「内乱」のアメリカ - 自由と民主主義はいかに崩壊したか"
+        "originalTitle": ""
       },
       "ranking": {
-        "title": "在米５０年の弁護士が当事者として見た「内乱」のアメリカ - 自由と民主主義はいかに崩壊したか",
+        "title": "春までのセンセイ",
         "author": "",
         "isbn": "",
         "score": 169,
@@ -1064,7 +1200,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17
+        "rank": 19
       }
     },
     {
@@ -1111,7 +1247,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18
+        "rank": 20
       }
     },
     {
@@ -1158,7 +1294,7 @@
           }
         ],
         "source": "combined",
-        "rank": 19
+        "rank": 21
       }
     },
     {
@@ -1190,7 +1326,7 @@
           }
         ],
         "source": "combined",
-        "rank": 42
+        "rank": 43
       },
       "ranking": {
         "title": "FOR OVERSEAS",
@@ -1205,7 +1341,7 @@
           }
         ],
         "source": "combined",
-        "rank": 20
+        "rank": 22
       }
     },
     {
@@ -1252,54 +1388,7 @@
           }
         ],
         "source": "combined",
-        "rank": 21
-      }
-    },
-    {
-      "id": "8910126773560",
-      "title": "自分とか、ないから。　教養としての東洋哲学",
-      "author": "しんめいP",
-      "publisher": "サンクチュアリ出版",
-      "price": 1650,
-      "url": "https://books.rakuten.co.jp/rk/3e7a28858e2234d6887364847e57ec0c/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2213/2000015032213.jpg?_ex=600x600",
-      "caption": "ぶっ飛んでいるのに、なぜか論理的。\n生きづらさがマシになる（かもしれない）\nそれが、東洋哲学。\n「自分が本当にやりたいことってなんだろう？」\n「そもそも、本当の自分ってなんだろう？」\nそんな全・自分迷子に贈る、衝撃の哲学本がここに誕生。\nすべての答えは、「東洋哲学」にあった！！\nnoteで話題になった\n『東洋哲学本50冊よんだら「本当の自分」とかどうでもよくなった話』待望の書籍化！\n本書の著者・しんめいPさんは、東大卒のニート。\n新卒で大手IT企業→地方で教育事業→フリーランス→お笑い芸人\nと、自分探しをし続けた結果、虚無感から「無職」に。\n５年間、布団に引きこもっていたが\n「東洋哲学」に出会い、衝撃を受ける。\nーーーーーーーーーーーー\n（以下、本文より）\n東洋哲学にふれていると、\n「ふとんに入ってるくらい、何の問題もない」と思えてくるのだ。\n人生は、ムズくない。本当はシンプル。\n難しくしているのは自分なのだ。\nそんなことを教えてくれる。\nそして、ふとんに入ったまま、この本を書くことになったのだ。\n東洋哲学は、とにかく楽になるための哲学だ。\n無職だろうが、離婚してようが、ふとんにいようが、\nめちゃくちゃ楽になれる、ヤバい哲学である。\nこの本では、そんな東洋哲学の哲学者７人を紹介しながら、\n彼らの哲学を知って、実際にぼくがどう楽になったかを語っていく。\nーーーーーーーーーーーー\n〜コンテンツ例〜\nブッダ「自分なんてない」\n龍樹「全部、空」\n老子「ありのままが最強」\n荘子「この世は夢」\n達磨「言葉はいらねえ」\n親鸞「他力本願でOK」\n空海「欲あってよし」\n哲学の本なのに、\nなぜかクスリと笑えて、不思議と心が楽になる。\n「自分探し」まさかの答えを、体感せよ。\n",
-      "salesDate": "2024年04月23日",
-      "series": "",
-      "reviewAverage": 4,
-      "reviewCount": 717,
-      "genreId": "101908008002/101905010",
-      "isbn": "8910126773560",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "自分とか、ないから。 教養としての東洋哲学",
-        "author": "しんめいP",
-        "score": 50,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 15
-          }
-        ],
-        "source": "combined",
-        "rank": 62,
-        "originalTitle": "自分とか、ないから。　教養としての東洋哲学"
-      },
-      "ranking": {
-        "title": "自分とか、ないから。　教養としての東洋哲学",
-        "author": "しんめいP",
-        "isbn": "",
-        "score": 165,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 15
-          }
-        ],
-        "source": "combined",
-        "rank": 22
+        "rank": 23
       }
     },
     {
@@ -1321,8 +1410,7 @@
       "matchMeta": {
         "title": "おもうがたび",
         "author": "",
-        "isbn": "",
-        "score": 161,
+        "score": 34,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1331,8 +1419,8 @@
           }
         ],
         "source": "combined",
-        "rank": 57,
-        "originalTitle": "おもうがたび"
+        "rank": 71,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "おもうがたび",
@@ -1347,54 +1435,148 @@
           }
         ],
         "source": "combined",
-        "rank": 23
+        "rank": 24
       }
     },
     {
-      "id": "4380000407898",
-      "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-      "author": "林真理子",
-      "publisher": "幻冬舎",
-      "price": 982,
-      "url": "https://books.rakuten.co.jp/rk/1e28fc1db6b83578b06b0919e0a52cd7/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0908/2000020490908.jpg?_ex=600x600",
-      "caption": "70代は頭も体もまだ大丈夫。\nそれなりに蓄えもできている。\nでもこれまでと全く同じことをしていたらダメ。\nできないことは諦め、楽しいことを大事にし、人生の新しいステージに立とう。\n同じ年代とばかりつるまず、ダイエットはしない。\n嫌われずに自慢話をするテクニック、お金にキレイな人と思われるおごり方ーー。\n72歳の人気作家が本音で語る「健康」「おしゃれ」「仕事」「お金」「人間関係」「趣味」。\n確実に近づく「その日」を見つめ、今の1分1秒を楽しんで生きるための、痛快・人生論。\n",
-      "salesDate": "2026年05月27日",
-      "series": "",
-      "reviewAverage": 3.53,
-      "reviewCount": 55,
-      "genreId": "101907010004/101909",
-      "isbn": "4380000407898",
+      "id": "4972000164840",
+      "title": "太陽よりも眩しい星 15",
+      "author": "河原和音",
+      "publisher": "集英社",
+      "price": 572,
+      "url": "https://books.rakuten.co.jp/rk/cbf9c71dbba638c9a62b22c5720965d0/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5951/2000021425951.jpg?_ex=600x600",
+      "caption": "もし私とだめになったら神城も泣く？　平均より頑丈な女子・岩田朔英（いわたさえ）は、幼なじみの神城光輝（かみしろこうき）とお付き合い中　いよいよ高校3年生に進級し、受験を意識するふたりだが、なんとクラスが離れてしまう！　さらには転校生・阿波山という台風の目が現れ…!?\n",
+      "salesDate": "2026年09月25日",
+      "series": "太陽よりも眩しい星",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904011006",
+      "isbn": "4972000164840",
       "salesType": 0,
       "matchMeta": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-        "author": "林真理子",
-        "score": 30,
+        "title": "太陽よりも眩しい星 15",
+        "author": "河原 和音",
+        "score": 22,
         "sources": [
           {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 20
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 22
           }
         ],
         "source": "combined",
-        "rank": 75,
-        "originalTitle": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 (幻冬舎新書 803)"
+        "rank": 79,
+        "originalTitle": ""
       },
       "ranking": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 (幻冬舎新書 803)",
-        "author": "林真理子",
+        "title": "太陽よりも眩しい星 15",
+        "author": "河原 和音",
         "isbn": "",
-        "score": 160,
+        "score": 158,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 22
+          }
+        ],
+        "source": "combined",
+        "rank": 25
+      }
+    },
+    {
+      "id": "4310000937173",
+      "title": "アルスラーン戦記（２５）",
+      "author": "荒川弘/田中芳樹",
+      "publisher": "講談社",
+      "price": 594,
+      "url": "https://books.rakuten.co.jp/rk/60c6e7ac259932a28e91344c5af3439c/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9565/2000021879565.jpg?_ex=600x600",
+      "caption": "大陸公路の強国「パルス」の若き王子・アルスラーン。永遠と思われた国の栄華が終わりを告げた時、すべての運命が変わる！！　荒川 弘×田中芳樹の最強タッグで描く、世界最高の歴史ファンタジー、最新作！\n数多の贄を喰らい、血を啜る。蛇王、王都掌握へ。\n蛇王が操るアンドラゴラス王によって蹂躙された王都。王宮は封鎖され、蛇王討伐に動くアルスラーンと、宿敵カイ・ホスローの血を引くヒルメスに蛇王軍が襲いかかる！ 一方、閉ざされた「王の門」の外では、突入を試みる猛将・クバードが蛇王との死闘に挑む…！\n伝説に違わぬその邪力で王都を、仲間たちを血で染めていくーー。“ルクナバードが使えない”少年に蛇王を倒す術はあるのか…！？\n",
+      "salesDate": "2026年10月08日",
+      "series": "アルスラーン戦記",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904",
+      "isbn": "4310000937173",
+      "salesType": 1,
+      "matchMeta": {
+        "title": "アルスラーン戦記(25)",
+        "author": "荒川 弘/田中 芳樹",
+        "score": 10,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 25
+          }
+        ],
+        "source": "combined",
+        "rank": 88,
+        "originalTitle": "アルスラーン戦記（25）"
+      },
+      "ranking": {
+        "title": "アルスラーン戦記（25）",
+        "author": "荒川 弘/田中 芳樹",
+        "isbn": "",
+        "score": 155,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 25
+          }
+        ],
+        "source": "combined",
+        "rank": 26
+      }
+    },
+    {
+      "id": "9784059242475",
+      "title": "現代語古事記 第二版",
+      "author": "竹田恒泰",
+      "publisher": "Gakken",
+      "price": 1980,
+      "url": "https://books.rakuten.co.jp/rk/67d4b13f303831b2b17f3e6b6edd3de1/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3517/2000021713517.jpg?_ex=600x600",
+      "caption": "★シリーズ累計35万部突破！★\n★重版を重ね続けるベストセラーの「改訂版」！★\n★★★神々と古代人の躍動感が、生きた言葉でよみがえる！\n「古事記」全巻を完全現代語訳した、現代日本人必読の一冊★★★\n「信じられないほど読みやすい」\n「はじめてでも完読できた」\n「今までで最高の現代語訳」\n「何度も挫折していたけれど、本書は最後まで読めました！」\nとの賞賛の声が続々！\n著者は、明治天皇の玄孫にあたる竹田恒泰。\n著者からの「より読みやすくして届けたい」の声から始まった、\n改訂版プロジェクト。\n本書では訳文と解説を全面的に改訂し、著者の新たな解釈を反映。\nまた、註を欄外に移動するなどの新たなレイアウトで、より本文に没入しやすい形にしました。\nもちろん著者ならではの視点による渾身の解説つき。\n《はじめてでも「古事記」を完読できる本書の特徴》\n●読みやすさを最優先した【現代語訳】\n古い原文や、難しい現代語訳が多い中で、私たちが普段話す「話し言葉」で現代語訳。\n内容がすーっと入ってわかりやすい！\n●項目ごとにわかりやすい解説を挿入\n・現代語訳の文章→解説を段落ごとに入れているので、パートごとに理解しやすい。\n・和歌の部分は原文と訳文の両方を掲載。原文の韻律を味わいながら理解できる。\n・関連部分ごとに古代の氏族を説明。背景知識を身につければ古代の解像度がアップ。\n●神々と天皇の系図、関連の地図を掲載\n巻末には、「神統譜」「歴代天皇系図」ほか、\n神名・人名を中心とした約1500の「主要語句索引」つき。\n…でも、神名や人名はいちいち覚えなくても大丈夫です。（著者より）\n「今回のこのような改訂により、読みやすさを維持しながら完訳とし、また本文を整理したことで、初学者でも深く学びたい人でも使いやすい現代語訳になったのではないかと思う。多くの人が本書で『古事記』との縁を結んで頂けたら幸いである。（第二版発刊に寄せて より）」\n◆目次◆\n序にかえてーー今、なぜ『古事記』なのか\n第二版発刊に寄せて\n古事記 上つ巻\n古事記 中つ巻\n古事記 下つ巻\n序\n神統譜・歴代天皇系図・古代の近畿地方・古代の日本\n主要参考文献・解説目次・主要語句索引\n※シリーズ累計発行部数：2026年8月時点、Gakken調べ\n",
+      "salesDate": "2026年09月08日",
+      "series": "",
+      "reviewAverage": 5,
+      "reviewCount": 1,
+      "genreId": "101907005001",
+      "isbn": "9784059242475",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "現代語古事記 第二版: (改訂版)",
+        "author": "竹田恒泰",
+        "score": 10,
         "sources": [
           {
             "source": "amazon",
             "label": "Amazon",
-            "rank": 20
+            "rank": 25
           }
         ],
         "source": "combined",
-        "rank": 24
+        "rank": 90,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "現代語古事記 第二版: (改訂版)",
+        "author": "竹田恒泰",
+        "isbn": "",
+        "score": 155,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 25
+          }
+        ],
+        "source": "combined",
+        "rank": 27
       }
     },
     {
@@ -1414,7 +1596,7 @@
       "isbn": "7225000908848",
       "salesType": 1,
       "matchMeta": {
-        "title": "ゆるキャン△ 19",
+        "title": "ゆるキャン△ １９ (まんがタイムKRコミックス)",
         "author": "あfろ",
         "isbn": "",
         "score": 154,
@@ -1426,8 +1608,7 @@
           }
         ],
         "source": "combined",
-        "rank": 69,
-        "originalTitle": "ゆるキャン△ １９ (まんがタイムKRコミックス)"
+        "rank": 71
       },
       "ranking": {
         "title": "ゆるキャン△ １９ (まんがタイムKRコミックス)",
@@ -1442,7 +1623,7 @@
           }
         ],
         "source": "combined",
-        "rank": 25
+        "rank": 28
       }
     },
     {
@@ -1469,27 +1650,121 @@
           {
             "source": "rakuten",
             "label": "楽天ブックス",
-            "rank": 27
+            "rank": 28
           }
         ],
         "source": "combined",
-        "rank": 94,
+        "rank": 95,
         "originalTitle": "3秒でハッピーになる超名言100　20周年プレミアムカバー"
       },
       "ranking": {
         "title": "3秒でハッピーになる超名言100　20周年プレミアムカバー",
         "author": "ひすいこたろう",
         "isbn": "",
-        "score": 153,
+        "score": 152,
         "sources": [
           {
             "source": "rakuten",
             "label": "楽天ブックス",
-            "rank": 27
+            "rank": 28
           }
         ],
         "source": "combined",
-        "rank": 26
+        "rank": 29
+      }
+    },
+    {
+      "id": "4910000858569",
+      "title": "継体天皇　六世紀に現れた世襲王権の「始祖王」",
+      "author": "河内春人",
+      "publisher": "中央公論新社",
+      "price": 1100,
+      "url": "https://books.rakuten.co.jp/rk/8dca3b035aa03dc1aa48a1531b3d3f7a/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4846/2000020654846.jpg?_ex=600x600",
+      "caption": "５世紀以前、複数の王族集団から適格者が即位していた大王。だが６世紀初頭、北陸からヤマト王権の有力豪族の招聘によって、王権との血縁が不確かな継体天皇が即位する。彼はどのような背景を持ち、なぜ即位できたのか。あるいは新王朝だったのかーー。\n王位継承後、朝鮮半島の新羅、九州の国造磐井など敵対勢力と向き合い、反乱を収め権威を確立していく。血統重視の世襲による天皇家を創った「始祖王」継体天皇と、６世紀の倭の実態を描く。\n",
+      "salesDate": "2026年05月22日",
+      "series": "継体天皇　六世紀に現れた世襲王権の「始祖王」",
+      "reviewAverage": 3.82,
+      "reviewCount": 31,
+      "genreId": "101907009/101907005090/101907005001",
+      "isbn": "4910000858569",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "継体天皇 - 六世紀に現れた世襲王権の「始祖王」 中公新書",
+        "author": "",
+        "isbn": "",
+        "score": 151,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 29
+          }
+        ],
+        "source": "combined",
+        "rank": 79
+      },
+      "ranking": {
+        "title": "継体天皇 - 六世紀に現れた世襲王権の「始祖王」 中公新書",
+        "author": "",
+        "isbn": "",
+        "score": 151,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 29
+          }
+        ],
+        "source": "combined",
+        "rank": 30
+      }
+    },
+    {
+      "id": "8910126773560",
+      "title": "自分とか、ないから。　教養としての東洋哲学",
+      "author": "しんめいP",
+      "publisher": "サンクチュアリ出版",
+      "price": 1650,
+      "url": "https://books.rakuten.co.jp/rk/3e7a28858e2234d6887364847e57ec0c/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2213/2000015032213.jpg?_ex=600x600",
+      "caption": "ぶっ飛んでいるのに、なぜか論理的。\n生きづらさがマシになる（かもしれない）\nそれが、東洋哲学。\n「自分が本当にやりたいことってなんだろう？」\n「そもそも、本当の自分ってなんだろう？」\nそんな全・自分迷子に贈る、衝撃の哲学本がここに誕生。\nすべての答えは、「東洋哲学」にあった！！\nnoteで話題になった\n『東洋哲学本50冊よんだら「本当の自分」とかどうでもよくなった話』待望の書籍化！\n本書の著者・しんめいPさんは、東大卒のニート。\n新卒で大手IT企業→地方で教育事業→フリーランス→お笑い芸人\nと、自分探しをし続けた結果、虚無感から「無職」に。\n５年間、布団に引きこもっていたが\n「東洋哲学」に出会い、衝撃を受ける。\nーーーーーーーーーーーー\n（以下、本文より）\n東洋哲学にふれていると、\n「ふとんに入ってるくらい、何の問題もない」と思えてくるのだ。\n人生は、ムズくない。本当はシンプル。\n難しくしているのは自分なのだ。\nそんなことを教えてくれる。\nそして、ふとんに入ったまま、この本を書くことになったのだ。\n東洋哲学は、とにかく楽になるための哲学だ。\n無職だろうが、離婚してようが、ふとんにいようが、\nめちゃくちゃ楽になれる、ヤバい哲学である。\nこの本では、そんな東洋哲学の哲学者７人を紹介しながら、\n彼らの哲学を知って、実際にぼくがどう楽になったかを語っていく。\nーーーーーーーーーーーー\n〜コンテンツ例〜\nブッダ「自分なんてない」\n龍樹「全部、空」\n老子「ありのままが最強」\n荘子「この世は夢」\n達磨「言葉はいらねえ」\n親鸞「他力本願でOK」\n空海「欲あってよし」\n哲学の本なのに、\nなぜかクスリと笑えて、不思議と心が楽になる。\n「自分探し」まさかの答えを、体感せよ。\n",
+      "salesDate": "2024年04月23日",
+      "series": "",
+      "reviewAverage": 4,
+      "reviewCount": 717,
+      "genreId": "101908008002/101905010",
+      "isbn": "8910126773560",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "自分とか、ないから。 教養としての東洋哲学",
+        "author": "",
+        "isbn": "",
+        "score": 150,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 30
+          }
+        ],
+        "source": "combined",
+        "rank": 81
+      },
+      "ranking": {
+        "title": "自分とか、ないから。 教養としての東洋哲学",
+        "author": "",
+        "isbn": "",
+        "score": 150,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 30
+          }
+        ],
+        "source": "combined",
+        "rank": 31
       }
     },
     {
@@ -1520,7 +1795,7 @@
           }
         ],
         "source": "combined",
-        "rank": 6,
+        "rank": 5,
         "originalTitle": ""
       },
       "ranking": {
@@ -1535,7 +1810,54 @@
           }
         ],
         "source": "combined",
-        "rank": 27,
+        "rank": 32,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "4310000890409",
+      "title": "楽園",
+      "author": "夕木春央",
+      "publisher": "講談社",
+      "price": 1980,
+      "url": "https://books.rakuten.co.jp/rk/1a1c684dcee83b98b4d0187187c813d0/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1651/2000021221651.jpg?_ex=600x600",
+      "caption": "殺人犯にならなければ脱出できない。\n『方舟』『十戒』の著者が仕掛ける“禁忌の驚き”\n亡き両親から不動産を譲り受けた康之は、失踪した賃借人・海原の遺留品整理の際に、群馬の山奥の謎の物件の存在を知る。そこは、切り立った岩壁に囲まれた、「楽園」と呼ばれる奇妙な場所だった。恋人の沙織と一緒にそこを訪ね、探索をはじめた康之たちは、すぐに六人の“住人”に拿捕された。脱出のための条件はーー\n「誰か一人を殺さなければならない」\n『方舟』\n第19回オリコン上半期”本”ランキング　文庫ランキングTOP10 第1位\n週刊文春ミステリーベスト10　第1位　（「週刊文春」2022年12月8日号）国内部門\nMRC大賞2022　第1位\n『方舟』＋『十戒』の累計発行部数が100万部突破。\nーー夕木春央が描く、極限のクローズド・サークル。\n",
+      "salesDate": "2026年07月22日",
+      "series": "楽園",
+      "reviewAverage": 4.18,
+      "reviewCount": 427,
+      "genreId": "101902",
+      "isbn": "4310000890409",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "楽園",
+        "author": "夕木春央",
+        "score": 94,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
+          }
+        ],
+        "source": "combined",
+        "rank": 16,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "楽園",
+        "author": "夕木春央",
+        "score": 94,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
+          }
+        ],
+        "source": "combined",
+        "rank": 33,
         "originalTitle": ""
       }
     },
@@ -1582,7 +1904,7 @@
           }
         ],
         "source": "combined",
-        "rank": 28,
+        "rank": 34,
         "originalTitle": ""
       }
     },
@@ -1629,7 +1951,7 @@
           }
         ],
         "source": "combined",
-        "rank": 29,
+        "rank": 35,
         "originalTitle": ""
       }
     }
@@ -1637,8 +1959,8 @@
   "byGenre": {
     "fiction": [
       "4660629612104",
-      "4340008067051",
       "4340008067611",
+      "4916475490001",
       "4910000909001",
       "4390000005636",
       "6681316776900",
@@ -1646,20 +1968,24 @@
       "4480000838415"
     ],
     "mystery": [
+      "4916475490001",
       "4390000005636",
       "4620000615075",
-      "4620000615076"
+      "4620000615076",
+      "4310000890409"
     ],
     "sf": [],
     "business": [
-      "8910126773560",
-      "4910000698148"
+      "4910000698148",
+      "8910126773560"
     ],
     "humanities": [
+      "4380000407898",
       "4390000014247",
       "4910000910142",
       "4390000016508",
-      "4380000407898"
+      "9784059242475",
+      "4910000858569"
     ],
     "nonfiction": [
       "4390000014247",
@@ -1671,10 +1997,10 @@
     ],
     "it": [],
     "life": [
+      "4380000407898",
       "4910000924309",
       "4910000924303",
-      "4910000924301",
-      "4380000407898"
+      "4910000924301"
     ],
     "health": [],
     "hobby": [],
@@ -1692,9 +2018,12 @@
       "4380000407982"
     ],
     "comic": [
+      "4972000161524",
       "4972000167723",
       "4310000937174",
       "7328131415919",
+      "4972000164840",
+      "4310000937173",
       "7225000908848"
     ]
   },
@@ -1704,7 +2033,7 @@
       "complete": true
     },
     "mystery": {
-      "matched": 3,
+      "matched": 5,
       "complete": true
     },
     "sf": {
@@ -1716,7 +2045,7 @@
       "complete": true
     },
     "humanities": {
-      "matched": 4,
+      "matched": 6,
       "complete": true
     },
     "nonfiction": {
@@ -1760,7 +2089,7 @@
       "complete": true
     },
     "comic": {
-      "matched": 4,
+      "matched": 7,
       "complete": true
     }
   }

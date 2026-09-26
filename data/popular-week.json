@@ -4,10 +4,10 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-09-26T12:03:15.018Z",
-  "candidateCount": 81,
-  "baseMatched": 26,
-  "matched": 33,
+  "updatedAt": "2026-09-26T17:00:13.950Z",
+  "candidateCount": 76,
+  "baseMatched": 22,
+  "matched": 29,
   "addedMatches": 7,
   "unavailable": [
     "rakuten"
@@ -35,6 +35,12 @@
           "rank": 3
         },
         {
+          "title": "転生したらスライムだった件(33) (シリウスKC)",
+          "author": "川上 泰樹",
+          "isbn": "",
+          "rank": 9
+        },
+        {
           "title": "黒執事(36) (Gファンタジーコミックス)",
           "author": "枢やな",
           "isbn": "",
@@ -51,6 +57,12 @@
           "author": "柴田 ケイコ",
           "isbn": "",
           "rank": 15
+        },
+        {
+          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 (幻冬舎新書 803)",
+          "author": "林真理子",
+          "isbn": "",
+          "rank": 20
         },
         {
           "title": "現代語古事記 第二版: (改訂版)",
@@ -80,12 +92,6 @@
           "author": "伊坂幸太郎",
           "isbn": "",
           "rank": 3
-        },
-        {
-          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-          "author": "林真理子",
-          "isbn": "",
-          "rank": 4
         },
         {
           "title": "シャーロック・ホームズの凱旋",
@@ -188,12 +194,6 @@
       "live": true,
       "items": [
         {
-          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-          "author": "",
-          "isbn": "",
-          "rank": 3
-        },
-        {
           "title": "イン･ザ･メガチャーチ",
           "author": "",
           "isbn": "",
@@ -204,6 +204,12 @@
           "author": "",
           "isbn": "",
           "rank": 7
+        },
+        {
+          "title": "ゲッターズ飯田の五星三心占い2027 銀の羅針盤座",
+          "author": "",
+          "isbn": "",
+          "rank": 8
         },
         {
           "title": "ゲッターズ飯田の五星三心占い2027 銀のインディアン座",
@@ -218,174 +224,9 @@
           "rank": 12
         }
       ]
-    },
-    "rakuten": {
-      "id": "rakuten",
-      "label": "楽天ブックス",
-      "attribution": "楽天ブックス",
-      "sourceUrl": "https://books.rakuten.co.jp/",
-      "periodLabel": "売れ筋順",
-      "updatedAt": "2026-09-26",
-      "live": true,
-      "items": [
-        {
-          "title": "キングダム 81",
-          "author": "原 泰久",
-          "rank": 3
-        },
-        {
-          "title": "ワールドトリガー 30",
-          "author": "葦原 大介",
-          "rank": 7
-        },
-        {
-          "title": "転生したらスライムだった件（33）",
-          "author": "川上 泰樹/伏瀬/みっつばー",
-          "rank": 10
-        },
-        {
-          "title": "パンどろぼうとさすらいラーメン",
-          "author": "柴田　ケイコ",
-          "rank": 15
-        },
-        {
-          "title": "太陽よりも眩しい星 15",
-          "author": "河原 和音",
-          "rank": 22
-        },
-        {
-          "title": "ナガノのくまの本（1）　もぐらコロッケのうた",
-          "author": "ナガノ",
-          "rank": 27
-        }
-      ]
     }
   },
   "items": [
-    {
-      "id": "4335396900320",
-      "title": "パンどろぼうとさすらいラーメン",
-      "author": "柴田　ケイコ",
-      "publisher": "KADOKAWA",
-      "price": 1650,
-      "url": "https://books.rakuten.co.jp/rk/ced96eda0a863fdeae0a78fb0bf25801/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2405/2000021682405.jpg?_ex=600x600",
-      "caption": "とっても寒い“ぶるぶるじま”にやってきたパンどろぼう。できたてのパンをふるまおうとパン作りをはじめますが、窯の扉をあけようとした、その瞬間・・・＼＼＼ボフーーーン／／／パンが作れずこまっているところへさっそうと現れたのは、いったい、誰ーーー？ほかほかのパンとあつあつのラーメンが織りなす、熱血ハートフルストーリー開幕！「パンどろぼう」シリーズ待望の第8弾！\n",
-      "salesDate": "2026年09月16日",
-      "series": "パンどろぼう",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101916",
-      "isbn": "4335396900320",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "パンどろぼうとさすらいラーメン",
-        "author": "柴田　ケイコ",
-        "score": 206,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 15
-          },
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 1
-          },
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 15
-          }
-        ],
-        "source": "combined",
-        "rank": 1,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "パンどろぼうとさすらいラーメン",
-        "author": "柴田 ケイコ",
-        "isbn": "",
-        "score": 509,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 15
-          },
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 1
-          },
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 15
-          }
-        ],
-        "source": "combined",
-        "rank": 1
-      }
-    },
-    {
-      "id": "4380000407898",
-      "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-      "author": "林真理子",
-      "publisher": "幻冬舎",
-      "price": 982,
-      "url": "https://books.rakuten.co.jp/rk/1e28fc1db6b83578b06b0919e0a52cd7/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0908/2000020490908.jpg?_ex=600x600",
-      "caption": "70代は頭も体もまだ大丈夫。\nそれなりに蓄えもできている。\nでもこれまでと全く同じことをしていたらダメ。\nできないことは諦め、楽しいことを大事にし、人生の新しいステージに立とう。\n同じ年代とばかりつるまず、ダイエットはしない。\n嫌われずに自慢話をするテクニック、お金にキレイな人と思われるおごり方ーー。\n72歳の人気作家が本音で語る「健康」「おしゃれ」「仕事」「お金」「人間関係」「趣味」。\n確実に近づく「その日」を見つめ、今の1分1秒を楽しんで生きるための、痛快・人生論。\n",
-      "salesDate": "2026年05月27日",
-      "series": "",
-      "reviewAverage": 3.53,
-      "reviewCount": 55,
-      "genreId": "101907010004/101909",
-      "isbn": "4380000407898",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-        "author": "林真理子",
-        "score": 192,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 4
-          },
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 3
-          }
-        ],
-        "source": "combined",
-        "rank": 3,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-        "author": "林真理子",
-        "isbn": "",
-        "score": 353,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 4
-          },
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 3
-          }
-        ],
-        "source": "combined",
-        "rank": 2
-      }
-    },
     {
       "id": "4660629612104",
       "title": "イン・ザ・メガチャーチ",
@@ -414,7 +255,7 @@
           }
         ],
         "source": "combined",
-        "rank": 48,
+        "rank": 37,
         "originalTitle": ""
       },
       "ranking": {
@@ -435,7 +276,64 @@
           }
         ],
         "source": "combined",
-        "rank": 3
+        "rank": 1
+      }
+    },
+    {
+      "id": "4335396900320",
+      "title": "パンどろぼうとさすらいラーメン",
+      "author": "柴田　ケイコ",
+      "publisher": "KADOKAWA",
+      "price": 1650,
+      "url": "https://books.rakuten.co.jp/rk/ced96eda0a863fdeae0a78fb0bf25801/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2405/2000021682405.jpg?_ex=600x600",
+      "caption": "とっても寒い“ぶるぶるじま”にやってきたパンどろぼう。できたてのパンをふるまおうとパン作りをはじめますが、窯の扉をあけようとした、その瞬間・・・＼＼＼ボフーーーン／／／パンが作れずこまっているところへさっそうと現れたのは、いったい、誰ーーー？ほかほかのパンとあつあつのラーメンが織りなす、熱血ハートフルストーリー開幕！「パンどろぼう」シリーズ待望の第8弾！\n",
+      "salesDate": "2026年09月16日",
+      "series": "パンどろぼう",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101916",
+      "isbn": "4335396900320",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "パンどろぼうとさすらいラーメン",
+        "author": "柴田 ケイコ",
+        "score": 156,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 1
+          },
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 15
+          }
+        ],
+        "source": "combined",
+        "rank": 3,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "パンどろぼうとさすらいラーメン",
+        "author": "柴田 ケイコ",
+        "isbn": "",
+        "score": 344,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 15
+          },
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 1
+          }
+        ],
+        "source": "combined",
+        "rank": 2
       }
     },
     {
@@ -466,7 +364,7 @@
           }
         ],
         "source": "combined",
-        "rank": 8,
+        "rank": 5,
         "originalTitle": ""
       },
       "ranking": {
@@ -482,101 +380,54 @@
           }
         ],
         "source": "combined",
+        "rank": 3
+      }
+    },
+    {
+      "id": "4340008067051",
+      "title": "プレゼント（新潮文庫）",
+      "author": "伊坂幸太郎/江國香織/恩田陸/梨木香歩/町田そのこ/宮部みゆき/米澤穂信",
+      "publisher": "新潮社",
+      "price": 825,
+      "url": "https://books.rakuten.co.jp/rk/e8a60fd88eb63075a76e50e52cf98712/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8962/2000020598962.jpg?_ex=600x600",
+      "caption": "これはこれまで小説を愛してきてくれた人へ、そしてこれから小説の世界に一歩踏み出す人へ贈るプレゼント。何気なく読んだ物語が、ふと目にした一行が、意外な言葉ひとつが、人生を大きく変えるかもしれない。現代を代表する７人の作家が「夏」をテーマに書き下ろした、驚きと切なさ、怖さと美しさ、何よりとびきりの面白さを詰め込んだ奇跡の一冊。さぁ、あなたの人生に小説という選択肢を。\n",
+      "salesDate": "2026年06月24日",
+      "series": "",
+      "reviewAverage": 3.88,
+      "reviewCount": 367,
+      "genreId": "101901",
+      "isbn": "4340008067051",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "プレゼント",
+        "author": "伊坂幸太郎",
+        "score": 98,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 3
+          }
+        ],
+        "source": "combined",
+        "rank": 9,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "プレゼント",
+        "author": "伊坂幸太郎",
+        "isbn": "",
+        "score": 177,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 3
+          }
+        ],
+        "source": "combined",
         "rank": 4
-      }
-    },
-    {
-      "id": "4916475490001",
-      "title": "プレゼント",
-      "author": "若竹七海",
-      "publisher": "中央公論新社",
-      "price": 776,
-      "url": "https://books.rakuten.co.jp/rk/9fe631efeb0f3eb0a09ce80197395709/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1444/2000007701444.jpg?_ex=600x600",
-      "caption": "ルーム・クリーナー、電話相談、興信所。トラブルメイカーのフリーター・葉村晶と、娘に借りたピンクの子供用自転車で現場に駆けつける小林警部補。二人が巻き込まれたハードボイルドで悲しい八つの事件とはーー。間抜けだが悪気のない隣人たちがひき起こす騒動はいつも危険すぎる！\n",
-      "salesDate": "2019年08月30日",
-      "series": "プレゼント",
-      "reviewAverage": 3.52,
-      "reviewCount": 92,
-      "genreId": "101901/101902",
-      "isbn": "4916475490001",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "プレゼント",
-        "author": "伊坂幸太郎",
-        "score": 98,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 3
-          }
-        ],
-        "source": "combined",
-        "rank": 13,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "プレゼント",
-        "author": "伊坂幸太郎",
-        "isbn": "",
-        "score": 177,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 3
-          }
-        ],
-        "source": "combined",
-        "rank": 5
-      }
-    },
-    {
-      "id": "4972000161524",
-      "title": "キングダム magazine 2026",
-      "author": "原泰久",
-      "publisher": "集英社",
-      "price": 1881,
-      "url": "https://books.rakuten.co.jp/rk/47fb09e2be1731b4a06b3f70f3466419/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2094/2000021122094.jpg?_ex=600x600",
-      "caption": "キングダム連載20周年を記念して、読むたびにアツくなる！　語りたくなる!!　キングダムを楽しみ尽くす一冊!!　読切『金剛』掲載。『キングダム』の原点、主人公・信が誕生した幻の読切を再掲。原泰久3大インタビュー。・20周年スペシャル単独インタビュー　・原泰久×松原利光（YJ連載『ガス灯野良犬探偵団』作画）×笠原真樹（ビッグコミックスピリッツ連載『夢なし先生の進路指導』） 師弟鼎談　・ちばてつや×原泰久特別対談。　大特集『キングダム』二十年の軌跡。様々な角度から連載20年を振り返る大特集。その他、映画、アニメ、ゲーム、キングダムの20年が凝縮された企画盛り沢山の240ページ。　※電子版には3大アプリゲーム特典コードはつきません。\n",
-      "salesDate": "2026年08月19日",
-      "series": "キングダム magazine 2026",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904002006",
-      "isbn": "4972000161524",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "キングダム 81",
-        "author": "原 泰久",
-        "score": 98,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 3
-          }
-        ],
-        "source": "combined",
-        "rank": 14,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "キングダム 81",
-        "author": "原 泰久",
-        "isbn": "",
-        "score": 177,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 3
-          }
-        ],
-        "source": "combined",
-        "rank": 6
       }
     },
     {
@@ -596,10 +447,9 @@
       "isbn": "4340008067611",
       "salesType": 1,
       "matchMeta": {
-        "title": "幽冥の岸 十二国記 (新潮文庫 お 37-66)",
+        "title": "幽冥の岸 十二国記",
         "author": "小野不由美",
-        "isbn": "",
-        "score": 177,
+        "score": 98,
         "sources": [
           {
             "source": "amazon",
@@ -608,7 +458,8 @@
           }
         ],
         "source": "combined",
-        "rank": 10
+        "rank": 11,
+        "originalTitle": "幽冥の岸 十二国記 (新潮文庫 お 37-66)"
       },
       "ranking": {
         "title": "幽冥の岸 十二国記 (新潮文庫 お 37-66)",
@@ -623,7 +474,7 @@
           }
         ],
         "source": "combined",
-        "rank": 7
+        "rank": 5
       }
     },
     {
@@ -654,7 +505,7 @@
           }
         ],
         "source": "combined",
-        "rank": 20,
+        "rank": 15,
         "originalTitle": ""
       },
       "ranking": {
@@ -670,7 +521,7 @@
           }
         ],
         "source": "combined",
-        "rank": 8
+        "rank": 6
       }
     },
     {
@@ -701,7 +552,7 @@
           }
         ],
         "source": "combined",
-        "rank": 23,
+        "rank": 17,
         "originalTitle": ""
       },
       "ranking": {
@@ -717,7 +568,7 @@
           }
         ],
         "source": "combined",
-        "rank": 9
+        "rank": 7
       }
     },
     {
@@ -748,7 +599,7 @@
           }
         ],
         "source": "combined",
-        "rank": 30,
+        "rank": 23,
         "originalTitle": ""
       },
       "ranking": {
@@ -764,54 +615,7 @@
           }
         ],
         "source": "combined",
-        "rank": 10
-      }
-    },
-    {
-      "id": "4972000167723",
-      "title": "ワールドトリガー 30",
-      "author": "葦原大介",
-      "publisher": "集英社",
-      "price": 594,
-      "url": "https://books.rakuten.co.jp/rk/4d8ae792b62e30719d6428c51d3199af/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8631/2000021668631.jpg?_ex=600x600",
-      "caption": "ジャンプコミックスDIGITAL「ワールドトリガー」30巻、10月2日配信スタート!!　※配信日は変更になることがあります。ご了承ください。\n",
-      "salesDate": "2026年10月02日",
-      "series": "ワールドトリガー",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904001007",
-      "isbn": "4972000167723",
-      "salesType": 1,
-      "matchMeta": {
-        "title": "ワールドトリガー 30",
-        "author": "葦原 大介",
-        "score": 82,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 7
-          }
-        ],
-        "source": "combined",
-        "rank": 32,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "ワールドトリガー 30",
-        "author": "葦原 大介",
-        "isbn": "",
-        "score": 173,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 7
-          }
-        ],
-        "source": "combined",
-        "rank": 11
+        "rank": 8
       }
     },
     {
@@ -843,7 +647,7 @@
           }
         ],
         "source": "combined",
-        "rank": 26
+        "rank": 25
       },
       "ranking": {
         "title": "ゲッターズ飯田の五星三心占い2027 銀の鳳凰座",
@@ -858,54 +662,55 @@
           }
         ],
         "source": "combined",
-        "rank": 12
+        "rank": 9
       }
     },
     {
-      "id": "4910000910142",
-      "title": "在米50年の弁護士が当事者として見た「内乱」のアメリカ　自由と民主主義はいかに崩壊したか",
-      "author": "秋山武夫",
+      "id": "4910000924303",
+      "title": "ゲッターズ飯田の五星三心占い2027　銀の羅針盤座",
+      "author": "ゲッターズ飯田",
       "publisher": "朝日新聞出版",
-      "price": 1650,
-      "url": "https://books.rakuten.co.jp/rk/cae1591004eb3d11924c3640a531fe50/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6886/2000021516886.jpg?_ex=600x600",
-      "caption": "なぜ大統領の意向一つで戦争ができるのか。なぜ「独裁」が許されてしまうのか。内戦前夜ともいわれる国内の分断の深さはーーアメリカ社会はここまで病んでいた！権力機構・法制度・市民生活の荒廃を、半世紀以上アメリカを内側から見てきた日本人弁護士がぜんぶ書く。\n",
-      "salesDate": "2026年08月20日",
-      "series": "在米50年の弁護士が当事者として見た「内乱」のアメリカ　自由と民主主義はいかに崩壊したか",
+      "price": 1430,
+      "url": "https://books.rakuten.co.jp/rk/38d8c5f32d0738a297c10937ec374bea/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5846/2000021695846.jpg?_ex=600x600",
+      "caption": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。\n『ゲッターズ飯田の五星三心占い2027』\n＼＼全12タイプ☆大好評発売中！／／\n2027年、あなたはどんな1年に?\n恋も、仕事も、お金も、健康も。ーー365日の「開運」のヒントを、この1冊に詰め込みました。\n8万人以上を無償で占い、25年以上「開運」を極め続けた、\n「芸能界最強の占い師」ゲッターズ飯田。\n最新2027年版の「開運の手引き」が、ついに発売決定！\n＞＞開運するには「理由」があります。\n☆ まいにち10秒、365日読める運気＆開運アドバイス\n☆ どの本よりも「細かく」「詳しく」占える、圧倒的な情報量\n☆ 家族、恋人、友達、同僚、推し……じつは全員占えます\n＞＞さらに、これだけの人に選ばれ続けています。\n☆ 今年で、10年連続＼毎年／100万部！！\n☆ なんとなんと、シリーズ累計1500万部突破！！\n☆ そして、12秒に1冊売れてる！！（※1）\n＞＞ 開運の声が「とんでもない量」届いています！\n☆「人生の教科書！　というより参考書！！　一年通して毎日使えます！　スゴイ！」（50代／女性）\n☆「こんな一面が自分自身にあるのだと気付かされました。」（30代／女性）\n☆「不安な時や背中を押してもらいたい時に読んでます。」（20代／女性）\n☆「すごくわかりやすくて買って本当によかった。もっと早くから買ってみればよかったです。」（40代／男性）\n☆「開運のつぶやきが心に響きます。その言葉1つ1つがありがたいです。」（40代／女性）\n（2026年版の感想から一部を抜粋）\nなぜ、こんなに支持されているの……？？\nその秘密は、ぎっしり詰まった“中身”にあります。\n☆★『ゲッターズ飯田の五星三心占い2027』コンテンツ★☆\n＼今年もコレで開運チャージ！／\n◎2026年9月〜2027年12月の総合運／恋愛運／結婚運／仕事運／金運＆買い物運／美容＆健康運／家庭＆親子運\n◎2026年9月〜2027年12月まで毎月、毎日のアドバイスがぎっしり！「運気カレンダー」\n◎接し方のコツがわかる！　「2027年のあなた×全12タイプの相性」\n◎自分以外も超☆詳しく占える！「全120命数別 2027年はこんな年&開運アクション」\n◎いい運気をMAX活かす「運気のいい時期に心がけたい10か条」\n◎運気の落ち込みも怖くない！「裏の時期に心がけたい10か条」\n＼さらにさらに、今年はここが変わる！／\n【未来がまる見え】中身もデザインも、パワーアップして登場！ーー年と月の運気グラフが見やすくなった「ひと目でわかる！　2027年運気ナビ」、読み応えUPの「2027年の過ごし方で未来はこう変わる！」\n【リニューアル☆復活】編集部があなたのギモンに答えます！ーー「五星三心占いQ＆A」\n￣￣￣￣￣￣￣￣￣￣￣￣￣\nパッとひらいて　超☆開運！\n＿＿＿＿＿＿＿＿＿＿＿＿＿\n※1『ゲッターズ飯田の五星三心占い2026』発売5か月分の販売数より　朝日新聞出版調べ。\n※本書では1942年〜2027年生まれの方の「命数」を調べることができます。\n※電子版には紙の本にあるコンテンツの一部がつきません。\n",
+      "salesDate": "2026年09月11日",
+      "series": "ゲッターズ飯田の五星三心占い2027",
       "reviewAverage": 0,
       "reviewCount": 0,
-      "genreId": "101907010/101907009/101907007/101914",
-      "isbn": "4910000910142",
+      "genreId": "101909013",
+      "isbn": "4910000924303",
       "salesType": 0,
       "matchMeta": {
-        "title": "在米50年の弁護士が当事者として見た「内乱」のアメリカ - 自由と民主主義はいかに崩壊したか",
-        "author": "",
-        "score": 74,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 43,
-        "originalTitle": "在米５０年の弁護士が当事者として見た「内乱」のアメリカ - 自由と民主主義はいかに崩壊したか"
-      },
-      "ranking": {
-        "title": "在米５０年の弁護士が当事者として見た「内乱」のアメリカ - 自由と民主主義はいかに崩壊したか",
+        "title": "ゲッターズ飯田の五星三心占い2027 銀の羅針盤座",
         "author": "",
         "isbn": "",
-        "score": 171,
+        "score": 172,
         "sources": [
           {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 9
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 8
           }
         ],
         "source": "combined",
-        "rank": 13
+        "rank": 29,
+        "originalTitle": "ゲッターズ飯田の五星三心占い2027 銀の羅針盤座"
+      },
+      "ranking": {
+        "title": "ゲッターズ飯田の五星三心占い2027 銀の羅針盤座",
+        "author": "",
+        "isbn": "",
+        "score": 172,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 10
       }
     },
     {
@@ -936,7 +741,7 @@
           }
         ],
         "source": "combined",
-        "rank": 40,
+        "rank": 31,
         "originalTitle": ""
       },
       "ranking": {
@@ -952,7 +757,54 @@
           }
         ],
         "source": "combined",
-        "rank": 14
+        "rank": 11
+      }
+    },
+    {
+      "id": "4910000910142",
+      "title": "在米50年の弁護士が当事者として見た「内乱」のアメリカ　自由と民主主義はいかに崩壊したか",
+      "author": "秋山武夫",
+      "publisher": "朝日新聞出版",
+      "price": 1650,
+      "url": "https://books.rakuten.co.jp/rk/cae1591004eb3d11924c3640a531fe50/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6886/2000021516886.jpg?_ex=600x600",
+      "caption": "なぜ大統領の意向一つで戦争ができるのか。なぜ「独裁」が許されてしまうのか。内戦前夜ともいわれる国内の分断の深さはーーアメリカ社会はここまで病んでいた！権力機構・法制度・市民生活の荒廃を、半世紀以上アメリカを内側から見てきた日本人弁護士がぜんぶ書く。\n",
+      "salesDate": "2026年08月20日",
+      "series": "在米50年の弁護士が当事者として見た「内乱」のアメリカ　自由と民主主義はいかに崩壊したか",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101907010/101907009/101907007/101914",
+      "isbn": "4910000910142",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "在米50年の弁護士が当事者として見た「内乱」のアメリカ - 自由と民主主義はいかに崩壊したか",
+        "author": "",
+        "score": 74,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 33,
+        "originalTitle": "在米５０年の弁護士が当事者として見た「内乱」のアメリカ - 自由と民主主義はいかに崩壊したか"
+      },
+      "ranking": {
+        "title": "在米５０年の弁護士が当事者として見た「内乱」のアメリカ - 自由と民主主義はいかに崩壊したか",
+        "author": "",
+        "isbn": "",
+        "score": 171,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 12
       }
     },
     {
@@ -972,34 +824,34 @@
       "isbn": "4310000937174",
       "salesType": 1,
       "matchMeta": {
-        "title": "転生したらスライムだった件(33)",
-        "author": "川上 泰樹/伏瀬/みっつばー",
-        "score": 70,
+        "title": "転生したらスライムだった件(33) (シリウスKC)",
+        "author": "川上 泰樹",
+        "isbn": "",
+        "score": 171,
         "sources": [
           {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 10
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 9
           }
         ],
         "source": "combined",
-        "rank": 47,
-        "originalTitle": "転生したらスライムだった件（33）"
+        "rank": 30
       },
       "ranking": {
-        "title": "転生したらスライムだった件（33）",
-        "author": "川上 泰樹/伏瀬/みっつばー",
+        "title": "転生したらスライムだった件(33) (シリウスKC)",
+        "author": "川上 泰樹",
         "isbn": "",
-        "score": 170,
+        "score": 171,
         "sources": [
           {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 10
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 9
           }
         ],
         "source": "combined",
-        "rank": 15
+        "rank": 13
       }
     },
     {
@@ -1030,7 +882,7 @@
           }
         ],
         "source": "combined",
-        "rank": 45,
+        "rank": 35,
         "originalTitle": ""
       },
       "ranking": {
@@ -1046,7 +898,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16
+        "rank": 14
       }
     },
     {
@@ -1078,7 +930,7 @@
           }
         ],
         "source": "combined",
-        "rank": 37
+        "rank": 35
       },
       "ranking": {
         "title": "ゲッターズ飯田の五星三心占い2027 銀のインディアン座",
@@ -1093,54 +945,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17
-      }
-    },
-    {
-      "id": "6681316776900",
-      "title": "春までのセンセイ",
-      "author": "早見和真",
-      "publisher": "双葉社",
-      "price": 1980,
-      "url": "https://books.rakuten.co.jp/rk/bc5b179ed95d38cca46c4b528e6eda25/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4600/2000021754600.jpg?_ex=600x600",
-      "caption": "先生は私に命がけの言葉をくれたーー\nひとりの教師と32人の生徒が向き合う“最後”の１年\n『ザ・ロイヤルファミリー』『アルプス席の母』を経て辿り着いた著者の新たなる代表作、誕生！\n東京都杉並区にある私立稜花女学院中学校。新年度に発表された3年E組の担任は、加賀美秀彦という中年の国語教師だった。最初は冴えないと思っていたけれど、先生の言葉はなぜだか心に響いてくる。それなのに夏休み直前、先生は病気で学校を辞めるというウワサが流れて・・・・・・。\nこれはクラス全員がバトンをつなぐ、一生に残る一年間の物語。\n「今日、この時点の、僕の代表作です」\nーー早見和真\n",
-      "salesDate": "2026年09月16日",
-      "series": "春までのセンセイ",
-      "reviewAverage": 3.5,
-      "reviewCount": 2,
-      "genreId": "101901",
-      "isbn": "6681316776900",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "春までのセンセイ",
-        "author": "",
-        "score": 66,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 11
-          }
-        ],
-        "source": "combined",
-        "rank": 51,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "春までのセンセイ",
-        "author": "",
-        "isbn": "",
-        "score": 169,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 11
-          }
-        ],
-        "source": "combined",
-        "rank": 18
+        "rank": 15
       }
     },
     {
@@ -1171,7 +976,7 @@
           }
         ],
         "source": "combined",
-        "rank": 52,
+        "rank": 40,
         "originalTitle": "黒執事(36) (Gファンタジーコミックス)"
       },
       "ranking": {
@@ -1187,7 +992,54 @@
           }
         ],
         "source": "combined",
-        "rank": 19
+        "rank": 16
+      }
+    },
+    {
+      "id": "6681316776900",
+      "title": "春までのセンセイ",
+      "author": "早見和真",
+      "publisher": "双葉社",
+      "price": 1980,
+      "url": "https://books.rakuten.co.jp/rk/bc5b179ed95d38cca46c4b528e6eda25/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4600/2000021754600.jpg?_ex=600x600",
+      "caption": "先生は私に命がけの言葉をくれたーー\nひとりの教師と32人の生徒が向き合う“最後”の１年\n『ザ・ロイヤルファミリー』『アルプス席の母』を経て辿り着いた著者の新たなる代表作、誕生！\n東京都杉並区にある私立稜花女学院中学校。新年度に発表された3年E組の担任は、加賀美秀彦という中年の国語教師だった。最初は冴えないと思っていたけれど、先生の言葉はなぜだか心に響いてくる。それなのに夏休み直前、先生は病気で学校を辞めるというウワサが流れて・・・・・・。\nこれはクラス全員がバトンをつなぐ、一生に残る一年間の物語。\n「今日、この時点の、僕の代表作です」\nーー早見和真\n",
+      "salesDate": "2026年09月16日",
+      "series": "春までのセンセイ",
+      "reviewAverage": 3.5,
+      "reviewCount": 2,
+      "genreId": "101901",
+      "isbn": "6681316776900",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "春までのセンセイ",
+        "author": "",
+        "score": 66,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 11
+          }
+        ],
+        "source": "combined",
+        "rank": 39,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "春までのセンセイ",
+        "author": "",
+        "isbn": "",
+        "score": 169,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 11
+          }
+        ],
+        "source": "combined",
+        "rank": 17
       }
     },
     {
@@ -1218,7 +1070,7 @@
           }
         ],
         "source": "combined",
-        "rank": 54,
+        "rank": 41,
         "originalTitle": ""
       },
       "ranking": {
@@ -1234,7 +1086,7 @@
           }
         ],
         "source": "combined",
-        "rank": 20
+        "rank": 18
       }
     },
     {
@@ -1266,8 +1118,7 @@
           }
         ],
         "source": "combined",
-        "rank": 44,
-        "originalTitle": "FOR OVERSEAS"
+        "rank": 41
       },
       "ranking": {
         "title": "FOR OVERSEAS",
@@ -1282,7 +1133,7 @@
           }
         ],
         "source": "combined",
-        "rank": 21
+        "rank": 19
       }
     },
     {
@@ -1304,7 +1155,8 @@
       "matchMeta": {
         "title": "週刊ファミ通 2026年10月1・8日合併号 No.1964",
         "author": "週刊ファミ通編集部",
-        "score": 54,
+        "isbn": "",
+        "score": 166,
         "sources": [
           {
             "source": "amazon",
@@ -1313,8 +1165,7 @@
           }
         ],
         "source": "combined",
-        "rank": 61,
-        "originalTitle": ""
+        "rank": 45
       },
       "ranking": {
         "title": "週刊ファミ通 2026年10月1・8日合併号 No.1964",
@@ -1329,7 +1180,7 @@
           }
         ],
         "source": "combined",
-        "rank": 22
+        "rank": 20
       }
     },
     {
@@ -1360,7 +1211,7 @@
           }
         ],
         "source": "combined",
-        "rank": 71,
+        "rank": 54,
         "originalTitle": ""
       },
       "ranking": {
@@ -1376,54 +1227,54 @@
           }
         ],
         "source": "combined",
-        "rank": 23
+        "rank": 21
       }
     },
     {
-      "id": "4972000164840",
-      "title": "太陽よりも眩しい星 15",
-      "author": "河原和音",
-      "publisher": "集英社",
-      "price": 572,
-      "url": "https://books.rakuten.co.jp/rk/cbf9c71dbba638c9a62b22c5720965d0/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5951/2000021425951.jpg?_ex=600x600",
-      "caption": "もし私とだめになったら神城も泣く？　平均より頑丈な女子・岩田朔英（いわたさえ）は、幼なじみの神城光輝（かみしろこうき）とお付き合い中　いよいよ高校3年生に進級し、受験を意識するふたりだが、なんとクラスが離れてしまう！　さらには転校生・阿波山という台風の目が現れ…!?\n",
-      "salesDate": "2026年09月25日",
-      "series": "太陽よりも眩しい星",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904011006",
-      "isbn": "4972000164840",
+      "id": "4380000407898",
+      "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+      "author": "林真理子",
+      "publisher": "幻冬舎",
+      "price": 982,
+      "url": "https://books.rakuten.co.jp/rk/1e28fc1db6b83578b06b0919e0a52cd7/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0908/2000020490908.jpg?_ex=600x600",
+      "caption": "70代は頭も体もまだ大丈夫。\nそれなりに蓄えもできている。\nでもこれまでと全く同じことをしていたらダメ。\nできないことは諦め、楽しいことを大事にし、人生の新しいステージに立とう。\n同じ年代とばかりつるまず、ダイエットはしない。\n嫌われずに自慢話をするテクニック、お金にキレイな人と思われるおごり方ーー。\n72歳の人気作家が本音で語る「健康」「おしゃれ」「仕事」「お金」「人間関係」「趣味」。\n確実に近づく「その日」を見つめ、今の1分1秒を楽しんで生きるための、痛快・人生論。\n",
+      "salesDate": "2026年05月27日",
+      "series": "",
+      "reviewAverage": 3.53,
+      "reviewCount": 55,
+      "genreId": "101907010004/101909",
+      "isbn": "4380000407898",
       "salesType": 0,
       "matchMeta": {
-        "title": "太陽よりも眩しい星 15",
-        "author": "河原 和音",
-        "score": 22,
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "author": "林真理子",
+        "score": 30,
         "sources": [
           {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 22
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 20
           }
         ],
         "source": "combined",
-        "rank": 79,
-        "originalTitle": ""
+        "rank": 57,
+        "originalTitle": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 (幻冬舎新書 803)"
       },
       "ranking": {
-        "title": "太陽よりも眩しい星 15",
-        "author": "河原 和音",
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 (幻冬舎新書 803)",
+        "author": "林真理子",
         "isbn": "",
-        "score": 158,
+        "score": 160,
         "sources": [
           {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 22
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 20
           }
         ],
         "source": "combined",
-        "rank": 24
+        "rank": 22
       }
     },
     {
@@ -1454,7 +1305,7 @@
           }
         ],
         "source": "combined",
-        "rank": 90,
+        "rank": 67,
         "originalTitle": ""
       },
       "ranking": {
@@ -1470,7 +1321,7 @@
           }
         ],
         "source": "combined",
-        "rank": 25
+        "rank": 23
       }
     },
     {
@@ -1490,10 +1341,9 @@
       "isbn": "7225000908848",
       "salesType": 1,
       "matchMeta": {
-        "title": "ゆるキャン△ １９ (まんがタイムKRコミックス)",
+        "title": "ゆるキャン△ 19",
         "author": "あfろ",
-        "isbn": "",
-        "score": 154,
+        "score": 6,
         "sources": [
           {
             "source": "amazon",
@@ -1502,7 +1352,8 @@
           }
         ],
         "source": "combined",
-        "rank": 71
+        "rank": 69,
+        "originalTitle": "ゆるキャン△ １９ (まんがタイムKRコミックス)"
       },
       "ranking": {
         "title": "ゆるキャン△ １９ (まんがタイムKRコミックス)",
@@ -1517,54 +1368,7 @@
           }
         ],
         "source": "combined",
-        "rank": 26
-      }
-    },
-    {
-      "id": "4310000325326",
-      "title": "ナガノのくまの本（１）　もぐらコロッケのうた",
-      "author": "ナガノ",
-      "publisher": "講談社",
-      "price": 1210,
-      "url": "https://books.rakuten.co.jp/rk/87ad6dc648fc3fb58833cfa9c12dba83/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4988/2000012334988.jpg?_ex=600x600",
-      "caption": "※この本の内容は、2019年12月に発売された「自分ツッコミくまの本１　もぐらコロッケのうた」と同一です。\n『ちいかわ』のナガノによる、大人気Twitter連載が待望の復活！\nうたを歌うのが大好きな、もぐらコロッケたちに事件が起こる!?\nおなじみの「ナガノのくま」はもちろん、パグさんや大型犬、マレーグマにチュパカブラといったナガノワールドの住人たちが大集合！\nさらに、この本でしか読めない描きおろしエピソードやイラストも満載で、まさに全ナガノファン必携の一冊に仕上がっています。\nくまやもぐらコロッケといつも一緒にいたいあなたに！\n",
-      "salesDate": "2023年01月23日",
-      "series": "ナガノのくまの本",
-      "reviewAverage": 4.75,
-      "reviewCount": 4,
-      "genreId": "101904011005",
-      "isbn": "4310000325326",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ナガノのくまの本(1) もぐらコロッケのうた",
-        "author": "ナガノ",
-        "score": 5,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 27
-          }
-        ],
-        "source": "combined",
-        "rank": 94,
-        "originalTitle": "ナガノのくまの本（1）　もぐらコロッケのうた"
-      },
-      "ranking": {
-        "title": "ナガノのくまの本（1）　もぐらコロッケのうた",
-        "author": "ナガノ",
-        "isbn": "",
-        "score": 153,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 27
-          }
-        ],
-        "source": "combined",
-        "rank": 27
+        "rank": 24
       }
     },
     {
@@ -1596,7 +1400,7 @@
           }
         ],
         "source": "combined",
-        "rank": 79
+        "rank": 74
       },
       "ranking": {
         "title": "継体天皇 - 六世紀に現れた世襲王権の「始祖王」 中公新書",
@@ -1611,7 +1415,7 @@
           }
         ],
         "source": "combined",
-        "rank": 28
+        "rank": 25
       }
     },
     {
@@ -1633,8 +1437,7 @@
       "matchMeta": {
         "title": "自分とか、ないから。 教養としての東洋哲学",
         "author": "",
-        "isbn": "",
-        "score": 150,
+        "score": 5,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1643,8 +1446,8 @@
           }
         ],
         "source": "combined",
-        "rank": 81,
-        "originalTitle": "自分とか、ないから。 教養としての東洋哲学"
+        "rank": 73,
+        "originalTitle": "自分とか、ないから。　教養としての東洋哲学"
       },
       "ranking": {
         "title": "自分とか、ないから。 教養としての東洋哲学",
@@ -1659,7 +1462,7 @@
           }
         ],
         "source": "combined",
-        "rank": 29
+        "rank": 26
       }
     },
     {
@@ -1690,7 +1493,7 @@
           }
         ],
         "source": "combined",
-        "rank": 6,
+        "rank": 4,
         "originalTitle": ""
       },
       "ranking": {
@@ -1705,54 +1508,7 @@
           }
         ],
         "source": "combined",
-        "rank": 30,
-        "originalTitle": ""
-      }
-    },
-    {
-      "id": "4310000890409",
-      "title": "楽園",
-      "author": "夕木春央",
-      "publisher": "講談社",
-      "price": 1980,
-      "url": "https://books.rakuten.co.jp/rk/1a1c684dcee83b98b4d0187187c813d0/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1651/2000021221651.jpg?_ex=600x600",
-      "caption": "殺人犯にならなければ脱出できない。\n『方舟』『十戒』の著者が仕掛ける“禁忌の驚き”\n亡き両親から不動産を譲り受けた康之は、失踪した賃借人・海原の遺留品整理の際に、群馬の山奥の謎の物件の存在を知る。そこは、切り立った岩壁に囲まれた、「楽園」と呼ばれる奇妙な場所だった。恋人の沙織と一緒にそこを訪ね、探索をはじめた康之たちは、すぐに六人の“住人”に拿捕された。脱出のための条件はーー\n「誰か一人を殺さなければならない」\n『方舟』\n第19回オリコン上半期”本”ランキング　文庫ランキングTOP10 第1位\n週刊文春ミステリーベスト10　第1位　（「週刊文春」2022年12月8日号）国内部門\nMRC大賞2022　第1位\n『方舟』＋『十戒』の累計発行部数が100万部突破。\nーー夕木春央が描く、極限のクローズド・サークル。\n",
-      "salesDate": "2026年07月22日",
-      "series": "楽園",
-      "reviewAverage": 4.18,
-      "reviewCount": 427,
-      "genreId": "101902",
-      "isbn": "4310000890409",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "楽園",
-        "author": "夕木春央",
-        "score": 94,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
-          }
-        ],
-        "source": "combined",
-        "rank": 17,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "楽園",
-        "author": "夕木春央",
-        "score": 94,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
-          }
-        ],
-        "source": "combined",
-        "rank": 31,
+        "rank": 27,
         "originalTitle": ""
       }
     },
@@ -1784,7 +1540,7 @@
           }
         ],
         "source": "combined",
-        "rank": 21,
+        "rank": 16,
         "originalTitle": ""
       },
       "ranking": {
@@ -1799,7 +1555,7 @@
           }
         ],
         "source": "combined",
-        "rank": 32,
+        "rank": 28,
         "originalTitle": ""
       }
     },
@@ -1831,7 +1587,7 @@
           }
         ],
         "source": "combined",
-        "rank": 46,
+        "rank": 36,
         "originalTitle": ""
       },
       "ranking": {
@@ -1846,7 +1602,7 @@
           }
         ],
         "source": "combined",
-        "rank": 33,
+        "rank": 29,
         "originalTitle": ""
       }
     }
@@ -1854,7 +1610,7 @@
   "byGenre": {
     "fiction": [
       "4660629612104",
-      "4916475490001",
+      "4340008067051",
       "4340008067611",
       "4910000909001",
       "4390000005636",
@@ -1863,21 +1619,19 @@
       "4480000838415"
     ],
     "mystery": [
-      "4916475490001",
       "4390000005636",
       "4620000615075",
-      "4620000615076",
-      "4310000890409"
+      "4620000615076"
     ],
     "sf": [],
     "business": [
       "8910126773560"
     ],
     "humanities": [
-      "4380000407898",
       "4390000014247",
       "4910000910142",
       "4390000016508",
+      "4380000407898",
       "9784059242475",
       "4910000858569"
     ],
@@ -1891,9 +1645,10 @@
     ],
     "it": [],
     "life": [
-      "4380000407898",
       "4910000924309",
-      "4910000924301"
+      "4910000924303",
+      "4910000924301",
+      "4380000407898"
     ],
     "health": [],
     "hobby": [],
@@ -1911,13 +1666,9 @@
       "4380000407982"
     ],
     "comic": [
-      "4972000161524",
-      "4972000167723",
       "4310000937174",
       "7328131415919",
-      "4972000164840",
-      "7225000908848",
-      "4310000325326"
+      "7225000908848"
     ]
   },
   "genreStatus": {
@@ -1926,7 +1677,7 @@
       "complete": true
     },
     "mystery": {
-      "matched": 5,
+      "matched": 3,
       "complete": true
     },
     "sf": {
@@ -1954,7 +1705,7 @@
       "complete": true
     },
     "life": {
-      "matched": 3,
+      "matched": 4,
       "complete": true
     },
     "health": {
@@ -1982,7 +1733,7 @@
       "complete": true
     },
     "comic": {
-      "matched": 7,
+      "matched": 3,
       "complete": true
     }
   }

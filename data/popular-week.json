@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-09-26T17:00:13.950Z",
+  "updatedAt": "2026-09-26T21:49:32.247Z",
   "candidateCount": 76,
-  "baseMatched": 22,
-  "matched": 29,
-  "addedMatches": 7,
+  "baseMatched": 24,
+  "matched": 27,
+  "addedMatches": 3,
   "unavailable": [
     "rakuten"
   ],
@@ -216,12 +216,6 @@
           "author": "",
           "isbn": "",
           "rank": 10
-        },
-        {
-          "title": "FOR OVERSEAS",
-          "author": "",
-          "isbn": "",
-          "rank": 12
         }
       ]
     }
@@ -384,20 +378,20 @@
       }
     },
     {
-      "id": "4340008067051",
-      "title": "プレゼント（新潮文庫）",
-      "author": "伊坂幸太郎/江國香織/恩田陸/梨木香歩/町田そのこ/宮部みゆき/米澤穂信",
-      "publisher": "新潮社",
-      "price": 825,
-      "url": "https://books.rakuten.co.jp/rk/e8a60fd88eb63075a76e50e52cf98712/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8962/2000020598962.jpg?_ex=600x600",
-      "caption": "これはこれまで小説を愛してきてくれた人へ、そしてこれから小説の世界に一歩踏み出す人へ贈るプレゼント。何気なく読んだ物語が、ふと目にした一行が、意外な言葉ひとつが、人生を大きく変えるかもしれない。現代を代表する７人の作家が「夏」をテーマに書き下ろした、驚きと切なさ、怖さと美しさ、何よりとびきりの面白さを詰め込んだ奇跡の一冊。さぁ、あなたの人生に小説という選択肢を。\n",
-      "salesDate": "2026年06月24日",
-      "series": "",
-      "reviewAverage": 3.88,
-      "reviewCount": 367,
-      "genreId": "101901",
-      "isbn": "4340008067051",
+      "id": "4916475490001",
+      "title": "プレゼント",
+      "author": "若竹七海",
+      "publisher": "中央公論新社",
+      "price": 776,
+      "url": "https://books.rakuten.co.jp/rk/9fe631efeb0f3eb0a09ce80197395709/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1444/2000007701444.jpg?_ex=600x600",
+      "caption": "ルーム・クリーナー、電話相談、興信所。トラブルメイカーのフリーター・葉村晶と、娘に借りたピンクの子供用自転車で現場に駆けつける小林警部補。二人が巻き込まれたハードボイルドで悲しい八つの事件とはーー。間抜けだが悪気のない隣人たちがひき起こす騒動はいつも危険すぎる！\n",
+      "salesDate": "2019年08月30日",
+      "series": "プレゼント",
+      "reviewAverage": 3.52,
+      "reviewCount": 92,
+      "genreId": "101901/101902",
+      "isbn": "4916475490001",
       "salesType": 0,
       "matchMeta": {
         "title": "プレゼント",
@@ -694,8 +688,7 @@
           }
         ],
         "source": "combined",
-        "rank": 29,
-        "originalTitle": "ゲッターズ飯田の五星三心占い2027 銀の羅針盤座"
+        "rank": 29
       },
       "ranking": {
         "title": "ゲッターズ飯田の五星三心占い2027 銀の羅針盤座",
@@ -711,53 +704,6 @@
         ],
         "source": "combined",
         "rank": 10
-      }
-    },
-    {
-      "id": "4620000615075",
-      "title": "ブラッディダイスの殺人　上",
-      "author": "Ｍ Ｗ クレイヴン",
-      "publisher": "早川書房",
-      "price": 1210,
-      "url": "https://books.rakuten.co.jp/rk/91ea3c43631d345d8bb867055aba005f/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9728/2000021429728.jpg?_ex=600x600",
-      "caption": "ポーとティリーが再びタッグを組む！　シリーズ累計30万部の最新作！\n英国全土で連続狙撃事件が発生。犠牲者は17人にのぼるも犯人の手がかりはなく、ポーとティリーは国家犯罪対策庁に呼び戻されるが\n",
-      "salesDate": "2026年08月19日",
-      "series": "ワシントン・ポー",
-      "reviewAverage": 4.44,
-      "reviewCount": 19,
-      "genreId": "101902",
-      "isbn": "4620000615075",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ブラッディダイスの殺人 上",
-        "author": "M・W・クレイヴン",
-        "score": 74,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 31,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "ブラッディダイスの殺人 上",
-        "author": "M・W・クレイヴン",
-        "isbn": "",
-        "score": 171,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 11
       }
     },
     {
@@ -804,6 +750,53 @@
           }
         ],
         "source": "combined",
+        "rank": 11
+      }
+    },
+    {
+      "id": "4620000615075",
+      "title": "ブラッディダイスの殺人　上",
+      "author": "Ｍ Ｗ クレイヴン",
+      "publisher": "早川書房",
+      "price": 1210,
+      "url": "https://books.rakuten.co.jp/rk/91ea3c43631d345d8bb867055aba005f/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9728/2000021429728.jpg?_ex=600x600",
+      "caption": "ポーとティリーが再びタッグを組む！　シリーズ累計30万部の最新作！\n英国全土で連続狙撃事件が発生。犠牲者は17人にのぼるも犯人の手がかりはなく、ポーとティリーは国家犯罪対策庁に呼び戻されるが\n",
+      "salesDate": "2026年08月19日",
+      "series": "ワシントン・ポー",
+      "reviewAverage": 4.44,
+      "reviewCount": 19,
+      "genreId": "101902",
+      "isbn": "4620000615075",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ブラッディダイスの殺人 上",
+        "author": "M・W・クレイヴン",
+        "score": 74,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 31,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "ブラッディダイスの殺人 上",
+        "author": "M・W・クレイヴン",
+        "isbn": "",
+        "score": 171,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
         "rank": 12
       }
     },
@@ -826,8 +819,7 @@
       "matchMeta": {
         "title": "転生したらスライムだった件(33) (シリウスKC)",
         "author": "川上 泰樹",
-        "isbn": "",
-        "score": 171,
+        "score": 74,
         "sources": [
           {
             "source": "amazon",
@@ -836,7 +828,8 @@
           }
         ],
         "source": "combined",
-        "rank": 30
+        "rank": 34,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "転生したらスライムだった件(33) (シリウスKC)",
@@ -930,7 +923,8 @@
           }
         ],
         "source": "combined",
-        "rank": 35
+        "rank": 35,
+        "originalTitle": "ゲッターズ飯田の五星三心占い2027 銀のインディアン座"
       },
       "ranking": {
         "title": "ゲッターズ飯田の五星三心占い2027 銀のインディアン座",
@@ -946,53 +940,6 @@
         ],
         "source": "combined",
         "rank": 15
-      }
-    },
-    {
-      "id": "7328131415919",
-      "title": "黒執事 36巻",
-      "author": "枢やな",
-      "publisher": "スクウェア・エニックス",
-      "price": 770,
-      "url": "https://books.rakuten.co.jp/rk/1e4f0989d4aa32ffaf057afb8fa437a2/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6489/2000021386489.jpg?_ex=600x600",
-      "caption": "最新リゾートホテルの実態を探るべく、調査に乗り出したシエルとその執事。ところが開始早々、グランドフロアでセバスチャンを“悪魔”と呼ぶ謎の人物が現れる。モドリと名乗るその男は、セバスチャンと浅からぬ因縁を持つようでーー？No.１執事コミック、待望の第36巻登場!!\n",
-      "salesDate": "2026年09月26日",
-      "series": "黒執事",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904090",
-      "isbn": "7328131415919",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "黒執事(36)",
-        "author": "枢やな",
-        "score": 66,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 11
-          }
-        ],
-        "source": "combined",
-        "rank": 40,
-        "originalTitle": "黒執事(36) (Gファンタジーコミックス)"
-      },
-      "ranking": {
-        "title": "黒執事(36) (Gファンタジーコミックス)",
-        "author": "枢やな",
-        "isbn": "",
-        "score": 169,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 11
-          }
-        ],
-        "source": "combined",
-        "rank": 16
       }
     },
     {
@@ -1035,6 +982,53 @@
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
+            "rank": 11
+          }
+        ],
+        "source": "combined",
+        "rank": 16
+      }
+    },
+    {
+      "id": "7328131415919",
+      "title": "黒執事 36巻",
+      "author": "枢やな",
+      "publisher": "スクウェア・エニックス",
+      "price": 770,
+      "url": "https://books.rakuten.co.jp/rk/1e4f0989d4aa32ffaf057afb8fa437a2/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6489/2000021386489.jpg?_ex=600x600",
+      "caption": "最新リゾートホテルの実態を探るべく、調査に乗り出したシエルとその執事。ところが開始早々、グランドフロアでセバスチャンを“悪魔”と呼ぶ謎の人物が現れる。モドリと名乗るその男は、セバスチャンと浅からぬ因縁を持つようでーー？No.１執事コミック、待望の第36巻登場!!\n",
+      "salesDate": "2026年09月26日",
+      "series": "黒執事",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904090",
+      "isbn": "7328131415919",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "黒執事(36)",
+        "author": "枢やな",
+        "score": 66,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 11
+          }
+        ],
+        "source": "combined",
+        "rank": 40,
+        "originalTitle": "黒執事(36) (Gファンタジーコミックス)"
+      },
+      "ranking": {
+        "title": "黒執事(36) (Gファンタジーコミックス)",
+        "author": "枢やな",
+        "isbn": "",
+        "score": 169,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
             "rank": 11
           }
         ],
@@ -1090,53 +1084,6 @@
       }
     },
     {
-      "id": "9781505942323",
-      "title": "How to Start a Crown Agents for Overseas Governments and Administrations Business (Beginners Guide)",
-      "author": "Leclair Jaquelyn",
-      "publisher": "SamEnrico",
-      "price": 2515,
-      "url": "https://books.rakuten.co.jp/rk/da3f192a66453cb193c43421103700ab/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5952/2000020915952.jpg?_ex=600x600",
-      "caption": "This publication, published by SamEnrico, covers How to Start a Crown Agents for Overseas Governments and Administrations Business (Beginners Guide)\n",
-      "salesDate": "2015年12月20日",
-      "series": "",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101970003007",
-      "isbn": "9781505942323",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "FOR OVERSEAS",
-        "author": "",
-        "isbn": "",
-        "score": 168,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 12
-          }
-        ],
-        "source": "combined",
-        "rank": 41
-      },
-      "ranking": {
-        "title": "FOR OVERSEAS",
-        "author": "",
-        "isbn": "",
-        "score": 168,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 12
-          }
-        ],
-        "source": "combined",
-        "rank": 19
-      }
-    },
-    {
       "id": "4334721500320",
       "title": "週刊ファミ通 2026年10月1・8日合併号 No.1964",
       "author": "週刊ファミ通編集部",
@@ -1155,8 +1102,7 @@
       "matchMeta": {
         "title": "週刊ファミ通 2026年10月1・8日合併号 No.1964",
         "author": "週刊ファミ通編集部",
-        "isbn": "",
-        "score": 166,
+        "score": 54,
         "sources": [
           {
             "source": "amazon",
@@ -1165,7 +1111,8 @@
           }
         ],
         "source": "combined",
-        "rank": 45
+        "rank": 46,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "週刊ファミ通 2026年10月1・8日合併号 No.1964",
@@ -1180,7 +1127,7 @@
           }
         ],
         "source": "combined",
-        "rank": 20
+        "rank": 19
       }
     },
     {
@@ -1227,7 +1174,7 @@
           }
         ],
         "source": "combined",
-        "rank": 21
+        "rank": 20
       }
     },
     {
@@ -1274,7 +1221,7 @@
           }
         ],
         "source": "combined",
-        "rank": 22
+        "rank": 21
       }
     },
     {
@@ -1321,7 +1268,7 @@
           }
         ],
         "source": "combined",
-        "rank": 23
+        "rank": 22
       }
     },
     {
@@ -1368,7 +1315,7 @@
           }
         ],
         "source": "combined",
-        "rank": 24
+        "rank": 23
       }
     },
     {
@@ -1390,8 +1337,7 @@
       "matchMeta": {
         "title": "継体天皇 - 六世紀に現れた世襲王権の「始祖王」 中公新書",
         "author": "",
-        "isbn": "",
-        "score": 151,
+        "score": 5,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1400,7 +1346,8 @@
           }
         ],
         "source": "combined",
-        "rank": 74
+        "rank": 72,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "継体天皇 - 六世紀に現れた世襲王権の「始祖王」 中公新書",
@@ -1415,7 +1362,7 @@
           }
         ],
         "source": "combined",
-        "rank": 25
+        "rank": 24
       }
     },
     {
@@ -1462,7 +1409,7 @@
           }
         ],
         "source": "combined",
-        "rank": 26
+        "rank": 25
       }
     },
     {
@@ -1508,54 +1455,7 @@
           }
         ],
         "source": "combined",
-        "rank": 27,
-        "originalTitle": ""
-      }
-    },
-    {
-      "id": "9784059239659",
-      "title": "地球の歩き方 スター・ウォーズ",
-      "author": "",
-      "publisher": "地球の歩き方",
-      "price": 2750,
-      "url": "https://books.rakuten.co.jp/rk/40558a21970c38b8891b35aee564d356/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9941/2000020489941.jpg?_ex=600x600",
-      "caption": "銀河の果てまで旅するように、物語の舞台を歩く……。\n『スター・ウォーズ』の世界を「地球の歩き方」ならではの旅行ガイドスタイルでひもとく、スペシャルブックが登場！\nもしあなたが『スター・ウォーズ』の世界を訪れることになっても、本書があれば安心。劇場公開作品を中心に、ストーリーの流れや主要キャラクターの魅力を、心に残る名シーンとともにしっかりおさらいできます。さらに、モデルプランや旅のテクニックなど、ファン心をくすぐるコンテンツも充実。\n作品世界をより深く理解し、楽しむための情報を厳選して収録した、ファン必携の永久保存版です。\n※予告なく一部内容が変更される可能性もあります。予めご了承ください。\n※電子版では、紙のガイドブックと内容が一部異なります。掲載されない写真や図版、収録されないページがある場合があります。あらかじめご了承下さい。\n",
-      "salesDate": "2026年07月29日",
-      "series": "",
-      "reviewAverage": 4.25,
-      "reviewCount": 4,
-      "genreId": "101911",
-      "isbn": "9784059239659",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "地球の歩き方 スター・ウォーズ",
-        "author": "地球の歩き方編集室",
-        "score": 90,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 5
-          }
-        ],
-        "source": "combined",
-        "rank": 16,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "地球の歩き方 スター・ウォーズ",
-        "author": "地球の歩き方編集室",
-        "score": 90,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 5
-          }
-        ],
-        "source": "combined",
-        "rank": 28,
+        "rank": 26,
         "originalTitle": ""
       }
     },
@@ -1602,7 +1502,7 @@
           }
         ],
         "source": "combined",
-        "rank": 29,
+        "rank": 27,
         "originalTitle": ""
       }
     }
@@ -1610,7 +1510,7 @@
   "byGenre": {
     "fiction": [
       "4660629612104",
-      "4340008067051",
+      "4916475490001",
       "4340008067611",
       "4910000909001",
       "4390000005636",
@@ -1619,6 +1519,7 @@
       "4480000838415"
     ],
     "mystery": [
+      "4916475490001",
       "4390000005636",
       "4620000615075",
       "4620000615076"
@@ -1652,9 +1553,7 @@
     ],
     "health": [],
     "hobby": [],
-    "travel": [
-      "9784059239659"
-    ],
+    "travel": [],
     "language": [
       "6681311679960"
     ],
@@ -1677,7 +1576,7 @@
       "complete": true
     },
     "mystery": {
-      "matched": 3,
+      "matched": 4,
       "complete": true
     },
     "sf": {
@@ -1717,7 +1616,7 @@
       "complete": true
     },
     "travel": {
-      "matched": 1,
+      "matched": 0,
       "complete": true
     },
     "language": {

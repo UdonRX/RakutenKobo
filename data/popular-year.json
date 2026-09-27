@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "year",
-  "updatedAt": "2026-09-26T21:49:55.597Z",
+  "updatedAt": "2026-09-27T06:02:46.237Z",
   "candidateCount": 13,
-  "baseMatched": 8,
+  "baseMatched": 6,
   "matched": 9,
-  "addedMatches": 1,
+  "addedMatches": 3,
   "unavailable": [],
   "snapshots": {
     "tohan": {
@@ -17,7 +17,7 @@
       "attribution": "トーハン調べ",
       "sourceUrl": "https://www.tohan.jp/bestsellers/2026_firsthalf_total/",
       "periodLabel": "年次",
-      "updatedAt": "2026-09-26",
+      "updatedAt": "2026-09-27",
       "live": true,
       "items": [
         {
@@ -95,9 +95,10 @@
       "isbn": "4524815633410",
       "salesType": 0,
       "matchMeta": {
-        "title": "科学的に証明された すごい習慣大百科",
-        "author": "堀田秀吾",
-        "score": 106,
+        "title": "ハーバード、スタンフォード、オックスフォード... 科学的に証明された すごい習慣大百科",
+        "author": "",
+        "isbn": "",
+        "score": 179,
         "sources": [
           {
             "source": "tohan",
@@ -107,7 +108,7 @@
         ],
         "source": "combined",
         "rank": 1,
-        "originalTitle": ""
+        "originalTitle": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科"
       },
       "ranking": {
         "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
@@ -143,8 +144,9 @@
       "salesType": 0,
       "matchMeta": {
         "title": "変な地図",
-        "author": "雨穴",
-        "score": 102,
+        "author": "",
+        "isbn": "",
+        "score": 178,
         "sources": [
           {
             "source": "tohan",
@@ -154,7 +156,7 @@
         ],
         "source": "combined",
         "rank": 2,
-        "originalTitle": ""
+        "originalTitle": "変な地図"
       },
       "ranking": {
         "title": "変な地図",

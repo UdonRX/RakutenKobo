@@ -4,7 +4,7 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-09-27T06:02:42.454Z",
+  "updatedAt": "2026-09-27T12:42:51.412Z",
   "candidateCount": 40,
   "baseMatched": 13,
   "matched": 18,
@@ -108,53 +108,6 @@
   },
   "items": [
     {
-      "id": "4380000407898",
-      "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-      "author": "林真理子",
-      "publisher": "幻冬舎",
-      "price": 982,
-      "url": "https://books.rakuten.co.jp/rk/1e28fc1db6b83578b06b0919e0a52cd7/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0908/2000020490908.jpg?_ex=600x600",
-      "caption": "70代は頭も体もまだ大丈夫。\nそれなりに蓄えもできている。\nでもこれまでと全く同じことをしていたらダメ。\nできないことは諦め、楽しいことを大事にし、人生の新しいステージに立とう。\n同じ年代とばかりつるまず、ダイエットはしない。\n嫌われずに自慢話をするテクニック、お金にキレイな人と思われるおごり方ーー。\n72歳の人気作家が本音で語る「健康」「おしゃれ」「仕事」「お金」「人間関係」「趣味」。\n確実に近づく「その日」を見つめ、今の1分1秒を楽しんで生きるための、痛快・人生論。\n",
-      "salesDate": "2026年05月27日",
-      "series": "",
-      "reviewAverage": 3.53,
-      "reviewCount": 55,
-      "genreId": "101907010004/101909",
-      "isbn": "4380000407898",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-        "author": "林真理子",
-        "score": 94,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
-          }
-        ],
-        "source": "combined",
-        "rank": 9,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-        "author": "",
-        "isbn": "",
-        "score": 178,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 2
-          }
-        ],
-        "source": "combined",
-        "rank": 1
-      }
-    },
-    {
       "id": "4335396900320",
       "title": "パンどろぼうとさすらいラーメン",
       "author": "柴田　ケイコ",
@@ -198,6 +151,53 @@
           }
         ],
         "source": "combined",
+        "rank": 1
+      }
+    },
+    {
+      "id": "4380000407898",
+      "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+      "author": "林真理子",
+      "publisher": "幻冬舎",
+      "price": 982,
+      "url": "https://books.rakuten.co.jp/rk/1e28fc1db6b83578b06b0919e0a52cd7/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0908/2000020490908.jpg?_ex=600x600",
+      "caption": "70代は頭も体もまだ大丈夫。\nそれなりに蓄えもできている。\nでもこれまでと全く同じことをしていたらダメ。\nできないことは諦め、楽しいことを大事にし、人生の新しいステージに立とう。\n同じ年代とばかりつるまず、ダイエットはしない。\n嫌われずに自慢話をするテクニック、お金にキレイな人と思われるおごり方ーー。\n72歳の人気作家が本音で語る「健康」「おしゃれ」「仕事」「お金」「人間関係」「趣味」。\n確実に近づく「その日」を見つめ、今の1分1秒を楽しんで生きるための、痛快・人生論。\n",
+      "salesDate": "2026年05月27日",
+      "series": "",
+      "reviewAverage": 3.53,
+      "reviewCount": 55,
+      "genreId": "101907010004/101909",
+      "isbn": "4380000407898",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "author": "林真理子",
+        "score": 94,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
+          }
+        ],
+        "source": "combined",
+        "rank": 9,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "author": "",
+        "isbn": "",
+        "score": 178,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 2
+          }
+        ],
+        "source": "combined",
         "rank": 2
       }
     },
@@ -230,7 +230,8 @@
           }
         ],
         "source": "combined",
-        "rank": 8
+        "rank": 8,
+        "originalTitle": "ハヤブサ消防団 森へつづく道"
       },
       "ranking": {
         "title": "ハヤブサ消防団 森へつづく道",
@@ -419,8 +420,7 @@
           }
         ],
         "source": "combined",
-        "rank": 19,
-        "originalTitle": "キングダム magazine 2026"
+        "rank": 19
       },
       "ranking": {
         "title": "キングダム magazine 2026",
@@ -519,7 +519,8 @@
           }
         ],
         "source": "combined",
-        "rank": 23
+        "rank": 23,
+        "originalTitle": "FOR OVERSEAS"
       },
       "ranking": {
         "title": "FOR OVERSEAS",

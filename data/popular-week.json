@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-09-28T06:08:02.577Z",
+  "updatedAt": "2026-09-28T14:45:46.993Z",
   "candidateCount": 77,
-  "baseMatched": 23,
+  "baseMatched": 26,
   "matched": 32,
-  "addedMatches": 9,
+  "addedMatches": 6,
   "unavailable": [
     "rakuten"
   ],
@@ -234,12 +234,6 @@
           "author": "",
           "isbn": "",
           "rank": 10
-        },
-        {
-          "title": "FOR OVERSEAS",
-          "author": "",
-          "isbn": "",
-          "rank": 12
         }
       ]
     }
@@ -373,7 +367,8 @@
       "matchMeta": {
         "title": "パンどろぼうとさすらいラーメン",
         "author": "",
-        "score": 106,
+        "isbn": "",
+        "score": 179,
         "sources": [
           {
             "source": "kinokuniya",
@@ -382,8 +377,7 @@
           }
         ],
         "source": "combined",
-        "rank": 4,
-        "originalTitle": ""
+        "rank": 7
       },
       "ranking": {
         "title": "パンどろぼうとさすらいラーメン",
@@ -456,7 +450,7 @@
       "price": 594,
       "url": "https://books.rakuten.co.jp/rk/4d8ae792b62e30719d6428c51d3199af/",
       "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8631/2000021668631.jpg?_ex=600x600",
-      "caption": "ジャンプコミックスDIGITAL「ワールドトリガー」30巻、10月2日配信スタート!!　※配信日は変更になることがあります。ご了承ください。\n",
+      "caption": "遠征選抜第2試験の内容はA級部隊VS臨時部隊での総勢95人による『長時間戦闘試験』！　試験用MAPに転送された臨時部隊は、古寺を指揮官に決める。修は部隊を前線に集結させるよう進言するが、その真意とは!?\n",
       "salesDate": "2026年10月02日",
       "series": "ワールドトリガー",
       "reviewAverage": 0,
@@ -503,7 +497,7 @@
       "price": 616,
       "url": "https://books.rakuten.co.jp/rk/344fc9ed9b973849acc20e1a758169ea/",
       "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8604/2000021668604.jpg?_ex=600x600",
-      "caption": "ジャンプコミックスDIGITAL「To LOVEるーとらぶるー 短編集 Parade」、10月2日配信スタート!!　※配信日は変更になることがあります。ご了承ください。\n",
+      "caption": "ララの発明品の影響でリトがクシャミをする度に分裂していく事態に!?　1人でも大変なリトのハレンチ能力の相乗効果は凄まじく、止める術はあるのか!?　コミックス未収録作品を詰め込んだトラブル満載の短編集!!\n",
       "salesDate": "2026年10月02日",
       "series": "To LOVEるーとらぶるー 短編集 Parade",
       "reviewAverage": 0,
@@ -540,6 +534,53 @@
         ],
         "source": "combined",
         "rank": 6
+      }
+    },
+    {
+      "id": "4910000909001",
+      "title": "シャーロック・ホームズの凱旋",
+      "author": "森見登美彦",
+      "publisher": "中央公論新社",
+      "price": 1210,
+      "url": "https://books.rakuten.co.jp/rk/8782db66778c3698bdfbb4e8ea454fae/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4690/2000021504690.jpg?_ex=600x600",
+      "caption": "「天から与えられた才能はどこへ消えた？」\n舞台はヴィクトリア朝京都。\n洛中洛外に名を轟かせた名探偵ホームズが……\nまさかの大スランプ！？\n【文庫限定音声特典】「登美彦氏、ヴィクトリア朝京都を語る」（QRコードを収録）\n-----\nこの手記は脱出不可能の迷宮と化した舞台裏からの報告書である。\nいつの間にか迷いこんだその舞台裏において、私たちはかつて経験したことのない「非探偵小説的な冒険」を強いられることになったわけだが、世の人々がその冒険について知ることはなかった。スランプに陥ってからというもの、シャーロック・ホームズは世間的には死んだも同然であり、それはこの私、ジョン・Ｈ・ワトソンにしても同様だったからである。\nシャーロック・ホームズの沈黙は、ジョン・Ｈ・ワトソンの沈黙でもあった。\n-----（本文より）\n謎が謎を呼ぶ痛快無比な森見劇場、ついに開幕！\n目次\nプロローグ\n第一章　ジェイムズ・モリアーティの彷徨\n第二章　アイリーン・アドラーの挑戦\n第三章　レイチェル・マスグレーヴの失踪\n第四章　メアリ・モースタンの決意\n第五章　シャーロック・ホームズの凱旋\nエピローグ\n",
+      "salesDate": "2026年08月21日",
+      "series": "シャーロック・ホームズの凱旋",
+      "reviewAverage": 3.08,
+      "reviewCount": 14,
+      "genreId": "101901006",
+      "isbn": "4910000909001",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "シャーロック・ホームズの凱旋",
+        "author": "森見登美彦",
+        "score": 90,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
+        "rank": 15,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "シャーロック・ホームズの凱旋",
+        "author": "森見登美彦",
+        "isbn": "",
+        "score": 175,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
+        "rank": 7
       }
     },
     {
@@ -582,53 +623,6 @@
           {
             "source": "amazon",
             "label": "Amazon",
-            "rank": 5
-          }
-        ],
-        "source": "combined",
-        "rank": 7
-      }
-    },
-    {
-      "id": "4910000909001",
-      "title": "シャーロック・ホームズの凱旋",
-      "author": "森見登美彦",
-      "publisher": "中央公論新社",
-      "price": 1210,
-      "url": "https://books.rakuten.co.jp/rk/8782db66778c3698bdfbb4e8ea454fae/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4690/2000021504690.jpg?_ex=600x600",
-      "caption": "「天から与えられた才能はどこへ消えた？」\n舞台はヴィクトリア朝京都。\n洛中洛外に名を轟かせた名探偵ホームズが……\nまさかの大スランプ！？\n【文庫限定音声特典】「登美彦氏、ヴィクトリア朝京都を語る」（QRコードを収録）\n-----\nこの手記は脱出不可能の迷宮と化した舞台裏からの報告書である。\nいつの間にか迷いこんだその舞台裏において、私たちはかつて経験したことのない「非探偵小説的な冒険」を強いられることになったわけだが、世の人々がその冒険について知ることはなかった。スランプに陥ってからというもの、シャーロック・ホームズは世間的には死んだも同然であり、それはこの私、ジョン・Ｈ・ワトソンにしても同様だったからである。\nシャーロック・ホームズの沈黙は、ジョン・Ｈ・ワトソンの沈黙でもあった。\n-----（本文より）\n謎が謎を呼ぶ痛快無比な森見劇場、ついに開幕！\n目次\nプロローグ\n第一章　ジェイムズ・モリアーティの彷徨\n第二章　アイリーン・アドラーの挑戦\n第三章　レイチェル・マスグレーヴの失踪\n第四章　メアリ・モースタンの決意\n第五章　シャーロック・ホームズの凱旋\nエピローグ\n",
-      "salesDate": "2026年08月21日",
-      "series": "シャーロック・ホームズの凱旋",
-      "reviewAverage": 3.08,
-      "reviewCount": 14,
-      "genreId": "101901006",
-      "isbn": "4910000909001",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "シャーロック・ホームズの凱旋",
-        "author": "森見登美彦",
-        "isbn": "",
-        "score": 175,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 5
-          }
-        ],
-        "source": "combined",
-        "rank": 17
-      },
-      "ranking": {
-        "title": "シャーロック・ホームズの凱旋",
-        "author": "森見登美彦",
-        "isbn": "",
-        "score": 175,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
             "rank": 5
           }
         ],
@@ -759,7 +753,8 @@
           }
         ],
         "source": "combined",
-        "rank": 25
+        "rank": 25,
+        "originalTitle": "ゲッターズ飯田の五星三心占い2027 銀の鳳凰座"
       },
       "ranking": {
         "title": "ゲッターズ飯田の五星三心占い2027 銀の鳳凰座",
@@ -1136,8 +1131,7 @@
           }
         ],
         "source": "combined",
-        "rank": 35,
-        "originalTitle": "ゲッターズ飯田の五星三心占い2027 銀のインディアン座"
+        "rank": 35
       },
       "ranking": {
         "title": "ゲッターズ飯田の五星三心占い2027 銀のインディアン座",
@@ -1203,53 +1197,6 @@
       }
     },
     {
-      "id": "9781505942323",
-      "title": "How to Start a Crown Agents for Overseas Governments and Administrations Business (Beginners Guide)",
-      "author": "Leclair Jaquelyn",
-      "publisher": "SamEnrico",
-      "price": 2515,
-      "url": "https://books.rakuten.co.jp/rk/da3f192a66453cb193c43421103700ab/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5952/2000020915952.jpg?_ex=600x600",
-      "caption": "This publication, published by SamEnrico, covers How to Start a Crown Agents for Overseas Governments and Administrations Business (Beginners Guide)\n",
-      "salesDate": "2015年12月20日",
-      "series": "",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101970003007",
-      "isbn": "9781505942323",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "FOR OVERSEAS",
-        "author": "",
-        "isbn": "",
-        "score": 168,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 12
-          }
-        ],
-        "source": "combined",
-        "rank": 40
-      },
-      "ranking": {
-        "title": "FOR OVERSEAS",
-        "author": "",
-        "isbn": "",
-        "score": 168,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 12
-          }
-        ],
-        "source": "combined",
-        "rank": 21
-      }
-    },
-    {
       "id": "6681316776900",
       "title": "春までのセンセイ",
       "author": "早見和真",
@@ -1293,7 +1240,7 @@
           }
         ],
         "source": "combined",
-        "rank": 22
+        "rank": 21
       }
     },
     {
@@ -1340,7 +1287,7 @@
           }
         ],
         "source": "combined",
-        "rank": 23
+        "rank": 22
       }
     },
     {
@@ -1387,7 +1334,7 @@
           }
         ],
         "source": "combined",
-        "rank": 24
+        "rank": 23
       }
     },
     {
@@ -1434,7 +1381,7 @@
           }
         ],
         "source": "combined",
-        "rank": 25
+        "rank": 24
       }
     },
     {
@@ -1456,8 +1403,7 @@
       "matchMeta": {
         "title": "3秒でハッピーになる超名言100 20周年プレミアムカバー",
         "author": "ひすいこたろう",
-        "isbn": "",
-        "score": 154,
+        "score": 6,
         "sources": [
           {
             "source": "amazon",
@@ -1466,7 +1412,8 @@
           }
         ],
         "source": "combined",
-        "rank": 68
+        "rank": 70,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "3秒でハッピーになる超名言100 20周年プレミアムカバー",
@@ -1481,6 +1428,53 @@
           }
         ],
         "source": "combined",
+        "rank": 25
+      }
+    },
+    {
+      "id": "4335763800320",
+      "title": "魔導具師ダリヤはうつむかない　〜今日から自由な職人ライフ〜14",
+      "author": "甘岸久弥/駒田　ハチ/景",
+      "publisher": "KADOKAWA",
+      "price": 1705,
+      "url": "https://books.rakuten.co.jp/rk/739a8816e4933e049e1f276cb5b749a3/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0135/2000021720135.jpg?_ex=600x600",
+      "caption": "叙爵の準備をしながら、魔物討伐部隊相談役の務めをこなす魔導具師のダリヤ。彼女が打合せのために王城を訪れると、部隊に魔羊捕獲の緊急要請が入る。今回の任務にそう危険はない、安心したダリヤはヴォルフと叙爵の前祝いを約束しながら別れた。しかし、ヴォルフ達の遠征中に飛び込んできたのは、かつて甚大な被害をもたらした魔物「九頭大蛇」出現の急報だった。ヴォルフと二度と会えないことへの恐怖で、ただ呆然とするダリヤ。そんな彼女に、王都で出陣を控えるグラートは祈るように言葉をかける。「ロセッティ男爵に乞う。何があってもーーどうか、折れないでくれ」祈りを受けたダリヤの応えはーー？魔導具師ダリヤのものづくりストーリー、絶望の淵から光を紡ぐ第十四弾、開幕！\n",
+      "salesDate": "2026年09月25日",
+      "series": "魔導具師ダリヤはうつむかない　〜今日から自由な職人ライフ〜",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101903090",
+      "isbn": "4335763800320",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "魔導具師ダリヤはうつむかない 〈14〉 - 今日から自由な職人ライフ MFブックス",
+        "author": "",
+        "score": 5,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 27
+          }
+        ],
+        "source": "combined",
+        "rank": 71,
+        "originalTitle": "魔導具師ダリヤはうつむかない 〈１４〉 - 今日から自由な職人ライフ ＭＦブックス"
+      },
+      "ranking": {
+        "title": "魔導具師ダリヤはうつむかない 〈１４〉 - 今日から自由な職人ライフ ＭＦブックス",
+        "author": "",
+        "isbn": "",
+        "score": 153,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 27
+          }
+        ],
+        "source": "combined",
         "rank": 26
       }
     },
@@ -1492,7 +1486,7 @@
       "price": 572,
       "url": "https://books.rakuten.co.jp/rk/9727f11693dc3b75be64c7a58da8e015/",
       "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8563/2000021668563.jpg?_ex=600x600",
-      "caption": "ジャンプコミックスDIGITAL「BORUTO-ボルト-　-TWO BLUE VORTEX-」9巻、10月2日配信スタート!!　※配信日は変更になることがあります。ご了承ください。\n",
+      "caption": "サラダとカワキが倒れ対虫（マムシ）の作戦は失敗。虫の数は増え続けボルト達は窮地に！　果心居士の「十方」も新たな更新はなされず…。事態を打開する鍵はいのじんにかかる？　さらにボルトとコードに緊迫の事態が!!\n",
       "salesDate": "2026年10月02日",
       "series": "BORUTO-ボルト-　-TWO BLUE VORTEX-",
       "reviewAverage": 0,
@@ -1529,53 +1523,6 @@
         ],
         "source": "combined",
         "rank": 27
-      }
-    },
-    {
-      "id": "4335763800320",
-      "title": "魔導具師ダリヤはうつむかない　〜今日から自由な職人ライフ〜14",
-      "author": "甘岸久弥/駒田　ハチ/景",
-      "publisher": "KADOKAWA",
-      "price": 1705,
-      "url": "https://books.rakuten.co.jp/rk/739a8816e4933e049e1f276cb5b749a3/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0135/2000021720135.jpg?_ex=600x600",
-      "caption": "叙爵の準備をしながら、魔物討伐部隊相談役の務めをこなす魔導具師のダリヤ。彼女が打合せのために王城を訪れると、部隊に魔羊捕獲の緊急要請が入る。今回の任務にそう危険はない、安心したダリヤはヴォルフと叙爵の前祝いを約束しながら別れた。しかし、ヴォルフ達の遠征中に飛び込んできたのは、かつて甚大な被害をもたらした魔物「九頭大蛇」出現の急報だった。ヴォルフと二度と会えないことへの恐怖で、ただ呆然とするダリヤ。そんな彼女に、王都で出陣を控えるグラートは祈るように言葉をかける。「ロセッティ男爵に乞う。何があってもーーどうか、折れないでくれ」祈りを受けたダリヤの応えはーー？魔導具師ダリヤのものづくりストーリー、絶望の淵から光を紡ぐ第十四弾、開幕！\n",
-      "salesDate": "2026年09月25日",
-      "series": "魔導具師ダリヤはうつむかない　〜今日から自由な職人ライフ〜",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101903090",
-      "isbn": "4335763800320",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "魔導具師ダリヤはうつむかない 〈１４〉 - 今日から自由な職人ライフ ＭＦブックス",
-        "author": "",
-        "isbn": "",
-        "score": 153,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 27
-          }
-        ],
-        "source": "combined",
-        "rank": 71
-      },
-      "ranking": {
-        "title": "魔導具師ダリヤはうつむかない 〈１４〉 - 今日から自由な職人ライフ ＭＦブックス",
-        "author": "",
-        "isbn": "",
-        "score": 153,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 27
-          }
-        ],
-        "source": "combined",
-        "rank": 28
       }
     },
     {
@@ -1622,7 +1569,7 @@
           }
         ],
         "source": "combined",
-        "rank": 29
+        "rank": 28
       }
     },
     {
@@ -1665,6 +1612,53 @@
             "source": "tohan",
             "label": "トーハン",
             "rank": 1
+          }
+        ],
+        "source": "combined",
+        "rank": 29,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "4310000890409",
+      "title": "楽園",
+      "author": "夕木春央",
+      "publisher": "講談社",
+      "price": 1980,
+      "url": "https://books.rakuten.co.jp/rk/1a1c684dcee83b98b4d0187187c813d0/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1651/2000021221651.jpg?_ex=600x600",
+      "caption": "殺人犯にならなければ脱出できない。\n『方舟』『十戒』の著者が仕掛ける“禁忌の驚き”\n亡き両親から不動産を譲り受けた康之は、失踪した賃借人・海原の遺留品整理の際に、群馬の山奥の謎の物件の存在を知る。そこは、切り立った岩壁に囲まれた、「楽園」と呼ばれる奇妙な場所だった。恋人の沙織と一緒にそこを訪ね、探索をはじめた康之たちは、すぐに六人の“住人”に拿捕された。脱出のための条件はーー\n「誰か一人を殺さなければならない」\n『方舟』\n第19回オリコン上半期”本”ランキング　文庫ランキングTOP10 第1位\n週刊文春ミステリーベスト10　第1位　（「週刊文春」2022年12月8日号）国内部門\nMRC大賞2022　第1位\n『方舟』＋『十戒』の累計発行部数が100万部突破。\nーー夕木春央が描く、極限のクローズド・サークル。\n",
+      "salesDate": "2026年07月22日",
+      "series": "楽園",
+      "reviewAverage": 4.18,
+      "reviewCount": 427,
+      "genreId": "101902",
+      "isbn": "4310000890409",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "楽園",
+        "author": "夕木春央",
+        "score": 94,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
+          }
+        ],
+        "source": "combined",
+        "rank": 13,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "楽園",
+        "author": "夕木春央",
+        "score": 94,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
           }
         ],
         "source": "combined",
@@ -1783,7 +1777,8 @@
       "4390000005636",
       "4620000615075",
       "4620000615076",
-      "4320000935692"
+      "4320000935692",
+      "4310000890409"
     ],
     "sf": [],
     "business": [
@@ -1842,7 +1837,7 @@
       "complete": true
     },
     "mystery": {
-      "matched": 4,
+      "matched": 5,
       "complete": true
     },
     "sf": {

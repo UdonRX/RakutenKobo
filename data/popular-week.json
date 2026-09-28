@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-09-28T14:45:46.993Z",
+  "updatedAt": "2026-09-28T23:46:14.086Z",
   "candidateCount": 77,
-  "baseMatched": 26,
-  "matched": 32,
-  "addedMatches": 6,
+  "baseMatched": 22,
+  "matched": 30,
+  "addedMatches": 8,
   "unavailable": [
     "rakuten"
   ],
@@ -59,6 +59,12 @@
           "rank": 11
         },
         {
+          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 (幻冬舎新書 803)",
+          "author": "林真理子",
+          "isbn": "",
+          "rank": 15
+        },
+        {
           "title": "名探偵コナン (109)",
           "author": "青山 剛昌",
           "isbn": "",
@@ -100,12 +106,6 @@
           "rank": 3
         },
         {
-          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-          "author": "林真理子",
-          "isbn": "",
-          "rank": 4
-        },
-        {
           "title": "シャーロック・ホームズの凱旋",
           "author": "森見登美彦",
           "isbn": "",
@@ -122,12 +122,6 @@
           "author": "M・W・クレイヴン",
           "isbn": "",
           "rank": 9
-        },
-        {
-          "title": "ブラッディダイスの殺人 下",
-          "author": "M・W・クレイヴン",
-          "isbn": "",
-          "rank": 10
         }
       ]
     },
@@ -145,12 +139,6 @@
           "author": "",
           "isbn": "",
           "rank": 1
-        },
-        {
-          "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
-          "author": "",
-          "isbn": "",
-          "rank": 6
         },
         {
           "title": "自分とか、ないから。 教養としての東洋哲学",
@@ -206,12 +194,6 @@
       "live": true,
       "items": [
         {
-          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-          "author": "",
-          "isbn": "",
-          "rank": 3
-        },
-        {
           "title": "イン･ザ･メガチャーチ",
           "author": "",
           "isbn": "",
@@ -234,68 +216,17 @@
           "author": "",
           "isbn": "",
           "rank": 10
+        },
+        {
+          "title": "FOR OVERSEAS",
+          "author": "",
+          "isbn": "",
+          "rank": 12
         }
       ]
     }
   },
   "items": [
-    {
-      "id": "4380000407898",
-      "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-      "author": "林真理子",
-      "publisher": "幻冬舎",
-      "price": 982,
-      "url": "https://books.rakuten.co.jp/rk/1e28fc1db6b83578b06b0919e0a52cd7/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0908/2000020490908.jpg?_ex=600x600",
-      "caption": "70代は頭も体もまだ大丈夫。\nそれなりに蓄えもできている。\nでもこれまでと全く同じことをしていたらダメ。\nできないことは諦め、楽しいことを大事にし、人生の新しいステージに立とう。\n同じ年代とばかりつるまず、ダイエットはしない。\n嫌われずに自慢話をするテクニック、お金にキレイな人と思われるおごり方ーー。\n72歳の人気作家が本音で語る「健康」「おしゃれ」「仕事」「お金」「人間関係」「趣味」。\n確実に近づく「その日」を見つめ、今の1分1秒を楽しんで生きるための、痛快・人生論。\n",
-      "salesDate": "2026年05月27日",
-      "series": "",
-      "reviewAverage": 3.53,
-      "reviewCount": 55,
-      "genreId": "101907010004/101909",
-      "isbn": "4380000407898",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-        "author": "林真理子",
-        "score": 192,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 4
-          },
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 3
-          }
-        ],
-        "source": "combined",
-        "rank": 2,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-        "author": "林真理子",
-        "isbn": "",
-        "score": 353,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 4
-          },
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 3
-          }
-        ],
-        "source": "combined",
-        "rank": 1
-      }
-    },
     {
       "id": "4660629612104",
       "title": "イン・ザ・メガチャーチ",
@@ -345,7 +276,7 @@
           }
         ],
         "source": "combined",
-        "rank": 2
+        "rank": 1
       }
     },
     {
@@ -367,8 +298,7 @@
       "matchMeta": {
         "title": "パンどろぼうとさすらいラーメン",
         "author": "",
-        "isbn": "",
-        "score": 179,
+        "score": 106,
         "sources": [
           {
             "source": "kinokuniya",
@@ -377,7 +307,8 @@
           }
         ],
         "source": "combined",
-        "rank": 7
+        "rank": 4,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "パンどろぼうとさすらいラーメン",
@@ -392,7 +323,7 @@
           }
         ],
         "source": "combined",
-        "rank": 3
+        "rank": 2
       }
     },
     {
@@ -439,7 +370,7 @@
           }
         ],
         "source": "combined",
-        "rank": 4
+        "rank": 3
       }
     },
     {
@@ -486,7 +417,7 @@
           }
         ],
         "source": "combined",
-        "rank": 5
+        "rank": 4
       }
     },
     {
@@ -533,7 +464,7 @@
           }
         ],
         "source": "combined",
-        "rank": 6
+        "rank": 5
       }
     },
     {
@@ -580,7 +511,7 @@
           }
         ],
         "source": "combined",
-        "rank": 7
+        "rank": 6
       }
     },
     {
@@ -602,8 +533,7 @@
       "matchMeta": {
         "title": "転生したらスライムだった件(33) (シリウスKC)",
         "author": "川上 泰樹",
-        "isbn": "",
-        "score": 175,
+        "score": 90,
         "sources": [
           {
             "source": "amazon",
@@ -612,7 +542,8 @@
           }
         ],
         "source": "combined",
-        "rank": 16
+        "rank": 18,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "転生したらスライムだった件(33) (シリウスKC)",
@@ -627,54 +558,7 @@
           }
         ],
         "source": "combined",
-        "rank": 8
-      }
-    },
-    {
-      "id": "4390000014247",
-      "title": "戦争犯罪と闘う　国際刑事裁判所は屈しない",
-      "author": "赤根智子",
-      "publisher": "文藝春秋",
-      "price": 1000,
-      "url": "https://books.rakuten.co.jp/rk/ed83c0d4161a37adb64937f2dc843815/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5761/2000017995761.jpg?_ex=600x600",
-      "caption": "二つの戦争、そして戦後国際秩序の行方は\nロシアによるウクライナ侵攻とイスラエルによるパレスチナへの非人道的な攻撃。目まぐるしく国際情勢が変化するなか、この二つの戦争に向き合い、プーチンとネタニヤフに逮捕状を出した国際刑事裁判所（ICC）。日本人として初めてそのトップに就任した著者は、ほどなくしてプーチンから逆指名手配を受けることにもなった。さらにはトランプ大統領の大統領令による経済制裁の脅威にさらされるなど、世界規模の戦争犯罪に向き合ってきた国際刑事裁判所はいま、存続の危機にある。\n第二次世界大戦後にホロコーストに向き合ったニュルンベルク裁判、日本の戦争責任を裁いた東京裁判。二つの軍事法廷裁判にルーツをもち、国際平和秩序を守ろうと奮闘してきた国際刑事裁判所とはいかなる機関か。二つの戦争という異例の事態にどう向き合ったのか。「世界の警察」アメリカが過去のものになりつつある戦後国際秩序の行方とはーー。\n「世界で起きていることが日本では起きないとは限らない」。「力による支配」がむき出しになりつつある今こそ「法の支配」による安全保障が必要だ。\n「ウクライナ戦争の勃発で完全に覚醒した」と語る赤根さんが、その奮闘を通じて未来への責任を語りかける。\n※本書電子書籍版は刊行後の国際情勢の変化を鑑み、２０２５年１０月に記述の一部を更新しました。\n",
-      "salesDate": "2025年06月20日",
-      "series": "",
-      "reviewAverage": 4.17,
-      "reviewCount": 39,
-      "genreId": "101907009/101907005003/101914",
-      "isbn": "4390000014247",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
-        "author": "",
-        "score": 86,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 6
-          }
-        ],
-        "source": "combined",
-        "rank": 21,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
-        "author": "",
-        "isbn": "",
-        "score": 174,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 6
-          }
-        ],
-        "source": "combined",
-        "rank": 9
+        "rank": 7
       }
     },
     {
@@ -721,7 +605,7 @@
           }
         ],
         "source": "combined",
-        "rank": 10
+        "rank": 8
       }
     },
     {
@@ -753,8 +637,7 @@
           }
         ],
         "source": "combined",
-        "rank": 25,
-        "originalTitle": "ゲッターズ飯田の五星三心占い2027 銀の鳳凰座"
+        "rank": 25
       },
       "ranking": {
         "title": "ゲッターズ飯田の五星三心占い2027 銀の鳳凰座",
@@ -769,7 +652,7 @@
           }
         ],
         "source": "combined",
-        "rank": 11
+        "rank": 9
       }
     },
     {
@@ -816,7 +699,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12
+        "rank": 10
       }
     },
     {
@@ -863,7 +746,7 @@
           }
         ],
         "source": "combined",
-        "rank": 13
+        "rank": 11
       }
     },
     {
@@ -911,54 +794,7 @@
           }
         ],
         "source": "combined",
-        "rank": 14
-      }
-    },
-    {
-      "id": "4340008067611",
-      "title": "幽冥の岸　十二国記（新潮文庫）",
-      "author": "小野不由美",
-      "publisher": "新潮社",
-      "price": 825,
-      "url": "https://books.rakuten.co.jp/rk/7e370e5630af35e8a1d65d7b3e153066/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7863/2000021417863.jpg?_ex=600x600",
-      "caption": "「生きる」ーーその理（ことわり）を知るは唯一。琅燦（ろうさん）は、黄海に暮らす娘。戴国（たいこく）から訪れた男は、妖獣を狩ることを生業（なりわい）とする民の逞しさを知る。琅燦にとっては、男が語る国や政（まつりごと）が標（しるべ）となるーー運命の邂逅（であい）を描く「異邦の客」。神獣たる麒麟は血の穢れを受けてはならぬもの。義をもってのこととて、人を殺めた泰麒（たいき）に生きる道は赦されぬのかーー表題作「幽冥の岸」ほか、命と対峙し、生きる意味を問う４編。（解説・朝宮運河）\n",
-      "salesDate": "2026年12月11日",
-      "series": "十二国記",
-      "reviewAverage": 0,
-      "reviewCount": 2,
-      "genreId": "101901",
-      "isbn": "4340008067611",
-      "salesType": 1,
-      "matchMeta": {
-        "title": "幽冥の岸 十二国記",
-        "author": "小野不由美",
-        "score": 74,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 34,
-        "originalTitle": "幽冥の岸 十二国記 (新潮文庫 お 37-66)"
-      },
-      "ranking": {
-        "title": "幽冥の岸 十二国記 (新潮文庫 お 37-66)",
-        "author": "小野不由美",
-        "isbn": "",
-        "score": 171,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 15
+        "rank": 12
       }
     },
     {
@@ -1005,54 +841,54 @@
           }
         ],
         "source": "combined",
-        "rank": 16
+        "rank": 13
       }
     },
     {
-      "id": "4620000615076",
-      "title": "ブラッディダイスの殺人　下",
-      "author": "Ｍ Ｗ クレイヴン",
-      "publisher": "早川書房",
-      "price": 1210,
-      "url": "https://books.rakuten.co.jp/rk/eea149cbab90347eb70bdd38623e4df0/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9727/2000021429727.jpg?_ex=600x600",
-      "caption": "ポーとティリーが再びタッグを組む！　シリーズ累計30万部の最新作！\n英国全土で連続狙撃事件が発生。犠牲者は17人にのぼるも犯人の手がかりはなく、ポーとティリーは国家犯罪対策庁に呼び戻されるが\n",
-      "salesDate": "2026年08月19日",
-      "series": "ワシントン・ポー",
-      "reviewAverage": 4.68,
-      "reviewCount": 27,
-      "genreId": "101902",
-      "isbn": "4620000615076",
-      "salesType": 0,
+      "id": "4340008067611",
+      "title": "幽冥の岸　十二国記（新潮文庫）",
+      "author": "小野不由美",
+      "publisher": "新潮社",
+      "price": 825,
+      "url": "https://books.rakuten.co.jp/rk/7e370e5630af35e8a1d65d7b3e153066/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7863/2000021417863.jpg?_ex=600x600",
+      "caption": "「生きる」ーーその理（ことわり）を知るは唯一。琅燦（ろうさん）は、黄海に暮らす娘。戴国（たいこく）から訪れた男は、妖獣を狩ることを生業（なりわい）とする民の逞しさを知る。琅燦にとっては、男が語る国や政（まつりごと）が標（しるべ）となるーー運命の邂逅（であい）を描く「異邦の客」。神獣たる麒麟は血の穢れを受けてはならぬもの。義をもってのこととて、人を殺めた泰麒（たいき）に生きる道は赦されぬのかーー表題作「幽冥の岸」ほか、命と対峙し、生きる意味を問う４編。（解説・朝宮運河）\n",
+      "salesDate": "2026年12月11日",
+      "series": "十二国記",
+      "reviewAverage": 0,
+      "reviewCount": 2,
+      "genreId": "101901",
+      "isbn": "4340008067611",
+      "salesType": 1,
       "matchMeta": {
-        "title": "ブラッディダイスの殺人 下",
-        "author": "M・W・クレイヴン",
-        "score": 70,
+        "title": "幽冥の岸 十二国記 (新潮文庫 お 37-66)",
+        "author": "小野不由美",
+        "isbn": "",
+        "score": 171,
         "sources": [
           {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 10
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 9
           }
         ],
         "source": "combined",
-        "rank": 35,
-        "originalTitle": ""
+        "rank": 30
       },
       "ranking": {
-        "title": "ブラッディダイスの殺人 下",
-        "author": "M・W・クレイヴン",
+        "title": "幽冥の岸 十二国記 (新潮文庫 お 37-66)",
+        "author": "小野不由美",
         "isbn": "",
-        "score": 170,
+        "score": 171,
         "sources": [
           {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 10
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 9
           }
         ],
         "source": "combined",
-        "rank": 17
+        "rank": 14
       }
     },
     {
@@ -1099,7 +935,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18
+        "rank": 15
       }
     },
     {
@@ -1146,7 +982,7 @@
           }
         ],
         "source": "combined",
-        "rank": 19
+        "rank": 16
       }
     },
     {
@@ -1193,7 +1029,54 @@
           }
         ],
         "source": "combined",
-        "rank": 20
+        "rank": 17
+      }
+    },
+    {
+      "id": "9781505942323",
+      "title": "How to Start a Crown Agents for Overseas Governments and Administrations Business (Beginners Guide)",
+      "author": "Leclair Jaquelyn",
+      "publisher": "SamEnrico",
+      "price": 2515,
+      "url": "https://books.rakuten.co.jp/rk/da3f192a66453cb193c43421103700ab/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5952/2000020915952.jpg?_ex=600x600",
+      "caption": "This publication, published by SamEnrico, covers How to Start a Crown Agents for Overseas Governments and Administrations Business (Beginners Guide)\n",
+      "salesDate": "2015年12月20日",
+      "series": "",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101970003007",
+      "isbn": "9781505942323",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "FOR OVERSEAS",
+        "author": "",
+        "isbn": "",
+        "score": 168,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 12
+          }
+        ],
+        "source": "combined",
+        "rank": 40
+      },
+      "ranking": {
+        "title": "FOR OVERSEAS",
+        "author": "",
+        "isbn": "",
+        "score": 168,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 12
+          }
+        ],
+        "source": "combined",
+        "rank": 18
       }
     },
     {
@@ -1215,7 +1098,8 @@
       "matchMeta": {
         "title": "春までのセンセイ",
         "author": "",
-        "score": 54,
+        "isbn": "",
+        "score": 166,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1224,8 +1108,7 @@
           }
         ],
         "source": "combined",
-        "rank": 45,
-        "originalTitle": ""
+        "rank": 45
       },
       "ranking": {
         "title": "春までのセンセイ",
@@ -1240,7 +1123,54 @@
           }
         ],
         "source": "combined",
-        "rank": 21
+        "rank": 19
+      }
+    },
+    {
+      "id": "4380000407898",
+      "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+      "author": "林真理子",
+      "publisher": "幻冬舎",
+      "price": 982,
+      "url": "https://books.rakuten.co.jp/rk/1e28fc1db6b83578b06b0919e0a52cd7/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0908/2000020490908.jpg?_ex=600x600",
+      "caption": "70代は頭も体もまだ大丈夫。\nそれなりに蓄えもできている。\nでもこれまでと全く同じことをしていたらダメ。\nできないことは諦め、楽しいことを大事にし、人生の新しいステージに立とう。\n同じ年代とばかりつるまず、ダイエットはしない。\n嫌われずに自慢話をするテクニック、お金にキレイな人と思われるおごり方ーー。\n72歳の人気作家が本音で語る「健康」「おしゃれ」「仕事」「お金」「人間関係」「趣味」。\n確実に近づく「その日」を見つめ、今の1分1秒を楽しんで生きるための、痛快・人生論。\n",
+      "salesDate": "2026年05月27日",
+      "series": "",
+      "reviewAverage": 3.53,
+      "reviewCount": 55,
+      "genreId": "101907010004/101909",
+      "isbn": "4380000407898",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "author": "林真理子",
+        "score": 50,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 15
+          }
+        ],
+        "source": "combined",
+        "rank": 48,
+        "originalTitle": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 (幻冬舎新書 803)"
+      },
+      "ranking": {
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 (幻冬舎新書 803)",
+        "author": "林真理子",
+        "isbn": "",
+        "score": 165,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 15
+          }
+        ],
+        "source": "combined",
+        "rank": 20
       }
     },
     {
@@ -1287,7 +1217,7 @@
           }
         ],
         "source": "combined",
-        "rank": 22
+        "rank": 21
       }
     },
     {
@@ -1334,7 +1264,7 @@
           }
         ],
         "source": "combined",
-        "rank": 23
+        "rank": 22
       }
     },
     {
@@ -1381,7 +1311,7 @@
           }
         ],
         "source": "combined",
-        "rank": 24
+        "rank": 23
       }
     },
     {
@@ -1428,54 +1358,7 @@
           }
         ],
         "source": "combined",
-        "rank": 25
-      }
-    },
-    {
-      "id": "4335763800320",
-      "title": "魔導具師ダリヤはうつむかない　〜今日から自由な職人ライフ〜14",
-      "author": "甘岸久弥/駒田　ハチ/景",
-      "publisher": "KADOKAWA",
-      "price": 1705,
-      "url": "https://books.rakuten.co.jp/rk/739a8816e4933e049e1f276cb5b749a3/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0135/2000021720135.jpg?_ex=600x600",
-      "caption": "叙爵の準備をしながら、魔物討伐部隊相談役の務めをこなす魔導具師のダリヤ。彼女が打合せのために王城を訪れると、部隊に魔羊捕獲の緊急要請が入る。今回の任務にそう危険はない、安心したダリヤはヴォルフと叙爵の前祝いを約束しながら別れた。しかし、ヴォルフ達の遠征中に飛び込んできたのは、かつて甚大な被害をもたらした魔物「九頭大蛇」出現の急報だった。ヴォルフと二度と会えないことへの恐怖で、ただ呆然とするダリヤ。そんな彼女に、王都で出陣を控えるグラートは祈るように言葉をかける。「ロセッティ男爵に乞う。何があってもーーどうか、折れないでくれ」祈りを受けたダリヤの応えはーー？魔導具師ダリヤのものづくりストーリー、絶望の淵から光を紡ぐ第十四弾、開幕！\n",
-      "salesDate": "2026年09月25日",
-      "series": "魔導具師ダリヤはうつむかない　〜今日から自由な職人ライフ〜",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101903090",
-      "isbn": "4335763800320",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "魔導具師ダリヤはうつむかない 〈14〉 - 今日から自由な職人ライフ MFブックス",
-        "author": "",
-        "score": 5,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 27
-          }
-        ],
-        "source": "combined",
-        "rank": 71,
-        "originalTitle": "魔導具師ダリヤはうつむかない 〈１４〉 - 今日から自由な職人ライフ ＭＦブックス"
-      },
-      "ranking": {
-        "title": "魔導具師ダリヤはうつむかない 〈１４〉 - 今日から自由な職人ライフ ＭＦブックス",
-        "author": "",
-        "isbn": "",
-        "score": 153,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 27
-          }
-        ],
-        "source": "combined",
-        "rank": 26
+        "rank": 24
       }
     },
     {
@@ -1522,7 +1405,54 @@
           }
         ],
         "source": "combined",
-        "rank": 27
+        "rank": 25
+      }
+    },
+    {
+      "id": "4335763800320",
+      "title": "魔導具師ダリヤはうつむかない　〜今日から自由な職人ライフ〜14",
+      "author": "甘岸久弥/駒田　ハチ/景",
+      "publisher": "KADOKAWA",
+      "price": 1705,
+      "url": "https://books.rakuten.co.jp/rk/739a8816e4933e049e1f276cb5b749a3/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0135/2000021720135.jpg?_ex=600x600",
+      "caption": "叙爵の準備をしながら、魔物討伐部隊相談役の務めをこなす魔導具師のダリヤ。彼女が打合せのために王城を訪れると、部隊に魔羊捕獲の緊急要請が入る。今回の任務にそう危険はない、安心したダリヤはヴォルフと叙爵の前祝いを約束しながら別れた。しかし、ヴォルフ達の遠征中に飛び込んできたのは、かつて甚大な被害をもたらした魔物「九頭大蛇」出現の急報だった。ヴォルフと二度と会えないことへの恐怖で、ただ呆然とするダリヤ。そんな彼女に、王都で出陣を控えるグラートは祈るように言葉をかける。「ロセッティ男爵に乞う。何があってもーーどうか、折れないでくれ」祈りを受けたダリヤの応えはーー？魔導具師ダリヤのものづくりストーリー、絶望の淵から光を紡ぐ第十四弾、開幕！\n",
+      "salesDate": "2026年09月25日",
+      "series": "魔導具師ダリヤはうつむかない　〜今日から自由な職人ライフ〜",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101903090",
+      "isbn": "4335763800320",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "魔導具師ダリヤはうつむかない 〈１４〉 - 今日から自由な職人ライフ ＭＦブックス",
+        "author": "",
+        "isbn": "",
+        "score": 153,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 27
+          }
+        ],
+        "source": "combined",
+        "rank": 71
+      },
+      "ranking": {
+        "title": "魔導具師ダリヤはうつむかない 〈１４〉 - 今日から自由な職人ライフ ＭＦブックス",
+        "author": "",
+        "isbn": "",
+        "score": 153,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 27
+          }
+        ],
+        "source": "combined",
+        "rank": 26
       }
     },
     {
@@ -1569,7 +1499,7 @@
           }
         ],
         "source": "combined",
-        "rank": 28
+        "rank": 27
       }
     },
     {
@@ -1615,54 +1545,7 @@
           }
         ],
         "source": "combined",
-        "rank": 29,
-        "originalTitle": ""
-      }
-    },
-    {
-      "id": "4310000890409",
-      "title": "楽園",
-      "author": "夕木春央",
-      "publisher": "講談社",
-      "price": 1980,
-      "url": "https://books.rakuten.co.jp/rk/1a1c684dcee83b98b4d0187187c813d0/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1651/2000021221651.jpg?_ex=600x600",
-      "caption": "殺人犯にならなければ脱出できない。\n『方舟』『十戒』の著者が仕掛ける“禁忌の驚き”\n亡き両親から不動産を譲り受けた康之は、失踪した賃借人・海原の遺留品整理の際に、群馬の山奥の謎の物件の存在を知る。そこは、切り立った岩壁に囲まれた、「楽園」と呼ばれる奇妙な場所だった。恋人の沙織と一緒にそこを訪ね、探索をはじめた康之たちは、すぐに六人の“住人”に拿捕された。脱出のための条件はーー\n「誰か一人を殺さなければならない」\n『方舟』\n第19回オリコン上半期”本”ランキング　文庫ランキングTOP10 第1位\n週刊文春ミステリーベスト10　第1位　（「週刊文春」2022年12月8日号）国内部門\nMRC大賞2022　第1位\n『方舟』＋『十戒』の累計発行部数が100万部突破。\nーー夕木春央が描く、極限のクローズド・サークル。\n",
-      "salesDate": "2026年07月22日",
-      "series": "楽園",
-      "reviewAverage": 4.18,
-      "reviewCount": 427,
-      "genreId": "101902",
-      "isbn": "4310000890409",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "楽園",
-        "author": "夕木春央",
-        "score": 94,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
-          }
-        ],
-        "source": "combined",
-        "rank": 13,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "楽園",
-        "author": "夕木春央",
-        "score": 94,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
-          }
-        ],
-        "source": "combined",
-        "rank": 30,
+        "rank": 28,
         "originalTitle": ""
       }
     },
@@ -1709,7 +1592,7 @@
           }
         ],
         "source": "combined",
-        "rank": 31,
+        "rank": 29,
         "originalTitle": ""
       }
     },
@@ -1756,7 +1639,7 @@
           }
         ],
         "source": "combined",
-        "rank": 32,
+        "rank": 30,
         "originalTitle": ""
       }
     }
@@ -1776,9 +1659,7 @@
     "mystery": [
       "4390000005636",
       "4620000615075",
-      "4620000615076",
-      "4320000935692",
-      "4310000890409"
+      "4320000935692"
     ],
     "sf": [],
     "business": [
@@ -1787,25 +1668,22 @@
       "4310000701877"
     ],
     "humanities": [
-      "4380000407898",
-      "4390000014247",
       "4390000016508",
+      "4380000407898",
       "4910000858569",
       "4310000701877"
     ],
-    "nonfiction": [
-      "4390000014247"
-    ],
+    "nonfiction": [],
     "science": [
       "8910126773560",
       "6681311679960"
     ],
     "it": [],
     "life": [
-      "4380000407898",
       "4910000924309",
       "4910000924303",
-      "4910000924301"
+      "4910000924301",
+      "4380000407898"
     ],
     "health": [],
     "hobby": [],
@@ -1837,7 +1715,7 @@
       "complete": true
     },
     "mystery": {
-      "matched": 5,
+      "matched": 3,
       "complete": true
     },
     "sf": {
@@ -1849,11 +1727,11 @@
       "complete": true
     },
     "humanities": {
-      "matched": 5,
+      "matched": 4,
       "complete": true
     },
     "nonfiction": {
-      "matched": 1,
+      "matched": 0,
       "complete": true
     },
     "science": {

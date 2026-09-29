@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-09-29T13:32:06.084Z",
+  "updatedAt": "2026-09-29T22:50:48.660Z",
   "candidateCount": 77,
-  "baseMatched": 26,
-  "matched": 32,
-  "addedMatches": 6,
+  "baseMatched": 29,
+  "matched": 34,
+  "addedMatches": 5,
   "unavailable": [
     "rakuten"
   ],
@@ -682,8 +682,7 @@
           }
         ],
         "source": "combined",
-        "rank": 20,
-        "originalTitle": "ゲッターズ飯田の五星三心占い2027 銀のイルカ座"
+        "rank": 20
       },
       "ranking": {
         "title": "ゲッターズ飯田の五星三心占い2027 銀のイルカ座",
@@ -918,7 +917,8 @@
           }
         ],
         "source": "combined",
-        "rank": 27
+        "rank": 27,
+        "originalTitle": "ゲッターズ飯田の五星三心占い2027 銀の羅針盤座"
       },
       "ranking": {
         "title": "ゲッターズ飯田の五星三心占い2027 銀の羅針盤座",
@@ -934,53 +934,6 @@
         ],
         "source": "combined",
         "rank": 14
-      }
-    },
-    {
-      "id": "4660629621097",
-      "title": "ユナイテッドアローズの売る力、育てるしくみ",
-      "author": "松下久美",
-      "publisher": "日経BP",
-      "price": 2200,
-      "url": "https://books.rakuten.co.jp/rk/aa3b2f296b22349b840102376412d447/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9911/2000021819911.jpg?_ex=600x600",
-      "caption": "「あなたに会いに来ました」\nなぜ、ユナイテッドアローズの販売員は、お客様からそう言われるのか。\n初デートの服選びを手伝ったお客様から、結婚の報告を受けた販売員。\nたった一度の接客で、ぎくしゃくしていた親子の心をつなぎ直した販売員。\n不登校を経験しながらも、自分と向き合い続け、やがて多くのお客様から選ばれる存在になった販売員ーー。\n彼らが売っているのは、洋服だけではありません。\nお客様に自信を与え、新しい自分との出会いを生み、ときに人生を前向きに変える体験と感動を届けています。\n本書は、日本を代表するセレクトショップ・ユナイテッドアローズで活躍する30人超の販売員、店長、経営陣への徹底取材から生まれたノンフィクションです。\nAI（人工知能）が商品を提案し、スマートフォンひとつで何でも買える時代。\nそれでもヒトが店舗へ足を運び、ヒトに会いに行くのはなぜなのか。\nAIがどれだけ進化しても、ヒトの心を動かせるのはヒトだけです。\n「何を買うか」ではなく、「誰から買うか」。\nその答えが、本書にはあります。\n接客・販売に携わる人はもちろん、経営者、人事担当者、管理職、そして「ヒトが育つ組織」の本質を学びたいすべての人へ。\n販売員の数だけ、お客様の数だけ物語がある。\nこれは販売員への賛歌であり、ヒトを育てる企業の物語であり、AI時代における「ヒトの価値」を問い直す一冊です。\nThe Future is Human.\nヒトこそ、未来を創る。\n",
-      "salesDate": "2026年09月25日",
-      "series": "",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101905016001",
-      "isbn": "4660629621097",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ユナイテッドアローズの売る力、育てるしくみ",
-        "author": "",
-        "score": 74,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 33,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "ユナイテッドアローズの売る力、育てるしくみ",
-        "author": "",
-        "isbn": "",
-        "score": 171,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 15
       }
     },
     {
@@ -1023,6 +976,53 @@
           {
             "source": "maruzen",
             "label": "丸善ジュンク堂",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 15
+      }
+    },
+    {
+      "id": "4660629621097",
+      "title": "ユナイテッドアローズの売る力、育てるしくみ",
+      "author": "松下久美",
+      "publisher": "日経BP",
+      "price": 2200,
+      "url": "https://books.rakuten.co.jp/rk/aa3b2f296b22349b840102376412d447/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9911/2000021819911.jpg?_ex=600x600",
+      "caption": "「あなたに会いに来ました」\nなぜ、ユナイテッドアローズの販売員は、お客様からそう言われるのか。\n初デートの服選びを手伝ったお客様から、結婚の報告を受けた販売員。\nたった一度の接客で、ぎくしゃくしていた親子の心をつなぎ直した販売員。\n不登校を経験しながらも、自分と向き合い続け、やがて多くのお客様から選ばれる存在になった販売員ーー。\n彼らが売っているのは、洋服だけではありません。\nお客様に自信を与え、新しい自分との出会いを生み、ときに人生を前向きに変える体験と感動を届けています。\n本書は、日本を代表するセレクトショップ・ユナイテッドアローズで活躍する30人超の販売員、店長、経営陣への徹底取材から生まれたノンフィクションです。\nAI（人工知能）が商品を提案し、スマートフォンひとつで何でも買える時代。\nそれでもヒトが店舗へ足を運び、ヒトに会いに行くのはなぜなのか。\nAIがどれだけ進化しても、ヒトの心を動かせるのはヒトだけです。\n「何を買うか」ではなく、「誰から買うか」。\nその答えが、本書にはあります。\n接客・販売に携わる人はもちろん、経営者、人事担当者、管理職、そして「ヒトが育つ組織」の本質を学びたいすべての人へ。\n販売員の数だけ、お客様の数だけ物語がある。\nこれは販売員への賛歌であり、ヒトを育てる企業の物語であり、AI時代における「ヒトの価値」を問い直す一冊です。\nThe Future is Human.\nヒトこそ、未来を創る。\n",
+      "salesDate": "2026年09月25日",
+      "series": "",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101905016001",
+      "isbn": "4660629621097",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ユナイテッドアローズの売る力、育てるしくみ",
+        "author": "",
+        "score": 74,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 33,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "ユナイテッドアローズの売る力、育てるしくみ",
+        "author": "",
+        "isbn": "",
+        "score": 171,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
             "rank": 9
           }
         ],
@@ -1153,8 +1153,7 @@
           }
         ],
         "source": "combined",
-        "rank": 35,
-        "originalTitle": "ゲッターズ飯田の五星三心占い2027 銀のインディアン座"
+        "rank": 35
       },
       "ranking": {
         "title": "ゲッターズ飯田の五星三心占い2027 銀のインディアン座",
@@ -1469,7 +1468,7 @@
       "reviewCount": 0,
       "genreId": "101903090/101901001/101902",
       "isbn": "4320000935692",
-      "salesType": 1,
+      "salesType": 0,
       "matchMeta": {
         "title": "名探偵コナン (109)",
         "author": "青山 剛昌",
@@ -1661,8 +1660,7 @@
       "matchMeta": {
         "title": "命の燃やし方",
         "author": "鈴木 大飛",
-        "isbn": "",
-        "score": 150,
+        "score": 5,
         "sources": [
           {
             "source": "amazon",
@@ -1671,8 +1669,8 @@
           }
         ],
         "source": "combined",
-        "rank": 76,
-        "originalTitle": "命の燃やし方"
+        "rank": 78,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "命の燃やし方",
@@ -1738,6 +1736,53 @@
       }
     },
     {
+      "id": "4310000890409",
+      "title": "楽園",
+      "author": "夕木春央",
+      "publisher": "講談社",
+      "price": 1980,
+      "url": "https://books.rakuten.co.jp/rk/1a1c684dcee83b98b4d0187187c813d0/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1651/2000021221651.jpg?_ex=600x600",
+      "caption": "殺人犯にならなければ脱出できない。\n『方舟』『十戒』の著者が仕掛ける“禁忌の驚き”\n亡き両親から不動産を譲り受けた康之は、失踪した賃借人・海原の遺留品整理の際に、群馬の山奥の謎の物件の存在を知る。そこは、切り立った岩壁に囲まれた、「楽園」と呼ばれる奇妙な場所だった。恋人の沙織と一緒にそこを訪ね、探索をはじめた康之たちは、すぐに六人の“住人”に拿捕された。脱出のための条件はーー\n「誰か一人を殺さなければならない」\n『方舟』\n第19回オリコン上半期”本”ランキング　文庫ランキングTOP10 第1位\n週刊文春ミステリーベスト10　第1位　（「週刊文春」2022年12月8日号）国内部門\nMRC大賞2022　第1位\n『方舟』＋『十戒』の累計発行部数が100万部突破。\nーー夕木春央が描く、極限のクローズド・サークル。\n",
+      "salesDate": "2026年07月22日",
+      "series": "楽園",
+      "reviewAverage": 4.18,
+      "reviewCount": 427,
+      "genreId": "101902",
+      "isbn": "4310000890409",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "楽園",
+        "author": "夕木春央",
+        "score": 94,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
+          }
+        ],
+        "source": "combined",
+        "rank": 13,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "楽園",
+        "author": "夕木春央",
+        "score": 94,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
+          }
+        ],
+        "source": "combined",
+        "rank": 32,
+        "originalTitle": ""
+      }
+    },
+    {
       "id": "9784059239659",
       "title": "地球の歩き方 スター・ウォーズ",
       "author": "",
@@ -1780,7 +1825,54 @@
           }
         ],
         "source": "combined",
-        "rank": 32,
+        "rank": 33,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "4480000838415",
+      "title": "けんぐゎい",
+      "author": "朝倉かすみ",
+      "publisher": "光文社",
+      "price": 1980,
+      "url": "https://books.rakuten.co.jp/rk/7249a640151339f4ab53ef18f6bba0b0/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8537/2000020238537.jpg?_ex=600x600",
+      "caption": "利発だが酷い痘痕の姉ふゆ。逆上せ癖で縹緻よしの妹りよ。幼くして父を亡くし、ふゆは手習師匠の手伝いに、りよは船宿の下女奉公に出された。師匠の養子で禍々しいほどに歪んだ性癖をもつ宗三郎から手籠めにされたふゆは懐妊するが、現人神と崇められる女医者と出逢い、彼女の人生は大きく変わっていく。自我に目覚めた主人公が、女の生と向き合う、時代小説の新しい扉！　第175回直木賞受賞作！\n",
+      "salesDate": "2026年04月22日",
+      "series": "けんぐゎい",
+      "reviewAverage": 3.39,
+      "reviewCount": 116,
+      "genreId": "101901001001",
+      "isbn": "4480000838415",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "けんぐゎい",
+        "author": "朝倉かすみ",
+        "score": 70,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 36,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "けんぐゎい",
+        "author": "朝倉かすみ",
+        "score": 70,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 34,
         "originalTitle": ""
       }
     }
@@ -1794,13 +1886,15 @@
       "4340008067611",
       "6681316776900",
       "4380000407982",
-      "4320000935692"
+      "4320000935692",
+      "4480000838415"
     ],
     "mystery": [
       "4390000005636",
       "4620000615075",
       "4620000615076",
-      "4320000935692"
+      "4320000935692",
+      "4310000890409"
     ],
     "sf": [],
     "business": [
@@ -1856,11 +1950,11 @@
   },
   "genreStatus": {
     "fiction": {
-      "matched": 8,
+      "matched": 9,
       "complete": true
     },
     "mystery": {
-      "matched": 4,
+      "matched": 5,
       "complete": true
     },
     "sf": {

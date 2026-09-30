@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "year",
-  "updatedAt": "2026-09-30T13:14:23.245Z",
+  "updatedAt": "2026-09-30T22:50:52.925Z",
   "candidateCount": 13,
-  "baseMatched": 7,
+  "baseMatched": 6,
   "matched": 8,
-  "addedMatches": 1,
+  "addedMatches": 2,
   "unavailable": [],
   "snapshots": {
     "tohan": {
@@ -137,8 +137,9 @@
       "salesType": 0,
       "matchMeta": {
         "title": "変な地図",
-        "author": "雨穴",
-        "score": 102,
+        "author": "",
+        "isbn": "",
+        "score": 178,
         "sources": [
           {
             "source": "tohan",
@@ -148,7 +149,7 @@
         ],
         "source": "combined",
         "rank": 2,
-        "originalTitle": ""
+        "originalTitle": "変な地図"
       },
       "ranking": {
         "title": "変な地図",
@@ -430,8 +431,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12,
-        "originalTitle": "FOR OVERSEAS"
+        "rank": 12
       },
       "ranking": {
         "title": "FOR OVERSEAS",

@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "year",
-  "updatedAt": "2026-09-30T22:50:52.925Z",
+  "updatedAt": "2026-10-01T06:46:15.785Z",
   "candidateCount": 13,
-  "baseMatched": 6,
+  "baseMatched": 7,
   "matched": 8,
-  "addedMatches": 2,
+  "addedMatches": 1,
   "unavailable": [],
   "snapshots": {
     "tohan": {
@@ -17,7 +17,7 @@
       "attribution": "トーハン調べ",
       "sourceUrl": "https://www.tohan.jp/bestsellers/2026_firsthalf_total/",
       "periodLabel": "年次",
-      "updatedAt": "2026-09-30",
+      "updatedAt": "2026-10-01",
       "live": true,
       "items": [
         {
@@ -137,9 +137,8 @@
       "salesType": 0,
       "matchMeta": {
         "title": "変な地図",
-        "author": "",
-        "isbn": "",
-        "score": 178,
+        "author": "雨穴",
+        "score": 102,
         "sources": [
           {
             "source": "tohan",
@@ -149,7 +148,7 @@
         ],
         "source": "combined",
         "rank": 2,
-        "originalTitle": "変な地図"
+        "originalTitle": ""
       },
       "ranking": {
         "title": "変な地図",
@@ -431,7 +430,8 @@
           }
         ],
         "source": "combined",
-        "rank": 12
+        "rank": 12,
+        "originalTitle": "FOR OVERSEAS"
       },
       "ranking": {
         "title": "FOR OVERSEAS",

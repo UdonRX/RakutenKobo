@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-10-01T14:08:40.564Z",
+  "updatedAt": "2026-10-01T23:08:07.596Z",
   "candidateCount": 75,
-  "baseMatched": 23,
-  "matched": 34,
-  "addedMatches": 11,
+  "baseMatched": 31,
+  "matched": 36,
+  "addedMatches": 5,
   "unavailable": [
     "rakuten"
   ],
@@ -201,6 +201,12 @@
           "rank": 11
         },
         {
+          "title": "なぜ日本が世界に必要なのか 文春新書",
+          "author": "",
+          "isbn": "",
+          "rank": 12
+        },
+        {
           "title": "魔導具師ダリヤはうつむかない 〈１４〉 - 今日から自由な職人ライフ ＭＦブックス",
           "author": "",
           "isbn": "",
@@ -266,10 +272,10 @@
           "rank": 8
         },
         {
-          "title": "ゲッターズ飯田の五星三心占い2027 銀のインディアン座",
+          "title": "B.LEAGUE完全ガイド2026-27",
           "author": "",
           "isbn": "",
-          "rank": 10
+          "rank": 9
         },
         {
           "title": "FOR OVERSEAS",
@@ -518,23 +524,22 @@
       "matchMeta": {
         "title": "命の燃やし方",
         "author": "鈴木 大飛",
-        "isbn": "",
-        "score": 319,
+        "score": 56,
         "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 15
-          },
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
             "rank": 26
+          },
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 15
           }
         ],
         "source": "combined",
-        "rank": 7,
-        "originalTitle": "命の燃やし方"
+        "rank": 4,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "命の燃やし方",
@@ -558,20 +563,20 @@
       }
     },
     {
-      "id": "4916475490001",
-      "title": "プレゼント",
-      "author": "若竹七海",
-      "publisher": "中央公論新社",
-      "price": 776,
-      "url": "https://books.rakuten.co.jp/rk/9fe631efeb0f3eb0a09ce80197395709/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1444/2000007701444.jpg?_ex=600x600",
-      "caption": "ルーム・クリーナー、電話相談、興信所。トラブルメイカーのフリーター・葉村晶と、娘に借りたピンクの子供用自転車で現場に駆けつける小林警部補。二人が巻き込まれたハードボイルドで悲しい八つの事件とはーー。間抜けだが悪気のない隣人たちがひき起こす騒動はいつも危険すぎる！\n",
-      "salesDate": "2019年08月30日",
-      "series": "プレゼント",
-      "reviewAverage": 3.52,
-      "reviewCount": 92,
-      "genreId": "101901/101902",
-      "isbn": "4916475490001",
+      "id": "4340008067051",
+      "title": "プレゼント（新潮文庫）",
+      "author": "伊坂幸太郎/江國香織/恩田陸/梨木香歩/町田そのこ/宮部みゆき/米澤穂信",
+      "publisher": "新潮社",
+      "price": 825,
+      "url": "https://books.rakuten.co.jp/rk/e8a60fd88eb63075a76e50e52cf98712/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8962/2000020598962.jpg?_ex=600x600",
+      "caption": "これはこれまで小説を愛してきてくれた人へ、そしてこれから小説の世界に一歩踏み出す人へ贈るプレゼント。何気なく読んだ物語が、ふと目にした一行が、意外な言葉ひとつが、人生を大きく変えるかもしれない。現代を代表する７人の作家が「夏」をテーマに書き下ろした、驚きと切なさ、怖さと美しさ、何よりとびきりの面白さを詰め込んだ奇跡の一冊。さぁ、あなたの人生に小説という選択肢を。\n",
+      "salesDate": "2026年06月24日",
+      "series": "",
+      "reviewAverage": 3.87,
+      "reviewCount": 398,
+      "genreId": "101901",
+      "isbn": "4340008067051",
       "salesType": 0,
       "matchMeta": {
         "title": "プレゼント",
@@ -666,7 +671,7 @@
       "reviewCount": 0,
       "genreId": "101904001007",
       "isbn": "4972000167723",
-      "salesType": 1,
+      "salesType": 0,
       "matchMeta": {
         "title": "ワールドトリガー 30",
         "author": "葦原 大介",
@@ -764,8 +769,7 @@
       "matchMeta": {
         "title": "ハライチのターン!公式10周年記念本",
         "author": "",
-        "isbn": "",
-        "score": 174,
+        "score": 86,
         "sources": [
           {
             "source": "kinokuniya",
@@ -774,7 +778,7 @@
           }
         ],
         "source": "combined",
-        "rank": 21,
+        "rank": 23,
         "originalTitle": "ハライチのターン！公式１０周年記念本"
       },
       "ranking": {
@@ -822,7 +826,8 @@
           }
         ],
         "source": "combined",
-        "rank": 22
+        "rank": 22,
+        "originalTitle": "ゲッターズ飯田の五星三心占い2027 銀のイルカ座"
       },
       "ranking": {
         "title": "ゲッターズ飯田の五星三心占い2027 銀のイルカ座",
@@ -906,8 +911,7 @@
       "matchMeta": {
         "title": "ユナイテッドアローズの売る力、育てるしくみ",
         "author": "",
-        "isbn": "",
-        "score": 172,
+        "score": 78,
         "sources": [
           {
             "source": "kinokuniya",
@@ -916,7 +920,8 @@
           }
         ],
         "source": "combined",
-        "rank": 28
+        "rank": 31,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "ユナイテッドアローズの売る力、育てるしくみ",
@@ -963,7 +968,8 @@
           }
         ],
         "source": "combined",
-        "rank": 29
+        "rank": 29,
+        "originalTitle": "ゲッターズ飯田の五星三心占い2027 銀の羅針盤座"
       },
       "ranking": {
         "title": "ゲッターズ飯田の五星三心占い2027 銀の羅針盤座",
@@ -979,6 +985,53 @@
         ],
         "source": "combined",
         "rank": 14
+      }
+    },
+    {
+      "id": "4320000937482",
+      "title": "名探偵コナン（１０９）",
+      "author": "青山剛昌",
+      "publisher": "小学館",
+      "price": 583,
+      "url": "https://books.rakuten.co.jp/rk/3d4ab47857a63c738ff32de18230740a/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1781/2000021881781.jpg?_ex=600x600",
+      "caption": "※本タイトルの作品紹介文は、現在作成中でございます。\n作成出来ましたら反映致しますので、今しばらくお待ちください。\n",
+      "salesDate": "2026年10月16日",
+      "series": "名探偵コナン",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904001008",
+      "isbn": "4320000937482",
+      "salesType": 1,
+      "matchMeta": {
+        "title": "名探偵コナン (109)",
+        "author": "青山 剛昌",
+        "score": 74,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 35,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "名探偵コナン (109)",
+        "author": "青山 剛昌",
+        "isbn": "",
+        "score": 171,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 15
       }
     },
     {
@@ -1025,54 +1078,55 @@
           }
         ],
         "source": "combined",
-        "rank": 15
+        "rank": 16
       }
     },
     {
-      "id": "4320000935692",
-      "title": "小学館ジュニア文庫　名探偵コナン　３０号殺人事件",
-      "author": "水稀しま/青山剛昌/櫻井武晴",
-      "publisher": "小学館",
-      "price": 880,
-      "url": "https://books.rakuten.co.jp/rk/5e84c50d92c333b8a1fa2eefda283a82/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7873/2000021867873.jpg?_ex=600x600",
-      "caption": "＜アニメ「名探偵コナン」３０周年特別企画２時間SPノベライズ＞\n東都タワーがデザインされた新一万円札が発行された日、コナンたちは長野県にある日本紙幣印刷局に見学に来ていた。\n一方、都内某所では他殺と思われる男性の遺体が発見され、その靴の中には限りなく本物に近い新紙幣のニセ札が入っていて!？　\n男性はなぜ殺されたのか？　そしてニセ札との関係は…？\n新紙幣をめぐる殺人事件をコナンと日本各地の名探偵・名刑事たちが追う豪華ミステリー。\n※対象年齢：中学年から\n※この作品はカラーが含まれます。\n（底本　２０２６年９月発売作品）\n",
-      "salesDate": "2026年09月30日",
-      "series": "小学館ジュニア文庫　名探偵コナン　３０号殺人事件",
+      "id": "8909131771218",
+      "title": "B.LEAGUE完全ガイド2026-27",
+      "author": "コスミック出版編集部",
+      "publisher": "コスミック出版",
+      "price": 1430,
+      "url": "https://books.rakuten.co.jp/rk/08047a281d4c3a5db5ce21b04a3a15bc/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1974/2000021951974.jpg?_ex=600x600",
+      "caption": "【主な掲載内容】\n■SPECIAL INTERVIEW\n馬場雄大（長崎ヴェルカ）　難しいほど、燃える。\n富樫勇樹（千葉ジェッツ）　もう一度、自分を証明したい。\n■B.革新とBプレミアの基礎知識\n■Bプレミアの移籍劇を追う\n■B.LEAGUE 2025-26 REVIEW\n■記録で振り返るB.LEAGUEの10年\n■B.LEAGUE公認アナリスト佐々木クリスさんが解説！　　Bプレミア各チームの戦力分析\n■2026-27　Bプレミア・Bワン・Bネクスト レギュラーシーズン日程\n■Bプレミア・Bワン・Bネクスト全55クラブ 全選手名鑑\n（各クラブ紹介／今季の展望／予想布陣／選手移籍情報／各クラブシーズン日程／選手紹介）\n・Bプレミア東地区\nレバンガ北海道／仙台89ERS／秋田ノーザンハピネッツ／茨城ロボッツ／宇都宮ブレックス／群馬クレインサンダーズ／／アルティーリ千葉／千葉ジェッツ／アルバルク東京／サンロッカーズ渋谷／川崎ブレイブサンダース／横浜ビー・コルセアーズ／富山グラウジーズ\n・Bプレミア西地区\n信州ブレイブウォリアーズ／三遠ネオフェニックス／シーホース三河／名古屋ダイヤモンドドルフィンズ／滋賀レイクス／京都ハンナリーズ／大阪エヴェッサ／神戸ストークス／島根スサノオマジック／広島ドラゴンフライズ／佐賀バルーナーズ／長崎ヴェルカ／琉球ゴールデンキングス\n・Bワン北地区\n青森ワッツ／岩手ビッグブルズ／山形ワイヴァンズ／福島ファイヤーボンズ／越谷アルファーズ\n・Bワン東地区\nさいたまブロンコス／東京ユナイテッドバスケットボールクラブ／アースフレンズ東京Ｚ／立川ダイス／東京八王子ビートレインズ\n・Bワン中地区\n横浜エクセレンス／新潟アルビレックスBC／金沢サムライズ／福井ブローウィンズ／岐阜スゥープス\n・Bワン西地区\nベルテックス静岡／ファイティングイーグルス名古屋／バンビシャス奈良／トライフープ岡山／徳島ガンバロウズ\n・Bワン南地区\n香川ファイブアローズ／愛媛オレンジバイキングス／ライジングゼファー福岡／熊本ヴォルターズ／鹿児島レブナイズ\n・Bネクスト\nしながわシティバスケットボールクラブ／ウォルガ湘南／ヴィアティン三重／山口パッツファイブ／\n※情報は2026年9月5日時点のものです。\n",
+      "salesDate": "2026年10月09日",
+      "series": "",
       "reviewAverage": 0,
       "reviewCount": 0,
-      "genreId": "101903090/101901001/101902",
-      "isbn": "4320000935692",
-      "salesType": 0,
+      "genreId": "101910001",
+      "isbn": "8909131771218",
+      "salesType": 1,
       "matchMeta": {
-        "title": "名探偵コナン (109)",
-        "author": "青山 剛昌",
-        "score": 74,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 35,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "名探偵コナン (109)",
-        "author": "青山 剛昌",
+        "title": "B.LEAGUE完全ガイド2026-27",
+        "author": "",
         "isbn": "",
         "score": 171,
         "sources": [
           {
-            "source": "amazon",
-            "label": "Amazon",
+            "source": "tohan",
+            "label": "トーハン",
             "rank": 9
           }
         ],
         "source": "combined",
-        "rank": 16
+        "rank": 32,
+        "originalTitle": "B.LEAGUE完全ガイド2026-27"
+      },
+      "ranking": {
+        "title": "B.LEAGUE完全ガイド2026-27",
+        "author": "",
+        "isbn": "",
+        "score": 171,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 17
       }
     },
     {
@@ -1119,7 +1173,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17
+        "rank": 18
       }
     },
     {
@@ -1162,54 +1216,6 @@
           {
             "source": "maruzen",
             "label": "丸善ジュンク堂",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 18
-      }
-    },
-    {
-      "id": "4910000924301",
-      "title": "ゲッターズ飯田の五星三心占い2027　銀のインディアン座",
-      "author": "ゲッターズ飯田",
-      "publisher": "朝日新聞出版",
-      "price": 1430,
-      "url": "https://books.rakuten.co.jp/rk/454c1b9cbd923c11987f0125292fb123/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6603/2000021696603.jpg?_ex=600x600",
-      "caption": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。\n『ゲッターズ飯田の五星三心占い2027』\n＼＼全12タイプ☆大好評発売中！／／\n2027年、あなたはどんな1年に?\n恋も、仕事も、お金も、健康も。ーー365日の「開運」のヒントを、この1冊に詰め込みました。\n8万人以上を無償で占い、25年以上「開運」を極め続けた、\n「芸能界最強の占い師」ゲッターズ飯田。\n最新2027年版の「開運の手引き」が、ついに発売決定！\n＞＞開運するには「理由」があります。\n☆ まいにち10秒、365日読める運気＆開運アドバイス\n☆ どの本よりも「細かく」「詳しく」占える、圧倒的な情報量\n☆ 家族、恋人、友達、同僚、推し……じつは全員占えます\n＞＞さらに、これだけの人に選ばれ続けています。\n☆ 今年で、10年連続＼毎年／100万部！！\n☆ なんとなんと、シリーズ累計1500万部突破！！\n☆ そして、12秒に1冊売れてる！！（※1）\n＞＞ 開運の声が「とんでもない量」届いています！\n☆「人生の教科書！　というより参考書！！　一年通して毎日使えます！　スゴイ！」（50代／女性）\n☆「こんな一面が自分自身にあるのだと気付かされました。」（30代／女性）\n☆「不安な時や背中を押してもらいたい時に読んでます。」（20代／女性）\n☆「すごくわかりやすくて買って本当によかった。もっと早くから買ってみればよかったです。」（40代／男性）\n☆「開運のつぶやきが心に響きます。その言葉1つ1つがありがたいです。」（40代／女性）\n（2026年版の感想から一部を抜粋）\nなぜ、こんなに支持されているの……？？\nその秘密は、ぎっしり詰まった“中身”にあります。\n☆★『ゲッターズ飯田の五星三心占い2027』コンテンツ★☆\n＼今年もコレで開運チャージ！／\n◎2026年9月〜2027年12月の総合運／恋愛運／結婚運／仕事運／金運＆買い物運／美容＆健康運／家庭＆親子運\n◎2026年9月〜2027年12月まで毎月、毎日のアドバイスがぎっしり！「運気カレンダー」\n◎接し方のコツがわかる！　「2027年のあなた×全12タイプの相性」\n◎自分以外も超☆詳しく占える！「全120命数別 2027年はこんな年&開運アクション」\n◎いい運気をMAX活かす「運気のいい時期に心がけたい10か条」\n◎運気の落ち込みも怖くない！「裏の時期に心がけたい10か条」\n＼さらにさらに、今年はここが変わる！／\n【未来がまる見え】中身もデザインも、パワーアップして登場！ーー年と月の運気グラフが見やすくなった「ひと目でわかる！　2027年運気ナビ」、読み応えUPの「2027年の過ごし方で未来はこう変わる！」\n【リニューアル☆復活】編集部があなたのギモンに答えます！ーー「五星三心占いQ＆A」\n￣￣￣￣￣￣￣￣￣￣￣￣￣\nパッとひらいて　超☆開運！\n＿＿＿＿＿＿＿＿＿＿＿＿＿\n※1『ゲッターズ飯田の五星三心占い2026』発売5か月分の販売数より　朝日新聞出版調べ。\n※本書では1942年〜2027年生まれの方の「命数」を調べることができます。\n※電子版には紙の本にあるコンテンツの一部がつきません。\n",
-      "salesDate": "2026年09月11日",
-      "series": "ゲッターズ飯田の五星三心占い2027",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101909013",
-      "isbn": "4910000924301",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ゲッターズ飯田の五星三心占い2027 銀のインディアン座",
-        "author": "",
-        "isbn": "",
-        "score": 170,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 36,
-        "originalTitle": "ゲッターズ飯田の五星三心占い2027 銀のインディアン座"
-      },
-      "ranking": {
-        "title": "ゲッターズ飯田の五星三心占い2027 銀のインディアン座",
-        "author": "",
-        "isbn": "",
-        "score": 170,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
             "rank": 10
           }
         ],
@@ -1283,8 +1289,7 @@
       "matchMeta": {
         "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
         "author": "",
-        "isbn": "",
-        "score": 169,
+        "score": 66,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1293,7 +1298,8 @@
           }
         ],
         "source": "combined",
-        "rank": 38
+        "rank": 40,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
@@ -1359,6 +1365,53 @@
       }
     },
     {
+      "id": "4390000016508",
+      "title": "なぜ日本が世界に必要なのか",
+      "author": "エマニュエル・トッド",
+      "publisher": "文藝春秋",
+      "price": 1100,
+      "url": "https://books.rakuten.co.jp/rk/d3380ef6b5d6352fb44783bb5e41c377/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5838/2000021745838.jpg?_ex=600x600",
+      "caption": "現代最高の知識人による唯一無二の日本論\n「自然人」らしさ、ユーモア、独自の言語が日本の強みだ！ーー現代最高の知識人による、最も今日的で画期的な「日本文明論＝地政学」。\n　世界の行く末は、第二次大戦の敗戦国である日独の選択にかかっている。対米追従を深めるドイツに対し、日本はどうするのか？\n　歴史的に「悪い選択」をしてきたドイツとは反対に、日本は「良い選択」をするだろうと歴史家として予測している。日本人の方がドイツ人よりもユーモアセンスがあるからだ。ユーモアセンスは、ドイツでは完全に破壊されてしまった。厳格なルター主義が、「人類の自然な能力」を根絶してしまったのだ。多くの戦争の原因となった「過剰な生真面目さ」がドイツを支配しているが、日本はそうではない。\n　日本には「この世の美しさと喜び」に幸せを感じる「自然人らしさ」が生き続けている。この点は、ドイツーー偉大な哲学者、物理学者、数学者を誇るが、硬直的で人間味に欠け、あまりに暗いドイツーーと大きく異なる。\n「自然人」はドイツでは死滅した。それゆえにこの国はナチズムを生みだしたが、日本には「自然な人間」「人間らしい人間」が今も存在している。だからこそ、日本人は戦争を拒否できると私は信じる。\n　もし日本がワシントンの圧力に抵抗するなら、その抵抗自体が世界の平和にもたらす利益は測り知れない。米国に対する日本の独立は「平和」に貢献するだろうーー「日本の対米自立」を世界が求めている。\n",
+      "salesDate": "2026年09月17日",
+      "series": "",
+      "reviewAverage": 0,
+      "reviewCount": 1,
+      "genreId": "101907009/101907005090",
+      "isbn": "4390000016508",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "なぜ日本が世界に必要なのか 文春新書",
+        "author": "",
+        "score": 62,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 12
+          }
+        ],
+        "source": "combined",
+        "rank": 42,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "なぜ日本が世界に必要なのか 文春新書",
+        "author": "",
+        "isbn": "",
+        "score": 168,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 12
+          }
+        ],
+        "source": "combined",
+        "rank": 23
+      }
+    },
+    {
       "id": "9781505942323",
       "title": "How to Start a Crown Agents for Overseas Governments and Administrations Business (Beginners Guide)",
       "author": "Leclair Jaquelyn",
@@ -1402,7 +1455,7 @@
           }
         ],
         "source": "combined",
-        "rank": 23
+        "rank": 24
       }
     },
     {
@@ -1449,7 +1502,7 @@
           }
         ],
         "source": "combined",
-        "rank": 24
+        "rank": 25
       }
     },
     {
@@ -1496,7 +1549,7 @@
           }
         ],
         "source": "combined",
-        "rank": 25
+        "rank": 26
       }
     },
     {
@@ -1543,7 +1596,7 @@
           }
         ],
         "source": "combined",
-        "rank": 26
+        "rank": 27
       }
     },
     {
@@ -1590,7 +1643,7 @@
           }
         ],
         "source": "combined",
-        "rank": 27
+        "rank": 28
       }
     },
     {
@@ -1637,7 +1690,7 @@
           }
         ],
         "source": "combined",
-        "rank": 28
+        "rank": 29
       }
     },
     {
@@ -1659,18 +1712,17 @@
       "matchMeta": {
         "title": "継体天皇 - 六世紀に現れた世襲王権の「始祖王」 中公新書",
         "author": "",
-        "isbn": "",
-        "score": 158,
+        "score": 18,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 22
+            "rank": 23
           }
         ],
         "source": "combined",
-        "rank": 61,
-        "originalTitle": "継体天皇 - 六世紀に現れた世襲王権の「始祖王」 中公新書"
+        "rank": 62,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "継体天皇 - 六世紀に現れた世襲王権の「始祖王」 中公新書",
@@ -1685,7 +1737,7 @@
           }
         ],
         "source": "combined",
-        "rank": 29
+        "rank": 30
       }
     },
     {
@@ -1732,7 +1784,7 @@
           }
         ],
         "source": "combined",
-        "rank": 30
+        "rank": 31
       }
     },
     {
@@ -1779,7 +1831,7 @@
           }
         ],
         "source": "combined",
-        "rank": 31
+        "rank": 32
       }
     },
     {
@@ -1797,12 +1849,11 @@
       "reviewCount": 0,
       "genreId": "101904001007",
       "isbn": "4972000167754",
-      "salesType": 1,
+      "salesType": 0,
       "matchMeta": {
-        "title": "BORUTO―ボルト― 9 ―TWO BLUE VORTEX― (ジャンプコミックス)",
+        "title": "BORUTO―ボルト― 9 ―TWO BLUE VORTEX―",
         "author": "池本 幹雄",
-        "isbn": "",
-        "score": 152,
+        "score": 5,
         "sources": [
           {
             "source": "amazon",
@@ -1811,7 +1862,8 @@
           }
         ],
         "source": "combined",
-        "rank": 70
+        "rank": 74,
+        "originalTitle": "BORUTO―ボルト― 9 ―TWO BLUE VORTEX― (ジャンプコミックス)"
       },
       "ranking": {
         "title": "BORUTO―ボルト― 9 ―TWO BLUE VORTEX― (ジャンプコミックス)",
@@ -1826,7 +1878,7 @@
           }
         ],
         "source": "combined",
-        "rank": 32
+        "rank": 33
       }
     },
     {
@@ -1872,7 +1924,54 @@
           }
         ],
         "source": "combined",
-        "rank": 33,
+        "rank": 34,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "9784059239659",
+      "title": "地球の歩き方 スター・ウォーズ",
+      "author": "",
+      "publisher": "地球の歩き方",
+      "price": 2750,
+      "url": "https://books.rakuten.co.jp/rk/40558a21970c38b8891b35aee564d356/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9941/2000020489941.jpg?_ex=600x600",
+      "caption": "銀河の果てまで旅するように、物語の舞台を歩く……。\n『スター・ウォーズ』の世界を「地球の歩き方」ならではの旅行ガイドスタイルでひもとく、スペシャルブックが登場！\nもしあなたが『スター・ウォーズ』の世界を訪れることになっても、本書があれば安心。劇場公開作品を中心に、ストーリーの流れや主要キャラクターの魅力を、心に残る名シーンとともにしっかりおさらいできます。さらに、モデルプランや旅のテクニックなど、ファン心をくすぐるコンテンツも充実。\n作品世界をより深く理解し、楽しむための情報を厳選して収録した、ファン必携の永久保存版です。\n※予告なく一部内容が変更される可能性もあります。予めご了承ください。\n※電子版では、紙のガイドブックと内容が一部異なります。掲載されない写真や図版、収録されないページがある場合があります。あらかじめご了承下さい。\n",
+      "salesDate": "2026年07月29日",
+      "series": "",
+      "reviewAverage": 4.25,
+      "reviewCount": 4,
+      "genreId": "101911",
+      "isbn": "9784059239659",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "地球の歩き方 スター・ウォーズ",
+        "author": "地球の歩き方編集室",
+        "score": 90,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
+        "rank": 18,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "地球の歩き方 スター・ウォーズ",
+        "author": "地球の歩き方編集室",
+        "score": 90,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
+        "rank": 35,
         "originalTitle": ""
       }
     },
@@ -1919,7 +2018,7 @@
           }
         ],
         "source": "combined",
-        "rank": 34,
+        "rank": 36,
         "originalTitle": ""
       }
     }
@@ -1928,19 +2027,16 @@
     "fiction": [
       "4380000408000",
       "4660629612104",
-      "4916475490001",
+      "4340008067051",
       "4910000909001",
       "6681316771710",
       "4390000005636",
-      "4320000935692",
       "4340008067611",
       "4480000838415"
     ],
     "mystery": [
-      "4916475490001",
       "4390000005636",
       "4620000615075",
-      "4320000935692",
       "4620000615076"
     ],
     "sf": [],
@@ -1954,6 +2050,7 @@
       "4310000701877",
       "6681316771710",
       "4390000014247",
+      "4390000016508",
       "4910000858569"
     ],
     "nonfiction": [
@@ -1967,12 +2064,15 @@
     "life": [
       "4380000407898",
       "4910000924316",
-      "4910000924303",
-      "4910000924301"
+      "4910000924303"
     ],
     "health": [],
-    "hobby": [],
-    "travel": [],
+    "hobby": [
+      "8909131771218"
+    ],
+    "travel": [
+      "9784059239659"
+    ],
     "language": [
       "4310000701877",
       "6681311679960"
@@ -1985,6 +2085,7 @@
     "comic": [
       "4310000937174",
       "4972000167723",
+      "4320000937482",
       "4310000937173",
       "7328131415919",
       "7225000908848",
@@ -1994,11 +2095,11 @@
   },
   "genreStatus": {
     "fiction": {
-      "matched": 9,
+      "matched": 8,
       "complete": true
     },
     "mystery": {
-      "matched": 5,
+      "matched": 3,
       "complete": true
     },
     "sf": {
@@ -2010,7 +2111,7 @@
       "complete": true
     },
     "humanities": {
-      "matched": 5,
+      "matched": 6,
       "complete": true
     },
     "nonfiction": {
@@ -2026,7 +2127,7 @@
       "complete": true
     },
     "life": {
-      "matched": 4,
+      "matched": 3,
       "complete": true
     },
     "health": {
@@ -2034,11 +2135,11 @@
       "complete": true
     },
     "hobby": {
-      "matched": 0,
+      "matched": 1,
       "complete": true
     },
     "travel": {
-      "matched": 0,
+      "matched": 1,
       "complete": true
     },
     "language": {
@@ -2054,7 +2155,7 @@
       "complete": true
     },
     "comic": {
-      "matched": 7,
+      "matched": 8,
       "complete": true
     }
   }

@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-10-01T14:08:59.538Z",
+  "updatedAt": "2026-10-01T23:08:27.574Z",
   "candidateCount": 40,
   "baseMatched": 13,
-  "matched": 18,
-  "addedMatches": 5,
+  "matched": 17,
+  "addedMatches": 4,
   "unavailable": [],
   "snapshots": {
     "kinokuniya": {
@@ -78,12 +78,6 @@
           "author": "",
           "isbn": "",
           "rank": 4
-        },
-        {
-          "title": "つかめ!理科ダマン 12 最強ロボット決戦!編",
-          "author": "",
-          "isbn": "",
-          "rank": 5
         },
         {
           "title": "地球の歩き方 スター･ウォーズ",
@@ -296,53 +290,6 @@
       }
     },
     {
-      "id": "6681311679960",
-      "title": "つかめ！理科ダマン 12 最強ロボット決戦！編",
-      "author": "シン・テフン/ナ・スンフン/呉華順",
-      "publisher": "マガジンハウス",
-      "price": 1320,
-      "url": "https://books.rakuten.co.jp/rk/d5144a342674388cb89766522b26d5f0/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6738/2000021036738.jpg?_ex=600x600",
-      "caption": "■注目のシリーズ第12巻は、ロボット世界大会の決戦編！■\n恐竜ロボット大会の勝者を決める決戦がいよいよ始まる！\nシンとグゥのチームが戦うライバルチームに、弱点はあるのか!?\n優勝を目指すシンたちといっしょに\nプログラミングやA I、恐竜にまつわる19の疑問が楽しく学べます。\n★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★\n＼＼日韓でシリーズ累計400万部／／\n理科のテストで100点取れちゃう！！\n「笑いながら理科の知識が学べるところが大好きです」\n「子供が夢中になって読んでいます」\n「身近な“どうして？”をわかりやすく説明されていて、子供も大人も楽しめます」\n……とクチコミで話題沸騰!!\n★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★☆★\nギャグ満載の超オモシロまんがで\n小学校の理科の知識がスイスイ身につく！！\nそして、科学と読書がどんどん好きになる！！\n《こんな疑問に答えます》\n◎アルゴリズムってなに？\n◎フローチャートってなに？\n◎コンピュータはどうやってプログラミング言語を理解している？\n◎座標ってなに？\n◎ロボットは人間より賢くなれる？\n◎コンピュータに虫がいる？　\n◎翼竜は恐竜か？　……etc.\n",
-      "salesDate": "2026年07月16日",
-      "series": "つかめ！理科ダマン",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101908004/101906006/101906001009",
-      "isbn": "6681311679960",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "つかめ!理科ダマン 12 最強ロボット決戦!編",
-        "author": "",
-        "isbn": "",
-        "score": 175,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 5
-          }
-        ],
-        "source": "combined",
-        "rank": 10
-      },
-      "ranking": {
-        "title": "つかめ!理科ダマン 12 最強ロボット決戦!編",
-        "author": "",
-        "isbn": "",
-        "score": 175,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 5
-          }
-        ],
-        "source": "combined",
-        "rank": 5
-      }
-    },
-    {
       "id": "9784059239659",
       "title": "地球の歩き方 スター・ウォーズ",
       "author": "",
@@ -359,7 +306,7 @@
       "isbn": "9784059239659",
       "salesType": 0,
       "matchMeta": {
-        "title": "地球の歩き方 スター・ウォーズ",
+        "title": "地球の歩き方 スター･ウォーズ",
         "author": "",
         "isbn": "",
         "score": 171,
@@ -371,8 +318,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17,
-        "originalTitle": "地球の歩き方 スター･ウォーズ"
+        "rank": 17
       },
       "ranking": {
         "title": "地球の歩き方 スター･ウォーズ",
@@ -387,7 +333,7 @@
           }
         ],
         "source": "combined",
-        "rank": 6
+        "rank": 5
       }
     },
     {
@@ -434,7 +380,7 @@
           }
         ],
         "source": "combined",
-        "rank": 7
+        "rank": 6
       }
     },
     {
@@ -466,8 +412,7 @@
           }
         ],
         "source": "combined",
-        "rank": 23,
-        "originalTitle": "FOR OVERSEAS"
+        "rank": 23
       },
       "ranking": {
         "title": "FOR OVERSEAS",
@@ -482,7 +427,7 @@
           }
         ],
         "source": "combined",
-        "rank": 8
+        "rank": 7
       }
     },
     {
@@ -534,7 +479,7 @@
           }
         ],
         "source": "combined",
-        "rank": 9
+        "rank": 8
       }
     },
     {
@@ -581,7 +526,7 @@
           }
         ],
         "source": "combined",
-        "rank": 10
+        "rank": 9
       }
     },
     {
@@ -628,7 +573,7 @@
           }
         ],
         "source": "combined",
-        "rank": 11
+        "rank": 10
       }
     },
     {
@@ -675,7 +620,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12
+        "rank": 11
       }
     },
     {
@@ -721,7 +666,7 @@
           }
         ],
         "source": "combined",
-        "rank": 13,
+        "rank": 12,
         "originalTitle": ""
       }
     },
@@ -768,7 +713,7 @@
           }
         ],
         "source": "combined",
-        "rank": 14,
+        "rank": 13,
         "originalTitle": ""
       }
     },
@@ -815,7 +760,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15,
+        "rank": 14,
         "originalTitle": ""
       }
     },
@@ -862,7 +807,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16,
+        "rank": 15,
         "originalTitle": ""
       }
     },
@@ -909,7 +854,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17,
+        "rank": 16,
         "originalTitle": ""
       }
     },
@@ -956,7 +901,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18,
+        "rank": 17,
         "originalTitle": ""
       }
     }
@@ -992,9 +937,7 @@
     "nonfiction": [
       "4390000014247"
     ],
-    "science": [
-      "6681311679960"
-    ],
+    "science": [],
     "it": [],
     "life": [
       "4380000407898"
@@ -1005,7 +948,6 @@
       "9784059239659"
     ],
     "language": [
-      "6681311679960",
       "4310000701877"
     ],
     "children": [
@@ -1044,7 +986,7 @@
       "complete": true
     },
     "science": {
-      "matched": 1,
+      "matched": 0,
       "complete": true
     },
     "it": {
@@ -1068,7 +1010,7 @@
       "complete": true
     },
     "language": {
-      "matched": 2,
+      "matched": 1,
       "complete": true
     },
     "children": {

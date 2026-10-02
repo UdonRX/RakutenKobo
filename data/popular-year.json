@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "year",
-  "updatedAt": "2026-10-01T23:08:31.771Z",
+  "updatedAt": "2026-10-02T06:27:35.818Z",
   "candidateCount": 13,
-  "baseMatched": 7,
+  "baseMatched": 6,
   "matched": 9,
-  "addedMatches": 2,
+  "addedMatches": 3,
   "unavailable": [],
   "snapshots": {
     "tohan": {
@@ -17,7 +17,7 @@
       "attribution": "トーハン調べ",
       "sourceUrl": "https://www.tohan.jp/bestsellers/2026_firsthalf_total/",
       "periodLabel": "年次",
-      "updatedAt": "2026-10-01",
+      "updatedAt": "2026-10-02",
       "live": true,
       "items": [
         {
@@ -237,8 +237,9 @@
       "salesType": 0,
       "matchMeta": {
         "title": "成瀬は都を駆け抜ける",
-        "author": "宮島未奈",
-        "score": 94,
+        "author": "",
+        "isbn": "",
+        "score": 176,
         "sources": [
           {
             "source": "tohan",
@@ -248,7 +249,7 @@
         ],
         "source": "combined",
         "rank": 4,
-        "originalTitle": ""
+        "originalTitle": "成瀬は都を駆け抜ける"
       },
       "ranking": {
         "title": "成瀬は都を駆け抜ける",

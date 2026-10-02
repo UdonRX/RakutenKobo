@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-10-02T13:24:12.260Z",
-  "candidateCount": 80,
-  "baseMatched": 35,
+  "updatedAt": "2026-10-02T22:46:13.797Z",
+  "candidateCount": 75,
+  "baseMatched": 28,
   "matched": 43,
-  "addedMatches": 8,
+  "addedMatches": 15,
   "unavailable": [
     "rakuten"
   ],
@@ -22,6 +22,12 @@
       "updatedAt": "2026-10-02T00:47:32.798Z",
       "live": false,
       "items": [
+        {
+          "title": "転生したらスライムだった件(33) (シリウスKC)",
+          "author": "川上 泰樹",
+          "isbn": "",
+          "rank": 2
+        },
         {
           "title": "ワールドトリガー 30 (ジャンプコミックス)",
           "author": "葦原 大介",
@@ -39,6 +45,12 @@
           "author": "BRUTUS編集部",
           "isbn": "",
           "rank": 8
+        },
+        {
+          "title": "名探偵コナン (109) (少年サンデーコミックス)",
+          "author": "青山 剛昌",
+          "isbn": "",
+          "rank": 9
         },
         {
           "title": "ぐらんぶる(27) (アフタヌーンKC)",
@@ -63,6 +75,12 @@
           "author": "鈴木 大飛",
           "isbn": "",
           "rank": 14
+        },
+        {
+          "title": "黒執事(36) (Gファンタジーコミックス)",
+          "author": "枢やな",
+          "isbn": "",
+          "rank": 16
         },
         {
           "title": "週刊ファミ通 2026年10月15日号 No.1965",
@@ -107,6 +125,12 @@
           "rank": 25
         },
         {
+          "title": "手紙屋 蛍雪篇 ～私の受験勉強を変えた十通の手紙～ ジュニア版",
+          "author": "喜多川泰",
+          "isbn": "",
+          "rank": 28
+        },
+        {
           "title": "金色のガッシュ!! 2(7)",
           "author": "雷句 誠",
           "isbn": "",
@@ -128,12 +152,6 @@
           "author": "伊坂幸太郎",
           "isbn": "",
           "rank": 3
-        },
-        {
-          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-          "author": "林真理子",
-          "isbn": "",
-          "rank": 4
         },
         {
           "title": "シャーロック・ホームズの凱旋",
@@ -175,6 +193,12 @@
           "author": "",
           "isbn": "",
           "rank": 1
+        },
+        {
+          "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
+          "author": "",
+          "isbn": "",
+          "rank": 2
         },
         {
           "title": "未だ本能寺にあり",
@@ -260,12 +284,6 @@
           "rank": 1
         },
         {
-          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-          "author": "",
-          "isbn": "",
-          "rank": 4
-        },
-        {
           "title": "ゲッターズ飯田の五星三心占い2027 銀のイルカ座",
           "author": "",
           "isbn": "",
@@ -284,6 +302,12 @@
           "rank": 8
         },
         {
+          "title": "B.LEAGUE完全ガイド2026-27",
+          "author": "",
+          "isbn": "",
+          "rank": 9
+        },
+        {
           "title": "ゲッターズ飯田の五星三心占い2027 銀のインディアン座",
           "author": "",
           "isbn": "",
@@ -294,47 +318,6 @@
           "author": "",
           "isbn": "",
           "rank": 12
-        }
-      ]
-    },
-    "rakuten": {
-      "id": "rakuten",
-      "label": "楽天ブックス",
-      "attribution": "楽天ブックス",
-      "sourceUrl": "https://books.rakuten.co.jp/",
-      "periodLabel": "売れ筋順",
-      "updatedAt": "2026-10-02",
-      "live": true,
-      "items": [
-        {
-          "title": "転生したらスライムだった件（33）",
-          "author": "川上 泰樹/伏瀬/みっつばー",
-          "rank": 5
-        },
-        {
-          "title": "キングダム 81",
-          "author": "原 泰久",
-          "rank": 6
-        },
-        {
-          "title": "名探偵コナン（109）",
-          "author": "青山 剛昌",
-          "rank": 10
-        },
-        {
-          "title": "自分とか、ないから。　教養としての東洋哲学",
-          "author": "しんめいP",
-          "rank": 14
-        },
-        {
-          "title": "黄泉のツガイ（14）",
-          "author": "荒川弘",
-          "rank": 18
-        },
-        {
-          "title": "黒執事(36)",
-          "author": "枢やな",
-          "rank": 28
         }
       ]
     }
@@ -368,7 +351,7 @@
           }
         ],
         "source": "combined",
-        "rank": 9,
+        "rank": 6,
         "originalTitle": ""
       },
       "ranking": {
@@ -390,63 +373,6 @@
         ],
         "source": "combined",
         "rank": 1
-      }
-    },
-    {
-      "id": "4380000407898",
-      "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-      "author": "林真理子",
-      "publisher": "幻冬舎",
-      "price": 982,
-      "url": "https://books.rakuten.co.jp/rk/1e28fc1db6b83578b06b0919e0a52cd7/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0908/2000020490908.jpg?_ex=600x600",
-      "caption": "70代は頭も体もまだ大丈夫。\nそれなりに蓄えもできている。\nでもこれまでと全く同じことをしていたらダメ。\nできないことは諦め、楽しいことを大事にし、人生の新しいステージに立とう。\n同じ年代とばかりつるまず、ダイエットはしない。\n嫌われずに自慢話をするテクニック、お金にキレイな人と思われるおごり方ーー。\n72歳の人気作家が本音で語る「健康」「おしゃれ」「仕事」「お金」「人間関係」「趣味」。\n確実に近づく「その日」を見つめ、今の1分1秒を楽しんで生きるための、痛快・人生論。\n",
-      "salesDate": "2026年05月27日",
-      "series": "",
-      "reviewAverage": 3.52,
-      "reviewCount": 65,
-      "genreId": "101907010004/101909",
-      "isbn": "4380000407898",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-        "author": "林真理子",
-        "score": 192,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 4
-          },
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 3
-          }
-        ],
-        "source": "combined",
-        "rank": 3,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-        "author": "林真理子",
-        "isbn": "",
-        "score": 352,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 4
-          },
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
-          }
-        ],
-        "source": "combined",
-        "rank": 2
       }
     },
     {
@@ -482,7 +408,7 @@
           }
         ],
         "source": "combined",
-        "rank": 5,
+        "rank": 3,
         "originalTitle": ""
       },
       "ranking": {
@@ -503,64 +429,7 @@
           }
         ],
         "source": "combined",
-        "rank": 3
-      }
-    },
-    {
-      "id": "8910126773560",
-      "title": "自分とか、ないから。　教養としての東洋哲学",
-      "author": "しんめいP",
-      "publisher": "サンクチュアリ出版",
-      "price": 1650,
-      "url": "https://books.rakuten.co.jp/rk/3e7a28858e2234d6887364847e57ec0c/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2213/2000015032213.jpg?_ex=600x600",
-      "caption": "ぶっ飛んでいるのに、なぜか論理的。\n生きづらさがマシになる（かもしれない）\nそれが、東洋哲学。\n「自分が本当にやりたいことってなんだろう？」\n「そもそも、本当の自分ってなんだろう？」\nそんな全・自分迷子に贈る、衝撃の哲学本がここに誕生。\nすべての答えは、「東洋哲学」にあった！！\nnoteで話題になった\n『東洋哲学本50冊よんだら「本当の自分」とかどうでもよくなった話』待望の書籍化！\n本書の著者・しんめいPさんは、東大卒のニート。\n新卒で大手IT企業→地方で教育事業→フリーランス→お笑い芸人\nと、自分探しをし続けた結果、虚無感から「無職」に。\n５年間、布団に引きこもっていたが\n「東洋哲学」に出会い、衝撃を受ける。\nーーーーーーーーーーーー\n（以下、本文より）\n東洋哲学にふれていると、\n「ふとんに入ってるくらい、何の問題もない」と思えてくるのだ。\n人生は、ムズくない。本当はシンプル。\n難しくしているのは自分なのだ。\nそんなことを教えてくれる。\nそして、ふとんに入ったまま、この本を書くことになったのだ。\n東洋哲学は、とにかく楽になるための哲学だ。\n無職だろうが、離婚してようが、ふとんにいようが、\nめちゃくちゃ楽になれる、ヤバい哲学である。\nこの本では、そんな東洋哲学の哲学者７人を紹介しながら、\n彼らの哲学を知って、実際にぼくがどう楽になったかを語っていく。\nーーーーーーーーーーーー\n〜コンテンツ例〜\nブッダ「自分なんてない」\n龍樹「全部、空」\n老子「ありのままが最強」\n荘子「この世は夢」\n達磨「言葉はいらねえ」\n親鸞「他力本願でOK」\n空海「欲あってよし」\n哲学の本なのに、\nなぜかクスリと笑えて、不思議と心が楽になる。\n「自分探し」まさかの答えを、体感せよ。\n",
-      "salesDate": "2024年04月23日",
-      "series": "",
-      "reviewAverage": 4.01,
-      "reviewCount": 727,
-      "genreId": "101908008002/101905010",
-      "isbn": "8910126773560",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "自分とか、ないから。 教養としての東洋哲学",
-        "author": "しんめいP",
-        "score": 108,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 14
-          },
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 14
-          }
-        ],
-        "source": "combined",
-        "rank": 4,
-        "originalTitle": "自分とか、ないから。　教養としての東洋哲学"
-      },
-      "ranking": {
-        "title": "自分とか、ないから。 教養としての東洋哲学",
-        "author": "しんめいP",
-        "isbn": "",
-        "score": 332,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 14
-          },
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 14
-          }
-        ],
-        "source": "combined",
-        "rank": 4
+        "rank": 2
       }
     },
     {
@@ -591,7 +460,7 @@
           }
         ],
         "source": "combined",
-        "rank": 86,
+        "rank": 64,
         "originalTitle": ""
       },
       "ranking": {
@@ -612,7 +481,7 @@
           }
         ],
         "source": "combined",
-        "rank": 5
+        "rank": 3
       }
     },
     {
@@ -634,22 +503,23 @@
       "matchMeta": {
         "title": "命の燃やし方",
         "author": "鈴木 大飛",
-        "score": 60,
+        "isbn": "",
+        "score": 320,
         "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 26
-          },
           {
             "source": "amazon",
             "label": "Amazon",
             "rank": 14
+          },
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 26
           }
         ],
         "source": "combined",
-        "rank": 6,
-        "originalTitle": ""
+        "rank": 7,
+        "originalTitle": "命の燃やし方"
       },
       "ranking": {
         "title": "命の燃やし方",
@@ -669,54 +539,101 @@
           }
         ],
         "source": "combined",
-        "rank": 6
+        "rank": 4
       }
     },
     {
-      "id": "4340008067051",
-      "title": "プレゼント（新潮文庫）",
-      "author": "伊坂幸太郎/江國香織/恩田陸/梨木香歩/町田そのこ/宮部みゆき/米澤穂信",
-      "publisher": "新潮社",
-      "price": 825,
-      "url": "https://books.rakuten.co.jp/rk/e8a60fd88eb63075a76e50e52cf98712/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8962/2000020598962.jpg?_ex=600x600",
-      "caption": "これはこれまで小説を愛してきてくれた人へ、そしてこれから小説の世界に一歩踏み出す人へ贈るプレゼント。何気なく読んだ物語が、ふと目にした一行が、意外な言葉ひとつが、人生を大きく変えるかもしれない。現代を代表する７人の作家が「夏」をテーマに書き下ろした、驚きと切なさ、怖さと美しさ、何よりとびきりの面白さを詰め込んだ奇跡の一冊。さぁ、あなたの人生に小説という選択肢を。\n",
-      "salesDate": "2026年06月24日",
+      "id": "4380000407898",
+      "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+      "author": "林真理子",
+      "publisher": "幻冬舎",
+      "price": 982,
+      "url": "https://books.rakuten.co.jp/rk/1e28fc1db6b83578b06b0919e0a52cd7/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0908/2000020490908.jpg?_ex=600x600",
+      "caption": "70代は頭も体もまだ大丈夫。\nそれなりに蓄えもできている。\nでもこれまでと全く同じことをしていたらダメ。\nできないことは諦め、楽しいことを大事にし、人生の新しいステージに立とう。\n同じ年代とばかりつるまず、ダイエットはしない。\n嫌われずに自慢話をするテクニック、お金にキレイな人と思われるおごり方ーー。\n72歳の人気作家が本音で語る「健康」「おしゃれ」「仕事」「お金」「人間関係」「趣味」。\n確実に近づく「その日」を見つめ、今の1分1秒を楽しんで生きるための、痛快・人生論。\n",
+      "salesDate": "2026年05月27日",
       "series": "",
-      "reviewAverage": 3.87,
-      "reviewCount": 398,
-      "genreId": "101901",
-      "isbn": "4340008067051",
+      "reviewAverage": 3.52,
+      "reviewCount": 65,
+      "genreId": "101907010004/101909",
+      "isbn": "4380000407898",
       "salesType": 0,
       "matchMeta": {
-        "title": "プレゼント",
-        "author": "伊坂幸太郎",
-        "score": 98,
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 幻冬舎新書",
+        "author": "",
+        "score": 102,
         "sources": [
           {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 3
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 2
           }
         ],
         "source": "combined",
-        "rank": 15,
-        "originalTitle": ""
+        "rank": 10,
+        "originalTitle": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書"
       },
       "ranking": {
-        "title": "プレゼント",
-        "author": "伊坂幸太郎",
+        "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
+        "author": "",
         "isbn": "",
-        "score": 177,
+        "score": 178,
         "sources": [
           {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 3
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 2
           }
         ],
         "source": "combined",
-        "rank": 7
+        "rank": 5
+      }
+    },
+    {
+      "id": "4310000937174",
+      "title": "転生したらスライムだった件（３３）",
+      "author": "川上泰樹/伏瀬/みっつばー",
+      "publisher": "講談社",
+      "price": 792,
+      "url": "https://books.rakuten.co.jp/rk/2ec766082be93057af6d743314365b5f/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9576/2000021879576.jpg?_ex=600x600",
+      "caption": "北方から悪魔の軍勢がイングラシア王国へと迫っていると知り、混乱する西方諸国評議会（カウンシル・オブ・ウエスト）の議員達。しかしそこには、リムルの命を受け評議会に派遣されたテスタロッサの姿があった。\n一方、マリアと戦っていたルミナスは夜想宮廷(ナイトガーデン)の聖櫃に封印されていた”あるもの”がなくなっていることに気づき激怒する。\nさらにラファエルさえも理解できない事態がリムルの目の前で起こるのだった！\n",
+      "salesDate": "2026年10月08日",
+      "series": "転生したらスライムだった件",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904002048",
+      "isbn": "4310000937174",
+      "salesType": 1,
+      "matchMeta": {
+        "title": "転生したらスライムだった件(33) (シリウスKC)",
+        "author": "川上 泰樹",
+        "isbn": "",
+        "score": 178,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 2
+          }
+        ],
+        "source": "combined",
+        "rank": 9
+      },
+      "ranking": {
+        "title": "転生したらスライムだった件(33) (シリウスKC)",
+        "author": "川上 泰樹",
+        "isbn": "",
+        "score": 178,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 2
+          }
+        ],
+        "source": "combined",
+        "rank": 6
       }
     },
     {
@@ -747,7 +664,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18,
+        "rank": 14,
         "originalTitle": "ワールドトリガー 30 (ジャンプコミックス)"
       },
       "ranking": {
@@ -759,6 +676,54 @@
           {
             "source": "amazon",
             "label": "Amazon",
+            "rank": 3
+          }
+        ],
+        "source": "combined",
+        "rank": 7
+      }
+    },
+    {
+      "id": "4340008067051",
+      "title": "プレゼント（新潮文庫）",
+      "author": "伊坂幸太郎/江國香織/恩田陸/梨木香歩/町田そのこ/宮部みゆき/米澤穂信",
+      "publisher": "新潮社",
+      "price": 825,
+      "url": "https://books.rakuten.co.jp/rk/e8a60fd88eb63075a76e50e52cf98712/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8962/2000020598962.jpg?_ex=600x600",
+      "caption": "これはこれまで小説を愛してきてくれた人へ、そしてこれから小説の世界に一歩踏み出す人へ贈るプレゼント。何気なく読んだ物語が、ふと目にした一行が、意外な言葉ひとつが、人生を大きく変えるかもしれない。現代を代表する７人の作家が「夏」をテーマに書き下ろした、驚きと切なさ、怖さと美しさ、何よりとびきりの面白さを詰め込んだ奇跡の一冊。さぁ、あなたの人生に小説という選択肢を。\n",
+      "salesDate": "2026年06月24日",
+      "series": "",
+      "reviewAverage": 3.87,
+      "reviewCount": 398,
+      "genreId": "101901",
+      "isbn": "4340008067051",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "プレゼント",
+        "author": "伊坂幸太郎",
+        "isbn": "",
+        "score": 177,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 3
+          }
+        ],
+        "source": "combined",
+        "rank": 13,
+        "originalTitle": "プレゼント"
+      },
+      "ranking": {
+        "title": "プレゼント",
+        "author": "伊坂幸太郎",
+        "isbn": "",
+        "score": 177,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
             "rank": 3
           }
         ],
@@ -794,7 +759,7 @@
           }
         ],
         "source": "combined",
-        "rank": 21,
+        "rank": 17,
         "originalTitle": "アルスラーン戦記(25) (講談社コミックス)"
       },
       "ranking": {
@@ -811,53 +776,6 @@
         ],
         "source": "combined",
         "rank": 9
-      }
-    },
-    {
-      "id": "4310000937174",
-      "title": "転生したらスライムだった件（３３）",
-      "author": "川上泰樹/伏瀬/みっつばー",
-      "publisher": "講談社",
-      "price": 792,
-      "url": "https://books.rakuten.co.jp/rk/2ec766082be93057af6d743314365b5f/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9576/2000021879576.jpg?_ex=600x600",
-      "caption": "北方から悪魔の軍勢がイングラシア王国へと迫っていると知り、混乱する西方諸国評議会（カウンシル・オブ・ウエスト）の議員達。しかしそこには、リムルの命を受け評議会に派遣されたテスタロッサの姿があった。\n一方、マリアと戦っていたルミナスは夜想宮廷(ナイトガーデン)の聖櫃に封印されていた”あるもの”がなくなっていることに気づき激怒する。\nさらにラファエルさえも理解できない事態がリムルの目の前で起こるのだった！\n",
-      "salesDate": "2026年10月08日",
-      "series": "転生したらスライムだった件",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904002048",
-      "isbn": "4310000937174",
-      "salesType": 1,
-      "matchMeta": {
-        "title": "転生したらスライムだった件(33)",
-        "author": "川上 泰樹/伏瀬/みっつばー",
-        "score": 90,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 5
-          }
-        ],
-        "source": "combined",
-        "rank": 24,
-        "originalTitle": "転生したらスライムだった件（33）"
-      },
-      "ranking": {
-        "title": "転生したらスライムだった件（33）",
-        "author": "川上 泰樹/伏瀬/みっつばー",
-        "isbn": "",
-        "score": 175,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 5
-          }
-        ],
-        "source": "combined",
-        "rank": 10
       }
     },
     {
@@ -888,7 +806,7 @@
           }
         ],
         "source": "combined",
-        "rank": 22,
+        "rank": 18,
         "originalTitle": ""
       },
       "ranking": {
@@ -904,54 +822,7 @@
           }
         ],
         "source": "combined",
-        "rank": 11
-      }
-    },
-    {
-      "id": "4972000161524",
-      "title": "キングダム magazine 2026",
-      "author": "原泰久",
-      "publisher": "集英社",
-      "price": 1881,
-      "url": "https://books.rakuten.co.jp/rk/47fb09e2be1731b4a06b3f70f3466419/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2094/2000021122094.jpg?_ex=600x600",
-      "caption": "キングダム連載20周年を記念して、読むたびにアツくなる！　語りたくなる!!　キングダムを楽しみ尽くす一冊!!　読切『金剛』掲載。『キングダム』の原点、主人公・信が誕生した幻の読切を再掲。原泰久3大インタビュー。・20周年スペシャル単独インタビュー　・原泰久×松原利光（YJ連載『ガス灯野良犬探偵団』作画）×笠原真樹（ビッグコミックスピリッツ連載『夢なし先生の進路指導』） 師弟鼎談　・ちばてつや×原泰久特別対談。　大特集『キングダム』二十年の軌跡。様々な角度から連載20年を振り返る大特集。その他、映画、アニメ、ゲーム、キングダムの20年が凝縮された企画盛り沢山の240ページ。　※電子版には3大アプリゲーム特典コードはつきません。\n",
-      "salesDate": "2026年08月19日",
-      "series": "キングダム magazine 2026",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904002006",
-      "isbn": "4972000161524",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "キングダム 81",
-        "author": "原 泰久",
-        "score": 86,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 6
-          }
-        ],
-        "source": "combined",
-        "rank": 28,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "キングダム 81",
-        "author": "原 泰久",
-        "isbn": "",
-        "score": 174,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 6
-          }
-        ],
-        "source": "combined",
-        "rank": 12
+        "rank": 10
       }
     },
     {
@@ -983,7 +854,8 @@
           }
         ],
         "source": "combined",
-        "rank": 23
+        "rank": 21,
+        "originalTitle": "ゲッターズ飯田の五星三心占い2027 銀のイルカ座"
       },
       "ranking": {
         "title": "ゲッターズ飯田の五星三心占い2027 銀のイルカ座",
@@ -998,54 +870,7 @@
           }
         ],
         "source": "combined",
-        "rank": 13
-      }
-    },
-    {
-      "id": "4390000005636",
-      "title": "容疑者Xの献身",
-      "author": "東野圭吾",
-      "publisher": "文藝春秋",
-      "price": 770,
-      "url": "https://books.rakuten.co.jp/rk/ffd6faf3b54b36bcbc30235a82624fa9/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7077/2000008377077.jpg?_ex=600x600",
-      "caption": "累計290万部突破。直木賞を受賞した大ベストセラー！\n天才数学者でありながら不遇な日々を送っていた高校教師の石神は、一人娘と暮らす隣人の靖子に秘かな想いを寄せていた。彼女たちが前夫を殺害したことを知った彼は、2人を救うため完全犯罪を企てる。だが皮肉にも、石神のかつての親友である物理学者の湯川学が、その謎に挑むことになる。ガリレオシリーズ初の長篇、直木賞受賞作。\n福山雅治主演で2008年に映画化され、堤真一、松雪泰子の熱演も話題になった。\n※この電子書籍は2008年8月に文藝春秋より刊行された文庫を底本としています\n",
-      "salesDate": "2020年04月24日",
-      "series": "",
-      "reviewAverage": 4.45,
-      "reviewCount": 2738,
-      "genreId": "101901/101902",
-      "isbn": "4390000005636",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "容疑者Xの献身",
-        "author": "東野圭吾",
-        "score": 82,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 7
-          }
-        ],
-        "source": "combined",
-        "rank": 30,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "容疑者Xの献身",
-        "author": "東野圭吾",
-        "isbn": "",
-        "score": 173,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 7
-          }
-        ],
-        "source": "combined",
-        "rank": 14
+        "rank": 11
       }
     },
     {
@@ -1067,8 +892,7 @@
       "matchMeta": {
         "title": "ハライチのターン!公式10周年記念本",
         "author": "",
-        "isbn": "",
-        "score": 173,
+        "score": 82,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1077,7 +901,7 @@
           }
         ],
         "source": "combined",
-        "rank": 27,
+        "rank": 26,
         "originalTitle": "ハライチのターン！公式１０周年記念本"
       },
       "ranking": {
@@ -1093,7 +917,55 @@
           }
         ],
         "source": "combined",
-        "rank": 15
+        "rank": 12
+      }
+    },
+    {
+      "id": "4390000005636",
+      "title": "容疑者Xの献身",
+      "author": "東野圭吾",
+      "publisher": "文藝春秋",
+      "price": 770,
+      "url": "https://books.rakuten.co.jp/rk/ffd6faf3b54b36bcbc30235a82624fa9/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7077/2000008377077.jpg?_ex=600x600",
+      "caption": "累計290万部突破。直木賞を受賞した大ベストセラー！\n天才数学者でありながら不遇な日々を送っていた高校教師の石神は、一人娘と暮らす隣人の靖子に秘かな想いを寄せていた。彼女たちが前夫を殺害したことを知った彼は、2人を救うため完全犯罪を企てる。だが皮肉にも、石神のかつての親友である物理学者の湯川学が、その謎に挑むことになる。ガリレオシリーズ初の長篇、直木賞受賞作。\n福山雅治主演で2008年に映画化され、堤真一、松雪泰子の熱演も話題になった。\n※この電子書籍は2008年8月に文藝春秋より刊行された文庫を底本としています\n",
+      "salesDate": "2020年04月24日",
+      "series": "",
+      "reviewAverage": 4.45,
+      "reviewCount": 2738,
+      "genreId": "101901/101902",
+      "isbn": "4390000005636",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "容疑者Xの献身",
+        "author": "東野圭吾",
+        "isbn": "",
+        "score": 173,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 7
+          }
+        ],
+        "source": "combined",
+        "rank": 23,
+        "originalTitle": "容疑者Xの献身"
+      },
+      "ranking": {
+        "title": "容疑者Xの献身",
+        "author": "東野圭吾",
+        "isbn": "",
+        "score": 173,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 7
+          }
+        ],
+        "source": "combined",
+        "rank": 13
       }
     },
     {
@@ -1124,7 +996,7 @@
           }
         ],
         "source": "combined",
-        "rank": 39,
+        "rank": 31,
         "originalTitle": ""
       },
       "ranking": {
@@ -1140,7 +1012,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16
+        "rank": 14
       }
     },
     {
@@ -1172,7 +1044,7 @@
           }
         ],
         "source": "combined",
-        "rank": 32
+        "rank": 29
       },
       "ranking": {
         "title": "ゲッターズ飯田の五星三心占い2027 銀の羅針盤座",
@@ -1187,7 +1059,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17
+        "rank": 15
       }
     },
     {
@@ -1218,7 +1090,7 @@
           }
         ],
         "source": "combined",
-        "rank": 40,
+        "rank": 32,
         "originalTitle": ""
       },
       "ranking": {
@@ -1234,7 +1106,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18
+        "rank": 16
       }
     },
     {
@@ -1254,81 +1126,81 @@
       "isbn": "4320000937482",
       "salesType": 1,
       "matchMeta": {
-        "title": "名探偵コナン(109)",
+        "title": "名探偵コナン (109)",
         "author": "青山 剛昌",
-        "score": 70,
+        "score": 74,
         "sources": [
           {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 10
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 9
           }
         ],
         "source": "combined",
-        "rank": 47,
-        "originalTitle": "名探偵コナン（109）"
+        "rank": 35,
+        "originalTitle": "名探偵コナン (109) (少年サンデーコミックス)"
       },
       "ranking": {
-        "title": "名探偵コナン（109）",
+        "title": "名探偵コナン (109) (少年サンデーコミックス)",
         "author": "青山 剛昌",
         "isbn": "",
-        "score": 170,
+        "score": 171,
         "sources": [
           {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 10
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 9
           }
         ],
         "source": "combined",
-        "rank": 19
+        "rank": 17
       }
     },
     {
-      "id": "4620000615076",
-      "title": "ブラッディダイスの殺人　下",
-      "author": "Ｍ Ｗ クレイヴン",
-      "publisher": "早川書房",
-      "price": 1210,
-      "url": "https://books.rakuten.co.jp/rk/eea149cbab90347eb70bdd38623e4df0/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9727/2000021429727.jpg?_ex=600x600",
-      "caption": "ポーとティリーが再びタッグを組む！　シリーズ累計30万部の最新作！\n英国全土で連続狙撃事件が発生。犠牲者は17人にのぼるも犯人の手がかりはなく、ポーとティリーは国家犯罪対策庁に呼び戻されるが\n",
-      "salesDate": "2026年08月19日",
-      "series": "ワシントン・ポー",
-      "reviewAverage": 4.64,
-      "reviewCount": 30,
-      "genreId": "101902",
-      "isbn": "4620000615076",
-      "salesType": 0,
+      "id": "8909131771218",
+      "title": "B.LEAGUE完全ガイド2026-27",
+      "author": "コスミック出版編集部",
+      "publisher": "コスミック出版",
+      "price": 1430,
+      "url": "https://books.rakuten.co.jp/rk/08047a281d4c3a5db5ce21b04a3a15bc/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1974/2000021951974.jpg?_ex=600x600",
+      "caption": "【主な掲載内容】\n■SPECIAL INTERVIEW\n馬場雄大（長崎ヴェルカ）　難しいほど、燃える。\n富樫勇樹（千葉ジェッツ）　もう一度、自分を証明したい。\n■B.革新とBプレミアの基礎知識\n■Bプレミアの移籍劇を追う\n■B.LEAGUE 2025-26 REVIEW\n■記録で振り返るB.LEAGUEの10年\n■B.LEAGUE公認アナリスト佐々木クリスさんが解説！　　Bプレミア各チームの戦力分析\n■2026-27　Bプレミア・Bワン・Bネクスト レギュラーシーズン日程\n■Bプレミア・Bワン・Bネクスト全55クラブ 全選手名鑑\n（各クラブ紹介／今季の展望／予想布陣／選手移籍情報／各クラブシーズン日程／選手紹介）\n・Bプレミア東地区\nレバンガ北海道／仙台89ERS／秋田ノーザンハピネッツ／茨城ロボッツ／宇都宮ブレックス／群馬クレインサンダーズ／／アルティーリ千葉／千葉ジェッツ／アルバルク東京／サンロッカーズ渋谷／川崎ブレイブサンダース／横浜ビー・コルセアーズ／富山グラウジーズ\n・Bプレミア西地区\n信州ブレイブウォリアーズ／三遠ネオフェニックス／シーホース三河／名古屋ダイヤモンドドルフィンズ／滋賀レイクス／京都ハンナリーズ／大阪エヴェッサ／神戸ストークス／島根スサノオマジック／広島ドラゴンフライズ／佐賀バルーナーズ／長崎ヴェルカ／琉球ゴールデンキングス\n・Bワン北地区\n青森ワッツ／岩手ビッグブルズ／山形ワイヴァンズ／福島ファイヤーボンズ／越谷アルファーズ\n・Bワン東地区\nさいたまブロンコス／東京ユナイテッドバスケットボールクラブ／アースフレンズ東京Ｚ／立川ダイス／東京八王子ビートレインズ\n・Bワン中地区\n横浜エクセレンス／新潟アルビレックスBC／金沢サムライズ／福井ブローウィンズ／岐阜スゥープス\n・Bワン西地区\nベルテックス静岡／ファイティングイーグルス名古屋／バンビシャス奈良／トライフープ岡山／徳島ガンバロウズ\n・Bワン南地区\n香川ファイブアローズ／愛媛オレンジバイキングス／ライジングゼファー福岡／熊本ヴォルターズ／鹿児島レブナイズ\n・Bネクスト\nしながわシティバスケットボールクラブ／ウォルガ湘南／ヴィアティン三重／山口パッツファイブ／\n※情報は2026年9月5日時点のものです。\n",
+      "salesDate": "2026年10月09日",
+      "series": "",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101910001",
+      "isbn": "8909131771218",
+      "salesType": 1,
       "matchMeta": {
-        "title": "ブラッディダイスの殺人 下",
-        "author": "M・W・クレイヴン",
-        "score": 70,
+        "title": "B.LEAGUE完全ガイド2026-27",
+        "author": "",
+        "isbn": "",
+        "score": 171,
         "sources": [
           {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 10
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 9
           }
         ],
         "source": "combined",
-        "rank": 45,
-        "originalTitle": ""
+        "rank": 32
       },
       "ranking": {
-        "title": "ブラッディダイスの殺人 下",
-        "author": "M・W・クレイヴン",
+        "title": "B.LEAGUE完全ガイド2026-27",
+        "author": "",
         "isbn": "",
-        "score": 170,
+        "score": 171,
         "sources": [
           {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 10
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 9
           }
         ],
         "source": "combined",
-        "rank": 20
+        "rank": 18
       }
     },
     {
@@ -1360,7 +1232,7 @@
           }
         ],
         "source": "combined",
-        "rank": 39,
+        "rank": 36,
         "originalTitle": "ゲッターズ飯田の五星三心占い2027 銀のインディアン座"
       },
       "ranking": {
@@ -1376,54 +1248,54 @@
           }
         ],
         "source": "combined",
-        "rank": 21
+        "rank": 19
       }
     },
     {
-      "id": "4660629621097",
-      "title": "ユナイテッドアローズの売る力、育てるしくみ",
-      "author": "松下久美",
-      "publisher": "日経BP",
-      "price": 2200,
-      "url": "https://books.rakuten.co.jp/rk/aa3b2f296b22349b840102376412d447/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9911/2000021819911.jpg?_ex=600x600",
-      "caption": "「あなたに会いに来ました」\nなぜ、ユナイテッドアローズの販売員は、お客様からそう言われるのか。\n初デートの服選びを手伝ったお客様から、結婚の報告を受けた販売員。\nたった一度の接客で、ぎくしゃくしていた親子の心をつなぎ直した販売員。\n不登校を経験しながらも、自分と向き合い続け、やがて多くのお客様から選ばれる存在になった販売員ーー。\n彼らが売っているのは、洋服だけではありません。\nお客様に自信を与え、新しい自分との出会いを生み、ときに人生を前向きに変える体験と感動を届けています。\n本書は、日本を代表するセレクトショップ・ユナイテッドアローズで活躍する30人超の販売員、店長、経営陣への徹底取材から生まれたノンフィクションです。\nAI（人工知能）が商品を提案し、スマートフォンひとつで何でも買える時代。\nそれでもヒトが店舗へ足を運び、ヒトに会いに行くのはなぜなのか。\nAIがどれだけ進化しても、ヒトの心を動かせるのはヒトだけです。\n「何を買うか」ではなく、「誰から買うか」。\nその答えが、本書にはあります。\n接客・販売に携わる人はもちろん、経営者、人事担当者、管理職、そして「ヒトが育つ組織」の本質を学びたいすべての人へ。\n販売員の数だけ、お客様の数だけ物語がある。\nこれは販売員への賛歌であり、ヒトを育てる企業の物語であり、AI時代における「ヒトの価値」を問い直す一冊です。\nThe Future is Human.\nヒトこそ、未来を創る。\n",
-      "salesDate": "2026年09月25日",
-      "series": "",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101905016001",
-      "isbn": "4660629621097",
+      "id": "4620000615076",
+      "title": "ブラッディダイスの殺人　下",
+      "author": "Ｍ Ｗ クレイヴン",
+      "publisher": "早川書房",
+      "price": 1210,
+      "url": "https://books.rakuten.co.jp/rk/eea149cbab90347eb70bdd38623e4df0/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9727/2000021429727.jpg?_ex=600x600",
+      "caption": "ポーとティリーが再びタッグを組む！　シリーズ累計30万部の最新作！\n英国全土で連続狙撃事件が発生。犠牲者は17人にのぼるも犯人の手がかりはなく、ポーとティリーは国家犯罪対策庁に呼び戻されるが\n",
+      "salesDate": "2026年08月19日",
+      "series": "ワシントン・ポー",
+      "reviewAverage": 4.64,
+      "reviewCount": 30,
+      "genreId": "101902",
+      "isbn": "4620000615076",
       "salesType": 0,
       "matchMeta": {
-        "title": "ユナイテッドアローズの売る力、育てるしくみ",
-        "author": "",
-        "score": 66,
+        "title": "ブラッディダイスの殺人 下",
+        "author": "M・W・クレイヴン",
+        "isbn": "",
+        "score": 170,
         "sources": [
           {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 11
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 10
           }
         ],
         "source": "combined",
-        "rank": 51,
-        "originalTitle": ""
+        "rank": 34
       },
       "ranking": {
-        "title": "ユナイテッドアローズの売る力、育てるしくみ",
-        "author": "",
+        "title": "ブラッディダイスの殺人 下",
+        "author": "M・W・クレイヴン",
         "isbn": "",
-        "score": 169,
+        "score": 170,
         "sources": [
           {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 11
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 10
           }
         ],
         "source": "combined",
-        "rank": 22
+        "rank": 20
       }
     },
     {
@@ -1454,7 +1326,7 @@
           }
         ],
         "source": "combined",
-        "rank": 52,
+        "rank": 41,
         "originalTitle": ""
       },
       "ranking": {
@@ -1470,7 +1342,54 @@
           }
         ],
         "source": "combined",
-        "rank": 23
+        "rank": 21
+      }
+    },
+    {
+      "id": "4660629621097",
+      "title": "ユナイテッドアローズの売る力、育てるしくみ",
+      "author": "松下久美",
+      "publisher": "日経BP",
+      "price": 2200,
+      "url": "https://books.rakuten.co.jp/rk/aa3b2f296b22349b840102376412d447/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9911/2000021819911.jpg?_ex=600x600",
+      "caption": "「あなたに会いに来ました」\nなぜ、ユナイテッドアローズの販売員は、お客様からそう言われるのか。\n初デートの服選びを手伝ったお客様から、結婚の報告を受けた販売員。\nたった一度の接客で、ぎくしゃくしていた親子の心をつなぎ直した販売員。\n不登校を経験しながらも、自分と向き合い続け、やがて多くのお客様から選ばれる存在になった販売員ーー。\n彼らが売っているのは、洋服だけではありません。\nお客様に自信を与え、新しい自分との出会いを生み、ときに人生を前向きに変える体験と感動を届けています。\n本書は、日本を代表するセレクトショップ・ユナイテッドアローズで活躍する30人超の販売員、店長、経営陣への徹底取材から生まれたノンフィクションです。\nAI（人工知能）が商品を提案し、スマートフォンひとつで何でも買える時代。\nそれでもヒトが店舗へ足を運び、ヒトに会いに行くのはなぜなのか。\nAIがどれだけ進化しても、ヒトの心を動かせるのはヒトだけです。\n「何を買うか」ではなく、「誰から買うか」。\nその答えが、本書にはあります。\n接客・販売に携わる人はもちろん、経営者、人事担当者、管理職、そして「ヒトが育つ組織」の本質を学びたいすべての人へ。\n販売員の数だけ、お客様の数だけ物語がある。\nこれは販売員への賛歌であり、ヒトを育てる企業の物語であり、AI時代における「ヒトの価値」を問い直す一冊です。\nThe Future is Human.\nヒトこそ、未来を創る。\n",
+      "salesDate": "2026年09月25日",
+      "series": "",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101905016001",
+      "isbn": "4660629621097",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ユナイテッドアローズの売る力、育てるしくみ",
+        "author": "",
+        "isbn": "",
+        "score": 169,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 11
+          }
+        ],
+        "source": "combined",
+        "rank": 38
+      },
+      "ranking": {
+        "title": "ユナイテッドアローズの売る力、育てるしくみ",
+        "author": "",
+        "isbn": "",
+        "score": 169,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 11
+          }
+        ],
+        "source": "combined",
+        "rank": 22
       }
     },
     {
@@ -1501,7 +1420,7 @@
           }
         ],
         "source": "combined",
-        "rank": 55,
+        "rank": 43,
         "originalTitle": "幽冥の岸 十二国記 (新潮文庫 お 37-66)"
       },
       "ranking": {
@@ -1517,7 +1436,7 @@
           }
         ],
         "source": "combined",
-        "rank": 24
+        "rank": 23
       }
     },
     {
@@ -1549,7 +1468,7 @@
           }
         ],
         "source": "combined",
-        "rank": 46
+        "rank": 42
       },
       "ranking": {
         "title": "FOR OVERSEAS",
@@ -1564,7 +1483,7 @@
           }
         ],
         "source": "combined",
-        "rank": 25
+        "rank": 24
       }
     },
     {
@@ -1595,7 +1514,7 @@
           }
         ],
         "source": "combined",
-        "rank": 57,
+        "rank": 44,
         "originalTitle": ""
       },
       "ranking": {
@@ -1611,7 +1530,7 @@
           }
         ],
         "source": "combined",
-        "rank": 26
+        "rank": 25
       }
     },
     {
@@ -1642,7 +1561,7 @@
           }
         ],
         "source": "combined",
-        "rank": 58,
+        "rank": 45,
         "originalTitle": "BORUTO―ボルト― 9 ―TWO BLUE VORTEX― (ジャンプコミックス)"
       },
       "ranking": {
@@ -1655,6 +1574,53 @@
             "source": "amazon",
             "label": "Amazon",
             "rank": 13
+          }
+        ],
+        "source": "combined",
+        "rank": 26
+      }
+    },
+    {
+      "id": "8910126773560",
+      "title": "自分とか、ないから。　教養としての東洋哲学",
+      "author": "しんめいP",
+      "publisher": "サンクチュアリ出版",
+      "price": 1650,
+      "url": "https://books.rakuten.co.jp/rk/3e7a28858e2234d6887364847e57ec0c/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2213/2000015032213.jpg?_ex=600x600",
+      "caption": "ぶっ飛んでいるのに、なぜか論理的。\n生きづらさがマシになる（かもしれない）\nそれが、東洋哲学。\n「自分が本当にやりたいことってなんだろう？」\n「そもそも、本当の自分ってなんだろう？」\nそんな全・自分迷子に贈る、衝撃の哲学本がここに誕生。\nすべての答えは、「東洋哲学」にあった！！\nnoteで話題になった\n『東洋哲学本50冊よんだら「本当の自分」とかどうでもよくなった話』待望の書籍化！\n本書の著者・しんめいPさんは、東大卒のニート。\n新卒で大手IT企業→地方で教育事業→フリーランス→お笑い芸人\nと、自分探しをし続けた結果、虚無感から「無職」に。\n５年間、布団に引きこもっていたが\n「東洋哲学」に出会い、衝撃を受ける。\nーーーーーーーーーーーー\n（以下、本文より）\n東洋哲学にふれていると、\n「ふとんに入ってるくらい、何の問題もない」と思えてくるのだ。\n人生は、ムズくない。本当はシンプル。\n難しくしているのは自分なのだ。\nそんなことを教えてくれる。\nそして、ふとんに入ったまま、この本を書くことになったのだ。\n東洋哲学は、とにかく楽になるための哲学だ。\n無職だろうが、離婚してようが、ふとんにいようが、\nめちゃくちゃ楽になれる、ヤバい哲学である。\nこの本では、そんな東洋哲学の哲学者７人を紹介しながら、\n彼らの哲学を知って、実際にぼくがどう楽になったかを語っていく。\nーーーーーーーーーーーー\n〜コンテンツ例〜\nブッダ「自分なんてない」\n龍樹「全部、空」\n老子「ありのままが最強」\n荘子「この世は夢」\n達磨「言葉はいらねえ」\n親鸞「他力本願でOK」\n空海「欲あってよし」\n哲学の本なのに、\nなぜかクスリと笑えて、不思議と心が楽になる。\n「自分探し」まさかの答えを、体感せよ。\n",
+      "salesDate": "2024年04月23日",
+      "series": "",
+      "reviewAverage": 4.01,
+      "reviewCount": 727,
+      "genreId": "101908008002/101905010",
+      "isbn": "8910126773560",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "自分とか、ないから。 教養としての東洋哲学",
+        "author": "",
+        "score": 54,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 14
+          }
+        ],
+        "source": "combined",
+        "rank": 46,
+        "originalTitle": "自分とか、ないから。　教養としての東洋哲学"
+      },
+      "ranking": {
+        "title": "自分とか、ないから。 教養としての東洋哲学",
+        "author": "",
+        "isbn": "",
+        "score": 166,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 14
           }
         ],
         "source": "combined",
@@ -1689,7 +1655,7 @@
           }
         ],
         "source": "combined",
-        "rank": 60,
+        "rank": 47,
         "originalTitle": ""
       },
       "ranking": {
@@ -1706,6 +1672,53 @@
         ],
         "source": "combined",
         "rank": 28
+      }
+    },
+    {
+      "id": "7328131415919",
+      "title": "黒執事 36巻",
+      "author": "枢やな",
+      "publisher": "スクウェア・エニックス",
+      "price": 770,
+      "url": "https://books.rakuten.co.jp/rk/1e4f0989d4aa32ffaf057afb8fa437a2/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6489/2000021386489.jpg?_ex=600x600",
+      "caption": "最新リゾートホテルの実態を探るべく、調査に乗り出したシエルとその執事。ところが開始早々、グランドフロアでセバスチャンを“悪魔”と呼ぶ謎の人物が現れる。モドリと名乗るその男は、セバスチャンと浅からぬ因縁を持つようでーー？No.１執事コミック、待望の第36巻登場!!\n",
+      "salesDate": "2026年09月26日",
+      "series": "黒執事",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904090",
+      "isbn": "7328131415919",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "黒執事(36)",
+        "author": "枢やな",
+        "score": 46,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 16
+          }
+        ],
+        "source": "combined",
+        "rank": 50,
+        "originalTitle": "黒執事(36) (Gファンタジーコミックス)"
+      },
+      "ranking": {
+        "title": "黒執事(36) (Gファンタジーコミックス)",
+        "author": "枢やな",
+        "isbn": "",
+        "score": 164,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 16
+          }
+        ],
+        "source": "combined",
+        "rank": 29
       }
     },
     {
@@ -1736,7 +1749,7 @@
           }
         ],
         "source": "combined",
-        "rank": 66,
+        "rank": 51,
         "originalTitle": ""
       },
       "ranking": {
@@ -1752,7 +1765,7 @@
           }
         ],
         "source": "combined",
-        "rank": 29
+        "rank": 30
       }
     },
     {
@@ -1774,7 +1787,8 @@
       "matchMeta": {
         "title": "週刊ファミ通 2026年10月15日号 No.1965",
         "author": "週刊ファミ通編集部",
-        "score": 42,
+        "isbn": "",
+        "score": 163,
         "sources": [
           {
             "source": "amazon",
@@ -1783,8 +1797,7 @@
           }
         ],
         "source": "combined",
-        "rank": 67,
-        "originalTitle": ""
+        "rank": 51
       },
       "ranking": {
         "title": "週刊ファミ通 2026年10月15日号 No.1965",
@@ -1796,53 +1809,6 @@
             "source": "amazon",
             "label": "Amazon",
             "rank": 17
-          }
-        ],
-        "source": "combined",
-        "rank": 30
-      }
-    },
-    {
-      "id": "7328131765744",
-      "title": "黄泉のツガイ 14巻",
-      "author": "荒川弘",
-      "publisher": "スクウェア・エニックス",
-      "price": 590,
-      "url": "https://books.rakuten.co.jp/rk/e447393de1753fc1831e4cb1cb687e42/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0793/2000021950793.jpg?_ex=600x600",
-      "caption": "2026年11月12日発売予定「黄泉のツガイ 14巻」のデジタル版です。\n※配信開始日や価格、収録内容は予告なく変更になる可能性があります。\n",
-      "salesDate": "2026年11月12日",
-      "series": "黄泉のツガイ",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904090",
-      "isbn": "7328131765744",
-      "salesType": 1,
-      "matchMeta": {
-        "title": "黄泉のツガイ(14)",
-        "author": "荒川弘",
-        "score": 38,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 18
-          }
-        ],
-        "source": "combined",
-        "rank": 68,
-        "originalTitle": "黄泉のツガイ（14）"
-      },
-      "ranking": {
-        "title": "黄泉のツガイ（14）",
-        "author": "荒川弘",
-        "isbn": "",
-        "score": 162,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 18
           }
         ],
         "source": "combined",
@@ -1877,7 +1843,7 @@
           }
         ],
         "source": "combined",
-        "rank": 70,
+        "rank": 54,
         "originalTitle": ""
       },
       "ranking": {
@@ -1924,7 +1890,7 @@
           }
         ],
         "source": "combined",
-        "rank": 73,
+        "rank": 56,
         "originalTitle": "ゆるキャン△ １９ (まんがタイムKRコミックス)"
       },
       "ranking": {
@@ -1971,7 +1937,7 @@
           }
         ],
         "source": "combined",
-        "rank": 75,
+        "rank": 57,
         "originalTitle": "魔導具師ダリヤはうつむかない 〈１４〉 - 今日から自由な職人ライフ ＭＦブックス"
       },
       "ranking": {
@@ -2018,7 +1984,7 @@
           }
         ],
         "source": "combined",
-        "rank": 76,
+        "rank": 58,
         "originalTitle": "キン肉マン 94 (ジャンプコミックス)"
       },
       "ranking": {
@@ -2054,10 +2020,9 @@
       "isbn": "6681317297690",
       "salesType": 0,
       "matchMeta": {
-        "title": "anan No.2513 Special Edition[応援の流儀2026／つば九郎＆つばみ] (MAGAZINE HOUSE MOOK)",
+        "title": "anan No.2513 Special Edition[応援の流儀2026/つば九郎&つばみ] (MAGAZINE HOUSE MOOK)",
         "author": "anan編集部",
-        "isbn": "",
-        "score": 156,
+        "score": 14,
         "sources": [
           {
             "source": "amazon",
@@ -2066,7 +2031,8 @@
           }
         ],
         "source": "combined",
-        "rank": 68
+        "rank": 65,
+        "originalTitle": "anan No.2513 Special Edition[応援の流儀2026／つば九郎＆つばみ] (MAGAZINE HOUSE MOOK)"
       },
       "ranking": {
         "title": "anan No.2513 Special Edition[応援の流儀2026／つば九郎＆つばみ] (MAGAZINE HOUSE MOOK)",
@@ -2112,7 +2078,7 @@
           }
         ],
         "source": "combined",
-        "rank": 90,
+        "rank": 67,
         "originalTitle": "アオのハコ 27 (ジャンプコミックス)"
       },
       "ranking": {
@@ -2160,7 +2126,8 @@
           }
         ],
         "source": "combined",
-        "rank": 70
+        "rank": 66,
+        "originalTitle": "継体天皇 - 六世紀に現れた世襲王権の「始祖王」 中公新書"
       },
       "ranking": {
         "title": "継体天皇 - 六世紀に現れた世襲王権の「始祖王」 中公新書",
@@ -2179,45 +2146,45 @@
       }
     },
     {
-      "id": "7328131415919",
-      "title": "黒執事 36巻",
-      "author": "枢やな",
-      "publisher": "スクウェア・エニックス",
-      "price": 770,
-      "url": "https://books.rakuten.co.jp/rk/1e4f0989d4aa32ffaf057afb8fa437a2/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6489/2000021386489.jpg?_ex=600x600",
-      "caption": "最新リゾートホテルの実態を探るべく、調査に乗り出したシエルとその執事。ところが開始早々、グランドフロアでセバスチャンを“悪魔”と呼ぶ謎の人物が現れる。モドリと名乗るその男は、セバスチャンと浅からぬ因縁を持つようでーー？No.１執事コミック、待望の第36巻登場!!\n",
-      "salesDate": "2026年09月26日",
-      "series": "黒執事",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904090",
-      "isbn": "7328131415919",
+      "id": "4910000884732",
+      "title": "手紙屋 蛍雪篇 〜私の受験勉強を変えた十通の手紙〜 ジュニア版",
+      "author": "喜多川泰",
+      "publisher": "ディスカヴァー・トゥエンティワン",
+      "price": 1430,
+      "url": "https://books.rakuten.co.jp/rk/10fdec8a1e6f34078eb5d5b238a5853a/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8392/2000021118392.jpg?_ex=600x600",
+      "caption": "**【「大人でもグッとくる」と大反響！勉強と人生の意味を問う子どもに読ませたい物語】\n★「学識サロン」YouTubeチャンネルで紹介され話題！Amazonランキング３カテゴリー*で１位独占！（2026年8月18日調べ）\n*こどもの冒険読み物／童話・こどもの文学／人文・思想の教育学\n　\n★小学校高学年〜中学生向け\n★学校での読書の時間にもおすすめの1冊**\n★著書累計145万部 喜多川泰のベストセラーが待望のジュニア版になって新登場！\n★勉強の本当の意味とは？ その面白さとは？ そして、夢を実現するために本当に必要なこととは？\n「手紙屋」からの『未来を拓く10の教え』が、自分らしく生きたいあなたの明日を変えてくれる。\n【ジュニア版だけの特別なポイント】\n・ふりがな付きで、小中学生もスラスラ読める！\n・物語を彩る挿絵入り！世界観をより深く味わえます。\n・著者書き下ろしの「あとがき」を収録！これからの未来をつくる読者の皆さまへ向けて、喜多川泰氏が特別なメッセージを書き下ろし。本編の感動がさらに深まる、ここでしか読めない大切な言葉が詰まっています。\n【あらすじ】\n「何のために勉強するんだろう」\n「何のために大学に行くんだろう」\nだれでも一度はそんなふうに思ったことがあるのではないでしょうか？\nこの本の主人公「和花」は、部活と友だち付き合いに明け暮れる高校2年生。\n夏休みを目前にしたある日、進路のことで父親と衝突してしまいます。\n大学に行きたいけれど、成績が上がらない。\n勉強しなきゃと思うけど、やる気になれない……。\nそんな和花に兄の喜太朗が紹介してくれたのが、謎の人物「手紙屋」。\n10通の手紙をやりとりすることで、夢を実現させてくれるというが……。\nモヤモヤした今の気持ちを吹き飛ばしたい一心で怪しみながらも手紙を書き始めた和花。\nしかし、手紙屋から返ってきたのは、これまでの「勉強」のイメージをガラリと変える、驚きのメッセージの数々でした。\n【本書「あとがき」より】\n多くの中高生は、「行きたい高校（または大学）がある。\nだから勉強しなければならない」と考えています。\n「欲しいものがある。だから努力する」という人にとって、\n勉強に意味があったかどうかの判断は、結果がすべてです。\nでも、本当に大切なのは結果ではありません。\nなぜなら挑戦は「結果」のためにやるのではなく、「出会い」のためにするものだからです。\nーー著者・喜多川泰\n【10代の読者から感動の声、続々】\n「勉強の視点が180度変わりました。」（10代・男性）\n「すごく分かりやすい説得力のある言葉があり、心に響きました。」（20代・女性）\n「勉強が嫌いな自分でも勉強をしようと思え、これから先も自分を磨くために頑張ろうと思います。素敵な本に出会えてよかったです。」（10代・女性）\n「登場人物が自分と同年代で、内容がスっと入ってきました。勉強の概念をくつがえされ、ものすごく勉強したい欲が出てきました。」（10代・女性）\n「これからどう生きるか考えるきっかけになりました」（10代男性）\n「この本は私の背中を押してくれました。私は私の言葉に自信を持っていい。本当にありがとうございます。出会えて良かったです。」（10代女性）\n＊本書は、2007年12月に弊社から刊行された『手紙屋 蛍雪篇〜私の受験勉強を変えた十通の手紙〜』をもとに、一部の漢字にふりがなをふり、再編集したものです。\n",
+      "salesDate": "2026年07月24日",
+      "series": "手紙屋 蛍雪篇 〜私の受験勉強を変えた十通の手紙〜 ジュニア版",
+      "reviewAverage": 4.6,
+      "reviewCount": 5,
+      "genreId": "101905016001/101901",
+      "isbn": "4910000884732",
       "salesType": 0,
       "matchMeta": {
-        "title": "黒執事(36)",
-        "author": "枢やな",
-        "score": 5,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 28
-          }
-        ],
-        "source": "combined",
-        "rank": 94,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "黒執事(36)",
-        "author": "枢やな",
+        "title": "手紙屋 蛍雪篇 ～私の受験勉強を変えた十通の手紙～ ジュニア版",
+        "author": "喜多川泰",
         "isbn": "",
         "score": 152,
         "sources": [
           {
-            "source": "rakuten",
-            "label": "楽天ブックス",
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 28
+          }
+        ],
+        "source": "combined",
+        "rank": 70
+      },
+      "ranking": {
+        "title": "手紙屋 蛍雪篇 ～私の受験勉強を変えた十通の手紙～ ジュニア版",
+        "author": "喜多川泰",
+        "isbn": "",
+        "score": 152,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
             "rank": 28
           }
         ],
@@ -2254,7 +2221,7 @@
           }
         ],
         "source": "combined",
-        "rank": 79
+        "rank": 74
       },
       "ranking": {
         "title": "金色のガッシュ!! 2(7)",
@@ -2300,7 +2267,7 @@
           }
         ],
         "source": "combined",
-        "rank": 7,
+        "rank": 5,
         "originalTitle": ""
       },
       "ranking": {
@@ -2347,7 +2314,7 @@
           }
         ],
         "source": "combined",
-        "rank": 23,
+        "rank": 19,
         "originalTitle": ""
       },
       "ranking": {
@@ -2394,7 +2361,7 @@
           }
         ],
         "source": "combined",
-        "rank": 46,
+        "rank": 37,
         "originalTitle": ""
       },
       "ranking": {
@@ -2420,10 +2387,11 @@
       "4660629612104",
       "4340008067051",
       "4910000909001",
-      "4390000005636",
       "6681316771710",
+      "4390000005636",
       "4340008067611",
       "4320000935695",
+      "4910000884732",
       "4480000838415"
     ],
     "mystery": [
@@ -2434,13 +2402,14 @@
     ],
     "sf": [],
     "business": [
-      "8910126773560",
       "4310000701877",
-      "4660629621097"
+      "4660629621097",
+      "8910126773560",
+      "4910000884732"
     ],
     "humanities": [
-      "4380000407898",
       "4310000701877",
+      "4380000407898",
       "6681316771710",
       "4390000014247",
       "4390000016508",
@@ -2461,7 +2430,9 @@
       "4910000924301"
     ],
     "health": [],
-    "hobby": [],
+    "hobby": [
+      "8909131771218"
+    ],
     "travel": [
       "9784059239659"
     ],
@@ -2475,24 +2446,22 @@
     ],
     "essay": [],
     "comic": [
+      "4310000937174",
       "4972000167723",
       "4310000937173",
-      "4310000937174",
-      "4972000161524",
       "4320000937482",
       "4310000935726",
       "4972000167754",
-      "7328131765744",
+      "7328131415919",
       "7225000908848",
       "4972000167721",
       "4972000167736",
-      "7328131415919",
       "7276529347007"
     ]
   },
   "genreStatus": {
     "fiction": {
-      "matched": 9,
+      "matched": 10,
       "complete": true
     },
     "mystery": {
@@ -2504,7 +2473,7 @@
       "complete": true
     },
     "business": {
-      "matched": 3,
+      "matched": 4,
       "complete": true
     },
     "humanities": {
@@ -2532,7 +2501,7 @@
       "complete": true
     },
     "hobby": {
-      "matched": 0,
+      "matched": 1,
       "complete": true
     },
     "travel": {
@@ -2552,7 +2521,7 @@
       "complete": true
     },
     "comic": {
-      "matched": 13,
+      "matched": 11,
       "complete": true
     }
   }

@@ -4,218 +4,218 @@
   "attribution": "Amazon.co.jp",
   "sourceUrl": "https://www.amazon.co.jp/gp/bestsellers/books",
   "periodLabel": "現在のベストセラー",
-  "updatedAt": "2026-10-02T00:47:32.798Z",
+  "updatedAt": "2026-10-03T23:46:53.412Z",
   "live": false,
   "items": [
     {
       "rank": 1,
-      "title": "F.S.S. EPISODES of 40th MEMORIAL",
-      "author": "永野 護",
-      "asin": "4041178304",
-      "url": "https://www.amazon.co.jp/dp/4041178304"
-    },
-    {
-      "rank": 2,
-      "title": "転生したらスライムだった件(33) (シリウスKC)",
-      "author": "川上 泰樹",
-      "asin": "4065451191",
-      "url": "https://www.amazon.co.jp/dp/4065451191"
-    },
-    {
-      "rank": 3,
       "title": "ワールドトリガー 30 (ジャンプコミックス)",
       "author": "葦原 大介",
       "asin": "4088851501",
       "url": "https://www.amazon.co.jp/dp/4088851501"
     },
     {
+      "rank": 2,
+      "title": "mini（ミニ）2026年11月号増刊【表紙：塩﨑太智（M!LK）】",
+      "author": "宝島社",
+      "asin": "B0HGRFQ88M",
+      "url": "https://www.amazon.co.jp/dp/B0HGRFQ88M"
+    },
+    {
+      "rank": 3,
+      "title": "公式ファンブック 限定いちごチョコボンボン付き ボンボンドロップシール パーフェクトBOOK２（仮） (ASAHI ORIGINAL)",
+      "author": "朝日新聞出版",
+      "asin": "4022727713",
+      "url": "https://www.amazon.co.jp/dp/4022727713"
+    },
+    {
       "rank": 4,
+      "title": "転生したらスライムだった件(33) (シリウスKC)",
+      "author": "川上 泰樹",
+      "asin": "4065451191",
+      "url": "https://www.amazon.co.jp/dp/4065451191"
+    },
+    {
+      "rank": 5,
       "title": "アルスラーン戦記(25) (講談社コミックス)",
       "author": "荒川 弘",
       "asin": "4065449464",
       "url": "https://www.amazon.co.jp/dp/4065449464"
     },
     {
-      "rank": 5,
-      "title": "ロッキング・オン・ジャパン 2026年 11 月号 [雑誌]",
-      "author": "",
-      "asin": "B0HGH53J9D",
-      "url": "https://www.amazon.co.jp/dp/B0HGH53J9D"
-    },
-    {
       "rank": 6,
-      "title": "ニュータイプ 2026年11月号",
-      "author": "",
-      "asin": "B0HGLBCMFX",
-      "url": "https://www.amazon.co.jp/dp/B0HGLBCMFX"
+      "title": "F.S.S. EPISODES of 40th MEMORIAL",
+      "author": "永野 護",
+      "asin": "4041178304",
+      "url": "https://www.amazon.co.jp/dp/4041178304"
     },
     {
       "rank": 7,
-      "title": "Depth（デプス） EDITION 15 (SHINKO MUSIC MOOK)",
-      "author": "B-PASS編集部",
-      "asin": "4401657713",
-      "url": "https://www.amazon.co.jp/dp/4401657713"
+      "title": "MOE (モエ) 2026年11月号 [雑誌]（特別ふろく ムーミンダイアリー2027 ｜ とじこみふろく スナフキンシール｜ 巻頭特集 憧れの生き方を学ぶ 気ままにスナフキン）",
+      "author": "トーベ・ヤンソン",
+      "asin": "B0HFM22XBF",
+      "url": "https://www.amazon.co.jp/dp/B0HFM22XBF"
     },
     {
       "rank": 8,
-      "title": "BRUTUS(ブルータス) 2026年10月15日号 No.1063[犬と、暮らせば。]",
-      "author": "BRUTUS編集部",
-      "asin": "B0HJ5KPBX5",
-      "url": "https://www.amazon.co.jp/dp/B0HJ5KPBX5"
-    },
-    {
-      "rank": 9,
-      "title": "名探偵コナン (109) (少年サンデーコミックス)",
-      "author": "青山 剛昌",
-      "asin": "4098548550",
-      "url": "https://www.amazon.co.jp/dp/4098548550"
-    },
-    {
-      "rank": 10,
-      "title": "ディズニー大人のぬり絵コレ全国版-創刊-(1) 2026年 10/7 号 [雑誌]",
-      "author": "",
-      "asin": "B0HJ6HBWWC",
-      "url": "https://www.amazon.co.jp/dp/B0HJ6HBWWC"
-    },
-    {
-      "rank": 11,
-      "title": "ぐらんぶる(27) (アフタヌーンKC)",
-      "author": "井上 堅二",
-      "asin": "4065450969",
-      "url": "https://www.amazon.co.jp/dp/4065450969"
-    },
-    {
-      "rank": 12,
-      "title": "幽冥の岸 十二国記 (新潮文庫 お 37-66)",
-      "author": "小野不由美",
-      "asin": "4101240663",
-      "url": "https://www.amazon.co.jp/dp/4101240663"
-    },
-    {
-      "rank": 13,
       "title": "BORUTO―ボルト― 9 ―TWO BLUE VORTEX― (ジャンプコミックス)",
       "author": "池本 幹雄",
       "asin": "B0H3Y8VZ5X",
       "url": "https://www.amazon.co.jp/dp/B0H3Y8VZ5X"
     },
     {
+      "rank": 9,
+      "title": "ディズニー大人のぬり絵コレ全国版-創刊-(1) 2026年 10/7 号 [雑誌]",
+      "author": "",
+      "asin": "B0HJ6HBWWC",
+      "url": "https://www.amazon.co.jp/dp/B0HJ6HBWWC"
+    },
+    {
+      "rank": 10,
+      "title": "人間の性 (幻冬舎新書 814)",
+      "author": "佐藤 優",
+      "asin": "4344988183",
+      "url": "https://www.amazon.co.jp/dp/4344988183"
+    },
+    {
+      "rank": 11,
+      "title": "週刊プレイボーイ (42・43号)",
+      "author": "",
+      "asin": "B0HK5756B4",
+      "url": "https://www.amazon.co.jp/dp/B0HK5756B4"
+    },
+    {
+      "rank": 12,
+      "title": "sweet（スウィート）2026年11月号【表紙：山中柔太朗】",
+      "author": "宝島社",
+      "asin": "B0HGR5RPV9",
+      "url": "https://www.amazon.co.jp/dp/B0HGR5RPV9"
+    },
+    {
+      "rank": 13,
+      "title": "VOCE SPECIAL (2026年12月号)",
+      "author": "講談社",
+      "asin": "B0HLRKNDT3",
+      "url": "https://www.amazon.co.jp/dp/B0HLRKNDT3"
+    },
+    {
       "rank": 14,
-      "title": "命の燃やし方",
-      "author": "鈴木 大飛",
-      "asin": "4065405203",
-      "url": "https://www.amazon.co.jp/dp/4065405203"
+      "title": "BRUTUS(ブルータス) 2026年10月15日号 No.1063[犬と、暮らせば。]",
+      "author": "BRUTUS編集部",
+      "asin": "B0HJ5KPBX5",
+      "url": "https://www.amazon.co.jp/dp/B0HJ5KPBX5"
     },
     {
       "rank": 15,
-      "title": "otona MUSE（オトナミューズ）2026年11月号増刊",
-      "author": "宝島社",
-      "asin": "B0HBWWF6ZJ",
-      "url": "https://www.amazon.co.jp/dp/B0HBWWF6ZJ"
+      "title": "幽冥の岸 十二国記 (新潮文庫 お 37-66)",
+      "author": "小野不由美",
+      "asin": "4101240663",
+      "url": "https://www.amazon.co.jp/dp/4101240663"
     },
     {
       "rank": 16,
-      "title": "黒執事(36) (Gファンタジーコミックス)",
-      "author": "枢やな",
-      "asin": "4301007806",
-      "url": "https://www.amazon.co.jp/dp/4301007806"
+      "title": "anan(アンアン)2026/10/21号 No.2515増刊 スペシャルエディション[思考力の高め方／QuizKnock]",
+      "author": "anan編集部",
+      "asin": "B0HGKTGFP3",
+      "url": "https://www.amazon.co.jp/dp/B0HGKTGFP3"
     },
     {
       "rank": 17,
-      "title": "週刊ファミ通 2026年10月15日号 No.1965",
-      "author": "週刊ファミ通編集部",
-      "asin": "B0HJBTYDHG",
-      "url": "https://www.amazon.co.jp/dp/B0HJBTYDHG"
+      "title": "anan No.2514 Special Edition[上質なご自愛／K] (MAGAZINE HOUSE MOOK)",
+      "author": "anan編集部",
+      "asin": "4838758391",
+      "url": "https://www.amazon.co.jp/dp/4838758391"
     },
     {
       "rank": 18,
-      "title": "がんばれ パンチ: 子ザルの成長物語",
-      "author": "市川市動植物園",
-      "asin": "4052064283",
-      "url": "https://www.amazon.co.jp/dp/4052064283"
-    },
-    {
-      "rank": 19,
-      "title": "ゆるキャン△ １９ (まんがタイムKRコミックス)",
-      "author": "あfろ",
-      "asin": "4832297570",
-      "url": "https://www.amazon.co.jp/dp/4832297570"
-    },
-    {
-      "rank": 20,
       "title": "キン肉マン 94 (ジャンプコミックス)",
       "author": "ゆでたまご",
       "asin": "4088852249",
       "url": "https://www.amazon.co.jp/dp/4088852249"
     },
     {
+      "rank": 19,
+      "title": "名探偵コナン (109) (少年サンデーコミックス)",
+      "author": "青山 剛昌",
+      "asin": "4098548550",
+      "url": "https://www.amazon.co.jp/dp/4098548550"
+    },
+    {
+      "rank": 20,
+      "title": "ぐらんぶる(27) (アフタヌーンKC)",
+      "author": "井上 堅二",
+      "asin": "4065450969",
+      "url": "https://www.amazon.co.jp/dp/4065450969"
+    },
+    {
       "rank": 21,
-      "title": "ESSE (エッセ) 2026年11月号",
-      "author": "扶桑社",
-      "asin": "B0HCBLJ5XV",
-      "url": "https://www.amazon.co.jp/dp/B0HCBLJ5XV"
-    },
-    {
-      "rank": 22,
-      "title": "未だ本能寺にあり",
-      "author": "今村 翔吾",
-      "asin": "4344046463",
-      "url": "https://www.amazon.co.jp/dp/4344046463"
-    },
-    {
-      "rank": 23,
-      "title": "anan(アンアン)2026/10/14号 No.2514[上質なご自愛。／Mrs. GREEN APPLE]",
-      "author": "anan編集部",
-      "asin": "B0HGFBPDW3",
-      "url": "https://www.amazon.co.jp/dp/B0HGFBPDW3"
-    },
-    {
-      "rank": 24,
-      "title": "anan No.2513 Special Edition[応援の流儀2026／つば九郎＆つばみ] (MAGAZINE HOUSE MOOK)",
-      "author": "anan編集部",
-      "asin": "4838758383",
-      "url": "https://www.amazon.co.jp/dp/4838758383"
-    },
-    {
-      "rank": 25,
       "title": "アオのハコ 27 (ジャンプコミックス)",
       "author": "三浦 糀",
       "asin": "4088851986",
       "url": "https://www.amazon.co.jp/dp/4088851986"
     },
     {
+      "rank": 22,
+      "title": "ニュータイプ 2026年11月号",
+      "author": "",
+      "asin": "B0HGLBCMFX",
+      "url": "https://www.amazon.co.jp/dp/B0HGLBCMFX"
+    },
+    {
+      "rank": 23,
+      "title": "逃げ上手の若君 27 (ジャンプコミックス)",
+      "author": "松井 優征",
+      "asin": "B0H68VXZDY",
+      "url": "https://www.amazon.co.jp/dp/B0H68VXZDY"
+    },
+    {
+      "rank": 24,
+      "title": "命の燃やし方",
+      "author": "鈴木 大飛",
+      "asin": "4065405203",
+      "url": "https://www.amazon.co.jp/dp/4065405203"
+    },
+    {
+      "rank": 25,
+      "title": "ゆるキャン△ １９ (まんがタイムKRコミックス)",
+      "author": "あfろ",
+      "asin": "4832297570",
+      "url": "https://www.amazon.co.jp/dp/4832297570"
+    },
+    {
       "rank": 26,
-      "title": "クロワッサン 2026年10/10号No.1174[はじめての認知症介護]",
-      "author": "クロワッサン編集部",
-      "asin": "B0HHDHM7PQ",
-      "url": "https://www.amazon.co.jp/dp/B0HHDHM7PQ"
-    },
-    {
-      "rank": 27,
-      "title": "VERY NaVY（ヴェリィネイビー） 2026年11月号",
-      "author": "VERY NaVY編集部",
-      "asin": "B0HK1MLD1N",
-      "url": "https://www.amazon.co.jp/dp/B0HK1MLD1N"
-    },
-    {
-      "rank": 28,
       "title": "手紙屋 蛍雪篇 ～私の受験勉強を変えた十通の手紙～ ジュニア版",
       "author": "喜多川泰",
       "asin": "4799333232",
       "url": "https://www.amazon.co.jp/dp/4799333232"
     },
     {
+      "rank": 27,
+      "title": "週刊ファミ通 2026年10月15日号 No.1965",
+      "author": "週刊ファミ通編集部",
+      "asin": "B0HJBTYDHG",
+      "url": "https://www.amazon.co.jp/dp/B0HJBTYDHG"
+    },
+    {
+      "rank": 28,
+      "title": "アオアシ ブラザーフット (3) (ビッグコミックス)",
+      "author": "小林 有吾",
+      "asin": "4098641224",
+      "url": "https://www.amazon.co.jp/dp/4098641224"
+    },
+    {
       "rank": 29,
-      "title": "魔法使いの夜 下 (星海社FICTIONS)",
-      "author": "奈須 きのこ",
-      "asin": "406545364X",
-      "url": "https://www.amazon.co.jp/dp/406545364X"
+      "title": "秘密にしたい魅惑のスイーツレシピ",
+      "author": "小林啓吾",
+      "asin": "4651205941",
+      "url": "https://www.amazon.co.jp/dp/4651205941"
     },
     {
       "rank": 30,
-      "title": "金色のガッシュ!! 2(7)",
-      "author": "雷句 誠",
-      "asin": "B0GH441YNN",
-      "url": "https://www.amazon.co.jp/dp/B0GH441YNN"
+      "title": "汝、星のごとく (講談社文庫 な 101-1)",
+      "author": "凪良 ゆう",
+      "asin": "4065401887",
+      "url": "https://www.amazon.co.jp/dp/4065401887"
     }
   ]
 }

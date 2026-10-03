@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-10-03T16:56:43.496Z",
+  "updatedAt": "2026-10-03T21:59:38.208Z",
   "candidateCount": 75,
-  "baseMatched": 33,
-  "matched": 42,
-  "addedMatches": 9,
+  "baseMatched": 31,
+  "matched": 41,
+  "addedMatches": 10,
   "unavailable": [
     "rakuten"
   ],
@@ -164,12 +164,6 @@
           "author": "森見登美彦",
           "isbn": "",
           "rank": 5
-        },
-        {
-          "title": "容疑者Xの献身",
-          "author": "東野圭吾",
-          "isbn": "",
-          "rank": 7
         },
         {
           "title": "ブラッディダイスの殺人 上",
@@ -575,8 +569,7 @@
           }
         ],
         "source": "combined",
-        "rank": 7,
-        "originalTitle": "命の燃やし方"
+        "rank": 7
       },
       "ranking": {
         "title": "命の燃やし方",
@@ -882,53 +875,6 @@
       }
     },
     {
-      "id": "4390000005636",
-      "title": "容疑者Xの献身",
-      "author": "東野圭吾",
-      "publisher": "文藝春秋",
-      "price": 770,
-      "url": "https://books.rakuten.co.jp/rk/ffd6faf3b54b36bcbc30235a82624fa9/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7077/2000008377077.jpg?_ex=600x600",
-      "caption": "累計290万部突破。直木賞を受賞した大ベストセラー！\n天才数学者でありながら不遇な日々を送っていた高校教師の石神は、一人娘と暮らす隣人の靖子に秘かな想いを寄せていた。彼女たちが前夫を殺害したことを知った彼は、2人を救うため完全犯罪を企てる。だが皮肉にも、石神のかつての親友である物理学者の湯川学が、その謎に挑むことになる。ガリレオシリーズ初の長篇、直木賞受賞作。\n福山雅治主演で2008年に映画化され、堤真一、松雪泰子の熱演も話題になった。\n※この電子書籍は2008年8月に文藝春秋より刊行された文庫を底本としています\n",
-      "salesDate": "2020年04月24日",
-      "series": "",
-      "reviewAverage": 4.45,
-      "reviewCount": 2738,
-      "genreId": "101901/101902",
-      "isbn": "4390000005636",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "容疑者Xの献身",
-        "author": "東野圭吾",
-        "score": 82,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 7
-          }
-        ],
-        "source": "combined",
-        "rank": 25,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "容疑者Xの献身",
-        "author": "東野圭吾",
-        "isbn": "",
-        "score": 173,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 7
-          }
-        ],
-        "source": "combined",
-        "rank": 12
-      }
-    },
-    {
       "id": "6681317556160",
       "title": "BRUTUS (ブルータス) 2026年 10月15日号 No.1063 [犬と、暮らせば。]",
       "author": "BRUTUS編集部",
@@ -972,7 +918,7 @@
           }
         ],
         "source": "combined",
-        "rank": 13
+        "rank": 12
       }
     },
     {
@@ -1020,7 +966,7 @@
           }
         ],
         "source": "combined",
-        "rank": 14
+        "rank": 13
       }
     },
     {
@@ -1067,54 +1013,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15
-      }
-    },
-    {
-      "id": "4620000615075",
-      "title": "ブラッディダイスの殺人　上",
-      "author": "Ｍ Ｗ クレイヴン",
-      "publisher": "早川書房",
-      "price": 1210,
-      "url": "https://books.rakuten.co.jp/rk/91ea3c43631d345d8bb867055aba005f/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9728/2000021429728.jpg?_ex=600x600",
-      "caption": "ポーとティリーが再びタッグを組む！　シリーズ累計30万部の最新作！\n英国全土で連続狙撃事件が発生。犠牲者は17人にのぼるも犯人の手がかりはなく、ポーとティリーは国家犯罪対策庁に呼び戻されるが\n",
-      "salesDate": "2026年08月19日",
-      "series": "ワシントン・ポー",
-      "reviewAverage": 4.4,
-      "reviewCount": 21,
-      "genreId": "101902",
-      "isbn": "4620000615075",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ブラッディダイスの殺人 上",
-        "author": "M・W・クレイヴン",
-        "score": 74,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 32,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "ブラッディダイスの殺人 上",
-        "author": "M・W・クレイヴン",
-        "isbn": "",
-        "score": 171,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 16
+        "rank": 14
       }
     },
     {
@@ -1161,7 +1060,54 @@
           }
         ],
         "source": "combined",
-        "rank": 17
+        "rank": 15
+      }
+    },
+    {
+      "id": "4620000615075",
+      "title": "ブラッディダイスの殺人　上",
+      "author": "Ｍ Ｗ クレイヴン",
+      "publisher": "早川書房",
+      "price": 1210,
+      "url": "https://books.rakuten.co.jp/rk/91ea3c43631d345d8bb867055aba005f/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9728/2000021429728.jpg?_ex=600x600",
+      "caption": "ポーとティリーが再びタッグを組む！　シリーズ累計30万部の最新作！\n英国全土で連続狙撃事件が発生。犠牲者は17人にのぼるも犯人の手がかりはなく、ポーとティリーは国家犯罪対策庁に呼び戻されるが\n",
+      "salesDate": "2026年08月19日",
+      "series": "ワシントン・ポー",
+      "reviewAverage": 4.4,
+      "reviewCount": 21,
+      "genreId": "101902",
+      "isbn": "4620000615075",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ブラッディダイスの殺人 上",
+        "author": "M・W・クレイヴン",
+        "isbn": "",
+        "score": 171,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 30
+      },
+      "ranking": {
+        "title": "ブラッディダイスの殺人 上",
+        "author": "M・W・クレイヴン",
+        "isbn": "",
+        "score": 171,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 16
       }
     },
     {
@@ -1193,8 +1139,7 @@
           }
         ],
         "source": "combined",
-        "rank": 32,
-        "originalTitle": "B.LEAGUE完全ガイド2026-27"
+        "rank": 32
       },
       "ranking": {
         "title": "B.LEAGUE完全ガイド2026-27",
@@ -1209,7 +1154,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18
+        "rank": 17
       }
     },
     {
@@ -1256,7 +1201,7 @@
           }
         ],
         "source": "combined",
-        "rank": 19
+        "rank": 18
       }
     },
     {
@@ -1304,7 +1249,7 @@
           }
         ],
         "source": "combined",
-        "rank": 20
+        "rank": 19
       }
     },
     {
@@ -1351,7 +1296,7 @@
           }
         ],
         "source": "combined",
-        "rank": 21
+        "rank": 20
       }
     },
     {
@@ -1398,7 +1343,7 @@
           }
         ],
         "source": "combined",
-        "rank": 22
+        "rank": 21
       }
     },
     {
@@ -1445,7 +1390,7 @@
           }
         ],
         "source": "combined",
-        "rank": 23
+        "rank": 22
       }
     },
     {
@@ -1492,7 +1437,7 @@
           }
         ],
         "source": "combined",
-        "rank": 24
+        "rank": 23
       }
     },
     {
@@ -1539,7 +1484,7 @@
           }
         ],
         "source": "combined",
-        "rank": 25
+        "rank": 24
       }
     },
     {
@@ -1586,7 +1531,7 @@
           }
         ],
         "source": "combined",
-        "rank": 26
+        "rank": 25
       }
     },
     {
@@ -1633,7 +1578,7 @@
           }
         ],
         "source": "combined",
-        "rank": 27
+        "rank": 26
       }
     },
     {
@@ -1680,7 +1625,7 @@
           }
         ],
         "source": "combined",
-        "rank": 28
+        "rank": 27
       }
     },
     {
@@ -1727,7 +1672,7 @@
           }
         ],
         "source": "combined",
-        "rank": 29
+        "rank": 28
       }
     },
     {
@@ -1749,8 +1694,7 @@
       "matchMeta": {
         "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
         "author": "",
-        "isbn": "",
-        "score": 162,
+        "score": 38,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1759,7 +1703,8 @@
           }
         ],
         "source": "combined",
-        "rank": 54
+        "rank": 53,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
@@ -1771,6 +1716,53 @@
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
             "rank": 18
+          }
+        ],
+        "source": "combined",
+        "rank": 29
+      }
+    },
+    {
+      "id": "4390000016508",
+      "title": "なぜ日本が世界に必要なのか",
+      "author": "エマニュエル・トッド",
+      "publisher": "文藝春秋",
+      "price": 1100,
+      "url": "https://books.rakuten.co.jp/rk/d3380ef6b5d6352fb44783bb5e41c377/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5838/2000021745838.jpg?_ex=600x600",
+      "caption": "現代最高の知識人による唯一無二の日本論\n「自然人」らしさ、ユーモア、独自の言語が日本の強みだ！ーー現代最高の知識人による、最も今日的で画期的な「日本文明論＝地政学」。\n　世界の行く末は、第二次大戦の敗戦国である日独の選択にかかっている。対米追従を深めるドイツに対し、日本はどうするのか？\n　歴史的に「悪い選択」をしてきたドイツとは反対に、日本は「良い選択」をするだろうと歴史家として予測している。日本人の方がドイツ人よりもユーモアセンスがあるからだ。ユーモアセンスは、ドイツでは完全に破壊されてしまった。厳格なルター主義が、「人類の自然な能力」を根絶してしまったのだ。多くの戦争の原因となった「過剰な生真面目さ」がドイツを支配しているが、日本はそうではない。\n　日本には「この世の美しさと喜び」に幸せを感じる「自然人らしさ」が生き続けている。この点は、ドイツーー偉大な哲学者、物理学者、数学者を誇るが、硬直的で人間味に欠け、あまりに暗いドイツーーと大きく異なる。\n「自然人」はドイツでは死滅した。それゆえにこの国はナチズムを生みだしたが、日本には「自然な人間」「人間らしい人間」が今も存在している。だからこそ、日本人は戦争を拒否できると私は信じる。\n　もし日本がワシントンの圧力に抵抗するなら、その抵抗自体が世界の平和にもたらす利益は測り知れない。米国に対する日本の独立は「平和」に貢献するだろうーー「日本の対米自立」を世界が求めている。\n",
+      "salesDate": "2026年09月17日",
+      "series": "",
+      "reviewAverage": 0,
+      "reviewCount": 1,
+      "genreId": "101907009/101907005090",
+      "isbn": "4390000016508",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "なぜ日本が世界に必要なのか 文春新書",
+        "author": "",
+        "score": 34,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 19
+          }
+        ],
+        "source": "combined",
+        "rank": 55,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "なぜ日本が世界に必要なのか 文春新書",
+        "author": "",
+        "isbn": "",
+        "score": 161,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 19
           }
         ],
         "source": "combined",
@@ -1825,53 +1817,6 @@
       }
     },
     {
-      "id": "4390000016508",
-      "title": "なぜ日本が世界に必要なのか",
-      "author": "エマニュエル・トッド",
-      "publisher": "文藝春秋",
-      "price": 1100,
-      "url": "https://books.rakuten.co.jp/rk/d3380ef6b5d6352fb44783bb5e41c377/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5838/2000021745838.jpg?_ex=600x600",
-      "caption": "現代最高の知識人による唯一無二の日本論\n「自然人」らしさ、ユーモア、独自の言語が日本の強みだ！ーー現代最高の知識人による、最も今日的で画期的な「日本文明論＝地政学」。\n　世界の行く末は、第二次大戦の敗戦国である日独の選択にかかっている。対米追従を深めるドイツに対し、日本はどうするのか？\n　歴史的に「悪い選択」をしてきたドイツとは反対に、日本は「良い選択」をするだろうと歴史家として予測している。日本人の方がドイツ人よりもユーモアセンスがあるからだ。ユーモアセンスは、ドイツでは完全に破壊されてしまった。厳格なルター主義が、「人類の自然な能力」を根絶してしまったのだ。多くの戦争の原因となった「過剰な生真面目さ」がドイツを支配しているが、日本はそうではない。\n　日本には「この世の美しさと喜び」に幸せを感じる「自然人らしさ」が生き続けている。この点は、ドイツーー偉大な哲学者、物理学者、数学者を誇るが、硬直的で人間味に欠け、あまりに暗いドイツーーと大きく異なる。\n「自然人」はドイツでは死滅した。それゆえにこの国はナチズムを生みだしたが、日本には「自然な人間」「人間らしい人間」が今も存在している。だからこそ、日本人は戦争を拒否できると私は信じる。\n　もし日本がワシントンの圧力に抵抗するなら、その抵抗自体が世界の平和にもたらす利益は測り知れない。米国に対する日本の独立は「平和」に貢献するだろうーー「日本の対米自立」を世界が求めている。\n",
-      "salesDate": "2026年09月17日",
-      "series": "",
-      "reviewAverage": 0,
-      "reviewCount": 1,
-      "genreId": "101907009/101907005090",
-      "isbn": "4390000016508",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "なぜ日本が世界に必要なのか 文春新書",
-        "author": "",
-        "score": 34,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 19
-          }
-        ],
-        "source": "combined",
-        "rank": 55,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "なぜ日本が世界に必要なのか 文春新書",
-        "author": "",
-        "isbn": "",
-        "score": 161,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 19
-          }
-        ],
-        "source": "combined",
-        "rank": 32
-      }
-    },
-    {
       "id": "4972000167721",
       "title": "キン肉マン 94",
       "author": "ゆでたまご",
@@ -1915,7 +1860,7 @@
           }
         ],
         "source": "combined",
-        "rank": 33
+        "rank": 32
       }
     },
     {
@@ -1962,7 +1907,7 @@
           }
         ],
         "source": "combined",
-        "rank": 34
+        "rank": 33
       }
     },
     {
@@ -2009,7 +1954,7 @@
           }
         ],
         "source": "combined",
-        "rank": 35
+        "rank": 34
       }
     },
     {
@@ -2056,7 +2001,7 @@
           }
         ],
         "source": "combined",
-        "rank": 36
+        "rank": 35
       }
     },
     {
@@ -2076,9 +2021,10 @@
       "isbn": "4910000884732",
       "salesType": 0,
       "matchMeta": {
-        "title": "手紙屋 蛍雪篇 ~私の受験勉強を変えた十通の手紙~ ジュニア版",
+        "title": "手紙屋 蛍雪篇 ～私の受験勉強を変えた十通の手紙～ ジュニア版",
         "author": "喜多川泰",
-        "score": 5,
+        "isbn": "",
+        "score": 152,
         "sources": [
           {
             "source": "amazon",
@@ -2087,8 +2033,7 @@
           }
         ],
         "source": "combined",
-        "rank": 74,
-        "originalTitle": "手紙屋 蛍雪篇 ～私の受験勉強を変えた十通の手紙～ ジュニア版"
+        "rank": 70
       },
       "ranking": {
         "title": "手紙屋 蛍雪篇 ～私の受験勉強を変えた十通の手紙～ ジュニア版",
@@ -2103,7 +2048,7 @@
           }
         ],
         "source": "combined",
-        "rank": 37
+        "rank": 36
       }
     },
     {
@@ -2150,7 +2095,7 @@
           }
         ],
         "source": "combined",
-        "rank": 38
+        "rank": 37
       }
     },
     {
@@ -2197,7 +2142,7 @@
           }
         ],
         "source": "combined",
-        "rank": 39
+        "rank": 38
       }
     },
     {
@@ -2243,7 +2188,7 @@
           }
         ],
         "source": "combined",
-        "rank": 40,
+        "rank": 39,
         "originalTitle": ""
       }
     },
@@ -2290,7 +2235,7 @@
           }
         ],
         "source": "combined",
-        "rank": 41,
+        "rank": 40,
         "originalTitle": ""
       }
     },
@@ -2337,7 +2282,7 @@
           }
         ],
         "source": "combined",
-        "rank": 42,
+        "rank": 41,
         "originalTitle": ""
       }
     }
@@ -2348,7 +2293,6 @@
       "4660629612104",
       "4340008067051",
       "4910000909001",
-      "4390000005636",
       "6681316771710",
       "4320000935695",
       "4340008067611",
@@ -2356,7 +2300,6 @@
       "4480000838415"
     ],
     "mystery": [
-      "4390000005636",
       "4620000615075",
       "4620000615076",
       "4320000935695"
@@ -2422,11 +2365,11 @@
   },
   "genreStatus": {
     "fiction": {
-      "matched": 10,
+      "matched": 9,
       "complete": true
     },
     "mystery": {
-      "matched": 4,
+      "matched": 3,
       "complete": true
     },
     "sf": {

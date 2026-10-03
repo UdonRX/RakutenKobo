@@ -4,10 +4,10 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-10-03T05:58:58.627Z",
+  "updatedAt": "2026-10-03T12:15:29.321Z",
   "candidateCount": 40,
-  "baseMatched": 12,
-  "matched": 16,
+  "baseMatched": 10,
+  "matched": 14,
   "addedMatches": 4,
   "unavailable": [],
   "snapshots": {
@@ -72,12 +72,6 @@
           "author": "",
           "isbn": "",
           "rank": 5
-        },
-        {
-          "title": "地球の歩き方 スター･ウォーズ",
-          "author": "",
-          "isbn": "",
-          "rank": 9
         },
         {
           "title": "キングダム magazine 2026",
@@ -265,7 +259,8 @@
           }
         ],
         "source": "combined",
-        "rank": 10
+        "rank": 10,
+        "originalTitle": "つかめ!理科ダマン 12 最強ロボット決戦!編"
       },
       "ranking": {
         "title": "つかめ!理科ダマン 12 最強ロボット決戦!編",
@@ -281,53 +276,6 @@
         ],
         "source": "combined",
         "rank": 4
-      }
-    },
-    {
-      "id": "9784059239659",
-      "title": "地球の歩き方 スター・ウォーズ",
-      "author": "",
-      "publisher": "地球の歩き方",
-      "price": 2750,
-      "url": "https://books.rakuten.co.jp/rk/40558a21970c38b8891b35aee564d356/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9941/2000020489941.jpg?_ex=600x600",
-      "caption": "銀河の果てまで旅するように、物語の舞台を歩く……。\n『スター・ウォーズ』の世界を「地球の歩き方」ならではの旅行ガイドスタイルでひもとく、スペシャルブックが登場！\nもしあなたが『スター・ウォーズ』の世界を訪れることになっても、本書があれば安心。劇場公開作品を中心に、ストーリーの流れや主要キャラクターの魅力を、心に残る名シーンとともにしっかりおさらいできます。さらに、モデルプランや旅のテクニックなど、ファン心をくすぐるコンテンツも充実。\n作品世界をより深く理解し、楽しむための情報を厳選して収録した、ファン必携の永久保存版です。\n※予告なく一部内容が変更される可能性もあります。予めご了承ください。\n※電子版では、紙のガイドブックと内容が一部異なります。掲載されない写真や図版、収録されないページがある場合があります。あらかじめご了承下さい。\n",
-      "salesDate": "2026年07月29日",
-      "series": "",
-      "reviewAverage": 4.25,
-      "reviewCount": 4,
-      "genreId": "101911",
-      "isbn": "9784059239659",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "地球の歩き方 スター･ウォーズ",
-        "author": "",
-        "isbn": "",
-        "score": 171,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 17
-      },
-      "ranking": {
-        "title": "地球の歩き方 スター･ウォーズ",
-        "author": "",
-        "isbn": "",
-        "score": 171,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 5
       }
     },
     {
@@ -374,7 +322,7 @@
           }
         ],
         "source": "combined",
-        "rank": 6
+        "rank": 5
       }
     },
     {
@@ -421,7 +369,7 @@
           }
         ],
         "source": "combined",
-        "rank": 7
+        "rank": 6
       }
     },
     {
@@ -473,7 +421,7 @@
           }
         ],
         "source": "combined",
-        "rank": 8
+        "rank": 7
       }
     },
     {
@@ -520,7 +468,7 @@
           }
         ],
         "source": "combined",
-        "rank": 9
+        "rank": 8
       }
     },
     {
@@ -542,7 +490,8 @@
       "matchMeta": {
         "title": "ギャルにひかれて寺マルシェ",
         "author": "",
-        "score": 5,
+        "isbn": "",
+        "score": 153,
         "sources": [
           {
             "source": "kinokuniya",
@@ -551,8 +500,7 @@
           }
         ],
         "source": "combined",
-        "rank": 35,
-        "originalTitle": ""
+        "rank": 37
       },
       "ranking": {
         "title": "ギャルにひかれて寺マルシェ",
@@ -567,7 +515,7 @@
           }
         ],
         "source": "combined",
-        "rank": 10
+        "rank": 9
       }
     },
     {
@@ -613,7 +561,7 @@
           }
         ],
         "source": "combined",
-        "rank": 11,
+        "rank": 10,
         "originalTitle": ""
       }
     },
@@ -660,7 +608,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12,
+        "rank": 11,
         "originalTitle": ""
       }
     },
@@ -707,54 +655,7 @@
           }
         ],
         "source": "combined",
-        "rank": 13,
-        "originalTitle": ""
-      }
-    },
-    {
-      "id": "4310000858457",
-      "title": "多類婚姻譚",
-      "author": "凪良ゆう",
-      "publisher": "講談社",
-      "price": 2090,
-      "url": "https://books.rakuten.co.jp/rk/35543b7edf2e30ee99d978d6e6e59bdd/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9189/2000020649189.jpg?_ex=600x600",
-      "caption": "一緒に生きる。わかりあえないあなたと。\n一番近くにいる他人ーこいびとー。どうして結婚はこんなに難しくなってしまったのだろう。\n『流浪の月』『汝、星のごとく』で二度の本屋大賞を受賞した著者が描く、今そこにある愛のかたち。\nセクシュアリティ/ジェンダー、金銭感覚、世代間格差、成育環境……\nあらゆる価値観の対立の中で現代を生きるわたしたちの祈りと叫び。\n【凪良ゆう　コメント】\n「文芸書としては『星を編む』から２年半、ようやく新刊をお届けできます。\n今作は結婚について。\n婚姻譚と銘打ちながらも、婚姻への道のりがはてしなく遠い!!　これは果たして婚姻譚と言えるのか、と担当さん達と首をかしげる場面もありました。\n読んでくださった方たちと”現代の結婚”について語り合ってみたいです。」\n【収録作　紹介】\n「Thank you for your understanding」\n家族の期待に応え、ついに恋人と帰省する決意を固めた華。\n「Beautiful Dreamer」\n結婚したい。ありふれた夢のはずなのに、東京ではこんなにも遠い。\n「小鳥たち」\n離婚して、実家の書店を継いだ一葉。そこに偶然、初恋の人がやって来てーー。\n「Position Talk」\n入籍を目前にした男女。性差を越え、個としてわかり合える日は来るのか。\n「C'est la vie」\n仕事も恋も、魂を分けあった二人。だが、夢のような時間にはいつか終わりが来る。\n",
-      "salesDate": "2026年05月26日",
-      "series": "多類婚姻譚",
-      "reviewAverage": 4.22,
-      "reviewCount": 609,
-      "genreId": "101901",
-      "isbn": "4310000858457",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "多類婚姻譚",
-        "author": "凪良ゆう",
-        "score": 90,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 5
-          }
-        ],
-        "source": "combined",
-        "rank": 11,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "多類婚姻譚",
-        "author": "凪良ゆう",
-        "score": 90,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 5
-          }
-        ],
-        "source": "combined",
-        "rank": 14,
+        "rank": 12,
         "originalTitle": ""
       }
     },
@@ -801,7 +702,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15,
+        "rank": 13,
         "originalTitle": ""
       }
     },
@@ -848,7 +749,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16,
+        "rank": 14,
         "originalTitle": ""
       }
     }
@@ -859,8 +760,7 @@
       "4331000700320",
       "4320000867368",
       "4320000865495",
-      "4320000865494",
-      "4310000858457"
+      "4320000865494"
     ],
     "mystery": [
       "4320000865495",
@@ -890,9 +790,7 @@
     ],
     "health": [],
     "hobby": [],
-    "travel": [
-      "9784059239659"
-    ],
+    "travel": [],
     "language": [
       "6681311679960",
       "4310000701877"
@@ -909,7 +807,7 @@
   },
   "genreStatus": {
     "fiction": {
-      "matched": 6,
+      "matched": 5,
       "complete": true
     },
     "mystery": {
@@ -953,7 +851,7 @@
       "complete": true
     },
     "travel": {
-      "matched": 1,
+      "matched": 0,
       "complete": true
     },
     "language": {

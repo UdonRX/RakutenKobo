@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-10-03T12:15:11.545Z",
+  "updatedAt": "2026-10-03T16:56:43.496Z",
   "candidateCount": 75,
-  "baseMatched": 35,
-  "matched": 40,
-  "addedMatches": 5,
+  "baseMatched": 33,
+  "matched": 42,
+  "addedMatches": 9,
   "unavailable": [
     "rakuten"
   ],
@@ -302,6 +302,18 @@
           "rank": 8
         },
         {
+          "title": "B.LEAGUE完全ガイド2026-27",
+          "author": "",
+          "isbn": "",
+          "rank": 9
+        },
+        {
+          "title": "ゲッターズ飯田の五星三心占い2027 銀のインディアン座",
+          "author": "",
+          "isbn": "",
+          "rank": 10
+        },
+        {
           "title": "FOR OVERSEAS",
           "author": "",
           "isbn": "",
@@ -548,22 +560,23 @@
       "matchMeta": {
         "title": "命の燃やし方",
         "author": "鈴木 大飛",
-        "score": 76,
+        "isbn": "",
+        "score": 324,
         "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 22
-          },
           {
             "source": "amazon",
             "label": "Amazon",
             "rank": 14
+          },
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 22
           }
         ],
         "source": "combined",
-        "rank": 4,
-        "originalTitle": ""
+        "rank": 7,
+        "originalTitle": "命の燃やし方"
       },
       "ranking": {
         "title": "命の燃やし方",
@@ -634,6 +647,53 @@
       }
     },
     {
+      "id": "4340008067051",
+      "title": "プレゼント（新潮文庫）",
+      "author": "伊坂幸太郎/江國香織/恩田陸/梨木香歩/町田そのこ/宮部みゆき/米澤穂信",
+      "publisher": "新潮社",
+      "price": 825,
+      "url": "https://books.rakuten.co.jp/rk/e8a60fd88eb63075a76e50e52cf98712/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8962/2000020598962.jpg?_ex=600x600",
+      "caption": "これはこれまで小説を愛してきてくれた人へ、そしてこれから小説の世界に一歩踏み出す人へ贈るプレゼント。何気なく読んだ物語が、ふと目にした一行が、意外な言葉ひとつが、人生を大きく変えるかもしれない。現代を代表する７人の作家が「夏」をテーマに書き下ろした、驚きと切なさ、怖さと美しさ、何よりとびきりの面白さを詰め込んだ奇跡の一冊。さぁ、あなたの人生に小説という選択肢を。\n",
+      "salesDate": "2026年06月24日",
+      "series": "",
+      "reviewAverage": 3.87,
+      "reviewCount": 398,
+      "genreId": "101901",
+      "isbn": "4340008067051",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "プレゼント",
+        "author": "伊坂幸太郎",
+        "score": 98,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 3
+          }
+        ],
+        "source": "combined",
+        "rank": 12,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "プレゼント",
+        "author": "伊坂幸太郎",
+        "isbn": "",
+        "score": 177,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 3
+          }
+        ],
+        "source": "combined",
+        "rank": 7
+      }
+    },
+    {
       "id": "4972000167723",
       "title": "ワールドトリガー 30",
       "author": "葦原大介",
@@ -673,54 +733,6 @@
           {
             "source": "amazon",
             "label": "Amazon",
-            "rank": 3
-          }
-        ],
-        "source": "combined",
-        "rank": 7
-      }
-    },
-    {
-      "id": "4340008067051",
-      "title": "プレゼント（新潮文庫）",
-      "author": "伊坂幸太郎/江國香織/恩田陸/梨木香歩/町田そのこ/宮部みゆき/米澤穂信",
-      "publisher": "新潮社",
-      "price": 825,
-      "url": "https://books.rakuten.co.jp/rk/e8a60fd88eb63075a76e50e52cf98712/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8962/2000020598962.jpg?_ex=600x600",
-      "caption": "これはこれまで小説を愛してきてくれた人へ、そしてこれから小説の世界に一歩踏み出す人へ贈るプレゼント。何気なく読んだ物語が、ふと目にした一行が、意外な言葉ひとつが、人生を大きく変えるかもしれない。現代を代表する７人の作家が「夏」をテーマに書き下ろした、驚きと切なさ、怖さと美しさ、何よりとびきりの面白さを詰め込んだ奇跡の一冊。さぁ、あなたの人生に小説という選択肢を。\n",
-      "salesDate": "2026年06月24日",
-      "series": "",
-      "reviewAverage": 3.87,
-      "reviewCount": 398,
-      "genreId": "101901",
-      "isbn": "4340008067051",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "プレゼント",
-        "author": "伊坂幸太郎",
-        "isbn": "",
-        "score": 177,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 3
-          }
-        ],
-        "source": "combined",
-        "rank": 13,
-        "originalTitle": "プレゼント"
-      },
-      "ranking": {
-        "title": "プレゼント",
-        "author": "伊坂幸太郎",
-        "isbn": "",
-        "score": 177,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
             "rank": 3
           }
         ],
@@ -992,7 +1004,8 @@
           }
         ],
         "source": "combined",
-        "rank": 28
+        "rank": 28,
+        "originalTitle": "ゲッターズ飯田の五星三心占い2027 銀の羅針盤座"
       },
       "ranking": {
         "title": "ゲッターズ飯田の五星三心占い2027 銀の羅針盤座",
@@ -1008,53 +1021,6 @@
         ],
         "source": "combined",
         "rank": 14
-      }
-    },
-    {
-      "id": "4620000615075",
-      "title": "ブラッディダイスの殺人　上",
-      "author": "Ｍ Ｗ クレイヴン",
-      "publisher": "早川書房",
-      "price": 1210,
-      "url": "https://books.rakuten.co.jp/rk/91ea3c43631d345d8bb867055aba005f/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9728/2000021429728.jpg?_ex=600x600",
-      "caption": "ポーとティリーが再びタッグを組む！　シリーズ累計30万部の最新作！\n英国全土で連続狙撃事件が発生。犠牲者は17人にのぼるも犯人の手がかりはなく、ポーとティリーは国家犯罪対策庁に呼び戻されるが\n",
-      "salesDate": "2026年08月19日",
-      "series": "ワシントン・ポー",
-      "reviewAverage": 4.4,
-      "reviewCount": 21,
-      "genreId": "101902",
-      "isbn": "4620000615075",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ブラッディダイスの殺人 上",
-        "author": "M・W・クレイヴン",
-        "score": 74,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 32,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "ブラッディダイスの殺人 上",
-        "author": "M・W・クレイヴン",
-        "isbn": "",
-        "score": 171,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 15
       }
     },
     {
@@ -1097,6 +1063,53 @@
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 15
+      }
+    },
+    {
+      "id": "4620000615075",
+      "title": "ブラッディダイスの殺人　上",
+      "author": "Ｍ Ｗ クレイヴン",
+      "publisher": "早川書房",
+      "price": 1210,
+      "url": "https://books.rakuten.co.jp/rk/91ea3c43631d345d8bb867055aba005f/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9728/2000021429728.jpg?_ex=600x600",
+      "caption": "ポーとティリーが再びタッグを組む！　シリーズ累計30万部の最新作！\n英国全土で連続狙撃事件が発生。犠牲者は17人にのぼるも犯人の手がかりはなく、ポーとティリーは国家犯罪対策庁に呼び戻されるが\n",
+      "salesDate": "2026年08月19日",
+      "series": "ワシントン・ポー",
+      "reviewAverage": 4.4,
+      "reviewCount": 21,
+      "genreId": "101902",
+      "isbn": "4620000615075",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ブラッディダイスの殺人 上",
+        "author": "M・W・クレイヴン",
+        "score": 74,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 32,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "ブラッディダイスの殺人 上",
+        "author": "M・W・クレイヴン",
+        "isbn": "",
+        "score": 171,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
             "rank": 9
           }
         ],
@@ -1152,6 +1165,54 @@
       }
     },
     {
+      "id": "8909131771218",
+      "title": "B.LEAGUE完全ガイド2026-27",
+      "author": "コスミック出版編集部",
+      "publisher": "コスミック出版",
+      "price": 1430,
+      "url": "https://books.rakuten.co.jp/rk/08047a281d4c3a5db5ce21b04a3a15bc/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1974/2000021951974.jpg?_ex=600x600",
+      "caption": "【主な掲載内容】\n■SPECIAL INTERVIEW\n馬場雄大（長崎ヴェルカ）　難しいほど、燃える。\n富樫勇樹（千葉ジェッツ）　もう一度、自分を証明したい。\n■B.革新とBプレミアの基礎知識\n■Bプレミアの移籍劇を追う\n■B.LEAGUE 2025-26 REVIEW\n■記録で振り返るB.LEAGUEの10年\n■B.LEAGUE公認アナリスト佐々木クリスさんが解説！　　Bプレミア各チームの戦力分析\n■2026-27　Bプレミア・Bワン・Bネクスト レギュラーシーズン日程\n■Bプレミア・Bワン・Bネクスト全55クラブ 全選手名鑑\n（各クラブ紹介／今季の展望／予想布陣／選手移籍情報／各クラブシーズン日程／選手紹介）\n・Bプレミア東地区\nレバンガ北海道／仙台89ERS／秋田ノーザンハピネッツ／茨城ロボッツ／宇都宮ブレックス／群馬クレインサンダーズ／／アルティーリ千葉／千葉ジェッツ／アルバルク東京／サンロッカーズ渋谷／川崎ブレイブサンダース／横浜ビー・コルセアーズ／富山グラウジーズ\n・Bプレミア西地区\n信州ブレイブウォリアーズ／三遠ネオフェニックス／シーホース三河／名古屋ダイヤモンドドルフィンズ／滋賀レイクス／京都ハンナリーズ／大阪エヴェッサ／神戸ストークス／島根スサノオマジック／広島ドラゴンフライズ／佐賀バルーナーズ／長崎ヴェルカ／琉球ゴールデンキングス\n・Bワン北地区\n青森ワッツ／岩手ビッグブルズ／山形ワイヴァンズ／福島ファイヤーボンズ／越谷アルファーズ\n・Bワン東地区\nさいたまブロンコス／東京ユナイテッドバスケットボールクラブ／アースフレンズ東京Ｚ／立川ダイス／東京八王子ビートレインズ\n・Bワン中地区\n横浜エクセレンス／新潟アルビレックスBC／金沢サムライズ／福井ブローウィンズ／岐阜スゥープス\n・Bワン西地区\nベルテックス静岡／ファイティングイーグルス名古屋／バンビシャス奈良／トライフープ岡山／徳島ガンバロウズ\n・Bワン南地区\n香川ファイブアローズ／愛媛オレンジバイキングス／ライジングゼファー福岡／熊本ヴォルターズ／鹿児島レブナイズ\n・Bネクスト\nしながわシティバスケットボールクラブ／ウォルガ湘南／ヴィアティン三重／山口パッツファイブ／\n※情報は2026年9月5日時点のものです。\n",
+      "salesDate": "2026年10月09日",
+      "series": "",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101910001",
+      "isbn": "8909131771218",
+      "salesType": 1,
+      "matchMeta": {
+        "title": "B.LEAGUE完全ガイド2026-27",
+        "author": "",
+        "isbn": "",
+        "score": 171,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 32,
+        "originalTitle": "B.LEAGUE完全ガイド2026-27"
+      },
+      "ranking": {
+        "title": "B.LEAGUE完全ガイド2026-27",
+        "author": "",
+        "isbn": "",
+        "score": 171,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 18
+      }
+    },
+    {
       "id": "4620000615076",
       "title": "ブラッディダイスの殺人　下",
       "author": "Ｍ Ｗ クレイヴン",
@@ -1195,7 +1256,55 @@
           }
         ],
         "source": "combined",
-        "rank": 18
+        "rank": 19
+      }
+    },
+    {
+      "id": "4910000924301",
+      "title": "ゲッターズ飯田の五星三心占い2027　銀のインディアン座",
+      "author": "ゲッターズ飯田",
+      "publisher": "朝日新聞出版",
+      "price": 1430,
+      "url": "https://books.rakuten.co.jp/rk/454c1b9cbd923c11987f0125292fb123/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6603/2000021696603.jpg?_ex=600x600",
+      "caption": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。\n『ゲッターズ飯田の五星三心占い2027』\n＼＼全12タイプ☆大好評発売中！／／\n2027年、あなたはどんな1年に?\n恋も、仕事も、お金も、健康も。ーー365日の「開運」のヒントを、この1冊に詰め込みました。\n8万人以上を無償で占い、25年以上「開運」を極め続けた、\n「芸能界最強の占い師」ゲッターズ飯田。\n最新2027年版の「開運の手引き」が、ついに発売決定！\n＞＞開運するには「理由」があります。\n☆ まいにち10秒、365日読める運気＆開運アドバイス\n☆ どの本よりも「細かく」「詳しく」占える、圧倒的な情報量\n☆ 家族、恋人、友達、同僚、推し……じつは全員占えます\n＞＞さらに、これだけの人に選ばれ続けています。\n☆ 今年で、10年連続＼毎年／100万部！！\n☆ なんとなんと、シリーズ累計1500万部突破！！\n☆ そして、12秒に1冊売れてる！！（※1）\n＞＞ 開運の声が「とんでもない量」届いています！\n☆「人生の教科書！　というより参考書！！　一年通して毎日使えます！　スゴイ！」（50代／女性）\n☆「こんな一面が自分自身にあるのだと気付かされました。」（30代／女性）\n☆「不安な時や背中を押してもらいたい時に読んでます。」（20代／女性）\n☆「すごくわかりやすくて買って本当によかった。もっと早くから買ってみればよかったです。」（40代／男性）\n☆「開運のつぶやきが心に響きます。その言葉1つ1つがありがたいです。」（40代／女性）\n（2026年版の感想から一部を抜粋）\nなぜ、こんなに支持されているの……？？\nその秘密は、ぎっしり詰まった“中身”にあります。\n☆★『ゲッターズ飯田の五星三心占い2027』コンテンツ★☆\n＼今年もコレで開運チャージ！／\n◎2026年9月〜2027年12月の総合運／恋愛運／結婚運／仕事運／金運＆買い物運／美容＆健康運／家庭＆親子運\n◎2026年9月〜2027年12月まで毎月、毎日のアドバイスがぎっしり！「運気カレンダー」\n◎接し方のコツがわかる！　「2027年のあなた×全12タイプの相性」\n◎自分以外も超☆詳しく占える！「全120命数別 2027年はこんな年&開運アクション」\n◎いい運気をMAX活かす「運気のいい時期に心がけたい10か条」\n◎運気の落ち込みも怖くない！「裏の時期に心がけたい10か条」\n＼さらにさらに、今年はここが変わる！／\n【未来がまる見え】中身もデザインも、パワーアップして登場！ーー年と月の運気グラフが見やすくなった「ひと目でわかる！　2027年運気ナビ」、読み応えUPの「2027年の過ごし方で未来はこう変わる！」\n【リニューアル☆復活】編集部があなたのギモンに答えます！ーー「五星三心占いQ＆A」\n￣￣￣￣￣￣￣￣￣￣￣￣￣\nパッとひらいて　超☆開運！\n＿＿＿＿＿＿＿＿＿＿＿＿＿\n※1『ゲッターズ飯田の五星三心占い2026』発売5か月分の販売数より　朝日新聞出版調べ。\n※本書では1942年〜2027年生まれの方の「命数」を調べることができます。\n※電子版には紙の本にあるコンテンツの一部がつきません。\n",
+      "salesDate": "2026年09月11日",
+      "series": "ゲッターズ飯田の五星三心占い2027",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101909013",
+      "isbn": "4910000924301",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ゲッターズ飯田の五星三心占い2027 銀のインディアン座",
+        "author": "",
+        "isbn": "",
+        "score": 170,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 36,
+        "originalTitle": "ゲッターズ飯田の五星三心占い2027 銀のインディアン座"
+      },
+      "ranking": {
+        "title": "ゲッターズ飯田の五星三心占い2027 銀のインディアン座",
+        "author": "",
+        "isbn": "",
+        "score": 170,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 20
       }
     },
     {
@@ -1242,7 +1351,7 @@
           }
         ],
         "source": "combined",
-        "rank": 19
+        "rank": 21
       }
     },
     {
@@ -1289,54 +1398,7 @@
           }
         ],
         "source": "combined",
-        "rank": 20
-      }
-    },
-    {
-      "id": "4340008067611",
-      "title": "幽冥の岸　十二国記（新潮文庫）",
-      "author": "小野不由美",
-      "publisher": "新潮社",
-      "price": 825,
-      "url": "https://books.rakuten.co.jp/rk/7e370e5630af35e8a1d65d7b3e153066/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7863/2000021417863.jpg?_ex=600x600",
-      "caption": "「生きる」ーーその理（ことわり）を知るは唯一。琅燦（ろうさん）は、黄海に暮らす娘。戴国（たいこく）から訪れた男は、妖獣を狩ることを生業（なりわい）とする民の逞しさを知る。琅燦にとっては、男が語る国や政（まつりごと）が標（しるべ）となるーー運命の邂逅（であい）を描く「異邦の客」。神獣たる麒麟は血の穢れを受けてはならぬもの。義をもってのこととて、人を殺めた泰麒（たいき）に生きる道は赦されぬのかーー表題作「幽冥の岸」ほか、命と対峙し、生きる意味を問う４編。（解説・朝宮運河）\n",
-      "salesDate": "2026年12月11日",
-      "series": "十二国記",
-      "reviewAverage": 4.75,
-      "reviewCount": 71,
-      "genreId": "101901",
-      "isbn": "4340008067611",
-      "salesType": 1,
-      "matchMeta": {
-        "title": "幽冥の岸 十二国記",
-        "author": "小野不由美",
-        "score": 62,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 12
-          }
-        ],
-        "source": "combined",
-        "rank": 43,
-        "originalTitle": "幽冥の岸 十二国記 (新潮文庫 お 37-66)"
-      },
-      "ranking": {
-        "title": "幽冥の岸 十二国記 (新潮文庫 お 37-66)",
-        "author": "小野不由美",
-        "isbn": "",
-        "score": 168,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 12
-          }
-        ],
-        "source": "combined",
-        "rank": 21
+        "rank": 22
       }
     },
     {
@@ -1383,7 +1445,54 @@
           }
         ],
         "source": "combined",
-        "rank": 22
+        "rank": 23
+      }
+    },
+    {
+      "id": "4340008067611",
+      "title": "幽冥の岸　十二国記（新潮文庫）",
+      "author": "小野不由美",
+      "publisher": "新潮社",
+      "price": 825,
+      "url": "https://books.rakuten.co.jp/rk/7e370e5630af35e8a1d65d7b3e153066/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7863/2000021417863.jpg?_ex=600x600",
+      "caption": "「生きる」ーーその理（ことわり）を知るは唯一。琅燦（ろうさん）は、黄海に暮らす娘。戴国（たいこく）から訪れた男は、妖獣を狩ることを生業（なりわい）とする民の逞しさを知る。琅燦にとっては、男が語る国や政（まつりごと）が標（しるべ）となるーー運命の邂逅（であい）を描く「異邦の客」。神獣たる麒麟は血の穢れを受けてはならぬもの。義をもってのこととて、人を殺めた泰麒（たいき）に生きる道は赦されぬのかーー表題作「幽冥の岸」ほか、命と対峙し、生きる意味を問う４編。（解説・朝宮運河）\n",
+      "salesDate": "2026年12月11日",
+      "series": "十二国記",
+      "reviewAverage": 4.75,
+      "reviewCount": 71,
+      "genreId": "101901",
+      "isbn": "4340008067611",
+      "salesType": 1,
+      "matchMeta": {
+        "title": "幽冥の岸 十二国記",
+        "author": "小野不由美",
+        "score": 62,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 12
+          }
+        ],
+        "source": "combined",
+        "rank": 43,
+        "originalTitle": "幽冥の岸 十二国記 (新潮文庫 お 37-66)"
+      },
+      "ranking": {
+        "title": "幽冥の岸 十二国記 (新潮文庫 お 37-66)",
+        "author": "小野不由美",
+        "isbn": "",
+        "score": 168,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 12
+          }
+        ],
+        "source": "combined",
+        "rank": 24
       }
     },
     {
@@ -1415,8 +1524,7 @@
           }
         ],
         "source": "combined",
-        "rank": 42,
-        "originalTitle": "FOR OVERSEAS"
+        "rank": 42
       },
       "ranking": {
         "title": "FOR OVERSEAS",
@@ -1431,7 +1539,7 @@
           }
         ],
         "source": "combined",
-        "rank": 23
+        "rank": 25
       }
     },
     {
@@ -1478,7 +1586,7 @@
           }
         ],
         "source": "combined",
-        "rank": 24
+        "rank": 26
       }
     },
     {
@@ -1525,7 +1633,7 @@
           }
         ],
         "source": "combined",
-        "rank": 25
+        "rank": 27
       }
     },
     {
@@ -1572,54 +1680,7 @@
           }
         ],
         "source": "combined",
-        "rank": 26
-      }
-    },
-    {
-      "id": "4390000014247",
-      "title": "戦争犯罪と闘う　国際刑事裁判所は屈しない",
-      "author": "赤根智子",
-      "publisher": "文藝春秋",
-      "price": 1000,
-      "url": "https://books.rakuten.co.jp/rk/ed83c0d4161a37adb64937f2dc843815/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5761/2000017995761.jpg?_ex=600x600",
-      "caption": "二つの戦争、そして戦後国際秩序の行方は\nロシアによるウクライナ侵攻とイスラエルによるパレスチナへの非人道的な攻撃。目まぐるしく国際情勢が変化するなか、この二つの戦争に向き合い、プーチンとネタニヤフに逮捕状を出した国際刑事裁判所（ICC）。日本人として初めてそのトップに就任した著者は、ほどなくしてプーチンから逆指名手配を受けることにもなった。さらにはトランプ大統領の大統領令による経済制裁の脅威にさらされるなど、世界規模の戦争犯罪に向き合ってきた国際刑事裁判所はいま、存続の危機にある。\n第二次世界大戦後にホロコーストに向き合ったニュルンベルク裁判、日本の戦争責任を裁いた東京裁判。二つの軍事法廷裁判にルーツをもち、国際平和秩序を守ろうと奮闘してきた国際刑事裁判所とはいかなる機関か。二つの戦争という異例の事態にどう向き合ったのか。「世界の警察」アメリカが過去のものになりつつある戦後国際秩序の行方とはーー。\n「世界で起きていることが日本では起きないとは限らない」。「力による支配」がむき出しになりつつある今こそ「法の支配」による安全保障が必要だ。\n「ウクライナ戦争の勃発で完全に覚醒した」と語る赤根さんが、その奮闘を通じて未来への責任を語りかける。\n※本書電子書籍版は刊行後の国際情勢の変化を鑑み、２０２５年１０月に記述の一部を更新しました。\n",
-      "salesDate": "2025年06月20日",
-      "series": "",
-      "reviewAverage": 4.28,
-      "reviewCount": 48,
-      "genreId": "101907009/101907005003/101914",
-      "isbn": "4390000014247",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
-        "author": "",
-        "score": 38,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 18
-          }
-        ],
-        "source": "combined",
-        "rank": 53,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
-        "author": "",
-        "isbn": "",
-        "score": 162,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 18
-          }
-        ],
-        "source": "combined",
-        "rank": 27
+        "rank": 28
       }
     },
     {
@@ -1666,7 +1727,54 @@
           }
         ],
         "source": "combined",
-        "rank": 28
+        "rank": 29
+      }
+    },
+    {
+      "id": "4390000014247",
+      "title": "戦争犯罪と闘う　国際刑事裁判所は屈しない",
+      "author": "赤根智子",
+      "publisher": "文藝春秋",
+      "price": 1000,
+      "url": "https://books.rakuten.co.jp/rk/ed83c0d4161a37adb64937f2dc843815/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5761/2000017995761.jpg?_ex=600x600",
+      "caption": "二つの戦争、そして戦後国際秩序の行方は\nロシアによるウクライナ侵攻とイスラエルによるパレスチナへの非人道的な攻撃。目まぐるしく国際情勢が変化するなか、この二つの戦争に向き合い、プーチンとネタニヤフに逮捕状を出した国際刑事裁判所（ICC）。日本人として初めてそのトップに就任した著者は、ほどなくしてプーチンから逆指名手配を受けることにもなった。さらにはトランプ大統領の大統領令による経済制裁の脅威にさらされるなど、世界規模の戦争犯罪に向き合ってきた国際刑事裁判所はいま、存続の危機にある。\n第二次世界大戦後にホロコーストに向き合ったニュルンベルク裁判、日本の戦争責任を裁いた東京裁判。二つの軍事法廷裁判にルーツをもち、国際平和秩序を守ろうと奮闘してきた国際刑事裁判所とはいかなる機関か。二つの戦争という異例の事態にどう向き合ったのか。「世界の警察」アメリカが過去のものになりつつある戦後国際秩序の行方とはーー。\n「世界で起きていることが日本では起きないとは限らない」。「力による支配」がむき出しになりつつある今こそ「法の支配」による安全保障が必要だ。\n「ウクライナ戦争の勃発で完全に覚醒した」と語る赤根さんが、その奮闘を通じて未来への責任を語りかける。\n※本書電子書籍版は刊行後の国際情勢の変化を鑑み、２０２５年１０月に記述の一部を更新しました。\n",
+      "salesDate": "2025年06月20日",
+      "series": "",
+      "reviewAverage": 4.28,
+      "reviewCount": 48,
+      "genreId": "101907009/101907005003/101914",
+      "isbn": "4390000014247",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
+        "author": "",
+        "isbn": "",
+        "score": 162,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 18
+          }
+        ],
+        "source": "combined",
+        "rank": 54
+      },
+      "ranking": {
+        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
+        "author": "",
+        "isbn": "",
+        "score": 162,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 18
+          }
+        ],
+        "source": "combined",
+        "rank": 30
       }
     },
     {
@@ -1713,7 +1821,7 @@
           }
         ],
         "source": "combined",
-        "rank": 29
+        "rank": 31
       }
     },
     {
@@ -1760,7 +1868,7 @@
           }
         ],
         "source": "combined",
-        "rank": 30
+        "rank": 32
       }
     },
     {
@@ -1807,7 +1915,7 @@
           }
         ],
         "source": "combined",
-        "rank": 31
+        "rank": 33
       }
     },
     {
@@ -1854,7 +1962,7 @@
           }
         ],
         "source": "combined",
-        "rank": 32
+        "rank": 34
       }
     },
     {
@@ -1901,7 +2009,7 @@
           }
         ],
         "source": "combined",
-        "rank": 33
+        "rank": 35
       }
     },
     {
@@ -1948,7 +2056,7 @@
           }
         ],
         "source": "combined",
-        "rank": 34
+        "rank": 36
       }
     },
     {
@@ -1968,10 +2076,9 @@
       "isbn": "4910000884732",
       "salesType": 0,
       "matchMeta": {
-        "title": "手紙屋 蛍雪篇 ～私の受験勉強を変えた十通の手紙～ ジュニア版",
+        "title": "手紙屋 蛍雪篇 ~私の受験勉強を変えた十通の手紙~ ジュニア版",
         "author": "喜多川泰",
-        "isbn": "",
-        "score": 152,
+        "score": 5,
         "sources": [
           {
             "source": "amazon",
@@ -1980,7 +2087,8 @@
           }
         ],
         "source": "combined",
-        "rank": 70
+        "rank": 74,
+        "originalTitle": "手紙屋 蛍雪篇 ～私の受験勉強を変えた十通の手紙～ ジュニア版"
       },
       "ranking": {
         "title": "手紙屋 蛍雪篇 ～私の受験勉強を変えた十通の手紙～ ジュニア版",
@@ -1995,7 +2103,7 @@
           }
         ],
         "source": "combined",
-        "rank": 35
+        "rank": 37
       }
     },
     {
@@ -2017,7 +2125,8 @@
       "matchMeta": {
         "title": "継体天皇 - 六世紀に現れた世襲王権の「始祖王」 中公新書",
         "author": "",
-        "score": 5,
+        "isbn": "",
+        "score": 151,
         "sources": [
           {
             "source": "kinokuniya",
@@ -2026,8 +2135,7 @@
           }
         ],
         "source": "combined",
-        "rank": 71,
-        "originalTitle": ""
+        "rank": 73
       },
       "ranking": {
         "title": "継体天皇 - 六世紀に現れた世襲王権の「始祖王」 中公新書",
@@ -2042,7 +2150,7 @@
           }
         ],
         "source": "combined",
-        "rank": 36
+        "rank": 38
       }
     },
     {
@@ -2064,7 +2172,8 @@
       "matchMeta": {
         "title": "金色のガッシュ!! 2(7)",
         "author": "雷句 誠",
-        "score": 5,
+        "isbn": "",
+        "score": 150,
         "sources": [
           {
             "source": "amazon",
@@ -2073,8 +2182,7 @@
           }
         ],
         "source": "combined",
-        "rank": 76,
-        "originalTitle": ""
+        "rank": 74
       },
       "ranking": {
         "title": "金色のガッシュ!! 2(7)",
@@ -2089,7 +2197,7 @@
           }
         ],
         "source": "combined",
-        "rank": 37
+        "rank": 39
       }
     },
     {
@@ -2135,54 +2243,54 @@
           }
         ],
         "source": "combined",
-        "rank": 38,
+        "rank": 40,
         "originalTitle": ""
       }
     },
     {
-      "id": "4310000890409",
-      "title": "楽園",
-      "author": "夕木春央",
-      "publisher": "講談社",
-      "price": 1980,
-      "url": "https://books.rakuten.co.jp/rk/1a1c684dcee83b98b4d0187187c813d0/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1651/2000021221651.jpg?_ex=600x600",
-      "caption": "殺人犯にならなければ脱出できない。\n『方舟』『十戒』の著者が仕掛ける“禁忌の驚き”\n亡き両親から不動産を譲り受けた康之は、失踪した賃借人・海原の遺留品整理の際に、群馬の山奥の謎の物件の存在を知る。そこは、切り立った岩壁に囲まれた、「楽園」と呼ばれる奇妙な場所だった。恋人の沙織と一緒にそこを訪ね、探索をはじめた康之たちは、すぐに六人の“住人”に拿捕された。脱出のための条件はーー\n「誰か一人を殺さなければならない」\n『方舟』\n第19回オリコン上半期”本”ランキング　文庫ランキングTOP10 第1位\n週刊文春ミステリーベスト10　第1位　（「週刊文春」2022年12月8日号）国内部門\nMRC大賞2022　第1位\n『方舟』＋『十戒』の累計発行部数が100万部突破。\nーー夕木春央が描く、極限のクローズド・サークル。\n",
-      "salesDate": "2026年07月22日",
-      "series": "楽園",
-      "reviewAverage": 4.18,
-      "reviewCount": 458,
-      "genreId": "101902",
-      "isbn": "4310000890409",
+      "id": "9784059239659",
+      "title": "地球の歩き方 スター・ウォーズ",
+      "author": "",
+      "publisher": "地球の歩き方",
+      "price": 2750,
+      "url": "https://books.rakuten.co.jp/rk/40558a21970c38b8891b35aee564d356/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9941/2000020489941.jpg?_ex=600x600",
+      "caption": "銀河の果てまで旅するように、物語の舞台を歩く……。\n『スター・ウォーズ』の世界を「地球の歩き方」ならではの旅行ガイドスタイルでひもとく、スペシャルブックが登場！\nもしあなたが『スター・ウォーズ』の世界を訪れることになっても、本書があれば安心。劇場公開作品を中心に、ストーリーの流れや主要キャラクターの魅力を、心に残る名シーンとともにしっかりおさらいできます。さらに、モデルプランや旅のテクニックなど、ファン心をくすぐるコンテンツも充実。\n作品世界をより深く理解し、楽しむための情報を厳選して収録した、ファン必携の永久保存版です。\n※予告なく一部内容が変更される可能性もあります。予めご了承ください。\n※電子版では、紙のガイドブックと内容が一部異なります。掲載されない写真や図版、収録されないページがある場合があります。あらかじめご了承下さい。\n",
+      "salesDate": "2026年07月29日",
+      "series": "",
+      "reviewAverage": 4.25,
+      "reviewCount": 4,
+      "genreId": "101911",
+      "isbn": "9784059239659",
       "salesType": 0,
       "matchMeta": {
-        "title": "楽園",
-        "author": "夕木春央",
-        "score": 94,
+        "title": "地球の歩き方 スター・ウォーズ",
+        "author": "地球の歩き方編集室",
+        "score": 90,
         "sources": [
           {
             "source": "tohan",
             "label": "トーハン",
-            "rank": 4
+            "rank": 5
           }
         ],
         "source": "combined",
-        "rank": 14,
+        "rank": 18,
         "originalTitle": ""
       },
       "ranking": {
-        "title": "楽園",
-        "author": "夕木春央",
-        "score": 94,
+        "title": "地球の歩き方 スター・ウォーズ",
+        "author": "地球の歩き方編集室",
+        "score": 90,
         "sources": [
           {
             "source": "tohan",
             "label": "トーハン",
-            "rank": 4
+            "rank": 5
           }
         ],
         "source": "combined",
-        "rank": 39,
+        "rank": 41,
         "originalTitle": ""
       }
     },
@@ -2229,7 +2337,7 @@
           }
         ],
         "source": "combined",
-        "rank": 40,
+        "rank": 42,
         "originalTitle": ""
       }
     }
@@ -2242,8 +2350,8 @@
       "4910000909001",
       "4390000005636",
       "6681316771710",
-      "4340008067611",
       "4320000935695",
+      "4340008067611",
       "4910000884732",
       "4480000838415"
     ],
@@ -2251,8 +2359,7 @@
       "4390000005636",
       "4620000615075",
       "4620000615076",
-      "4320000935695",
-      "4310000890409"
+      "4320000935695"
     ],
     "sf": [],
     "business": [
@@ -2280,11 +2387,16 @@
     "life": [
       "4380000407898",
       "4910000924316",
-      "4910000924303"
+      "4910000924303",
+      "4910000924301"
     ],
     "health": [],
-    "hobby": [],
-    "travel": [],
+    "hobby": [
+      "8909131771218"
+    ],
+    "travel": [
+      "9784059239659"
+    ],
     "language": [
       "4310000701877",
       "6681311679960"
@@ -2314,7 +2426,7 @@
       "complete": true
     },
     "mystery": {
-      "matched": 5,
+      "matched": 4,
       "complete": true
     },
     "sf": {
@@ -2342,7 +2454,7 @@
       "complete": true
     },
     "life": {
-      "matched": 3,
+      "matched": 4,
       "complete": true
     },
     "health": {
@@ -2350,11 +2462,11 @@
       "complete": true
     },
     "hobby": {
-      "matched": 0,
+      "matched": 1,
       "complete": true
     },
     "travel": {
-      "matched": 0,
+      "matched": 1,
       "complete": true
     },
     "language": {

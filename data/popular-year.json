@@ -4,7 +4,7 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "year",
-  "updatedAt": "2026-10-04T13:05:22.771Z",
+  "updatedAt": "2026-10-04T22:10:12.526Z",
   "candidateCount": 13,
   "baseMatched": 7,
   "matched": 8,
@@ -430,8 +430,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12,
-        "originalTitle": "FOR OVERSEAS"
+        "rank": 12
       },
       "ranking": {
         "title": "FOR OVERSEAS",

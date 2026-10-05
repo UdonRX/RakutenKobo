@@ -4,7 +4,7 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-10-04T22:10:07.872Z",
+  "updatedAt": "2026-10-05T06:26:55.604Z",
   "candidateCount": 40,
   "baseMatched": 12,
   "matched": 17,
@@ -17,7 +17,7 @@
       "attribution": "紀伊國屋書店調べ",
       "sourceUrl": "https://www.kinokuniya.co.jp/disp/CKnRankingPageCList.jsp?dispNo=107002001001&vTp=m",
       "periodLabel": "マンスリー",
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-05",
       "live": true,
       "items": [
         {
@@ -45,10 +45,16 @@
           "rank": 26
         },
         {
-          "title": "ギャルにひかれて寺マルシェ",
+          "title": "帳の向こう",
           "author": "",
           "isbn": "",
           "rank": 28
+        },
+        {
+          "title": "春までのセンセイ",
+          "author": "",
+          "isbn": "",
+          "rank": 29
         }
       ]
     },
@@ -58,7 +64,7 @@
       "attribution": "トーハン調べ",
       "sourceUrl": "https://www.tohan.jp/bestsellers/2026_08_monthly/",
       "periodLabel": "月間",
-      "updatedAt": "2026-10-04",
+      "updatedAt": "2026-10-05",
       "live": true,
       "items": [
         {
@@ -319,7 +325,8 @@
           }
         ],
         "source": "combined",
-        "rank": 10
+        "rank": 10,
+        "originalTitle": "つかめ!理科ダマン 12 最強ロボット決戦!編"
       },
       "ranking": {
         "title": "つかめ!理科ダマン 12 最強ロボット決戦!編",
@@ -578,23 +585,23 @@
       }
     },
     {
-      "id": "4331000700320",
-      "title": "ギャルにひかれて寺マルシェ",
-      "author": "宮島　未奈",
-      "publisher": "KADOKAWA",
-      "price": 2035,
-      "url": "https://books.rakuten.co.jp/rk/892ef7e9e1143dc0868ac50df9bd106a/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9754/2000021549754.jpg?_ex=600x600",
-      "caption": "亡くなった父親の酒屋を継いだ30歳の英介は、商売への向上心もなく、なんとなく毎日を送っている。そこに現れたのは、久しぶりに地元に帰ってきた、腐れ縁の悪友・光司。光司に誘われ英介は、子どものころに近所の陵泉寺に埋めたという高価なポケモンカードを掘り起こすことに。偵察のため、陵泉寺で開かれている〈寺マルシェ〉を訪れると、ギャルメイクで法話を行う尼僧を見つける。それは実家の陵泉寺で副住職を務める、元同級生の真実子だった。かつての優等生の面影のない姿に呆気にとられる英介の傍ら、光司は真実子を〈ギャル僧〉として売り出して金儲けすることを思いつきーー！？読めばきっと元気がもらえる、大人になりきれない大人たちの青春譚！\n",
-      "salesDate": "2026年09月02日",
-      "series": "ギャルにひかれて寺マルシェ",
-      "reviewAverage": 3.66,
-      "reviewCount": 52,
-      "genreId": "101901",
-      "isbn": "4331000700320",
+      "id": "4390000016485",
+      "title": "帳の向こう",
+      "author": "國分功一郎/若林正恭",
+      "publisher": "文藝春秋",
+      "price": 1800,
+      "url": "https://books.rakuten.co.jp/rk/8757734913463c04b18adb23ecb05ddf/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3363/2000021713363.jpg?_ex=600x600",
+      "caption": "現代の生きづらさを語り合った４年間の記録\nオードリーの若林正恭さんがもっとも話したい相手は、哲学者の國分功一郎さんだった。\n「目的と手段」の社会は終わりつつある？\n資本主義の魔物に、どう立ち向かえばいい？\n現代で「快適」を求めるには、勇気が必要？\n二人が語り合った、現代への違和感のすべて。\n【目次】\nまえがき──どういうわけだか分からないが人間的な精神の仕組みに抗うことになってしまい……　　國分功一郎\n１　真犯人を捜して生きている\n２　目的もなく遊び続けろ\n３　ビッグモーター化する世界の中で\n４　やっとみんな疲れてきた\n５　ネオリベの帳を越えて\nあとがき　　若林正恭\n",
+      "salesDate": "2026年09月11日",
+      "series": "",
+      "reviewAverage": 4.6,
+      "reviewCount": 17,
+      "genreId": "101907015/101907007/101907002002",
+      "isbn": "4390000016485",
       "salesType": 0,
       "matchMeta": {
-        "title": "ギャルにひかれて寺マルシェ",
+        "title": "帳の向こう",
         "author": "",
         "score": 5,
         "sources": [
@@ -609,7 +616,7 @@
         "originalTitle": ""
       },
       "ranking": {
-        "title": "ギャルにひかれて寺マルシェ",
+        "title": "帳の向こう",
         "author": "",
         "isbn": "",
         "score": 152,
@@ -625,50 +632,50 @@
       }
     },
     {
-      "id": "4320000867368",
-      "title": "GOAT Summer 2026",
-      "author": "宮島未奈/尾崎世界観/山内マリコ/梨/麻布競馬場",
-      "publisher": "小学館",
-      "price": 506,
-      "url": "https://books.rakuten.co.jp/rk/f5b51183e72e30a7a80fcb62bd0705ba/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9590/2000020809590.jpg?_ex=600x600",
-      "caption": "大ヒット！話題沸騰の新文芸誌、第4号！\n〇特集「食」\n【小説】\n宮島未奈 尾崎世界観 山内マリコ 市川沙央 梨 麻布競馬場 山口未桜 前川知大 小田雅久仁 佐久間由衣 芦沢央 上條一輝 真下みこと 方丈貴恵 青柳碧人 中西智佐乃 三木三奈 村雲菜月\n【エッセイ】\n角田光代 酒徒 吉川トリコ\n【わたしの偏食 エッセイ】\n伊藤亜和 井上咲楽 けんた食堂 ジェーン・スー 絶対に終電を逃さない女 生湯葉シホ 福徳秀介 穂村弘 吉田恵里香 ヨシダナギ\n【食日記】\nでか美ちゃん\n【対談】\n山極壽一×平野紗季子\n藤原辰史×小林エリカ\n【自炊レッスン】\n山口祐加×ダ・ヴィンチ・恐山\n【私のGOAT本】\n宇多丸 宮部みゆき 山崎怜奈 米澤穂信\n【文学賞】\n第1回GO-mono長編文学賞 受賞作発表\n選考委員長:加藤シゲアキ\n【連載】\n藤ヶ谷太輔\n【ゴートアム短歌賞】\n俵万智×岸田繁\n【出せなかった手紙】\n荒井良二\n【ゴートくんがゆく！】\n印刷博物館編　インタビュー:京極夏彦館長\n【特集】『ファイア・ドーム』（辻村深月）\n他豪華企画多数！\n（底本　2026年6月発売作品）\n※底本綴じ込み付録の「ゴートくんのおべんとうしおり」は、電子書籍には含まれておりません。あらかじめご了承ください。\n※本電子書籍に掲載されている二次元バーコードは、端末の機種やアプリの仕様によっては読み取れない場合があります。その際はURLからアクセスしてください。\n※この作品はカラーが含まれます。\n",
-      "salesDate": "2026年06月10日",
-      "series": "GOAT",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101907015004/101907015001/101901002",
-      "isbn": "4320000867368",
+      "id": "6681316776900",
+      "title": "春までのセンセイ",
+      "author": "早見和真",
+      "publisher": "双葉社",
+      "price": 1980,
+      "url": "https://books.rakuten.co.jp/rk/bc5b179ed95d38cca46c4b528e6eda25/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4600/2000021754600.jpg?_ex=600x600",
+      "caption": "先生は私に命がけの言葉をくれたーー\nひとりの教師と32人の生徒が向き合う“最後”の１年\n『ザ・ロイヤルファミリー』『アルプス席の母』を経て辿り着いた著者の新たなる代表作、誕生！\n東京都杉並区にある私立稜花女学院中学校。新年度に発表された3年E組の担任は、加賀美秀彦という中年の国語教師だった。最初は冴えないと思っていたけれど、先生の言葉はなぜだか心に響いてくる。それなのに夏休み直前、先生は病気で学校を辞めるというウワサが流れて・・・・・・。\nこれはクラス全員がバトンをつなぐ、一生に残る一年間の物語。\n「今日、この時点の、僕の代表作です」\nーー早見和真\n",
+      "salesDate": "2026年09月16日",
+      "series": "春までのセンセイ",
+      "reviewAverage": 4.08,
+      "reviewCount": 14,
+      "genreId": "101901",
+      "isbn": "6681316776900",
       "salesType": 0,
       "matchMeta": {
-        "title": "GOAT Summer 2026",
+        "title": "春までのセンセイ",
         "author": "",
-        "score": 106,
+        "score": 5,
         "sources": [
           {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 1
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 30
           }
         ],
         "source": "combined",
-        "rank": 3,
+        "rank": 38,
         "originalTitle": ""
       },
       "ranking": {
-        "title": "GOAT Summer 2026",
+        "title": "春までのセンセイ",
         "author": "",
-        "score": 106,
+        "isbn": "",
+        "score": 151,
         "sources": [
           {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 1
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 29
           }
         ],
         "source": "combined",
-        "rank": 12,
-        "originalTitle": ""
+        "rank": 12
       }
     },
     {
@@ -813,53 +820,6 @@
       }
     },
     {
-      "id": "4390000015358",
-      "title": "青天",
-      "author": "若林正恭",
-      "publisher": "文藝春秋",
-      "price": 1900,
-      "url": "https://books.rakuten.co.jp/rk/a6fc1b8794af3eafb7f064fac9c68dfa/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0144/2000019330144.jpg?_ex=600x600",
-      "caption": "オードリー・若林正恭、初小説！\n人にぶつかっていないと、自分が生きているかどうかよくわからなくなるーー\n総大三高の「アリ」こと中村昴が所属するアメフト部は、万年２回戦どまり。相手校の練習を隠し撮りして迎えた高３の引退大会では、強豪・遼西学園に打ち破れた。引退後、みなが受験に向かうなか、勉強にも気持ちが入らず、不良になる覚悟もないまま宙ぶらりんの日々を過ごす。自分自身の不甲斐なさにもがき続けるなかで、アリは再びアメフトと向き合う決意を固める。\n青春の苦みと悦びに満ちた、著者渾身の初小説。\n",
-      "salesDate": "2026年02月20日",
-      "series": "",
-      "reviewAverage": 4.01,
-      "reviewCount": 604,
-      "genreId": "101901",
-      "isbn": "4390000015358",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "青天",
-        "author": "若林正恭",
-        "score": 78,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 15,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "青天",
-        "author": "若林正恭",
-        "score": 78,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 16,
-        "originalTitle": ""
-      }
-    },
-    {
       "id": "7225000866451",
       "title": "悩みの本──あなたが本気で生きている証",
       "author": "高橋佳子",
@@ -902,6 +862,53 @@
           }
         ],
         "source": "combined",
+        "rank": 16,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "4479234030000",
+      "title": "豊臣兄弟！　後編",
+      "author": "八津弘幸/ＮＨＫドラマ制作班",
+      "publisher": "NHK出版",
+      "price": 1540,
+      "url": "https://books.rakuten.co.jp/rk/03955594478a34569322faf481fd73c8/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0762/2000020710762.jpg?_ex=600x600",
+      "caption": "兄弟の絆で天下を狙え！　2026年大河ドラマ「豊臣兄弟！」完全ガイド第2弾！\n仲野太賀主演・2026年大河ドラマ「豊臣兄弟！」。\nドラマをもっと楽しむためのガイドブック「後編」が登場！\n時は戦国乱世。時の戦国大名・織田信長に仕官して大出世を目指す兄の誘いに巻き込まれた小一郎は、知恵と勇気、そして持ち前の「調整力」を生かしながら、目の前に立ちはだかるハードミッションを兄との絶妙なコンビネーションで次々とクリアしていく。やがて小一郎は兄とともに、万民が笑って暮らせる太平の世を作るという夢を抱き始めーー。\n弟・秀長の視点で戦国時代をダイナミックに描く、夢と希望の下克上サクセスストーリー！\n＊電子書籍版ではプレゼントページほか、一部収録していないコンテンツがございます。あらかじめご了承ください。\n全3冊でお届けするドラマ・ガイドの第２弾「後編」では、主演・仲野太賀×吉岡里帆の撮り下ろし対談をはじめ、豪華出演者インタビューや物語中盤までのあらすじを掲載。さらに、タイトルバック徹底分析やマンガで読む秀長の生涯、豊臣しつもん箱、作家・今村翔吾さんに聞く戦国の兄弟たち特集、「本能寺の変」のヒミツに迫る歴史解説企画など充実の内容。美麗グラビア満載でお届けする、家族みんなで読めるフルカラー・ドラマガイド！　\n",
+      "salesDate": "2026年05月29日",
+      "series": "ＮＨＫ大河ドラマ・ガイド",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101913002",
+      "isbn": "4479234030000",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "NHK大河ドラマ・ガイド 豊臣兄弟! 後編",
+        "author": "",
+        "score": 70,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 19,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "NHK大河ドラマ・ガイド 豊臣兄弟! 後編",
+        "author": "",
+        "score": 70,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
         "rank": 17,
         "originalTitle": ""
       }
@@ -911,12 +918,10 @@
     "fiction": [
       "4820000903843",
       "4660629612104",
-      "4331000700320",
-      "4320000867368",
+      "6681316776900",
       "4320000865495",
       "4320000865494",
-      "4310000858457",
-      "4390000015358"
+      "4310000858457"
     ],
     "mystery": [
       "4820000903843",
@@ -932,7 +937,7 @@
       "4380000407898",
       "4390000014247",
       "4310000701877",
-      "4320000867368",
+      "4390000016485",
       "7225000866451"
     ],
     "nonfiction": [
@@ -957,16 +962,14 @@
     "children": [
       "4335396900320"
     ],
-    "essay": [
-      "4320000867368"
-    ],
+    "essay": [],
     "comic": [
       "4972000161524"
     ]
   },
   "genreStatus": {
     "fiction": {
-      "matched": 8,
+      "matched": 6,
       "complete": true
     },
     "mystery": {
@@ -1022,7 +1025,7 @@
       "complete": true
     },
     "essay": {
-      "matched": 1,
+      "matched": 0,
       "complete": true
     },
     "comic": {

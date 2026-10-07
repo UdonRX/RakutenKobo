@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-10-07T14:13:56.838Z",
+  "updatedAt": "2026-10-07T23:36:10.600Z",
   "candidateCount": 76,
-  "baseMatched": 24,
+  "baseMatched": 26,
   "matched": 35,
-  "addedMatches": 11,
+  "addedMatches": 9,
   "unavailable": [
     "rakuten"
   ],
@@ -89,10 +89,10 @@
           "rank": 25
         },
         {
-          "title": "BRUTUS(ブルータス) 2026年10月15日号 No.1063[犬と、暮らせば。]",
-          "author": "BRUTUS編集部",
+          "title": "週刊ファミ通 2026年10月22日号 No.1966",
+          "author": "週刊ファミ通編集部",
           "isbn": "",
-          "rank": 26
+          "rank": 30
         }
       ]
     },
@@ -152,6 +152,12 @@
       "updatedAt": "2026-10-07",
       "live": true,
       "items": [
+        {
+          "title": "ソン・シギョンの本当に美味しい韓国グルメガイド - ＳＵＮＧ ＳＩ ＫＹＵＮＧ’ｓ Ｄｅｅｐ Ｋｏｒｅ 講談社ＭＯＯＫ",
+          "author": "",
+          "isbn": "",
+          "rank": 1
+        },
         {
           "title": "パンどろぼうとさすらいラーメン",
           "author": "",
@@ -242,10 +248,10 @@
           "rank": 3
         },
         {
-          "title": "ゲッターズ飯田の五星三心占い2027 銀のイルカ座",
+          "title": "自分とか、ないから。 教養としての東洋哲学",
           "author": "",
           "isbn": "",
-          "rank": 7
+          "rank": 5
         },
         {
           "title": "イン･ザ･メガチャーチ",
@@ -264,12 +270,6 @@
           "author": "",
           "isbn": "",
           "rank": 10
-        },
-        {
-          "title": "FOR OVERSEAS",
-          "author": "",
-          "isbn": "",
-          "rank": 12
         }
       ]
     }
@@ -418,8 +418,7 @@
           }
         ],
         "source": "combined",
-        "rank": 5,
-        "originalTitle": "イン・ザ・メガチャーチ"
+        "rank": 5
       },
       "ranking": {
         "title": "イン・ザ・メガチャーチ",
@@ -500,6 +499,53 @@
       }
     },
     {
+      "id": "4310000936589",
+      "title": "ソン・シギョンの本当に美味しい韓国グルメガイド　ＳＵＮＧ　ＳＩ　ＫＹＵＮＧ’ｓ　Ｄｅｅｐ　Ｋｏｒｅａ",
+      "author": "ソン・シギョン",
+      "publisher": "講談社",
+      "price": 2200,
+      "url": "https://books.rakuten.co.jp/rk/4374061cc5783b7593a3e194d7cabec4/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1514/2000021871514.jpg?_ex=600x600",
+      "caption": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。\n韓国の国民的人気歌手で、食通としても知られるソン・シギョン。\n自身のYouTubeチャンネルで人気を集めるグルメコンテンツ「モグルテンデ」が、待望の一冊に。\nソウルを中心に、ソン・シギョン自らが選んだ“本当においしい店”123店を厳選して紹介。\n韓国で撮り下ろした写真やロングインタビューも収録。\n観光客向けの定番店ではなく、「韓国で本当に美味しいものを食べたい」という人へ。\nソン・シギョンだからこそ案内できる、これまでにない韓国グルメガイドです。\n※この商品は紙の書籍のページを画像にした電子書籍です。文字だけを拡大することはできませんので、タブレットサイズの端末での閲読を推奨します。また、文字列のハイライトや検索、辞書の参照、引用などの機能も使用できません。\n",
+      "salesDate": "2026年10月01日",
+      "series": "ソン・シギョンの本当に美味しい韓国グルメガイド　ＳＵＮＧ　ＳＩ　ＫＹＵＮＧ’ｓ　Ｄｅｅｐ　Ｋｏｒｅａ",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101911",
+      "isbn": "4310000936589",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ソン・シギョンの本当に美味しい韓国グルメガイド - SUNG SI KYUNG’s Deep Kore 講談社MOOK",
+        "author": "",
+        "score": 106,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 1
+          }
+        ],
+        "source": "combined",
+        "rank": 5,
+        "originalTitle": "ソン・シギョンの本当に美味しい韓国グルメガイド - ＳＵＮＧ　ＳＩ　ＫＹＵＮＧ’ｓ　Ｄｅｅｐ　Ｋｏｒｅ 講談社ＭＯＯＫ"
+      },
+      "ranking": {
+        "title": "ソン・シギョンの本当に美味しい韓国グルメガイド - ＳＵＮＧ ＳＩ ＫＹＵＮＧ’ｓ Ｄｅｅｐ Ｋｏｒｅ 講談社ＭＯＯＫ",
+        "author": "",
+        "isbn": "",
+        "score": 179,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 1
+          }
+        ],
+        "source": "combined",
+        "rank": 5
+      }
+    },
+    {
       "id": "4310000928106",
       "title": "ＶＯＣＥ (ヴォーチェ)　２０２６年　１１月号",
       "author": "",
@@ -518,8 +564,7 @@
       "matchMeta": {
         "title": "VOCE (2026年12月号)",
         "author": "講談社",
-        "isbn": "",
-        "score": 179,
+        "score": 106,
         "sources": [
           {
             "source": "amazon",
@@ -528,7 +573,8 @@
           }
         ],
         "source": "combined",
-        "rank": 7
+        "rank": 6,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "VOCE (2026年12月号)",
@@ -543,7 +589,54 @@
           }
         ],
         "source": "combined",
-        "rank": 5
+        "rank": 6
+      }
+    },
+    {
+      "id": "4340008067051",
+      "title": "プレゼント（新潮文庫）",
+      "author": "伊坂幸太郎/江國香織/恩田陸/梨木香歩/町田そのこ/宮部みゆき/米澤穂信",
+      "publisher": "新潮社",
+      "price": 825,
+      "url": "https://books.rakuten.co.jp/rk/e8a60fd88eb63075a76e50e52cf98712/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8962/2000020598962.jpg?_ex=600x600",
+      "caption": "これはこれまで小説を愛してきてくれた人へ、そしてこれから小説の世界に一歩踏み出す人へ贈るプレゼント。何気なく読んだ物語が、ふと目にした一行が、意外な言葉ひとつが、人生を大きく変えるかもしれない。現代を代表する７人の作家が「夏」をテーマに書き下ろした、驚きと切なさ、怖さと美しさ、何よりとびきりの面白さを詰め込んだ奇跡の一冊。さぁ、あなたの人生に小説という選択肢を。\n",
+      "salesDate": "2026年06月24日",
+      "series": "",
+      "reviewAverage": 3.87,
+      "reviewCount": 398,
+      "genreId": "101901",
+      "isbn": "4340008067051",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "プレゼント",
+        "author": "伊坂幸太郎",
+        "score": 98,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 3
+          }
+        ],
+        "source": "combined",
+        "rank": 11,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "プレゼント",
+        "author": "伊坂幸太郎",
+        "isbn": "",
+        "score": 177,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 3
+          }
+        ],
+        "source": "combined",
+        "rank": 7
       }
     },
     {
@@ -590,54 +683,54 @@
           }
         ],
         "source": "combined",
-        "rank": 6
+        "rank": 8
       }
     },
     {
-      "id": "4916475490001",
-      "title": "プレゼント",
-      "author": "若竹七海",
-      "publisher": "中央公論新社",
-      "price": 776,
-      "url": "https://books.rakuten.co.jp/rk/9fe631efeb0f3eb0a09ce80197395709/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1444/2000007701444.jpg?_ex=600x600",
-      "caption": "ルーム・クリーナー、電話相談、興信所。トラブルメイカーのフリーター・葉村晶と、娘に借りたピンクの子供用自転車で現場に駆けつける小林警部補。二人が巻き込まれたハードボイルドで悲しい八つの事件とはーー。間抜けだが悪気のない隣人たちがひき起こす騒動はいつも危険すぎる！\n",
-      "salesDate": "2019年08月30日",
-      "series": "プレゼント",
-      "reviewAverage": 3.52,
-      "reviewCount": 92,
-      "genreId": "101901/101902",
-      "isbn": "4916475490001",
+      "id": "4380000408000",
+      "title": "未だ本能寺にあり",
+      "author": "今村翔吾",
+      "publisher": "幻冬舎",
+      "price": 2299,
+      "url": "https://books.rakuten.co.jp/rk/60f1dc9e00eb35a8a668b28e59a84d1f/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5047/2000021595047.jpg?_ex=600x600",
+      "caption": "魔王の首を探せ。\n織田信長はどこへ消えたのか？\n羽柴秀吉、信長を刺した明智兵、使用人の少女、阿弥陀寺の僧……。\n「あの日」を巡る8人の証言が集まる時、\n400年、誰も見たことのない“答え″が、導き出される。\n天正十年、本能寺の変が勃発。天下の主を失った日ノ本は混沌に陥った。そんな中、羽柴家家臣・駒井八右衛門は、秀吉からある密命を授かる。上様を探せーー。\n逆賊・明智光秀を討った秀吉は、今や織田の後継と目されていた。だが、信長の遺骸は見つからずにいる。もし他者が先んじて遺骸を探し出し弔えば、その座が奪われかねない。まして信長が生きているとなれば、秀吉が描き始めた天下への絵図も霧散することになる。\n一度見聞きした物事は忘れない異能を武器に、八右衛門は消えた天下人の行方を追う。織田方、明智方、そして影の目撃者……。関係者たちが語る「あの日」の真実とは？\n日本史上最大の謎に挑む、超大作歴史ミステリー。\n",
+      "salesDate": "2026年09月29日",
+      "series": "",
+      "reviewAverage": 5,
+      "reviewCount": 1,
+      "genreId": "101901001001",
+      "isbn": "4380000408000",
       "salesType": 0,
       "matchMeta": {
-        "title": "プレゼント",
-        "author": "伊坂幸太郎",
-        "score": 98,
+        "title": "未だ本能寺にあり",
+        "author": "",
+        "score": 94,
         "sources": [
           {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 3
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 4
           }
         ],
         "source": "combined",
-        "rank": 11,
+        "rank": 15,
         "originalTitle": ""
       },
       "ranking": {
-        "title": "プレゼント",
-        "author": "伊坂幸太郎",
+        "title": "未だ本能寺にあり",
+        "author": "",
         "isbn": "",
-        "score": 177,
+        "score": 176,
         "sources": [
           {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 3
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 4
           }
         ],
         "source": "combined",
-        "rank": 7
+        "rank": 9
       }
     },
     {
@@ -684,54 +777,7 @@
           }
         ],
         "source": "combined",
-        "rank": 8
-      }
-    },
-    {
-      "id": "4380000408000",
-      "title": "未だ本能寺にあり",
-      "author": "今村翔吾",
-      "publisher": "幻冬舎",
-      "price": 2299,
-      "url": "https://books.rakuten.co.jp/rk/60f1dc9e00eb35a8a668b28e59a84d1f/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5047/2000021595047.jpg?_ex=600x600",
-      "caption": "魔王の首を探せ。\n織田信長はどこへ消えたのか？\n羽柴秀吉、信長を刺した明智兵、使用人の少女、阿弥陀寺の僧……。\n「あの日」を巡る8人の証言が集まる時、\n400年、誰も見たことのない“答え″が、導き出される。\n天正十年、本能寺の変が勃発。天下の主を失った日ノ本は混沌に陥った。そんな中、羽柴家家臣・駒井八右衛門は、秀吉からある密命を授かる。上様を探せーー。\n逆賊・明智光秀を討った秀吉は、今や織田の後継と目されていた。だが、信長の遺骸は見つからずにいる。もし他者が先んじて遺骸を探し出し弔えば、その座が奪われかねない。まして信長が生きているとなれば、秀吉が描き始めた天下への絵図も霧散することになる。\n一度見聞きした物事は忘れない異能を武器に、八右衛門は消えた天下人の行方を追う。織田方、明智方、そして影の目撃者……。関係者たちが語る「あの日」の真実とは？\n日本史上最大の謎に挑む、超大作歴史ミステリー。\n",
-      "salesDate": "2026年09月29日",
-      "series": "",
-      "reviewAverage": 5,
-      "reviewCount": 1,
-      "genreId": "101901001001",
-      "isbn": "4380000408000",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "未だ本能寺にあり",
-        "author": "",
-        "isbn": "",
-        "score": 176,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 4
-          }
-        ],
-        "source": "combined",
-        "rank": 15
-      },
-      "ranking": {
-        "title": "未だ本能寺にあり",
-        "author": "",
-        "isbn": "",
-        "score": 176,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 4
-          }
-        ],
-        "source": "combined",
-        "rank": 9
+        "rank": 10
       }
     },
     {
@@ -778,7 +824,7 @@
           }
         ],
         "source": "combined",
-        "rank": 10
+        "rank": 11
       }
     },
     {
@@ -796,12 +842,11 @@
       "reviewCount": 0,
       "genreId": "101904002048",
       "isbn": "4310000937174",
-      "salesType": 1,
+      "salesType": 0,
       "matchMeta": {
         "title": "転生したらスライムだった件(33) (シリウスKC)",
         "author": "川上 泰樹",
-        "isbn": "",
-        "score": 175,
+        "score": 90,
         "sources": [
           {
             "source": "amazon",
@@ -810,7 +855,8 @@
           }
         ],
         "source": "combined",
-        "rank": 16
+        "rank": 20,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "転生したらスライムだった件(33) (シリウスKC)",
@@ -825,7 +871,55 @@
           }
         ],
         "source": "combined",
-        "rank": 11
+        "rank": 12
+      }
+    },
+    {
+      "id": "8910126773560",
+      "title": "自分とか、ないから。　教養としての東洋哲学",
+      "author": "しんめいP",
+      "publisher": "サンクチュアリ出版",
+      "price": 1650,
+      "url": "https://books.rakuten.co.jp/rk/3e7a28858e2234d6887364847e57ec0c/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2213/2000015032213.jpg?_ex=600x600",
+      "caption": "ぶっ飛んでいるのに、なぜか論理的。\n生きづらさがマシになる（かもしれない）\nそれが、東洋哲学。\n「自分が本当にやりたいことってなんだろう？」\n「そもそも、本当の自分ってなんだろう？」\nそんな全・自分迷子に贈る、衝撃の哲学本がここに誕生。\nすべての答えは、「東洋哲学」にあった！！\nnoteで話題になった\n『東洋哲学本50冊よんだら「本当の自分」とかどうでもよくなった話』待望の書籍化！\n本書の著者・しんめいPさんは、東大卒のニート。\n新卒で大手IT企業→地方で教育事業→フリーランス→お笑い芸人\nと、自分探しをし続けた結果、虚無感から「無職」に。\n５年間、布団に引きこもっていたが\n「東洋哲学」に出会い、衝撃を受ける。\nーーーーーーーーーーーー\n（以下、本文より）\n東洋哲学にふれていると、\n「ふとんに入ってるくらい、何の問題もない」と思えてくるのだ。\n人生は、ムズくない。本当はシンプル。\n難しくしているのは自分なのだ。\nそんなことを教えてくれる。\nそして、ふとんに入ったまま、この本を書くことになったのだ。\n東洋哲学は、とにかく楽になるための哲学だ。\n無職だろうが、離婚してようが、ふとんにいようが、\nめちゃくちゃ楽になれる、ヤバい哲学である。\nこの本では、そんな東洋哲学の哲学者７人を紹介しながら、\n彼らの哲学を知って、実際にぼくがどう楽になったかを語っていく。\nーーーーーーーーーーーー\n〜コンテンツ例〜\nブッダ「自分なんてない」\n龍樹「全部、空」\n老子「ありのままが最強」\n荘子「この世は夢」\n達磨「言葉はいらねえ」\n親鸞「他力本願でOK」\n空海「欲あってよし」\n哲学の本なのに、\nなぜかクスリと笑えて、不思議と心が楽になる。\n「自分探し」まさかの答えを、体感せよ。\n",
+      "salesDate": "2024年04月23日",
+      "series": "",
+      "reviewAverage": 4.01,
+      "reviewCount": 727,
+      "genreId": "101908008002/101905010",
+      "isbn": "8910126773560",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "自分とか、ないから。 教養としての東洋哲学",
+        "author": "",
+        "isbn": "",
+        "score": 175,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
+        "rank": 19,
+        "originalTitle": "自分とか、ないから。 教養としての東洋哲学"
+      },
+      "ranking": {
+        "title": "自分とか、ないから。 教養としての東洋哲学",
+        "author": "",
+        "isbn": "",
+        "score": 175,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
+        "rank": 13
       }
     },
     {
@@ -872,7 +966,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12
+        "rank": 14
       }
     },
     {
@@ -890,7 +984,7 @@
       "reviewCount": 0,
       "genreId": "101904",
       "isbn": "4310000937173",
-      "salesType": 1,
+      "salesType": 0,
       "matchMeta": {
         "title": "アルスラーン戦記(25) (少年マガジンKC)",
         "author": "荒川 弘",
@@ -916,101 +1010,6 @@
             "source": "amazon",
             "label": "Amazon",
             "rank": 7
-          }
-        ],
-        "source": "combined",
-        "rank": 13
-      }
-    },
-    {
-      "id": "4910000924316",
-      "title": "ゲッターズ飯田の五星三心占い2027　銀のイルカ座",
-      "author": "ゲッターズ飯田",
-      "publisher": "朝日新聞出版",
-      "price": 1430,
-      "url": "https://books.rakuten.co.jp/rk/165e830652ae3214baea62bba5dca71c/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6317/2000021696317.jpg?_ex=600x600",
-      "caption": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。\n『ゲッターズ飯田の五星三心占い2027』\n＼＼全12タイプ☆大好評発売中！／／\n2027年、あなたはどんな1年に?\n恋も、仕事も、お金も、健康も。ーー365日の「開運」のヒントを、この1冊に詰め込みました。\n8万人以上を無償で占い、25年以上「開運」を極め続けた、\n「芸能界最強の占い師」ゲッターズ飯田。\n最新2027年版の「開運の手引き」が、ついに発売決定！\n＞＞開運するには「理由」があります。\n☆ まいにち10秒、365日読める運気＆開運アドバイス\n☆ どの本よりも「細かく」「詳しく」占える、圧倒的な情報量\n☆ 家族、恋人、友達、同僚、推し……じつは全員占えます\n＞＞さらに、これだけの人に選ばれ続けています。\n☆ 今年で、10年連続＼毎年／100万部！！\n☆ なんとなんと、シリーズ累計1500万部突破！！\n☆ そして、12秒に1冊売れてる！！（※1）\n＞＞ 開運の声が「とんでもない量」届いています！\n☆「人生の教科書！　というより参考書！！　一年通して毎日使えます！　スゴイ！」（50代／女性）\n☆「こんな一面が自分自身にあるのだと気付かされました。」（30代／女性）\n☆「不安な時や背中を押してもらいたい時に読んでます。」（20代／女性）\n☆「すごくわかりやすくて買って本当によかった。もっと早くから買ってみればよかったです。」（40代／男性）\n☆「開運のつぶやきが心に響きます。その言葉1つ1つがありがたいです。」（40代／女性）\n（2026年版の感想から一部を抜粋）\nなぜ、こんなに支持されているの……？？\nその秘密は、ぎっしり詰まった“中身”にあります。\n☆★『ゲッターズ飯田の五星三心占い2027』コンテンツ★☆\n＼今年もコレで開運チャージ！／\n◎2026年9月〜2027年12月の総合運／恋愛運／結婚運／仕事運／金運＆買い物運／美容＆健康運／家庭＆親子運\n◎2026年9月〜2027年12月まで毎月、毎日のアドバイスがぎっしり！「運気カレンダー」\n◎接し方のコツがわかる！　「2027年のあなた×全12タイプの相性」\n◎自分以外も超☆詳しく占える！「全120命数別 2027年はこんな年&開運アクション」\n◎いい運気をMAX活かす「運気のいい時期に心がけたい10か条」\n◎運気の落ち込みも怖くない！「裏の時期に心がけたい10か条」\n＼さらにさらに、今年はここが変わる！／\n【未来がまる見え】中身もデザインも、パワーアップして登場！ーー年と月の運気グラフが見やすくなった「ひと目でわかる！　2027年運気ナビ」、読み応えUPの「2027年の過ごし方で未来はこう変わる！」\n【リニューアル☆復活】編集部があなたのギモンに答えます！ーー「五星三心占いQ＆A」\n￣￣￣￣￣￣￣￣￣￣￣￣￣\nパッとひらいて　超☆開運！\n＿＿＿＿＿＿＿＿＿＿＿＿＿\n※1『ゲッターズ飯田の五星三心占い2026』発売5か月分の販売数より　朝日新聞出版調べ。\n※本書では1942年〜2027年生まれの方の「命数」を調べることができます。\n※電子版には紙の本にあるコンテンツの一部がつきません。\n",
-      "salesDate": "2026年09月11日",
-      "series": "ゲッターズ飯田の五星三心占い2027",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101909013",
-      "isbn": "4910000924316",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ゲッターズ飯田の五星三心占い2027 銀のイルカ座",
-        "author": "",
-        "isbn": "",
-        "score": 173,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 7
-          }
-        ],
-        "source": "combined",
-        "rank": 27,
-        "originalTitle": "ゲッターズ飯田の五星三心占い2027 銀のイルカ座"
-      },
-      "ranking": {
-        "title": "ゲッターズ飯田の五星三心占い2027 銀のイルカ座",
-        "author": "",
-        "isbn": "",
-        "score": 173,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 7
-          }
-        ],
-        "source": "combined",
-        "rank": 14
-      }
-    },
-    {
-      "id": "4410000009695",
-      "title": "ADHDの母が伝えたい 生きづらい女の子が覚えておきたいこと",
-      "author": "なちゅ。/本田秀夫",
-      "publisher": "ダイヤモンド社",
-      "price": 1870,
-      "url": "https://books.rakuten.co.jp/rk/7de1b4d57d4f3d02952260cc0bac76e9/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1701/2000021711701.jpg?_ex=600x600",
-      "caption": "ＡＤＨＤの母が教える「女の子」の生き方の戦略書。女子の人間関係、料理下手、毒親育ち、メンタルの浮き沈み、汚部屋、子育ての限界…私がしんどかったことの対策は、全部ここに書いておきました。当事者だから書けた「恥ずかしくて誰にも聞けない」内容を網羅した一冊。\n",
-      "salesDate": "2026年09月09日",
-      "series": "",
-      "reviewAverage": 5,
-      "reviewCount": 1,
-      "genreId": "101909009",
-      "isbn": "4410000009695",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ADHDの母が伝えたい 生きづらい女の子が覚えておきたいこと",
-        "author": "なちゅ。",
-        "score": 74,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 36,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "ADHDの母が伝えたい 生きづらい女の子が覚えておきたいこと",
-        "author": "なちゅ。",
-        "isbn": "",
-        "score": 171,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 9
           }
         ],
         "source": "combined",
@@ -1065,6 +1064,53 @@
       }
     },
     {
+      "id": "4410000009695",
+      "title": "ADHDの母が伝えたい 生きづらい女の子が覚えておきたいこと",
+      "author": "なちゅ。/本田秀夫",
+      "publisher": "ダイヤモンド社",
+      "price": 1870,
+      "url": "https://books.rakuten.co.jp/rk/7de1b4d57d4f3d02952260cc0bac76e9/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1701/2000021711701.jpg?_ex=600x600",
+      "caption": "ＡＤＨＤの母が教える「女の子」の生き方の戦略書。女子の人間関係、料理下手、毒親育ち、メンタルの浮き沈み、汚部屋、子育ての限界…私がしんどかったことの対策は、全部ここに書いておきました。当事者だから書けた「恥ずかしくて誰にも聞けない」内容を網羅した一冊。\n",
+      "salesDate": "2026年09月09日",
+      "series": "",
+      "reviewAverage": 5,
+      "reviewCount": 1,
+      "genreId": "101909009",
+      "isbn": "4410000009695",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ADHDの母が伝えたい 生きづらい女の子が覚えておきたいこと",
+        "author": "なちゅ。",
+        "score": 74,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 36,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "ADHDの母が伝えたい 生きづらい女の子が覚えておきたいこと",
+        "author": "なちゅ。",
+        "isbn": "",
+        "score": 171,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 17
+      }
+    },
+    {
       "id": "4910000924303",
       "title": "ゲッターズ飯田の五星三心占い2027　銀の羅針盤座",
       "author": "ゲッターズ飯田",
@@ -1109,7 +1155,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17
+        "rank": 18
       }
     },
     {
@@ -1156,7 +1202,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18
+        "rank": 19
       }
     },
     {
@@ -1188,7 +1234,8 @@
           }
         ],
         "source": "combined",
-        "rank": 38
+        "rank": 38,
+        "originalTitle": "ゲッターズ飯田の五星三心占い2027 銀のインディアン座"
       },
       "ranking": {
         "title": "ゲッターズ飯田の五星三心占い2027 銀のインディアン座",
@@ -1200,53 +1247,6 @@
             "source": "tohan",
             "label": "トーハン",
             "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 19
-      }
-    },
-    {
-      "id": "9781505942323",
-      "title": "How to Start a Crown Agents for Overseas Governments and Administrations Business (Beginners Guide)",
-      "author": "Leclair Jaquelyn",
-      "publisher": "SamEnrico",
-      "price": 2515,
-      "url": "https://books.rakuten.co.jp/rk/da3f192a66453cb193c43421103700ab/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5952/2000020915952.jpg?_ex=600x600",
-      "caption": "This publication, published by SamEnrico, covers How to Start a Crown Agents for Overseas Governments and Administrations Business (Beginners Guide)\n",
-      "salesDate": "2015年12月20日",
-      "series": "",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101970003007",
-      "isbn": "9781505942323",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "FOR OVERSEAS",
-        "author": "",
-        "isbn": "",
-        "score": 168,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 12
-          }
-        ],
-        "source": "combined",
-        "rank": 43
-      },
-      "ranking": {
-        "title": "FOR OVERSEAS",
-        "author": "",
-        "isbn": "",
-        "score": 168,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 12
           }
         ],
         "source": "combined",
@@ -1413,8 +1413,7 @@
       "matchMeta": {
         "title": "きずもの",
         "author": "",
-        "isbn": "",
-        "score": 163,
+        "score": 42,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1423,7 +1422,8 @@
           }
         ],
         "source": "combined",
-        "rank": 53
+        "rank": 52,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "きずもの",
@@ -1507,7 +1507,8 @@
       "matchMeta": {
         "title": "オルロージュ",
         "author": "",
-        "score": 22,
+        "isbn": "",
+        "score": 158,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1517,7 +1518,7 @@
         ],
         "source": "combined",
         "rank": 61,
-        "originalTitle": ""
+        "originalTitle": "オルロージュ"
       },
       "ranking": {
         "title": "オルロージュ",
@@ -1583,23 +1584,23 @@
       }
     },
     {
-      "id": "4310000683989",
-      "title": "汝、星のごとく【電子限定特典付き】",
-      "author": "凪良ゆう",
+      "id": "4310000779045",
+      "title": "汝、星のごとく（３）",
+      "author": "凪良ゆう/古里こう",
       "publisher": "講談社",
-      "price": 990,
-      "url": "https://books.rakuten.co.jp/rk/c078773e2356341c99cfa0309dc414dd/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1001/2000018151001.jpg?_ex=600x600",
-      "caption": "第20回本屋大賞受賞作！\nシリーズ累計100万部突破！\nあなたと生きる、その痛みごと。\n著者2度目の本屋大賞を受賞した『汝、星のごとく』が3年の時を経てついに文庫化！同じ空の下であの星を見上げよう。そして、また出会おう。あまりに切ない運命を、繊細な心理描写で描いた著者最高傑作。\n風光明媚な瀬戸内の島で育った暁海(あきみ)と母の恋愛に振り回され転校してきた櫂(かい)。ともに心に孤独と欠落を抱えた二人が恋に落ちるのに時間はかからなかった。ときにすれ違い、ぶつかり、成長していく。生きることの自由さと不自由さを描き続けた著者がおくる、あまりに切ない愛の物語【2023年本屋大賞受賞作】\n☆2023年本屋大賞受賞作☆\n【第168回直木賞候補作】\n【第44回吉川英治文学新人賞候補作】\n【2022王様のブランチBOOK大賞】\n【キノベス!2023 第1位】\n【第10回高校生直木賞候補作】\n【ダ・ヴィンチ BOOK OF THE YEAR 2022 第３位】\n【今月の絶対はずさない！ プラチナ本 選出（「ダ・ヴィンチ」12月号）】\n【第２回 本屋が選ぶ大人の恋愛小説大賞 ノミネート】\n【未来屋小説大賞 第２位】\n【ミヤボン2022 大賞受賞】\n【Apple Books 2022年 今年のベストブック（フィクション部門）】\nなどなど、賞＆ノミネート＆ランクイン多数！\n※電子版には特典として、続編『星を編む』の試し読み増量版と著者作品リストを収録しています。\n",
-      "salesDate": "2025年07月15日",
+      "price": 792,
+      "url": "https://books.rakuten.co.jp/rk/53b069e006973118af2e818a16801db0/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2574/2000019452574.jpg?_ex=600x600",
+      "caption": "「わたしは愛する男のために人生を誤りたい」\n毎月、借金の返済として暁海が櫂に送る四万円。\nふたりをつなぐものがそれだけになっても、\n互いを想う気持ちは消えないまま…。\nそれぞれを取り巻く環境に縛られ、\n自らの人生を生きる難しさに打ちのめされそうになる中、\n暁海は北原先生から「ぼくと結婚しませんか」と提案されてーー。\n「まともな人間なんてものは幻想だ」\n生きることの自由さと不自由さを描き続けてきた\n凪良ゆう最高傑作、待望のコミカライズ最終巻。\n",
+      "salesDate": "2026年01月13日",
       "series": "汝、星のごとく",
-      "reviewAverage": 4.39,
-      "reviewCount": 1579,
-      "genreId": "101901",
-      "isbn": "4310000683989",
+      "reviewAverage": 5,
+      "reviewCount": 4,
+      "genreId": "101904011005",
+      "isbn": "4310000779045",
       "salesType": 0,
       "matchMeta": {
-        "title": "汝、星のごとく",
+        "title": "汝、星のごとく (講談社文庫 な 101-1)",
         "author": "凪良 ゆう",
         "isbn": "",
         "score": 156,
@@ -1611,8 +1612,7 @@
           }
         ],
         "source": "combined",
-        "rank": 64,
-        "originalTitle": "汝、星のごとく (講談社文庫 な 101-1)"
+        "rank": 64
       },
       "ranking": {
         "title": "汝、星のごとく (講談社文庫 な 101-1)",
@@ -1628,53 +1628,6 @@
         ],
         "source": "combined",
         "rank": 28
-      }
-    },
-    {
-      "id": "4390000014247",
-      "title": "戦争犯罪と闘う　国際刑事裁判所は屈しない",
-      "author": "赤根智子",
-      "publisher": "文藝春秋",
-      "price": 1000,
-      "url": "https://books.rakuten.co.jp/rk/ed83c0d4161a37adb64937f2dc843815/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5761/2000017995761.jpg?_ex=600x600",
-      "caption": "二つの戦争、そして戦後国際秩序の行方は\nロシアによるウクライナ侵攻とイスラエルによるパレスチナへの非人道的な攻撃。目まぐるしく国際情勢が変化するなか、この二つの戦争に向き合い、プーチンとネタニヤフに逮捕状を出した国際刑事裁判所（ICC）。日本人として初めてそのトップに就任した著者は、ほどなくしてプーチンから逆指名手配を受けることにもなった。さらにはトランプ大統領の大統領令による経済制裁の脅威にさらされるなど、世界規模の戦争犯罪に向き合ってきた国際刑事裁判所はいま、存続の危機にある。\n第二次世界大戦後にホロコーストに向き合ったニュルンベルク裁判、日本の戦争責任を裁いた東京裁判。二つの軍事法廷裁判にルーツをもち、国際平和秩序を守ろうと奮闘してきた国際刑事裁判所とはいかなる機関か。二つの戦争という異例の事態にどう向き合ったのか。「世界の警察」アメリカが過去のものになりつつある戦後国際秩序の行方とはーー。\n「世界で起きていることが日本では起きないとは限らない」。「力による支配」がむき出しになりつつある今こそ「法の支配」による安全保障が必要だ。\n「ウクライナ戦争の勃発で完全に覚醒した」と語る赤根さんが、その奮闘を通じて未来への責任を語りかける。\n※本書電子書籍版は刊行後の国際情勢の変化を鑑み、２０２５年１０月に記述の一部を更新しました。\n",
-      "salesDate": "2025年06月20日",
-      "series": "",
-      "reviewAverage": 4.28,
-      "reviewCount": 48,
-      "genreId": "101907009/101907005003/101914",
-      "isbn": "4390000014247",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
-        "author": "",
-        "score": 10,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 25
-          }
-        ],
-        "source": "combined",
-        "rank": 66,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
-        "author": "",
-        "isbn": "",
-        "score": 155,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 25
-          }
-        ],
-        "source": "combined",
-        "rank": 29
       }
     },
     {
@@ -1721,54 +1674,54 @@
           }
         ],
         "source": "combined",
-        "rank": 30
+        "rank": 29
       }
     },
     {
-      "id": "6681317556160",
-      "title": "BRUTUS (ブルータス) 2026年 10月15日号 No.1063 [犬と、暮らせば。]",
-      "author": "BRUTUS編集部",
-      "publisher": "マガジンハウス",
-      "price": 1100,
-      "url": "https://books.rakuten.co.jp/rk/ea4443cd315439abbcc8561b41d17e62/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4273/2000021924273.jpg?_ex=600x600",
-      "caption": "※電子版では、紙の雑誌と内容が一部異なる場合や、掲載されないページや特別付録が含まれない場合がございます。\n※本雑誌はカラーページを含みます。お使いの端末によっては、一部読みづらい場合がございます。\n犬と暮らすのは、けっこう大変だ。\n毎日の散歩にしつけ、食事や健康のこと。時間も手間もかかる。\nそれでも犬を迎えると、不思議なくらい暮らしは変わっていく。\n家族の会話が増え、散歩に出れば知らなかった街の景色や人に出会う。\n犬と行ける店も、泊まれる宿も、遊べる場所もずいぶん増えた。\n犬のために始めたことが、いつの間に か自分たちの楽しみになっている。\n犬と暮らすとは、ただ生活に犬が加わることではない。\n犬がいることで、私たちの暮らしそのものが少しずつ形を変えていくことなのだ。\n犬との関係から、今の暮らしを考えてみよう。\n",
-      "salesDate": "2026年10月01日",
-      "series": "BRUTUS",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101950013",
-      "isbn": "6681317556160",
+      "id": "4390000014247",
+      "title": "戦争犯罪と闘う　国際刑事裁判所は屈しない",
+      "author": "赤根智子",
+      "publisher": "文藝春秋",
+      "price": 1000,
+      "url": "https://books.rakuten.co.jp/rk/ed83c0d4161a37adb64937f2dc843815/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5761/2000017995761.jpg?_ex=600x600",
+      "caption": "二つの戦争、そして戦後国際秩序の行方は\nロシアによるウクライナ侵攻とイスラエルによるパレスチナへの非人道的な攻撃。目まぐるしく国際情勢が変化するなか、この二つの戦争に向き合い、プーチンとネタニヤフに逮捕状を出した国際刑事裁判所（ICC）。日本人として初めてそのトップに就任した著者は、ほどなくしてプーチンから逆指名手配を受けることにもなった。さらにはトランプ大統領の大統領令による経済制裁の脅威にさらされるなど、世界規模の戦争犯罪に向き合ってきた国際刑事裁判所はいま、存続の危機にある。\n第二次世界大戦後にホロコーストに向き合ったニュルンベルク裁判、日本の戦争責任を裁いた東京裁判。二つの軍事法廷裁判にルーツをもち、国際平和秩序を守ろうと奮闘してきた国際刑事裁判所とはいかなる機関か。二つの戦争という異例の事態にどう向き合ったのか。「世界の警察」アメリカが過去のものになりつつある戦後国際秩序の行方とはーー。\n「世界で起きていることが日本では起きないとは限らない」。「力による支配」がむき出しになりつつある今こそ「法の支配」による安全保障が必要だ。\n「ウクライナ戦争の勃発で完全に覚醒した」と語る赤根さんが、その奮闘を通じて未来への責任を語りかける。\n※本書電子書籍版は刊行後の国際情勢の変化を鑑み、２０２５年１０月に記述の一部を更新しました。\n",
+      "salesDate": "2025年06月20日",
+      "series": "",
+      "reviewAverage": 4.28,
+      "reviewCount": 48,
+      "genreId": "101907009/101907005003/101914",
+      "isbn": "4390000014247",
       "salesType": 0,
       "matchMeta": {
-        "title": "BRUTUS(ブルータス) 2026年10月15日号 No.1063[犬と、暮らせば。]",
-        "author": "BRUTUS編集部",
-        "score": 6,
+        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
+        "author": "",
+        "isbn": "",
+        "score": 155,
         "sources": [
           {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 26
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 25
           }
         ],
         "source": "combined",
-        "rank": 69,
-        "originalTitle": ""
+        "rank": 67
       },
       "ranking": {
-        "title": "BRUTUS(ブルータス) 2026年10月15日号 No.1063[犬と、暮らせば。]",
-        "author": "BRUTUS編集部",
+        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
+        "author": "",
         "isbn": "",
-        "score": 154,
+        "score": 155,
         "sources": [
           {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 26
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 25
           }
         ],
         "source": "combined",
-        "rank": 31
+        "rank": 30
       }
     },
     {
@@ -1812,6 +1765,53 @@
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
             "rank": 28
+          }
+        ],
+        "source": "combined",
+        "rank": 31
+      }
+    },
+    {
+      "id": "4334721800320",
+      "title": "週刊ファミ通 2026年10月22日号 No.1966",
+      "author": "週刊ファミ通編集部",
+      "publisher": "KADOKAWA Game Linkage",
+      "price": 760,
+      "url": "https://books.rakuten.co.jp/rk/deb9671dc2d4302b85eb7ab437fc37b9/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9653/2000022019653.jpg?_ex=600x600",
+      "caption": "●おもな収録記事：【特集】『トリッカル・もちもちほっぺ大作戦』1周年記念特集を掲載／【発売記念特集】『ドラゴンズドグマ 2：ダークアリズン』極北の地、ノルガンを舞台に新たな冒険が始まる。一筋縄ではいかない魔物との戦闘や本作ならではのハクスラへのこだわり、さらにストーリーに大きく絡むドラゴンなど、気になる情報を開発者インタビューとともにお送りします／【注目情報】現代を牽引するバンド“Mrs. GREEN APPLE”の大森元貴氏と『ダンガンロンパ』シリーズの小高和剛氏による、夢の対談が実現。好きな作品に対する率直な感想を皮切りに、ものづくりへの向き合いかたや作品を生み出す原動力、さらには「ふたりがいっしょにゲームを作るなら……」という話まで、濃密な内容をお届け。※一部の記事・企画・応募券は、電子版で未収録・未対応の場合があります。本誌\"試し読み\"で収録記事等を必ずご確認のうえ、ご購入をお願いします。※紙の雑誌についている付録がついていない場合があります。\n",
+      "salesDate": "2026年10月08日",
+      "series": "週刊ファミ通",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101950010",
+      "isbn": "4334721800320",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "週刊ファミ通 2026年10月22日号 No.1966",
+        "author": "週刊ファミ通編集部",
+        "isbn": "",
+        "score": 150,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 30
+          }
+        ],
+        "source": "combined",
+        "rank": 76
+      },
+      "ranking": {
+        "title": "週刊ファミ通 2026年10月22日号 No.1966",
+        "author": "週刊ファミ通編集部",
+        "isbn": "",
+        "score": 150,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 30
           }
         ],
         "source": "combined",
@@ -1963,19 +1963,17 @@
   "byGenre": {
     "fiction": [
       "4660629612104",
+      "4340008067051",
       "4320000935695",
-      "4916475490001",
       "4380000408000",
       "4910000909001",
       "4390000005636",
       "4320000935691",
       "4310000936567",
-      "4310000683989",
       "4480000838415"
     ],
     "mystery": [
       "4320000935695",
-      "4916475490001",
       "4390000005636",
       "4620000615075",
       "4620000615076",
@@ -1983,7 +1981,8 @@
     ],
     "sf": [],
     "business": [
-      "4310000701877"
+      "4310000701877",
+      "8910126773560"
     ],
     "humanities": [
       "4380000407898",
@@ -1996,12 +1995,12 @@
       "4390000014247"
     ],
     "science": [
+      "8910126773560",
       "6681311679960"
     ],
     "it": [],
     "life": [
       "4380000407898",
-      "4910000924316",
       "4410000009695",
       "4910000924303",
       "4910000924301"
@@ -2011,6 +2010,7 @@
     ],
     "hobby": [],
     "travel": [
+      "4310000936589",
       "9784059239659"
     ],
     "language": [
@@ -2027,16 +2027,17 @@
       "4310000937173",
       "4310000935726",
       "4320000937482",
+      "4310000779045",
       "4310000934303"
     ]
   },
   "genreStatus": {
     "fiction": {
-      "matched": 10,
+      "matched": 9,
       "complete": true
     },
     "mystery": {
-      "matched": 6,
+      "matched": 5,
       "complete": true
     },
     "sf": {
@@ -2044,7 +2045,7 @@
       "complete": true
     },
     "business": {
-      "matched": 1,
+      "matched": 2,
       "complete": true
     },
     "humanities": {
@@ -2056,7 +2057,7 @@
       "complete": true
     },
     "science": {
-      "matched": 1,
+      "matched": 2,
       "complete": true
     },
     "it": {
@@ -2064,7 +2065,7 @@
       "complete": true
     },
     "life": {
-      "matched": 5,
+      "matched": 4,
       "complete": true
     },
     "health": {
@@ -2076,7 +2077,7 @@
       "complete": true
     },
     "travel": {
-      "matched": 1,
+      "matched": 2,
       "complete": true
     },
     "language": {
@@ -2092,7 +2093,7 @@
       "complete": true
     },
     "comic": {
-      "matched": 6,
+      "matched": 7,
       "complete": true
     }
   }

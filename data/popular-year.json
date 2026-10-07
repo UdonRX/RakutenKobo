@@ -4,7 +4,7 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "year",
-  "updatedAt": "2026-10-07T14:14:16.737Z",
+  "updatedAt": "2026-10-07T23:36:31.769Z",
   "candidateCount": 13,
   "baseMatched": 5,
   "matched": 9,
@@ -143,8 +143,9 @@
       "salesType": 0,
       "matchMeta": {
         "title": "変な地図",
-        "author": "雨穴",
-        "score": 102,
+        "author": "",
+        "isbn": "",
+        "score": 178,
         "sources": [
           {
             "source": "tohan",
@@ -154,7 +155,7 @@
         ],
         "source": "combined",
         "rank": 2,
-        "originalTitle": ""
+        "originalTitle": "変な地図"
       },
       "ranking": {
         "title": "変な地図",
@@ -189,9 +190,10 @@
       "isbn": "4660629612104",
       "salesType": 0,
       "matchMeta": {
-        "title": "イン・ザ・メガチャーチ",
-        "author": "朝井リョウ",
-        "score": 98,
+        "title": "イン･ザ･メガチャーチ",
+        "author": "",
+        "isbn": "",
+        "score": 177,
         "sources": [
           {
             "source": "tohan",
@@ -200,8 +202,7 @@
           }
         ],
         "source": "combined",
-        "rank": 3,
-        "originalTitle": ""
+        "rank": 3
       },
       "ranking": {
         "title": "イン･ザ･メガチャーチ",
@@ -237,9 +238,8 @@
       "salesType": 0,
       "matchMeta": {
         "title": "成瀬は都を駆け抜ける",
-        "author": "",
-        "isbn": "",
-        "score": 176,
+        "author": "宮島未奈",
+        "score": 94,
         "sources": [
           {
             "source": "tohan",
@@ -248,7 +248,8 @@
           }
         ],
         "source": "combined",
-        "rank": 4
+        "rank": 4,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "成瀬は都を駆け抜ける",
@@ -379,9 +380,8 @@
       "salesType": 0,
       "matchMeta": {
         "title": "不滅なるものへの挑戦 霊性の時代を拓くために",
-        "author": "",
-        "isbn": "",
-        "score": 171,
+        "author": "大川隆法",
+        "score": 74,
         "sources": [
           {
             "source": "tohan",
@@ -391,7 +391,7 @@
         ],
         "source": "combined",
         "rank": 9,
-        "originalTitle": "不滅なるものへの挑戦 霊性の時代を拓くために"
+        "originalTitle": ""
       },
       "ranking": {
         "title": "不滅なるものへの挑戦 霊性の時代を拓くために",
@@ -485,8 +485,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12,
-        "originalTitle": "FOR OVERSEAS"
+        "rank": 12
       },
       "ranking": {
         "title": "FOR OVERSEAS",

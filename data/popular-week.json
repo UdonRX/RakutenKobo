@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-10-06T23:08:22.339Z",
+  "updatedAt": "2026-10-07T06:52:16.601Z",
   "candidateCount": 76,
-  "baseMatched": 31,
-  "matched": 37,
-  "addedMatches": 6,
+  "baseMatched": 27,
+  "matched": 36,
+  "addedMatches": 9,
   "unavailable": [
     "rakuten"
   ],
@@ -19,44 +19,50 @@
       "attribution": "Amazon.co.jp",
       "sourceUrl": "https://www.amazon.co.jp/gp/bestsellers/books",
       "periodLabel": "現在のベストセラー",
-      "updatedAt": "2026-10-06T01:46:02.307Z",
+      "updatedAt": "2026-10-07T00:42:12.887Z",
       "live": false,
       "items": [
         {
-          "title": "VOCE (2026年12月号)",
-          "author": "講談社",
+          "title": "週刊プレイボーイ (42・43号)",
+          "author": "",
           "isbn": "",
-          "rank": 1
+          "rank": 3
         },
         {
           "title": "ワールドトリガー 30 (ジャンプコミックス)",
           "author": "葦原 大介",
           "isbn": "",
-          "rank": 2
+          "rank": 4
         },
         {
           "title": "転生したらスライムだった件(33) (シリウスKC)",
           "author": "川上 泰樹",
           "isbn": "",
-          "rank": 4
+          "rank": 5
         },
         {
-          "title": "BRUTUS(ブルータス) 2026年10月15日号 No.1063[犬と、暮らせば。]",
-          "author": "BRUTUS編集部",
+          "title": "アルスラーン戦記(25) (少年マガジンKC)",
+          "author": "荒川 弘",
+          "isbn": "",
+          "rank": 7
+        },
+        {
+          "title": "ADHDの母が伝えたい 生きづらい女の子が覚えておきたいこと",
+          "author": "なちゅ。",
+          "isbn": "",
+          "rank": 9
+        },
+        {
+          "title": "ダ・ヴィンチ 2026年11月号",
+          "author": "",
+          "isbn": "",
+          "rank": 14
+        },
+        {
+          "title": "ぐらんぶる(27) (アフタヌーンKC)",
+          "author": "井上 堅二",
           "isbn": "",
           "rank": 15
-        },
-        {
-          "title": "BORUTO―ボルト― 9 ―TWO BLUE VORTEX― (ジャンプコミックス)",
-          "author": "池本 幹雄",
-          "isbn": "",
-          "rank": 16
-        },
-        {
-          "title": "汝、星のごとく (講談社文庫 な 101-1)",
-          "author": "凪良 ゆう",
-          "isbn": "",
-          "rank": 19
         },
         {
           "title": "名探偵コナン (109) (少年サンデーコミックス)",
@@ -65,34 +71,28 @@
           "rank": 21
         },
         {
-          "title": "幽冥の岸 十二国記 (新潮文庫 お 37-66)",
-          "author": "小野不由美",
+          "title": "命の燃やし方",
+          "author": "鈴木 大飛",
           "isbn": "",
-          "rank": 23
+          "rank": 22
         },
         {
-          "title": "ぐらんぶる(27) (アフタヌーンKC)",
-          "author": "井上 堅二",
+          "title": "汝、星のごとく (講談社文庫 な 101-1)",
+          "author": "凪良 ゆう",
           "isbn": "",
           "rank": 24
         },
         {
-          "title": "anan No.2514 Special Edition[上質なご自愛／K] (MAGAZINE HOUSE MOOK)",
-          "author": "anan編集部",
+          "title": "1日外出録ハンチョウ(23) (ヤングマガジンKC)",
+          "author": "上原 求",
           "isbn": "",
-          "rank": 27
+          "rank": 25
         },
         {
-          "title": "アオのハコ 27 (ジャンプコミックス)",
-          "author": "三浦 糀",
+          "title": "BRUTUS(ブルータス) 2026年10月15日号 No.1063[犬と、暮らせば。]",
+          "author": "BRUTUS編集部",
           "isbn": "",
-          "rank": 29
-        },
-        {
-          "title": "命の燃やし方",
-          "author": "鈴木 大飛",
-          "isbn": "",
-          "rank": 30
+          "rank": 26
         }
       ]
     },
@@ -149,7 +149,7 @@
       "attribution": "紀伊國屋書店調べ",
       "sourceUrl": "https://www.kinokuniya.co.jp/disp/CKnRankingPageCList.jsp?dispNo=107002001001&vTp=w",
       "periodLabel": "ウィークリー",
-      "updatedAt": "2026-10-06",
+      "updatedAt": "2026-10-07",
       "live": true,
       "items": [
         {
@@ -165,55 +165,49 @@
           "rank": 2
         },
         {
-          "title": "未だ本能寺にあり",
-          "author": "",
-          "isbn": "",
-          "rank": 5
-        },
-        {
           "title": "探偵小石は戻らない",
           "author": "",
           "isbn": "",
-          "rank": 6
+          "rank": 3
         },
         {
-          "title": "ハライチのターン！公式１０周年記念本",
+          "title": "未だ本能寺にあり",
           "author": "",
           "isbn": "",
-          "rank": 12
+          "rank": 4
         },
         {
           "title": "人間の性 幻冬舎新書",
           "author": "",
           "isbn": "",
-          "rank": 17
+          "rank": 14
         },
         {
           "title": "きずもの",
           "author": "",
           "isbn": "",
-          "rank": 18
+          "rank": 17
         },
         {
           "title": "命の燃やし方",
           "author": "",
           "isbn": "",
-          "rank": 20
+          "rank": 19
         },
         {
-          "title": "ふつつかな悪女ではございますが 〈１３〉 - 雛宮蝶鼠とりかえ伝 一迅社ノベルス",
+          "title": "オルロージュ",
           "author": "",
           "isbn": "",
           "rank": 22
         },
         {
-          "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
+          "title": "ふつつかな悪女ではございますが 〈１３〉 - 雛宮蝶鼠とりかえ伝 一迅社ノベルス",
           "author": "",
           "isbn": "",
-          "rank": 24
+          "rank": 23
         },
         {
-          "title": "オルロージュ",
+          "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
           "author": "",
           "isbn": "",
           "rank": 25
@@ -238,7 +232,7 @@
       "attribution": "トーハン調べ",
       "sourceUrl": "https://www.tohan.jp/bestsellers/2026_0929_weekly/",
       "periodLabel": "週間",
-      "updatedAt": "2026-10-06",
+      "updatedAt": "2026-10-07",
       "live": true,
       "items": [
         {
@@ -430,7 +424,7 @@
           }
         ],
         "source": "combined",
-        "rank": 74,
+        "rank": 73,
         "originalTitle": ""
       },
       "ranking": {
@@ -473,17 +467,17 @@
       "matchMeta": {
         "title": "命の燃やし方",
         "author": "鈴木 大飛",
-        "score": 35,
+        "score": 56,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 20
+            "rank": 19
           },
           {
             "source": "amazon",
             "label": "Amazon",
-            "rank": 30
+            "rank": 22
           }
         ],
         "source": "combined",
@@ -494,17 +488,17 @@
         "title": "命の燃やし方",
         "author": "鈴木 大飛",
         "isbn": "",
-        "score": 310,
+        "score": 319,
         "sources": [
           {
             "source": "amazon",
             "label": "Amazon",
-            "rank": 30
+            "rank": 22
           },
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 20
+            "rank": 19
           }
         ],
         "source": "combined",
@@ -559,97 +553,50 @@
       }
     },
     {
-      "id": "4310000928106",
-      "title": "ＶＯＣＥ (ヴォーチェ)　２０２６年　１１月号",
-      "author": "",
-      "publisher": "講談社",
-      "price": 550,
-      "url": "https://books.rakuten.co.jp/rk/59d14ec3dee932f68562f57de532fb51/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4617/2000021734617.jpg?_ex=600x600",
-      "caption": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。\n◇石原さとみ◇欲しいのはパーンっとうるおうご機嫌肌「ハリ活」「もち活」で満ちる秋肌◇運命のクリームを探せ！◇「美容医療超えスキンケア」を大野真理子が医師と語り倒す◇乳液を省かない人の「ハリ」「もち」肌がご機嫌です◇「ハリ」「もち」を呼び覚ます究極の手技◇長井かおり発「秋のハリもちベースのつくり方」◇VOCEヘアケアコンシェルジュ◇クリスマスコフレ\n※電子版では紙の雑誌と内容が一部異なる場合や、掲載されないページがあります。※電子版からは応募できない懸賞があります。※電子版には付録は付きません。\n",
-      "salesDate": "2026年09月24日",
-      "series": "ＶＯＣＥ",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101950017",
-      "isbn": "4310000928106",
+      "id": "4320000935695",
+      "title": "探偵小石は戻らない",
+      "author": "森バジル",
+      "publisher": "小学館",
+      "price": 1683,
+      "url": "https://books.rakuten.co.jp/rk/69cff30ce1a33d848e23b0abc8cf64f3/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7945/2000021867945.jpg?_ex=600x600",
+      "caption": "ネタバレ厳禁！　驚愕体験ミステリ！\n2026年本屋大賞ノミネート『探偵小石は恋しない』続編！\n逆転、逆転、また逆転ーー\n新たなる驚愕体験ミステリ！\n名探偵のように事件を解決する日を夢見る、ミステリオタクの探偵・小石。\n色恋案件を病的に得意とする小石は、調査員の蓮杖と様々な調査に取り組んできた。\nしかしその日、蓮杖が目撃したのは探偵ではなく、犯人としての小石の姿でーー。\n（底本　2026年9月発売作品）\n",
+      "salesDate": "2026年09月30日",
+      "series": "探偵小石",
+      "reviewAverage": 4.5,
+      "reviewCount": 2,
+      "genreId": "101901/101902",
+      "isbn": "4320000935695",
       "salesType": 0,
       "matchMeta": {
-        "title": "VOCE (2026年12月号)",
-        "author": "講談社",
-        "score": 106,
+        "title": "探偵小石は戻らない",
+        "author": "",
+        "score": 98,
         "sources": [
           {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 1
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 3
           }
         ],
         "source": "combined",
-        "rank": 6,
+        "rank": 12,
         "originalTitle": ""
       },
       "ranking": {
-        "title": "VOCE (2026年12月号)",
-        "author": "講談社",
+        "title": "探偵小石は戻らない",
+        "author": "",
         "isbn": "",
-        "score": 179,
+        "score": 177,
         "sources": [
           {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 1
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 3
           }
         ],
         "source": "combined",
         "rank": 6
-      }
-    },
-    {
-      "id": "4972000167723",
-      "title": "ワールドトリガー 30",
-      "author": "葦原大介",
-      "publisher": "集英社",
-      "price": 594,
-      "url": "https://books.rakuten.co.jp/rk/4d8ae792b62e30719d6428c51d3199af/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8631/2000021668631.jpg?_ex=600x600",
-      "caption": "遠征選抜第2試験の内容はA級部隊VS臨時部隊での総勢95人による『長時間戦闘試験』！　試験用MAPに転送された臨時部隊は、古寺を指揮官に決める。修は部隊を前線に集結させるよう進言するが、その真意とは!?\n",
-      "salesDate": "2026年10月02日",
-      "series": "ワールドトリガー",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904001007",
-      "isbn": "4972000167723",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ワールドトリガー 30",
-        "author": "葦原 大介",
-        "score": 102,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 2
-          }
-        ],
-        "source": "combined",
-        "rank": 10,
-        "originalTitle": "ワールドトリガー 30 (ジャンプコミックス)"
-      },
-      "ranking": {
-        "title": "ワールドトリガー 30 (ジャンプコミックス)",
-        "author": "葦原 大介",
-        "isbn": "",
-        "score": 178,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 2
-          }
-        ],
-        "source": "combined",
-        "rank": 7
       }
     },
     {
@@ -696,28 +643,122 @@
           }
         ],
         "source": "combined",
+        "rank": 7
+      }
+    },
+    {
+      "id": "6170520520001",
+      "title": "【大増量】週刊プレイボーイ創刊59周年記念デジタル写真集「NIPPONグラドル59人」",
+      "author": "週プレ創刊59周年グラビアガールズ59人/LUCKMAN/藤本和典",
+      "publisher": "集英社",
+      "price": 1650,
+      "url": "https://books.rakuten.co.jp/rk/ca8075c0866d339fbfe1634db605cf93/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6110/2000018876110.jpg?_ex=600x600",
+      "caption": "週プレ本誌グラビアの未公開カットで構成したデジタル写真集！10月は週プレの創刊月間。50周年から続いている50人グラビアシリーズ。今年は59周年なので、59人の現役トップグラドルが大集結！　びしょ濡れになって例年以上にカオスなグラビアに!?　整列していたはずが、撮影が進むにつれてカラダが絡み合い、各所から艶めかしい声があがる。プールや川で、密着し合う美女たち。年に1回の盛大なアニバーサリーグラビア。協力してくれた美女たちに感謝！　参加モデル（五十音順）／葵りんご,青山ひかる,蒼山みこと,赤城ありさ,浅沼 凛,阿澄音々,天木じゅん,天野麻菜,天羽結愛,絢月みけ,伊織いお,池田ゆうな,石井優希,石岡真衣,石垣果蓮,石橋てるみ,一ノ瀬のこ,五木ゆうり,宇佐美なお,音羽美奈,夏乃さやか,神川さあや,神山みれい,倉田アンナ,紅羽祐美,小日向ななせ,桜木美緒,佐野なぎさ,爽香,新海まき,鈴木ふみ奈,せのん,高月りな,竹川由華,ちとせよしの,塚越愛実,徳江かな,永瀬ひな,夏川いおり,夏未ゆうか,七瀬みるあ,成瀬かのん,西永彩奈,西本ヒカル,のののん,葉月あや,原つむぎ,まいてぃ,幕田みゆ,松本みいな,愛森ちえ,丸山りさ,三木優彩,美登りみ,水湊まり花,美波那緒,める,森くるみ,山田かな\n",
+      "salesDate": "2025年10月20日",
+      "series": "週プレ PHOTO BOOK",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101915",
+      "isbn": "6170520520001",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "週刊プレイボーイ (42・43号)",
+        "author": "",
+        "isbn": "",
+        "score": 177,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 3
+          }
+        ],
+        "source": "combined",
+        "rank": 11
+      },
+      "ranking": {
+        "title": "週刊プレイボーイ (42・43号)",
+        "author": "",
+        "isbn": "",
+        "score": 177,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 3
+          }
+        ],
+        "source": "combined",
         "rank": 8
       }
     },
     {
-      "id": "4310000937174",
-      "title": "転生したらスライムだった件（３３）",
-      "author": "川上泰樹/伏瀬/みっつばー",
-      "publisher": "講談社",
-      "price": 792,
-      "url": "https://books.rakuten.co.jp/rk/2ec766082be93057af6d743314365b5f/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9576/2000021879576.jpg?_ex=600x600",
-      "caption": "北方から悪魔の軍勢がイングラシア王国へと迫っていると知り、混乱する西方諸国評議会（カウンシル・オブ・ウエスト）の議員達。しかしそこには、リムルの命を受け評議会に派遣されたテスタロッサの姿があった。\n一方、マリアと戦っていたルミナスは夜想宮廷(ナイトガーデン)の聖櫃に封印されていた”あるもの”がなくなっていることに気づき激怒する。\nさらにラファエルさえも理解できない事態がリムルの目の前で起こるのだった！\n",
-      "salesDate": "2026年10月08日",
-      "series": "転生したらスライムだった件",
+      "id": "4380000408000",
+      "title": "未だ本能寺にあり",
+      "author": "今村翔吾",
+      "publisher": "幻冬舎",
+      "price": 2299,
+      "url": "https://books.rakuten.co.jp/rk/60f1dc9e00eb35a8a668b28e59a84d1f/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5047/2000021595047.jpg?_ex=600x600",
+      "caption": "魔王の首を探せ。\n織田信長はどこへ消えたのか？\n羽柴秀吉、信長を刺した明智兵、使用人の少女、阿弥陀寺の僧……。\n「あの日」を巡る8人の証言が集まる時、\n400年、誰も見たことのない“答え″が、導き出される。\n天正十年、本能寺の変が勃発。天下の主を失った日ノ本は混沌に陥った。そんな中、羽柴家家臣・駒井八右衛門は、秀吉からある密命を授かる。上様を探せーー。\n逆賊・明智光秀を討った秀吉は、今や織田の後継と目されていた。だが、信長の遺骸は見つからずにいる。もし他者が先んじて遺骸を探し出し弔えば、その座が奪われかねない。まして信長が生きているとなれば、秀吉が描き始めた天下への絵図も霧散することになる。\n一度見聞きした物事は忘れない異能を武器に、八右衛門は消えた天下人の行方を追う。織田方、明智方、そして影の目撃者……。関係者たちが語る「あの日」の真実とは？\n日本史上最大の謎に挑む、超大作歴史ミステリー。\n",
+      "salesDate": "2026年09月29日",
+      "series": "",
+      "reviewAverage": 5,
+      "reviewCount": 1,
+      "genreId": "101901001001",
+      "isbn": "4380000408000",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "未だ本能寺にあり",
+        "author": "",
+        "score": 94,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 4
+          }
+        ],
+        "source": "combined",
+        "rank": 15,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "未だ本能寺にあり",
+        "author": "",
+        "isbn": "",
+        "score": 176,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 4
+          }
+        ],
+        "source": "combined",
+        "rank": 9
+      }
+    },
+    {
+      "id": "4972000167723",
+      "title": "ワールドトリガー 30",
+      "author": "葦原大介",
+      "publisher": "集英社",
+      "price": 594,
+      "url": "https://books.rakuten.co.jp/rk/4d8ae792b62e30719d6428c51d3199af/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8631/2000021668631.jpg?_ex=600x600",
+      "caption": "遠征選抜第2試験の内容はA級部隊VS臨時部隊での総勢95人による『長時間戦闘試験』！　試験用MAPに転送された臨時部隊は、古寺を指揮官に決める。修は部隊を前線に集結させるよう進言するが、その真意とは!?\n",
+      "salesDate": "2026年10月02日",
+      "series": "ワールドトリガー",
       "reviewAverage": 0,
       "reviewCount": 0,
-      "genreId": "101904002048",
-      "isbn": "4310000937174",
-      "salesType": 1,
+      "genreId": "101904001007",
+      "isbn": "4972000167723",
+      "salesType": 0,
       "matchMeta": {
-        "title": "転生したらスライムだった件(33) (シリウスKC)",
-        "author": "川上 泰樹",
+        "title": "ワールドトリガー 30",
+        "author": "葦原 大介",
         "score": 94,
         "sources": [
           {
@@ -728,11 +769,11 @@
         ],
         "source": "combined",
         "rank": 16,
-        "originalTitle": ""
+        "originalTitle": "ワールドトリガー 30 (ジャンプコミックス)"
       },
       "ranking": {
-        "title": "転生したらスライムだった件(33) (シリウスKC)",
-        "author": "川上 泰樹",
+        "title": "ワールドトリガー 30 (ジャンプコミックス)",
+        "author": "葦原 大介",
         "isbn": "",
         "score": 176,
         "sources": [
@@ -743,7 +784,7 @@
           }
         ],
         "source": "combined",
-        "rank": 9
+        "rank": 10
       }
     },
     {
@@ -790,53 +831,6 @@
           }
         ],
         "source": "combined",
-        "rank": 10
-      }
-    },
-    {
-      "id": "4380000408000",
-      "title": "未だ本能寺にあり",
-      "author": "今村翔吾",
-      "publisher": "幻冬舎",
-      "price": 2299,
-      "url": "https://books.rakuten.co.jp/rk/60f1dc9e00eb35a8a668b28e59a84d1f/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5047/2000021595047.jpg?_ex=600x600",
-      "caption": "魔王の首を探せ。\n織田信長はどこへ消えたのか？\n羽柴秀吉、信長を刺した明智兵、使用人の少女、阿弥陀寺の僧……。\n「あの日」を巡る8人の証言が集まる時、\n400年、誰も見たことのない“答え″が、導き出される。\n天正十年、本能寺の変が勃発。天下の主を失った日ノ本は混沌に陥った。そんな中、羽柴家家臣・駒井八右衛門は、秀吉からある密命を授かる。上様を探せーー。\n逆賊・明智光秀を討った秀吉は、今や織田の後継と目されていた。だが、信長の遺骸は見つからずにいる。もし他者が先んじて遺骸を探し出し弔えば、その座が奪われかねない。まして信長が生きているとなれば、秀吉が描き始めた天下への絵図も霧散することになる。\n一度見聞きした物事は忘れない異能を武器に、八右衛門は消えた天下人の行方を追う。織田方、明智方、そして影の目撃者……。関係者たちが語る「あの日」の真実とは？\n日本史上最大の謎に挑む、超大作歴史ミステリー。\n",
-      "salesDate": "2026年09月29日",
-      "series": "",
-      "reviewAverage": 5,
-      "reviewCount": 1,
-      "genreId": "101901001001",
-      "isbn": "4380000408000",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "未だ本能寺にあり",
-        "author": "",
-        "score": 90,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 5
-          }
-        ],
-        "source": "combined",
-        "rank": 19,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "未だ本能寺にあり",
-        "author": "",
-        "isbn": "",
-        "score": 175,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 5
-          }
-        ],
-        "source": "combined",
         "rank": 11
       }
     },
@@ -869,7 +863,8 @@
           }
         ],
         "source": "combined",
-        "rank": 19
+        "rank": 19,
+        "originalTitle": "自分とか、ないから。 教養としての東洋哲学"
       },
       "ranking": {
         "title": "自分とか、ないから。 教養としての東洋哲学",
@@ -888,46 +883,46 @@
       }
     },
     {
-      "id": "4320000935695",
-      "title": "探偵小石は戻らない",
-      "author": "森バジル",
-      "publisher": "小学館",
-      "price": 1683,
-      "url": "https://books.rakuten.co.jp/rk/69cff30ce1a33d848e23b0abc8cf64f3/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7945/2000021867945.jpg?_ex=600x600",
-      "caption": "ネタバレ厳禁！　驚愕体験ミステリ！\n2026年本屋大賞ノミネート『探偵小石は恋しない』続編！\n逆転、逆転、また逆転ーー\n新たなる驚愕体験ミステリ！\n名探偵のように事件を解決する日を夢見る、ミステリオタクの探偵・小石。\n色恋案件を病的に得意とする小石は、調査員の蓮杖と様々な調査に取り組んできた。\nしかしその日、蓮杖が目撃したのは探偵ではなく、犯人としての小石の姿でーー。\n（底本　2026年9月発売作品）\n",
-      "salesDate": "2026年09月30日",
-      "series": "探偵小石",
-      "reviewAverage": 4.5,
-      "reviewCount": 2,
-      "genreId": "101901/101902",
-      "isbn": "4320000935695",
-      "salesType": 0,
+      "id": "4310000937174",
+      "title": "転生したらスライムだった件（３３）",
+      "author": "川上泰樹/伏瀬/みっつばー",
+      "publisher": "講談社",
+      "price": 792,
+      "url": "https://books.rakuten.co.jp/rk/2ec766082be93057af6d743314365b5f/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9576/2000021879576.jpg?_ex=600x600",
+      "caption": "北方から悪魔の軍勢がイングラシア王国へと迫っていると知り、混乱する西方諸国評議会（カウンシル・オブ・ウエスト）の議員達。しかしそこには、リムルの命を受け評議会に派遣されたテスタロッサの姿があった。\n一方、マリアと戦っていたルミナスは夜想宮廷(ナイトガーデン)の聖櫃に封印されていた”あるもの”がなくなっていることに気づき激怒する。\nさらにラファエルさえも理解できない事態がリムルの目の前で起こるのだった！\n",
+      "salesDate": "2026年10月08日",
+      "series": "転生したらスライムだった件",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904002048",
+      "isbn": "4310000937174",
+      "salesType": 1,
       "matchMeta": {
-        "title": "探偵小石は戻らない",
-        "author": "",
-        "score": 86,
+        "title": "転生したらスライムだった件(33) (シリウスKC)",
+        "author": "川上 泰樹",
+        "isbn": "",
+        "score": 175,
         "sources": [
           {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 6
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 5
           }
         ],
         "source": "combined",
-        "rank": 23,
-        "originalTitle": ""
+        "rank": 16
       },
       "ranking": {
-        "title": "探偵小石は戻らない",
-        "author": "",
+        "title": "転生したらスライムだった件(33) (シリウスKC)",
+        "author": "川上 泰樹",
         "isbn": "",
-        "score": 174,
+        "score": 175,
         "sources": [
           {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 6
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 5
           }
         ],
         "source": "combined",
@@ -982,6 +977,53 @@
       }
     },
     {
+      "id": "4310000937173",
+      "title": "アルスラーン戦記（２５）",
+      "author": "荒川弘/田中芳樹",
+      "publisher": "講談社",
+      "price": 594,
+      "url": "https://books.rakuten.co.jp/rk/60c6e7ac259932a28e91344c5af3439c/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9565/2000021879565.jpg?_ex=600x600",
+      "caption": "大陸公路の強国「パルス」の若き王子・アルスラーン。永遠と思われた国の栄華が終わりを告げた時、すべての運命が変わる！！　荒川 弘×田中芳樹の最強タッグで描く、世界最高の歴史ファンタジー、最新作！\n数多の贄を喰らい、血を啜る。蛇王、王都掌握へ。\n蛇王が操るアンドラゴラス王によって蹂躙された王都。王宮は封鎖され、蛇王討伐に動くアルスラーンと、宿敵カイ・ホスローの血を引くヒルメスに蛇王軍が襲いかかる！ 一方、閉ざされた「王の門」の外では、突入を試みる猛将・クバードが蛇王との死闘に挑む…！\n伝説に違わぬその邪力で王都を、仲間たちを血で染めていくーー。“ルクナバードが使えない”少年に蛇王を倒す術はあるのか…！？\n",
+      "salesDate": "2026年10月08日",
+      "series": "アルスラーン戦記",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904",
+      "isbn": "4310000937173",
+      "salesType": 1,
+      "matchMeta": {
+        "title": "アルスラーン戦記(25) (少年マガジンKC)",
+        "author": "荒川 弘",
+        "score": 82,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 7
+          }
+        ],
+        "source": "combined",
+        "rank": 28,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "アルスラーン戦記(25) (少年マガジンKC)",
+        "author": "荒川 弘",
+        "isbn": "",
+        "score": 173,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 7
+          }
+        ],
+        "source": "combined",
+        "rank": 15
+      }
+    },
+    {
       "id": "4910000924316",
       "title": "ゲッターズ飯田の五星三心占い2027　銀のイルカ座",
       "author": "ゲッターズ飯田",
@@ -1025,7 +1067,54 @@
           }
         ],
         "source": "combined",
-        "rank": 15
+        "rank": 16
+      }
+    },
+    {
+      "id": "4410000009695",
+      "title": "ADHDの母が伝えたい 生きづらい女の子が覚えておきたいこと",
+      "author": "なちゅ。/本田秀夫",
+      "publisher": "ダイヤモンド社",
+      "price": 1870,
+      "url": "https://books.rakuten.co.jp/rk/7de1b4d57d4f3d02952260cc0bac76e9/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1701/2000021711701.jpg?_ex=600x600",
+      "caption": "ＡＤＨＤの母が教える「女の子」の生き方の戦略書。女子の人間関係、料理下手、毒親育ち、メンタルの浮き沈み、汚部屋、子育ての限界…私がしんどかったことの対策は、全部ここに書いておきました。当事者だから書けた「恥ずかしくて誰にも聞けない」内容を網羅した一冊。\n",
+      "salesDate": "2026年09月09日",
+      "series": "",
+      "reviewAverage": 5,
+      "reviewCount": 1,
+      "genreId": "101909009",
+      "isbn": "4410000009695",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ADHDの母が伝えたい 生きづらい女の子が覚えておきたいこと",
+        "author": "なちゅ。",
+        "score": 74,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 36,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "ADHDの母が伝えたい 生きづらい女の子が覚えておきたいこと",
+        "author": "なちゅ。",
+        "isbn": "",
+        "score": 171,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 17
       }
     },
     {
@@ -1072,7 +1161,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16
+        "rank": 18
       }
     },
     {
@@ -1104,7 +1193,8 @@
           }
         ],
         "source": "combined",
-        "rank": 34
+        "rank": 34,
+        "originalTitle": "ゲッターズ飯田の五星三心占い2027 銀の羅針盤座"
       },
       "ranking": {
         "title": "ゲッターズ飯田の五星三心占い2027 銀の羅針盤座",
@@ -1119,7 +1209,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17
+        "rank": 19
       }
     },
     {
@@ -1166,7 +1256,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18
+        "rank": 20
       }
     },
     {
@@ -1198,8 +1288,7 @@
           }
         ],
         "source": "combined",
-        "rank": 38,
-        "originalTitle": "ゲッターズ飯田の五星三心占い2027 銀のインディアン座"
+        "rank": 38
       },
       "ranking": {
         "title": "ゲッターズ飯田の五星三心占い2027 銀のインディアン座",
@@ -1214,54 +1303,7 @@
           }
         ],
         "source": "combined",
-        "rank": 19
-      }
-    },
-    {
-      "id": "6681316771710",
-      "title": "ハライチのターン！公式 10周年記念本",
-      "author": "ハライチ／TBSラジオ/持ちビルハゲ太郎",
-      "publisher": "マガジンハウス",
-      "price": 1870,
-      "url": "https://books.rakuten.co.jp/rk/bed2f68255463c49896ba6255e7a51dc/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4607/2000021754607.jpg?_ex=600x600",
-      "caption": "『ハライチのターン！』10周年記念、初の公式BOOK！\nラジオで流れた10年を、本で残そう。\n2016年に放送を開始したTBSラジオ『ハライチのターン！』。\n岩井勇気と澤部佑が、ネコちゃんニュースから論争まで、毎週しゃべり続けて10年が経ちました。\n本書では、500回を超える放送の中から傑作トークを厳選して収録。\nさらに、これまで生まれては消えていった150の歴代コーナー、生誕祭、聖地認定日本地図、ハライチお気に入りのネコちゃんニュース、アフタートーク神回3選など、『ターン！』らしさが詰まったページをたっぷり収録しています。\nそして、岩井勇気・澤部佑それぞれのロングインタビューに加え、番組を10年間支えてきた制作陣による舞台裏トークも。\n二人の生活も仕事も大きく変わった10年間、それでも変わらず続いてきた『ハライチのターン！』を振り返ります。\nずっと聴いてきたリスナーにも、最近聴き始めたリスナーにも。\n『ハライチのターン！』の10年を、ぎゅっと詰め込んだ一冊です。\n＜内容紹介＞\n500回を超える放送の中から、忘れられない傑作トークを一冊に！\nさらに、\n● 岩井勇気・澤部佑　ロングインタビュー\n● 10年間の番組年表\n● 生まれては消えていった歴代コーナー\n● 思い出の品で振り返る『ハライチのターン！』\n● 神ネコちゃんニュース\n● 聖地認定日本地図\n● 制作陣が語る番組の舞台裏\n● アフタートーク神回3選\n● 番組ゆかりのあの人にインタビュー＆お祝いメッセージ\nなど、ここでしか読めない企画を多数収録。\nあの話も、あのコーナーも、あの論争も。\n『ハライチのターン！』の10年間を、まるごと楽しむ保存版です。\n★ぜひご予約してお待ちください！★\n",
-      "salesDate": "2026年09月24日",
-      "series": "",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101913001/101907015004/101901002",
-      "isbn": "6681316771710",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ハライチのターン!公式10周年記念本",
-        "author": "",
-        "score": 62,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 12
-          }
-        ],
-        "source": "combined",
-        "rank": 43,
-        "originalTitle": "ハライチのターン！公式１０周年記念本"
-      },
-      "ranking": {
-        "title": "ハライチのターン！公式１０周年記念本",
-        "author": "",
-        "isbn": "",
-        "score": 168,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 12
-          }
-        ],
-        "source": "combined",
-        "rank": 20
+        "rank": 21
       }
     },
     {
@@ -1293,8 +1335,7 @@
           }
         ],
         "source": "combined",
-        "rank": 44,
-        "originalTitle": "FOR OVERSEAS"
+        "rank": 43
       },
       "ranking": {
         "title": "FOR OVERSEAS",
@@ -1309,101 +1350,7 @@
           }
         ],
         "source": "combined",
-        "rank": 21
-      }
-    },
-    {
-      "id": "6681317556160",
-      "title": "BRUTUS (ブルータス) 2026年 10月15日号 No.1063 [犬と、暮らせば。]",
-      "author": "BRUTUS編集部",
-      "publisher": "マガジンハウス",
-      "price": 1100,
-      "url": "https://books.rakuten.co.jp/rk/ea4443cd315439abbcc8561b41d17e62/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4273/2000021924273.jpg?_ex=600x600",
-      "caption": "※電子版では、紙の雑誌と内容が一部異なる場合や、掲載されないページや特別付録が含まれない場合がございます。\n※本雑誌はカラーページを含みます。お使いの端末によっては、一部読みづらい場合がございます。\n犬と暮らすのは、けっこう大変だ。\n毎日の散歩にしつけ、食事や健康のこと。時間も手間もかかる。\nそれでも犬を迎えると、不思議なくらい暮らしは変わっていく。\n家族の会話が増え、散歩に出れば知らなかった街の景色や人に出会う。\n犬と行ける店も、泊まれる宿も、遊べる場所もずいぶん増えた。\n犬のために始めたことが、いつの間に か自分たちの楽しみになっている。\n犬と暮らすとは、ただ生活に犬が加わることではない。\n犬がいることで、私たちの暮らしそのものが少しずつ形を変えていくことなのだ。\n犬との関係から、今の暮らしを考えてみよう。\n",
-      "salesDate": "2026年10月01日",
-      "series": "BRUTUS",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101950013",
-      "isbn": "6681317556160",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "BRUTUS(ブルータス) 2026年10月15日号 No.1063[犬と、暮らせば。]",
-        "author": "BRUTUS編集部",
-        "score": 50,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 15
-          }
-        ],
-        "source": "combined",
-        "rank": 49,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "BRUTUS(ブルータス) 2026年10月15日号 No.1063[犬と、暮らせば。]",
-        "author": "BRUTUS編集部",
-        "isbn": "",
-        "score": 165,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 15
-          }
-        ],
-        "source": "combined",
         "rank": 22
-      }
-    },
-    {
-      "id": "4972000167754",
-      "title": "BORUTO-ボルト-　-TWO BLUE VORTEX- 9",
-      "author": "岸本斉史/池本幹雄",
-      "publisher": "集英社",
-      "price": 572,
-      "url": "https://books.rakuten.co.jp/rk/9727f11693dc3b75be64c7a58da8e015/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8563/2000021668563.jpg?_ex=600x600",
-      "caption": "サラダとカワキが倒れ対虫（マムシ）の作戦は失敗。虫の数は増え続けボルト達は窮地に！　果心居士の「十方」も新たな更新はなされず…。事態を打開する鍵はいのじんにかかる？　さらにボルトとコードに緊迫の事態が!!\n",
-      "salesDate": "2026年10月02日",
-      "series": "BORUTO-ボルト-　-TWO BLUE VORTEX-",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904001007",
-      "isbn": "4972000167754",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "BORUTO―ボルト― 9 ―TWO BLUE VORTEX―",
-        "author": "池本 幹雄",
-        "score": 46,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 16
-          }
-        ],
-        "source": "combined",
-        "rank": 51,
-        "originalTitle": "BORUTO―ボルト― 9 ―TWO BLUE VORTEX― (ジャンプコミックス)"
-      },
-      "ranking": {
-        "title": "BORUTO―ボルト― 9 ―TWO BLUE VORTEX― (ジャンプコミックス)",
-        "author": "池本 幹雄",
-        "isbn": "",
-        "score": 164,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 16
-          }
-        ],
-        "source": "combined",
-        "rank": 23
       }
     },
     {
@@ -1425,32 +1372,126 @@
       "matchMeta": {
         "title": "人間の性 幻冬舎新書",
         "author": "",
-        "score": 42,
+        "score": 54,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 17
+            "rank": 14
           }
         ],
         "source": "combined",
-        "rank": 52,
+        "rank": 46,
         "originalTitle": ""
       },
       "ranking": {
         "title": "人間の性 幻冬舎新書",
         "author": "",
         "isbn": "",
-        "score": 163,
+        "score": 166,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 17
+            "rank": 14
+          }
+        ],
+        "source": "combined",
+        "rank": 23
+      }
+    },
+    {
+      "id": "4334644300320",
+      "title": "ダ・ヴィンチ　2026年11月号",
+      "author": "ダ・ヴィンチ編集部",
+      "publisher": "KADOKAWA",
+      "price": 1200,
+      "url": "https://books.rakuten.co.jp/rk/971bf4049ea53016beeb79ba3ffdf31d/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9529/2000021989529.jpg?_ex=600x600",
+      "caption": "※本誌の誌面と一部異なり、掲載のない頁・写真等がございます。表紙★本木雅弘今号をもって雑誌『ダ・ヴィンチ』は休刊いたします。最後の特集は「本とすごした32年」。創刊した1994年4月から32年7カ月にわたり、読者に「本の楽しさ」を伝えるべく数々の作品を紹介してまいりました。本特集では、名物企画「今月の絶対はずさない!　プラチナ本」に選出された作品を中心に、これまで本誌が取り上げてきた本の魅力を、著者の言葉とともに振り返ってゆきます。さらに特集の後半では、幾度となく誌面を彩っていただいた方々に、今一度ご登場いただき、さまざまな想いを語っていただきました。我々のすぐそばにあり、ともに歩み続けてきた本と作品に感謝を込めて、最後の特集をお届けします。そのほか、山岸凉子描き下ろしマンガ、豪華な鼎談＆対談＆インタビュー、注目作家や話題の書籍の紹介を詰め込んだエンタメ満載の一冊です。\n",
+      "salesDate": "2026年10月06日",
+      "series": "ダ・ヴィンチ",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101950001",
+      "isbn": "4334644300320",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ダ・ヴィンチ 2026年11月号",
+        "author": "",
+        "score": 54,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 14
+          }
+        ],
+        "source": "combined",
+        "rank": 47,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "ダ・ヴィンチ 2026年11月号",
+        "author": "",
+        "isbn": "",
+        "score": 166,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 14
           }
         ],
         "source": "combined",
         "rank": 24
+      }
+    },
+    {
+      "id": "4310000935726",
+      "title": "ぐらんぶる（２７）",
+      "author": "井上堅二/吉岡公威",
+      "publisher": "講談社",
+      "price": 869,
+      "url": "https://books.rakuten.co.jp/rk/2ee1ec2b57f5309e83f8e0fee14ecd35/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8248/2000021868248.jpg?_ex=600x600",
+      "caption": "いただきもののアシカ肉を使った鍋パーティー開催！ アシカ肉の催淫効果によって、耕平、千紗、愛菜がそれぞれ変になり、彼ら以外も被害者が続出。悪い食べ合わせにより千紗が病院に運ばれる中、一人正気を保っていた伊織は、千紗を救うために立ち上がる。全裸系青春ダイビングコメディ、波乱が波乱を巻き起こす27巻！\n",
+      "salesDate": "2026年10月07日",
+      "series": "ぐらんぶる",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904",
+      "isbn": "4310000935726",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ぐらんぶる(27) (アフタヌーンKC)",
+        "author": "井上 堅二",
+        "score": 50,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 15
+          }
+        ],
+        "source": "combined",
+        "rank": 49,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "ぐらんぶる(27) (アフタヌーンKC)",
+        "author": "井上 堅二",
+        "isbn": "",
+        "score": 165,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 15
+          }
+        ],
+        "source": "combined",
+        "rank": 25
       }
     },
     {
@@ -1472,75 +1513,28 @@
       "matchMeta": {
         "title": "きずもの",
         "author": "",
-        "score": 38,
+        "score": 42,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 18
+            "rank": 17
           }
         ],
         "source": "combined",
-        "rank": 54,
+        "rank": 52,
         "originalTitle": ""
       },
       "ranking": {
         "title": "きずもの",
         "author": "",
         "isbn": "",
-        "score": 162,
+        "score": 163,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 18
-          }
-        ],
-        "source": "combined",
-        "rank": 25
-      }
-    },
-    {
-      "id": "4310000779045",
-      "title": "汝、星のごとく（３）",
-      "author": "凪良ゆう/古里こう",
-      "publisher": "講談社",
-      "price": 792,
-      "url": "https://books.rakuten.co.jp/rk/53b069e006973118af2e818a16801db0/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2574/2000019452574.jpg?_ex=600x600",
-      "caption": "「わたしは愛する男のために人生を誤りたい」\n毎月、借金の返済として暁海が櫂に送る四万円。\nふたりをつなぐものがそれだけになっても、\n互いを想う気持ちは消えないまま…。\nそれぞれを取り巻く環境に縛られ、\n自らの人生を生きる難しさに打ちのめされそうになる中、\n暁海は北原先生から「ぼくと結婚しませんか」と提案されてーー。\n「まともな人間なんてものは幻想だ」\n生きることの自由さと不自由さを描き続けてきた\n凪良ゆう最高傑作、待望のコミカライズ最終巻。\n",
-      "salesDate": "2026年01月13日",
-      "series": "汝、星のごとく",
-      "reviewAverage": 5,
-      "reviewCount": 4,
-      "genreId": "101904011005",
-      "isbn": "4310000779045",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "汝、星のごとく",
-        "author": "凪良 ゆう",
-        "score": 34,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 19
-          }
-        ],
-        "source": "combined",
-        "rank": 57,
-        "originalTitle": "汝、星のごとく (講談社文庫 な 101-1)"
-      },
-      "ranking": {
-        "title": "汝、星のごとく (講談社文庫 な 101-1)",
-        "author": "凪良 ゆう",
-        "isbn": "",
-        "score": 161,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 19
+            "rank": 17
           }
         ],
         "source": "combined",
@@ -1595,6 +1589,53 @@
       }
     },
     {
+      "id": "4310000936567",
+      "title": "オルロージュ",
+      "author": "小川哲",
+      "publisher": "講談社",
+      "price": 2585,
+      "url": "https://books.rakuten.co.jp/rk/945397c193ef33d9b83cdcffae695e94/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1501/2000021871501.jpg?_ex=600x600",
+      "caption": "小川哲版『グレート・ギャツビー』開幕！\n佐藤究ーー起業という“革命”とその“裏側”。あまりに、強烈に小川哲的。\n白川尚史ーー起業したあの日の昂揚。ジェットコースターのような狂騒。うなる大金。勝者と敗者。全力で駆け抜けた青春が詰まっていた。この小説に投資したい！\n日野瑛太郎ーーシェアオフィスの片隅で一攫千金を夢見ていた、あの頃の記憶が蘇った。\n逢坂冬馬ーー圧倒的面白さに脳を灼かれる500ページ。\n宮島未奈ーー最後の台詞をドヤ顔で真似する会をやりたいです。\n「世界一のお金持ちになりたい」君と「ひとり研究を重ねる」僕が再会して、\n進み始めた時計の針。\n光合成をするコンクリートを武器に、起業することを決めたふたり。\n仲間を集め、資金を集め、注目を集め、\n10年以内に世界一を目指す。\n「二十六歳のとき、スティーブ・ジョブズはアップルを上場させて二億五千万ドルの個人資産を持ってたし、アインシュタインは特殊相対性理論を発見してた」「私がシュートに賭けるの」\n世界一の金持ちを夢見るキャピタリストの卵・桐田奈南に「作戦会議をしよう」と呼び出された倉敷秀斗。彼の研究をいかし、光合成をするコンクリートを開発するため、フランス語で「時計」を意味する「オルロージュ」を起業したふたり。プレゼンの巧い経営者、広報に精通したキャリアを仲間に入れ、出資を集め、事業は軌道に乗り始める。しかし、企業価値が膨れ上がるにつれて、なぜか桐田奈南以外の初期社員が姿を消していくーー。\n",
+      "salesDate": "2026年09月29日",
+      "series": "オルロージュ",
+      "reviewAverage": 5,
+      "reviewCount": 1,
+      "genreId": "101901/101902",
+      "isbn": "4310000936567",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "オルロージュ",
+        "author": "",
+        "isbn": "",
+        "score": 158,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 22
+          }
+        ],
+        "source": "combined",
+        "rank": 61
+      },
+      "ranking": {
+        "title": "オルロージュ",
+        "author": "",
+        "isbn": "",
+        "score": 158,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 22
+          }
+        ],
+        "source": "combined",
+        "rank": 28
+      }
+    },
+    {
       "id": "8918131729911",
       "title": "ふつつかな悪女ではございますが: 13　〜雛宮蝶鼠とりかえ伝〜【特典SS付】",
       "author": "中村颯希",
@@ -1611,81 +1652,81 @@
       "isbn": "8918131729911",
       "salesType": 0,
       "matchMeta": {
-        "title": "ふつつかな悪女ではございますが 〈１３〉 - 雛宮蝶鼠とりかえ伝 一迅社ノベルス",
+        "title": "ふつつかな悪女ではございますが 〈13〉 - 雛宮蝶鼠とりかえ伝 一迅社ノベルス",
         "author": "",
-        "isbn": "",
-        "score": 158,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 22
-          }
-        ],
-        "source": "combined",
-        "rank": 62
-      },
-      "ranking": {
-        "title": "ふつつかな悪女ではございますが 〈１３〉 - 雛宮蝶鼠とりかえ伝 一迅社ノベルス",
-        "author": "",
-        "isbn": "",
-        "score": 158,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 22
-          }
-        ],
-        "source": "combined",
-        "rank": 28
-      }
-    },
-    {
-      "id": "4340008067611",
-      "title": "幽冥の岸　十二国記（新潮文庫）",
-      "author": "小野不由美",
-      "publisher": "新潮社",
-      "price": 825,
-      "url": "https://books.rakuten.co.jp/rk/7e370e5630af35e8a1d65d7b3e153066/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7863/2000021417863.jpg?_ex=600x600",
-      "caption": "「生きる」ーーその理（ことわり）を知るは唯一。琅燦（ろうさん）は、黄海に暮らす娘。戴国（たいこく）から訪れた男は、妖獣を狩ることを生業（なりわい）とする民の逞しさを知る。琅燦にとっては、男が語る国や政（まつりごと）が標（しるべ）となるーー運命の邂逅（であい）を描く「異邦の客」。神獣たる麒麟は血の穢れを受けてはならぬもの。義をもってのこととて、人を殺めた泰麒（たいき）に生きる道は赦されぬのかーー表題作「幽冥の岸」ほか、命と対峙し、生きる意味を問う４編。（解説・朝宮運河）\n",
-      "salesDate": "2026年12月11日",
-      "series": "十二国記",
-      "reviewAverage": 4.75,
-      "reviewCount": 71,
-      "genreId": "101901",
-      "isbn": "4340008067611",
-      "salesType": 1,
-      "matchMeta": {
-        "title": "幽冥の岸 十二国記",
-        "author": "小野不由美",
         "score": 18,
         "sources": [
           {
-            "source": "amazon",
-            "label": "Amazon",
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
             "rank": 23
           }
         ],
         "source": "combined",
-        "rank": 64,
-        "originalTitle": "幽冥の岸 十二国記 (新潮文庫 お 37-66)"
+        "rank": 62,
+        "originalTitle": "ふつつかな悪女ではございますが 〈１３〉 - 雛宮蝶鼠とりかえ伝 一迅社ノベルス"
       },
       "ranking": {
-        "title": "幽冥の岸 十二国記 (新潮文庫 お 37-66)",
-        "author": "小野不由美",
+        "title": "ふつつかな悪女ではございますが 〈１３〉 - 雛宮蝶鼠とりかえ伝 一迅社ノベルス",
+        "author": "",
         "isbn": "",
         "score": 157,
         "sources": [
           {
-            "source": "amazon",
-            "label": "Amazon",
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
             "rank": 23
           }
         ],
         "source": "combined",
         "rank": 29
+      }
+    },
+    {
+      "id": "4310000779045",
+      "title": "汝、星のごとく（３）",
+      "author": "凪良ゆう/古里こう",
+      "publisher": "講談社",
+      "price": 792,
+      "url": "https://books.rakuten.co.jp/rk/53b069e006973118af2e818a16801db0/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2574/2000019452574.jpg?_ex=600x600",
+      "caption": "「わたしは愛する男のために人生を誤りたい」\n毎月、借金の返済として暁海が櫂に送る四万円。\nふたりをつなぐものがそれだけになっても、\n互いを想う気持ちは消えないまま…。\nそれぞれを取り巻く環境に縛られ、\n自らの人生を生きる難しさに打ちのめされそうになる中、\n暁海は北原先生から「ぼくと結婚しませんか」と提案されてーー。\n「まともな人間なんてものは幻想だ」\n生きることの自由さと不自由さを描き続けてきた\n凪良ゆう最高傑作、待望のコミカライズ最終巻。\n",
+      "salesDate": "2026年01月13日",
+      "series": "汝、星のごとく",
+      "reviewAverage": 5,
+      "reviewCount": 4,
+      "genreId": "101904011005",
+      "isbn": "4310000779045",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "汝、星のごとく",
+        "author": "凪良 ゆう",
+        "score": 14,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 24
+          }
+        ],
+        "source": "combined",
+        "rank": 65,
+        "originalTitle": "汝、星のごとく (講談社文庫 な 101-1)"
+      },
+      "ranking": {
+        "title": "汝、星のごとく (講談社文庫 な 101-1)",
+        "author": "凪良 ゆう",
+        "isbn": "",
+        "score": 156,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 24
+          }
+        ],
+        "source": "combined",
+        "rank": 30
       }
     },
     {
@@ -1707,100 +1748,6 @@
       "matchMeta": {
         "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
         "author": "",
-        "score": 14,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 24
-          }
-        ],
-        "source": "combined",
-        "rank": 65,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
-        "author": "",
-        "isbn": "",
-        "score": 156,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 24
-          }
-        ],
-        "source": "combined",
-        "rank": 30
-      }
-    },
-    {
-      "id": "4310000935726",
-      "title": "ぐらんぶる（２７）",
-      "author": "井上堅二/吉岡公威",
-      "publisher": "講談社",
-      "price": 869,
-      "url": "https://books.rakuten.co.jp/rk/2ee1ec2b57f5309e83f8e0fee14ecd35/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8248/2000021868248.jpg?_ex=600x600",
-      "caption": "いただきもののアシカ肉を使った鍋パーティー開催！ アシカ肉の催淫効果によって、耕平、千紗、愛菜がそれぞれ変になり、彼ら以外も被害者が続出。悪い食べ合わせにより千紗が病院に運ばれる中、一人正気を保っていた伊織は、千紗を救うために立ち上がる。全裸系青春ダイビングコメディ、波乱が波乱を巻き起こす27巻！\n",
-      "salesDate": "2026年10月07日",
-      "series": "ぐらんぶる",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904",
-      "isbn": "4310000935726",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ぐらんぶる(27) (アフタヌーンKC)",
-        "author": "井上 堅二",
-        "score": 14,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 24
-          }
-        ],
-        "source": "combined",
-        "rank": 66,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "ぐらんぶる(27) (アフタヌーンKC)",
-        "author": "井上 堅二",
-        "isbn": "",
-        "score": 156,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 24
-          }
-        ],
-        "source": "combined",
-        "rank": 31
-      }
-    },
-    {
-      "id": "4310000936567",
-      "title": "オルロージュ",
-      "author": "小川哲",
-      "publisher": "講談社",
-      "price": 2585,
-      "url": "https://books.rakuten.co.jp/rk/945397c193ef33d9b83cdcffae695e94/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1501/2000021871501.jpg?_ex=600x600",
-      "caption": "小川哲版『グレート・ギャツビー』開幕！\n佐藤究ーー起業という“革命”とその“裏側”。あまりに、強烈に小川哲的。\n白川尚史ーー起業したあの日の昂揚。ジェットコースターのような狂騒。うなる大金。勝者と敗者。全力で駆け抜けた青春が詰まっていた。この小説に投資したい！\n日野瑛太郎ーーシェアオフィスの片隅で一攫千金を夢見ていた、あの頃の記憶が蘇った。\n逢坂冬馬ーー圧倒的面白さに脳を灼かれる500ページ。\n宮島未奈ーー最後の台詞をドヤ顔で真似する会をやりたいです。\n「世界一のお金持ちになりたい」君と「ひとり研究を重ねる」僕が再会して、\n進み始めた時計の針。\n光合成をするコンクリートを武器に、起業することを決めたふたり。\n仲間を集め、資金を集め、注目を集め、\n10年以内に世界一を目指す。\n「二十六歳のとき、スティーブ・ジョブズはアップルを上場させて二億五千万ドルの個人資産を持ってたし、アインシュタインは特殊相対性理論を発見してた」「私がシュートに賭けるの」\n世界一の金持ちを夢見るキャピタリストの卵・桐田奈南に「作戦会議をしよう」と呼び出された倉敷秀斗。彼の研究をいかし、光合成をするコンクリートを開発するため、フランス語で「時計」を意味する「オルロージュ」を起業したふたり。プレゼンの巧い経営者、広報に精通したキャリアを仲間に入れ、出資を集め、事業は軌道に乗り始める。しかし、企業価値が膨れ上がるにつれて、なぜか桐田奈南以外の初期社員が姿を消していくーー。\n",
-      "salesDate": "2026年09月29日",
-      "series": "オルロージュ",
-      "reviewAverage": 5,
-      "reviewCount": 1,
-      "genreId": "101901/101902",
-      "isbn": "4310000936567",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "オルロージュ",
-        "author": "",
         "score": 10,
         "sources": [
           {
@@ -1810,11 +1757,11 @@
           }
         ],
         "source": "combined",
-        "rank": 67,
+        "rank": 66,
         "originalTitle": ""
       },
       "ranking": {
-        "title": "オルロージュ",
+        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
         "author": "",
         "isbn": "",
         "score": 155,
@@ -1826,50 +1773,97 @@
           }
         ],
         "source": "combined",
+        "rank": 31
+      }
+    },
+    {
+      "id": "4310000934303",
+      "title": "１日外出録ハンチョウ（２３）",
+      "author": "上原求/新井和也/萩原天晴/福本伸行",
+      "publisher": "講談社",
+      "price": 792,
+      "url": "https://books.rakuten.co.jp/rk/8f6c6e5f12a43394b41faf7ef7299921/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0976/2000021820976.jpg?_ex=600x600",
+      "caption": "地下深く‥‥厳しい環境に存在する強制労働施設‥‥\n帝愛の支配下にありながら‥‥悠々自適に生活する男‥‥\n休みを楽しむファンタジスタ‥‥E班班長の大槻‥‥！\n道草をするように‥‥巨大な書店でのんびり本を探したり‥‥\nマンションの屋上で‥‥しいたけBBQを楽しむ日があれば‥‥\n遭難と隣り合わせの‥‥ドキドキな登山に恐怖を感じ‥‥\nそばかうどんか‥どちらが美味いか‥真剣に語り合う時もある‥！\n穏やかな解放か‥‥激動の地下か‥‥!?\n緩と急を使い分け‥‥人生の全てを喰らい尽くす‥‥！\n愉悦的スピンオフ第23巻‥‥！\n",
+      "salesDate": "2026年10月06日",
+      "series": "１日外出録ハンチョウ",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904002003",
+      "isbn": "4310000934303",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "1日外出録ハンチョウ(23) (ヤングマガジンKC)",
+        "author": "上原 求",
+        "score": 10,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 25
+          }
+        ],
+        "source": "combined",
+        "rank": 67,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "1日外出録ハンチョウ(23) (ヤングマガジンKC)",
+        "author": "上原 求",
+        "isbn": "",
+        "score": 155,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 25
+          }
+        ],
+        "source": "combined",
         "rank": 32
       }
     },
     {
-      "id": "6681317745260",
-      "title": "anan No.2514 Special Edition",
-      "author": "anan編集部",
+      "id": "6681317556160",
+      "title": "BRUTUS (ブルータス) 2026年 10月15日号 No.1063 [犬と、暮らせば。]",
+      "author": "BRUTUS編集部",
       "publisher": "マガジンハウス",
-      "price": 880,
-      "url": "https://books.rakuten.co.jp/rk/e7b4a8d256cd3ae1be86ae1ec5c93bf7/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0747/2000021990747.jpg?_ex=600x600",
-      "caption": "※『anan No.2514』『anan No.2514増刊』『anan No.2514 Special Edition』は表紙・一部内容が異なります。\n※『anan No.2514増刊』のみ裏表紙も異なります。\n※電子版では、紙の雑誌と内容が一部異なる場合や、掲載されないページや特別付録が含まれない場合がございます。\n※本雑誌はカラーページを含みます。お使いの端末によっては、一部読みづらい場合がございます。\nK（&TEAM） 王子の甘美なご自愛。feat. 小田切ヒロ\n最上の愛とご褒美を。上質なご自愛。\n上坂あゆ美・鵜飼ヨシキが考える 現代における、上質なご自愛論。\n何も考えない、没頭時間。編み物で、自分と向き合う。\n暮らしに彩りを添えて。頑張る自分に贈りたい、お花の処方箋。\nとろける、なめらか 目もよろこぶ、ご馳走パフェ。\nいつでもどこでも、ふわふわ&もこもこチャージ! スターバックス「パンプキン スープチーノ(R)」で、#ご自愛スープ。\n一日の終わりに、癒しの時間を。感触を愛でるスキンケア。\n自分らしさを表現する、大人の世界へ。ご褒美ジュエリーを迎えよう。\n上質な空間で自分だけの特別な時間を。ソロご自愛スポット\nMrs. GREEN APPLE 無垢と諦念。\n“テニプリ”と生きた時代を愛するすべての仲間に贈る物語。『新テニスの王子様 U-17 WORLD CUP 決勝メンバー決定戦』\n移動すること自体を楽しむ。週末船旅のススメ。\n仕事帰りに立ち寄れる、心をほぐす夜の寄り道案内。\n中島健人のKENTREND 番外編 #SB19\n",
-      "salesDate": "2026年10月07日",
-      "series": "anan",
+      "price": 1100,
+      "url": "https://books.rakuten.co.jp/rk/ea4443cd315439abbcc8561b41d17e62/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4273/2000021924273.jpg?_ex=600x600",
+      "caption": "※電子版では、紙の雑誌と内容が一部異なる場合や、掲載されないページや特別付録が含まれない場合がございます。\n※本雑誌はカラーページを含みます。お使いの端末によっては、一部読みづらい場合がございます。\n犬と暮らすのは、けっこう大変だ。\n毎日の散歩にしつけ、食事や健康のこと。時間も手間もかかる。\nそれでも犬を迎えると、不思議なくらい暮らしは変わっていく。\n家族の会話が増え、散歩に出れば知らなかった街の景色や人に出会う。\n犬と行ける店も、泊まれる宿も、遊べる場所もずいぶん増えた。\n犬のために始めたことが、いつの間に か自分たちの楽しみになっている。\n犬と暮らすとは、ただ生活に犬が加わることではない。\n犬がいることで、私たちの暮らしそのものが少しずつ形を変えていくことなのだ。\n犬との関係から、今の暮らしを考えてみよう。\n",
+      "salesDate": "2026年10月01日",
+      "series": "BRUTUS",
       "reviewAverage": 0,
       "reviewCount": 0,
-      "genreId": "101950020",
-      "isbn": "6681317745260",
+      "genreId": "101950013",
+      "isbn": "6681317556160",
       "salesType": 0,
       "matchMeta": {
-        "title": "anan No.2514 Special Edition[上質なご自愛/K] (MAGAZINE HOUSE MOOK)",
-        "author": "anan編集部",
-        "score": 5,
+        "title": "BRUTUS(ブルータス) 2026年10月15日号 No.1063[犬と、暮らせば。]",
+        "author": "BRUTUS編集部",
+        "score": 6,
         "sources": [
           {
             "source": "amazon",
             "label": "Amazon",
-            "rank": 27
+            "rank": 26
           }
         ],
         "source": "combined",
-        "rank": 75,
-        "originalTitle": "anan No.2514 Special Edition[上質なご自愛／K] (MAGAZINE HOUSE MOOK)"
+        "rank": 69,
+        "originalTitle": ""
       },
       "ranking": {
-        "title": "anan No.2514 Special Edition[上質なご自愛／K] (MAGAZINE HOUSE MOOK)",
-        "author": "anan編集部",
+        "title": "BRUTUS(ブルータス) 2026年10月15日号 No.1063[犬と、暮らせば。]",
+        "author": "BRUTUS編集部",
         "isbn": "",
-        "score": 153,
+        "score": 154,
         "sources": [
           {
             "source": "amazon",
             "label": "Amazon",
-            "rank": 27
+            "rank": 26
           }
         ],
         "source": "combined",
@@ -1895,7 +1889,8 @@
       "matchMeta": {
         "title": "なぜ日本が世界に必要なのか 文春新書",
         "author": "",
-        "score": 5,
+        "isbn": "",
+        "score": 152,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1904,8 +1899,7 @@
           }
         ],
         "source": "combined",
-        "rank": 72,
-        "originalTitle": ""
+        "rank": 73
       },
       "ranking": {
         "title": "なぜ日本が世界に必要なのか 文春新書",
@@ -1921,53 +1915,6 @@
         ],
         "source": "combined",
         "rank": 34
-      }
-    },
-    {
-      "id": "4972000167736",
-      "title": "アオのハコ 27",
-      "author": "三浦糀",
-      "publisher": "集英社",
-      "price": 572,
-      "url": "https://books.rakuten.co.jp/rk/cdc216b0aa7b3ec188fb4ec9890f028c/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8618/2000021668618.jpg?_ex=600x600",
-      "caption": "練習に明け暮れる大喜を付き合う前以来の水族館デートに誘う千夏。久々に訪れたのには何か理由があるようで…!?　県予選を勝ち進んだ大喜は後輩・晴人と戦うことに！　予選一位でのインターハイ進出を目指す大喜と、兄への下克上を狙う晴人。先で待つ柊仁を見据えた二人の負けられない試合が始まるーー!!\n",
-      "salesDate": "2026年10月02日",
-      "series": "アオのハコ",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904001007",
-      "isbn": "4972000167736",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "アオのハコ 27",
-        "author": "三浦 糀",
-        "score": 5,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 29
-          }
-        ],
-        "source": "combined",
-        "rank": 77,
-        "originalTitle": "アオのハコ 27 (ジャンプコミックス)"
-      },
-      "ranking": {
-        "title": "アオのハコ 27 (ジャンプコミックス)",
-        "author": "三浦 糀",
-        "isbn": "",
-        "score": 151,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 29
-          }
-        ],
-        "source": "combined",
-        "rank": 35
       }
     },
     {
@@ -2013,7 +1960,7 @@
           }
         ],
         "source": "combined",
-        "rank": 36,
+        "rank": 35,
         "originalTitle": ""
       }
     },
@@ -2060,7 +2007,7 @@
           }
         ],
         "source": "combined",
-        "rank": 37,
+        "rank": 36,
         "originalTitle": ""
       }
     }
@@ -2068,20 +2015,18 @@
   "byGenre": {
     "fiction": [
       "4660629612104",
-      "4916475490001",
-      "4910000909001",
-      "4380000408000",
       "4320000935695",
+      "4916475490001",
+      "4380000408000",
+      "4910000909001",
       "4390000005636",
-      "6681316771710",
       "4320000935691",
-      "4340008067611",
       "4310000936567",
       "4480000838415"
     ],
     "mystery": [
-      "4916475490001",
       "4320000935695",
+      "4916475490001",
       "4390000005636",
       "4620000615075",
       "4620000615076",
@@ -2095,7 +2040,6 @@
     "humanities": [
       "4380000407898",
       "4310000701877",
-      "6681316771710",
       "4380000408012",
       "4390000014247",
       "4390000016508"
@@ -2111,10 +2055,13 @@
     "life": [
       "4380000407898",
       "4910000924316",
+      "4410000009695",
       "4910000924303",
       "4910000924301"
     ],
-    "health": [],
+    "health": [
+      "4410000009695"
+    ],
     "hobby": [],
     "travel": [
       "4310000936589"
@@ -2130,16 +2077,16 @@
     "comic": [
       "4972000167723",
       "4310000937174",
-      "4972000167754",
-      "4310000779045",
-      "4320000937482",
+      "4310000937173",
       "4310000935726",
-      "4972000167736"
+      "4320000937482",
+      "4310000779045",
+      "4310000934303"
     ]
   },
   "genreStatus": {
     "fiction": {
-      "matched": 11,
+      "matched": 9,
       "complete": true
     },
     "mystery": {
@@ -2155,7 +2102,7 @@
       "complete": true
     },
     "humanities": {
-      "matched": 6,
+      "matched": 5,
       "complete": true
     },
     "nonfiction": {
@@ -2171,11 +2118,11 @@
       "complete": true
     },
     "life": {
-      "matched": 4,
+      "matched": 5,
       "complete": true
     },
     "health": {
-      "matched": 0,
+      "matched": 1,
       "complete": true
     },
     "hobby": {

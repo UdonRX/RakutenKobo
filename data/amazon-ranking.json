@@ -4,7 +4,7 @@
   "attribution": "Amazon.co.jp",
   "sourceUrl": "https://www.amazon.co.jp/gp/bestsellers/books",
   "periodLabel": "現在のベストセラー",
-  "updatedAt": "2026-10-07T00:42:12.887Z",
+  "updatedAt": "2026-10-08T01:05:55.954Z",
   "live": false,
   "items": [
     {
@@ -16,10 +16,10 @@
     },
     {
       "rank": 2,
-      "title": "anan(アンアン)2026/10/21号 No.2515[思考力の高め方／阿部亮平]",
-      "author": "anan編集部",
-      "asin": "B0HGKTDJRL",
-      "url": "https://www.amazon.co.jp/dp/B0HGKTDJRL"
+      "title": "転生したらスライムだった件(33) (シリウスKC)",
+      "author": "川上 泰樹",
+      "asin": "4065451191",
+      "url": "https://www.amazon.co.jp/dp/4065451191"
     },
     {
       "rank": 3,
@@ -30,17 +30,17 @@
     },
     {
       "rank": 4,
+      "title": "anan(アンアン)2026/10/21号 No.2515[思考力の高め方／阿部亮平]",
+      "author": "anan編集部",
+      "asin": "B0HGKTDJRL",
+      "url": "https://www.amazon.co.jp/dp/B0HGKTDJRL"
+    },
+    {
+      "rank": 5,
       "title": "ワールドトリガー 30 (ジャンプコミックス)",
       "author": "葦原 大介",
       "asin": "4088851501",
       "url": "https://www.amazon.co.jp/dp/4088851501"
-    },
-    {
-      "rank": 5,
-      "title": "転生したらスライムだった件(33) (シリウスKC)",
-      "author": "川上 泰樹",
-      "asin": "4065451191",
-      "url": "https://www.amazon.co.jp/dp/4065451191"
     },
     {
       "rank": 6,
@@ -58,80 +58,80 @@
     },
     {
       "rank": 8,
-      "title": "NYLON JAPAN(ナイロン ジャパン) 2026年 12月号 [雑誌] 【表紙：ジェノ＆ジェミン（NCT DREAM） / guys表紙：リョウガ（超特急）】",
-      "author": "NYLON JAPAN",
-      "asin": "B0HKZMSB3X",
-      "url": "https://www.amazon.co.jp/dp/B0HKZMSB3X"
-    },
-    {
-      "rank": 9,
-      "title": "ADHDの母が伝えたい 生きづらい女の子が覚えておきたいこと",
-      "author": "なちゅ。",
-      "asin": "4478119023",
-      "url": "https://www.amazon.co.jp/dp/4478119023"
-    },
-    {
-      "rank": 10,
-      "title": "NHK3か月でマスターする 心理学 10月号 (おとなの学びシリーズ)",
-      "author": "渡辺 弥生",
-      "asin": "4142289209",
-      "url": "https://www.amazon.co.jp/dp/4142289209"
-    },
-    {
-      "rank": 11,
-      "title": "ディズニー大人のぬり絵コレ全国版-創刊-(1) 2026年 10/7 号 [雑誌]",
-      "author": "",
-      "asin": "B0HJ6HBWWC",
-      "url": "https://www.amazon.co.jp/dp/B0HJ6HBWWC"
-    },
-    {
-      "rank": 12,
-      "title": "MOE (モエ) 2026年11月号 [雑誌]（特別ふろく ムーミンダイアリー2027 ｜ とじこみふろく スナフキンシール｜ 巻頭特集 憧れの生き方を学ぶ 気ままにスナフキン）",
-      "author": "トーベ・ヤンソン",
-      "asin": "B0HFM22XBF",
-      "url": "https://www.amazon.co.jp/dp/B0HFM22XBF"
-    },
-    {
-      "rank": 13,
-      "title": "sweet（スウィート）2026年11月号【表紙：山中柔太朗】",
-      "author": "宝島社",
-      "asin": "B0HGR5RPV9",
-      "url": "https://www.amazon.co.jp/dp/B0HGR5RPV9"
-    },
-    {
-      "rank": 14,
-      "title": "ダ・ヴィンチ 2026年11月号",
-      "author": "",
-      "asin": "B0HDBFFTW7",
-      "url": "https://www.amazon.co.jp/dp/B0HDBFFTW7"
-    },
-    {
-      "rank": 15,
       "title": "ぐらんぶる(27) (アフタヌーンKC)",
       "author": "井上 堅二",
       "asin": "4065450969",
       "url": "https://www.amazon.co.jp/dp/4065450969"
     },
     {
+      "rank": 9,
+      "title": "NHK3か月でマスターする 心理学 10月号 (おとなの学びシリーズ)",
+      "author": "渡辺 弥生",
+      "asin": "4142289209",
+      "url": "https://www.amazon.co.jp/dp/4142289209"
+    },
+    {
+      "rank": 10,
+      "title": "ダ・ヴィンチ 2026年11月号",
+      "author": "",
+      "asin": "B0HDBFFTW7",
+      "url": "https://www.amazon.co.jp/dp/B0HDBFFTW7"
+    },
+    {
+      "rank": 11,
+      "title": "そして誰もゆとらなくなった (文春文庫 あ 68-5)",
+      "author": "朝井 リョウ",
+      "asin": "4167923866",
+      "url": "https://www.amazon.co.jp/dp/4167923866"
+    },
+    {
+      "rank": 12,
+      "title": "ADHDの母が伝えたい 生きづらい女の子が覚えておきたいこと",
+      "author": "なちゅ。",
+      "asin": "4478119023",
+      "url": "https://www.amazon.co.jp/dp/4478119023"
+    },
+    {
+      "rank": 13,
+      "title": "ディズニー大人のぬり絵コレ全国版-創刊-(1) 2026年 10/7 号 [雑誌]",
+      "author": "",
+      "asin": "B0HJ6HBWWC",
+      "url": "https://www.amazon.co.jp/dp/B0HJ6HBWWC"
+    },
+    {
+      "rank": 14,
+      "title": "NYLON JAPAN(ナイロン ジャパン) 2026年 12月号 [雑誌] 【表紙：ジェノ＆ジェミン（NCT DREAM） / guys表紙：リョウガ（超特急）】",
+      "author": "NYLON JAPAN",
+      "asin": "B0HKZMSB3X",
+      "url": "https://www.amazon.co.jp/dp/B0HKZMSB3X"
+    },
+    {
+      "rank": 15,
+      "title": "大人のおしゃれ手帖2026年12月号",
+      "author": "宝島社",
+      "asin": "B0HKW759N2",
+      "url": "https://www.amazon.co.jp/dp/B0HKW759N2"
+    },
+    {
       "rank": 16,
-      "title": "【Amazon.co.jp 限定】別冊カドカワ総力特集 SUPER BEAVER （Amazon限定ステッカー付き）",
-      "author": "KADOKAWA",
-      "asin": "B0HHMVY9SP",
-      "url": "https://www.amazon.co.jp/dp/B0HHMVY9SP"
+      "title": "魔入りました!入間くん 51 (51) (少年チャンピオンコミックス)",
+      "author": "西修",
+      "asin": "B0GWNYBG9D",
+      "url": "https://www.amazon.co.jp/dp/B0GWNYBG9D"
     },
     {
       "rank": 17,
-      "title": "音楽と人 2026年 11 月号 【表紙: Mrs. GREEN APPLE／バックカバー:go!go!vanillas】 [雑誌]",
-      "author": "音楽と人",
-      "asin": "B0HGWTD6PP",
-      "url": "https://www.amazon.co.jp/dp/B0HGWTD6PP"
+      "title": "MOE (モエ) 2026年11月号 [雑誌]（特別ふろく ムーミンダイアリー2027 ｜ とじこみふろく スナフキンシール｜ 巻頭特集 憧れの生き方を学ぶ 気ままにスナフキン）",
+      "author": "トーベ・ヤンソン",
+      "asin": "B0HFM22XBF",
+      "url": "https://www.amazon.co.jp/dp/B0HFM22XBF"
     },
     {
       "rank": 18,
-      "title": "ニュータイプ 2026年11月号",
-      "author": "",
-      "asin": "B0HGLBCMFX",
-      "url": "https://www.amazon.co.jp/dp/B0HGLBCMFX"
+      "title": "anan No.2514 Special Edition[上質なご自愛／K] (MAGAZINE HOUSE MOOK)",
+      "author": "anan編集部",
+      "asin": "4838758391",
+      "url": "https://www.amazon.co.jp/dp/4838758391"
     },
     {
       "rank": 19,
@@ -142,80 +142,80 @@
     },
     {
       "rank": 20,
-      "title": "F.S.S. EPISODES of 40th MEMORIAL",
-      "author": "永野 護",
-      "asin": "4041178304",
-      "url": "https://www.amazon.co.jp/dp/4041178304"
+      "title": "週刊ファミ通 2026年10月22日号 No.1966",
+      "author": "週刊ファミ通編集部",
+      "asin": "B0HK6PWVF4",
+      "url": "https://www.amazon.co.jp/dp/B0HK6PWVF4"
     },
     {
       "rank": 21,
-      "title": "名探偵コナン (109) (少年サンデーコミックス)",
-      "author": "青山 剛昌",
-      "asin": "4098548550",
-      "url": "https://www.amazon.co.jp/dp/4098548550"
+      "title": "日経ウーマン2026年11月号【表紙:広瀬すず】",
+      "author": "日経ウーマン",
+      "asin": "B0HGLG1TX8",
+      "url": "https://www.amazon.co.jp/dp/B0HGLG1TX8"
     },
     {
       "rank": 22,
+      "title": "音楽と人 2026年 11 月号 【表紙: Mrs. GREEN APPLE／バックカバー:go!go!vanillas】 [雑誌]",
+      "author": "音楽と人",
+      "asin": "B0HGWTD6PP",
+      "url": "https://www.amazon.co.jp/dp/B0HGWTD6PP"
+    },
+    {
+      "rank": 23,
       "title": "命の燃やし方",
       "author": "鈴木 大飛",
       "asin": "4065405203",
       "url": "https://www.amazon.co.jp/dp/4065405203"
     },
     {
-      "rank": 23,
-      "title": "mini（ミニ）2026年11月号増刊【表紙：塩﨑太智（M!LK）】",
-      "author": "宝島社",
-      "asin": "B0HGRFQ88M",
-      "url": "https://www.amazon.co.jp/dp/B0HGRFQ88M"
+      "rank": 24,
+      "title": "Depth（デプス） EDITION 15 (SHINKO MUSIC MOOK)",
+      "author": "B-PASS編集部",
+      "asin": "4401657713",
+      "url": "https://www.amazon.co.jp/dp/4401657713"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "title": "汝、星のごとく (講談社文庫 な 101-1)",
       "author": "凪良 ゆう",
       "asin": "4065401887",
       "url": "https://www.amazon.co.jp/dp/4065401887"
     },
     {
-      "rank": 25,
+      "rank": 26,
+      "title": "名探偵コナン (109) (少年サンデーコミックス)",
+      "author": "青山 剛昌",
+      "asin": "4098548550",
+      "url": "https://www.amazon.co.jp/dp/4098548550"
+    },
+    {
+      "rank": 27,
       "title": "1日外出録ハンチョウ(23) (ヤングマガジンKC)",
       "author": "上原 求",
       "asin": "B0GS7C5C7M",
       "url": "https://www.amazon.co.jp/dp/B0GS7C5C7M"
     },
     {
-      "rank": 26,
-      "title": "BRUTUS(ブルータス) 2026年10月15日号 No.1063[犬と、暮らせば。]",
-      "author": "BRUTUS編集部",
-      "asin": "B0HJ5KPBX5",
-      "url": "https://www.amazon.co.jp/dp/B0HJ5KPBX5"
-    },
-    {
-      "rank": 27,
-      "title": "美的スペシャル12月号",
-      "author": "小学館",
-      "asin": "B0HJW28N38",
-      "url": "https://www.amazon.co.jp/dp/B0HJW28N38"
-    },
-    {
       "rank": 28,
-      "title": "愛されるプリンセス 愛子さまカレンダー2027 ([カレンダー])",
-      "author": "主婦と生活社",
-      "asin": "4391169606",
-      "url": "https://www.amazon.co.jp/dp/4391169606"
+      "title": "sweet（スウィート）2026年11月号【表紙：山中柔太朗】",
+      "author": "宝島社",
+      "asin": "B0HGR5RPV9",
+      "url": "https://www.amazon.co.jp/dp/B0HGR5RPV9"
     },
     {
       "rank": 29,
-      "title": "anan(アンアン)2026/10/21号 No.2515増刊 スペシャルエディション[思考力の高め方／QuizKnock]",
-      "author": "anan編集部",
-      "asin": "B0HGKTGFP3",
-      "url": "https://www.amazon.co.jp/dp/B0HGKTGFP3"
+      "title": "オレンジページ 2026年 12/2号増刊「リバーシブルで使える！ Pasco「超熟」ふわふわ食パンバッグ」",
+      "author": "オレンジページ",
+      "asin": "B0HHDR49LT",
+      "url": "https://www.amazon.co.jp/dp/B0HHDR49LT"
     },
     {
       "rank": 30,
-      "title": "週刊ファミ通 2026年10月22日号 No.1966",
-      "author": "週刊ファミ通編集部",
-      "asin": "B0HK6PWVF4",
-      "url": "https://www.amazon.co.jp/dp/B0HK6PWVF4"
+      "title": "anan(アンアン)2026/10/14号 No.2514[上質なご自愛。／Mrs. GREEN APPLE]",
+      "author": "anan編集部",
+      "asin": "B0HGFBPDW3",
+      "url": "https://www.amazon.co.jp/dp/B0HGFBPDW3"
     }
   ]
 }

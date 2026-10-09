@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "year",
-  "updatedAt": "2026-10-08T23:41:28.603Z",
+  "updatedAt": "2026-10-09T06:53:46.861Z",
   "candidateCount": 13,
-  "baseMatched": 6,
+  "baseMatched": 7,
   "matched": 8,
-  "addedMatches": 2,
+  "addedMatches": 1,
   "unavailable": [],
   "snapshots": {
     "tohan": {
@@ -17,7 +17,7 @@
       "attribution": "トーハン調べ",
       "sourceUrl": "https://www.tohan.jp/bestsellers/2026_firsthalf_total/",
       "periodLabel": "年次",
-      "updatedAt": "2026-10-08",
+      "updatedAt": "2026-10-09",
       "live": true,
       "items": [
         {
@@ -325,9 +325,8 @@
       "salesType": 0,
       "matchMeta": {
         "title": "不滅なるものへの挑戦 霊性の時代を拓くために",
-        "author": "",
-        "isbn": "",
-        "score": 171,
+        "author": "大川隆法",
+        "score": 74,
         "sources": [
           {
             "source": "tohan",
@@ -337,7 +336,7 @@
         ],
         "source": "combined",
         "rank": 9,
-        "originalTitle": "不滅なるものへの挑戦 霊性の時代を拓くために"
+        "originalTitle": ""
       },
       "ranking": {
         "title": "不滅なるものへの挑戦 霊性の時代を拓くために",

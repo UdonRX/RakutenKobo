@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "year",
-  "updatedAt": "2026-10-09T14:01:17.261Z",
+  "updatedAt": "2026-10-09T23:05:43.831Z",
   "candidateCount": 13,
-  "baseMatched": 7,
+  "baseMatched": 6,
   "matched": 9,
-  "addedMatches": 2,
+  "addedMatches": 3,
   "unavailable": [],
   "snapshots": {
     "tohan": {
@@ -95,9 +95,10 @@
       "isbn": "4524815633410",
       "salesType": 0,
       "matchMeta": {
-        "title": "科学的に証明された すごい習慣大百科",
-        "author": "堀田秀吾",
-        "score": 106,
+        "title": "ハーバード、スタンフォード、オックスフォード... 科学的に証明された すごい習慣大百科",
+        "author": "",
+        "isbn": "",
+        "score": 179,
         "sources": [
           {
             "source": "tohan",
@@ -107,7 +108,7 @@
         ],
         "source": "combined",
         "rank": 1,
-        "originalTitle": ""
+        "originalTitle": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科"
       },
       "ranking": {
         "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
@@ -189,9 +190,10 @@
       "isbn": "4660629612104",
       "salesType": 0,
       "matchMeta": {
-        "title": "イン・ザ・メガチャーチ",
-        "author": "朝井リョウ",
-        "score": 98,
+        "title": "イン･ザ･メガチャーチ",
+        "author": "",
+        "isbn": "",
+        "score": 177,
         "sources": [
           {
             "source": "tohan",
@@ -200,8 +202,7 @@
           }
         ],
         "source": "combined",
-        "rank": 3,
-        "originalTitle": ""
+        "rank": 3
       },
       "ranking": {
         "title": "イン･ザ･メガチャーチ",
@@ -331,9 +332,8 @@
       "salesType": 0,
       "matchMeta": {
         "title": "大河の一滴 最終章",
-        "author": "",
-        "isbn": "",
-        "score": 172,
+        "author": "五木寛之",
+        "score": 78,
         "sources": [
           {
             "source": "tohan",
@@ -342,7 +342,8 @@
           }
         ],
         "source": "combined",
-        "rank": 8
+        "rank": 8,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "大河の一滴 最終章",
@@ -483,8 +484,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12,
-        "originalTitle": "FOR OVERSEAS"
+        "rank": 12
       },
       "ranking": {
         "title": "FOR OVERSEAS",

@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-10-09T06:53:28.728Z",
+  "updatedAt": "2026-10-09T14:00:56.741Z",
   "candidateCount": 76,
-  "baseMatched": 31,
-  "matched": 36,
-  "addedMatches": 5,
+  "baseMatched": 26,
+  "matched": 35,
+  "addedMatches": 9,
   "unavailable": [
     "rakuten"
   ],
@@ -294,22 +294,28 @@
       "matchMeta": {
         "title": "パンどろぼうとさすらいラーメン",
         "author": "柴田 ケイコ",
-        "score": 120,
+        "isbn": "",
+        "score": 514,
         "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 23
+          },
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
             "rank": 2
           },
           {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 23
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 1
           }
         ],
         "source": "combined",
-        "rank": 3,
-        "originalTitle": ""
+        "rank": 2,
+        "originalTitle": "パンどろぼうとさすらいラーメン"
       },
       "ranking": {
         "title": "パンどろぼうとさすらいラーメン",
@@ -546,53 +552,6 @@
       }
     },
     {
-      "id": "4340008067051",
-      "title": "プレゼント（新潮文庫）",
-      "author": "伊坂幸太郎/江國香織/恩田陸/梨木香歩/町田そのこ/宮部みゆき/米澤穂信",
-      "publisher": "新潮社",
-      "price": 825,
-      "url": "https://books.rakuten.co.jp/rk/e8a60fd88eb63075a76e50e52cf98712/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8962/2000020598962.jpg?_ex=600x600",
-      "caption": "これはこれまで小説を愛してきてくれた人へ、そしてこれから小説の世界に一歩踏み出す人へ贈るプレゼント。何気なく読んだ物語が、ふと目にした一行が、意外な言葉ひとつが、人生を大きく変えるかもしれない。現代を代表する７人の作家が「夏」をテーマに書き下ろした、驚きと切なさ、怖さと美しさ、何よりとびきりの面白さを詰め込んだ奇跡の一冊。さぁ、あなたの人生に小説という選択肢を。\n",
-      "salesDate": "2026年06月24日",
-      "series": "",
-      "reviewAverage": 3.87,
-      "reviewCount": 418,
-      "genreId": "101901",
-      "isbn": "4340008067051",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "プレゼント",
-        "author": "伊坂幸太郎",
-        "score": 98,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 3
-          }
-        ],
-        "source": "combined",
-        "rank": 11,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "プレゼント",
-        "author": "伊坂幸太郎",
-        "isbn": "",
-        "score": 177,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 3
-          }
-        ],
-        "source": "combined",
-        "rank": 6
-      }
-    },
-    {
       "id": "4320000935695",
       "title": "探偵小石は戻らない",
       "author": "森バジル",
@@ -632,6 +591,54 @@
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
+            "rank": 3
+          }
+        ],
+        "source": "combined",
+        "rank": 6
+      }
+    },
+    {
+      "id": "4340008067051",
+      "title": "プレゼント（新潮文庫）",
+      "author": "伊坂幸太郎/江國香織/恩田陸/梨木香歩/町田そのこ/宮部みゆき/米澤穂信",
+      "publisher": "新潮社",
+      "price": 825,
+      "url": "https://books.rakuten.co.jp/rk/e8a60fd88eb63075a76e50e52cf98712/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8962/2000020598962.jpg?_ex=600x600",
+      "caption": "これはこれまで小説を愛してきてくれた人へ、そしてこれから小説の世界に一歩踏み出す人へ贈るプレゼント。何気なく読んだ物語が、ふと目にした一行が、意外な言葉ひとつが、人生を大きく変えるかもしれない。現代を代表する７人の作家が「夏」をテーマに書き下ろした、驚きと切なさ、怖さと美しさ、何よりとびきりの面白さを詰め込んだ奇跡の一冊。さぁ、あなたの人生に小説という選択肢を。\n",
+      "salesDate": "2026年06月24日",
+      "series": "",
+      "reviewAverage": 3.87,
+      "reviewCount": 418,
+      "genreId": "101901",
+      "isbn": "4340008067051",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "プレゼント",
+        "author": "伊坂幸太郎",
+        "isbn": "",
+        "score": 177,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 3
+          }
+        ],
+        "source": "combined",
+        "rank": 11,
+        "originalTitle": "プレゼント"
+      },
+      "ranking": {
+        "title": "プレゼント",
+        "author": "伊坂幸太郎",
+        "isbn": "",
+        "score": 177,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
             "rank": 3
           }
         ],
@@ -877,45 +884,45 @@
       }
     },
     {
-      "id": "4390000002253",
-      "title": "時をかけるゆとり",
-      "author": "朝井リョウ",
-      "publisher": "文藝春秋",
-      "price": 601,
-      "url": "https://books.rakuten.co.jp/rk/a66b3ae94327300885736ca70d9b5c5f/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9466/2000002739466.jpg?_ex=600x600",
-      "caption": "就職活動生の群像『何者』で戦後最年少の直木賞受賞者となった著者。初のエッセイ集では天与の観察眼を縦横無尽に駆使し、上京の日々、バイト、夏休み、就活そして社会人生活について綴る。「ゆとり世代」が「ゆとり世代」を見た、切なさとおかしみが炸裂する23編。『学生時代にやらなくてもいい20のこと』に社会人篇を追加・加筆し改題。\n",
-      "salesDate": "2015年01月30日",
+      "id": "4380000408012",
+      "title": "人間の性",
+      "author": "佐藤優",
+      "publisher": "幻冬舎",
+      "price": 1024,
+      "url": "https://books.rakuten.co.jp/rk/662ac08062ba3b408e362d7c0f933abc/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0997/2000021660997.jpg?_ex=600x600",
+      "caption": "正義感を振りかざすと、痛い目に遭う\n人間の“抗えない本質”を理解すれば、ムダな苦労をせずに済む!\n「なぜ悪いやつが成功し、正直者がバカを見るのか?」そう思うことはないだろうか。それは人間の本質が基本的に“悪”であり、社会の構造もそれに基づいて作られているから。そんな悪意に満ちた世の中であっても、人間の根っこにある本性を熟知すれば、余計なストレスを溜め込むことなく、自分なりに満足のゆく人生を送ることは可能だ。本書は外交官として国益に邁進しながらも国策捜査の標的となり、512日間も東京拘置所の独房に収監された著者が、極限の体験、人間観察、そして何千冊もの書物を通して到達した、渾身の人間論である。\n・“悪”の自覚がない善意の人が最も危うい\n・人間は基本的に悪いやつである\n・嫉妬は「正義」の顔をして現れる\n・窮地に陥れば、たやすく裏切ってしまうのが人間\n・人間の愛情や恩義は、利害が絡むとあっけなく断ち切られる\n・なぜ「自分の心に嘘をつく」だけは、絶対にしないほうがいいのか\n・蛇のように賢く、鳩のように素直であれ\n",
+      "salesDate": "2026年09月28日",
       "series": "",
-      "reviewAverage": 4.25,
-      "reviewCount": 1221,
-      "genreId": "101907015",
-      "isbn": "4390000002253",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101907002002",
+      "isbn": "4380000408012",
       "salesType": 0,
       "matchMeta": {
-        "title": "時をかけるゆとり",
-        "author": "朝井 リョウ",
+        "title": "人間の性 幻冬舎新書",
+        "author": "",
         "score": 74,
         "sources": [
           {
-            "source": "amazon",
-            "label": "Amazon",
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
             "rank": 9
           }
         ],
         "source": "combined",
-        "rank": 35,
-        "originalTitle": "時をかけるゆとり (文春文庫 あ 68-1)"
+        "rank": 34,
+        "originalTitle": ""
       },
       "ranking": {
-        "title": "時をかけるゆとり (文春文庫 あ 68-1)",
-        "author": "朝井 リョウ",
+        "title": "人間の性 幻冬舎新書",
+        "author": "",
         "isbn": "",
         "score": 171,
         "sources": [
           {
-            "source": "amazon",
-            "label": "Amazon",
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
             "rank": 9
           }
         ],
@@ -971,45 +978,45 @@
       }
     },
     {
-      "id": "4380000408012",
-      "title": "人間の性",
-      "author": "佐藤優",
-      "publisher": "幻冬舎",
-      "price": 1024,
-      "url": "https://books.rakuten.co.jp/rk/662ac08062ba3b408e362d7c0f933abc/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0997/2000021660997.jpg?_ex=600x600",
-      "caption": "正義感を振りかざすと、痛い目に遭う\n人間の“抗えない本質”を理解すれば、ムダな苦労をせずに済む!\n「なぜ悪いやつが成功し、正直者がバカを見るのか?」そう思うことはないだろうか。それは人間の本質が基本的に“悪”であり、社会の構造もそれに基づいて作られているから。そんな悪意に満ちた世の中であっても、人間の根っこにある本性を熟知すれば、余計なストレスを溜め込むことなく、自分なりに満足のゆく人生を送ることは可能だ。本書は外交官として国益に邁進しながらも国策捜査の標的となり、512日間も東京拘置所の独房に収監された著者が、極限の体験、人間観察、そして何千冊もの書物を通して到達した、渾身の人間論である。\n・“悪”の自覚がない善意の人が最も危うい\n・人間は基本的に悪いやつである\n・嫉妬は「正義」の顔をして現れる\n・窮地に陥れば、たやすく裏切ってしまうのが人間\n・人間の愛情や恩義は、利害が絡むとあっけなく断ち切られる\n・なぜ「自分の心に嘘をつく」だけは、絶対にしないほうがいいのか\n・蛇のように賢く、鳩のように素直であれ\n",
-      "salesDate": "2026年09月28日",
+      "id": "4390000002253",
+      "title": "時をかけるゆとり",
+      "author": "朝井リョウ",
+      "publisher": "文藝春秋",
+      "price": 601,
+      "url": "https://books.rakuten.co.jp/rk/a66b3ae94327300885736ca70d9b5c5f/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9466/2000002739466.jpg?_ex=600x600",
+      "caption": "就職活動生の群像『何者』で戦後最年少の直木賞受賞者となった著者。初のエッセイ集では天与の観察眼を縦横無尽に駆使し、上京の日々、バイト、夏休み、就活そして社会人生活について綴る。「ゆとり世代」が「ゆとり世代」を見た、切なさとおかしみが炸裂する23編。『学生時代にやらなくてもいい20のこと』に社会人篇を追加・加筆し改題。\n",
+      "salesDate": "2015年01月30日",
       "series": "",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101907002002",
-      "isbn": "4380000408012",
+      "reviewAverage": 4.25,
+      "reviewCount": 1221,
+      "genreId": "101907015",
+      "isbn": "4390000002253",
       "salesType": 0,
       "matchMeta": {
-        "title": "人間の性 幻冬舎新書",
-        "author": "",
+        "title": "時をかけるゆとり",
+        "author": "朝井 リョウ",
         "score": 74,
         "sources": [
           {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
+            "source": "amazon",
+            "label": "Amazon",
             "rank": 9
           }
         ],
         "source": "combined",
-        "rank": 34,
-        "originalTitle": ""
+        "rank": 35,
+        "originalTitle": "時をかけるゆとり (文春文庫 あ 68-1)"
       },
       "ranking": {
-        "title": "人間の性 幻冬舎新書",
-        "author": "",
+        "title": "時をかけるゆとり (文春文庫 あ 68-1)",
+        "author": "朝井 リョウ",
         "isbn": "",
         "score": 171,
         "sources": [
           {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
+            "source": "amazon",
+            "label": "Amazon",
             "rank": 9
           }
         ],
@@ -1131,7 +1138,8 @@
       "matchMeta": {
         "title": "ADHDの母が伝えたい 生きづらい女の子が覚えておきたいこと",
         "author": "なちゅ。",
-        "score": 70,
+        "isbn": "",
+        "score": 170,
         "sources": [
           {
             "source": "amazon",
@@ -1140,8 +1148,8 @@
           }
         ],
         "source": "combined",
-        "rank": 39,
-        "originalTitle": ""
+        "rank": 34,
+        "originalTitle": "ADHDの母が伝えたい 生きづらい女の子が覚えておきたいこと"
       },
       "ranking": {
         "title": "ADHDの母が伝えたい 生きづらい女の子が覚えておきたいこと",
@@ -1743,7 +1751,8 @@
       "matchMeta": {
         "title": "中学英語をもう一度ひとつひとつわかりやすく。改訂版",
         "author": "山田暢彦",
-        "score": 14,
+        "isbn": "",
+        "score": 156,
         "sources": [
           {
             "source": "amazon",
@@ -1752,8 +1761,8 @@
           }
         ],
         "source": "combined",
-        "rank": 64,
-        "originalTitle": ""
+        "rank": 63,
+        "originalTitle": "中学英語をもう一度ひとつひとつわかりやすく。改訂版"
       },
       "ranking": {
         "title": "中学英語をもう一度ひとつひとつわかりやすく。改訂版",
@@ -1866,53 +1875,6 @@
       }
     },
     {
-      "id": "4310000890409",
-      "title": "楽園",
-      "author": "夕木春央",
-      "publisher": "講談社",
-      "price": 1980,
-      "url": "https://books.rakuten.co.jp/rk/1a1c684dcee83b98b4d0187187c813d0/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1651/2000021221651.jpg?_ex=600x600",
-      "caption": "殺人犯にならなければ脱出できない。\n『方舟』『十戒』の著者が仕掛ける“禁忌の驚き”\n亡き両親から不動産を譲り受けた康之は、失踪した賃借人・海原の遺留品整理の際に、群馬の山奥の謎の物件の存在を知る。そこは、切り立った岩壁に囲まれた、「楽園」と呼ばれる奇妙な場所だった。恋人の沙織と一緒にそこを訪ね、探索をはじめた康之たちは、すぐに六人の“住人”に拿捕された。脱出のための条件はーー\n「誰か一人を殺さなければならない」\n『方舟』\n第19回オリコン上半期”本”ランキング　文庫ランキングTOP10 第1位\n週刊文春ミステリーベスト10　第1位　（「週刊文春」2022年12月8日号）国内部門\nMRC大賞2022　第1位\n『方舟』＋『十戒』の累計発行部数が100万部突破。\nーー夕木春央が描く、極限のクローズド・サークル。\n",
-      "salesDate": "2026年07月22日",
-      "series": "楽園",
-      "reviewAverage": 4.17,
-      "reviewCount": 479,
-      "genreId": "101902",
-      "isbn": "4310000890409",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "楽園",
-        "author": "夕木春央",
-        "score": 94,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
-          }
-        ],
-        "source": "combined",
-        "rank": 14,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "楽園",
-        "author": "夕木春央",
-        "score": 94,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
-          }
-        ],
-        "source": "combined",
-        "rank": 34,
-        "originalTitle": ""
-      }
-    },
-    {
       "id": "9784059239659",
       "title": "地球の歩き方 スター・ウォーズ",
       "author": "",
@@ -1955,7 +1917,7 @@
           }
         ],
         "source": "combined",
-        "rank": 35,
+        "rank": 34,
         "originalTitle": ""
       }
     },
@@ -2002,7 +1964,7 @@
           }
         ],
         "source": "combined",
-        "rank": 36,
+        "rank": 35,
         "originalTitle": ""
       }
     }
@@ -2010,8 +1972,8 @@
   "byGenre": {
     "fiction": [
       "4390000014426",
-      "4340008067051",
       "4320000935695",
+      "4340008067051",
       "4910000909001",
       "4380000408000",
       "4390000005636",
@@ -2027,8 +1989,7 @@
       "4320000935695",
       "4390000005636",
       "4620000615075",
-      "4620000615076",
-      "4310000890409"
+      "4620000615076"
     ],
     "sf": [],
     "business": [
@@ -2043,8 +2004,8 @@
       "4380000407898",
       "4310000701877",
       "4390000014426",
-      "4390000002253",
       "4380000408012",
+      "4390000002253",
       "4390000005710",
       "4390000014247"
     ],
@@ -2095,7 +2056,7 @@
       "complete": true
     },
     "mystery": {
-      "matched": 5,
+      "matched": 4,
       "complete": true
     },
     "sf": {

@@ -4,10 +4,10 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-10-10T13:15:00.869Z",
-  "candidateCount": 85,
-  "baseMatched": 36,
-  "matched": 45,
+  "updatedAt": "2026-10-10T22:11:15.424Z",
+  "candidateCount": 83,
+  "baseMatched": 34,
+  "matched": 43,
   "addedMatches": 9,
   "unavailable": [
     "rakuten"
@@ -101,12 +101,6 @@
           "rank": 23
         },
         {
-          "title": "中学英語をもう一度ひとつひとつわかりやすく。改訂版",
-          "author": "山田暢彦",
-          "isbn": "",
-          "rank": 24
-        },
-        {
           "title": "自分の思いを言葉にする こどもアウトプット図鑑 (サンクチュアリ出版)",
           "author": "樺沢紫苑",
           "isbn": "",
@@ -128,6 +122,12 @@
           "author": "伊坂幸太郎",
           "isbn": "",
           "rank": 3
+        },
+        {
+          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+          "author": "林真理子",
+          "isbn": "",
+          "rank": 4
         },
         {
           "title": "シャーロック・ホームズの凱旋",
@@ -189,12 +189,6 @@
           "rank": 6
         },
         {
-          "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
-          "author": "",
-          "isbn": "",
-          "rank": 7
-        },
-        {
           "title": "きずもの",
           "author": "",
           "isbn": "",
@@ -217,6 +211,12 @@
           "author": "",
           "isbn": "",
           "rank": 25
+        },
+        {
+          "title": "やりたいことが動き出す 可視化の教科書",
+          "author": "",
+          "isbn": "",
+          "rank": 30
         }
       ]
     },
@@ -236,22 +236,28 @@
           "rank": 1
         },
         {
+          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+          "author": "",
+          "isbn": "",
+          "rank": 3
+        },
+        {
           "title": "自分とか、ないから。 教養としての東洋哲学",
           "author": "",
           "isbn": "",
           "rank": 5
         },
         {
+          "title": "ゲッターズ飯田の五星三心占い2027 銀のイルカ座",
+          "author": "",
+          "isbn": "",
+          "rank": 7
+        },
+        {
           "title": "イン･ザ･メガチャーチ",
           "author": "",
           "isbn": "",
           "rank": 8
-        },
-        {
-          "title": "ゲッターズ飯田の五星三心占い2027 銀の羅針盤座",
-          "author": "",
-          "isbn": "",
-          "rank": 9
         },
         {
           "title": "ゲッターズ飯田の五星三心占い2027 銀のインディアン座",
@@ -279,52 +285,37 @@
         {
           "title": "転生したらスライムだった件（33）",
           "author": "川上 泰樹/伏瀬/みっつばー",
-          "rank": 4
-        },
-        {
-          "title": "ゆるキャン△　19",
-          "author": "あfろ",
-          "rank": 10
-        },
-        {
-          "title": "アルスラーン戦記（25）",
-          "author": "荒川 弘/田中 芳樹",
-          "rank": 12
-        },
-        {
-          "title": "ベル・プペーのスパダリ婚約〜「好みじゃない」と言われた人形姫、我慢をやめたら皇子がデレデレになった。実に愛い！〜（コミック）（3）",
-          "author": "朝霧あさき/セレン",
-          "rank": 17
-        },
-        {
-          "title": "パンどろぼうとさすらいラーメン",
-          "author": "柴田　ケイコ",
-          "rank": 23
+          "rank": 2
         },
         {
           "title": "SPY×FAMILY 18",
           "author": "遠藤 達哉",
-          "rank": 25
+          "rank": 5
         },
         {
-          "title": "信長協奏曲（24）",
-          "author": "石井 あゆみ",
-          "rank": 26
+          "title": "アルスラーン戦記（25）",
+          "author": "荒川 弘/田中 芳樹",
+          "rank": 7
         },
         {
-          "title": "あなたの部屋は、あなた自身です。",
-          "author": "舛田光洋",
-          "rank": 27
+          "title": "キングダム 81",
+          "author": "原 泰久",
+          "rank": 8
         },
         {
-          "title": "魔法使いの嫁 25",
-          "author": "ヤマザキ　コレ",
-          "rank": 29
+          "title": "ゆるキャン△　19",
+          "author": "あfろ",
+          "rank": 9
         },
         {
-          "title": "誰かこの状況を説明してください！ 〜契約から始まるウェディング〜 12",
-          "author": "木野咲カズラ/徒然花/萩原 凛",
-          "rank": 30
+          "title": "名探偵コナン（109）",
+          "author": "青山 剛昌",
+          "rank": 11
+        },
+        {
+          "title": "ワールドトリガー 30",
+          "author": "葦原 大介",
+          "rank": 15
         }
       ]
     }
@@ -348,14 +339,9 @@
       "salesType": 0,
       "matchMeta": {
         "title": "パンどろぼうとさすらいラーメン",
-        "author": "柴田　ケイコ",
-        "score": 138,
+        "author": "柴田 ケイコ",
+        "score": 120,
         "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 23
-          },
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
@@ -368,14 +354,14 @@
           }
         ],
         "source": "combined",
-        "rank": 1,
+        "rank": 4,
         "originalTitle": ""
       },
       "ranking": {
         "title": "パンどろぼうとさすらいラーメン",
         "author": "柴田 ケイコ",
         "isbn": "",
-        "score": 671,
+        "score": 514,
         "sources": [
           {
             "source": "amazon",
@@ -391,15 +377,67 @@
             "source": "tohan",
             "label": "トーハン",
             "rank": 1
-          },
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 23
           }
         ],
         "source": "combined",
         "rank": 1
+      }
+    },
+    {
+      "id": "4380000407898",
+      "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+      "author": "林真理子",
+      "publisher": "幻冬舎",
+      "price": 982,
+      "url": "https://books.rakuten.co.jp/rk/1e28fc1db6b83578b06b0919e0a52cd7/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0908/2000020490908.jpg?_ex=600x600",
+      "caption": "70代は頭も体もまだ大丈夫。\nそれなりに蓄えもできている。\nでもこれまでと全く同じことをしていたらダメ。\nできないことは諦め、楽しいことを大事にし、人生の新しいステージに立とう。\n同じ年代とばかりつるまず、ダイエットはしない。\n嫌われずに自慢話をするテクニック、お金にキレイな人と思われるおごり方ーー。\n72歳の人気作家が本音で語る「健康」「おしゃれ」「仕事」「お金」「人間関係」「趣味」。\n確実に近づく「その日」を見つめ、今の1分1秒を楽しんで生きるための、痛快・人生論。\n",
+      "salesDate": "2026年05月27日",
+      "series": "",
+      "reviewAverage": 3.52,
+      "reviewCount": 71,
+      "genreId": "101907010004/101909",
+      "isbn": "4380000407898",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "author": "林真理子",
+        "score": 192,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 4
+          },
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 3
+          }
+        ],
+        "source": "combined",
+        "rank": 1,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "author": "林真理子",
+        "isbn": "",
+        "score": 353,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 4
+          },
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 3
+          }
+        ],
+        "source": "combined",
+        "rank": 2
       }
     },
     {
@@ -435,7 +473,7 @@
           }
         ],
         "source": "combined",
-        "rank": 4,
+        "rank": 5,
         "originalTitle": ""
       },
       "ranking": {
@@ -456,7 +494,7 @@
           }
         ],
         "source": "combined",
-        "rank": 2
+        "rank": 3
       }
     },
     {
@@ -487,7 +525,7 @@
           }
         ],
         "source": "combined",
-        "rank": 8,
+        "rank": 9,
         "originalTitle": "ソン・シギョンの本当に美味しい韓国グルメガイド - ＳＵＮＧ　ＳＩ　ＫＹＵＮＧ’ｓ　Ｄｅｅｐ　Ｋｏｒｅ 講談社ＭＯＯＫ"
       },
       "ranking": {
@@ -503,7 +541,7 @@
           }
         ],
         "source": "combined",
-        "rank": 3
+        "rank": 4
       }
     },
     {
@@ -534,7 +572,7 @@
           }
         ],
         "source": "combined",
-        "rank": 13,
+        "rank": 14,
         "originalTitle": "そして誰もゆとらなくなった (文春文庫 あ 68-5)"
       },
       "ranking": {
@@ -550,24 +588,71 @@
           }
         ],
         "source": "combined",
-        "rank": 4
+        "rank": 5
       }
     },
     {
-      "id": "4916475490001",
-      "title": "プレゼント",
-      "author": "若竹七海",
-      "publisher": "中央公論新社",
-      "price": 776,
-      "url": "https://books.rakuten.co.jp/rk/9fe631efeb0f3eb0a09ce80197395709/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1444/2000007701444.jpg?_ex=600x600",
-      "caption": "ルーム・クリーナー、電話相談、興信所。トラブルメイカーのフリーター・葉村晶と、娘に借りたピンクの子供用自転車で現場に駆けつける小林警部補。二人が巻き込まれたハードボイルドで悲しい八つの事件とはーー。間抜けだが悪気のない隣人たちがひき起こす騒動はいつも危険すぎる！\n",
-      "salesDate": "2019年08月30日",
-      "series": "プレゼント",
-      "reviewAverage": 3.52,
-      "reviewCount": 92,
-      "genreId": "101901/101902",
-      "isbn": "4916475490001",
+      "id": "4310000937174",
+      "title": "転生したらスライムだった件（３３）",
+      "author": "川上泰樹/伏瀬/みっつばー",
+      "publisher": "講談社",
+      "price": 792,
+      "url": "https://books.rakuten.co.jp/rk/2ec766082be93057af6d743314365b5f/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9576/2000021879576.jpg?_ex=600x600",
+      "caption": "北方から悪魔の軍勢がイングラシア王国へと迫っていると知り、混乱する西方諸国評議会（カウンシル・オブ・ウエスト）の議員達。しかしそこには、リムルの命を受け評議会に派遣されたテスタロッサの姿があった。\n一方、マリアと戦っていたルミナスは夜想宮廷(ナイトガーデン)の聖櫃に封印されていた”あるもの”がなくなっていることに気づき激怒する。\nさらにラファエルさえも理解できない事態がリムルの目の前で起こるのだった！\n",
+      "salesDate": "2026年10月08日",
+      "series": "転生したらスライムだった件",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904002048",
+      "isbn": "4310000937174",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "転生したらスライムだった件(33)",
+        "author": "川上 泰樹/伏瀬/みっつばー",
+        "score": 102,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 2
+          }
+        ],
+        "source": "combined",
+        "rank": 13,
+        "originalTitle": "転生したらスライムだった件（33）"
+      },
+      "ranking": {
+        "title": "転生したらスライムだった件（33）",
+        "author": "川上 泰樹/伏瀬/みっつばー",
+        "isbn": "",
+        "score": 178,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 2
+          }
+        ],
+        "source": "combined",
+        "rank": 6
+      }
+    },
+    {
+      "id": "4340008067051",
+      "title": "プレゼント（新潮文庫）",
+      "author": "伊坂幸太郎/江國香織/恩田陸/梨木香歩/町田そのこ/宮部みゆき/米澤穂信",
+      "publisher": "新潮社",
+      "price": 825,
+      "url": "https://books.rakuten.co.jp/rk/e8a60fd88eb63075a76e50e52cf98712/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8962/2000020598962.jpg?_ex=600x600",
+      "caption": "これはこれまで小説を愛してきてくれた人へ、そしてこれから小説の世界に一歩踏み出す人へ贈るプレゼント。何気なく読んだ物語が、ふと目にした一行が、意外な言葉ひとつが、人生を大きく変えるかもしれない。現代を代表する７人の作家が「夏」をテーマに書き下ろした、驚きと切なさ、怖さと美しさ、何よりとびきりの面白さを詰め込んだ奇跡の一冊。さぁ、あなたの人生に小説という選択肢を。\n",
+      "salesDate": "2026年06月24日",
+      "series": "",
+      "reviewAverage": 3.87,
+      "reviewCount": 418,
+      "genreId": "101901",
+      "isbn": "4340008067051",
       "salesType": 0,
       "matchMeta": {
         "title": "プレゼント",
@@ -581,7 +666,7 @@
           }
         ],
         "source": "combined",
-        "rank": 14,
+        "rank": 15,
         "originalTitle": ""
       },
       "ranking": {
@@ -597,7 +682,7 @@
           }
         ],
         "source": "combined",
-        "rank": 5
+        "rank": 7
       }
     },
     {
@@ -628,7 +713,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16,
+        "rank": 17,
         "originalTitle": ""
       },
       "ranking": {
@@ -644,54 +729,7 @@
           }
         ],
         "source": "combined",
-        "rank": 6
-      }
-    },
-    {
-      "id": "4310000937174",
-      "title": "転生したらスライムだった件（３３）",
-      "author": "川上泰樹/伏瀬/みっつばー",
-      "publisher": "講談社",
-      "price": 792,
-      "url": "https://books.rakuten.co.jp/rk/2ec766082be93057af6d743314365b5f/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9576/2000021879576.jpg?_ex=600x600",
-      "caption": "北方から悪魔の軍勢がイングラシア王国へと迫っていると知り、混乱する西方諸国評議会（カウンシル・オブ・ウエスト）の議員達。しかしそこには、リムルの命を受け評議会に派遣されたテスタロッサの姿があった。\n一方、マリアと戦っていたルミナスは夜想宮廷(ナイトガーデン)の聖櫃に封印されていた”あるもの”がなくなっていることに気づき激怒する。\nさらにラファエルさえも理解できない事態がリムルの目の前で起こるのだった！\n",
-      "salesDate": "2026年10月08日",
-      "series": "転生したらスライムだった件",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904002048",
-      "isbn": "4310000937174",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "転生したらスライムだった件(33)",
-        "author": "川上 泰樹/伏瀬/みっつばー",
-        "score": 94,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 4
-          }
-        ],
-        "source": "combined",
-        "rank": 19,
-        "originalTitle": "転生したらスライムだった件（33）"
-      },
-      "ranking": {
-        "title": "転生したらスライムだった件（33）",
-        "author": "川上 泰樹/伏瀬/みっつばー",
-        "isbn": "",
-        "score": 176,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 4
-          }
-        ],
-        "source": "combined",
-        "rank": 7
+        "rank": 8
       }
     },
     {
@@ -738,7 +776,54 @@
           }
         ],
         "source": "combined",
-        "rank": 8
+        "rank": 9
+      }
+    },
+    {
+      "id": "4972000169895",
+      "title": "SPY×FAMILY 18",
+      "author": "遠藤達哉",
+      "publisher": "集英社",
+      "price": 616,
+      "url": "https://books.rakuten.co.jp/rk/9ff88217c98330579739ae763ab036e2/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9312/2000021999312.jpg?_ex=600x600",
+      "caption": "ジャンプコミックスDIGITAL「SPY×FAMILY」18巻、11月4日配信スタート!!　※配信日は変更になることがあります。ご了承ください。\n",
+      "salesDate": "2026年11月04日",
+      "series": "SPY×FAMILY",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904001007",
+      "isbn": "4972000169895",
+      "salesType": 1,
+      "matchMeta": {
+        "title": "SPY×FAMILY 18",
+        "author": "遠藤 達哉",
+        "score": 90,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
+        "rank": 24,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "SPY×FAMILY 18",
+        "author": "遠藤 達哉",
+        "isbn": "",
+        "score": 175,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
+        "rank": 10
       }
     },
     {
@@ -785,7 +870,7 @@
           }
         ],
         "source": "combined",
-        "rank": 9
+        "rank": 11
       }
     },
     {
@@ -832,7 +917,54 @@
           }
         ],
         "source": "combined",
-        "rank": 10
+        "rank": 12
+      }
+    },
+    {
+      "id": "4310000937173",
+      "title": "アルスラーン戦記（２５）",
+      "author": "荒川弘/田中芳樹",
+      "publisher": "講談社",
+      "price": 594,
+      "url": "https://books.rakuten.co.jp/rk/60c6e7ac259932a28e91344c5af3439c/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9565/2000021879565.jpg?_ex=600x600",
+      "caption": "大陸公路の強国「パルス」の若き王子・アルスラーン。永遠と思われた国の栄華が終わりを告げた時、すべての運命が変わる！！　荒川 弘×田中芳樹の最強タッグで描く、世界最高の歴史ファンタジー、最新作！\n数多の贄を喰らい、血を啜る。蛇王、王都掌握へ。\n蛇王が操るアンドラゴラス王によって蹂躙された王都。王宮は封鎖され、蛇王討伐に動くアルスラーンと、宿敵カイ・ホスローの血を引くヒルメスに蛇王軍が襲いかかる！ 一方、閉ざされた「王の門」の外では、突入を試みる猛将・クバードが蛇王との死闘に挑む…！\n伝説に違わぬその邪力で王都を、仲間たちを血で染めていくーー。“ルクナバードが使えない”少年に蛇王を倒す術はあるのか…！？\n",
+      "salesDate": "2026年10月08日",
+      "series": "アルスラーン戦記",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904",
+      "isbn": "4310000937173",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "アルスラーン戦記(25)",
+        "author": "荒川 弘/田中 芳樹",
+        "score": 82,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 7
+          }
+        ],
+        "source": "combined",
+        "rank": 34,
+        "originalTitle": "アルスラーン戦記（25）"
+      },
+      "ranking": {
+        "title": "アルスラーン戦記（25）",
+        "author": "荒川 弘/田中 芳樹",
+        "isbn": "",
+        "score": 173,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 7
+          }
+        ],
+        "source": "combined",
+        "rank": 13
       }
     },
     {
@@ -879,54 +1011,101 @@
           }
         ],
         "source": "combined",
-        "rank": 11
+        "rank": 14
       }
     },
     {
-      "id": "4380000407898",
-      "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-      "author": "林真理子",
-      "publisher": "幻冬舎",
-      "price": 982,
-      "url": "https://books.rakuten.co.jp/rk/1e28fc1db6b83578b06b0919e0a52cd7/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0908/2000020490908.jpg?_ex=600x600",
-      "caption": "70代は頭も体もまだ大丈夫。\nそれなりに蓄えもできている。\nでもこれまでと全く同じことをしていたらダメ。\nできないことは諦め、楽しいことを大事にし、人生の新しいステージに立とう。\n同じ年代とばかりつるまず、ダイエットはしない。\n嫌われずに自慢話をするテクニック、お金にキレイな人と思われるおごり方ーー。\n72歳の人気作家が本音で語る「健康」「おしゃれ」「仕事」「お金」「人間関係」「趣味」。\n確実に近づく「その日」を見つめ、今の1分1秒を楽しんで生きるための、痛快・人生論。\n",
-      "salesDate": "2026年05月27日",
-      "series": "",
-      "reviewAverage": 3.52,
-      "reviewCount": 71,
-      "genreId": "101907010004/101909",
-      "isbn": "4380000407898",
+      "id": "4910000924316",
+      "title": "ゲッターズ飯田の五星三心占い2027　銀のイルカ座",
+      "author": "ゲッターズ飯田",
+      "publisher": "朝日新聞出版",
+      "price": 1430,
+      "url": "https://books.rakuten.co.jp/rk/165e830652ae3214baea62bba5dca71c/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6317/2000021696317.jpg?_ex=600x600",
+      "caption": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。\n『ゲッターズ飯田の五星三心占い2027』\n＼＼全12タイプ☆大好評発売中！／／\n2027年、あなたはどんな1年に?\n恋も、仕事も、お金も、健康も。ーー365日の「開運」のヒントを、この1冊に詰め込みました。\n8万人以上を無償で占い、25年以上「開運」を極め続けた、\n「芸能界最強の占い師」ゲッターズ飯田。\n最新2027年版の「開運の手引き」が、ついに発売決定！\n＞＞開運するには「理由」があります。\n☆ まいにち10秒、365日読める運気＆開運アドバイス\n☆ どの本よりも「細かく」「詳しく」占える、圧倒的な情報量\n☆ 家族、恋人、友達、同僚、推し……じつは全員占えます\n＞＞さらに、これだけの人に選ばれ続けています。\n☆ 今年で、10年連続＼毎年／100万部！！\n☆ なんとなんと、シリーズ累計1500万部突破！！\n☆ そして、12秒に1冊売れてる！！（※1）\n＞＞ 開運の声が「とんでもない量」届いています！\n☆「人生の教科書！　というより参考書！！　一年通して毎日使えます！　スゴイ！」（50代／女性）\n☆「こんな一面が自分自身にあるのだと気付かされました。」（30代／女性）\n☆「不安な時や背中を押してもらいたい時に読んでます。」（20代／女性）\n☆「すごくわかりやすくて買って本当によかった。もっと早くから買ってみればよかったです。」（40代／男性）\n☆「開運のつぶやきが心に響きます。その言葉1つ1つがありがたいです。」（40代／女性）\n（2026年版の感想から一部を抜粋）\nなぜ、こんなに支持されているの……？？\nその秘密は、ぎっしり詰まった“中身”にあります。\n☆★『ゲッターズ飯田の五星三心占い2027』コンテンツ★☆\n＼今年もコレで開運チャージ！／\n◎2026年9月〜2027年12月の総合運／恋愛運／結婚運／仕事運／金運＆買い物運／美容＆健康運／家庭＆親子運\n◎2026年9月〜2027年12月まで毎月、毎日のアドバイスがぎっしり！「運気カレンダー」\n◎接し方のコツがわかる！　「2027年のあなた×全12タイプの相性」\n◎自分以外も超☆詳しく占える！「全120命数別 2027年はこんな年&開運アクション」\n◎いい運気をMAX活かす「運気のいい時期に心がけたい10か条」\n◎運気の落ち込みも怖くない！「裏の時期に心がけたい10か条」\n＼さらにさらに、今年はここが変わる！／\n【未来がまる見え】中身もデザインも、パワーアップして登場！ーー年と月の運気グラフが見やすくなった「ひと目でわかる！　2027年運気ナビ」、読み応えUPの「2027年の過ごし方で未来はこう変わる！」\n【リニューアル☆復活】編集部があなたのギモンに答えます！ーー「五星三心占いQ＆A」\n￣￣￣￣￣￣￣￣￣￣￣￣￣\nパッとひらいて　超☆開運！\n＿＿＿＿＿＿＿＿＿＿＿＿＿\n※1『ゲッターズ飯田の五星三心占い2026』発売5か月分の販売数より　朝日新聞出版調べ。\n※本書では1942年〜2027年生まれの方の「命数」を調べることができます。\n※電子版には紙の本にあるコンテンツの一部がつきません。\n",
+      "salesDate": "2026年09月11日",
+      "series": "ゲッターズ飯田の五星三心占い2027",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101909013",
+      "isbn": "4910000924316",
       "salesType": 0,
       "matchMeta": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 幻冬舎新書",
-        "author": "",
-        "score": 82,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 7
-          }
-        ],
-        "source": "combined",
-        "rank": 35,
-        "originalTitle": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書"
-      },
-      "ranking": {
-        "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
+        "title": "ゲッターズ飯田の五星三心占い2027 銀のイルカ座",
         "author": "",
         "isbn": "",
         "score": 173,
         "sources": [
           {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
+            "source": "tohan",
+            "label": "トーハン",
             "rank": 7
           }
         ],
         "source": "combined",
-        "rank": 12
+        "rank": 27
+      },
+      "ranking": {
+        "title": "ゲッターズ飯田の五星三心占い2027 銀のイルカ座",
+        "author": "",
+        "isbn": "",
+        "score": 173,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 7
+          }
+        ],
+        "source": "combined",
+        "rank": 15
+      }
+    },
+    {
+      "id": "4972000169889",
+      "title": "キングダム 81",
+      "author": "原泰久",
+      "publisher": "集英社",
+      "price": 770,
+      "url": "https://books.rakuten.co.jp/rk/5bfbf7021b1739ab807e21db73e2acdc/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9287/2000021999287.jpg?_ex=600x600",
+      "caption": "ヤングジャンプコミックスDIGITAL「キングダム」81巻、11月18日配信スタート!!　※配信日は変更になることがあります。ご了承ください。\n",
+      "salesDate": "2026年11月18日",
+      "series": "キングダム",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904002006",
+      "isbn": "4972000169889",
+      "salesType": 1,
+      "matchMeta": {
+        "title": "キングダム 81",
+        "author": "原 泰久",
+        "score": 78,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 38,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "キングダム 81",
+        "author": "原 泰久",
+        "isbn": "",
+        "score": 172,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 16
       }
     },
     {
@@ -958,7 +1137,7 @@
           }
         ],
         "source": "combined",
-        "rank": 29,
+        "rank": 31,
         "originalTitle": "イン･ザ･メガチャーチ"
       },
       "ranking": {
@@ -974,7 +1153,7 @@
           }
         ],
         "source": "combined",
-        "rank": 13
+        "rank": 17
       }
     },
     {
@@ -1021,7 +1200,7 @@
           }
         ],
         "source": "combined",
-        "rank": 14
+        "rank": 18
       }
     },
     {
@@ -1068,54 +1247,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15
-      }
-    },
-    {
-      "id": "4910000924303",
-      "title": "ゲッターズ飯田の五星三心占い2027　銀の羅針盤座",
-      "author": "ゲッターズ飯田",
-      "publisher": "朝日新聞出版",
-      "price": 1430,
-      "url": "https://books.rakuten.co.jp/rk/38d8c5f32d0738a297c10937ec374bea/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5846/2000021695846.jpg?_ex=600x600",
-      "caption": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。\n『ゲッターズ飯田の五星三心占い2027』\n＼＼全12タイプ☆大好評発売中！／／\n2027年、あなたはどんな1年に?\n恋も、仕事も、お金も、健康も。ーー365日の「開運」のヒントを、この1冊に詰め込みました。\n8万人以上を無償で占い、25年以上「開運」を極め続けた、\n「芸能界最強の占い師」ゲッターズ飯田。\n最新2027年版の「開運の手引き」が、ついに発売決定！\n＞＞開運するには「理由」があります。\n☆ まいにち10秒、365日読める運気＆開運アドバイス\n☆ どの本よりも「細かく」「詳しく」占える、圧倒的な情報量\n☆ 家族、恋人、友達、同僚、推し……じつは全員占えます\n＞＞さらに、これだけの人に選ばれ続けています。\n☆ 今年で、10年連続＼毎年／100万部！！\n☆ なんとなんと、シリーズ累計1500万部突破！！\n☆ そして、12秒に1冊売れてる！！（※1）\n＞＞ 開運の声が「とんでもない量」届いています！\n☆「人生の教科書！　というより参考書！！　一年通して毎日使えます！　スゴイ！」（50代／女性）\n☆「こんな一面が自分自身にあるのだと気付かされました。」（30代／女性）\n☆「不安な時や背中を押してもらいたい時に読んでます。」（20代／女性）\n☆「すごくわかりやすくて買って本当によかった。もっと早くから買ってみればよかったです。」（40代／男性）\n☆「開運のつぶやきが心に響きます。その言葉1つ1つがありがたいです。」（40代／女性）\n（2026年版の感想から一部を抜粋）\nなぜ、こんなに支持されているの……？？\nその秘密は、ぎっしり詰まった“中身”にあります。\n☆★『ゲッターズ飯田の五星三心占い2027』コンテンツ★☆\n＼今年もコレで開運チャージ！／\n◎2026年9月〜2027年12月の総合運／恋愛運／結婚運／仕事運／金運＆買い物運／美容＆健康運／家庭＆親子運\n◎2026年9月〜2027年12月まで毎月、毎日のアドバイスがぎっしり！「運気カレンダー」\n◎接し方のコツがわかる！　「2027年のあなた×全12タイプの相性」\n◎自分以外も超☆詳しく占える！「全120命数別 2027年はこんな年&開運アクション」\n◎いい運気をMAX活かす「運気のいい時期に心がけたい10か条」\n◎運気の落ち込みも怖くない！「裏の時期に心がけたい10か条」\n＼さらにさらに、今年はここが変わる！／\n【未来がまる見え】中身もデザインも、パワーアップして登場！ーー年と月の運気グラフが見やすくなった「ひと目でわかる！　2027年運気ナビ」、読み応えUPの「2027年の過ごし方で未来はこう変わる！」\n【リニューアル☆復活】編集部があなたのギモンに答えます！ーー「五星三心占いQ＆A」\n￣￣￣￣￣￣￣￣￣￣￣￣￣\nパッとひらいて　超☆開運！\n＿＿＿＿＿＿＿＿＿＿＿＿＿\n※1『ゲッターズ飯田の五星三心占い2026』発売5か月分の販売数より　朝日新聞出版調べ。\n※本書では1942年〜2027年生まれの方の「命数」を調べることができます。\n※電子版には紙の本にあるコンテンツの一部がつきません。\n",
-      "salesDate": "2026年09月11日",
-      "series": "ゲッターズ飯田の五星三心占い2027",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101909013",
-      "isbn": "4910000924303",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ゲッターズ飯田の五星三心占い2027 銀の羅針盤座",
-        "author": "",
-        "isbn": "",
-        "score": 171,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 33
-      },
-      "ranking": {
-        "title": "ゲッターズ飯田の五星三心占い2027 銀の羅針盤座",
-        "author": "",
-        "isbn": "",
-        "score": 171,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 16
+        "rank": 19
       }
     },
     {
@@ -1137,32 +1269,32 @@
       "matchMeta": {
         "title": "ゆるキャン△ 19",
         "author": "あfろ",
-        "score": 70,
+        "score": 74,
         "sources": [
           {
             "source": "rakuten",
             "label": "楽天ブックス",
-            "rank": 10
+            "rank": 9
           }
         ],
         "source": "combined",
-        "rank": 48,
+        "rank": 43,
         "originalTitle": "ゆるキャン△　19"
       },
       "ranking": {
         "title": "ゆるキャン△　19",
         "author": "あfろ",
         "isbn": "",
-        "score": 170,
+        "score": 171,
         "sources": [
           {
             "source": "rakuten",
             "label": "楽天ブックス",
-            "rank": 10
+            "rank": 9
           }
         ],
         "source": "combined",
-        "rank": 17
+        "rank": 20
       }
     },
     {
@@ -1209,7 +1341,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18
+        "rank": 21
       }
     },
     {
@@ -1256,7 +1388,7 @@
           }
         ],
         "source": "combined",
-        "rank": 19
+        "rank": 22
       }
     },
     {
@@ -1288,7 +1420,7 @@
           }
         ],
         "source": "combined",
-        "rank": 37
+        "rank": 41
       },
       "ranking": {
         "title": "ゲッターズ飯田の五星三心占い2027 銀のインディアン座",
@@ -1303,24 +1435,71 @@
           }
         ],
         "source": "combined",
-        "rank": 20
+        "rank": 23
       }
     },
     {
-      "id": "4310000683989",
-      "title": "汝、星のごとく【電子限定特典付き】",
-      "author": "凪良ゆう",
+      "id": "4320000937482",
+      "title": "名探偵コナン（１０９）",
+      "author": "青山剛昌",
+      "publisher": "小学館",
+      "price": 583,
+      "url": "https://books.rakuten.co.jp/rk/3d4ab47857a63c738ff32de18230740a/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1781/2000021881781.jpg?_ex=600x600",
+      "caption": "※本タイトルの作品紹介文は、現在作成中でございます。\n作成出来ましたら反映致しますので、今しばらくお待ちください。\n",
+      "salesDate": "2026年10月16日",
+      "series": "名探偵コナン",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904001008",
+      "isbn": "4320000937482",
+      "salesType": 1,
+      "matchMeta": {
+        "title": "名探偵コナン(109)",
+        "author": "青山 剛昌",
+        "score": 66,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 11
+          }
+        ],
+        "source": "combined",
+        "rank": 51,
+        "originalTitle": "名探偵コナン（109）"
+      },
+      "ranking": {
+        "title": "名探偵コナン（109）",
+        "author": "青山 剛昌",
+        "isbn": "",
+        "score": 169,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 11
+          }
+        ],
+        "source": "combined",
+        "rank": 24
+      }
+    },
+    {
+      "id": "4310000779045",
+      "title": "汝、星のごとく（３）",
+      "author": "凪良ゆう/古里こう",
       "publisher": "講談社",
-      "price": 990,
-      "url": "https://books.rakuten.co.jp/rk/c078773e2356341c99cfa0309dc414dd/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1001/2000018151001.jpg?_ex=600x600",
-      "caption": "第20回本屋大賞受賞作！\nシリーズ累計100万部突破！\nあなたと生きる、その痛みごと。\n著者2度目の本屋大賞を受賞した『汝、星のごとく』が3年の時を経てついに文庫化！同じ空の下であの星を見上げよう。そして、また出会おう。あまりに切ない運命を、繊細な心理描写で描いた著者最高傑作。\n風光明媚な瀬戸内の島で育った暁海(あきみ)と母の恋愛に振り回され転校してきた櫂(かい)。ともに心に孤独と欠落を抱えた二人が恋に落ちるのに時間はかからなかった。ときにすれ違い、ぶつかり、成長していく。生きることの自由さと不自由さを描き続けた著者がおくる、あまりに切ない愛の物語【2023年本屋大賞受賞作】\n☆2023年本屋大賞受賞作☆\n【第168回直木賞候補作】\n【第44回吉川英治文学新人賞候補作】\n【2022王様のブランチBOOK大賞】\n【キノベス!2023 第1位】\n【第10回高校生直木賞候補作】\n【ダ・ヴィンチ BOOK OF THE YEAR 2022 第３位】\n【今月の絶対はずさない！ プラチナ本 選出（「ダ・ヴィンチ」12月号）】\n【第２回 本屋が選ぶ大人の恋愛小説大賞 ノミネート】\n【未来屋小説大賞 第２位】\n【ミヤボン2022 大賞受賞】\n【Apple Books 2022年 今年のベストブック（フィクション部門）】\nなどなど、賞＆ノミネート＆ランクイン多数！\n※電子版には特典として、続編『星を編む』の試し読み増量版と著者作品リストを収録しています。\n",
-      "salesDate": "2025年07月15日",
+      "price": 792,
+      "url": "https://books.rakuten.co.jp/rk/53b069e006973118af2e818a16801db0/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2574/2000019452574.jpg?_ex=600x600",
+      "caption": "「わたしは愛する男のために人生を誤りたい」\n毎月、借金の返済として暁海が櫂に送る四万円。\nふたりをつなぐものがそれだけになっても、\n互いを想う気持ちは消えないまま…。\nそれぞれを取り巻く環境に縛られ、\n自らの人生を生きる難しさに打ちのめされそうになる中、\n暁海は北原先生から「ぼくと結婚しませんか」と提案されてーー。\n「まともな人間なんてものは幻想だ」\n生きることの自由さと不自由さを描き続けてきた\n凪良ゆう最高傑作、待望のコミカライズ最終巻。\n",
+      "salesDate": "2026年01月13日",
       "series": "汝、星のごとく",
-      "reviewAverage": 4.39,
-      "reviewCount": 1617,
-      "genreId": "101901",
-      "isbn": "4310000683989",
+      "reviewAverage": 5,
+      "reviewCount": 4,
+      "genreId": "101904011005",
+      "isbn": "4310000779045",
       "salesType": 0,
       "matchMeta": {
         "title": "汝、星のごとく",
@@ -1350,7 +1529,7 @@
           }
         ],
         "source": "combined",
-        "rank": 21
+        "rank": 25
       }
     },
     {
@@ -1382,7 +1561,7 @@
           }
         ],
         "source": "combined",
-        "rank": 40
+        "rank": 43
       },
       "ranking": {
         "title": "きずもの",
@@ -1397,54 +1576,7 @@
           }
         ],
         "source": "combined",
-        "rank": 22
-      }
-    },
-    {
-      "id": "4310000937173",
-      "title": "アルスラーン戦記（２５）",
-      "author": "荒川弘/田中芳樹",
-      "publisher": "講談社",
-      "price": 594,
-      "url": "https://books.rakuten.co.jp/rk/60c6e7ac259932a28e91344c5af3439c/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9565/2000021879565.jpg?_ex=600x600",
-      "caption": "大陸公路の強国「パルス」の若き王子・アルスラーン。永遠と思われた国の栄華が終わりを告げた時、すべての運命が変わる！！　荒川 弘×田中芳樹の最強タッグで描く、世界最高の歴史ファンタジー、最新作！\n数多の贄を喰らい、血を啜る。蛇王、王都掌握へ。\n蛇王が操るアンドラゴラス王によって蹂躙された王都。王宮は封鎖され、蛇王討伐に動くアルスラーンと、宿敵カイ・ホスローの血を引くヒルメスに蛇王軍が襲いかかる！ 一方、閉ざされた「王の門」の外では、突入を試みる猛将・クバードが蛇王との死闘に挑む…！\n伝説に違わぬその邪力で王都を、仲間たちを血で染めていくーー。“ルクナバードが使えない”少年に蛇王を倒す術はあるのか…！？\n",
-      "salesDate": "2026年10月08日",
-      "series": "アルスラーン戦記",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904",
-      "isbn": "4310000937173",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "アルスラーン戦記(25)",
-        "author": "荒川 弘/田中 芳樹",
-        "score": 62,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 12
-          }
-        ],
-        "source": "combined",
-        "rank": 54,
-        "originalTitle": "アルスラーン戦記（25）"
-      },
-      "ranking": {
-        "title": "アルスラーン戦記（25）",
-        "author": "荒川 弘/田中 芳樹",
-        "isbn": "",
-        "score": 168,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 12
-          }
-        ],
-        "source": "combined",
-        "rank": 23
+        "rank": 26
       }
     },
     {
@@ -1491,7 +1623,7 @@
           }
         ],
         "source": "combined",
-        "rank": 24
+        "rank": 27
       }
     },
     {
@@ -1538,7 +1670,7 @@
           }
         ],
         "source": "combined",
-        "rank": 25
+        "rank": 28
       }
     },
     {
@@ -1570,8 +1702,7 @@
           }
         ],
         "source": "combined",
-        "rank": 44,
-        "originalTitle": "FOR OVERSEAS"
+        "rank": 48
       },
       "ranking": {
         "title": "FOR OVERSEAS",
@@ -1586,7 +1717,7 @@
           }
         ],
         "source": "combined",
-        "rank": 26
+        "rank": 29
       }
     },
     {
@@ -1617,7 +1748,7 @@
           }
         ],
         "source": "combined",
-        "rank": 60,
+        "rank": 59,
         "originalTitle": "幽冥の岸 十二国記 (新潮文庫 お 37-66)"
       },
       "ranking": {
@@ -1633,7 +1764,54 @@
           }
         ],
         "source": "combined",
-        "rank": 27
+        "rank": 30
+      }
+    },
+    {
+      "id": "4972000167723",
+      "title": "ワールドトリガー 30",
+      "author": "葦原大介",
+      "publisher": "集英社",
+      "price": 594,
+      "url": "https://books.rakuten.co.jp/rk/4d8ae792b62e30719d6428c51d3199af/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8631/2000021668631.jpg?_ex=600x600",
+      "caption": "遠征選抜第2試験の内容はA級部隊VS臨時部隊での総勢95人による『長時間戦闘試験』！　試験用MAPに転送された臨時部隊は、古寺を指揮官に決める。修は部隊を前線に集結させるよう進言するが、その真意とは!?\n",
+      "salesDate": "2026年10月02日",
+      "series": "ワールドトリガー",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904001007",
+      "isbn": "4972000167723",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ワールドトリガー 30",
+        "author": "葦原 大介",
+        "score": 50,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 15
+          }
+        ],
+        "source": "combined",
+        "rank": 60,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "ワールドトリガー 30",
+        "author": "葦原 大介",
+        "isbn": "",
+        "score": 165,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 15
+          }
+        ],
+        "source": "combined",
+        "rank": 31
       }
     },
     {
@@ -1664,7 +1842,7 @@
           }
         ],
         "source": "combined",
-        "rank": 66,
+        "rank": 65,
         "originalTitle": ""
       },
       "ranking": {
@@ -1680,54 +1858,7 @@
           }
         ],
         "source": "combined",
-        "rank": 28
-      }
-    },
-    {
-      "id": "7328127791345",
-      "title": "ベル・プペーのスパダリ婚約〜「好みじゃない」と言われた人形姫、我慢をやめたら皇子がデレデレになった。実に愛い！〜（コミック）【分冊版】 3",
-      "author": "朝霧あさき/セレン",
-      "publisher": "スクウェア・エニックス",
-      "price": 154,
-      "url": "https://books.rakuten.co.jp/rk/3da725d9f93a340f96a4d2a5dd2696cd/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1344/2000016571344.jpg?_ex=600x600",
-      "caption": "『美しい人形（ベル・プペー）』のあだ名を持つ、公爵令嬢レティシア。儚げな容姿とは裏腹に、その本性は包容力と豪胆さを兼ね備えた屈指のスパダリであった。そんな彼女が、素行に難ありと噂される第二皇子ジルベールと婚約することになりーー。無謬のスパダリ令嬢と、孤独で不器用な呪われし赤目の皇子。運命の二人が互いを想い添い遂げる、”逆・溺愛”ラブストーリー。\n※この商品は「ベル・プペーのスパダリ婚約〜「好みじゃない」と言われた人形姫、我慢をやめたら皇子がデレデレになった。実に愛い！〜（コミック）」を1話ごとに分冊したものです。\n※分冊版話数と収録話数が異なります。あらかじめご了承ください。\n",
-      "salesDate": "2025年02月01日",
-      "series": "ベル・プペーのスパダリ婚約〜「好みじゃない」と言われた人形姫、我慢をやめたら皇子がデレデレになった。実に愛い！〜（コミック）【分冊版】",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904090",
-      "isbn": "7328127791345",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ベル・プペーのスパダリ婚約〜「好みじゃない」と言われた人形姫、我慢をやめたら皇子がデレデレになった。実に愛い!〜(コミック)(3)",
-        "author": "朝霧あさき/セレン",
-        "score": 42,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 17
-          }
-        ],
-        "source": "combined",
-        "rank": 67,
-        "originalTitle": "ベル・プペーのスパダリ婚約〜「好みじゃない」と言われた人形姫、我慢をやめたら皇子がデレデレになった。実に愛い！〜（コミック）（3）"
-      },
-      "ranking": {
-        "title": "ベル・プペーのスパダリ婚約〜「好みじゃない」と言われた人形姫、我慢をやめたら皇子がデレデレになった。実に愛い！〜（コミック）（3）",
-        "author": "朝霧あさき/セレン",
-        "isbn": "",
-        "score": 163,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 17
-          }
-        ],
-        "source": "combined",
-        "rank": 29
+        "rank": 32
       }
     },
     {
@@ -1758,7 +1889,7 @@
           }
         ],
         "source": "combined",
-        "rank": 71,
+        "rank": 70,
         "originalTitle": "風と共にゆとりぬ (文春文庫 あ 68-4)"
       },
       "ranking": {
@@ -1774,7 +1905,7 @@
           }
         ],
         "source": "combined",
-        "rank": 30
+        "rank": 33
       }
     },
     {
@@ -1805,7 +1936,7 @@
           }
         ],
         "source": "combined",
-        "rank": 77,
+        "rank": 76,
         "originalTitle": "【令和８年度】 いちばんやさしい ITパスポート 絶対合格の教科書＋出る順問題集"
       },
       "ranking": {
@@ -1821,7 +1952,7 @@
           }
         ],
         "source": "combined",
-        "rank": 31
+        "rank": 34
       }
     },
     {
@@ -1843,7 +1974,8 @@
       "matchMeta": {
         "title": "生きて行く私",
         "author": "宇野 千代",
-        "score": 26,
+        "isbn": "",
+        "score": 159,
         "sources": [
           {
             "source": "amazon",
@@ -1852,7 +1984,7 @@
           }
         ],
         "source": "combined",
-        "rank": 80,
+        "rank": 65,
         "originalTitle": "生きて行く私 (角川文庫)"
       },
       "ranking": {
@@ -1868,7 +2000,7 @@
           }
         ],
         "source": "combined",
-        "rank": 32
+        "rank": 35
       }
     },
     {
@@ -1899,7 +2031,7 @@
           }
         ],
         "source": "combined",
-        "rank": 82,
+        "rank": 81,
         "originalTitle": ""
       },
       "ranking": {
@@ -1915,102 +2047,7 @@
           }
         ],
         "source": "combined",
-        "rank": 33
-      }
-    },
-    {
-      "id": "9784059200208",
-      "title": "中学英語をもう一度ひとつひとつわかりやすく。改訂版",
-      "author": "山田暢彦",
-      "publisher": "Gakken",
-      "price": 2750,
-      "url": "https://books.rakuten.co.jp/rk/9cb800a28b693c02bc3c7c425c8b23c9/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0886/2000010850886.jpg?_ex=600x600",
-      "caption": "大人気参考書「ひとつひとつわかりやすく」3冊を再構成した中学英語学び直し本。やさしい解説と豊富な練習問題で，英文法の知識と英語の感覚が同時に身につく。大人向けの追加情報や音声学習コンテンツも充実。全英文収録の音読CD2枚つき。スマホ再生対応\n※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字列のハイライトや検索、辞書の参照、引用などの機能が使用できません。\n",
-      "salesDate": "2022年03月08日",
-      "series": "",
-      "reviewAverage": 4.38,
-      "reviewCount": 14,
-      "genreId": "101906001009",
-      "isbn": "9784059200208",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "中学英語をもう一度ひとつひとつわかりやすく。改訂版",
-        "author": "山田暢彦",
-        "isbn": "",
-        "score": 156,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 24
-          }
-        ],
-        "source": "combined",
-        "rank": 67,
-        "originalTitle": "中学英語をもう一度ひとつひとつわかりやすく。改訂版"
-      },
-      "ranking": {
-        "title": "中学英語をもう一度ひとつひとつわかりやすく。改訂版",
-        "author": "山田暢彦",
-        "isbn": "",
-        "score": 156,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 24
-          }
-        ],
-        "source": "combined",
-        "rank": 34
-      }
-    },
-    {
-      "id": "4972000169895",
-      "title": "SPY×FAMILY 18",
-      "author": "遠藤達哉",
-      "publisher": "集英社",
-      "price": 616,
-      "url": "https://books.rakuten.co.jp/rk/9ff88217c98330579739ae763ab036e2/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9312/2000021999312.jpg?_ex=600x600",
-      "caption": "ジャンプコミックスDIGITAL「SPY×FAMILY」18巻、11月4日配信スタート!!　※配信日は変更になることがあります。ご了承ください。\n",
-      "salesDate": "2026年11月04日",
-      "series": "SPY×FAMILY",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904001007",
-      "isbn": "4972000169895",
-      "salesType": 1,
-      "matchMeta": {
-        "title": "SPY×FAMILY 18",
-        "author": "遠藤 達哉",
-        "score": 10,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 25
-          }
-        ],
-        "source": "combined",
-        "rank": 87,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "SPY×FAMILY 18",
-        "author": "遠藤 達哉",
-        "isbn": "",
-        "score": 155,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 25
-          }
-        ],
-        "source": "combined",
-        "rank": 35
+        "rank": 36
       }
     },
     {
@@ -2042,7 +2079,7 @@
           }
         ],
         "source": "combined",
-        "rank": 69
+        "rank": 72
       },
       "ranking": {
         "title": "自分の思いを言葉にする こどもアウトプット図鑑 (サンクチュアリ出版)",
@@ -2057,7 +2094,7 @@
           }
         ],
         "source": "combined",
-        "rank": 36
+        "rank": 37
       }
     },
     {
@@ -2089,7 +2126,7 @@
           }
         ],
         "source": "combined",
-        "rank": 70
+        "rank": 73
       },
       "ranking": {
         "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
@@ -2104,195 +2141,54 @@
           }
         ],
         "source": "combined",
-        "rank": 37
-      }
-    },
-    {
-      "id": "4320000933797",
-      "title": "信長協奏曲（２４）",
-      "author": "石井あゆみ",
-      "publisher": "小学館",
-      "price": 759,
-      "url": "https://books.rakuten.co.jp/rk/af59f55907573c659ab91cb157d7e864/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4848/2000021814848.jpg?_ex=600x600",
-      "caption": "大ヒットタイムスリップ戦国物語、完結！！\n深手を負ったおゆきから\n「秀吉が本能寺に向かっている」\nという知らせを受けたサブロー。\n織田信長として、自分の代わりに\n“本能寺の変”にて死ぬつもりという\nミッチーの真意に気付いたサブローは･･･！？\n全てが決着する、最終巻！！\n",
-      "salesDate": "2026年10月09日",
-      "series": "信長協奏曲",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904002049",
-      "isbn": "4320000933797",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "信長協奏曲(24)",
-        "author": "石井 あゆみ",
-        "score": 6,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 26
-          }
-        ],
-        "source": "combined",
-        "rank": 90,
-        "originalTitle": "信長協奏曲（24）"
-      },
-      "ranking": {
-        "title": "信長協奏曲（24）",
-        "author": "石井 あゆみ",
-        "isbn": "",
-        "score": 154,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 26
-          }
-        ],
-        "source": "combined",
         "rank": 38
       }
     },
     {
-      "id": "4704763142900",
-      "title": "あなたの部屋は、あなた自身です。",
-      "author": "舛田光洋",
-      "publisher": "サンマーク出版",
-      "price": 1650,
-      "url": "https://books.rakuten.co.jp/rk/38eeda255c4736a3b9cbb05652117c8e/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5117/2000019555117.jpg?_ex=600x600",
-      "caption": "なぜかうまいっている人は、床にものが落ちていない。\n人生を立て直す行動環境メソッド「そうじ力」。\nあなたの部屋は、いまどのような状態ですか？\nもし、あなたの部屋が汚れているのなら、\n人生、行き詰まっていませんか？\nじつは、「あなたの部屋は、あなた自身」です。\n部屋は、あなたのいまの人生を反映しています。\nだから、部屋をキレイにすることで、人生を変えることも可能なのです。\n「そうじには人生を変える力がある」\nこれは、著者が長年提唱してきた、人生哲学「そうじ力」です。\n数々の家庭や企業を見る中、その場・空間とそこにいる人の生き方には、\n「相関の法則」があるということを解明したのです。\n住む人の「思い（心）」が、「行動」となり、その「結果」が部屋にあらわれる。\nだから、部屋をキレイにすることで、人の行動が変わり、思い（心）が変わり、\nそして人生までも変えるーーというのが、そうじ力の考えです。\nこの「『人生』と『空間』の相関法則」は、著者の経験則にとどまらず、\n数々のエビデンスがあり、さらに古来の教えにもあることです。\n犯罪心理学の「割れ窓理論」では、\n「割られた窓ガラスなど軽犯罪を放置すると、\n最終的に地域全体が荒廃し、\n犯罪が増加する」ということでも証明されています。\n仏教哲学には、\n「その人の心のあり方や行いが、\nその人を取り巻く環境や状況に影響を与える」\nという教えもあります。\nそして事実、古今東西、\n掃除やキレイな空間を大事にしている成功者は数多くいます。\n本書では、心理学、社会学、脳科学などさまざまなエビデンスや、\n仏教哲学も交え解説します。\nリビング、キッチン、トイレ、寝室……どこの部屋が私たちに\nどのような影響を与えているか、\nそして、キレイにすることによって起こるさまざまな奇跡的な出来事などをご紹介します。\n掃除が苦手という人でも大丈夫。\nまずは、蛇口など小さな場所を磨くことで人生が激変するコツや、\n自宅やオフィスに非日常の「例外領域」をもつコツなども紹介しています。\nさあ、人生を変えたければ、\nまずは、あなたの部屋と向き合いましょう。\n【目次より】\n◉空間と人生には「相関法則」がある\n◉成功している人は、なぜそうじを大事にしているのか？\n◉小さな秩序の乱れが重犯罪につながるーー割れ窓理論\n◉なぜ、お金持ちは「床にものを置かない」のか？\n◉トイレーーなぜ、幸運を呼ぶ場所と言われるのか？\n◉日本人が世界中でもっとも眠れない驚きの理由\n◉捨てることは、過去も未来も断ち切ること\n◉自分のレベルを下げるものを置いていませんか？\n◉非日常の「例外領域」を自宅につくろう\n",
-      "salesDate": "2026年03月02日",
+      "id": "4717991144100",
+      "title": "やりたいことが動き出す 可視化の教科書",
+      "author": "松岡まりえ",
+      "publisher": "すばる舎",
+      "price": 1980,
+      "url": "https://books.rakuten.co.jp/rk/66d674b1317a3eb48aef0c89fd5e42e6/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1847/2000022051847.jpg?_ex=600x600",
+      "caption": "「やりたいこと…何から始めればいい？」\n「目標を立てても挫折」\n「頭の中がごちゃごちゃ。まとまらない」\nそれは意志や能力の問題ではなく、自分の本当の望みや、前進し続ける道筋が、見えていないからかもしれません。\nそんなときに役立つのが、「可視化」。\n考えやアイデアを言葉や図に書き出すことで、漠然とした悩みや願望が整理され、「次に何をすればいいか」が見えてきます。\nPCもスマホも、難しい技術も必要ありません。基本は、A4の紙に手で書くだけ。\n【仕事】【お金】【家族】【学び直し】【副業・起業】【人生設計】まで、幅広い課題に活用できます。\n「書けば見える。見えれば、動ける」\n本書は、ただ「見える形にする」だけではなく、実際の行動につなげるための、実践的な教科書。目標達成までの道筋を描く方法を、4ステップで紹介します。\n＼生まれる変化／\n・迷う時間が減り、すぐ決めて動ける\n・闇雲にがんばらず、結果を見ながら着実に進める\n・一人で抱え込まず、周囲の力を借りられる\n著者は、大手製薬会社で約20年間、数百億円規模のプロジェクトやDX推進に携わり、年間3000枚、累計6万枚以上の資料を作成してきた「可視化の専門家」。\n仕事だけでなく、夫婦で800万円の奨学金返済、1億円の資産形成、副業、独立、会社経営、出張をこなしながらの家事や育児など、暮らしの中でも可視化を活用。\nさらに経営者や起業家の活動を支えることで極め、講座でもレクチャーして人材を輩出しています。\n本書は、上記の経験から生み出された可視化のノウハウを、マンガや具体例を交えながら、やさしく紹介します。\n最初から、明確な目標や完璧な計画がなくても大丈夫。\n「いつかやりたい」「考えているのに進まない」ということも、最速で「もうできた」に変えていくための一冊です。\n【目次】\nChapter1 なぜ、可視化で「すべてうまくいく」のか？\nChapter2 最速で目標達成を叶える! ４ステップ「ＫＡＳＨＩＫＡメソッド」\nstep(1)取り出すKnow＆Assess【目標を定める】\nstep(2)整理するSearch＆Highlight【探す】【タスクを見極める】\nstep(3)描くIllustrate【プランを立てる】\nstep(4)動かすKick off＆Adjust【一歩踏み出す】【調整しながら進める】\n",
+      "salesDate": "2026年10月13日",
       "series": "",
-      "reviewAverage": 3.54,
-      "reviewCount": 26,
-      "genreId": "101905010",
-      "isbn": "4704763142900",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "あなたの部屋は、あなた自身です。",
-        "author": "舛田光洋",
-        "score": 5,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 27
-          }
-        ],
-        "source": "combined",
-        "rank": 93,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "あなたの部屋は、あなた自身です。",
-        "author": "舛田光洋",
-        "isbn": "",
-        "score": 153,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 27
-          }
-        ],
-        "source": "combined",
-        "rank": 39
-      }
-    },
-    {
-      "id": "7225000902457",
-      "title": "魔法使いの嫁 25",
-      "author": "ヤマザキコレ",
-      "publisher": "ブシロードワークス(コミックグロウル)",
-      "price": 858,
-      "url": "https://books.rakuten.co.jp/rk/22b9c0a50cd439fd88b24488e8bbdb5d/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8241/2000021398241.jpg?_ex=600x600",
-      "caption": "あわれなる者達の歌、その行方は……。\n妖精による事件が相次ぐ、マン島。\n島の領主たる神・マナナンの“神託”により、騒動の背後に陰謀を画策するものがいることが判明する。一方で、ラピス達の前に現れたのは「獣」と水呼馬でーー。\n",
-      "salesDate": "2026年10月08日",
-      "series": "魔法使いの嫁",
       "reviewAverage": 0,
       "reviewCount": 0,
-      "genreId": "101904",
-      "isbn": "7225000902457",
-      "salesType": 0,
+      "genreId": "101905090/101905010004/101905007001",
+      "isbn": "4717991144100",
+      "salesType": 1,
       "matchMeta": {
-        "title": "魔法使いの嫁 25",
-        "author": "ヤマザキ　コレ",
+        "title": "やりたいことが動き出す 可視化の教科書",
+        "author": "",
         "score": 5,
         "sources": [
           {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 29
-          }
-        ],
-        "source": "combined",
-        "rank": 95,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "魔法使いの嫁 25",
-        "author": "ヤマザキ　コレ",
-        "isbn": "",
-        "score": 151,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 29
-          }
-        ],
-        "source": "combined",
-        "rank": 40
-      }
-    },
-    {
-      "id": "6194866579641",
-      "title": "誰かこの状況を説明してください！ 〜契約から始まるウェディング〜 12（アリアンローズコミックス）",
-      "author": "木野咲カズラ/徒然花",
-      "publisher": "フロンティアワークス",
-      "price": 792,
-      "url": "https://books.rakuten.co.jp/rk/56262dc9817535e3a0301b7ee5281fbc/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5700/2000021945700.jpg?_ex=600x600",
-      "caption": "近衛隊任務で多忙なサーシスとすれ違いが生じてしまったヴィオラ。\n一旦は和解するも、次のパーティーでサーシスが二の姫のエスコート役になったと聞き、モヤモヤが募り始めてしまう。\n迎えた当日、嫉妬したヴィオラの行動にサーシスが──!?\n仮面の笑顔とわかっていても、耐えられなくなる。\n一方、ユリダリスは意外な場所でステラリアと再会！　恋の歯車が回り始めて!?\n──ヴィオラとサーシスが高校生に!?　紙と電子で異なる描き下ろしミニ漫画を収録した第12巻！\n【電子限定「警告の侍女 〜辛口侍女は王子殿下のお気に入り〜」試し読み付き】\n",
-      "salesDate": "2026年10月09日",
-      "series": "誰かこの状況を説明してください！ 〜契約から始まるウェディング〜",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904090",
-      "isbn": "6194866579641",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "誰かこの状況を説明してください! 〜契約から始まるウェディング〜 12",
-        "author": "木野咲カズラ/徒然花/萩原 凛",
-        "score": 5,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
             "rank": 30
           }
         ],
         "source": "combined",
-        "rank": 96,
-        "originalTitle": "誰かこの状況を説明してください！ 〜契約から始まるウェディング〜 12"
+        "rank": 100,
+        "originalTitle": "やりたいことが動き出す　可視化の教科書"
       },
       "ranking": {
-        "title": "誰かこの状況を説明してください！ 〜契約から始まるウェディング〜 12",
-        "author": "木野咲カズラ/徒然花/萩原 凛",
+        "title": "やりたいことが動き出す 可視化の教科書",
+        "author": "",
         "isbn": "",
         "score": 150,
         "sources": [
           {
-            "source": "rakuten",
-            "label": "楽天ブックス",
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
             "rank": 30
           }
         ],
         "source": "combined",
-        "rank": 41
+        "rank": 39
       }
     },
     {
@@ -2323,7 +2219,7 @@
           }
         ],
         "source": "combined",
-        "rank": 6,
+        "rank": 7,
         "originalTitle": ""
       },
       "ranking": {
@@ -2338,7 +2234,7 @@
           }
         ],
         "source": "combined",
-        "rank": 42,
+        "rank": 40,
         "originalTitle": ""
       }
     },
@@ -2370,7 +2266,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18,
+        "rank": 19,
         "originalTitle": ""
       },
       "ranking": {
@@ -2385,7 +2281,7 @@
           }
         ],
         "source": "combined",
-        "rank": 43,
+        "rank": 41,
         "originalTitle": ""
       }
     },
@@ -2432,7 +2328,7 @@
           }
         ],
         "source": "combined",
-        "rank": 44,
+        "rank": 42,
         "originalTitle": ""
       }
     },
@@ -2479,7 +2375,7 @@
           }
         ],
         "source": "combined",
-        "rank": 45,
+        "rank": 43,
         "originalTitle": ""
       }
     }
@@ -2487,13 +2383,12 @@
   "byGenre": {
     "fiction": [
       "4390000014426",
-      "4916475490001",
+      "4340008067051",
       "4320000935695",
       "4910000909001",
       "4380000408000",
       "4390000005636",
       "4660629612104",
-      "4310000683989",
       "4320000935691",
       "4910000884732",
       "4340008067611",
@@ -2501,7 +2396,6 @@
       "4480000838415"
     ],
     "mystery": [
-      "4916475490001",
       "4320000935695",
       "4390000005636",
       "4620000615075",
@@ -2516,12 +2410,12 @@
       "4310000785781",
       "4524815638200",
       "8910128251768",
-      "4704763142900"
+      "4717991144100"
     ],
     "humanities": [
+      "4380000407898",
       "4310000701877",
       "4390000014426",
-      "4380000407898",
       "4390000002253",
       "4380000408012",
       "4390000005710",
@@ -2540,7 +2434,7 @@
     ],
     "life": [
       "4380000407898",
-      "4910000924303",
+      "4910000924316",
       "4410000009695",
       "4910000924301"
     ],
@@ -2554,7 +2448,6 @@
     ],
     "language": [
       "4310000701877",
-      "9784059200208",
       "6681311679960"
     ],
     "children": [
@@ -2568,22 +2461,22 @@
     ],
     "comic": [
       "4310000937174",
-      "7225000908848",
-      "4310000937173",
-      "7328127791345",
       "4972000169895",
-      "4320000933797",
-      "7225000902457",
-      "6194866579641"
+      "4310000937173",
+      "4972000169889",
+      "7225000908848",
+      "4320000937482",
+      "4310000779045",
+      "4972000167723"
     ]
   },
   "genreStatus": {
     "fiction": {
-      "matched": 13,
+      "matched": 12,
       "complete": true
     },
     "mystery": {
-      "matched": 6,
+      "matched": 5,
       "complete": true
     },
     "sf": {
@@ -2627,7 +2520,7 @@
       "complete": true
     },
     "language": {
-      "matched": 3,
+      "matched": 2,
       "complete": true
     },
     "children": {

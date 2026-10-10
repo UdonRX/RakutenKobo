@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "year",
-  "updatedAt": "2026-10-10T13:15:24.216Z",
+  "updatedAt": "2026-10-10T22:11:36.599Z",
   "candidateCount": 13,
-  "baseMatched": 7,
+  "baseMatched": 8,
   "matched": 9,
-  "addedMatches": 2,
+  "addedMatches": 1,
   "unavailable": [],
   "snapshots": {
     "tohan": {
@@ -425,9 +425,8 @@
       "salesType": 0,
       "matchMeta": {
         "title": "棺桶まで歩こう",
-        "author": "",
-        "isbn": "",
-        "score": 170,
+        "author": "萬田緑平",
+        "score": 70,
         "sources": [
           {
             "source": "tohan",
@@ -437,7 +436,7 @@
         ],
         "source": "combined",
         "rank": 10,
-        "originalTitle": "棺桶まで歩こう"
+        "originalTitle": ""
       },
       "ranking": {
         "title": "棺桶まで歩こう",

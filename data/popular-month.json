@@ -4,10 +4,10 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-10-09T23:05:39.897Z",
+  "updatedAt": "2026-10-10T06:35:17.422Z",
   "candidateCount": 38,
-  "baseMatched": 17,
-  "matched": 19,
+  "baseMatched": 12,
+  "matched": 14,
   "addedMatches": 2,
   "unavailable": [],
   "snapshots": {
@@ -17,7 +17,7 @@
       "attribution": "紀伊國屋書店調べ",
       "sourceUrl": "https://www.kinokuniya.co.jp/disp/CKnRankingPageCList.jsp?dispNo=107002001001&vTp=m",
       "periodLabel": "マンスリー",
-      "updatedAt": "2026-10-09",
+      "updatedAt": "2026-10-10",
       "live": true,
       "items": [
         {
@@ -39,22 +39,16 @@
           "rank": 7
         },
         {
-          "title": "ソン・シギョンの本当に美味しい韓国グルメガイド - ＳＵＮＧ ＳＩ ＫＹＵＮＧ’ｓ Ｄｅｅｐ Ｋｏｒｅ 講談社ＭＯＯＫ",
-          "author": "",
-          "isbn": "",
-          "rank": 23
-        },
-        {
           "title": "未だ本能寺にあり",
           "author": "",
           "isbn": "",
-          "rank": 23
+          "rank": 22
         },
         {
           "title": "命の燃やし方",
           "author": "",
           "isbn": "",
-          "rank": 26
+          "rank": 25
         },
         {
           "title": "探偵小石は戻らない",
@@ -66,13 +60,7 @@
           "title": "春までのセンセイ",
           "author": "",
           "isbn": "",
-          "rank": 28
-        },
-        {
-          "title": "帳の向こう",
-          "author": "",
-          "isbn": "",
-          "rank": 30
+          "rank": 29
         }
       ]
     },
@@ -82,7 +70,7 @@
       "attribution": "トーハン調べ",
       "sourceUrl": "https://www.tohan.jp/bestsellers/2026_09_monthly/",
       "periodLabel": "月間",
-      "updatedAt": "2026-10-09",
+      "updatedAt": "2026-10-10",
       "live": true,
       "items": [
         {
@@ -435,79 +423,32 @@
       "matchMeta": {
         "title": "未だ本能寺にあり",
         "author": "",
-        "score": 14,
+        "score": 22,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 24
+            "rank": 22
           }
         ],
         "source": "combined",
-        "rank": 32,
+        "rank": 31,
         "originalTitle": ""
       },
       "ranking": {
         "title": "未だ本能寺にあり",
         "author": "",
         "isbn": "",
-        "score": 157,
+        "score": 158,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 23
+            "rank": 22
           }
         ],
         "source": "combined",
         "rank": 7
-      }
-    },
-    {
-      "id": "4310000936589",
-      "title": "ソン・シギョンの本当に美味しい韓国グルメガイド　ＳＵＮＧ　ＳＩ　ＫＹＵＮＧ’ｓ　Ｄｅｅｐ　Ｋｏｒｅａ",
-      "author": "ソン・シギョン",
-      "publisher": "講談社",
-      "price": 2200,
-      "url": "https://books.rakuten.co.jp/rk/4374061cc5783b7593a3e194d7cabec4/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1514/2000021871514.jpg?_ex=600x600",
-      "caption": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。\n韓国の国民的人気歌手で、食通としても知られるソン・シギョン。\n自身のYouTubeチャンネルで人気を集めるグルメコンテンツ「モグルテンデ」が、待望の一冊に。\nソウルを中心に、ソン・シギョン自らが選んだ“本当においしい店”123店を厳選して紹介。\n韓国で撮り下ろした写真やロングインタビューも収録。\n観光客向けの定番店ではなく、「韓国で本当に美味しいものを食べたい」という人へ。\nソン・シギョンだからこそ案内できる、これまでにない韓国グルメガイドです。\n※この商品は紙の書籍のページを画像にした電子書籍です。文字だけを拡大することはできませんので、タブレットサイズの端末での閲読を推奨します。また、文字列のハイライトや検索、辞書の参照、引用などの機能も使用できません。\n",
-      "salesDate": "2026年10月01日",
-      "series": "ソン・シギョンの本当に美味しい韓国グルメガイド　ＳＵＮＧ　ＳＩ　ＫＹＵＮＧ’ｓ　Ｄｅｅｐ　Ｋｏｒｅａ",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101911",
-      "isbn": "4310000936589",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ソン・シギョンの本当に美味しい韓国グルメガイド - SUNG SI KYUNG’s Deep Kore 講談社MOOK",
-        "author": "",
-        "score": 18,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 23
-          }
-        ],
-        "source": "combined",
-        "rank": 31,
-        "originalTitle": "ソン・シギョンの本当に美味しい韓国グルメガイド - ＳＵＮＧ　ＳＩ　ＫＹＵＮＧ’ｓ　Ｄｅｅｐ　Ｋｏｒｅ 講談社ＭＯＯＫ"
-      },
-      "ranking": {
-        "title": "ソン・シギョンの本当に美味しい韓国グルメガイド - ＳＵＮＧ ＳＩ ＫＹＵＮＧ’ｓ Ｄｅｅｐ Ｋｏｒｅ 講談社ＭＯＯＫ",
-        "author": "",
-        "isbn": "",
-        "score": 157,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 23
-          }
-        ],
-        "source": "combined",
-        "rank": 8
       }
     },
     {
@@ -529,32 +470,32 @@
       "matchMeta": {
         "title": "命の燃やし方",
         "author": "",
-        "score": 6,
+        "score": 10,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 26
+            "rank": 25
           }
         ],
         "source": "combined",
-        "rank": 34,
+        "rank": 33,
         "originalTitle": ""
       },
       "ranking": {
         "title": "命の燃やし方",
         "author": "",
         "isbn": "",
-        "score": 154,
+        "score": 155,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 26
+            "rank": 25
           }
         ],
         "source": "combined",
-        "rank": 9
+        "rank": 8
       }
     },
     {
@@ -601,7 +542,7 @@
           }
         ],
         "source": "combined",
-        "rank": 10
+        "rank": 9
       }
     },
     {
@@ -628,53 +569,6 @@
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 28
-          }
-        ],
-        "source": "combined",
-        "rank": 36,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "春までのセンセイ",
-        "author": "",
-        "isbn": "",
-        "score": 152,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 28
-          }
-        ],
-        "source": "combined",
-        "rank": 11
-      }
-    },
-    {
-      "id": "4390000016485",
-      "title": "帳の向こう",
-      "author": "國分功一郎/若林正恭",
-      "publisher": "文藝春秋",
-      "price": 1800,
-      "url": "https://books.rakuten.co.jp/rk/8757734913463c04b18adb23ecb05ddf/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3363/2000021713363.jpg?_ex=600x600",
-      "caption": "現代の生きづらさを語り合った４年間の記録\nオードリーの若林正恭さんがもっとも話したい相手は、哲学者の國分功一郎さんだった。\n「目的と手段」の社会は終わりつつある？\n資本主義の魔物に、どう立ち向かえばいい？\n現代で「快適」を求めるには、勇気が必要？\n二人が語り合った、現代への違和感のすべて。\n【目次】\nまえがき──どういうわけだか分からないが人間的な精神の仕組みに抗うことになってしまい……　　國分功一郎\n１　真犯人を捜して生きている\n２　目的もなく遊び続けろ\n３　ビッグモーター化する世界の中で\n４　やっとみんな疲れてきた\n５　ネオリベの帳を越えて\nあとがき　　若林正恭\n",
-      "salesDate": "2026年09月11日",
-      "series": "",
-      "reviewAverage": 4.56,
-      "reviewCount": 25,
-      "genreId": "101907015/101907007/101907002002",
-      "isbn": "4390000016485",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "帳の向こう",
-        "author": "",
-        "score": 5,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
             "rank": 30
           }
         ],
@@ -683,113 +577,19 @@
         "originalTitle": ""
       },
       "ranking": {
-        "title": "帳の向こう",
+        "title": "春までのセンセイ",
         "author": "",
         "isbn": "",
-        "score": 150,
+        "score": 151,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 30
+            "rank": 29
           }
         ],
         "source": "combined",
-        "rank": 12
-      }
-    },
-    {
-      "id": "4320000867368",
-      "title": "GOAT Summer 2026",
-      "author": "宮島未奈/尾崎世界観/山内マリコ/梨/麻布競馬場",
-      "publisher": "小学館",
-      "price": 506,
-      "url": "https://books.rakuten.co.jp/rk/f5b51183e72e30a7a80fcb62bd0705ba/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9590/2000020809590.jpg?_ex=600x600",
-      "caption": "大ヒット！話題沸騰の新文芸誌、第4号！\n〇特集「食」\n【小説】\n宮島未奈 尾崎世界観 山内マリコ 市川沙央 梨 麻布競馬場 山口未桜 前川知大 小田雅久仁 佐久間由衣 芦沢央 上條一輝 真下みこと 方丈貴恵 青柳碧人 中西智佐乃 三木三奈 村雲菜月\n【エッセイ】\n角田光代 酒徒 吉川トリコ\n【わたしの偏食 エッセイ】\n伊藤亜和 井上咲楽 けんた食堂 ジェーン・スー 絶対に終電を逃さない女 生湯葉シホ 福徳秀介 穂村弘 吉田恵里香 ヨシダナギ\n【食日記】\nでか美ちゃん\n【対談】\n山極壽一×平野紗季子\n藤原辰史×小林エリカ\n【自炊レッスン】\n山口祐加×ダ・ヴィンチ・恐山\n【私のGOAT本】\n宇多丸 宮部みゆき 山崎怜奈 米澤穂信\n【文学賞】\n第1回GO-mono長編文学賞 受賞作発表\n選考委員長:加藤シゲアキ\n【連載】\n藤ヶ谷太輔\n【ゴートアム短歌賞】\n俵万智×岸田繁\n【出せなかった手紙】\n荒井良二\n【ゴートくんがゆく！】\n印刷博物館編　インタビュー:京極夏彦館長\n【特集】『ファイア・ドーム』（辻村深月）\n他豪華企画多数！\n（底本　2026年6月発売作品）\n※底本綴じ込み付録の「ゴートくんのおべんとうしおり」は、電子書籍には含まれておりません。あらかじめご了承ください。\n※本電子書籍に掲載されている二次元バーコードは、端末の機種やアプリの仕様によっては読み取れない場合があります。その際はURLからアクセスしてください。\n※この作品はカラーが含まれます。\n",
-      "salesDate": "2026年06月10日",
-      "series": "GOAT",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101907015004/101907015001/101901002",
-      "isbn": "4320000867368",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "GOAT Summer 2026",
-        "author": "",
-        "score": 106,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 1
-          }
-        ],
-        "source": "combined",
-        "rank": 3,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "GOAT Summer 2026",
-        "author": "",
-        "score": 106,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 1
-          }
-        ],
-        "source": "combined",
-        "rank": 13,
-        "originalTitle": ""
-      }
-    },
-    {
-      "id": "4320000865495",
-      "title": "ファイア・ドーム 上",
-      "author": "辻村深月",
-      "publisher": "小学館",
-      "price": 1881,
-      "url": "https://books.rakuten.co.jp/rk/22c26517c9353107819b56539afa6896/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1853/2000020771853.jpg?_ex=600x600",
-      "caption": "人はなぜ大きな事件に魅了されてしまうのか。\n噂は、軽薄な娯楽だ。\n25年前、平穏だったはずの地方都市は、百貨店受付嬢誘拐殺人事件の発生、その報道により揺り動かされ、「噂」という大量の炎が、加害者のみならず被害者にも降り注ぎ、燃えさかった。ようやく静けさを取り戻したかに見える町に燻り続ける因縁が、いま新たな事件を呼び起こすーー。\n「もう言われてるよ！　どうせ、親が殺したんだろうって！」ーー本文より\n",
-      "salesDate": "2026年06月05日",
-      "series": "ファイア・ドーム",
-      "reviewAverage": 4.58,
-      "reviewCount": 480,
-      "genreId": "101901/101902",
-      "isbn": "4320000865495",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ファイア・ドーム 上",
-        "author": "辻村深月",
-        "score": 102,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 2
-          }
-        ],
-        "source": "combined",
-        "rank": 5,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "ファイア・ドーム 上",
-        "author": "辻村深月",
-        "score": 102,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 2
-          }
-        ],
-        "source": "combined",
-        "rank": 14,
-        "originalTitle": ""
+        "rank": 10
       }
     },
     {
@@ -835,7 +635,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15,
+        "rank": 11,
         "originalTitle": ""
       }
     },
@@ -882,54 +682,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16,
-        "originalTitle": ""
-      }
-    },
-    {
-      "id": "4390000015358",
-      "title": "青天",
-      "author": "若林正恭",
-      "publisher": "文藝春秋",
-      "price": 1900,
-      "url": "https://books.rakuten.co.jp/rk/a6fc1b8794af3eafb7f064fac9c68dfa/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0144/2000019330144.jpg?_ex=600x600",
-      "caption": "オードリー・若林正恭、初小説！\n人にぶつかっていないと、自分が生きているかどうかよくわからなくなるーー\n総大三高の「アリ」こと中村昴が所属するアメフト部は、万年２回戦どまり。相手校の練習を隠し撮りして迎えた高３の引退大会では、強豪・遼西学園に打ち破れた。引退後、みなが受験に向かうなか、勉強にも気持ちが入らず、不良になる覚悟もないまま宙ぶらりんの日々を過ごす。自分自身の不甲斐なさにもがき続けるなかで、アリは再びアメフトと向き合う決意を固める。\n青春の苦みと悦びに満ちた、著者渾身の初小説。\n",
-      "salesDate": "2026年02月20日",
-      "series": "",
-      "reviewAverage": 3.99,
-      "reviewCount": 623,
-      "genreId": "101901",
-      "isbn": "4390000015358",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "青天",
-        "author": "若林正恭",
-        "score": 78,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 14,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "青天",
-        "author": "若林正恭",
-        "score": 78,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 17,
+        "rank": 12,
         "originalTitle": ""
       }
     },
@@ -976,7 +729,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18,
+        "rank": 13,
         "originalTitle": ""
       }
     },
@@ -1023,7 +776,7 @@
           }
         ],
         "source": "combined",
-        "rank": 19,
+        "rank": 14,
         "originalTitle": ""
       }
     }
@@ -1034,15 +787,11 @@
       "4380000408000",
       "4320000935695",
       "6681316776900",
-      "4320000867368",
-      "4320000865495",
       "4320000865494",
-      "4310000858457",
-      "4390000015358"
+      "4310000858457"
     ],
     "mystery": [
       "4320000935695",
-      "4320000865495",
       "4320000865494"
     ],
     "sf": [],
@@ -1055,8 +804,6 @@
       "4380000407898",
       "4390000014247",
       "4310000701877",
-      "4390000016485",
-      "4320000867368",
       "7225000866451"
     ],
     "nonfiction": [
@@ -1069,27 +816,23 @@
     ],
     "health": [],
     "hobby": [],
-    "travel": [
-      "4310000936589"
-    ],
+    "travel": [],
     "language": [
       "4310000701877"
     ],
     "children": [
       "4335396900320"
     ],
-    "essay": [
-      "4320000867368"
-    ],
+    "essay": [],
     "comic": []
   },
   "genreStatus": {
     "fiction": {
-      "matched": 9,
+      "matched": 6,
       "complete": true
     },
     "mystery": {
-      "matched": 3,
+      "matched": 2,
       "complete": true
     },
     "sf": {
@@ -1101,7 +844,7 @@
       "complete": true
     },
     "humanities": {
-      "matched": 6,
+      "matched": 4,
       "complete": true
     },
     "nonfiction": {
@@ -1129,7 +872,7 @@
       "complete": true
     },
     "travel": {
-      "matched": 1,
+      "matched": 0,
       "complete": true
     },
     "language": {
@@ -1141,7 +884,7 @@
       "complete": true
     },
     "essay": {
-      "matched": 1,
+      "matched": 0,
       "complete": true
     },
     "comic": {

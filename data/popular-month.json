@@ -4,7 +4,7 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-10-10T22:11:32.579Z",
+  "updatedAt": "2026-10-11T06:40:05.471Z",
   "candidateCount": 38,
   "baseMatched": 14,
   "matched": 16,
@@ -17,7 +17,7 @@
       "attribution": "紀伊國屋書店調べ",
       "sourceUrl": "https://www.kinokuniya.co.jp/disp/CKnRankingPageCList.jsp?dispNo=107002001001&vTp=m",
       "periodLabel": "マンスリー",
-      "updatedAt": "2026-10-10",
+      "updatedAt": "2026-10-11",
       "live": true,
       "items": [
         {
@@ -36,37 +36,31 @@
           "title": "イン・ザ・メガチャーチ",
           "author": "",
           "isbn": "",
-          "rank": 7
+          "rank": 8
         },
         {
           "title": "未だ本能寺にあり",
           "author": "",
           "isbn": "",
-          "rank": 22
-        },
-        {
-          "title": "ソン・シギョンの本当に美味しい韓国グルメガイド - ＳＵＮＧ ＳＩ ＫＹＵＮＧ’ｓ Ｄｅｅｐ Ｋｏｒｅ 講談社ＭＯＯＫ",
-          "author": "",
-          "isbn": "",
-          "rank": 23
-        },
-        {
-          "title": "命の燃やし方",
-          "author": "",
-          "isbn": "",
-          "rank": 25
+          "rank": 19
         },
         {
           "title": "探偵小石は戻らない",
           "author": "",
           "isbn": "",
-          "rank": 27
+          "rank": 23
         },
         {
-          "title": "春までのセンセイ",
+          "title": "ソン・シギョンの本当に美味しい韓国グルメガイド - ＳＵＮＧ ＳＩ ＫＹＵＮＧ’ｓ Ｄｅｅｐ Ｋｏｒｅ 講談社ＭＯＯＫ",
           "author": "",
           "isbn": "",
-          "rank": 29
+          "rank": 25
+        },
+        {
+          "title": "命の燃やし方",
+          "author": "",
+          "isbn": "",
+          "rank": 27
         }
       ]
     },
@@ -76,7 +70,7 @@
       "attribution": "トーハン調べ",
       "sourceUrl": "https://www.tohan.jp/bestsellers/2026_09_monthly/",
       "periodLabel": "月間",
-      "updatedAt": "2026-10-10",
+      "updatedAt": "2026-10-11",
       "live": true,
       "items": [
         {
@@ -184,7 +178,7 @@
       "matchMeta": {
         "title": "イン・ザ・メガチャーチ",
         "author": "朝井リョウ",
-        "score": 164,
+        "score": 160,
         "sources": [
           {
             "source": "tohan",
@@ -194,7 +188,7 @@
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 7
+            "rank": 8
           }
         ],
         "source": "combined",
@@ -205,12 +199,12 @@
         "title": "イン・ザ・メガチャーチ",
         "author": "",
         "isbn": "",
-        "score": 347,
+        "score": 346,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 7
+            "rank": 8
           },
           {
             "source": "tohan",
@@ -430,126 +424,32 @@
       "matchMeta": {
         "title": "未だ本能寺にあり",
         "author": "",
-        "score": 22,
+        "score": 34,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 22
+            "rank": 19
           }
         ],
         "source": "combined",
-        "rank": 31,
+        "rank": 28,
         "originalTitle": ""
       },
       "ranking": {
         "title": "未だ本能寺にあり",
         "author": "",
         "isbn": "",
-        "score": 158,
+        "score": 161,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 22
+            "rank": 19
           }
         ],
         "source": "combined",
         "rank": 7
-      }
-    },
-    {
-      "id": "4310000936589",
-      "title": "ソン・シギョンの本当に美味しい韓国グルメガイド　ＳＵＮＧ　ＳＩ　ＫＹＵＮＧ’ｓ　Ｄｅｅｐ　Ｋｏｒｅａ",
-      "author": "ソン・シギョン",
-      "publisher": "講談社",
-      "price": 2200,
-      "url": "https://books.rakuten.co.jp/rk/4374061cc5783b7593a3e194d7cabec4/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1514/2000021871514.jpg?_ex=600x600",
-      "caption": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。\n韓国の国民的人気歌手で、食通としても知られるソン・シギョン。\n自身のYouTubeチャンネルで人気を集めるグルメコンテンツ「モグルテンデ」が、待望の一冊に。\nソウルを中心に、ソン・シギョン自らが選んだ“本当においしい店”123店を厳選して紹介。\n韓国で撮り下ろした写真やロングインタビューも収録。\n観光客向けの定番店ではなく、「韓国で本当に美味しいものを食べたい」という人へ。\nソン・シギョンだからこそ案内できる、これまでにない韓国グルメガイドです。\n※この商品は紙の書籍のページを画像にした電子書籍です。文字だけを拡大することはできませんので、タブレットサイズの端末での閲読を推奨します。また、文字列のハイライトや検索、辞書の参照、引用などの機能も使用できません。\n",
-      "salesDate": "2026年10月01日",
-      "series": "ソン・シギョンの本当に美味しい韓国グルメガイド　ＳＵＮＧ　ＳＩ　ＫＹＵＮＧ’ｓ　Ｄｅｅｐ　Ｋｏｒｅａ",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101911",
-      "isbn": "4310000936589",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ソン・シギョンの本当に美味しい韓国グルメガイド - SUNG SI KYUNG’s Deep Kore 講談社MOOK",
-        "author": "",
-        "score": 18,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 23
-          }
-        ],
-        "source": "combined",
-        "rank": 32,
-        "originalTitle": "ソン・シギョンの本当に美味しい韓国グルメガイド - ＳＵＮＧ　ＳＩ　ＫＹＵＮＧ’ｓ　Ｄｅｅｐ　Ｋｏｒｅ 講談社ＭＯＯＫ"
-      },
-      "ranking": {
-        "title": "ソン・シギョンの本当に美味しい韓国グルメガイド - ＳＵＮＧ ＳＩ ＫＹＵＮＧ’ｓ Ｄｅｅｐ Ｋｏｒｅ 講談社ＭＯＯＫ",
-        "author": "",
-        "isbn": "",
-        "score": 157,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 23
-          }
-        ],
-        "source": "combined",
-        "rank": 8
-      }
-    },
-    {
-      "id": "4310000701877",
-      "title": "命の燃やし方",
-      "author": "鈴木大飛",
-      "publisher": "講談社",
-      "price": 1485,
-      "url": "https://books.rakuten.co.jp/rk/bea5649a02103e659365e8b720c3170e/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6445/2000018336445.jpg?_ex=600x600",
-      "caption": "「読むだけで終わらせず、読んだ人の人生を変えたい」\n彼の切実な願いが行間にまで迸り、現代の“聖書”とも言うべき熱量であなたの命に火を灯す一冊\n3冊目となる新刊は、前作『アイドル2.0』を発売した2022年8月以来、3年ぶりとなる。誰よりも自分の人生と向き合い、本気で命を燃やしてきた鈴木大飛が27年間で学んだ全てをこの一冊に込める。\n「読むだけで終わらせず、読んだ人の人生を変えたい」\n彼の切実な願いが行間にまで迸り、現代の“聖書”とも言うべき熱量であなたの命に火を灯す一冊となっている。\n※電子版には発売記念イベントの応募用紙は入っておりません。\n",
-      "salesDate": "2025年08月26日",
-      "series": "命の燃やし方",
-      "reviewAverage": 4.1,
-      "reviewCount": 95,
-      "genreId": "101907014/101907001004/101906090/101905016001",
-      "isbn": "4310000701877",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "命の燃やし方",
-        "author": "",
-        "score": 10,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 25
-          }
-        ],
-        "source": "combined",
-        "rank": 33,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "命の燃やし方",
-        "author": "",
-        "isbn": "",
-        "score": 155,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 25
-          }
-        ],
-        "source": "combined",
-        "rank": 9
       }
     },
     {
@@ -571,6 +471,100 @@
       "matchMeta": {
         "title": "探偵小石は戻らない",
         "author": "",
+        "score": 18,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 23
+          }
+        ],
+        "source": "combined",
+        "rank": 32,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "探偵小石は戻らない",
+        "author": "",
+        "isbn": "",
+        "score": 157,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 23
+          }
+        ],
+        "source": "combined",
+        "rank": 8
+      }
+    },
+    {
+      "id": "4310000936589",
+      "title": "ソン・シギョンの本当に美味しい韓国グルメガイド　ＳＵＮＧ　ＳＩ　ＫＹＵＮＧ’ｓ　Ｄｅｅｐ　Ｋｏｒｅａ",
+      "author": "ソン・シギョン",
+      "publisher": "講談社",
+      "price": 2200,
+      "url": "https://books.rakuten.co.jp/rk/4374061cc5783b7593a3e194d7cabec4/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1514/2000021871514.jpg?_ex=600x600",
+      "caption": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。\n韓国の国民的人気歌手で、食通としても知られるソン・シギョン。\n自身のYouTubeチャンネルで人気を集めるグルメコンテンツ「モグルテンデ」が、待望の一冊に。\nソウルを中心に、ソン・シギョン自らが選んだ“本当においしい店”123店を厳選して紹介。\n韓国で撮り下ろした写真やロングインタビューも収録。\n観光客向けの定番店ではなく、「韓国で本当に美味しいものを食べたい」という人へ。\nソン・シギョンだからこそ案内できる、これまでにない韓国グルメガイドです。\n※この商品は紙の書籍のページを画像にした電子書籍です。文字だけを拡大することはできませんので、タブレットサイズの端末での閲読を推奨します。また、文字列のハイライトや検索、辞書の参照、引用などの機能も使用できません。\n",
+      "salesDate": "2026年10月01日",
+      "series": "ソン・シギョンの本当に美味しい韓国グルメガイド　ＳＵＮＧ　ＳＩ　ＫＹＵＮＧ’ｓ　Ｄｅｅｐ　Ｋｏｒｅａ",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101911",
+      "isbn": "4310000936589",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ソン・シギョンの本当に美味しい韓国グルメガイド - SUNG SI KYUNG’s Deep Kore 講談社MOOK",
+        "author": "",
+        "score": 10,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 25
+          }
+        ],
+        "source": "combined",
+        "rank": 34,
+        "originalTitle": "ソン・シギョンの本当に美味しい韓国グルメガイド - ＳＵＮＧ　ＳＩ　ＫＹＵＮＧ’ｓ　Ｄｅｅｐ　Ｋｏｒｅ 講談社ＭＯＯＫ"
+      },
+      "ranking": {
+        "title": "ソン・シギョンの本当に美味しい韓国グルメガイド - ＳＵＮＧ ＳＩ ＫＹＵＮＧ’ｓ Ｄｅｅｐ Ｋｏｒｅ 講談社ＭＯＯＫ",
+        "author": "",
+        "isbn": "",
+        "score": 155,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 25
+          }
+        ],
+        "source": "combined",
+        "rank": 9
+      }
+    },
+    {
+      "id": "4310000701877",
+      "title": "命の燃やし方",
+      "author": "鈴木大飛",
+      "publisher": "講談社",
+      "price": 1485,
+      "url": "https://books.rakuten.co.jp/rk/bea5649a02103e659365e8b720c3170e/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6445/2000018336445.jpg?_ex=600x600",
+      "caption": "「読むだけで終わらせず、読んだ人の人生を変えたい」\n彼の切実な願いが行間にまで迸り、現代の“聖書”とも言うべき熱量であなたの命に火を灯す一冊\n3冊目となる新刊は、前作『アイドル2.0』を発売した2022年8月以来、3年ぶりとなる。誰よりも自分の人生と向き合い、本気で命を燃やしてきた鈴木大飛が27年間で学んだ全てをこの一冊に込める。\n「読むだけで終わらせず、読んだ人の人生を変えたい」\n彼の切実な願いが行間にまで迸り、現代の“聖書”とも言うべき熱量であなたの命に火を灯す一冊となっている。\n※電子版には発売記念イベントの応募用紙は入っておりません。\n",
+      "salesDate": "2025年08月26日",
+      "series": "命の燃やし方",
+      "reviewAverage": 4.1,
+      "reviewCount": 95,
+      "genreId": "101907014/101907001004/101906090/101905016001",
+      "isbn": "4310000701877",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "命の燃やし方",
+        "author": "",
         "score": 5,
         "sources": [
           {
@@ -584,7 +578,7 @@
         "originalTitle": ""
       },
       "ranking": {
-        "title": "探偵小石は戻らない",
+        "title": "命の燃やし方",
         "author": "",
         "isbn": "",
         "score": 153,
@@ -597,53 +591,6 @@
         ],
         "source": "combined",
         "rank": 10
-      }
-    },
-    {
-      "id": "6681316776900",
-      "title": "春までのセンセイ",
-      "author": "早見和真",
-      "publisher": "双葉社",
-      "price": 1980,
-      "url": "https://books.rakuten.co.jp/rk/bc5b179ed95d38cca46c4b528e6eda25/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4600/2000021754600.jpg?_ex=600x600",
-      "caption": "先生は私に命がけの言葉をくれたーー\nひとりの教師と32人の生徒が向き合う“最後”の１年\n『ザ・ロイヤルファミリー』『アルプス席の母』を経て辿り着いた著者の新たなる代表作、誕生！\n東京都杉並区にある私立稜花女学院中学校。新年度に発表された3年E組の担任は、加賀美秀彦という中年の国語教師だった。最初は冴えないと思っていたけれど、先生の言葉はなぜだか心に響いてくる。それなのに夏休み直前、先生は病気で学校を辞めるというウワサが流れて・・・・・・。\nこれはクラス全員がバトンをつなぐ、一生に残る一年間の物語。\n「今日、この時点の、僕の代表作です」\nーー早見和真\n",
-      "salesDate": "2026年09月16日",
-      "series": "春までのセンセイ",
-      "reviewAverage": 4.25,
-      "reviewCount": 22,
-      "genreId": "101901",
-      "isbn": "6681316776900",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "春までのセンセイ",
-        "author": "",
-        "score": 5,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 30
-          }
-        ],
-        "source": "combined",
-        "rank": 38,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "春までのセンセイ",
-        "author": "",
-        "isbn": "",
-        "score": 151,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 29
-          }
-        ],
-        "source": "combined",
-        "rank": 11
       }
     },
     {
@@ -686,6 +633,53 @@
             "source": "tohan",
             "label": "トーハン",
             "rank": 1
+          }
+        ],
+        "source": "combined",
+        "rank": 11,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "4320000865495",
+      "title": "ファイア・ドーム 上",
+      "author": "辻村深月",
+      "publisher": "小学館",
+      "price": 1881,
+      "url": "https://books.rakuten.co.jp/rk/22c26517c9353107819b56539afa6896/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1853/2000020771853.jpg?_ex=600x600",
+      "caption": "人はなぜ大きな事件に魅了されてしまうのか。\n噂は、軽薄な娯楽だ。\n25年前、平穏だったはずの地方都市は、百貨店受付嬢誘拐殺人事件の発生、その報道により揺り動かされ、「噂」という大量の炎が、加害者のみならず被害者にも降り注ぎ、燃えさかった。ようやく静けさを取り戻したかに見える町に燻り続ける因縁が、いま新たな事件を呼び起こすーー。\n「もう言われてるよ！　どうせ、親が殺したんだろうって！」ーー本文より\n",
+      "salesDate": "2026年06月05日",
+      "series": "ファイア・ドーム",
+      "reviewAverage": 4.58,
+      "reviewCount": 480,
+      "genreId": "101901/101902",
+      "isbn": "4320000865495",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ファイア・ドーム 上",
+        "author": "辻村深月",
+        "score": 102,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 2
+          }
+        ],
+        "source": "combined",
+        "rank": 5,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "ファイア・ドーム 上",
+        "author": "辻村深月",
+        "score": 102,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 2
           }
         ],
         "source": "combined",
@@ -887,13 +881,14 @@
       "4660629612104",
       "4380000408000",
       "4320000935695",
-      "6681316776900",
       "4320000867368",
+      "4320000865495",
       "4320000865494",
       "4310000858457"
     ],
     "mystery": [
       "4320000935695",
+      "4320000865495",
       "4320000865494"
     ],
     "sf": [],
@@ -939,7 +934,7 @@
       "complete": true
     },
     "mystery": {
-      "matched": 2,
+      "matched": 3,
       "complete": true
     },
     "sf": {

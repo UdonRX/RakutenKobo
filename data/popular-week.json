@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-10-11T13:43:42.645Z",
-  "candidateCount": 82,
-  "baseMatched": 36,
-  "matched": 45,
-  "addedMatches": 9,
+  "updatedAt": "2026-10-11T22:39:36.179Z",
+  "candidateCount": 75,
+  "baseMatched": 32,
+  "matched": 40,
+  "addedMatches": 8,
   "unavailable": [
     "rakuten"
   ],
@@ -99,6 +99,12 @@
           "author": "凪良 ゆう",
           "isbn": "",
           "rank": 25
+        },
+        {
+          "title": "戦争犯罪と闘う 国際刑事裁判所は屈しない (文春新書 1496)",
+          "author": "赤根 智子",
+          "isbn": "",
+          "rank": 26
         },
         {
           "title": "【令和８年度】 いちばんやさしい ITパスポート 絶対合格の教科書＋出る順問題集",
@@ -213,12 +219,6 @@
           "rank": 18
         },
         {
-          "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
-          "author": "",
-          "isbn": "",
-          "rank": 20
-        },
-        {
           "title": "豊臣兄弟！完結編 ＮＨＫ大河ドラマ・ガイド",
           "author": "",
           "isbn": "",
@@ -278,6 +278,12 @@
           "rank": 7
         },
         {
+          "title": "イン･ザ･メガチャーチ",
+          "author": "",
+          "isbn": "",
+          "rank": 8
+        },
+        {
           "title": "ゲッターズ飯田の五星三心占い2027 銀の羅針盤座",
           "author": "",
           "isbn": "",
@@ -294,57 +300,6 @@
           "author": "",
           "isbn": "",
           "rank": 12
-        }
-      ]
-    },
-    "rakuten": {
-      "id": "rakuten",
-      "label": "楽天ブックス",
-      "attribution": "楽天ブックス",
-      "sourceUrl": "https://books.rakuten.co.jp/",
-      "periodLabel": "売れ筋順",
-      "updatedAt": "2026-10-11",
-      "live": true,
-      "items": [
-        {
-          "title": "転生したらスライムだった件（33）",
-          "author": "川上 泰樹/伏瀬/みっつばー",
-          "rank": 2
-        },
-        {
-          "title": "SPY×FAMILY 18",
-          "author": "遠藤 達哉",
-          "rank": 5
-        },
-        {
-          "title": "アルスラーン戦記（25）",
-          "author": "荒川 弘/田中 芳樹",
-          "rank": 7
-        },
-        {
-          "title": "キングダム 81",
-          "author": "原 泰久",
-          "rank": 8
-        },
-        {
-          "title": "ゆるキャン△　19",
-          "author": "あfろ",
-          "rank": 9
-        },
-        {
-          "title": "名探偵コナン（109）",
-          "author": "青山 剛昌",
-          "rank": 11
-        },
-        {
-          "title": "ワールドトリガー 30",
-          "author": "葦原 大介",
-          "rank": 15
-        },
-        {
-          "title": "自分とか、ないから。　教養としての東洋哲学",
-          "author": "しんめいP",
-          "rank": 24
         }
       ]
     }
@@ -383,7 +338,7 @@
           }
         ],
         "source": "combined",
-        "rank": 5,
+        "rank": 3,
         "originalTitle": ""
       },
       "ranking": {
@@ -470,58 +425,6 @@
       }
     },
     {
-      "id": "8910126773560",
-      "title": "自分とか、ないから。　教養としての東洋哲学",
-      "author": "しんめいP",
-      "publisher": "サンクチュアリ出版",
-      "price": 1650,
-      "url": "https://books.rakuten.co.jp/rk/3e7a28858e2234d6887364847e57ec0c/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2213/2000015032213.jpg?_ex=600x600",
-      "caption": "ぶっ飛んでいるのに、なぜか論理的。\n生きづらさがマシになる（かもしれない）\nそれが、東洋哲学。\n「自分が本当にやりたいことってなんだろう？」\n「そもそも、本当の自分ってなんだろう？」\nそんな全・自分迷子に贈る、衝撃の哲学本がここに誕生。\nすべての答えは、「東洋哲学」にあった！！\nnoteで話題になった\n『東洋哲学本50冊よんだら「本当の自分」とかどうでもよくなった話』待望の書籍化！\n本書の著者・しんめいPさんは、東大卒のニート。\n新卒で大手IT企業→地方で教育事業→フリーランス→お笑い芸人\nと、自分探しをし続けた結果、虚無感から「無職」に。\n５年間、布団に引きこもっていたが\n「東洋哲学」に出会い、衝撃を受ける。\nーーーーーーーーーーーー\n（以下、本文より）\n東洋哲学にふれていると、\n「ふとんに入ってるくらい、何の問題もない」と思えてくるのだ。\n人生は、ムズくない。本当はシンプル。\n難しくしているのは自分なのだ。\nそんなことを教えてくれる。\nそして、ふとんに入ったまま、この本を書くことになったのだ。\n東洋哲学は、とにかく楽になるための哲学だ。\n無職だろうが、離婚してようが、ふとんにいようが、\nめちゃくちゃ楽になれる、ヤバい哲学である。\nこの本では、そんな東洋哲学の哲学者７人を紹介しながら、\n彼らの哲学を知って、実際にぼくがどう楽になったかを語っていく。\nーーーーーーーーーーーー\n〜コンテンツ例〜\nブッダ「自分なんてない」\n龍樹「全部、空」\n老子「ありのままが最強」\n荘子「この世は夢」\n達磨「言葉はいらねえ」\n親鸞「他力本願でOK」\n空海「欲あってよし」\n哲学の本なのに、\nなぜかクスリと笑えて、不思議と心が楽になる。\n「自分探し」まさかの答えを、体感せよ。\n",
-      "salesDate": "2024年04月23日",
-      "series": "",
-      "reviewAverage": 4,
-      "reviewCount": 732,
-      "genreId": "101908008002/101905010",
-      "isbn": "8910126773560",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "自分とか、ないから。 教養としての東洋哲学",
-        "author": "しんめいP",
-        "score": 14,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 24
-          }
-        ],
-        "source": "combined",
-        "rank": 84,
-        "originalTitle": "自分とか、ないから。　教養としての東洋哲学"
-      },
-      "ranking": {
-        "title": "自分とか、ないから。 教養としての東洋哲学",
-        "author": "しんめいP",
-        "isbn": "",
-        "score": 331,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 5
-          },
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 24
-          }
-        ],
-        "source": "combined",
-        "rank": 3
-      }
-    },
-    {
       "id": "4380000408000",
       "title": "未だ本能寺にあり",
       "author": "今村翔吾",
@@ -554,7 +457,7 @@
           }
         ],
         "source": "combined",
-        "rank": 6,
+        "rank": 4,
         "originalTitle": ""
       },
       "ranking": {
@@ -575,7 +478,7 @@
           }
         ],
         "source": "combined",
-        "rank": 4
+        "rank": 3
       }
     },
     {
@@ -611,7 +514,7 @@
           }
         ],
         "source": "combined",
-        "rank": 7,
+        "rank": 5,
         "originalTitle": ""
       },
       "ranking": {
@@ -632,7 +535,7 @@
           }
         ],
         "source": "combined",
-        "rank": 5
+        "rank": 4
       }
     },
     {
@@ -663,7 +566,7 @@
           }
         ],
         "source": "combined",
-        "rank": 11,
+        "rank": 8,
         "originalTitle": "汝、星のごとく (講談社文庫 な 101-1)"
       },
       "ranking": {
@@ -679,7 +582,7 @@
           }
         ],
         "source": "combined",
-        "rank": 6
+        "rank": 5
       }
     },
     {
@@ -710,7 +613,7 @@
           }
         ],
         "source": "combined",
-        "rank": 10,
+        "rank": 7,
         "originalTitle": "ソン・シギョンの本当に美味しい韓国グルメガイド - ＳＵＮＧ　ＳＩ　ＫＹＵＮＧ’ｓ　Ｄｅｅｐ　Ｋｏｒｅ 講談社ＭＯＯＫ"
       },
       "ranking": {
@@ -726,71 +629,24 @@
           }
         ],
         "source": "combined",
-        "rank": 7
+        "rank": 6
       }
     },
     {
-      "id": "4310000937174",
-      "title": "転生したらスライムだった件（３３）",
-      "author": "川上泰樹/伏瀬/みっつばー",
-      "publisher": "講談社",
-      "price": 792,
-      "url": "https://books.rakuten.co.jp/rk/2ec766082be93057af6d743314365b5f/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9576/2000021879576.jpg?_ex=600x600",
-      "caption": "北方から悪魔の軍勢がイングラシア王国へと迫っていると知り、混乱する西方諸国評議会（カウンシル・オブ・ウエスト）の議員達。しかしそこには、リムルの命を受け評議会に派遣されたテスタロッサの姿があった。\n一方、マリアと戦っていたルミナスは夜想宮廷(ナイトガーデン)の聖櫃に封印されていた”あるもの”がなくなっていることに気づき激怒する。\nさらにラファエルさえも理解できない事態がリムルの目の前で起こるのだった！\n",
-      "salesDate": "2026年10月08日",
-      "series": "転生したらスライムだった件",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904002048",
-      "isbn": "4310000937174",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "転生したらスライムだった件(33)",
-        "author": "川上 泰樹/伏瀬/みっつばー",
-        "score": 102,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 2
-          }
-        ],
-        "source": "combined",
-        "rank": 14,
-        "originalTitle": "転生したらスライムだった件（33）"
-      },
-      "ranking": {
-        "title": "転生したらスライムだった件（33）",
-        "author": "川上 泰樹/伏瀬/みっつばー",
-        "isbn": "",
-        "score": 178,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 2
-          }
-        ],
-        "source": "combined",
-        "rank": 8
-      }
-    },
-    {
-      "id": "4340008067051",
-      "title": "プレゼント（新潮文庫）",
-      "author": "伊坂幸太郎/江國香織/恩田陸/梨木香歩/町田そのこ/宮部みゆき/米澤穂信",
-      "publisher": "新潮社",
-      "price": 825,
-      "url": "https://books.rakuten.co.jp/rk/e8a60fd88eb63075a76e50e52cf98712/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8962/2000020598962.jpg?_ex=600x600",
-      "caption": "これはこれまで小説を愛してきてくれた人へ、そしてこれから小説の世界に一歩踏み出す人へ贈るプレゼント。何気なく読んだ物語が、ふと目にした一行が、意外な言葉ひとつが、人生を大きく変えるかもしれない。現代を代表する７人の作家が「夏」をテーマに書き下ろした、驚きと切なさ、怖さと美しさ、何よりとびきりの面白さを詰め込んだ奇跡の一冊。さぁ、あなたの人生に小説という選択肢を。\n",
-      "salesDate": "2026年06月24日",
-      "series": "",
-      "reviewAverage": 3.87,
-      "reviewCount": 418,
-      "genreId": "101901",
-      "isbn": "4340008067051",
+      "id": "4916475490001",
+      "title": "プレゼント",
+      "author": "若竹七海",
+      "publisher": "中央公論新社",
+      "price": 776,
+      "url": "https://books.rakuten.co.jp/rk/9fe631efeb0f3eb0a09ce80197395709/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1444/2000007701444.jpg?_ex=600x600",
+      "caption": "ルーム・クリーナー、電話相談、興信所。トラブルメイカーのフリーター・葉村晶と、娘に借りたピンクの子供用自転車で現場に駆けつける小林警部補。二人が巻き込まれたハードボイルドで悲しい八つの事件とはーー。間抜けだが悪気のない隣人たちがひき起こす騒動はいつも危険すぎる！\n",
+      "salesDate": "2019年08月30日",
+      "series": "プレゼント",
+      "reviewAverage": 3.52,
+      "reviewCount": 92,
+      "genreId": "101901/101902",
+      "isbn": "4916475490001",
       "salesType": 0,
       "matchMeta": {
         "title": "プレゼント",
@@ -804,7 +660,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16,
+        "rank": 12,
         "originalTitle": ""
       },
       "ranking": {
@@ -820,101 +676,7 @@
           }
         ],
         "source": "combined",
-        "rank": 9
-      }
-    },
-    {
-      "id": "4910000909001",
-      "title": "シャーロック・ホームズの凱旋",
-      "author": "森見登美彦",
-      "publisher": "中央公論新社",
-      "price": 1210,
-      "url": "https://books.rakuten.co.jp/rk/8782db66778c3698bdfbb4e8ea454fae/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4690/2000021504690.jpg?_ex=600x600",
-      "caption": "「天から与えられた才能はどこへ消えた？」\n舞台はヴィクトリア朝京都。\n洛中洛外に名を轟かせた名探偵ホームズが……\nまさかの大スランプ！？\n【文庫限定音声特典】「登美彦氏、ヴィクトリア朝京都を語る」（QRコードを収録）\n-----\nこの手記は脱出不可能の迷宮と化した舞台裏からの報告書である。\nいつの間にか迷いこんだその舞台裏において、私たちはかつて経験したことのない「非探偵小説的な冒険」を強いられることになったわけだが、世の人々がその冒険について知ることはなかった。スランプに陥ってからというもの、シャーロック・ホームズは世間的には死んだも同然であり、それはこの私、ジョン・Ｈ・ワトソンにしても同様だったからである。\nシャーロック・ホームズの沈黙は、ジョン・Ｈ・ワトソンの沈黙でもあった。\n-----（本文より）\n謎が謎を呼ぶ痛快無比な森見劇場、ついに開幕！\n目次\nプロローグ\n第一章　ジェイムズ・モリアーティの彷徨\n第二章　アイリーン・アドラーの挑戦\n第三章　レイチェル・マスグレーヴの失踪\n第四章　メアリ・モースタンの決意\n第五章　シャーロック・ホームズの凱旋\nエピローグ\n",
-      "salesDate": "2026年08月21日",
-      "series": "シャーロック・ホームズの凱旋",
-      "reviewAverage": 3.09,
-      "reviewCount": 25,
-      "genreId": "101901006",
-      "isbn": "4910000909001",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "シャーロック・ホームズの凱旋",
-        "author": "森見登美彦",
-        "score": 90,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 5
-          }
-        ],
-        "source": "combined",
-        "rank": 23,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "シャーロック・ホームズの凱旋",
-        "author": "森見登美彦",
-        "isbn": "",
-        "score": 175,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 5
-          }
-        ],
-        "source": "combined",
-        "rank": 10
-      }
-    },
-    {
-      "id": "4972000169895",
-      "title": "SPY×FAMILY 18",
-      "author": "遠藤達哉",
-      "publisher": "集英社",
-      "price": 616,
-      "url": "https://books.rakuten.co.jp/rk/9ff88217c98330579739ae763ab036e2/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9312/2000021999312.jpg?_ex=600x600",
-      "caption": "ジャンプコミックスDIGITAL「SPY×FAMILY」18巻、11月4日配信スタート!!　※配信日は変更になることがあります。ご了承ください。\n",
-      "salesDate": "2026年11月04日",
-      "series": "SPY×FAMILY",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904001007",
-      "isbn": "4972000169895",
-      "salesType": 1,
-      "matchMeta": {
-        "title": "SPY×FAMILY 18",
-        "author": "遠藤 達哉",
-        "score": 90,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 5
-          }
-        ],
-        "source": "combined",
-        "rank": 25,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "SPY×FAMILY 18",
-        "author": "遠藤 達哉",
-        "isbn": "",
-        "score": 175,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 5
-          }
-        ],
-        "source": "combined",
-        "rank": 11
+        "rank": 7
       }
     },
     {
@@ -945,7 +707,7 @@
           }
         ],
         "source": "combined",
-        "rank": 26,
+        "rank": 20,
         "originalTitle": ""
       },
       "ranking": {
@@ -961,7 +723,102 @@
           }
         ],
         "source": "combined",
-        "rank": 12
+        "rank": 8
+      }
+    },
+    {
+      "id": "8910126773560",
+      "title": "自分とか、ないから。　教養としての東洋哲学",
+      "author": "しんめいP",
+      "publisher": "サンクチュアリ出版",
+      "price": 1650,
+      "url": "https://books.rakuten.co.jp/rk/3e7a28858e2234d6887364847e57ec0c/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2213/2000015032213.jpg?_ex=600x600",
+      "caption": "ぶっ飛んでいるのに、なぜか論理的。\n生きづらさがマシになる（かもしれない）\nそれが、東洋哲学。\n「自分が本当にやりたいことってなんだろう？」\n「そもそも、本当の自分ってなんだろう？」\nそんな全・自分迷子に贈る、衝撃の哲学本がここに誕生。\nすべての答えは、「東洋哲学」にあった！！\nnoteで話題になった\n『東洋哲学本50冊よんだら「本当の自分」とかどうでもよくなった話』待望の書籍化！\n本書の著者・しんめいPさんは、東大卒のニート。\n新卒で大手IT企業→地方で教育事業→フリーランス→お笑い芸人\nと、自分探しをし続けた結果、虚無感から「無職」に。\n５年間、布団に引きこもっていたが\n「東洋哲学」に出会い、衝撃を受ける。\nーーーーーーーーーーーー\n（以下、本文より）\n東洋哲学にふれていると、\n「ふとんに入ってるくらい、何の問題もない」と思えてくるのだ。\n人生は、ムズくない。本当はシンプル。\n難しくしているのは自分なのだ。\nそんなことを教えてくれる。\nそして、ふとんに入ったまま、この本を書くことになったのだ。\n東洋哲学は、とにかく楽になるための哲学だ。\n無職だろうが、離婚してようが、ふとんにいようが、\nめちゃくちゃ楽になれる、ヤバい哲学である。\nこの本では、そんな東洋哲学の哲学者７人を紹介しながら、\n彼らの哲学を知って、実際にぼくがどう楽になったかを語っていく。\nーーーーーーーーーーーー\n〜コンテンツ例〜\nブッダ「自分なんてない」\n龍樹「全部、空」\n老子「ありのままが最強」\n荘子「この世は夢」\n達磨「言葉はいらねえ」\n親鸞「他力本願でOK」\n空海「欲あってよし」\n哲学の本なのに、\nなぜかクスリと笑えて、不思議と心が楽になる。\n「自分探し」まさかの答えを、体感せよ。\n",
+      "salesDate": "2024年04月23日",
+      "series": "",
+      "reviewAverage": 4,
+      "reviewCount": 732,
+      "genreId": "101908008002/101905010",
+      "isbn": "8910126773560",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "自分とか、ないから。 教養としての東洋哲学",
+        "author": "",
+        "isbn": "",
+        "score": 175,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
+        "rank": 19,
+        "originalTitle": "自分とか、ないから。 教養としての東洋哲学"
+      },
+      "ranking": {
+        "title": "自分とか、ないから。 教養としての東洋哲学",
+        "author": "",
+        "isbn": "",
+        "score": 175,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
+        "rank": 9
+      }
+    },
+    {
+      "id": "4910000909001",
+      "title": "シャーロック・ホームズの凱旋",
+      "author": "森見登美彦",
+      "publisher": "中央公論新社",
+      "price": 1210,
+      "url": "https://books.rakuten.co.jp/rk/8782db66778c3698bdfbb4e8ea454fae/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4690/2000021504690.jpg?_ex=600x600",
+      "caption": "「天から与えられた才能はどこへ消えた？」\n舞台はヴィクトリア朝京都。\n洛中洛外に名を轟かせた名探偵ホームズが……\nまさかの大スランプ！？\n【文庫限定音声特典】「登美彦氏、ヴィクトリア朝京都を語る」（QRコードを収録）\n-----\nこの手記は脱出不可能の迷宮と化した舞台裏からの報告書である。\nいつの間にか迷いこんだその舞台裏において、私たちはかつて経験したことのない「非探偵小説的な冒険」を強いられることになったわけだが、世の人々がその冒険について知ることはなかった。スランプに陥ってからというもの、シャーロック・ホームズは世間的には死んだも同然であり、それはこの私、ジョン・Ｈ・ワトソンにしても同様だったからである。\nシャーロック・ホームズの沈黙は、ジョン・Ｈ・ワトソンの沈黙でもあった。\n-----（本文より）\n謎が謎を呼ぶ痛快無比な森見劇場、ついに開幕！\n目次\nプロローグ\n第一章　ジェイムズ・モリアーティの彷徨\n第二章　アイリーン・アドラーの挑戦\n第三章　レイチェル・マスグレーヴの失踪\n第四章　メアリ・モースタンの決意\n第五章　シャーロック・ホームズの凱旋\nエピローグ\n",
+      "salesDate": "2026年08月21日",
+      "series": "シャーロック・ホームズの凱旋",
+      "reviewAverage": 3.09,
+      "reviewCount": 25,
+      "genreId": "101901006",
+      "isbn": "4910000909001",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "シャーロック・ホームズの凱旋",
+        "author": "森見登美彦",
+        "isbn": "",
+        "score": 175,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
+        "rank": 17
+      },
+      "ranking": {
+        "title": "シャーロック・ホームズの凱旋",
+        "author": "森見登美彦",
+        "isbn": "",
+        "score": 175,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
+        "rank": 10
       }
     },
     {
@@ -992,7 +849,7 @@
           }
         ],
         "source": "combined",
-        "rank": 33,
+        "rank": 26,
         "originalTitle": ""
       },
       "ranking": {
@@ -1008,54 +865,7 @@
           }
         ],
         "source": "combined",
-        "rank": 13
-      }
-    },
-    {
-      "id": "4310000937173",
-      "title": "アルスラーン戦記（２５）",
-      "author": "荒川弘/田中芳樹",
-      "publisher": "講談社",
-      "price": 594,
-      "url": "https://books.rakuten.co.jp/rk/60c6e7ac259932a28e91344c5af3439c/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9565/2000021879565.jpg?_ex=600x600",
-      "caption": "大陸公路の強国「パルス」の若き王子・アルスラーン。永遠と思われた国の栄華が終わりを告げた時、すべての運命が変わる！！　荒川 弘×田中芳樹の最強タッグで描く、世界最高の歴史ファンタジー、最新作！\n数多の贄を喰らい、血を啜る。蛇王、王都掌握へ。\n蛇王が操るアンドラゴラス王によって蹂躙された王都。王宮は封鎖され、蛇王討伐に動くアルスラーンと、宿敵カイ・ホスローの血を引くヒルメスに蛇王軍が襲いかかる！ 一方、閉ざされた「王の門」の外では、突入を試みる猛将・クバードが蛇王との死闘に挑む…！\n伝説に違わぬその邪力で王都を、仲間たちを血で染めていくーー。“ルクナバードが使えない”少年に蛇王を倒す術はあるのか…！？\n",
-      "salesDate": "2026年10月08日",
-      "series": "アルスラーン戦記",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904",
-      "isbn": "4310000937173",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "アルスラーン戦記(25)",
-        "author": "荒川 弘/田中 芳樹",
-        "score": 82,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 7
-          }
-        ],
-        "source": "combined",
-        "rank": 35,
-        "originalTitle": "アルスラーン戦記（25）"
-      },
-      "ranking": {
-        "title": "アルスラーン戦記（25）",
-        "author": "荒川 弘/田中 芳樹",
-        "isbn": "",
-        "score": 173,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 7
-          }
-        ],
-        "source": "combined",
-        "rank": 14
+        "rank": 11
       }
     },
     {
@@ -1086,7 +896,7 @@
           }
         ],
         "source": "combined",
-        "rank": 37,
+        "rank": 29,
         "originalTitle": "俺たちの箱根駅伝 上 (文春文庫 い 64-13)"
       },
       "ranking": {
@@ -1102,7 +912,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15
+        "rank": 12
       }
     },
     {
@@ -1134,7 +944,8 @@
           }
         ],
         "source": "combined",
-        "rank": 28
+        "rank": 26,
+        "originalTitle": "ゲッターズ飯田の五星三心占い2027 銀のイルカ座"
       },
       "ranking": {
         "title": "ゲッターズ飯田の五星三心占い2027 銀のイルカ座",
@@ -1149,54 +960,55 @@
           }
         ],
         "source": "combined",
-        "rank": 16
+        "rank": 13
       }
     },
     {
-      "id": "4972000169889",
-      "title": "キングダム 81",
-      "author": "原泰久",
-      "publisher": "集英社",
-      "price": 770,
-      "url": "https://books.rakuten.co.jp/rk/5bfbf7021b1739ab807e21db73e2acdc/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9287/2000021999287.jpg?_ex=600x600",
-      "caption": "ヤングジャンプコミックスDIGITAL「キングダム」81巻、11月18日配信スタート!!　※配信日は変更になることがあります。ご了承ください。\n",
-      "salesDate": "2026年11月18日",
-      "series": "キングダム",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904002006",
-      "isbn": "4972000169889",
-      "salesType": 1,
+      "id": "4660629612104",
+      "title": "イン・ザ・メガチャーチ",
+      "author": "朝井リョウ",
+      "publisher": "日経BP",
+      "price": 2200,
+      "url": "https://books.rakuten.co.jp/rk/d3fd58a999d73fbaaf1de480b1d262ba/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3254/2000018463254.jpg?_ex=600x600",
+      "caption": "☆2026年本屋大賞受賞☆\n【第9回未来屋小説大賞】\n【第2回あの本、読みました？大賞】\n沈みゆく列島で、“界隈”は沸騰するーー。\nあるアイドルグループの運営に参画することになった、家族と離れて暮らす男。内向的で繊細な気質ゆえ積み重なる心労を癒やしたい大学生。仲間と楽しく舞台俳優を応援していたが、とある報道で状況が一変する女。ファンダム経済を仕掛ける側、のめり込む側、かつてのめり込んでいた側ーー世代も立場も異なる３つの視点から、人の心を動かす“物語”の功罪を炙り出す。\n「神がいないこの国で人を操るには、“物語”を使うのが一番いいんですよ」\n",
+      "salesDate": "2025年09月03日",
+      "series": "",
+      "reviewAverage": 4.28,
+      "reviewCount": 3620,
+      "genreId": "101901",
+      "isbn": "4660629612104",
+      "salesType": 0,
       "matchMeta": {
-        "title": "キングダム 81",
-        "author": "原 泰久",
-        "score": 78,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 40,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "キングダム 81",
-        "author": "原 泰久",
+        "title": "イン・ザ・メガチャーチ",
+        "author": "",
         "isbn": "",
         "score": 172,
         "sources": [
           {
-            "source": "rakuten",
-            "label": "楽天ブックス",
+            "source": "tohan",
+            "label": "トーハン",
             "rank": 8
           }
         ],
         "source": "combined",
-        "rank": 17
+        "rank": 29,
+        "originalTitle": "イン･ザ･メガチャーチ"
+      },
+      "ranking": {
+        "title": "イン･ザ･メガチャーチ",
+        "author": "",
+        "isbn": "",
+        "score": 172,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 14
       }
     },
     {
@@ -1227,7 +1039,7 @@
           }
         ],
         "source": "combined",
-        "rank": 42,
+        "rank": 33,
         "originalTitle": ""
       },
       "ranking": {
@@ -1243,54 +1055,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18
-      }
-    },
-    {
-      "id": "7225000908848",
-      "title": "ゆるキャン△　１９巻",
-      "author": "あｆろ",
-      "publisher": "芳文社",
-      "price": 880,
-      "url": "https://books.rakuten.co.jp/rk/2e05dc18629c31c7a4df524017200304/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8495/2000021498495.jpg?_ex=600x600",
-      "caption": "リンと綾乃の酷道＆ツーリングキャンプはまだまだ続く！ 二泊三日の旅の果て、ゴール・身延で待つのは…？TVアニメSEASON４は2027年放送！\n",
-      "salesDate": "2026年10月09日",
-      "series": "ゆるキャン△",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904",
-      "isbn": "7225000908848",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ゆるキャン△ 19",
-        "author": "あfろ",
-        "score": 74,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 44,
-        "originalTitle": "ゆるキャン△　19"
-      },
-      "ranking": {
-        "title": "ゆるキャン△　19",
-        "author": "あfろ",
-        "isbn": "",
-        "score": 171,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 19
+        "rank": 15
       }
     },
     {
@@ -1321,7 +1086,7 @@
           }
         ],
         "source": "combined",
-        "rank": 45,
+        "rank": 35,
         "originalTitle": ""
       },
       "ranking": {
@@ -1337,7 +1102,7 @@
           }
         ],
         "source": "combined",
-        "rank": 20
+        "rank": 16
       }
     },
     {
@@ -1357,9 +1122,10 @@
       "isbn": "4390000016496",
       "salesType": 0,
       "matchMeta": {
-        "title": "俺たちの箱根駅伝 下",
+        "title": "俺たちの箱根駅伝 下 (文春文庫 い 64-14)",
         "author": "池井戸 潤",
-        "score": 74,
+        "isbn": "",
+        "score": 171,
         "sources": [
           {
             "source": "amazon",
@@ -1368,8 +1134,7 @@
           }
         ],
         "source": "combined",
-        "rank": 46,
-        "originalTitle": "俺たちの箱根駅伝 下 (文春文庫 い 64-14)"
+        "rank": 30
       },
       "ranking": {
         "title": "俺たちの箱根駅伝 下 (文春文庫 い 64-14)",
@@ -1384,7 +1149,7 @@
           }
         ],
         "source": "combined",
-        "rank": 21
+        "rank": 17
       }
     },
     {
@@ -1416,7 +1181,7 @@
           }
         ],
         "source": "combined",
-        "rank": 37
+        "rank": 33
       },
       "ranking": {
         "title": "ゲッターズ飯田の五星三心占い2027 銀の羅針盤座",
@@ -1431,7 +1196,7 @@
           }
         ],
         "source": "combined",
-        "rank": 22
+        "rank": 18
       }
     },
     {
@@ -1462,7 +1227,7 @@
           }
         ],
         "source": "combined",
-        "rank": 47,
+        "rank": 37,
         "originalTitle": ""
       },
       "ranking": {
@@ -1478,7 +1243,7 @@
           }
         ],
         "source": "combined",
-        "rank": 23
+        "rank": 19
       }
     },
     {
@@ -1510,8 +1275,7 @@
           }
         ],
         "source": "combined",
-        "rank": 41,
-        "originalTitle": "ゲッターズ飯田の五星三心占い2027 銀のインディアン座"
+        "rank": 36
       },
       "ranking": {
         "title": "ゲッターズ飯田の五星三心占い2027 銀のインディアン座",
@@ -1526,54 +1290,7 @@
           }
         ],
         "source": "combined",
-        "rank": 24
-      }
-    },
-    {
-      "id": "4320000937482",
-      "title": "名探偵コナン（１０９）",
-      "author": "青山剛昌",
-      "publisher": "小学館",
-      "price": 583,
-      "url": "https://books.rakuten.co.jp/rk/3d4ab47857a63c738ff32de18230740a/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1781/2000021881781.jpg?_ex=600x600",
-      "caption": "※本タイトルの作品紹介文は、現在作成中でございます。\n作成出来ましたら反映致しますので、今しばらくお待ちください。\n",
-      "salesDate": "2026年10月16日",
-      "series": "名探偵コナン",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904001008",
-      "isbn": "4320000937482",
-      "salesType": 1,
-      "matchMeta": {
-        "title": "名探偵コナン(109)",
-        "author": "青山 剛昌",
-        "score": 66,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 11
-          }
-        ],
-        "source": "combined",
-        "rank": 50,
-        "originalTitle": "名探偵コナン（109）"
-      },
-      "ranking": {
-        "title": "名探偵コナン（109）",
-        "author": "青山 剛昌",
-        "isbn": "",
-        "score": 169,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 11
-          }
-        ],
-        "source": "combined",
-        "rank": 25
+        "rank": 20
       }
     },
     {
@@ -1604,7 +1321,7 @@
           }
         ],
         "source": "combined",
-        "rank": 52,
+        "rank": 41,
         "originalTitle": "そして誰もゆとらなくなった (文春文庫 あ 68-5)"
       },
       "ranking": {
@@ -1620,7 +1337,7 @@
           }
         ],
         "source": "combined",
-        "rank": 26
+        "rank": 21
       }
     },
     {
@@ -1652,8 +1369,7 @@
           }
         ],
         "source": "combined",
-        "rank": 47,
-        "originalTitle": "FOR OVERSEAS"
+        "rank": 41
       },
       "ranking": {
         "title": "FOR OVERSEAS",
@@ -1668,7 +1384,7 @@
           }
         ],
         "source": "combined",
-        "rank": 27
+        "rank": 22
       }
     },
     {
@@ -1699,7 +1415,7 @@
           }
         ],
         "source": "combined",
-        "rank": 59,
+        "rank": 46,
         "originalTitle": ""
       },
       "ranking": {
@@ -1715,54 +1431,7 @@
           }
         ],
         "source": "combined",
-        "rank": 28
-      }
-    },
-    {
-      "id": "4972000167723",
-      "title": "ワールドトリガー 30",
-      "author": "葦原大介",
-      "publisher": "集英社",
-      "price": 594,
-      "url": "https://books.rakuten.co.jp/rk/4d8ae792b62e30719d6428c51d3199af/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8631/2000021668631.jpg?_ex=600x600",
-      "caption": "遠征選抜第2試験の内容はA級部隊VS臨時部隊での総勢95人による『長時間戦闘試験』！　試験用MAPに転送された臨時部隊は、古寺を指揮官に決める。修は部隊を前線に集結させるよう進言するが、その真意とは!?\n",
-      "salesDate": "2026年10月02日",
-      "series": "ワールドトリガー",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904001007",
-      "isbn": "4972000167723",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ワールドトリガー 30",
-        "author": "葦原 大介",
-        "score": 50,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 15
-          }
-        ],
-        "source": "combined",
-        "rank": 60,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "ワールドトリガー 30",
-        "author": "葦原 大介",
-        "isbn": "",
-        "score": 165,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 15
-          }
-        ],
-        "source": "combined",
-        "rank": 29
+        "rank": 23
       }
     },
     {
@@ -1793,7 +1462,7 @@
           }
         ],
         "source": "combined",
-        "rank": 64,
+        "rank": 49,
         "originalTitle": ""
       },
       "ranking": {
@@ -1809,7 +1478,7 @@
           }
         ],
         "source": "combined",
-        "rank": 30
+        "rank": 24
       }
     },
     {
@@ -1840,7 +1509,7 @@
           }
         ],
         "source": "combined",
-        "rank": 65,
+        "rank": 50,
         "originalTitle": "時をかけるゆとり (文春文庫 あ 68-1)"
       },
       "ranking": {
@@ -1856,7 +1525,7 @@
           }
         ],
         "source": "combined",
-        "rank": 31
+        "rank": 25
       }
     },
     {
@@ -1887,7 +1556,7 @@
           }
         ],
         "source": "combined",
-        "rank": 70,
+        "rank": 53,
         "originalTitle": "幽冥の岸 十二国記 (新潮文庫 お 37-66)"
       },
       "ranking": {
@@ -1903,7 +1572,7 @@
           }
         ],
         "source": "combined",
-        "rank": 32
+        "rank": 26
       }
     },
     {
@@ -1934,7 +1603,7 @@
           }
         ],
         "source": "combined",
-        "rank": 73,
+        "rank": 55,
         "originalTitle": ""
       },
       "ranking": {
@@ -1950,54 +1619,7 @@
           }
         ],
         "source": "combined",
-        "rank": 33
-      }
-    },
-    {
-      "id": "4390000014247",
-      "title": "戦争犯罪と闘う　国際刑事裁判所は屈しない",
-      "author": "赤根智子",
-      "publisher": "文藝春秋",
-      "price": 1000,
-      "url": "https://books.rakuten.co.jp/rk/ed83c0d4161a37adb64937f2dc843815/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5761/2000017995761.jpg?_ex=600x600",
-      "caption": "二つの戦争、そして戦後国際秩序の行方は\nロシアによるウクライナ侵攻とイスラエルによるパレスチナへの非人道的な攻撃。目まぐるしく国際情勢が変化するなか、この二つの戦争に向き合い、プーチンとネタニヤフに逮捕状を出した国際刑事裁判所（ICC）。日本人として初めてそのトップに就任した著者は、ほどなくしてプーチンから逆指名手配を受けることにもなった。さらにはトランプ大統領の大統領令による経済制裁の脅威にさらされるなど、世界規模の戦争犯罪に向き合ってきた国際刑事裁判所はいま、存続の危機にある。\n第二次世界大戦後にホロコーストに向き合ったニュルンベルク裁判、日本の戦争責任を裁いた東京裁判。二つの軍事法廷裁判にルーツをもち、国際平和秩序を守ろうと奮闘してきた国際刑事裁判所とはいかなる機関か。二つの戦争という異例の事態にどう向き合ったのか。「世界の警察」アメリカが過去のものになりつつある戦後国際秩序の行方とはーー。\n「世界で起きていることが日本では起きないとは限らない」。「力による支配」がむき出しになりつつある今こそ「法の支配」による安全保障が必要だ。\n「ウクライナ戦争の勃発で完全に覚醒した」と語る赤根さんが、その奮闘を通じて未来への責任を語りかける。\n※本書電子書籍版は刊行後の国際情勢の変化を鑑み、２０２５年１０月に記述の一部を更新しました。\n",
-      "salesDate": "2025年06月20日",
-      "series": "",
-      "reviewAverage": 4.28,
-      "reviewCount": 55,
-      "genreId": "101907009/101907005003/101914",
-      "isbn": "4390000014247",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
-        "author": "",
-        "score": 30,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 20
-          }
-        ],
-        "source": "combined",
-        "rank": 75,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
-        "author": "",
-        "isbn": "",
-        "score": 160,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 20
-          }
-        ],
-        "source": "combined",
-        "rank": 34
+        "rank": 27
       }
     },
     {
@@ -2017,10 +1639,9 @@
       "isbn": "4910000884732",
       "salesType": 0,
       "matchMeta": {
-        "title": "手紙屋 蛍雪篇 ～私の受験勉強を変えた十通の手紙～ ジュニア版",
+        "title": "手紙屋 蛍雪篇 ~私の受験勉強を変えた十通の手紙~ ジュニア版",
         "author": "喜多川泰",
-        "isbn": "",
-        "score": 160,
+        "score": 30,
         "sources": [
           {
             "source": "amazon",
@@ -2029,7 +1650,8 @@
           }
         ],
         "source": "combined",
-        "rank": 63
+        "rank": 57,
+        "originalTitle": "手紙屋 蛍雪篇 ～私の受験勉強を変えた十通の手紙～ ジュニア版"
       },
       "ranking": {
         "title": "手紙屋 蛍雪篇 ～私の受験勉強を変えた十通の手紙～ ジュニア版",
@@ -2044,7 +1666,7 @@
           }
         ],
         "source": "combined",
-        "rank": 35
+        "rank": 28
       }
     },
     {
@@ -2066,8 +1688,7 @@
       "matchMeta": {
         "title": "これ、かなりマジです。時間・お金・心を整える365の言葉",
         "author": "いれぶん",
-        "isbn": "",
-        "score": 157,
+        "score": 18,
         "sources": [
           {
             "source": "amazon",
@@ -2076,8 +1697,8 @@
           }
         ],
         "source": "combined",
-        "rank": 68,
-        "originalTitle": "これ、かなりマジです。時間・お金・心を整える365の言葉"
+        "rank": 62,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "これ、かなりマジです。時間・お金・心を整える365の言葉",
@@ -2092,7 +1713,7 @@
           }
         ],
         "source": "combined",
-        "rank": 36
+        "rank": 29
       }
     },
     {
@@ -2112,10 +1733,9 @@
       "isbn": "4479234040000",
       "salesType": 0,
       "matchMeta": {
-        "title": "豊臣兄弟！完結編 ＮＨＫ大河ドラマ・ガイド",
+        "title": "豊臣兄弟!完結編 NHK大河ドラマ・ガイド",
         "author": "",
-        "isbn": "",
-        "score": 156,
+        "score": 14,
         "sources": [
           {
             "source": "kinokuniya",
@@ -2124,7 +1744,8 @@
           }
         ],
         "source": "combined",
-        "rank": 71
+        "rank": 63,
+        "originalTitle": "豊臣兄弟！完結編 ＮＨＫ大河ドラマ・ガイド"
       },
       "ranking": {
         "title": "豊臣兄弟！完結編 ＮＨＫ大河ドラマ・ガイド",
@@ -2139,7 +1760,7 @@
           }
         ],
         "source": "combined",
-        "rank": 37
+        "rank": 30
       }
     },
     {
@@ -2170,7 +1791,7 @@
           }
         ],
         "source": "combined",
-        "rank": 88,
+        "rank": 65,
         "originalTitle": ""
       },
       "ranking": {
@@ -2186,7 +1807,7 @@
           }
         ],
         "source": "combined",
-        "rank": 38
+        "rank": 31
       }
     },
     {
@@ -2208,8 +1829,7 @@
       "matchMeta": {
         "title": "星を編む",
         "author": "凪良 ゆう",
-        "isbn": "",
-        "score": 155,
+        "score": 10,
         "sources": [
           {
             "source": "amazon",
@@ -2218,7 +1838,7 @@
           }
         ],
         "source": "combined",
-        "rank": 72,
+        "rank": 66,
         "originalTitle": "星を編む (講談社文庫 な 101-3)"
       },
       "ranking": {
@@ -2234,7 +1854,54 @@
           }
         ],
         "source": "combined",
-        "rank": 39
+        "rank": 32
+      }
+    },
+    {
+      "id": "4390000014247",
+      "title": "戦争犯罪と闘う　国際刑事裁判所は屈しない",
+      "author": "赤根智子",
+      "publisher": "文藝春秋",
+      "price": 1000,
+      "url": "https://books.rakuten.co.jp/rk/ed83c0d4161a37adb64937f2dc843815/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5761/2000017995761.jpg?_ex=600x600",
+      "caption": "二つの戦争、そして戦後国際秩序の行方は\nロシアによるウクライナ侵攻とイスラエルによるパレスチナへの非人道的な攻撃。目まぐるしく国際情勢が変化するなか、この二つの戦争に向き合い、プーチンとネタニヤフに逮捕状を出した国際刑事裁判所（ICC）。日本人として初めてそのトップに就任した著者は、ほどなくしてプーチンから逆指名手配を受けることにもなった。さらにはトランプ大統領の大統領令による経済制裁の脅威にさらされるなど、世界規模の戦争犯罪に向き合ってきた国際刑事裁判所はいま、存続の危機にある。\n第二次世界大戦後にホロコーストに向き合ったニュルンベルク裁判、日本の戦争責任を裁いた東京裁判。二つの軍事法廷裁判にルーツをもち、国際平和秩序を守ろうと奮闘してきた国際刑事裁判所とはいかなる機関か。二つの戦争という異例の事態にどう向き合ったのか。「世界の警察」アメリカが過去のものになりつつある戦後国際秩序の行方とはーー。\n「世界で起きていることが日本では起きないとは限らない」。「力による支配」がむき出しになりつつある今こそ「法の支配」による安全保障が必要だ。\n「ウクライナ戦争の勃発で完全に覚醒した」と語る赤根さんが、その奮闘を通じて未来への責任を語りかける。\n※本書電子書籍版は刊行後の国際情勢の変化を鑑み、２０２５年１０月に記述の一部を更新しました。\n",
+      "salesDate": "2025年06月20日",
+      "series": "",
+      "reviewAverage": 4.28,
+      "reviewCount": 55,
+      "genreId": "101907009/101907005003/101914",
+      "isbn": "4390000014247",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "戦争犯罪と闘う 国際刑事裁判所は屈しない",
+        "author": "赤根 智子",
+        "score": 6,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 26
+          }
+        ],
+        "source": "combined",
+        "rank": 68,
+        "originalTitle": "戦争犯罪と闘う 国際刑事裁判所は屈しない (文春新書 1496)"
+      },
+      "ranking": {
+        "title": "戦争犯罪と闘う 国際刑事裁判所は屈しない (文春新書 1496)",
+        "author": "赤根 智子",
+        "isbn": "",
+        "score": 154,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 26
+          }
+        ],
+        "source": "combined",
+        "rank": 33
       }
     },
     {
@@ -2265,7 +1932,7 @@
           }
         ],
         "source": "combined",
-        "rank": 97,
+        "rank": 69,
         "originalTitle": ""
       },
       "ranking": {
@@ -2281,7 +1948,7 @@
           }
         ],
         "source": "combined",
-        "rank": 40
+        "rank": 34
       }
     },
     {
@@ -2303,8 +1970,7 @@
       "matchMeta": {
         "title": "【令和8年度】 いちばんやさしい ITパスポート 絶対合格の教科書+出る順問題集",
         "author": "高橋 京介",
-        "isbn": "",
-        "score": 153,
+        "score": 5,
         "sources": [
           {
             "source": "amazon",
@@ -2313,7 +1979,7 @@
           }
         ],
         "source": "combined",
-        "rank": 76,
+        "rank": 73,
         "originalTitle": "【令和８年度】 いちばんやさしい ITパスポート 絶対合格の教科書＋出る順問題集"
       },
       "ranking": {
@@ -2329,7 +1995,7 @@
           }
         ],
         "source": "combined",
-        "rank": 41
+        "rank": 35
       }
     },
     {
@@ -2360,7 +2026,7 @@
           }
         ],
         "source": "combined",
-        "rank": 99,
+        "rank": 71,
         "originalTitle": "やりたいことが動き出す　可視化の教科書"
       },
       "ranking": {
@@ -2376,7 +2042,7 @@
           }
         ],
         "source": "combined",
-        "rank": 42
+        "rank": 36
       }
     },
     {
@@ -2407,7 +2073,7 @@
           }
         ],
         "source": "combined",
-        "rank": 8,
+        "rank": 6,
         "originalTitle": ""
       },
       "ranking": {
@@ -2422,7 +2088,54 @@
           }
         ],
         "source": "combined",
-        "rank": 43,
+        "rank": 37,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "4310000890409",
+      "title": "楽園",
+      "author": "夕木春央",
+      "publisher": "講談社",
+      "price": 1980,
+      "url": "https://books.rakuten.co.jp/rk/1a1c684dcee83b98b4d0187187c813d0/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1651/2000021221651.jpg?_ex=600x600",
+      "caption": "殺人犯にならなければ脱出できない。\n『方舟』『十戒』の著者が仕掛ける“禁忌の驚き”\n亡き両親から不動産を譲り受けた康之は、失踪した賃借人・海原の遺留品整理の際に、群馬の山奥の謎の物件の存在を知る。そこは、切り立った岩壁に囲まれた、「楽園」と呼ばれる奇妙な場所だった。恋人の沙織と一緒にそこを訪ね、探索をはじめた康之たちは、すぐに六人の“住人”に拿捕された。脱出のための条件はーー\n「誰か一人を殺さなければならない」\n『方舟』\n第19回オリコン上半期”本”ランキング　文庫ランキングTOP10 第1位\n週刊文春ミステリーベスト10　第1位　（「週刊文春」2022年12月8日号）国内部門\nMRC大賞2022　第1位\n『方舟』＋『十戒』の累計発行部数が100万部突破。\nーー夕木春央が描く、極限のクローズド・サークル。\n",
+      "salesDate": "2026年07月22日",
+      "series": "楽園",
+      "reviewAverage": 4.17,
+      "reviewCount": 479,
+      "genreId": "101902",
+      "isbn": "4310000890409",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "楽園",
+        "author": "夕木春央",
+        "score": 94,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
+          }
+        ],
+        "source": "combined",
+        "rank": 15,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "楽園",
+        "author": "夕木春央",
+        "score": 94,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
+          }
+        ],
+        "source": "combined",
+        "rank": 38,
         "originalTitle": ""
       }
     },
@@ -2454,7 +2167,7 @@
           }
         ],
         "source": "combined",
-        "rank": 24,
+        "rank": 19,
         "originalTitle": ""
       },
       "ranking": {
@@ -2469,7 +2182,7 @@
           }
         ],
         "source": "combined",
-        "rank": 44,
+        "rank": 39,
         "originalTitle": ""
       }
     },
@@ -2501,7 +2214,7 @@
           }
         ],
         "source": "combined",
-        "rank": 48,
+        "rank": 38,
         "originalTitle": ""
       },
       "ranking": {
@@ -2516,7 +2229,7 @@
           }
         ],
         "source": "combined",
-        "rank": 45,
+        "rank": 40,
         "originalTitle": ""
       }
     }
@@ -2525,11 +2238,12 @@
     "fiction": [
       "4380000408000",
       "4310000683989",
-      "4340008067051",
-      "4910000909001",
+      "4916475490001",
       "4320000935695",
+      "4910000909001",
       "4390000005636",
       "4390000016495",
+      "4660629612104",
       "4320000935691",
       "4390000016496",
       "4390000014426",
@@ -2540,15 +2254,17 @@
       "4480000838415"
     ],
     "mystery": [
+      "4916475490001",
       "4320000935695",
       "4390000005636",
       "4620000615075",
-      "4620000615076"
+      "4620000615076",
+      "4310000890409"
     ],
     "sf": [],
     "business": [
-      "8910126773560",
       "4310000701877",
+      "8910126773560",
       "4910000884732",
       "8926000912320",
       "4524815638200",
@@ -2560,13 +2276,13 @@
       "4390000014426",
       "4380000408012",
       "4390000002253",
-      "4390000014247",
-      "4910000937811"
+      "4910000937811",
+      "4390000014247"
     ],
     "nonfiction": [
       "4390000014426",
-      "4390000014247",
-      "4910000937811"
+      "4910000937811",
+      "4390000014247"
     ],
     "science": [
       "8910126773560",
@@ -2602,23 +2318,15 @@
       "4390000014426",
       "4390000002253"
     ],
-    "comic": [
-      "4310000937174",
-      "4972000169895",
-      "4310000937173",
-      "4972000169889",
-      "7225000908848",
-      "4320000937482",
-      "4972000167723"
-    ]
+    "comic": []
   },
   "genreStatus": {
     "fiction": {
-      "matched": 15,
+      "matched": 16,
       "complete": true
     },
     "mystery": {
-      "matched": 4,
+      "matched": 6,
       "complete": true
     },
     "sf": {
@@ -2674,7 +2382,7 @@
       "complete": true
     },
     "comic": {
-      "matched": 7,
+      "matched": 0,
       "complete": true
     }
   }

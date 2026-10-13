@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-10-13T01:09:24.406Z",
+  "updatedAt": "2026-10-13T14:46:10.086Z",
   "candidateCount": 75,
-  "baseMatched": 28,
-  "matched": 37,
-  "addedMatches": 9,
+  "baseMatched": 32,
+  "matched": 38,
+  "addedMatches": 6,
   "unavailable": [
     "rakuten"
   ],
@@ -57,6 +57,12 @@
           "author": "凪良 ゆう",
           "isbn": "",
           "rank": 12
+        },
+        {
+          "title": "これ、かなりマジです。時間・お金・心を整える365の言葉",
+          "author": "いれぶん",
+          "isbn": "",
+          "rank": 16
         },
         {
           "title": "時をかけるゆとり (文春文庫 あ 68-1)",
@@ -229,12 +235,6 @@
           "author": "",
           "isbn": "",
           "rank": 28
-        },
-        {
-          "title": "捨てられ公爵夫人は、平穏な生活をお望みのようです 〈５〉",
-          "author": "",
-          "isbn": "",
-          "rank": 30
         }
       ]
     },
@@ -312,27 +312,22 @@
       "matchMeta": {
         "title": "パンどろぼうとさすらいラーメン",
         "author": "柴田 ケイコ",
-        "isbn": "",
-        "score": 509,
+        "score": 111,
         "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 29
-          },
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
             "rank": 1
           },
           {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 1
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 29
           }
         ],
         "source": "combined",
-        "rank": 2
+        "rank": 4,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "パンどろぼうとさすらいラーメン",
@@ -597,7 +592,8 @@
       "matchMeta": {
         "title": "プレゼント",
         "author": "伊坂幸太郎",
-        "score": 98,
+        "isbn": "",
+        "score": 177,
         "sources": [
           {
             "source": "maruzen",
@@ -607,7 +603,7 @@
         ],
         "source": "combined",
         "rank": 12,
-        "originalTitle": ""
+        "originalTitle": "プレゼント"
       },
       "ranking": {
         "title": "プレゼント",
@@ -623,53 +619,6 @@
         ],
         "source": "combined",
         "rank": 6
-      }
-    },
-    {
-      "id": "4390000016495",
-      "title": "俺たちの箱根駅伝　上",
-      "author": "池井戸潤",
-      "publisher": "文藝春秋",
-      "price": 950,
-      "url": "https://books.rakuten.co.jp/rk/4e7f0b49d3323a2f89dfd8d02fe40fce/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8878/2000021648878.jpg?_ex=600x600",
-      "caption": "日テレ系ドラマ化決定！池井戸潤の感動長編\n「箱根」に懸ける者たちの激闘を描く、池井戸潤の感動長編が遂に文庫化。2026年10月より日本テレビ系土曜ドラマ放送開始。\n単行本　2024年4月　文藝春秋刊\n文庫版　2026年9月　文春文庫刊　\nこの電子書籍は文春文庫版を底本としています\n",
-      "salesDate": "2026年09月02日",
-      "series": "俺たちの箱根駅伝",
-      "reviewAverage": 4.7,
-      "reviewCount": 31,
-      "genreId": "101901",
-      "isbn": "4390000016495",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "俺たちの箱根駅伝 上",
-        "author": "池井戸 潤",
-        "score": 94,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 4
-          }
-        ],
-        "source": "combined",
-        "rank": 17,
-        "originalTitle": "俺たちの箱根駅伝 上 (文春文庫 い 64-13)"
-      },
-      "ranking": {
-        "title": "俺たちの箱根駅伝 上 (文春文庫 い 64-13)",
-        "author": "池井戸 潤",
-        "isbn": "",
-        "score": 176,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 4
-          }
-        ],
-        "source": "combined",
-        "rank": 7
       }
     },
     {
@@ -712,6 +661,53 @@
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
+            "rank": 4
+          }
+        ],
+        "source": "combined",
+        "rank": 7
+      }
+    },
+    {
+      "id": "4390000016495",
+      "title": "俺たちの箱根駅伝　上",
+      "author": "池井戸潤",
+      "publisher": "文藝春秋",
+      "price": 950,
+      "url": "https://books.rakuten.co.jp/rk/4e7f0b49d3323a2f89dfd8d02fe40fce/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8878/2000021648878.jpg?_ex=600x600",
+      "caption": "日テレ系ドラマ化決定！池井戸潤の感動長編\n「箱根」に懸ける者たちの激闘を描く、池井戸潤の感動長編が遂に文庫化。2026年10月より日本テレビ系土曜ドラマ放送開始。\n単行本　2024年4月　文藝春秋刊\n文庫版　2026年9月　文春文庫刊　\nこの電子書籍は文春文庫版を底本としています\n",
+      "salesDate": "2026年09月02日",
+      "series": "俺たちの箱根駅伝",
+      "reviewAverage": 4.7,
+      "reviewCount": 31,
+      "genreId": "101901",
+      "isbn": "4390000016495",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "俺たちの箱根駅伝 上",
+        "author": "池井戸 潤",
+        "score": 94,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 4
+          }
+        ],
+        "source": "combined",
+        "rank": 17,
+        "originalTitle": "俺たちの箱根駅伝 上 (文春文庫 い 64-13)"
+      },
+      "ranking": {
+        "title": "俺たちの箱根駅伝 上 (文春文庫 い 64-13)",
+        "author": "池井戸 潤",
+        "isbn": "",
+        "score": 176,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
             "rank": 4
           }
         ],
@@ -830,10 +826,9 @@
       "isbn": "4390000016496",
       "salesType": 0,
       "matchMeta": {
-        "title": "俺たちの箱根駅伝 下 (文春文庫 い 64-14)",
+        "title": "俺たちの箱根駅伝 下",
         "author": "池井戸 潤",
-        "isbn": "",
-        "score": 174,
+        "score": 86,
         "sources": [
           {
             "source": "amazon",
@@ -842,7 +837,8 @@
           }
         ],
         "source": "combined",
-        "rank": 20
+        "rank": 25,
+        "originalTitle": "俺たちの箱根駅伝 下 (文春文庫 い 64-14)"
       },
       "ranking": {
         "title": "俺たちの箱根駅伝 下 (文春文庫 い 64-14)",
@@ -908,6 +904,53 @@
       }
     },
     {
+      "id": "4320000935691",
+      "title": "きずもの",
+      "author": "西加奈子",
+      "publisher": "小学館",
+      "price": 1980,
+      "url": "https://books.rakuten.co.jp/rk/8871de5605733597a57f5a5b13ccccb2/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7957/2000021867957.jpg?_ex=600x600",
+      "caption": "５年ぶりの長編小説、新たなる代表作。\n小説家・松川貢は、郷里の幼馴染みである田持猛とゆるやかにＳＮＳで繋がり続けていた。\n運動が得意だった猛は、貢にとって仰ぎ見る存在だったが、いまやその関係性は真逆のものになっていた。\n某写真家のパーティーで貢と出会った遥は、ある出来事を機に、カナダ・バンクーバーで生活を続ける親友の万千花のルームシェア相手になる。\n幼少期から互いを知る二組には、それぞれの時間が着実に流れていた。\n執筆３年。\n絶望と勇気が肩を組んでやってくるような、\n直木賞受賞作「サラバ！」、がん治療ノンフィクション「くもをさがす」著者の新たなる代表作。\n※この作品はカラーが含まれます。\n（底本　２０２６年９月発売作品）\n",
+      "salesDate": "2026年09月30日",
+      "series": "きずもの",
+      "reviewAverage": 4,
+      "reviewCount": 3,
+      "genreId": "101901",
+      "isbn": "4320000935691",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "きずもの",
+        "author": "",
+        "score": 78,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 32,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "きずもの",
+        "author": "",
+        "isbn": "",
+        "score": 172,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 13
+      }
+    },
+    {
       "id": "4660629612104",
       "title": "イン・ザ・メガチャーチ",
       "author": "朝井リョウ",
@@ -948,53 +991,6 @@
           {
             "source": "tohan",
             "label": "トーハン",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 13
-      }
-    },
-    {
-      "id": "4320000935691",
-      "title": "きずもの",
-      "author": "西加奈子",
-      "publisher": "小学館",
-      "price": 1980,
-      "url": "https://books.rakuten.co.jp/rk/8871de5605733597a57f5a5b13ccccb2/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7957/2000021867957.jpg?_ex=600x600",
-      "caption": "５年ぶりの長編小説、新たなる代表作。\n小説家・松川貢は、郷里の幼馴染みである田持猛とゆるやかにＳＮＳで繋がり続けていた。\n運動が得意だった猛は、貢にとって仰ぎ見る存在だったが、いまやその関係性は真逆のものになっていた。\n某写真家のパーティーで貢と出会った遥は、ある出来事を機に、カナダ・バンクーバーで生活を続ける親友の万千花のルームシェア相手になる。\n幼少期から互いを知る二組には、それぞれの時間が着実に流れていた。\n執筆３年。\n絶望と勇気が肩を組んでやってくるような、\n直木賞受賞作「サラバ！」、がん治療ノンフィクション「くもをさがす」著者の新たなる代表作。\n※この作品はカラーが含まれます。\n（底本　２０２６年９月発売作品）\n",
-      "salesDate": "2026年09月30日",
-      "series": "きずもの",
-      "reviewAverage": 4,
-      "reviewCount": 3,
-      "genreId": "101901",
-      "isbn": "4320000935691",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "きずもの",
-        "author": "",
-        "isbn": "",
-        "score": 172,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 28
-      },
-      "ranking": {
-        "title": "きずもの",
-        "author": "",
-        "isbn": "",
-        "score": 172,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
             "rank": 8
           }
         ],
@@ -1428,6 +1424,53 @@
       }
     },
     {
+      "id": "8926000912320",
+      "title": "これ、かなりマジです。時間・お金・心を整える３６５の言葉",
+      "author": "いれぶん",
+      "publisher": "徳間書店",
+      "price": 2530,
+      "url": "https://books.rakuten.co.jp/rk/ff2c6bc0e9073b89bd44ede6e0139c83/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1320/2000021551320.jpg?_ex=600x600",
+      "caption": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。\nSNSで大反響！\n18万人の背中を押してきたカリスマ塾長が贈る、人生の処方箋。\n読むたびに、迷いが消え、覚悟が決まるーー。\nお金・時間・心を整える、365の日めくり言葉集。\n「お金の不安をなくしたい」\n「自分の時間が欲しい」\n「人間関係に疲れた」\n上手くいかない原因はなんでしょう？\n努力不足？　意志の弱さ？\n違います。そんなものは必要ありません。\n大切なのは、ちょっとした“整え方”だけです。\n・・・・・・・\nハードワークに明け暮れ、30代で年収8桁に到達するも、体を壊して救急搬送。\nさらに株式投資で700万円の損失を被り、家族からの信用も失ってしまう。\n42歳で人生のどん底に陥った著者。\nしかしそこから身の回りのことをひとつひとつ整えていった結果、人生は激変した。\nわずか2年で収入も自由時間も心のゆとりも爆増。\nどん底からの大逆転を遂げる。\nそんな著者だからこそ伝えられる、最高の人生のつくり方。\n・・・・・・・\n当たり前に見えることほど、人生を変える。\n凡事徹底こそが最強のライフハック。\n＼＼本書の言葉はSNS投稿OK！／／\n「あなたを動かした言葉を、大切な誰かに届けませんか。その言葉がみんなを元気にします」（いれぶん）\n※本書の内容はどなたでも撮影、SNS投稿していただいてOKです。\n※販売目的の複製・複写は、紙、デジタルを問わず、その一切を禁止します。\n■目次\nChapter 1　決める\nChapter 2　やめる\nChapter 3　捨てる\nChapter 4　頼る\nChapter 5　挑む\nChapter 6　整える\nChapter 7　忘れる\nChapter 8　言葉にする\nChapter 9　信じる\nChapter 10　思いやる\nChapter 11　学ぶ\nChapter 12　楽しむ\nChapter 13　積み重ねる\nChapter 14　40代\n",
+      "salesDate": "2026年08月26日",
+      "series": "これ、かなりマジです。時間・お金・心を整える３６５の言葉",
+      "reviewAverage": 4,
+      "reviewCount": 1,
+      "genreId": "101905016001",
+      "isbn": "8926000912320",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "これ、かなりマジです。時間・お金・心を整える365の言葉",
+        "author": "いれぶん",
+        "score": 46,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 16
+          }
+        ],
+        "source": "combined",
+        "rank": 50,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "これ、かなりマジです。時間・お金・心を整える365の言葉",
+        "author": "いれぶん",
+        "isbn": "",
+        "score": 164,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 16
+          }
+        ],
+        "source": "combined",
+        "rank": 24
+      }
+    },
+    {
       "id": "4390000002253",
       "title": "時をかけるゆとり",
       "author": "朝井リョウ",
@@ -1471,7 +1514,7 @@
           }
         ],
         "source": "combined",
-        "rank": 24
+        "rank": 25
       }
     },
     {
@@ -1518,7 +1561,7 @@
           }
         ],
         "source": "combined",
-        "rank": 25
+        "rank": 26
       }
     },
     {
@@ -1565,7 +1608,7 @@
           }
         ],
         "source": "combined",
-        "rank": 26
+        "rank": 27
       }
     },
     {
@@ -1612,7 +1655,7 @@
           }
         ],
         "source": "combined",
-        "rank": 27
+        "rank": 28
       }
     },
     {
@@ -1659,7 +1702,7 @@
           }
         ],
         "source": "combined",
-        "rank": 28
+        "rank": 29
       }
     },
     {
@@ -1706,7 +1749,7 @@
           }
         ],
         "source": "combined",
-        "rank": 29
+        "rank": 30
       }
     },
     {
@@ -1753,7 +1796,7 @@
           }
         ],
         "source": "combined",
-        "rank": 30
+        "rank": 31
       }
     },
     {
@@ -1800,7 +1843,54 @@
           }
         ],
         "source": "combined",
-        "rank": 31
+        "rank": 32
+      }
+    },
+    {
+      "id": "4320000939619",
+      "title": "あの子にしか行けない天国",
+      "author": "木爾チレン",
+      "publisher": "小学館",
+      "price": 1782,
+      "url": "https://books.rakuten.co.jp/rk/ea2d980498fe3bc2833a98acdb988460/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4014/2000021924014.jpg?_ex=600x600",
+      "caption": "選んだ未来を、私たちは正解にできるだろうか──。\n『I』18歳の身体機能・容姿を保ったまま45歳で寿命を迎えるか、『II』従来通り老いながら90歳まで生きるか。「選択制度」が発足し、女性は18歳で『I』か『II』を選ぶことを義務づけられた。『I』を象徴する女優の母を持ち、自身も女優を志す紗月と、アイドルに憧れる莉々依。「いつか二人で、それぞれの分野の頂点に立とう」とはしゃぐ親友二人の人生は、その選択を境に分かたれていく。\n究極の問いに大胆に踏み込む、『二人一組になってください』著者の集大成であり新境地。\n",
+      "salesDate": "2026年10月07日",
+      "series": "あの子にしか行けない天国",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101901",
+      "isbn": "4320000939619",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "あの子にしか行けない天国",
+        "author": "",
+        "score": 5,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 28
+          }
+        ],
+        "source": "combined",
+        "rank": 70,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "あの子にしか行けない天国",
+        "author": "",
+        "isbn": "",
+        "score": 152,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 28
+          }
+        ],
+        "source": "combined",
+        "rank": 33
       }
     },
     {
@@ -1844,100 +1934,6 @@
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
             "rank": 28
-          }
-        ],
-        "source": "combined",
-        "rank": 32
-      }
-    },
-    {
-      "id": "4320000939619",
-      "title": "あの子にしか行けない天国",
-      "author": "木爾チレン",
-      "publisher": "小学館",
-      "price": 1782,
-      "url": "https://books.rakuten.co.jp/rk/ea2d980498fe3bc2833a98acdb988460/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4014/2000021924014.jpg?_ex=600x600",
-      "caption": "選んだ未来を、私たちは正解にできるだろうか──。\n『I』18歳の身体機能・容姿を保ったまま45歳で寿命を迎えるか、『II』従来通り老いながら90歳まで生きるか。「選択制度」が発足し、女性は18歳で『I』か『II』を選ぶことを義務づけられた。『I』を象徴する女優の母を持ち、自身も女優を志す紗月と、アイドルに憧れる莉々依。「いつか二人で、それぞれの分野の頂点に立とう」とはしゃぐ親友二人の人生は、その選択を境に分かたれていく。\n究極の問いに大胆に踏み込む、『二人一組になってください』著者の集大成であり新境地。\n",
-      "salesDate": "2026年10月07日",
-      "series": "あの子にしか行けない天国",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101901",
-      "isbn": "4320000939619",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "あの子にしか行けない天国",
-        "author": "",
-        "isbn": "",
-        "score": 152,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 28
-          }
-        ],
-        "source": "combined",
-        "rank": 72
-      },
-      "ranking": {
-        "title": "あの子にしか行けない天国",
-        "author": "",
-        "isbn": "",
-        "score": 152,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 28
-          }
-        ],
-        "source": "combined",
-        "rank": 33
-      }
-    },
-    {
-      "id": "8909131370023",
-      "title": "捨てられ公爵夫人は、平穏な生活をお望みのようです5【電子書籍限定書き下ろしSS付き】",
-      "author": "カレヤタミエ",
-      "publisher": "TOブックス",
-      "price": 1399,
-      "url": "https://books.rakuten.co.jp/rk/02faea7362f434ae8c2e5f4aba8e82bb/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9158/2000021309158.jpg?_ex=600x600",
-      "caption": "【電子書籍限定書き下ろしSS】付き！\n『このライトノベルがすごい！２０２６』（宝島社刊）\n新作単行本・ノベルズ部門第2位／単行本・ノベルズ部門第15位\nシリーズ大重版！\nシリーズ累計６５万部（紙＋電子）突破！\nコミカライズ第３巻＆ドラマCD同日発売！\n「お節介なんて柄じゃないのよ？」\n言葉にしなければ伝わらない思いがある。\nしたたか夫人の領地改革ヒューマン・ファンタジー、第五弾！\n書き下ろし番外編巻末収録！\nセドリックが旅立った後も、メルフィーナにより改革が進むエンカー地方。\n畜産農家やお針子が職を探して移住してきたり、\n南部のロマーナ共和国から商人と理容師が営業に来たりと様々な人々が集まっていた。\nそんな流れに続いてか、やってきたのは意外な来客ーーオルドランド家の公子・ウィリアムだった。\n敬愛する伯父の妻を一目見たいと、小姓に紛れ込んでやってきたらしい彼は、\nいざ会ってみれば、何やらアレクシスやマリーとの関係がぎくしゃくしている様子。\n「お節介なんて悪役令嬢の柄じゃない」と言いつつ、子どもの悩みを放っておけない彼女はある策を打つことにーー？\n言葉にしなければ伝わらない思いがある。\nしたたか夫人の領地改革ヒューマン・ファンタジー、第五弾！\n",
-      "salesDate": "2026年10月10日",
-      "series": "捨てられ公爵夫人は、平穏な生活をお望みのようです",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101903090/101901006",
-      "isbn": "8909131370023",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "捨てられ公爵夫人は、平穏な生活をお望みのようです 〈5〉",
-        "author": "",
-        "score": 5,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 30
-          }
-        ],
-        "source": "combined",
-        "rank": 72,
-        "originalTitle": "捨てられ公爵夫人は、平穏な生活をお望みのようです 〈５〉"
-      },
-      "ranking": {
-        "title": "捨てられ公爵夫人は、平穏な生活をお望みのようです 〈５〉",
-        "author": "",
-        "isbn": "",
-        "score": 150,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 30
           }
         ],
         "source": "combined",
@@ -1992,6 +1988,53 @@
       }
     },
     {
+      "id": "4310000890409",
+      "title": "楽園",
+      "author": "夕木春央",
+      "publisher": "講談社",
+      "price": 1980,
+      "url": "https://books.rakuten.co.jp/rk/1a1c684dcee83b98b4d0187187c813d0/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1651/2000021221651.jpg?_ex=600x600",
+      "caption": "殺人犯にならなければ脱出できない。\n『方舟』『十戒』の著者が仕掛ける“禁忌の驚き”\n亡き両親から不動産を譲り受けた康之は、失踪した賃借人・海原の遺留品整理の際に、群馬の山奥の謎の物件の存在を知る。そこは、切り立った岩壁に囲まれた、「楽園」と呼ばれる奇妙な場所だった。恋人の沙織と一緒にそこを訪ね、探索をはじめた康之たちは、すぐに六人の“住人”に拿捕された。脱出のための条件はーー\n「誰か一人を殺さなければならない」\n『方舟』\n第19回オリコン上半期”本”ランキング　文庫ランキングTOP10 第1位\n週刊文春ミステリーベスト10　第1位　（「週刊文春」2022年12月8日号）国内部門\nMRC大賞2022　第1位\n『方舟』＋『十戒』の累計発行部数が100万部突破。\nーー夕木春央が描く、極限のクローズド・サークル。\n",
+      "salesDate": "2026年07月22日",
+      "series": "楽園",
+      "reviewAverage": 4.17,
+      "reviewCount": 479,
+      "genreId": "101902",
+      "isbn": "4310000890409",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "楽園",
+        "author": "夕木春央",
+        "score": 94,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
+          }
+        ],
+        "source": "combined",
+        "rank": 15,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "楽園",
+        "author": "夕木春央",
+        "score": 94,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
+          }
+        ],
+        "source": "combined",
+        "rank": 36,
+        "originalTitle": ""
+      }
+    },
+    {
       "id": "9784059239659",
       "title": "地球の歩き方 スター・ウォーズ",
       "author": "",
@@ -2034,7 +2077,7 @@
           }
         ],
         "source": "combined",
-        "rank": 36,
+        "rank": 37,
         "originalTitle": ""
       }
     },
@@ -2081,7 +2124,7 @@
           }
         ],
         "source": "combined",
-        "rank": 37,
+        "rank": 38,
         "originalTitle": ""
       }
     }
@@ -2091,13 +2134,13 @@
       "4380000408000",
       "4310000683989",
       "4340008067051",
-      "4390000016495",
       "4320000935695",
+      "4390000016495",
       "4910000909001",
       "4390000016496",
       "4390000005636",
-      "4660629612104",
       "4320000935691",
+      "4660629612104",
       "4340008067611",
       "4310000886199",
       "4390000016658",
@@ -2110,12 +2153,14 @@
       "4320000935695",
       "4390000005636",
       "4620000615075",
-      "4620000615076"
+      "4620000615076",
+      "4310000890409"
     ],
     "sf": [],
     "business": [
       "4310000701877",
       "8910126773560",
+      "8926000912320",
       "4910000884732",
       "4524815638200"
     ],
@@ -2173,7 +2218,7 @@
       "complete": true
     },
     "mystery": {
-      "matched": 4,
+      "matched": 5,
       "complete": true
     },
     "sf": {
@@ -2181,7 +2226,7 @@
       "complete": true
     },
     "business": {
-      "matched": 4,
+      "matched": 5,
       "complete": true
     },
     "humanities": {

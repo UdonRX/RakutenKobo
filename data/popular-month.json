@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-10-14T05:36:19.653Z",
+  "updatedAt": "2026-10-14T12:34:55.322Z",
   "candidateCount": 38,
-  "baseMatched": 14,
-  "matched": 17,
-  "addedMatches": 3,
+  "baseMatched": 16,
+  "matched": 18,
+  "addedMatches": 2,
   "unavailable": [],
   "snapshots": {
     "kinokuniya": {
@@ -624,8 +624,7 @@
       "matchMeta": {
         "title": "春までのセンセイ",
         "author": "",
-        "isbn": "",
-        "score": 162,
+        "score": 38,
         "sources": [
           {
             "source": "kinokuniya",
@@ -634,7 +633,8 @@
           }
         ],
         "source": "combined",
-        "rank": 26
+        "rank": 26,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "春までのセンセイ",
@@ -747,6 +747,53 @@
       }
     },
     {
+      "id": "4320000865495",
+      "title": "ファイア・ドーム 上",
+      "author": "辻村深月",
+      "publisher": "小学館",
+      "price": 1881,
+      "url": "https://books.rakuten.co.jp/rk/22c26517c9353107819b56539afa6896/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1853/2000020771853.jpg?_ex=600x600",
+      "caption": "人はなぜ大きな事件に魅了されてしまうのか。\n噂は、軽薄な娯楽だ。\n25年前、平穏だったはずの地方都市は、百貨店受付嬢誘拐殺人事件の発生、その報道により揺り動かされ、「噂」という大量の炎が、加害者のみならず被害者にも降り注ぎ、燃えさかった。ようやく静けさを取り戻したかに見える町に燻り続ける因縁が、いま新たな事件を呼び起こすーー。\n「もう言われてるよ！　どうせ、親が殺したんだろうって！」ーー本文より\n",
+      "salesDate": "2026年06月05日",
+      "series": "ファイア・ドーム",
+      "reviewAverage": 4.58,
+      "reviewCount": 480,
+      "genreId": "101901/101902",
+      "isbn": "4320000865495",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ファイア・ドーム 上",
+        "author": "辻村深月",
+        "score": 102,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 2
+          }
+        ],
+        "source": "combined",
+        "rank": 5,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "ファイア・ドーム 上",
+        "author": "辻村深月",
+        "score": 102,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 2
+          }
+        ],
+        "source": "combined",
+        "rank": 14,
+        "originalTitle": ""
+      }
+    },
+    {
       "id": "4320000865494",
       "title": "ファイア・ドーム 下",
       "author": "辻村深月",
@@ -789,7 +836,7 @@
           }
         ],
         "source": "combined",
-        "rank": 14,
+        "rank": 15,
         "originalTitle": ""
       }
     },
@@ -836,7 +883,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15,
+        "rank": 16,
         "originalTitle": ""
       }
     },
@@ -883,7 +930,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16,
+        "rank": 17,
         "originalTitle": ""
       }
     },
@@ -930,7 +977,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17,
+        "rank": 18,
         "originalTitle": ""
       }
     }
@@ -942,11 +989,13 @@
       "4320000935695",
       "6681316776900",
       "4320000867368",
+      "4320000865495",
       "4320000865494",
       "4310000858457"
     ],
     "mystery": [
       "4320000935695",
+      "4320000865495",
       "4320000865494"
     ],
     "sf": [],
@@ -989,11 +1038,11 @@
   },
   "genreStatus": {
     "fiction": {
-      "matched": 7,
+      "matched": 8,
       "complete": true
     },
     "mystery": {
-      "matched": 2,
+      "matched": 3,
       "complete": true
     },
     "sf": {

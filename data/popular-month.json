@@ -4,10 +4,10 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-10-13T23:18:00.718Z",
+  "updatedAt": "2026-10-14T05:36:19.653Z",
   "candidateCount": 38,
-  "baseMatched": 16,
-  "matched": 19,
+  "baseMatched": 14,
+  "matched": 17,
   "addedMatches": 3,
   "unavailable": [],
   "snapshots": {
@@ -17,7 +17,7 @@
       "attribution": "紀伊國屋書店調べ",
       "sourceUrl": "https://www.kinokuniya.co.jp/disp/CKnRankingPageCList.jsp?dispNo=107002001001&vTp=m",
       "periodLabel": "マンスリー",
-      "updatedAt": "2026-10-13",
+      "updatedAt": "2026-10-14",
       "live": true,
       "items": [
         {
@@ -60,7 +60,7 @@
           "title": "ソン・シギョンの本当に美味しい韓国グルメガイド - ＳＵＮＧ ＳＩ ＫＹＵＮＧ’ｓ Ｄｅｅｐ Ｋｏｒｅ 講談社ＭＯＯＫ",
           "author": "",
           "isbn": "",
-          "rank": 14
+          "rank": 12
         },
         {
           "title": "命の燃やし方",
@@ -72,13 +72,13 @@
           "title": "春までのセンセイ",
           "author": "",
           "isbn": "",
-          "rank": 25
+          "rank": 18
         },
         {
           "title": "なぜ日本が世界に必要なのか 文春新書",
           "author": "",
           "isbn": "",
-          "rank": 29
+          "rank": 21
         }
       ]
     },
@@ -88,7 +88,7 @@
       "attribution": "トーハン調べ",
       "sourceUrl": "https://www.tohan.jp/bestsellers/2026_09_monthly/",
       "periodLabel": "月間",
-      "updatedAt": "2026-10-13",
+      "updatedAt": "2026-10-14",
       "live": true,
       "items": [
         {
@@ -433,7 +433,7 @@
       "isbn": "4524815633410",
       "salesType": 0,
       "matchMeta": {
-        "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
+        "title": "ハーバード、スタンフォード、オックスフォード... 科学的に証明された すごい習慣大百科",
         "author": "",
         "isbn": "",
         "score": 170,
@@ -445,7 +445,8 @@
           }
         ],
         "source": "combined",
-        "rank": 17
+        "rank": 17,
+        "originalTitle": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科"
       },
       "ranking": {
         "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
@@ -461,6 +462,53 @@
         ],
         "source": "combined",
         "rank": 7
+      }
+    },
+    {
+      "id": "4310000936589",
+      "title": "ソン・シギョンの本当に美味しい韓国グルメガイド　ＳＵＮＧ　ＳＩ　ＫＹＵＮＧ’ｓ　Ｄｅｅｐ　Ｋｏｒｅａ",
+      "author": "ソン・シギョン",
+      "publisher": "講談社",
+      "price": 2200,
+      "url": "https://books.rakuten.co.jp/rk/4374061cc5783b7593a3e194d7cabec4/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1514/2000021871514.jpg?_ex=600x600",
+      "caption": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。\n韓国の国民的人気歌手で、食通としても知られるソン・シギョン。\n自身のYouTubeチャンネルで人気を集めるグルメコンテンツ「モグルテンデ」が、待望の一冊に。\nソウルを中心に、ソン・シギョン自らが選んだ“本当においしい店”123店を厳選して紹介。\n韓国で撮り下ろした写真やロングインタビューも収録。\n観光客向けの定番店ではなく、「韓国で本当に美味しいものを食べたい」という人へ。\nソン・シギョンだからこそ案内できる、これまでにない韓国グルメガイドです。\n※この商品は紙の書籍のページを画像にした電子書籍です。文字だけを拡大することはできませんので、タブレットサイズの端末での閲読を推奨します。また、文字列のハイライトや検索、辞書の参照、引用などの機能も使用できません。\n",
+      "salesDate": "2026年10月01日",
+      "series": "ソン・シギョンの本当に美味しい韓国グルメガイド　ＳＵＮＧ　ＳＩ　ＫＹＵＮＧ’ｓ　Ｄｅｅｐ　Ｋｏｒｅａ",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101911",
+      "isbn": "4310000936589",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ソン・シギョンの本当に美味しい韓国グルメガイド - SUNG SI KYUNG’s Deep Kore 講談社MOOK",
+        "author": "",
+        "score": 62,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 12
+          }
+        ],
+        "source": "combined",
+        "rank": 21,
+        "originalTitle": "ソン・シギョンの本当に美味しい韓国グルメガイド - ＳＵＮＧ　ＳＩ　ＫＹＵＮＧ’ｓ　Ｄｅｅｐ　Ｋｏｒｅ 講談社ＭＯＯＫ"
+      },
+      "ranking": {
+        "title": "ソン・シギョンの本当に美味しい韓国グルメガイド - ＳＵＮＧ ＳＩ ＫＹＵＮＧ’ｓ Ｄｅｅｐ Ｋｏｒｅ 講談社ＭＯＯＫ",
+        "author": "",
+        "isbn": "",
+        "score": 168,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 12
+          }
+        ],
+        "source": "combined",
+        "rank": 8
       }
     },
     {
@@ -507,53 +555,6 @@
           }
         ],
         "source": "combined",
-        "rank": 8
-      }
-    },
-    {
-      "id": "4310000936589",
-      "title": "ソン・シギョンの本当に美味しい韓国グルメガイド　ＳＵＮＧ　ＳＩ　ＫＹＵＮＧ’ｓ　Ｄｅｅｐ　Ｋｏｒｅａ",
-      "author": "ソン・シギョン",
-      "publisher": "講談社",
-      "price": 2200,
-      "url": "https://books.rakuten.co.jp/rk/4374061cc5783b7593a3e194d7cabec4/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1514/2000021871514.jpg?_ex=600x600",
-      "caption": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。\n韓国の国民的人気歌手で、食通としても知られるソン・シギョン。\n自身のYouTubeチャンネルで人気を集めるグルメコンテンツ「モグルテンデ」が、待望の一冊に。\nソウルを中心に、ソン・シギョン自らが選んだ“本当においしい店”123店を厳選して紹介。\n韓国で撮り下ろした写真やロングインタビューも収録。\n観光客向けの定番店ではなく、「韓国で本当に美味しいものを食べたい」という人へ。\nソン・シギョンだからこそ案内できる、これまでにない韓国グルメガイドです。\n※この商品は紙の書籍のページを画像にした電子書籍です。文字だけを拡大することはできませんので、タブレットサイズの端末での閲読を推奨します。また、文字列のハイライトや検索、辞書の参照、引用などの機能も使用できません。\n",
-      "salesDate": "2026年10月01日",
-      "series": "ソン・シギョンの本当に美味しい韓国グルメガイド　ＳＵＮＧ　ＳＩ　ＫＹＵＮＧ’ｓ　Ｄｅｅｐ　Ｋｏｒｅａ",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101911",
-      "isbn": "4310000936589",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ソン・シギョンの本当に美味しい韓国グルメガイド - SUNG SI KYUNG’s Deep Kore 講談社MOOK",
-        "author": "",
-        "score": 54,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 14
-          }
-        ],
-        "source": "combined",
-        "rank": 23,
-        "originalTitle": "ソン・シギョンの本当に美味しい韓国グルメガイド - ＳＵＮＧ　ＳＩ　ＫＹＵＮＧ’ｓ　Ｄｅｅｐ　Ｋｏｒｅ 講談社ＭＯＯＫ"
-      },
-      "ranking": {
-        "title": "ソン・シギョンの本当に美味しい韓国グルメガイド - ＳＵＮＧ ＳＩ ＫＹＵＮＧ’ｓ Ｄｅｅｐ Ｋｏｒｅ 講談社ＭＯＯＫ",
-        "author": "",
-        "isbn": "",
-        "score": 166,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 14
-          }
-        ],
-        "source": "combined",
         "rank": 9
       }
     },
@@ -576,8 +577,7 @@
       "matchMeta": {
         "title": "命の燃やし方",
         "author": "",
-        "isbn": "",
-        "score": 165,
+        "score": 50,
         "sources": [
           {
             "source": "kinokuniya",
@@ -586,7 +586,8 @@
           }
         ],
         "source": "combined",
-        "rank": 24
+        "rank": 24,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "命の燃やし方",
@@ -623,28 +624,28 @@
       "matchMeta": {
         "title": "春までのセンセイ",
         "author": "",
-        "score": 10,
+        "isbn": "",
+        "score": 162,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 25
+            "rank": 18
           }
         ],
         "source": "combined",
-        "rank": 33,
-        "originalTitle": ""
+        "rank": 26
       },
       "ranking": {
         "title": "春までのセンセイ",
         "author": "",
         "isbn": "",
-        "score": 155,
+        "score": 162,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 25
+            "rank": 18
           }
         ],
         "source": "combined",
@@ -670,28 +671,28 @@
       "matchMeta": {
         "title": "なぜ日本が世界に必要なのか 文春新書",
         "author": "",
-        "score": 5,
+        "score": 26,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 29
+            "rank": 21
           }
         ],
         "source": "combined",
-        "rank": 37,
+        "rank": 29,
         "originalTitle": ""
       },
       "ranking": {
         "title": "なぜ日本が世界に必要なのか 文春新書",
         "author": "",
         "isbn": "",
-        "score": 151,
+        "score": 159,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 29
+            "rank": 21
           }
         ],
         "source": "combined",
@@ -746,53 +747,6 @@
       }
     },
     {
-      "id": "4320000865495",
-      "title": "ファイア・ドーム 上",
-      "author": "辻村深月",
-      "publisher": "小学館",
-      "price": 1881,
-      "url": "https://books.rakuten.co.jp/rk/22c26517c9353107819b56539afa6896/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1853/2000020771853.jpg?_ex=600x600",
-      "caption": "人はなぜ大きな事件に魅了されてしまうのか。\n噂は、軽薄な娯楽だ。\n25年前、平穏だったはずの地方都市は、百貨店受付嬢誘拐殺人事件の発生、その報道により揺り動かされ、「噂」という大量の炎が、加害者のみならず被害者にも降り注ぎ、燃えさかった。ようやく静けさを取り戻したかに見える町に燻り続ける因縁が、いま新たな事件を呼び起こすーー。\n「もう言われてるよ！　どうせ、親が殺したんだろうって！」ーー本文より\n",
-      "salesDate": "2026年06月05日",
-      "series": "ファイア・ドーム",
-      "reviewAverage": 4.58,
-      "reviewCount": 480,
-      "genreId": "101901/101902",
-      "isbn": "4320000865495",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ファイア・ドーム 上",
-        "author": "辻村深月",
-        "score": 102,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 2
-          }
-        ],
-        "source": "combined",
-        "rank": 5,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "ファイア・ドーム 上",
-        "author": "辻村深月",
-        "score": 102,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 2
-          }
-        ],
-        "source": "combined",
-        "rank": 14,
-        "originalTitle": ""
-      }
-    },
-    {
       "id": "4320000865494",
       "title": "ファイア・ドーム 下",
       "author": "辻村深月",
@@ -835,7 +789,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15,
+        "rank": 14,
         "originalTitle": ""
       }
     },
@@ -882,54 +836,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16,
-        "originalTitle": ""
-      }
-    },
-    {
-      "id": "4390000015358",
-      "title": "青天",
-      "author": "若林正恭",
-      "publisher": "文藝春秋",
-      "price": 1900,
-      "url": "https://books.rakuten.co.jp/rk/a6fc1b8794af3eafb7f064fac9c68dfa/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0144/2000019330144.jpg?_ex=600x600",
-      "caption": "オードリー・若林正恭、初小説！\n人にぶつかっていないと、自分が生きているかどうかよくわからなくなるーー\n総大三高の「アリ」こと中村昴が所属するアメフト部は、万年２回戦どまり。相手校の練習を隠し撮りして迎えた高３の引退大会では、強豪・遼西学園に打ち破れた。引退後、みなが受験に向かうなか、勉強にも気持ちが入らず、不良になる覚悟もないまま宙ぶらりんの日々を過ごす。自分自身の不甲斐なさにもがき続けるなかで、アリは再びアメフトと向き合う決意を固める。\n青春の苦みと悦びに満ちた、著者渾身の初小説。\n",
-      "salesDate": "2026年02月20日",
-      "series": "",
-      "reviewAverage": 3.99,
-      "reviewCount": 623,
-      "genreId": "101901",
-      "isbn": "4390000015358",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "青天",
-        "author": "若林正恭",
-        "score": 78,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
         "rank": 15,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "青天",
-        "author": "若林正恭",
-        "score": 78,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 17,
         "originalTitle": ""
       }
     },
@@ -976,7 +883,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18,
+        "rank": 16,
         "originalTitle": ""
       }
     },
@@ -1023,7 +930,7 @@
           }
         ],
         "source": "combined",
-        "rank": 19,
+        "rank": 17,
         "originalTitle": ""
       }
     }
@@ -1035,14 +942,11 @@
       "4320000935695",
       "6681316776900",
       "4320000867368",
-      "4320000865495",
       "4320000865494",
-      "4310000858457",
-      "4390000015358"
+      "4310000858457"
     ],
     "mystery": [
       "4320000935695",
-      "4320000865495",
       "4320000865494"
     ],
     "sf": [],
@@ -1085,11 +989,11 @@
   },
   "genreStatus": {
     "fiction": {
-      "matched": 9,
+      "matched": 7,
       "complete": true
     },
     "mystery": {
-      "matched": 3,
+      "matched": 2,
       "complete": true
     },
     "sf": {

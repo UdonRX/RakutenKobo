@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "year",
-  "updatedAt": "2026-10-13T23:18:05.052Z",
+  "updatedAt": "2026-10-14T05:36:24.045Z",
   "candidateCount": 13,
-  "baseMatched": 6,
+  "baseMatched": 7,
   "matched": 8,
-  "addedMatches": 2,
+  "addedMatches": 1,
   "unavailable": [],
   "snapshots": {
     "tohan": {
@@ -17,7 +17,7 @@
       "attribution": "トーハン調べ",
       "sourceUrl": "https://www.tohan.jp/bestsellers/2026_firsthalf_total/",
       "periodLabel": "年次",
-      "updatedAt": "2026-10-13",
+      "updatedAt": "2026-10-14",
       "live": true,
       "items": [
         {
@@ -45,10 +45,10 @@
           "rank": 4
         },
         {
-          "title": "暁星",
+          "title": "大河の一滴 最終章",
           "author": "",
           "isbn": "",
-          "rank": 7
+          "rank": 8
         },
         {
           "title": "不滅なるものへの挑戦 霊性の時代を拓くために",
@@ -261,47 +261,46 @@
       }
     },
     {
-      "id": "6681299179860",
-      "title": "暁星",
-      "author": "湊かなえ",
-      "publisher": "双葉社",
-      "price": 1980,
-      "url": "https://books.rakuten.co.jp/rk/eb8de6a46aa935d48709dbfee116c7d2/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4762/2000019204762.jpg?_ex=600x600",
-      "caption": "「ただ、星を守りたかっただけーー」　\n現役の文部科学大臣で文壇の大御所作家でもある清水義之が全国高校生総合文化祭の式典の最中、舞台袖から飛び出してきた男に刺されて死亡する事件がおきた。逮捕された男の名前は永瀬暁、37歳。永瀬は逮捕されたのち、週刊誌に手記を発表しはじめる。そこには、清水が深く関わっているとされる新興宗教に対する恨みが綴られていた。また、式典に出席していた作家は、永瀬の事件を小説として描く。ノンフィクションとフィクション、ふたつの物語が合わさったとき見える景色とは!?\n",
-      "salesDate": "2025年11月27日",
-      "series": "暁星",
-      "reviewAverage": 4.17,
-      "reviewCount": 1230,
-      "genreId": "101902",
-      "isbn": "6681299179860",
+      "id": "4380000485089",
+      "title": "大河の一滴　最終章",
+      "author": "五木寛之",
+      "publisher": "幻冬舎",
+      "price": 1881,
+      "url": "https://books.rakuten.co.jp/rk/11c561cb4c083a838252a295da0974c9/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1450/2000019211450.jpg?_ex=600x600",
+      "caption": "93歳の人間論ーー。\n人は何かのために生きるのではない。\n誰かのために生きるのだ。\n衝撃のベストセラー『大河の一滴』から30年。圧巻の集大成。\n常に、再生の希望はある。\n少年時代の引揚体験、自死への欲求、思いがけない病の宣告……\nあえて、大河の流れに逆らうことを決意した、告白的人間論。\n「かつて人生を大河の流れにたとえて書いたときは、その流れに身をまかせて、生命の海へと流れていく、そんなふうに考えていた。\n　しかし、と、私は思ったのだ。ときには大河の流れに身をまかせるだけでなく、それに逆らって生きることもあっていいのではあるまいか。大河の流れの中にも、逆流する場所もあれば、迂回する流れもある。\n　長く生きられなかった彼らのかわりに、自分は一日でも長く生きようと考えてきたのではなかったか。運命に身をまかせるだけでなく、それに逆らうこともあっていい。\n　人には、何人かのために生きる責任がある、と思う。人々のはたさざりし思いを背負って生きる義務があるのではないか。何かのためではなく、誰かのために生きるのだ」\nーー「大河の流れに逆らって」本文より\n静寂から立ち上がる、鮮やかな再生の物語。\n",
+      "salesDate": "2026年02月12日",
+      "series": "",
+      "reviewAverage": 3.97,
+      "reviewCount": 33,
+      "genreId": "101907002002",
+      "isbn": "4380000485089",
       "salesType": 0,
       "matchMeta": {
-        "title": "暁星",
-        "author": "",
-        "isbn": "",
-        "score": 173,
+        "title": "大河の一滴 最終章",
+        "author": "五木寛之",
+        "score": 78,
         "sources": [
           {
             "source": "tohan",
             "label": "トーハン",
-            "rank": 7
+            "rank": 8
           }
         ],
         "source": "combined",
-        "rank": 7,
-        "originalTitle": "暁星"
+        "rank": 8,
+        "originalTitle": ""
       },
       "ranking": {
-        "title": "暁星",
+        "title": "大河の一滴 最終章",
         "author": "",
         "isbn": "",
-        "score": 173,
+        "score": 172,
         "sources": [
           {
             "source": "tohan",
             "label": "トーハン",
-            "rank": 7
+            "rank": 8
           }
         ],
         "source": "combined",
@@ -431,7 +430,8 @@
           }
         ],
         "source": "combined",
-        "rank": 12
+        "rank": 12,
+        "originalTitle": "FOR OVERSEAS"
       },
       "ranking": {
         "title": "FOR OVERSEAS",
@@ -456,14 +456,14 @@
       "4340008064751"
     ],
     "mystery": [
-      "6681297998470",
-      "6681299179860"
+      "6681297998470"
     ],
     "sf": [],
     "business": [
       "4524815633410"
     ],
     "humanities": [
+      "4380000485089",
       "7275000764491",
       "4380000407704"
     ],
@@ -487,7 +487,7 @@
       "complete": true
     },
     "mystery": {
-      "matched": 2,
+      "matched": 1,
       "complete": true
     },
     "sf": {
@@ -499,7 +499,7 @@
       "complete": true
     },
     "humanities": {
-      "matched": 2,
+      "matched": 3,
       "complete": true
     },
     "nonfiction": {

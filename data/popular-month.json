@@ -4,10 +4,10 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-10-14T12:34:55.322Z",
+  "updatedAt": "2026-10-14T17:47:15.078Z",
   "candidateCount": 38,
-  "baseMatched": 16,
-  "matched": 18,
+  "baseMatched": 15,
+  "matched": 17,
   "addedMatches": 2,
   "unavailable": [],
   "snapshots": {
@@ -25,12 +25,6 @@
           "author": "",
           "isbn": "",
           "rank": 1
-        },
-        {
-          "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
-          "author": "",
-          "isbn": "",
-          "rank": 3
         },
         {
           "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
@@ -73,12 +67,6 @@
           "author": "",
           "isbn": "",
           "rank": 18
-        },
-        {
-          "title": "なぜ日本が世界に必要なのか 文春新書",
-          "author": "",
-          "isbn": "",
-          "rank": 21
         }
       ]
     },
@@ -96,6 +84,12 @@
           "author": "",
           "isbn": "",
           "rank": 2
+        },
+        {
+          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+          "author": "",
+          "isbn": "",
+          "rank": 4
         },
         {
           "title": "イン･ザ･メガチャーチ",
@@ -245,30 +239,30 @@
       "isbn": "4380000407898",
       "salesType": 0,
       "matchMeta": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 幻冬舎新書",
-        "author": "",
-        "score": 98,
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "author": "林真理子",
+        "score": 94,
         "sources": [
           {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 3
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
           }
         ],
         "source": "combined",
-        "rank": 8,
-        "originalTitle": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書"
+        "rank": 9,
+        "originalTitle": ""
       },
       "ranking": {
-        "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
         "author": "",
         "isbn": "",
-        "score": 177,
+        "score": 176,
         "sources": [
           {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 3
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
           }
         ],
         "source": "combined",
@@ -433,7 +427,7 @@
       "isbn": "4524815633410",
       "salesType": 0,
       "matchMeta": {
-        "title": "ハーバード、スタンフォード、オックスフォード... 科学的に証明された すごい習慣大百科",
+        "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
         "author": "",
         "isbn": "",
         "score": 170,
@@ -445,8 +439,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17,
-        "originalTitle": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科"
+        "rank": 17
       },
       "ranking": {
         "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
@@ -540,7 +533,8 @@
           }
         ],
         "source": "combined",
-        "rank": 20
+        "rank": 20,
+        "originalTitle": "FOR OVERSEAS"
       },
       "ranking": {
         "title": "FOR OVERSEAS",
@@ -653,53 +647,6 @@
       }
     },
     {
-      "id": "4390000016508",
-      "title": "なぜ日本が世界に必要なのか",
-      "author": "エマニュエル・トッド",
-      "publisher": "文藝春秋",
-      "price": 1100,
-      "url": "https://books.rakuten.co.jp/rk/d3380ef6b5d6352fb44783bb5e41c377/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5838/2000021745838.jpg?_ex=600x600",
-      "caption": "現代最高の知識人による唯一無二の日本論\n「自然人」らしさ、ユーモア、独自の言語が日本の強みだ！ーー現代最高の知識人による、最も今日的で画期的な「日本文明論＝地政学」。\n　世界の行く末は、第二次大戦の敗戦国である日独の選択にかかっている。対米追従を深めるドイツに対し、日本はどうするのか？\n　歴史的に「悪い選択」をしてきたドイツとは反対に、日本は「良い選択」をするだろうと歴史家として予測している。日本人の方がドイツ人よりもユーモアセンスがあるからだ。ユーモアセンスは、ドイツでは完全に破壊されてしまった。厳格なルター主義が、「人類の自然な能力」を根絶してしまったのだ。多くの戦争の原因となった「過剰な生真面目さ」がドイツを支配しているが、日本はそうではない。\n　日本には「この世の美しさと喜び」に幸せを感じる「自然人らしさ」が生き続けている。この点は、ドイツーー偉大な哲学者、物理学者、数学者を誇るが、硬直的で人間味に欠け、あまりに暗いドイツーーと大きく異なる。\n「自然人」はドイツでは死滅した。それゆえにこの国はナチズムを生みだしたが、日本には「自然な人間」「人間らしい人間」が今も存在している。だからこそ、日本人は戦争を拒否できると私は信じる。\n　もし日本がワシントンの圧力に抵抗するなら、その抵抗自体が世界の平和にもたらす利益は測り知れない。米国に対する日本の独立は「平和」に貢献するだろうーー「日本の対米自立」を世界が求めている。\n",
-      "salesDate": "2026年09月17日",
-      "series": "",
-      "reviewAverage": 3.5,
-      "reviewCount": 3,
-      "genreId": "101907009/101907005090",
-      "isbn": "4390000016508",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "なぜ日本が世界に必要なのか 文春新書",
-        "author": "",
-        "score": 26,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 21
-          }
-        ],
-        "source": "combined",
-        "rank": 29,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "なぜ日本が世界に必要なのか 文春新書",
-        "author": "",
-        "isbn": "",
-        "score": 159,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 21
-          }
-        ],
-        "source": "combined",
-        "rank": 12
-      }
-    },
-    {
       "id": "4320000867368",
       "title": "GOAT Summer 2026",
       "author": "宮島未奈/尾崎世界観/山内マリコ/梨/麻布競馬場",
@@ -742,7 +689,7 @@
           }
         ],
         "source": "combined",
-        "rank": 13,
+        "rank": 12,
         "originalTitle": ""
       }
     },
@@ -789,7 +736,7 @@
           }
         ],
         "source": "combined",
-        "rank": 14,
+        "rank": 13,
         "originalTitle": ""
       }
     },
@@ -836,7 +783,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15,
+        "rank": 14,
         "originalTitle": ""
       }
     },
@@ -883,7 +830,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16,
+        "rank": 15,
         "originalTitle": ""
       }
     },
@@ -930,7 +877,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17,
+        "rank": 16,
         "originalTitle": ""
       }
     },
@@ -977,7 +924,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18,
+        "rank": 17,
         "originalTitle": ""
       }
     }
@@ -1008,7 +955,6 @@
       "4380000407898",
       "4390000014247",
       "4310000701877",
-      "4390000016508",
       "4320000867368",
       "7225000866451"
     ],
@@ -1054,7 +1000,7 @@
       "complete": true
     },
     "humanities": {
-      "matched": 6,
+      "matched": 5,
       "complete": true
     },
     "nonfiction": {

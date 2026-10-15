@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "year",
-  "updatedAt": "2026-10-15T17:36:56.048Z",
+  "updatedAt": "2026-10-15T22:02:21.001Z",
   "candidateCount": 13,
-  "baseMatched": 7,
+  "baseMatched": 8,
   "matched": 9,
-  "addedMatches": 2,
+  "addedMatches": 1,
   "unavailable": [],
   "snapshots": {
     "tohan": {
@@ -95,10 +95,9 @@
       "isbn": "4524815633410",
       "salesType": 0,
       "matchMeta": {
-        "title": "ハーバード、スタンフォード、オックスフォード... 科学的に証明された すごい習慣大百科",
-        "author": "",
-        "isbn": "",
-        "score": 179,
+        "title": "科学的に証明された すごい習慣大百科",
+        "author": "堀田秀吾",
+        "score": 106,
         "sources": [
           {
             "source": "tohan",
@@ -108,7 +107,7 @@
         ],
         "source": "combined",
         "rank": 1,
-        "originalTitle": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科"
+        "originalTitle": ""
       },
       "ranking": {
         "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",

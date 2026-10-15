@@ -4,7 +4,7 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-10-15T17:36:36.526Z",
+  "updatedAt": "2026-10-15T22:02:01.488Z",
   "candidateCount": 75,
   "baseMatched": 30,
   "matched": 39,
@@ -53,12 +53,6 @@
           "rank": 9
         },
         {
-          "title": "戦争犯罪と闘う 国際刑事裁判所は屈しない (文春新書 1496)",
-          "author": "赤根 智子",
-          "isbn": "",
-          "rank": 10
-        },
-        {
           "title": "永久保存版 「山田五郎 オトナの教養講座」 世界一やばい西洋絵画の見方入門DX",
           "author": "山田 五郎",
           "isbn": "",
@@ -87,12 +81,6 @@
           "author": "小野不由美",
           "isbn": "",
           "rank": 20
-        },
-        {
-          "title": "生きて行く私 (角川文庫)",
-          "author": "宇野 千代",
-          "isbn": "",
-          "rank": 22
         },
         {
           "title": "大地が教えてくれたこと",
@@ -166,6 +154,12 @@
           "rank": 7
         },
         {
+          "title": "ブラッディダイスの殺人 上",
+          "author": "M・W・クレイヴン",
+          "isbn": "",
+          "rank": 9
+        },
+        {
           "title": "ブラッディダイスの殺人 下",
           "author": "M・W・クレイヴン",
           "isbn": "",
@@ -199,6 +193,12 @@
           "author": "",
           "isbn": "",
           "rank": 6
+        },
+        {
+          "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
+          "author": "",
+          "isbn": "",
+          "rank": 8
         },
         {
           "title": "きずもの",
@@ -587,20 +587,20 @@
       }
     },
     {
-      "id": "4340008067051",
-      "title": "プレゼント（新潮文庫）",
-      "author": "伊坂幸太郎/江國香織/恩田陸/梨木香歩/町田そのこ/宮部みゆき/米澤穂信",
-      "publisher": "新潮社",
-      "price": 825,
-      "url": "https://books.rakuten.co.jp/rk/e8a60fd88eb63075a76e50e52cf98712/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8962/2000020598962.jpg?_ex=600x600",
-      "caption": "これはこれまで小説を愛してきてくれた人へ、そしてこれから小説の世界に一歩踏み出す人へ贈るプレゼント。何気なく読んだ物語が、ふと目にした一行が、意外な言葉ひとつが、人生を大きく変えるかもしれない。現代を代表する７人の作家が「夏」をテーマに書き下ろした、驚きと切なさ、怖さと美しさ、何よりとびきりの面白さを詰め込んだ奇跡の一冊。さぁ、あなたの人生に小説という選択肢を。\n",
-      "salesDate": "2026年06月24日",
-      "series": "",
-      "reviewAverage": 3.87,
-      "reviewCount": 442,
-      "genreId": "101901",
-      "isbn": "4340008067051",
+      "id": "4916475490001",
+      "title": "プレゼント",
+      "author": "若竹七海",
+      "publisher": "中央公論新社",
+      "price": 776,
+      "url": "https://books.rakuten.co.jp/rk/9fe631efeb0f3eb0a09ce80197395709/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1444/2000007701444.jpg?_ex=600x600",
+      "caption": "ルーム・クリーナー、電話相談、興信所。トラブルメイカーのフリーター・葉村晶と、娘に借りたピンクの子供用自転車で現場に駆けつける小林警部補。二人が巻き込まれたハードボイルドで悲しい八つの事件とはーー。間抜けだが悪気のない隣人たちがひき起こす騒動はいつも危険すぎる！\n",
+      "salesDate": "2019年08月30日",
+      "series": "プレゼント",
+      "reviewAverage": 3.52,
+      "reviewCount": 92,
+      "genreId": "101901/101902",
+      "isbn": "4916475490001",
       "salesType": 0,
       "matchMeta": {
         "title": "プレゼント",
@@ -964,6 +964,53 @@
       }
     },
     {
+      "id": "4390000014247",
+      "title": "戦争犯罪と闘う　国際刑事裁判所は屈しない",
+      "author": "赤根智子",
+      "publisher": "文藝春秋",
+      "price": 1000,
+      "url": "https://books.rakuten.co.jp/rk/ed83c0d4161a37adb64937f2dc843815/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5761/2000017995761.jpg?_ex=600x600",
+      "caption": "二つの戦争、そして戦後国際秩序の行方は\nロシアによるウクライナ侵攻とイスラエルによるパレスチナへの非人道的な攻撃。目まぐるしく国際情勢が変化するなか、この二つの戦争に向き合い、プーチンとネタニヤフに逮捕状を出した国際刑事裁判所（ICC）。日本人として初めてそのトップに就任した著者は、ほどなくしてプーチンから逆指名手配を受けることにもなった。さらにはトランプ大統領の大統領令による経済制裁の脅威にさらされるなど、世界規模の戦争犯罪に向き合ってきた国際刑事裁判所はいま、存続の危機にある。\n第二次世界大戦後にホロコーストに向き合ったニュルンベルク裁判、日本の戦争責任を裁いた東京裁判。二つの軍事法廷裁判にルーツをもち、国際平和秩序を守ろうと奮闘してきた国際刑事裁判所とはいかなる機関か。二つの戦争という異例の事態にどう向き合ったのか。「世界の警察」アメリカが過去のものになりつつある戦後国際秩序の行方とはーー。\n「世界で起きていることが日本では起きないとは限らない」。「力による支配」がむき出しになりつつある今こそ「法の支配」による安全保障が必要だ。\n「ウクライナ戦争の勃発で完全に覚醒した」と語る赤根さんが、その奮闘を通じて未来への責任を語りかける。\n※本書電子書籍版は刊行後の国際情勢の変化を鑑み、２０２５年１０月に記述の一部を更新しました。\n",
+      "salesDate": "2025年06月20日",
+      "series": "",
+      "reviewAverage": 4.26,
+      "reviewCount": 61,
+      "genreId": "101907009/101907005003/101914",
+      "isbn": "4390000014247",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
+        "author": "",
+        "score": 78,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 31,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
+        "author": "",
+        "isbn": "",
+        "score": 172,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 14
+      }
+    },
+    {
       "id": "6671316719340",
       "title": "明治維新の研究　完全版",
       "author": "津田左右吉",
@@ -1007,7 +1054,7 @@
           }
         ],
         "source": "combined",
-        "rank": 14
+        "rank": 15
       }
     },
     {
@@ -1039,8 +1086,7 @@
           }
         ],
         "source": "combined",
-        "rank": 31,
-        "originalTitle": "anan No.2513 Special Edition"
+        "rank": 31
       },
       "ranking": {
         "title": "anan No.2513 Special Edition",
@@ -1055,7 +1101,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15
+        "rank": 16
       }
     },
     {
@@ -1102,54 +1148,54 @@
           }
         ],
         "source": "combined",
-        "rank": 16
+        "rank": 17
       }
     },
     {
-      "id": "4390000014247",
-      "title": "戦争犯罪と闘う　国際刑事裁判所は屈しない",
-      "author": "赤根智子",
-      "publisher": "文藝春秋",
-      "price": 1000,
-      "url": "https://books.rakuten.co.jp/rk/ed83c0d4161a37adb64937f2dc843815/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5761/2000017995761.jpg?_ex=600x600",
-      "caption": "二つの戦争、そして戦後国際秩序の行方は\nロシアによるウクライナ侵攻とイスラエルによるパレスチナへの非人道的な攻撃。目まぐるしく国際情勢が変化するなか、この二つの戦争に向き合い、プーチンとネタニヤフに逮捕状を出した国際刑事裁判所（ICC）。日本人として初めてそのトップに就任した著者は、ほどなくしてプーチンから逆指名手配を受けることにもなった。さらにはトランプ大統領の大統領令による経済制裁の脅威にさらされるなど、世界規模の戦争犯罪に向き合ってきた国際刑事裁判所はいま、存続の危機にある。\n第二次世界大戦後にホロコーストに向き合ったニュルンベルク裁判、日本の戦争責任を裁いた東京裁判。二つの軍事法廷裁判にルーツをもち、国際平和秩序を守ろうと奮闘してきた国際刑事裁判所とはいかなる機関か。二つの戦争という異例の事態にどう向き合ったのか。「世界の警察」アメリカが過去のものになりつつある戦後国際秩序の行方とはーー。\n「世界で起きていることが日本では起きないとは限らない」。「力による支配」がむき出しになりつつある今こそ「法の支配」による安全保障が必要だ。\n「ウクライナ戦争の勃発で完全に覚醒した」と語る赤根さんが、その奮闘を通じて未来への責任を語りかける。\n※本書電子書籍版は刊行後の国際情勢の変化を鑑み、２０２５年１０月に記述の一部を更新しました。\n",
-      "salesDate": "2025年06月20日",
-      "series": "",
-      "reviewAverage": 4.26,
-      "reviewCount": 61,
-      "genreId": "101907009/101907005003/101914",
-      "isbn": "4390000014247",
+      "id": "4620000615075",
+      "title": "ブラッディダイスの殺人　上",
+      "author": "Ｍ Ｗ クレイヴン",
+      "publisher": "早川書房",
+      "price": 1210,
+      "url": "https://books.rakuten.co.jp/rk/91ea3c43631d345d8bb867055aba005f/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9728/2000021429728.jpg?_ex=600x600",
+      "caption": "ポーとティリーが再びタッグを組む！　シリーズ累計30万部の最新作！\n英国全土で連続狙撃事件が発生。犠牲者は17人にのぼるも犯人の手がかりはなく、ポーとティリーは国家犯罪対策庁に呼び戻されるが\n",
+      "salesDate": "2026年08月19日",
+      "series": "ワシントン・ポー",
+      "reviewAverage": 4.38,
+      "reviewCount": 26,
+      "genreId": "101902",
+      "isbn": "4620000615075",
       "salesType": 0,
       "matchMeta": {
-        "title": "戦争犯罪と闘う 国際刑事裁判所は屈しない",
-        "author": "赤根 智子",
-        "score": 70,
+        "title": "ブラッディダイスの殺人 上",
+        "author": "M・W・クレイヴン",
+        "isbn": "",
+        "score": 171,
         "sources": [
           {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 10
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 9
           }
         ],
         "source": "combined",
-        "rank": 38,
-        "originalTitle": "戦争犯罪と闘う 国際刑事裁判所は屈しない (文春新書 1496)"
+        "rank": 32
       },
       "ranking": {
-        "title": "戦争犯罪と闘う 国際刑事裁判所は屈しない (文春新書 1496)",
-        "author": "赤根 智子",
+        "title": "ブラッディダイスの殺人 上",
+        "author": "M・W・クレイヴン",
         "isbn": "",
-        "score": 170,
+        "score": 171,
         "sources": [
           {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 10
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 9
           }
         ],
         "source": "combined",
-        "rank": 17
+        "rank": 18
       }
     },
     {
@@ -1171,8 +1217,7 @@
       "matchMeta": {
         "title": "ブラッディダイスの殺人 下",
         "author": "M・W・クレイヴン",
-        "isbn": "",
-        "score": 170,
+        "score": 70,
         "sources": [
           {
             "source": "maruzen",
@@ -1181,7 +1226,8 @@
           }
         ],
         "source": "combined",
-        "rank": 35
+        "rank": 36,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "ブラッディダイスの殺人 下",
@@ -1196,7 +1242,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18
+        "rank": 19
       }
     },
     {
@@ -1243,7 +1289,7 @@
           }
         ],
         "source": "combined",
-        "rank": 19
+        "rank": 20
       }
     },
     {
@@ -1275,8 +1321,7 @@
           }
         ],
         "source": "combined",
-        "rank": 42,
-        "originalTitle": "FOR OVERSEAS"
+        "rank": 42
       },
       "ranking": {
         "title": "FOR OVERSEAS",
@@ -1291,7 +1336,7 @@
           }
         ],
         "source": "combined",
-        "rank": 20
+        "rank": 21
       }
     },
     {
@@ -1338,7 +1383,7 @@
           }
         ],
         "source": "combined",
-        "rank": 21
+        "rank": 22
       }
     },
     {
@@ -1360,7 +1405,8 @@
       "matchMeta": {
         "title": "自分とか、ないから。教養としての東洋哲学 (サンクチュアリ出版)",
         "author": "しんめいP",
-        "score": 50,
+        "isbn": "",
+        "score": 165,
         "sources": [
           {
             "source": "amazon",
@@ -1369,8 +1415,7 @@
           }
         ],
         "source": "combined",
-        "rank": 48,
-        "originalTitle": ""
+        "rank": 47
       },
       "ranking": {
         "title": "自分とか、ないから。教養としての東洋哲学 (サンクチュアリ出版)",
@@ -1382,53 +1427,6 @@
             "source": "amazon",
             "label": "Amazon",
             "rank": 15
-          }
-        ],
-        "source": "combined",
-        "rank": 22
-      }
-    },
-    {
-      "id": "8926000912320",
-      "title": "これ、かなりマジです。時間・お金・心を整える３６５の言葉",
-      "author": "いれぶん",
-      "publisher": "徳間書店",
-      "price": 2530,
-      "url": "https://books.rakuten.co.jp/rk/ff2c6bc0e9073b89bd44ede6e0139c83/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1320/2000021551320.jpg?_ex=600x600",
-      "caption": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。\nSNSで大反響！\n18万人の背中を押してきたカリスマ塾長が贈る、人生の処方箋。\n読むたびに、迷いが消え、覚悟が決まるーー。\nお金・時間・心を整える、365の日めくり言葉集。\n「お金の不安をなくしたい」\n「自分の時間が欲しい」\n「人間関係に疲れた」\n上手くいかない原因はなんでしょう？\n努力不足？　意志の弱さ？\n違います。そんなものは必要ありません。\n大切なのは、ちょっとした“整え方”だけです。\n・・・・・・・\nハードワークに明け暮れ、30代で年収8桁に到達するも、体を壊して救急搬送。\nさらに株式投資で700万円の損失を被り、家族からの信用も失ってしまう。\n42歳で人生のどん底に陥った著者。\nしかしそこから身の回りのことをひとつひとつ整えていった結果、人生は激変した。\nわずか2年で収入も自由時間も心のゆとりも爆増。\nどん底からの大逆転を遂げる。\nそんな著者だからこそ伝えられる、最高の人生のつくり方。\n・・・・・・・\n当たり前に見えることほど、人生を変える。\n凡事徹底こそが最強のライフハック。\n＼＼本書の言葉はSNS投稿OK！／／\n「あなたを動かした言葉を、大切な誰かに届けませんか。その言葉がみんなを元気にします」（いれぶん）\n※本書の内容はどなたでも撮影、SNS投稿していただいてOKです。\n※販売目的の複製・複写は、紙、デジタルを問わず、その一切を禁止します。\n■目次\nChapter 1　決める\nChapter 2　やめる\nChapter 3　捨てる\nChapter 4　頼る\nChapter 5　挑む\nChapter 6　整える\nChapter 7　忘れる\nChapter 8　言葉にする\nChapter 9　信じる\nChapter 10　思いやる\nChapter 11　学ぶ\nChapter 12　楽しむ\nChapter 13　積み重ねる\nChapter 14　40代\n",
-      "salesDate": "2026年08月26日",
-      "series": "これ、かなりマジです。時間・お金・心を整える３６５の言葉",
-      "reviewAverage": 4,
-      "reviewCount": 1,
-      "genreId": "101905016001",
-      "isbn": "8926000912320",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "これ、かなりマジです。時間・お金・心を整える365の言葉",
-        "author": "いれぶん",
-        "score": 46,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 16
-          }
-        ],
-        "source": "combined",
-        "rank": 50,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "これ、かなりマジです。時間・お金・心を整える365の言葉",
-        "author": "いれぶん",
-        "isbn": "",
-        "score": 164,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 16
           }
         ],
         "source": "combined",
@@ -1483,6 +1481,53 @@
       }
     },
     {
+      "id": "8926000912320",
+      "title": "これ、かなりマジです。時間・お金・心を整える３６５の言葉",
+      "author": "いれぶん",
+      "publisher": "徳間書店",
+      "price": 2530,
+      "url": "https://books.rakuten.co.jp/rk/ff2c6bc0e9073b89bd44ede6e0139c83/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1320/2000021551320.jpg?_ex=600x600",
+      "caption": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。\nSNSで大反響！\n18万人の背中を押してきたカリスマ塾長が贈る、人生の処方箋。\n読むたびに、迷いが消え、覚悟が決まるーー。\nお金・時間・心を整える、365の日めくり言葉集。\n「お金の不安をなくしたい」\n「自分の時間が欲しい」\n「人間関係に疲れた」\n上手くいかない原因はなんでしょう？\n努力不足？　意志の弱さ？\n違います。そんなものは必要ありません。\n大切なのは、ちょっとした“整え方”だけです。\n・・・・・・・\nハードワークに明け暮れ、30代で年収8桁に到達するも、体を壊して救急搬送。\nさらに株式投資で700万円の損失を被り、家族からの信用も失ってしまう。\n42歳で人生のどん底に陥った著者。\nしかしそこから身の回りのことをひとつひとつ整えていった結果、人生は激変した。\nわずか2年で収入も自由時間も心のゆとりも爆増。\nどん底からの大逆転を遂げる。\nそんな著者だからこそ伝えられる、最高の人生のつくり方。\n・・・・・・・\n当たり前に見えることほど、人生を変える。\n凡事徹底こそが最強のライフハック。\n＼＼本書の言葉はSNS投稿OK！／／\n「あなたを動かした言葉を、大切な誰かに届けませんか。その言葉がみんなを元気にします」（いれぶん）\n※本書の内容はどなたでも撮影、SNS投稿していただいてOKです。\n※販売目的の複製・複写は、紙、デジタルを問わず、その一切を禁止します。\n■目次\nChapter 1　決める\nChapter 2　やめる\nChapter 3　捨てる\nChapter 4　頼る\nChapter 5　挑む\nChapter 6　整える\nChapter 7　忘れる\nChapter 8　言葉にする\nChapter 9　信じる\nChapter 10　思いやる\nChapter 11　学ぶ\nChapter 12　楽しむ\nChapter 13　積み重ねる\nChapter 14　40代\n",
+      "salesDate": "2026年08月26日",
+      "series": "これ、かなりマジです。時間・お金・心を整える３６５の言葉",
+      "reviewAverage": 4,
+      "reviewCount": 1,
+      "genreId": "101905016001",
+      "isbn": "8926000912320",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "これ、かなりマジです。時間・お金・心を整える365の言葉",
+        "author": "いれぶん",
+        "score": 46,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 16
+          }
+        ],
+        "source": "combined",
+        "rank": 50,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "これ、かなりマジです。時間・お金・心を整える365の言葉",
+        "author": "いれぶん",
+        "isbn": "",
+        "score": 164,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 16
+          }
+        ],
+        "source": "combined",
+        "rank": 25
+      }
+    },
+    {
       "id": "4470887680000",
       "title": "寝ながらヘーゲル",
       "author": "斎藤幸平",
@@ -1526,7 +1571,7 @@
           }
         ],
         "source": "combined",
-        "rank": 25
+        "rank": 26
       }
     },
     {
@@ -1548,7 +1593,8 @@
       "matchMeta": {
         "title": "【令和8年度】 いちばんやさしい ITパスポート 絶対合格の教科書+出る順問題集",
         "author": "高橋 京介",
-        "score": 38,
+        "isbn": "",
+        "score": 162,
         "sources": [
           {
             "source": "amazon",
@@ -1557,7 +1603,7 @@
           }
         ],
         "source": "combined",
-        "rank": 54,
+        "rank": 52,
         "originalTitle": "【令和８年度】 いちばんやさしい ITパスポート 絶対合格の教科書＋出る順問題集"
       },
       "ranking": {
@@ -1573,7 +1619,7 @@
           }
         ],
         "source": "combined",
-        "rank": 26
+        "rank": 27
       }
     },
     {
@@ -1620,7 +1666,7 @@
           }
         ],
         "source": "combined",
-        "rank": 27
+        "rank": 28
       }
     },
     {
@@ -1640,10 +1686,9 @@
       "isbn": "4340008067611",
       "salesType": 1,
       "matchMeta": {
-        "title": "幽冥の岸 十二国記 (新潮文庫 お 37-66)",
+        "title": "幽冥の岸 十二国記",
         "author": "小野不由美",
-        "isbn": "",
-        "score": 160,
+        "score": 30,
         "sources": [
           {
             "source": "amazon",
@@ -1652,7 +1697,8 @@
           }
         ],
         "source": "combined",
-        "rank": 56
+        "rank": 57,
+        "originalTitle": "幽冥の岸 十二国記 (新潮文庫 お 37-66)"
       },
       "ranking": {
         "title": "幽冥の岸 十二国記 (新潮文庫 お 37-66)",
@@ -1664,53 +1710,6 @@
             "source": "amazon",
             "label": "Amazon",
             "rank": 20
-          }
-        ],
-        "source": "combined",
-        "rank": 28
-      }
-    },
-    {
-      "id": "4332254800300",
-      "title": "生きて行く私",
-      "author": "宇野　千代",
-      "publisher": "KADOKAWA",
-      "price": 402,
-      "url": "https://books.rakuten.co.jp/rk/57ee814194de3067a25639b09853eeb5/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9474/2000003109474.jpg?_ex=600x600",
-      "caption": "山口県岩国の生家と父母、小学校代用教員の時の恋と初体験、いとことの結婚、新聞懸賞小説の入選、尾崎士郎との出会いと同棲、東郷青児、北原武夫とつづく愛の遍歴……数えて百歳。感動を呼ぶ大河自伝。\n",
-      "salesDate": "2015年05月21日",
-      "series": "",
-      "reviewAverage": 4.07,
-      "reviewCount": 35,
-      "genreId": "101901001",
-      "isbn": "4332254800300",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "生きて行く私",
-        "author": "宇野 千代",
-        "score": 22,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 22
-          }
-        ],
-        "source": "combined",
-        "rank": 61,
-        "originalTitle": "生きて行く私 (角川文庫)"
-      },
-      "ranking": {
-        "title": "生きて行く私 (角川文庫)",
-        "author": "宇野 千代",
-        "isbn": "",
-        "score": 158,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 22
           }
         ],
         "source": "combined",
@@ -1736,8 +1735,7 @@
       "matchMeta": {
         "title": "大地が教えてくれたこと",
         "author": "ありがとう村プロジェクト",
-        "isbn": "",
-        "score": 157,
+        "score": 18,
         "sources": [
           {
             "source": "amazon",
@@ -1746,7 +1744,8 @@
           }
         ],
         "source": "combined",
-        "rank": 61
+        "rank": 63,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "大地が教えてくれたこと",
@@ -1830,7 +1829,8 @@
       "matchMeta": {
         "title": "これが本当のSPI3だ! 2028年度版 【主要3方式〈テストセンター・ペーパーテスト・WEBテスティング〉対応】 (本当の就職テストシリーズ)",
         "author": "SPIノートの会",
-        "score": 6,
+        "isbn": "",
+        "score": 154,
         "sources": [
           {
             "source": "amazon",
@@ -1839,8 +1839,7 @@
           }
         ],
         "source": "combined",
-        "rank": 69,
-        "originalTitle": ""
+        "rank": 67
       },
       "ranking": {
         "title": "これが本当のSPI3だ! 2028年度版 【主要3方式〈テストセンター・ペーパーテスト・WEBテスティング〉対応】 (本当の就職テストシリーズ)",
@@ -2065,8 +2064,7 @@
       "matchMeta": {
         "title": "あの子にしか行けない天国",
         "author": "",
-        "isbn": "",
-        "score": 150,
+        "score": 5,
         "sources": [
           {
             "source": "kinokuniya",
@@ -2075,8 +2073,8 @@
           }
         ],
         "source": "combined",
-        "rank": 75,
-        "originalTitle": "あの子にしか行けない天国"
+        "rank": 73,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "あの子にしか行けない天国",
@@ -2193,7 +2191,7 @@
     "fiction": [
       "4380000408000",
       "4310000683989",
-      "4340008067051",
+      "4916475490001",
       "4910000909001",
       "4320000935695",
       "4390000005636",
@@ -2201,13 +2199,14 @@
       "4320000935691",
       "4390000016658",
       "4340008067611",
-      "4332254800300",
       "4390000016495",
       "4320000939619"
     ],
     "mystery": [
+      "4916475490001",
       "4320000935695",
       "4390000005636",
+      "4620000615075",
       "4620000615076"
     ],
     "sf": [],
@@ -2222,16 +2221,16 @@
     "humanities": [
       "4380000407898",
       "4310000701877",
-      "6671316719340",
       "4390000014247",
+      "6671316719340",
       "4472231930000",
       "4470887680000",
       "4910000937811",
       "8910120537764"
     ],
     "nonfiction": [
-      "6671316719340",
       "4390000014247",
+      "6671316719340",
       "4910000937811"
     ],
     "science": [
@@ -2267,11 +2266,11 @@
   },
   "genreStatus": {
     "fiction": {
-      "matched": 13,
+      "matched": 12,
       "complete": true
     },
     "mystery": {
-      "matched": 3,
+      "matched": 5,
       "complete": true
     },
     "sf": {

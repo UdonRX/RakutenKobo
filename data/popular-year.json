@@ -4,7 +4,7 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "year",
-  "updatedAt": "2026-10-15T12:22:52.300Z",
+  "updatedAt": "2026-10-15T17:36:56.048Z",
   "candidateCount": 13,
   "baseMatched": 7,
   "matched": 9,
@@ -90,14 +90,15 @@
       "salesDate": "2025年07月02日",
       "series": "",
       "reviewAverage": 3.68,
-      "reviewCount": 391,
+      "reviewCount": 395,
       "genreId": "101905090",
       "isbn": "4524815633410",
       "salesType": 0,
       "matchMeta": {
-        "title": "科学的に証明された すごい習慣大百科",
-        "author": "堀田秀吾",
-        "score": 106,
+        "title": "ハーバード、スタンフォード、オックスフォード... 科学的に証明された すごい習慣大百科",
+        "author": "",
+        "isbn": "",
+        "score": 179,
         "sources": [
           {
             "source": "tohan",
@@ -107,7 +108,7 @@
         ],
         "source": "combined",
         "rank": 1,
-        "originalTitle": ""
+        "originalTitle": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科"
       },
       "ranking": {
         "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
@@ -136,8 +137,8 @@
       "caption": "主人公はあの栗原さん!!　\n『変な家』『変な絵』に続く、雨穴「変な」シリーズの集大成！　\n2015年、大学生の栗原は、意外な事実を知る。\n彼の祖母が、正体不明の古地図を握りしめて、不審死を遂げたという。\nその古地図には、７体の妖怪が描かれていた。\nこれはいったい何なのか。なぜ、祖母は死に際にこんなものを持っていたのか。\n謎を探るため、栗原は旅に出る。　\nそこに待ち受けていたのは、海沿いの廃集落、不可解な人身事故、潰れかけの民宿、因縁に満ちたトンネル、そして古地図に秘められた悲しい事実だったーー。　\n祖母はなぜ死んだのか？　\n妖怪の正体は？　\nホラー、ミステリー、サスペンス、冒険、青春、恋愛・・・・・・　\n2024年書籍売り上げ1位！　雨穴が送る異形の王道小説。　\nあなたには、この「古地図」の謎が解けますか？　\n※イメージふくらむ「考察マップ」も収録。\n※著者・雨穴による『沖上喜見子の手記』朗読動画付き！\n",
       "salesDate": "2025年10月31日",
       "series": "変な地図",
-      "reviewAverage": 3.85,
-      "reviewCount": 650,
+      "reviewAverage": 3.84,
+      "reviewCount": 658,
       "genreId": "101902",
       "isbn": "6681297998470",
       "salesType": 0,
@@ -184,7 +185,7 @@
       "salesDate": "2025年09月03日",
       "series": "",
       "reviewAverage": 4.28,
-      "reviewCount": 3620,
+      "reviewCount": 3673,
       "genreId": "101901",
       "isbn": "4660629612104",
       "salesType": 0,
@@ -231,15 +232,14 @@
       "salesDate": "2025年12月01日",
       "series": "「成瀬」シリーズ",
       "reviewAverage": 4.54,
-      "reviewCount": 1572,
+      "reviewCount": 1587,
       "genreId": "101901",
       "isbn": "4340008064751",
       "salesType": 0,
       "matchMeta": {
         "title": "成瀬は都を駆け抜ける",
-        "author": "",
-        "isbn": "",
-        "score": 176,
+        "author": "宮島未奈",
+        "score": 94,
         "sources": [
           {
             "source": "tohan",
@@ -249,7 +249,7 @@
         ],
         "source": "combined",
         "rank": 4,
-        "originalTitle": "成瀬は都を駆け抜ける"
+        "originalTitle": ""
       },
       "ranking": {
         "title": "成瀬は都を駆け抜ける",
@@ -279,7 +279,7 @@
       "salesDate": "2025年11月27日",
       "series": "暁星",
       "reviewAverage": 4.17,
-      "reviewCount": 1230,
+      "reviewCount": 1240,
       "genreId": "101902",
       "isbn": "6681299179860",
       "salesType": 0,
@@ -484,8 +484,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12,
-        "originalTitle": "FOR OVERSEAS"
+        "rank": 12
       },
       "ranking": {
         "title": "FOR OVERSEAS",

@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-10-16T17:19:08.445Z",
+  "updatedAt": "2026-10-16T22:03:16.683Z",
   "candidateCount": 38,
-  "baseMatched": 15,
+  "baseMatched": 16,
   "matched": 18,
-  "addedMatches": 3,
+  "addedMatches": 2,
   "unavailable": [],
   "snapshots": {
     "kinokuniya": {
@@ -577,8 +577,7 @@
       "matchMeta": {
         "title": "なぜ日本が世界に必要なのか 文春新書",
         "author": "",
-        "isbn": "",
-        "score": 164,
+        "score": 46,
         "sources": [
           {
             "source": "kinokuniya",
@@ -587,7 +586,8 @@
           }
         ],
         "source": "combined",
-        "rank": 24
+        "rank": 24,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "なぜ日本が世界に必要なのか 文春新書",

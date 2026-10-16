@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "year",
-  "updatedAt": "2026-10-16T17:19:12.446Z",
+  "updatedAt": "2026-10-16T22:03:21.480Z",
   "candidateCount": 13,
-  "baseMatched": 8,
+  "baseMatched": 6,
   "matched": 9,
-  "addedMatches": 1,
+  "addedMatches": 3,
   "unavailable": [],
   "snapshots": {
     "tohan": {
@@ -95,9 +95,10 @@
       "isbn": "4524815633410",
       "salesType": 0,
       "matchMeta": {
-        "title": "科学的に証明された すごい習慣大百科",
-        "author": "堀田秀吾",
-        "score": 106,
+        "title": "ハーバード、スタンフォード、オックスフォード... 科学的に証明された すごい習慣大百科",
+        "author": "",
+        "isbn": "",
+        "score": 179,
         "sources": [
           {
             "source": "tohan",
@@ -107,7 +108,7 @@
         ],
         "source": "combined",
         "rank": 1,
-        "originalTitle": ""
+        "originalTitle": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科"
       },
       "ranking": {
         "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
@@ -284,8 +285,9 @@
       "salesType": 0,
       "matchMeta": {
         "title": "暁星",
-        "author": "湊かなえ",
-        "score": 82,
+        "author": "",
+        "isbn": "",
+        "score": 173,
         "sources": [
           {
             "source": "tohan",
@@ -295,7 +297,7 @@
         ],
         "source": "combined",
         "rank": 7,
-        "originalTitle": ""
+        "originalTitle": "暁星"
       },
       "ranking": {
         "title": "暁星",

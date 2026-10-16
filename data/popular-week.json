@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-10-15T22:02:01.488Z",
+  "updatedAt": "2026-10-16T05:17:08.761Z",
   "candidateCount": 75,
-  "baseMatched": 30,
-  "matched": 39,
-  "addedMatches": 9,
+  "baseMatched": 36,
+  "matched": 43,
+  "addedMatches": 7,
   "unavailable": [
     "rakuten"
   ],
@@ -53,6 +53,18 @@
           "rank": 9
         },
         {
+          "title": "戦争犯罪と闘う 国際刑事裁判所は屈しない (文春新書 1496)",
+          "author": "赤根 智子",
+          "isbn": "",
+          "rank": 10
+        },
+        {
+          "title": "ようこそ実力至上主義の教室へ 3年生編5 (MF文庫J)",
+          "author": "衣笠彰梧",
+          "isbn": "",
+          "rank": 12
+        },
+        {
           "title": "永久保存版 「山田五郎 オトナの教養講座」 世界一やばい西洋絵画の見方入門DX",
           "author": "山田 五郎",
           "isbn": "",
@@ -81,6 +93,12 @@
           "author": "小野不由美",
           "isbn": "",
           "rank": 20
+        },
+        {
+          "title": "生きて行く私 (角川文庫)",
+          "author": "宇野 千代",
+          "isbn": "",
+          "rank": 22
         },
         {
           "title": "大地が教えてくれたこと",
@@ -173,7 +191,7 @@
       "attribution": "紀伊國屋書店調べ",
       "sourceUrl": "https://www.kinokuniya.co.jp/disp/CKnRankingPageCList.jsp?dispNo=107002001001&vTp=w",
       "periodLabel": "ウィークリー",
-      "updatedAt": "2026-10-15",
+      "updatedAt": "2026-10-16",
       "live": true,
       "items": [
         {
@@ -186,16 +204,10 @@
           "title": "豊臣兄弟！完結編 ＮＨＫ大河ドラマ・ガイド",
           "author": "",
           "isbn": "",
-          "rank": 5
+          "rank": 7
         },
         {
           "title": "探偵小石は戻らない",
-          "author": "",
-          "isbn": "",
-          "rank": 6
-        },
-        {
-          "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
           "author": "",
           "isbn": "",
           "rank": 8
@@ -204,13 +216,19 @@
           "title": "きずもの",
           "author": "",
           "isbn": "",
-          "rank": 9
+          "rank": 11
         },
         {
           "title": "未だ本能寺にあり",
           "author": "",
           "isbn": "",
-          "rank": 14
+          "rank": 12
+        },
+        {
+          "title": "寝ながらヘーゲル ＮＨＫ出版新書",
+          "author": "",
+          "isbn": "",
+          "rank": 15
         },
         {
           "title": "希望の子",
@@ -219,40 +237,34 @@
           "rank": 16
         },
         {
-          "title": "寝ながらヘーゲル ＮＨＫ出版新書",
-          "author": "",
-          "isbn": "",
-          "rank": 18
-        },
-        {
-          "title": "捨てられ公爵夫人は、平穏な生活をお望みのようです 〈５〉",
-          "author": "",
-          "isbn": "",
-          "rank": 19
-        },
-        {
-          "title": "命の燃やし方",
+          "title": "汝、星のごとく",
           "author": "",
           "isbn": "",
           "rank": 20
         },
         {
+          "title": "命の燃やし方",
+          "author": "",
+          "isbn": "",
+          "rank": 23
+        },
+        {
+          "title": "捨てられ公爵夫人は、平穏な生活をお望みのようです 〈５〉",
+          "author": "",
+          "isbn": "",
+          "rank": 24
+        },
+        {
           "title": "悩みの統計学",
           "author": "",
           "isbn": "",
-          "rank": 27
+          "rank": 25
         },
         {
           "title": "パンどろぼう",
           "author": "",
           "isbn": "",
           "rank": 28
-        },
-        {
-          "title": "あの子にしか行けない天国",
-          "author": "",
-          "isbn": "",
-          "rank": 30
         }
       ]
     },
@@ -262,7 +274,7 @@
       "attribution": "トーハン調べ",
       "sourceUrl": "https://www.tohan.jp/bestsellers/2026_1006_weekly/",
       "periodLabel": "週間",
-      "updatedAt": "2026-10-15",
+      "updatedAt": "2026-10-16",
       "live": true,
       "items": [
         {
@@ -449,28 +461,28 @@
       "matchMeta": {
         "title": "未だ本能寺にあり",
         "author": "",
-        "score": 54,
+        "score": 62,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 14
+            "rank": 12
           }
         ],
         "source": "combined",
-        "rank": 45,
+        "rank": 41,
         "originalTitle": ""
       },
       "ranking": {
         "title": "未だ本能寺にあり",
         "author": "",
         "isbn": "",
-        "score": 337,
+        "score": 339,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 14
+            "rank": 12
           },
           {
             "source": "tohan",
@@ -501,12 +513,12 @@
       "matchMeta": {
         "title": "命の燃やし方",
         "author": "鈴木 大飛",
-        "score": 104,
+        "score": 92,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 20
+            "rank": 23
           },
           {
             "source": "amazon",
@@ -522,7 +534,7 @@
         "title": "命の燃やし方",
         "author": "鈴木 大飛",
         "isbn": "",
-        "score": 331,
+        "score": 328,
         "sources": [
           {
             "source": "amazon",
@@ -532,7 +544,7 @@
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 20
+            "rank": 23
           }
         ],
         "source": "combined",
@@ -540,20 +552,20 @@
       }
     },
     {
-      "id": "4310000683989",
-      "title": "汝、星のごとく【電子限定特典付き】",
-      "author": "凪良ゆう",
+      "id": "4310000779045",
+      "title": "汝、星のごとく（３）",
+      "author": "凪良ゆう/古里こう",
       "publisher": "講談社",
-      "price": 990,
-      "url": "https://books.rakuten.co.jp/rk/c078773e2356341c99cfa0309dc414dd/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1001/2000018151001.jpg?_ex=600x600",
-      "caption": "第20回本屋大賞受賞作！\nシリーズ累計100万部突破！\nあなたと生きる、その痛みごと。\n著者2度目の本屋大賞を受賞した『汝、星のごとく』が3年の時を経てついに文庫化！同じ空の下であの星を見上げよう。そして、また出会おう。あまりに切ない運命を、繊細な心理描写で描いた著者最高傑作。\n風光明媚な瀬戸内の島で育った暁海(あきみ)と母の恋愛に振り回され転校してきた櫂(かい)。ともに心に孤独と欠落を抱えた二人が恋に落ちるのに時間はかからなかった。ときにすれ違い、ぶつかり、成長していく。生きることの自由さと不自由さを描き続けた著者がおくる、あまりに切ない愛の物語【2023年本屋大賞受賞作】\n☆2023年本屋大賞受賞作☆\n【第168回直木賞候補作】\n【第44回吉川英治文学新人賞候補作】\n【2022王様のブランチBOOK大賞】\n【キノベス!2023 第1位】\n【第10回高校生直木賞候補作】\n【ダ・ヴィンチ BOOK OF THE YEAR 2022 第３位】\n【今月の絶対はずさない！ プラチナ本 選出（「ダ・ヴィンチ」12月号）】\n【第２回 本屋が選ぶ大人の恋愛小説大賞 ノミネート】\n【未来屋小説大賞 第２位】\n【ミヤボン2022 大賞受賞】\n【Apple Books 2022年 今年のベストブック（フィクション部門）】\nなどなど、賞＆ノミネート＆ランクイン多数！\n※電子版には特典として、続編『星を編む』の試し読み増量版と著者作品リストを収録しています。\n",
-      "salesDate": "2025年07月15日",
+      "price": 792,
+      "url": "https://books.rakuten.co.jp/rk/53b069e006973118af2e818a16801db0/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2574/2000019452574.jpg?_ex=600x600",
+      "caption": "「わたしは愛する男のために人生を誤りたい」\n毎月、借金の返済として暁海が櫂に送る四万円。\nふたりをつなぐものがそれだけになっても、\n互いを想う気持ちは消えないまま…。\nそれぞれを取り巻く環境に縛られ、\n自らの人生を生きる難しさに打ちのめされそうになる中、\n暁海は北原先生から「ぼくと結婚しませんか」と提案されてーー。\n「まともな人間なんてものは幻想だ」\n生きることの自由さと不自由さを描き続けてきた\n凪良ゆう最高傑作、待望のコミカライズ最終巻。\n",
+      "salesDate": "2026年01月13日",
       "series": "汝、星のごとく",
-      "reviewAverage": 4.39,
-      "reviewCount": 1651,
-      "genreId": "101901",
-      "isbn": "4310000683989",
+      "reviewAverage": 5,
+      "reviewCount": 4,
+      "genreId": "101904011005",
+      "isbn": "4310000779045",
       "salesType": 0,
       "matchMeta": {
         "title": "汝、星のごとく",
@@ -681,53 +693,6 @@
       }
     },
     {
-      "id": "4479234040000",
-      "title": "豊臣兄弟！　完結編",
-      "author": "八津弘幸",
-      "publisher": "NHK出版",
-      "price": 1540,
-      "url": "https://books.rakuten.co.jp/rk/152d204a73db37609d8ea3b5a84e25c5/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2662/2000022022662.jpg?_ex=600x600",
-      "caption": "物語はクライマックスへ！　2026年大河ドラマ「豊臣兄弟！」完全ガイド完結編！\n仲野太賀主演・2026年大河ドラマ「豊臣兄弟！」。\nドラマをもっと楽しむためのガイドブック「完結編」！\n時は戦国乱世。時の戦国大名・織田信長に仕官して大出世を目指す兄の誘いに巻き込まれた小一郎は、知恵と勇気、そして持ち前の「調整力」を生かし、目前に立ちはだかるハードミッションを兄との絶妙なコンビネーションで次々とクリアしていく。やがて小一郎は兄とともに、万民が笑って暮らせる太平の世を作るという夢を抱きーー。\n弟・秀長の視点で戦国時代をダイナミックに描く、夢と希望の下克上サクセスストーリー！\n全３冊でお届けするドラマ・ガイドの「完結編」では、主演・仲野太賀×池松壮亮の撮り下ろし対談、豪華出演者インタビューや物語終盤までのあらすじを掲載。マンガで読む秀長の生涯、時代考証インタビュー、しつもん箱など、歴史解説企画も充実。美麗グラビア満載でお届けする、家族みんなで読めるフルカラー・ドラマガイド！　\n＊電子書籍版ではプレゼントページほか、一部収録していないコンテンツがございます。あらかじめご了承ください。\n［内容（予定）］\n●出演者紹介＆登場人物関係図\n●名場面グラビア\n●撮り下ろし特別兄弟対談　主演・仲野太賀×秀吉役・池松壮亮\n●出演者インタビュー\n仲野太賀、池松壮亮、松下洸平、山田涼介、吉岡里帆、浜辺美波、吉岡秀隆、坂井真紀、宮澤エマ、倉沢杏菜、前原瑞樹、井上和 ほか多数（※掲載予定順）\n●プレイバック大河ドラマ「秀吉」（1996）\n●歴史マンガ「秀長の生涯（完結編）」\n●時代考証インタビュー　「豊臣政権」とファミリーのゆくえ\n●ドラマの背景が分かる！　豊臣しつもん箱\n●あらすじ　ほか\n",
-      "salesDate": "2026年10月08日",
-      "series": "ＮＨＫ大河ドラマ・ガイド",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101913002",
-      "isbn": "4479234040000",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "豊臣兄弟!完結編 NHK大河ドラマ・ガイド",
-        "author": "",
-        "score": 90,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 5
-          }
-        ],
-        "source": "combined",
-        "rank": 19,
-        "originalTitle": "豊臣兄弟！完結編 ＮＨＫ大河ドラマ・ガイド"
-      },
-      "ranking": {
-        "title": "豊臣兄弟！完結編 ＮＨＫ大河ドラマ・ガイド",
-        "author": "",
-        "isbn": "",
-        "score": 175,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 5
-          }
-        ],
-        "source": "combined",
-        "rank": 8
-      }
-    },
-    {
       "id": "4910000951029",
       "title": "陰陽師に人生めちゃくちゃにされたけど金運が爆上がりした話",
       "author": "コヤッキー",
@@ -771,54 +736,7 @@
           }
         ],
         "source": "combined",
-        "rank": 9
-      }
-    },
-    {
-      "id": "4320000935695",
-      "title": "探偵小石は戻らない",
-      "author": "森バジル",
-      "publisher": "小学館",
-      "price": 1683,
-      "url": "https://books.rakuten.co.jp/rk/69cff30ce1a33d848e23b0abc8cf64f3/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7945/2000021867945.jpg?_ex=600x600",
-      "caption": "ネタバレ厳禁！　驚愕体験ミステリ！\n2026年本屋大賞ノミネート『探偵小石は恋しない』続編！\n逆転、逆転、また逆転ーー\n新たなる驚愕体験ミステリ！\n名探偵のように事件を解決する日を夢見る、ミステリオタクの探偵・小石。\n色恋案件を病的に得意とする小石は、調査員の蓮杖と様々な調査に取り組んできた。\nしかしその日、蓮杖が目撃したのは探偵ではなく、犯人としての小石の姿でーー。\n（底本　2026年9月発売作品）\n",
-      "salesDate": "2026年09月30日",
-      "series": "探偵小石",
-      "reviewAverage": 4.5,
-      "reviewCount": 32,
-      "genreId": "101901/101902",
-      "isbn": "4320000935695",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "探偵小石は戻らない",
-        "author": "",
-        "score": 86,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 6
-          }
-        ],
-        "source": "combined",
-        "rank": 23,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "探偵小石は戻らない",
-        "author": "",
-        "isbn": "",
-        "score": 174,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 6
-          }
-        ],
-        "source": "combined",
-        "rank": 10
+        "rank": 8
       }
     },
     {
@@ -850,8 +768,7 @@
           }
         ],
         "source": "combined",
-        "rank": 23,
-        "originalTitle": "野球太郎No.060 2026 ドラフト直前大特集号"
+        "rank": 23
       },
       "ranking": {
         "title": "野球太郎No.060 2026 ドラフト直前大特集号",
@@ -866,7 +783,7 @@
           }
         ],
         "source": "combined",
-        "rank": 11
+        "rank": 9
       }
     },
     {
@@ -913,7 +830,54 @@
           }
         ],
         "source": "combined",
-        "rank": 12
+        "rank": 10
+      }
+    },
+    {
+      "id": "4479234040000",
+      "title": "豊臣兄弟！　完結編",
+      "author": "八津弘幸",
+      "publisher": "NHK出版",
+      "price": 1540,
+      "url": "https://books.rakuten.co.jp/rk/152d204a73db37609d8ea3b5a84e25c5/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2662/2000022022662.jpg?_ex=600x600",
+      "caption": "物語はクライマックスへ！　2026年大河ドラマ「豊臣兄弟！」完全ガイド完結編！\n仲野太賀主演・2026年大河ドラマ「豊臣兄弟！」。\nドラマをもっと楽しむためのガイドブック「完結編」！\n時は戦国乱世。時の戦国大名・織田信長に仕官して大出世を目指す兄の誘いに巻き込まれた小一郎は、知恵と勇気、そして持ち前の「調整力」を生かし、目前に立ちはだかるハードミッションを兄との絶妙なコンビネーションで次々とクリアしていく。やがて小一郎は兄とともに、万民が笑って暮らせる太平の世を作るという夢を抱きーー。\n弟・秀長の視点で戦国時代をダイナミックに描く、夢と希望の下克上サクセスストーリー！\n全３冊でお届けするドラマ・ガイドの「完結編」では、主演・仲野太賀×池松壮亮の撮り下ろし対談、豪華出演者インタビューや物語終盤までのあらすじを掲載。マンガで読む秀長の生涯、時代考証インタビュー、しつもん箱など、歴史解説企画も充実。美麗グラビア満載でお届けする、家族みんなで読めるフルカラー・ドラマガイド！　\n＊電子書籍版ではプレゼントページほか、一部収録していないコンテンツがございます。あらかじめご了承ください。\n［内容（予定）］\n●出演者紹介＆登場人物関係図\n●名場面グラビア\n●撮り下ろし特別兄弟対談　主演・仲野太賀×秀吉役・池松壮亮\n●出演者インタビュー\n仲野太賀、池松壮亮、松下洸平、山田涼介、吉岡里帆、浜辺美波、吉岡秀隆、坂井真紀、宮澤エマ、倉沢杏菜、前原瑞樹、井上和 ほか多数（※掲載予定順）\n●プレイバック大河ドラマ「秀吉」（1996）\n●歴史マンガ「秀長の生涯（完結編）」\n●時代考証インタビュー　「豊臣政権」とファミリーのゆくえ\n●ドラマの背景が分かる！　豊臣しつもん箱\n●あらすじ　ほか\n",
+      "salesDate": "2026年10月08日",
+      "series": "ＮＨＫ大河ドラマ・ガイド",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101913002",
+      "isbn": "4479234040000",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "豊臣兄弟!完結編 NHK大河ドラマ・ガイド",
+        "author": "",
+        "score": 82,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 7
+          }
+        ],
+        "source": "combined",
+        "rank": 27,
+        "originalTitle": "豊臣兄弟！完結編 ＮＨＫ大河ドラマ・ガイド"
+      },
+      "ranking": {
+        "title": "豊臣兄弟！完結編 ＮＨＫ大河ドラマ・ガイド",
+        "author": "",
+        "isbn": "",
+        "score": 173,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 7
+          }
+        ],
+        "source": "combined",
+        "rank": 11
       }
     },
     {
@@ -960,27 +924,27 @@
           }
         ],
         "source": "combined",
-        "rank": 13
+        "rank": 12
       }
     },
     {
-      "id": "4390000014247",
-      "title": "戦争犯罪と闘う　国際刑事裁判所は屈しない",
-      "author": "赤根智子",
-      "publisher": "文藝春秋",
-      "price": 1000,
-      "url": "https://books.rakuten.co.jp/rk/ed83c0d4161a37adb64937f2dc843815/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5761/2000017995761.jpg?_ex=600x600",
-      "caption": "二つの戦争、そして戦後国際秩序の行方は\nロシアによるウクライナ侵攻とイスラエルによるパレスチナへの非人道的な攻撃。目まぐるしく国際情勢が変化するなか、この二つの戦争に向き合い、プーチンとネタニヤフに逮捕状を出した国際刑事裁判所（ICC）。日本人として初めてそのトップに就任した著者は、ほどなくしてプーチンから逆指名手配を受けることにもなった。さらにはトランプ大統領の大統領令による経済制裁の脅威にさらされるなど、世界規模の戦争犯罪に向き合ってきた国際刑事裁判所はいま、存続の危機にある。\n第二次世界大戦後にホロコーストに向き合ったニュルンベルク裁判、日本の戦争責任を裁いた東京裁判。二つの軍事法廷裁判にルーツをもち、国際平和秩序を守ろうと奮闘してきた国際刑事裁判所とはいかなる機関か。二つの戦争という異例の事態にどう向き合ったのか。「世界の警察」アメリカが過去のものになりつつある戦後国際秩序の行方とはーー。\n「世界で起きていることが日本では起きないとは限らない」。「力による支配」がむき出しになりつつある今こそ「法の支配」による安全保障が必要だ。\n「ウクライナ戦争の勃発で完全に覚醒した」と語る赤根さんが、その奮闘を通じて未来への責任を語りかける。\n※本書電子書籍版は刊行後の国際情勢の変化を鑑み、２０２５年１０月に記述の一部を更新しました。\n",
-      "salesDate": "2025年06月20日",
-      "series": "",
-      "reviewAverage": 4.26,
-      "reviewCount": 61,
-      "genreId": "101907009/101907005003/101914",
-      "isbn": "4390000014247",
+      "id": "4320000935695",
+      "title": "探偵小石は戻らない",
+      "author": "森バジル",
+      "publisher": "小学館",
+      "price": 1683,
+      "url": "https://books.rakuten.co.jp/rk/69cff30ce1a33d848e23b0abc8cf64f3/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7945/2000021867945.jpg?_ex=600x600",
+      "caption": "ネタバレ厳禁！　驚愕体験ミステリ！\n2026年本屋大賞ノミネート『探偵小石は恋しない』続編！\n逆転、逆転、また逆転ーー\n新たなる驚愕体験ミステリ！\n名探偵のように事件を解決する日を夢見る、ミステリオタクの探偵・小石。\n色恋案件を病的に得意とする小石は、調査員の蓮杖と様々な調査に取り組んできた。\nしかしその日、蓮杖が目撃したのは探偵ではなく、犯人としての小石の姿でーー。\n（底本　2026年9月発売作品）\n",
+      "salesDate": "2026年09月30日",
+      "series": "探偵小石",
+      "reviewAverage": 4.5,
+      "reviewCount": 32,
+      "genreId": "101901/101902",
+      "isbn": "4320000935695",
       "salesType": 0,
       "matchMeta": {
-        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
+        "title": "探偵小石は戻らない",
         "author": "",
         "score": 78,
         "sources": [
@@ -995,7 +959,7 @@
         "originalTitle": ""
       },
       "ranking": {
-        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
+        "title": "探偵小石は戻らない",
         "author": "",
         "isbn": "",
         "score": 172,
@@ -1007,7 +971,7 @@
           }
         ],
         "source": "combined",
-        "rank": 14
+        "rank": 13
       }
     },
     {
@@ -1054,7 +1018,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15
+        "rank": 14
       }
     },
     {
@@ -1086,7 +1050,8 @@
           }
         ],
         "source": "combined",
-        "rank": 31
+        "rank": 31,
+        "originalTitle": "anan No.2513 Special Edition"
       },
       "ranking": {
         "title": "anan No.2513 Special Edition",
@@ -1101,54 +1066,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16
-      }
-    },
-    {
-      "id": "4320000935691",
-      "title": "きずもの",
-      "author": "西加奈子",
-      "publisher": "小学館",
-      "price": 1980,
-      "url": "https://books.rakuten.co.jp/rk/8871de5605733597a57f5a5b13ccccb2/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7957/2000021867957.jpg?_ex=600x600",
-      "caption": "５年ぶりの長編小説、新たなる代表作。\n小説家・松川貢は、郷里の幼馴染みである田持猛とゆるやかにＳＮＳで繋がり続けていた。\n運動が得意だった猛は、貢にとって仰ぎ見る存在だったが、いまやその関係性は真逆のものになっていた。\n某写真家のパーティーで貢と出会った遥は、ある出来事を機に、カナダ・バンクーバーで生活を続ける親友の万千花のルームシェア相手になる。\n幼少期から互いを知る二組には、それぞれの時間が着実に流れていた。\n執筆３年。\n絶望と勇気が肩を組んでやってくるような、\n直木賞受賞作「サラバ！」、がん治療ノンフィクション「くもをさがす」著者の新たなる代表作。\n※この作品はカラーが含まれます。\n（底本　２０２６年９月発売作品）\n",
-      "salesDate": "2026年09月30日",
-      "series": "きずもの",
-      "reviewAverage": 4.13,
-      "reviewCount": 10,
-      "genreId": "101901",
-      "isbn": "4320000935691",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "きずもの",
-        "author": "",
-        "score": 74,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 35,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "きずもの",
-        "author": "",
-        "isbn": "",
-        "score": 171,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 17
+        "rank": 15
       }
     },
     {
@@ -1170,8 +1088,7 @@
       "matchMeta": {
         "title": "ブラッディダイスの殺人 上",
         "author": "M・W・クレイヴン",
-        "isbn": "",
-        "score": 171,
+        "score": 74,
         "sources": [
           {
             "source": "maruzen",
@@ -1180,7 +1097,8 @@
           }
         ],
         "source": "combined",
-        "rank": 32
+        "rank": 33,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "ブラッディダイスの殺人 上",
@@ -1195,7 +1113,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18
+        "rank": 16
       }
     },
     {
@@ -1242,7 +1160,54 @@
           }
         ],
         "source": "combined",
-        "rank": 19
+        "rank": 17
+      }
+    },
+    {
+      "id": "4390000014247",
+      "title": "戦争犯罪と闘う　国際刑事裁判所は屈しない",
+      "author": "赤根智子",
+      "publisher": "文藝春秋",
+      "price": 1000,
+      "url": "https://books.rakuten.co.jp/rk/ed83c0d4161a37adb64937f2dc843815/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5761/2000017995761.jpg?_ex=600x600",
+      "caption": "二つの戦争、そして戦後国際秩序の行方は\nロシアによるウクライナ侵攻とイスラエルによるパレスチナへの非人道的な攻撃。目まぐるしく国際情勢が変化するなか、この二つの戦争に向き合い、プーチンとネタニヤフに逮捕状を出した国際刑事裁判所（ICC）。日本人として初めてそのトップに就任した著者は、ほどなくしてプーチンから逆指名手配を受けることにもなった。さらにはトランプ大統領の大統領令による経済制裁の脅威にさらされるなど、世界規模の戦争犯罪に向き合ってきた国際刑事裁判所はいま、存続の危機にある。\n第二次世界大戦後にホロコーストに向き合ったニュルンベルク裁判、日本の戦争責任を裁いた東京裁判。二つの軍事法廷裁判にルーツをもち、国際平和秩序を守ろうと奮闘してきた国際刑事裁判所とはいかなる機関か。二つの戦争という異例の事態にどう向き合ったのか。「世界の警察」アメリカが過去のものになりつつある戦後国際秩序の行方とはーー。\n「世界で起きていることが日本では起きないとは限らない」。「力による支配」がむき出しになりつつある今こそ「法の支配」による安全保障が必要だ。\n「ウクライナ戦争の勃発で完全に覚醒した」と語る赤根さんが、その奮闘を通じて未来への責任を語りかける。\n※本書電子書籍版は刊行後の国際情勢の変化を鑑み、２０２５年１０月に記述の一部を更新しました。\n",
+      "salesDate": "2025年06月20日",
+      "series": "",
+      "reviewAverage": 4.26,
+      "reviewCount": 61,
+      "genreId": "101907009/101907005003/101914",
+      "isbn": "4390000014247",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "戦争犯罪と闘う 国際刑事裁判所は屈しない",
+        "author": "赤根 智子",
+        "score": 70,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 38,
+        "originalTitle": "戦争犯罪と闘う 国際刑事裁判所は屈しない (文春新書 1496)"
+      },
+      "ranking": {
+        "title": "戦争犯罪と闘う 国際刑事裁判所は屈しない (文春新書 1496)",
+        "author": "赤根 智子",
+        "isbn": "",
+        "score": 170,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 18
       }
     },
     {
@@ -1274,7 +1239,8 @@
           }
         ],
         "source": "combined",
-        "rank": 36
+        "rank": 36,
+        "originalTitle": "100分de名著 『万葉集』 2026年10月"
       },
       "ranking": {
         "title": "100分de名著 『万葉集』 2026年10月",
@@ -1289,7 +1255,101 @@
           }
         ],
         "source": "combined",
+        "rank": 19
+      }
+    },
+    {
+      "id": "4320000935691",
+      "title": "きずもの",
+      "author": "西加奈子",
+      "publisher": "小学館",
+      "price": 1980,
+      "url": "https://books.rakuten.co.jp/rk/8871de5605733597a57f5a5b13ccccb2/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7957/2000021867957.jpg?_ex=600x600",
+      "caption": "５年ぶりの長編小説、新たなる代表作。\n小説家・松川貢は、郷里の幼馴染みである田持猛とゆるやかにＳＮＳで繋がり続けていた。\n運動が得意だった猛は、貢にとって仰ぎ見る存在だったが、いまやその関係性は真逆のものになっていた。\n某写真家のパーティーで貢と出会った遥は、ある出来事を機に、カナダ・バンクーバーで生活を続ける親友の万千花のルームシェア相手になる。\n幼少期から互いを知る二組には、それぞれの時間が着実に流れていた。\n執筆３年。\n絶望と勇気が肩を組んでやってくるような、\n直木賞受賞作「サラバ！」、がん治療ノンフィクション「くもをさがす」著者の新たなる代表作。\n※この作品はカラーが含まれます。\n（底本　２０２６年９月発売作品）\n",
+      "salesDate": "2026年09月30日",
+      "series": "きずもの",
+      "reviewAverage": 4.13,
+      "reviewCount": 10,
+      "genreId": "101901",
+      "isbn": "4320000935691",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "きずもの",
+        "author": "",
+        "score": 66,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 11
+          }
+        ],
+        "source": "combined",
+        "rank": 39,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "きずもの",
+        "author": "",
+        "isbn": "",
+        "score": 169,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 11
+          }
+        ],
+        "source": "combined",
         "rank": 20
+      }
+    },
+    {
+      "id": "4336594000320",
+      "title": "ようこそ実力至上主義の教室へ　３年生編５",
+      "author": "衣笠彰梧/トモセシュンサク",
+      "publisher": "KADOKAWA",
+      "price": 946,
+      "url": "https://books.rakuten.co.jp/rk/27a215dac9f63b2ab8ecc39236269540/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5426/2000022145426.jpg?_ex=600x600",
+      "caption": "連続での無人島試験は終了も、試験結果と私情を優先した綾小路の不可解な行動は波紋を巻き起こしていた。翌日、試験後話す機会がなかったひよりとの待ち合わせに綾小路は向かうも、学校側から３年生リーダー４名の集合が発令される。伝えられたのは３連続目の特別試験『船上対抗特別試験』。１・２年生連合と３年生が全20種の競技で勝敗を競う学年対抗戦。１・２年生連合は一つだけハンディキャップを申請可能だがーー「現時刻をもって綾小路の本特別試験への一切の参加を禁止し、試験終了まで別室での待機を命じる」下級生の何者かの意志により、試験の参加どころか綾小路の実質的な軟禁が発表されてーー!?\n",
+      "salesDate": "2026年10月30日",
+      "series": "ようこそ実力至上主義の教室へ",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101903001011",
+      "isbn": "4336594000320",
+      "salesType": 1,
+      "matchMeta": {
+        "title": "ようこそ実力至上主義の教室へ 3年生編5",
+        "author": "衣笠彰梧",
+        "score": 62,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 12
+          }
+        ],
+        "source": "combined",
+        "rank": 42,
+        "originalTitle": "ようこそ実力至上主義の教室へ 3年生編5 (MF文庫J)"
+      },
+      "ranking": {
+        "title": "ようこそ実力至上主義の教室へ 3年生編5 (MF文庫J)",
+        "author": "衣笠彰梧",
+        "isbn": "",
+        "score": 168,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 12
+          }
+        ],
+        "source": "combined",
+        "rank": 21
       }
     },
     {
@@ -1321,7 +1381,7 @@
           }
         ],
         "source": "combined",
-        "rank": 42
+        "rank": 41
       },
       "ranking": {
         "title": "FOR OVERSEAS",
@@ -1336,7 +1396,7 @@
           }
         ],
         "source": "combined",
-        "rank": 21
+        "rank": 22
       }
     },
     {
@@ -1383,7 +1443,54 @@
           }
         ],
         "source": "combined",
-        "rank": 22
+        "rank": 23
+      }
+    },
+    {
+      "id": "4470887680000",
+      "title": "寝ながらヘーゲル",
+      "author": "斎藤幸平",
+      "publisher": "NHK出版",
+      "price": 1133,
+      "url": "https://books.rakuten.co.jp/rk/0d1b142854743e87a1558a7c026d4c6e/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4586/2000022054586.jpg?_ex=600x600",
+      "caption": "『精神現象学』って、そういう本だったのか！\nSNSの時代、承認欲求は暴走し、対立は終わらず、社会分断は広がり続けるーーその根底にある仕組みを、ヘーゲルは主著『精神現象学』で、まるで現代を予言するかのように鮮やかに描き出していた。のちにマルクス思想誕生のきっかけとなり、近現代思想を方向づけることになったこの名著を、マルクス解説で話題を呼んだ著者がやさしく読み解く。承認、自由、共同体をめぐるヘーゲルの洞察をたどれば、難解な古典が驚くほど現代的な書物であることがわかり、いま私たちの社会で何が起きているのかが見えてくる。分断の時代に希望を取り戻すための一冊。\n",
+      "salesDate": "2026年10月13日",
+      "series": "ＮＨＫ出版新書",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101907002002",
+      "isbn": "4470887680000",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "寝ながらヘーゲル NHK出版新書",
+        "author": "",
+        "score": 50,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 15
+          }
+        ],
+        "source": "combined",
+        "rank": 47,
+        "originalTitle": "寝ながらヘーゲル ＮＨＫ出版新書"
+      },
+      "ranking": {
+        "title": "寝ながらヘーゲル ＮＨＫ出版新書",
+        "author": "",
+        "isbn": "",
+        "score": 165,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 15
+          }
+        ],
+        "source": "combined",
+        "rank": 24
       }
     },
     {
@@ -1405,8 +1512,7 @@
       "matchMeta": {
         "title": "自分とか、ないから。教養としての東洋哲学 (サンクチュアリ出版)",
         "author": "しんめいP",
-        "isbn": "",
-        "score": 165,
+        "score": 50,
         "sources": [
           {
             "source": "amazon",
@@ -1415,7 +1521,8 @@
           }
         ],
         "source": "combined",
-        "rank": 47
+        "rank": 48,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "自分とか、ないから。教養としての東洋哲学 (サンクチュアリ出版)",
@@ -1430,7 +1537,7 @@
           }
         ],
         "source": "combined",
-        "rank": 23
+        "rank": 25
       }
     },
     {
@@ -1477,7 +1584,7 @@
           }
         ],
         "source": "combined",
-        "rank": 24
+        "rank": 26
       }
     },
     {
@@ -1524,54 +1631,7 @@
           }
         ],
         "source": "combined",
-        "rank": 25
-      }
-    },
-    {
-      "id": "4470887680000",
-      "title": "寝ながらヘーゲル",
-      "author": "斎藤幸平",
-      "publisher": "NHK出版",
-      "price": 1133,
-      "url": "https://books.rakuten.co.jp/rk/0d1b142854743e87a1558a7c026d4c6e/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4586/2000022054586.jpg?_ex=600x600",
-      "caption": "『精神現象学』って、そういう本だったのか！\nSNSの時代、承認欲求は暴走し、対立は終わらず、社会分断は広がり続けるーーその根底にある仕組みを、ヘーゲルは主著『精神現象学』で、まるで現代を予言するかのように鮮やかに描き出していた。のちにマルクス思想誕生のきっかけとなり、近現代思想を方向づけることになったこの名著を、マルクス解説で話題を呼んだ著者がやさしく読み解く。承認、自由、共同体をめぐるヘーゲルの洞察をたどれば、難解な古典が驚くほど現代的な書物であることがわかり、いま私たちの社会で何が起きているのかが見えてくる。分断の時代に希望を取り戻すための一冊。\n",
-      "salesDate": "2026年10月13日",
-      "series": "ＮＨＫ出版新書",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101907002002",
-      "isbn": "4470887680000",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "寝ながらヘーゲル NHK出版新書",
-        "author": "",
-        "score": 38,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 18
-          }
-        ],
-        "source": "combined",
-        "rank": 53,
-        "originalTitle": "寝ながらヘーゲル ＮＨＫ出版新書"
-      },
-      "ranking": {
-        "title": "寝ながらヘーゲル ＮＨＫ出版新書",
-        "author": "",
-        "isbn": "",
-        "score": 162,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 18
-          }
-        ],
-        "source": "combined",
-        "rank": 26
+        "rank": 27
       }
     },
     {
@@ -1593,8 +1653,7 @@
       "matchMeta": {
         "title": "【令和8年度】 いちばんやさしい ITパスポート 絶対合格の教科書+出る順問題集",
         "author": "高橋 京介",
-        "isbn": "",
-        "score": 162,
+        "score": 38,
         "sources": [
           {
             "source": "amazon",
@@ -1603,7 +1662,7 @@
           }
         ],
         "source": "combined",
-        "rank": 52,
+        "rank": 54,
         "originalTitle": "【令和８年度】 いちばんやさしい ITパスポート 絶対合格の教科書＋出る順問題集"
       },
       "ranking": {
@@ -1619,54 +1678,54 @@
           }
         ],
         "source": "combined",
-        "rank": 27
+        "rank": 28
       }
     },
     {
-      "id": "8909131370023",
-      "title": "捨てられ公爵夫人は、平穏な生活をお望みのようです5【電子書籍限定書き下ろしSS付き】",
-      "author": "カレヤタミエ",
-      "publisher": "TOブックス",
-      "price": 1399,
-      "url": "https://books.rakuten.co.jp/rk/02faea7362f434ae8c2e5f4aba8e82bb/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9158/2000021309158.jpg?_ex=600x600",
-      "caption": "【電子書籍限定書き下ろしSS】付き！\n『このライトノベルがすごい！２０２６』（宝島社刊）\n新作単行本・ノベルズ部門第2位／単行本・ノベルズ部門第15位\nシリーズ大重版！\nシリーズ累計６５万部（紙＋電子）突破！\nコミカライズ第３巻＆ドラマCD同日発売！\n「お節介なんて柄じゃないのよ？」\n言葉にしなければ伝わらない思いがある。\nしたたか夫人の領地改革ヒューマン・ファンタジー、第五弾！\n書き下ろし番外編巻末収録！\nセドリックが旅立った後も、メルフィーナにより改革が進むエンカー地方。\n畜産農家やお針子が職を探して移住してきたり、\n南部のロマーナ共和国から商人と理容師が営業に来たりと様々な人々が集まっていた。\nそんな流れに続いてか、やってきたのは意外な来客ーーオルドランド家の公子・ウィリアムだった。\n敬愛する伯父の妻を一目見たいと、小姓に紛れ込んでやってきたらしい彼は、\nいざ会ってみれば、何やらアレクシスやマリーとの関係がぎくしゃくしている様子。\n「お節介なんて悪役令嬢の柄じゃない」と言いつつ、子どもの悩みを放っておけない彼女はある策を打つことにーー？\n言葉にしなければ伝わらない思いがある。\nしたたか夫人の領地改革ヒューマン・ファンタジー、第五弾！\n",
-      "salesDate": "2026年10月10日",
-      "series": "捨てられ公爵夫人は、平穏な生活をお望みのようです",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101903090/101901006",
-      "isbn": "8909131370023",
+      "id": "4310000683989",
+      "title": "汝、星のごとく【電子限定特典付き】",
+      "author": "凪良ゆう",
+      "publisher": "講談社",
+      "price": 990,
+      "url": "https://books.rakuten.co.jp/rk/c078773e2356341c99cfa0309dc414dd/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1001/2000018151001.jpg?_ex=600x600",
+      "caption": "第20回本屋大賞受賞作！\nシリーズ累計100万部突破！\nあなたと生きる、その痛みごと。\n著者2度目の本屋大賞を受賞した『汝、星のごとく』が3年の時を経てついに文庫化！同じ空の下であの星を見上げよう。そして、また出会おう。あまりに切ない運命を、繊細な心理描写で描いた著者最高傑作。\n風光明媚な瀬戸内の島で育った暁海(あきみ)と母の恋愛に振り回され転校してきた櫂(かい)。ともに心に孤独と欠落を抱えた二人が恋に落ちるのに時間はかからなかった。ときにすれ違い、ぶつかり、成長していく。生きることの自由さと不自由さを描き続けた著者がおくる、あまりに切ない愛の物語【2023年本屋大賞受賞作】\n☆2023年本屋大賞受賞作☆\n【第168回直木賞候補作】\n【第44回吉川英治文学新人賞候補作】\n【2022王様のブランチBOOK大賞】\n【キノベス!2023 第1位】\n【第10回高校生直木賞候補作】\n【ダ・ヴィンチ BOOK OF THE YEAR 2022 第３位】\n【今月の絶対はずさない！ プラチナ本 選出（「ダ・ヴィンチ」12月号）】\n【第２回 本屋が選ぶ大人の恋愛小説大賞 ノミネート】\n【未来屋小説大賞 第２位】\n【ミヤボン2022 大賞受賞】\n【Apple Books 2022年 今年のベストブック（フィクション部門）】\nなどなど、賞＆ノミネート＆ランクイン多数！\n※電子版には特典として、続編『星を編む』の試し読み増量版と著者作品リストを収録しています。\n",
+      "salesDate": "2025年07月15日",
+      "series": "汝、星のごとく",
+      "reviewAverage": 4.39,
+      "reviewCount": 1651,
+      "genreId": "101901",
+      "isbn": "4310000683989",
       "salesType": 0,
       "matchMeta": {
-        "title": "捨てられ公爵夫人は、平穏な生活をお望みのようです 〈5〉",
+        "title": "汝、星のごとく",
         "author": "",
-        "score": 34,
+        "score": 30,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 19
+            "rank": 20
           }
         ],
         "source": "combined",
-        "rank": 55,
-        "originalTitle": "捨てられ公爵夫人は、平穏な生活をお望みのようです 〈５〉"
+        "rank": 57,
+        "originalTitle": ""
       },
       "ranking": {
-        "title": "捨てられ公爵夫人は、平穏な生活をお望みのようです 〈５〉",
+        "title": "汝、星のごとく",
         "author": "",
         "isbn": "",
-        "score": 161,
+        "score": 160,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 19
+            "rank": 20
           }
         ],
         "source": "combined",
-        "rank": 28
+        "rank": 29
       }
     },
     {
@@ -1697,7 +1756,7 @@
           }
         ],
         "source": "combined",
-        "rank": 57,
+        "rank": 58,
         "originalTitle": "幽冥の岸 十二国記 (新潮文庫 お 37-66)"
       },
       "ranking": {
@@ -1713,7 +1772,54 @@
           }
         ],
         "source": "combined",
-        "rank": 29
+        "rank": 30
+      }
+    },
+    {
+      "id": "4332254800300",
+      "title": "生きて行く私",
+      "author": "宇野　千代",
+      "publisher": "KADOKAWA",
+      "price": 402,
+      "url": "https://books.rakuten.co.jp/rk/57ee814194de3067a25639b09853eeb5/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9474/2000003109474.jpg?_ex=600x600",
+      "caption": "山口県岩国の生家と父母、小学校代用教員の時の恋と初体験、いとことの結婚、新聞懸賞小説の入選、尾崎士郎との出会いと同棲、東郷青児、北原武夫とつづく愛の遍歴……数えて百歳。感動を呼ぶ大河自伝。\n",
+      "salesDate": "2015年05月21日",
+      "series": "",
+      "reviewAverage": 4.07,
+      "reviewCount": 35,
+      "genreId": "101901001",
+      "isbn": "4332254800300",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "生きて行く私",
+        "author": "宇野 千代",
+        "score": 22,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 22
+          }
+        ],
+        "source": "combined",
+        "rank": 62,
+        "originalTitle": "生きて行く私 (角川文庫)"
+      },
+      "ranking": {
+        "title": "生きて行く私 (角川文庫)",
+        "author": "宇野 千代",
+        "isbn": "",
+        "score": 158,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 22
+          }
+        ],
+        "source": "combined",
+        "rank": 31
       }
     },
     {
@@ -1760,7 +1866,101 @@
           }
         ],
         "source": "combined",
-        "rank": 30
+        "rank": 32
+      }
+    },
+    {
+      "id": "8909131370023",
+      "title": "捨てられ公爵夫人は、平穏な生活をお望みのようです5【電子書籍限定書き下ろしSS付き】",
+      "author": "カレヤタミエ",
+      "publisher": "TOブックス",
+      "price": 1399,
+      "url": "https://books.rakuten.co.jp/rk/02faea7362f434ae8c2e5f4aba8e82bb/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9158/2000021309158.jpg?_ex=600x600",
+      "caption": "【電子書籍限定書き下ろしSS】付き！\n『このライトノベルがすごい！２０２６』（宝島社刊）\n新作単行本・ノベルズ部門第2位／単行本・ノベルズ部門第15位\nシリーズ大重版！\nシリーズ累計６５万部（紙＋電子）突破！\nコミカライズ第３巻＆ドラマCD同日発売！\n「お節介なんて柄じゃないのよ？」\n言葉にしなければ伝わらない思いがある。\nしたたか夫人の領地改革ヒューマン・ファンタジー、第五弾！\n書き下ろし番外編巻末収録！\nセドリックが旅立った後も、メルフィーナにより改革が進むエンカー地方。\n畜産農家やお針子が職を探して移住してきたり、\n南部のロマーナ共和国から商人と理容師が営業に来たりと様々な人々が集まっていた。\nそんな流れに続いてか、やってきたのは意外な来客ーーオルドランド家の公子・ウィリアムだった。\n敬愛する伯父の妻を一目見たいと、小姓に紛れ込んでやってきたらしい彼は、\nいざ会ってみれば、何やらアレクシスやマリーとの関係がぎくしゃくしている様子。\n「お節介なんて悪役令嬢の柄じゃない」と言いつつ、子どもの悩みを放っておけない彼女はある策を打つことにーー？\n言葉にしなければ伝わらない思いがある。\nしたたか夫人の領地改革ヒューマン・ファンタジー、第五弾！\n",
+      "salesDate": "2026年10月10日",
+      "series": "捨てられ公爵夫人は、平穏な生活をお望みのようです",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101903090/101901006",
+      "isbn": "8909131370023",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "捨てられ公爵夫人は、平穏な生活をお望みのようです 〈5〉",
+        "author": "",
+        "score": 14,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 24
+          }
+        ],
+        "source": "combined",
+        "rank": 64,
+        "originalTitle": "捨てられ公爵夫人は、平穏な生活をお望みのようです 〈５〉"
+      },
+      "ranking": {
+        "title": "捨てられ公爵夫人は、平穏な生活をお望みのようです 〈５〉",
+        "author": "",
+        "isbn": "",
+        "score": 156,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 24
+          }
+        ],
+        "source": "combined",
+        "rank": 33
+      }
+    },
+    {
+      "id": "4910000937811",
+      "title": "悩みの統計学",
+      "author": "藤田康男",
+      "publisher": "扶桑社",
+      "price": 1870,
+      "url": "https://books.rakuten.co.jp/rk/8cb94b70a3413750b6dd1503a7927715/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1489/2000021901489.jpg?_ex=600x600",
+      "caption": "現代社会特有の“モヤモヤ”の正体を、５万件の相談実績から徹底解析！\n働く人の相談窓口を提供する「メンタルヘルス支援のパイオニア」の最新知見\n・男性、女性、世代ごとに、今、何に悩んでいるのか？　データで読み解く【悩みの統計編】\n・きっとあなたの悩みもここにある【25のケーススタディ】\n・多様な理論で学ぶ７つの【悩みの整理術】\n「自分が何に悩んでいるのか？」「どうして悩んでいるのか？」「どうすればいいのか？」\n仕組みがわかれば、心が軽くなる！\n※このコンテンツはカラー表示できる端末でご覧下さい。\n",
+      "salesDate": "2026年09月28日",
+      "series": "悩みの統計学",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101907007/101914",
+      "isbn": "4910000937811",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "悩みの統計学",
+        "author": "",
+        "score": 10,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 25
+          }
+        ],
+        "source": "combined",
+        "rank": 66,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "悩みの統計学",
+        "author": "",
+        "isbn": "",
+        "score": 155,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 25
+          }
+        ],
+        "source": "combined",
+        "rank": 34
       }
     },
     {
@@ -1807,7 +2007,7 @@
           }
         ],
         "source": "combined",
-        "rank": 31
+        "rank": 35
       }
     },
     {
@@ -1829,8 +2029,7 @@
       "matchMeta": {
         "title": "これが本当のSPI3だ! 2028年度版 【主要3方式〈テストセンター・ペーパーテスト・WEBテスティング〉対応】 (本当の就職テストシリーズ)",
         "author": "SPIノートの会",
-        "isbn": "",
-        "score": 154,
+        "score": 6,
         "sources": [
           {
             "source": "amazon",
@@ -1839,7 +2038,8 @@
           }
         ],
         "source": "combined",
-        "rank": 67
+        "rank": 69,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "これが本当のSPI3だ! 2028年度版 【主要3方式〈テストセンター・ペーパーテスト・WEBテスティング〉対応】 (本当の就職テストシリーズ)",
@@ -1854,54 +2054,7 @@
           }
         ],
         "source": "combined",
-        "rank": 32
-      }
-    },
-    {
-      "id": "4910000937811",
-      "title": "悩みの統計学",
-      "author": "藤田康男",
-      "publisher": "扶桑社",
-      "price": 1870,
-      "url": "https://books.rakuten.co.jp/rk/8cb94b70a3413750b6dd1503a7927715/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1489/2000021901489.jpg?_ex=600x600",
-      "caption": "現代社会特有の“モヤモヤ”の正体を、５万件の相談実績から徹底解析！\n働く人の相談窓口を提供する「メンタルヘルス支援のパイオニア」の最新知見\n・男性、女性、世代ごとに、今、何に悩んでいるのか？　データで読み解く【悩みの統計編】\n・きっとあなたの悩みもここにある【25のケーススタディ】\n・多様な理論で学ぶ７つの【悩みの整理術】\n「自分が何に悩んでいるのか？」「どうして悩んでいるのか？」「どうすればいいのか？」\n仕組みがわかれば、心が軽くなる！\n※このコンテンツはカラー表示できる端末でご覧下さい。\n",
-      "salesDate": "2026年09月28日",
-      "series": "悩みの統計学",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101907007/101914",
-      "isbn": "4910000937811",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "悩みの統計学",
-        "author": "",
-        "score": 5,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 27
-          }
-        ],
-        "source": "combined",
-        "rank": 70,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "悩みの統計学",
-        "author": "",
-        "isbn": "",
-        "score": 153,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 27
-          }
-        ],
-        "source": "combined",
-        "rank": 33
+        "rank": 36
       }
     },
     {
@@ -1948,7 +2101,7 @@
           }
         ],
         "source": "combined",
-        "rank": 34
+        "rank": 37
       }
     },
     {
@@ -1970,7 +2123,8 @@
       "matchMeta": {
         "title": "パンどろぼう",
         "author": "",
-        "score": 5,
+        "isbn": "",
+        "score": 152,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1979,8 +2133,7 @@
           }
         ],
         "source": "combined",
-        "rank": 71,
-        "originalTitle": ""
+        "rank": 71
       },
       "ranking": {
         "title": "パンどろぼう",
@@ -1995,7 +2148,7 @@
           }
         ],
         "source": "combined",
-        "rank": 35
+        "rank": 38
       }
     },
     {
@@ -2017,7 +2170,8 @@
       "matchMeta": {
         "title": "中学英語をもう一度ひとつひとつわかりやすく。改訂版",
         "author": "山田暢彦",
-        "score": 5,
+        "isbn": "",
+        "score": 151,
         "sources": [
           {
             "source": "amazon",
@@ -2026,8 +2180,8 @@
           }
         ],
         "source": "combined",
-        "rank": 75,
-        "originalTitle": ""
+        "rank": 72,
+        "originalTitle": "中学英語をもう一度ひとつひとつわかりやすく。改訂版"
       },
       "ranking": {
         "title": "中学英語をもう一度ひとつひとつわかりやすく。改訂版",
@@ -2042,54 +2196,7 @@
           }
         ],
         "source": "combined",
-        "rank": 36
-      }
-    },
-    {
-      "id": "4320000939619",
-      "title": "あの子にしか行けない天国",
-      "author": "木爾チレン",
-      "publisher": "小学館",
-      "price": 1782,
-      "url": "https://books.rakuten.co.jp/rk/ea2d980498fe3bc2833a98acdb988460/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4014/2000021924014.jpg?_ex=600x600",
-      "caption": "選んだ未来を、私たちは正解にできるだろうか──。\n『I』18歳の身体機能・容姿を保ったまま45歳で寿命を迎えるか、『II』従来通り老いながら90歳まで生きるか。「選択制度」が発足し、女性は18歳で『I』か『II』を選ぶことを義務づけられた。『I』を象徴する女優の母を持ち、自身も女優を志す紗月と、アイドルに憧れる莉々依。「いつか二人で、それぞれの分野の頂点に立とう」とはしゃぐ親友二人の人生は、その選択を境に分かたれていく。\n究極の問いに大胆に踏み込む、『二人一組になってください』著者の集大成であり新境地。\n",
-      "salesDate": "2026年10月07日",
-      "series": "あの子にしか行けない天国",
-      "reviewAverage": 4.67,
-      "reviewCount": 3,
-      "genreId": "101901",
-      "isbn": "4320000939619",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "あの子にしか行けない天国",
-        "author": "",
-        "score": 5,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 30
-          }
-        ],
-        "source": "combined",
-        "rank": 73,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "あの子にしか行けない天国",
-        "author": "",
-        "isbn": "",
-        "score": 150,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 30
-          }
-        ],
-        "source": "combined",
-        "rank": 37
+        "rank": 39
       }
     },
     {
@@ -2135,7 +2242,54 @@
           }
         ],
         "source": "combined",
-        "rank": 38,
+        "rank": 40,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "4310000890409",
+      "title": "楽園",
+      "author": "夕木春央",
+      "publisher": "講談社",
+      "price": 1980,
+      "url": "https://books.rakuten.co.jp/rk/1a1c684dcee83b98b4d0187187c813d0/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1651/2000021221651.jpg?_ex=600x600",
+      "caption": "殺人犯にならなければ脱出できない。\n『方舟』『十戒』の著者が仕掛ける“禁忌の驚き”\n亡き両親から不動産を譲り受けた康之は、失踪した賃借人・海原の遺留品整理の際に、群馬の山奥の謎の物件の存在を知る。そこは、切り立った岩壁に囲まれた、「楽園」と呼ばれる奇妙な場所だった。恋人の沙織と一緒にそこを訪ね、探索をはじめた康之たちは、すぐに六人の“住人”に拿捕された。脱出のための条件はーー\n「誰か一人を殺さなければならない」\n『方舟』\n第19回オリコン上半期”本”ランキング　文庫ランキングTOP10 第1位\n週刊文春ミステリーベスト10　第1位　（「週刊文春」2022年12月8日号）国内部門\nMRC大賞2022　第1位\n『方舟』＋『十戒』の累計発行部数が100万部突破。\nーー夕木春央が描く、極限のクローズド・サークル。\n",
+      "salesDate": "2026年07月22日",
+      "series": "楽園",
+      "reviewAverage": 4.16,
+      "reviewCount": 509,
+      "genreId": "101902",
+      "isbn": "4310000890409",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "楽園",
+        "author": "夕木春央",
+        "score": 94,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
+          }
+        ],
+        "source": "combined",
+        "rank": 14,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "楽園",
+        "author": "夕木春央",
+        "score": 94,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
+          }
+        ],
+        "source": "combined",
+        "rank": 41,
         "originalTitle": ""
       }
     },
@@ -2182,7 +2336,54 @@
           }
         ],
         "source": "combined",
-        "rank": 39,
+        "rank": 42,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "4480000838415",
+      "title": "けんぐゎい",
+      "author": "朝倉かすみ",
+      "publisher": "光文社",
+      "price": 1980,
+      "url": "https://books.rakuten.co.jp/rk/7249a640151339f4ab53ef18f6bba0b0/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8537/2000020238537.jpg?_ex=600x600",
+      "caption": "利発だが酷い痘痕の姉ふゆ。逆上せ癖で縹緻よしの妹りよ。幼くして父を亡くし、ふゆは手習師匠の手伝いに、りよは船宿の下女奉公に出された。師匠の養子で禍々しいほどに歪んだ性癖をもつ宗三郎から手籠めにされたふゆは懐妊するが、現人神と崇められる女医者と出逢い、彼女の人生は大きく変わっていく。自我に目覚めた主人公が、女の生と向き合う、時代小説の新しい扉！　第175回直木賞受賞作！\n",
+      "salesDate": "2026年04月22日",
+      "series": "けんぐゎい",
+      "reviewAverage": 3.4,
+      "reviewCount": 148,
+      "genreId": "101901001001",
+      "isbn": "4480000838415",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "けんぐゎい",
+        "author": "朝倉かすみ",
+        "score": 70,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 37,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "けんぐゎい",
+        "author": "朝倉かすみ",
+        "score": 70,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 43,
         "originalTitle": ""
       }
     }
@@ -2190,24 +2391,26 @@
   "byGenre": {
     "fiction": [
       "4380000408000",
-      "4310000683989",
       "4916475490001",
       "4910000909001",
-      "4320000935695",
       "4390000005636",
       "4310000886199",
+      "4320000935695",
       "4320000935691",
       "4390000016658",
+      "4310000683989",
       "4340008067611",
+      "4332254800300",
       "4390000016495",
-      "4320000939619"
+      "4480000838415"
     ],
     "mystery": [
       "4916475490001",
-      "4320000935695",
       "4390000005636",
+      "4320000935695",
       "4620000615075",
-      "4620000615076"
+      "4620000615076",
+      "4310000890409"
     ],
     "sf": [],
     "business": [
@@ -2221,16 +2424,16 @@
     "humanities": [
       "4380000407898",
       "4310000701877",
-      "4390000014247",
       "6671316719340",
+      "4390000014247",
       "4472231930000",
       "4470887680000",
       "4910000937811",
       "8910120537764"
     ],
     "nonfiction": [
-      "4390000014247",
       "6671316719340",
+      "4390000014247",
       "4910000937811"
     ],
     "science": [
@@ -2262,15 +2465,17 @@
       "4339134200300"
     ],
     "essay": [],
-    "comic": []
+    "comic": [
+      "4310000779045"
+    ]
   },
   "genreStatus": {
     "fiction": {
-      "matched": 12,
+      "matched": 13,
       "complete": true
     },
     "mystery": {
-      "matched": 5,
+      "matched": 6,
       "complete": true
     },
     "sf": {
@@ -2326,7 +2531,7 @@
       "complete": true
     },
     "comic": {
-      "matched": 0,
+      "matched": 1,
       "complete": true
     }
   }

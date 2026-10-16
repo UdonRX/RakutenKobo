@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-10-16T05:17:08.761Z",
+  "updatedAt": "2026-10-16T12:14:35.766Z",
   "candidateCount": 75,
-  "baseMatched": 36,
-  "matched": 43,
-  "addedMatches": 7,
+  "baseMatched": 33,
+  "matched": 41,
+  "addedMatches": 8,
   "unavailable": [
     "rakuten"
   ],
@@ -99,12 +99,6 @@
           "author": "宇野 千代",
           "isbn": "",
           "rank": 22
-        },
-        {
-          "title": "大地が教えてくれたこと",
-          "author": "ありがとう村プロジェクト",
-          "isbn": "",
-          "rank": 23
         },
         {
           "title": "俺たちの箱根駅伝 上 (文春文庫 い 64-13)",
@@ -342,22 +336,28 @@
       "matchMeta": {
         "title": "パンどろぼうとさすらいラーメン",
         "author": "柴田 ケイコ",
-        "score": 111,
+        "isbn": "",
+        "score": 509,
         "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 28
+          },
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
             "rank": 1
           },
           {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 28
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 2
           }
         ],
         "source": "combined",
-        "rank": 3,
-        "originalTitle": ""
+        "rank": 2,
+        "originalTitle": "パンどろぼうとさすらいラーメン"
       },
       "ranking": {
         "title": "パンどろぼうとさすらいラーメン",
@@ -461,17 +461,23 @@
       "matchMeta": {
         "title": "未だ本能寺にあり",
         "author": "",
-        "score": 62,
+        "isbn": "",
+        "score": 339,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
             "rank": 12
+          },
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 9
           }
         ],
         "source": "combined",
-        "rank": 41,
-        "originalTitle": ""
+        "rank": 5,
+        "originalTitle": "未だ本能寺にあり"
       },
       "ranking": {
         "title": "未だ本能寺にあり",
@@ -1050,8 +1056,7 @@
           }
         ],
         "source": "combined",
-        "rank": 31,
-        "originalTitle": "anan No.2513 Special Edition"
+        "rank": 31
       },
       "ranking": {
         "title": "anan No.2513 Special Edition",
@@ -1117,53 +1122,6 @@
       }
     },
     {
-      "id": "4620000615076",
-      "title": "ブラッディダイスの殺人　下",
-      "author": "Ｍ Ｗ クレイヴン",
-      "publisher": "早川書房",
-      "price": 1210,
-      "url": "https://books.rakuten.co.jp/rk/eea149cbab90347eb70bdd38623e4df0/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9727/2000021429727.jpg?_ex=600x600",
-      "caption": "ポーとティリーが再びタッグを組む！　シリーズ累計30万部の最新作！\n英国全土で連続狙撃事件が発生。犠牲者は17人にのぼるも犯人の手がかりはなく、ポーとティリーは国家犯罪対策庁に呼び戻されるが\n",
-      "salesDate": "2026年08月19日",
-      "series": "ワシントン・ポー",
-      "reviewAverage": 4.6,
-      "reviewCount": 42,
-      "genreId": "101902",
-      "isbn": "4620000615076",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ブラッディダイスの殺人 下",
-        "author": "M・W・クレイヴン",
-        "score": 70,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 36,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "ブラッディダイスの殺人 下",
-        "author": "M・W・クレイヴン",
-        "isbn": "",
-        "score": 170,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 17
-      }
-    },
-    {
       "id": "4390000014247",
       "title": "戦争犯罪と闘う　国際刑事裁判所は屈しない",
       "author": "赤根智子",
@@ -1203,6 +1161,53 @@
           {
             "source": "amazon",
             "label": "Amazon",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 17
+      }
+    },
+    {
+      "id": "4620000615076",
+      "title": "ブラッディダイスの殺人　下",
+      "author": "Ｍ Ｗ クレイヴン",
+      "publisher": "早川書房",
+      "price": 1210,
+      "url": "https://books.rakuten.co.jp/rk/eea149cbab90347eb70bdd38623e4df0/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9727/2000021429727.jpg?_ex=600x600",
+      "caption": "ポーとティリーが再びタッグを組む！　シリーズ累計30万部の最新作！\n英国全土で連続狙撃事件が発生。犠牲者は17人にのぼるも犯人の手がかりはなく、ポーとティリーは国家犯罪対策庁に呼び戻されるが\n",
+      "salesDate": "2026年08月19日",
+      "series": "ワシントン・ポー",
+      "reviewAverage": 4.6,
+      "reviewCount": 42,
+      "genreId": "101902",
+      "isbn": "4620000615076",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ブラッディダイスの殺人 下",
+        "author": "M・W・クレイヴン",
+        "score": 70,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 36,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "ブラッディダイスの殺人 下",
+        "author": "M・W・クレイヴン",
+        "isbn": "",
+        "score": 170,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
             "rank": 10
           }
         ],
@@ -1541,53 +1546,6 @@
       }
     },
     {
-      "id": "4390000016658",
-      "title": "希望の子",
-      "author": "一穂ミチ",
-      "publisher": "文藝春秋",
-      "price": 1900,
-      "url": "https://books.rakuten.co.jp/rk/e852c39d227130d89e0375f92c272649/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3481/2000021943481.jpg?_ex=600x600",
-      "caption": "人を想う気持ちが溢れる\n切なくも温かい“反”希望の物語\n大災害の日に生まれ、\n希望の象徴となった子どもたち。\n彼らの人生は交わり、\n鮮烈な光を放つーー\n言葉にできない、でも確かに存在する\n感情や関係を掬い上げて心を揺さぶり、\nまた思いもよらぬストーリーテリングで\n読者を驚かせてくれる一穂ミチさん。\nその魅力のすべてが詰まった\n集大成ともいえる小説が誕生しました。\nテーマ、登場人物、人間関係、物語、\nいずれも一穂さんにしか書けない\n何度も胸が締め付けられる珠玉の連作集です。\n〔あらすじ〕\n失声症により言葉を発することができない\n雪花は、スクールカウンセラーの梢から\n\"生まれた日によって希望を背負わされた人\"が\n集まる「反希望クラブ」に誘われる。\n雪花が生まれたのは2011年3月11日。\nその日を境に、父は故郷の福島から戻らなくなり、\n雪花は母と大阪で暮らすことになった。\nずっと抱えてきたわだかまりを分かち合える\n「反希望クラブ」は雪花の\n大切な居場所となっていく。\nそんな中、雪花は母のスマホを盗み見てしまいーー。\n〔目次〕\n希望の子\nカーマンライン\nウィンドミルでキドニーパイを\n羊の帰る家\n歌うように生きて\n汽水域\n",
-      "salesDate": "2026年10月07日",
-      "series": "",
-      "reviewAverage": 4.5,
-      "reviewCount": 4,
-      "genreId": "101901",
-      "isbn": "4390000016658",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "希望の子",
-        "author": "",
-        "score": 46,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 16
-          }
-        ],
-        "source": "combined",
-        "rank": 49,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "希望の子",
-        "author": "",
-        "isbn": "",
-        "score": 164,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 16
-          }
-        ],
-        "source": "combined",
-        "rank": 26
-      }
-    },
-    {
       "id": "8926000912320",
       "title": "これ、かなりマジです。時間・お金・心を整える３６５の言葉",
       "author": "いれぶん",
@@ -1627,6 +1585,53 @@
           {
             "source": "amazon",
             "label": "Amazon",
+            "rank": 16
+          }
+        ],
+        "source": "combined",
+        "rank": 26
+      }
+    },
+    {
+      "id": "4390000016658",
+      "title": "希望の子",
+      "author": "一穂ミチ",
+      "publisher": "文藝春秋",
+      "price": 1900,
+      "url": "https://books.rakuten.co.jp/rk/e852c39d227130d89e0375f92c272649/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3481/2000021943481.jpg?_ex=600x600",
+      "caption": "人を想う気持ちが溢れる\n切なくも温かい“反”希望の物語\n大災害の日に生まれ、\n希望の象徴となった子どもたち。\n彼らの人生は交わり、\n鮮烈な光を放つーー\n言葉にできない、でも確かに存在する\n感情や関係を掬い上げて心を揺さぶり、\nまた思いもよらぬストーリーテリングで\n読者を驚かせてくれる一穂ミチさん。\nその魅力のすべてが詰まった\n集大成ともいえる小説が誕生しました。\nテーマ、登場人物、人間関係、物語、\nいずれも一穂さんにしか書けない\n何度も胸が締め付けられる珠玉の連作集です。\n〔あらすじ〕\n失声症により言葉を発することができない\n雪花は、スクールカウンセラーの梢から\n\"生まれた日によって希望を背負わされた人\"が\n集まる「反希望クラブ」に誘われる。\n雪花が生まれたのは2011年3月11日。\nその日を境に、父は故郷の福島から戻らなくなり、\n雪花は母と大阪で暮らすことになった。\nずっと抱えてきたわだかまりを分かち合える\n「反希望クラブ」は雪花の\n大切な居場所となっていく。\nそんな中、雪花は母のスマホを盗み見てしまいーー。\n〔目次〕\n希望の子\nカーマンライン\nウィンドミルでキドニーパイを\n羊の帰る家\n歌うように生きて\n汽水域\n",
+      "salesDate": "2026年10月07日",
+      "series": "",
+      "reviewAverage": 4.5,
+      "reviewCount": 4,
+      "genreId": "101901",
+      "isbn": "4390000016658",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "希望の子",
+        "author": "",
+        "score": 46,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 16
+          }
+        ],
+        "source": "combined",
+        "rank": 49,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "希望の子",
+        "author": "",
+        "isbn": "",
+        "score": 164,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
             "rank": 16
           }
         ],
@@ -1823,53 +1828,6 @@
       }
     },
     {
-      "id": "4524778202270",
-      "title": "メコンの大地が教えてくれたこと",
-      "author": "大賀 昌",
-      "publisher": "カナリアコミュニケーションズ",
-      "price": 990,
-      "url": "https://books.rakuten.co.jp/rk/3b906c002c813622826f218ae9418b19/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7568/2000003197568.jpg?_ex=600x600",
-      "caption": "農業大国タイで日本人が画期的なオーガニック農法で大成功！　「農業の六次産業化」は既にアジアで始まっていた。\nタイで、画期的なオーガニック農法で大成功をおさめた著者が教える、成功の軌跡とビジョンとは？\nアジアで農業に挑戦してきたから語れる、農業のあり方が詰まった１冊。\nすでに農業に取り組んでいる方、またこれから農業に取り組もうとされている方々の指針となる内容です。\n",
-      "salesDate": "2015年06月12日",
-      "series": "",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101905017001",
-      "isbn": "4524778202270",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "大地が教えてくれたこと",
-        "author": "ありがとう村プロジェクト",
-        "score": 18,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 23
-          }
-        ],
-        "source": "combined",
-        "rank": 63,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "大地が教えてくれたこと",
-        "author": "ありがとう村プロジェクト",
-        "isbn": "",
-        "score": 157,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 23
-          }
-        ],
-        "source": "combined",
-        "rank": 32
-      }
-    },
-    {
       "id": "8909131370023",
       "title": "捨てられ公爵夫人は、平穏な生活をお望みのようです5【電子書籍限定書き下ろしSS付き】",
       "author": "カレヤタミエ",
@@ -1913,7 +1871,7 @@
           }
         ],
         "source": "combined",
-        "rank": 33
+        "rank": 32
       }
     },
     {
@@ -1960,7 +1918,7 @@
           }
         ],
         "source": "combined",
-        "rank": 34
+        "rank": 33
       }
     },
     {
@@ -1980,9 +1938,10 @@
       "isbn": "4390000016495",
       "salesType": 0,
       "matchMeta": {
-        "title": "俺たちの箱根駅伝 上",
+        "title": "俺たちの箱根駅伝 上 (文春文庫 い 64-13)",
         "author": "池井戸 潤",
-        "score": 10,
+        "isbn": "",
+        "score": 155,
         "sources": [
           {
             "source": "amazon",
@@ -1991,8 +1950,7 @@
           }
         ],
         "source": "combined",
-        "rank": 67,
-        "originalTitle": "俺たちの箱根駅伝 上 (文春文庫 い 64-13)"
+        "rank": 65
       },
       "ranking": {
         "title": "俺たちの箱根駅伝 上 (文春文庫 い 64-13)",
@@ -2007,7 +1965,7 @@
           }
         ],
         "source": "combined",
-        "rank": 35
+        "rank": 34
       }
     },
     {
@@ -2054,7 +2012,7 @@
           }
         ],
         "source": "combined",
-        "rank": 36
+        "rank": 35
       }
     },
     {
@@ -2076,8 +2034,7 @@
       "matchMeta": {
         "title": "覚悟の磨き方 超訳 吉田松陰 (サンクチュアリ出版)",
         "author": "池田貴将",
-        "isbn": "",
-        "score": 153,
+        "score": 5,
         "sources": [
           {
             "source": "amazon",
@@ -2086,7 +2043,8 @@
           }
         ],
         "source": "combined",
-        "rank": 69
+        "rank": 74,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "覚悟の磨き方 超訳 吉田松陰 (サンクチュアリ出版)",
@@ -2101,7 +2059,7 @@
           }
         ],
         "source": "combined",
-        "rank": 37
+        "rank": 36
       }
     },
     {
@@ -2123,8 +2081,7 @@
       "matchMeta": {
         "title": "パンどろぼう",
         "author": "",
-        "isbn": "",
-        "score": 152,
+        "score": 5,
         "sources": [
           {
             "source": "kinokuniya",
@@ -2133,7 +2090,8 @@
           }
         ],
         "source": "combined",
-        "rank": 71
+        "rank": 71,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "パンどろぼう",
@@ -2148,7 +2106,7 @@
           }
         ],
         "source": "combined",
-        "rank": 38
+        "rank": 37
       }
     },
     {
@@ -2180,8 +2138,7 @@
           }
         ],
         "source": "combined",
-        "rank": 72,
-        "originalTitle": "中学英語をもう一度ひとつひとつわかりやすく。改訂版"
+        "rank": 72
       },
       "ranking": {
         "title": "中学英語をもう一度ひとつひとつわかりやすく。改訂版",
@@ -2196,7 +2153,7 @@
           }
         ],
         "source": "combined",
-        "rank": 39
+        "rank": 38
       }
     },
     {
@@ -2242,54 +2199,7 @@
           }
         ],
         "source": "combined",
-        "rank": 40,
-        "originalTitle": ""
-      }
-    },
-    {
-      "id": "4310000890409",
-      "title": "楽園",
-      "author": "夕木春央",
-      "publisher": "講談社",
-      "price": 1980,
-      "url": "https://books.rakuten.co.jp/rk/1a1c684dcee83b98b4d0187187c813d0/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1651/2000021221651.jpg?_ex=600x600",
-      "caption": "殺人犯にならなければ脱出できない。\n『方舟』『十戒』の著者が仕掛ける“禁忌の驚き”\n亡き両親から不動産を譲り受けた康之は、失踪した賃借人・海原の遺留品整理の際に、群馬の山奥の謎の物件の存在を知る。そこは、切り立った岩壁に囲まれた、「楽園」と呼ばれる奇妙な場所だった。恋人の沙織と一緒にそこを訪ね、探索をはじめた康之たちは、すぐに六人の“住人”に拿捕された。脱出のための条件はーー\n「誰か一人を殺さなければならない」\n『方舟』\n第19回オリコン上半期”本”ランキング　文庫ランキングTOP10 第1位\n週刊文春ミステリーベスト10　第1位　（「週刊文春」2022年12月8日号）国内部門\nMRC大賞2022　第1位\n『方舟』＋『十戒』の累計発行部数が100万部突破。\nーー夕木春央が描く、極限のクローズド・サークル。\n",
-      "salesDate": "2026年07月22日",
-      "series": "楽園",
-      "reviewAverage": 4.16,
-      "reviewCount": 509,
-      "genreId": "101902",
-      "isbn": "4310000890409",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "楽園",
-        "author": "夕木春央",
-        "score": 94,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
-          }
-        ],
-        "source": "combined",
-        "rank": 14,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "楽園",
-        "author": "夕木春央",
-        "score": 94,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
-          }
-        ],
-        "source": "combined",
-        "rank": 41,
+        "rank": 39,
         "originalTitle": ""
       }
     },
@@ -2336,7 +2246,7 @@
           }
         ],
         "source": "combined",
-        "rank": 42,
+        "rank": 40,
         "originalTitle": ""
       }
     },
@@ -2383,7 +2293,7 @@
           }
         ],
         "source": "combined",
-        "rank": 43,
+        "rank": 41,
         "originalTitle": ""
       }
     }
@@ -2409,8 +2319,7 @@
       "4390000005636",
       "4320000935695",
       "4620000615075",
-      "4620000615076",
-      "4310000890409"
+      "4620000615076"
     ],
     "sf": [],
     "business": [
@@ -2418,7 +2327,6 @@
       "8910126773560",
       "8926000912320",
       "4524815638200",
-      "4524778202270",
       "4310000785781"
     ],
     "humanities": [
@@ -2475,7 +2383,7 @@
       "complete": true
     },
     "mystery": {
-      "matched": 6,
+      "matched": 5,
       "complete": true
     },
     "sf": {
@@ -2483,7 +2391,7 @@
       "complete": true
     },
     "business": {
-      "matched": 6,
+      "matched": 5,
       "complete": true
     },
     "humanities": {

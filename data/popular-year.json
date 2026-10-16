@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "year",
-  "updatedAt": "2026-10-16T12:14:54.900Z",
+  "updatedAt": "2026-10-16T17:19:12.446Z",
   "candidateCount": 13,
-  "baseMatched": 7,
+  "baseMatched": 8,
   "matched": 9,
-  "addedMatches": 2,
+  "addedMatches": 1,
   "unavailable": [],
   "snapshots": {
     "tohan": {
@@ -237,9 +237,8 @@
       "salesType": 0,
       "matchMeta": {
         "title": "成瀬は都を駆け抜ける",
-        "author": "",
-        "isbn": "",
-        "score": 176,
+        "author": "宮島未奈",
+        "score": 94,
         "sources": [
           {
             "source": "tohan",
@@ -249,7 +248,7 @@
         ],
         "source": "combined",
         "rank": 4,
-        "originalTitle": "成瀬は都を駆け抜ける"
+        "originalTitle": ""
       },
       "ranking": {
         "title": "成瀬は都を駆け抜ける",
@@ -484,8 +483,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12,
-        "originalTitle": "FOR OVERSEAS"
+        "rank": 12
       },
       "ranking": {
         "title": "FOR OVERSEAS",

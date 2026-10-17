@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-10-17T05:21:37.709Z",
+  "updatedAt": "2026-10-17T11:32:29.097Z",
   "candidateCount": 37,
-  "baseMatched": 15,
-  "matched": 17,
-  "addedMatches": 2,
+  "baseMatched": 13,
+  "matched": 16,
+  "addedMatches": 3,
   "unavailable": [],
   "snapshots": {
     "kinokuniya": {
@@ -25,12 +25,6 @@
           "author": "",
           "isbn": "",
           "rank": 1
-        },
-        {
-          "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
-          "author": "",
-          "isbn": "",
-          "rank": 2
         },
         {
           "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
@@ -98,16 +92,22 @@
           "rank": 2
         },
         {
+          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+          "author": "",
+          "isbn": "",
+          "rank": 4
+        },
+        {
           "title": "イン･ザ･メガチャーチ",
           "author": "",
           "isbn": "",
           "rank": 6
         },
         {
-          "title": "FOR OVERSEAS",
+          "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
           "author": "",
           "isbn": "",
-          "rank": 12
+          "rank": 10
         }
       ]
     }
@@ -183,24 +183,23 @@
       "salesType": 0,
       "matchMeta": {
         "title": "イン・ザ・メガチャーチ",
-        "author": "",
-        "isbn": "",
-        "score": 340,
+        "author": "朝井リョウ",
+        "score": 136,
         "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 7
+          },
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
             "rank": 14
-          },
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 6
           }
         ],
         "source": "combined",
-        "rank": 4,
-        "originalTitle": "イン・ザ・メガチャーチ"
+        "rank": 2,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "イン・ザ・メガチャーチ",
@@ -240,30 +239,30 @@
       "isbn": "4380000407898",
       "salesType": 0,
       "matchMeta": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 幻冬舎新書",
-        "author": "",
-        "score": 102,
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "author": "林真理子",
+        "score": 94,
         "sources": [
           {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 2
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
           }
         ],
         "source": "combined",
-        "rank": 6,
-        "originalTitle": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書"
+        "rank": 9,
+        "originalTitle": ""
       },
       "ranking": {
-        "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
         "author": "",
         "isbn": "",
-        "score": 178,
+        "score": 176,
         "sources": [
           {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 2
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
           }
         ],
         "source": "combined",
@@ -412,6 +411,53 @@
       }
     },
     {
+      "id": "4524815633410",
+      "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
+      "author": "堀田 秀吾",
+      "publisher": "SBクリエイティブ",
+      "price": 1760,
+      "url": "https://books.rakuten.co.jp/rk/79a1d43cefcb3337b3e2363c5f00a07e/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1658/2000018091658.jpg?_ex=600x600",
+      "caption": "勉強・ダイエット・貯金・目標達成…は習慣化が10割\n仕事、ダイエット、健康管理、勉強、目標達成…すべて成功のカギは「習慣化」にあります。\nしかし間違った習慣を身につけてしまったらその代償は大きくなってしまいます。\n何をどう習慣化すればいいか、そのために重要になるのが「エビデンス」です。\n・もし「A」をしたら「B」をすると、あらかじめ決めておく\n・選択肢は必ず「3つ」用意しておく\n・常にポジティブな言葉を使うーつらさに対する耐性が高まる\n・52分間作業して、17分休憩するー生産性が高まるetc.\n本書は、ハーバード、スタンフォード、オックスフォード…などの研究機関において証明されたテクニックを112個紹介。\n見開き図解入りでわかりやすい。気になったテクニックからはじめられ、情報収集のためにも役立ち、また読みものとしても楽しめる一冊です。\n※カバー画像が異なる場合があります。\n",
+      "salesDate": "2025年07月02日",
+      "series": "",
+      "reviewAverage": 3.68,
+      "reviewCount": 395,
+      "genreId": "101905090",
+      "isbn": "4524815633410",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
+        "author": "",
+        "isbn": "",
+        "score": 170,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 17
+      },
+      "ranking": {
+        "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
+        "author": "",
+        "isbn": "",
+        "score": 170,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 7
+      }
+    },
+    {
       "id": "4310000936589",
       "title": "ソン・シギョンの本当に美味しい韓国グルメガイド　ＳＵＮＧ　ＳＩ　ＫＹＵＮＧ’ｓ　Ｄｅｅｐ　Ｋｏｒｅａ",
       "author": "ソン・シギョン",
@@ -455,54 +501,6 @@
           }
         ],
         "source": "combined",
-        "rank": 7
-      }
-    },
-    {
-      "id": "9781505942323",
-      "title": "How to Start a Crown Agents for Overseas Governments and Administrations Business (Beginners Guide)",
-      "author": "Leclair Jaquelyn",
-      "publisher": "SamEnrico",
-      "price": 2515,
-      "url": "https://books.rakuten.co.jp/rk/da3f192a66453cb193c43421103700ab/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5952/2000020915952.jpg?_ex=600x600",
-      "caption": "This publication, published by SamEnrico, covers How to Start a Crown Agents for Overseas Governments and Administrations Business (Beginners Guide)\n",
-      "salesDate": "2015年12月20日",
-      "series": "",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101970003007",
-      "isbn": "9781505942323",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "FOR OVERSEAS",
-        "author": "",
-        "isbn": "",
-        "score": 168,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 12
-          }
-        ],
-        "source": "combined",
-        "rank": 21,
-        "originalTitle": "FOR OVERSEAS"
-      },
-      "ranking": {
-        "title": "FOR OVERSEAS",
-        "author": "",
-        "isbn": "",
-        "score": 168,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 12
-          }
-        ],
-        "source": "combined",
         "rank": 8
       }
     },
@@ -525,7 +523,8 @@
       "matchMeta": {
         "title": "なぜ日本が世界に必要なのか 文春新書",
         "author": "",
-        "score": 46,
+        "isbn": "",
+        "score": 164,
         "sources": [
           {
             "source": "kinokuniya",
@@ -534,8 +533,7 @@
           }
         ],
         "source": "combined",
-        "rank": 24,
-        "originalTitle": ""
+        "rank": 24
       },
       "ranking": {
         "title": "なぜ日本が世界に必要なのか 文春新書",
@@ -619,7 +617,8 @@
       "matchMeta": {
         "title": "春までのセンセイ",
         "author": "",
-        "score": 34,
+        "isbn": "",
+        "score": 161,
         "sources": [
           {
             "source": "kinokuniya",
@@ -629,7 +628,7 @@
         ],
         "source": "combined",
         "rank": 27,
-        "originalTitle": ""
+        "originalTitle": "春までのセンセイ"
       },
       "ranking": {
         "title": "春までのセンセイ",
@@ -789,53 +788,6 @@
       }
     },
     {
-      "id": "4310000858457",
-      "title": "多類婚姻譚",
-      "author": "凪良ゆう",
-      "publisher": "講談社",
-      "price": 2090,
-      "url": "https://books.rakuten.co.jp/rk/35543b7edf2e30ee99d978d6e6e59bdd/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9189/2000020649189.jpg?_ex=600x600",
-      "caption": "一緒に生きる。わかりあえないあなたと。\n一番近くにいる他人ーこいびとー。どうして結婚はこんなに難しくなってしまったのだろう。\n『流浪の月』『汝、星のごとく』で二度の本屋大賞を受賞した著者が描く、今そこにある愛のかたち。\nセクシュアリティ/ジェンダー、金銭感覚、世代間格差、成育環境……\nあらゆる価値観の対立の中で現代を生きるわたしたちの祈りと叫び。\n【凪良ゆう　コメント】\n「文芸書としては『星を編む』から２年半、ようやく新刊をお届けできます。\n今作は結婚について。\n婚姻譚と銘打ちながらも、婚姻への道のりがはてしなく遠い!!　これは果たして婚姻譚と言えるのか、と担当さん達と首をかしげる場面もありました。\n読んでくださった方たちと”現代の結婚”について語り合ってみたいです。」\n【収録作　紹介】\n「Thank you for your understanding」\n家族の期待に応え、ついに恋人と帰省する決意を固めた華。\n「Beautiful Dreamer」\n結婚したい。ありふれた夢のはずなのに、東京ではこんなにも遠い。\n「小鳥たち」\n離婚して、実家の書店を継いだ一葉。そこに偶然、初恋の人がやって来てーー。\n「Position Talk」\n入籍を目前にした男女。性差を越え、個としてわかり合える日は来るのか。\n「C'est la vie」\n仕事も恋も、魂を分けあった二人。だが、夢のような時間にはいつか終わりが来る。\n",
-      "salesDate": "2026年05月26日",
-      "series": "多類婚姻譚",
-      "reviewAverage": 4.24,
-      "reviewCount": 655,
-      "genreId": "101901",
-      "isbn": "4310000858457",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "多類婚姻譚",
-        "author": "凪良ゆう",
-        "score": 90,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 5
-          }
-        ],
-        "source": "combined",
-        "rank": 11,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "多類婚姻譚",
-        "author": "凪良ゆう",
-        "score": 90,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 5
-          }
-        ],
-        "source": "combined",
-        "rank": 15,
-        "originalTitle": ""
-      }
-    },
-    {
       "id": "7225000866451",
       "title": "悩みの本──あなたが本気で生きている証",
       "author": "高橋佳子",
@@ -878,7 +830,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16,
+        "rank": 15,
         "originalTitle": ""
       }
     },
@@ -925,7 +877,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17,
+        "rank": 16,
         "originalTitle": ""
       }
     }
@@ -938,8 +890,7 @@
       "6681316776900",
       "4320000867368",
       "4320000865495",
-      "4320000865494",
-      "4310000858457"
+      "4320000865494"
     ],
     "mystery": [
       "4320000935695",
@@ -948,6 +899,7 @@
     ],
     "sf": [],
     "business": [
+      "4524815633410",
       "4310000701877",
       "7225000866451"
     ],
@@ -985,7 +937,7 @@
   },
   "genreStatus": {
     "fiction": {
-      "matched": 8,
+      "matched": 7,
       "complete": true
     },
     "mystery": {
@@ -997,7 +949,7 @@
       "complete": true
     },
     "business": {
-      "matched": 2,
+      "matched": 3,
       "complete": true
     },
     "humanities": {

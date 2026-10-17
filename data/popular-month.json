@@ -4,10 +4,10 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-10-16T22:03:16.683Z",
-  "candidateCount": 38,
-  "baseMatched": 16,
-  "matched": 18,
+  "updatedAt": "2026-10-17T05:21:37.709Z",
+  "candidateCount": 37,
+  "baseMatched": 15,
+  "matched": 17,
   "addedMatches": 2,
   "unavailable": [],
   "snapshots": {
@@ -17,7 +17,7 @@
       "attribution": "紀伊國屋書店調べ",
       "sourceUrl": "https://www.kinokuniya.co.jp/disp/CKnRankingPageCList.jsp?dispNo=107002001001&vTp=m",
       "periodLabel": "マンスリー",
-      "updatedAt": "2026-10-16",
+      "updatedAt": "2026-10-17",
       "live": true,
       "items": [
         {
@@ -36,7 +36,7 @@
           "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
           "author": "",
           "isbn": "",
-          "rank": 5
+          "rank": 6
         },
         {
           "title": "未だ本能寺にあり",
@@ -78,7 +78,7 @@
           "title": "春までのセンセイ",
           "author": "",
           "isbn": "",
-          "rank": 18
+          "rank": 19
         }
       ]
     },
@@ -88,7 +88,7 @@
       "attribution": "トーハン調べ",
       "sourceUrl": "https://www.tohan.jp/bestsellers/2026_09_monthly/",
       "periodLabel": "月間",
-      "updatedAt": "2026-10-16",
+      "updatedAt": "2026-10-17",
       "live": true,
       "items": [
         {
@@ -102,12 +102,6 @@
           "author": "",
           "isbn": "",
           "rank": 6
-        },
-        {
-          "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
-          "author": "",
-          "isbn": "",
-          "rank": 10
         },
         {
           "title": "FOR OVERSEAS",
@@ -189,23 +183,24 @@
       "salesType": 0,
       "matchMeta": {
         "title": "イン・ザ・メガチャーチ",
-        "author": "朝井リョウ",
-        "score": 136,
+        "author": "",
+        "isbn": "",
+        "score": 340,
         "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 7
-          },
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
             "rank": 14
+          },
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 6
           }
         ],
         "source": "combined",
-        "rank": 2,
-        "originalTitle": ""
+        "rank": 4,
+        "originalTitle": "イン・ザ・メガチャーチ"
       },
       "ranking": {
         "title": "イン・ザ・メガチャーチ",
@@ -294,28 +289,28 @@
       "matchMeta": {
         "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
         "author": "",
-        "score": 90,
+        "score": 86,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 5
+            "rank": 6
           }
         ],
         "source": "combined",
-        "rank": 12,
+        "rank": 13,
         "originalTitle": ""
       },
       "ranking": {
         "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
         "author": "",
         "isbn": "",
-        "score": 175,
+        "score": 174,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 5
+            "rank": 6
           }
         ],
         "source": "combined",
@@ -417,53 +412,6 @@
       }
     },
     {
-      "id": "4524815633410",
-      "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
-      "author": "堀田 秀吾",
-      "publisher": "SBクリエイティブ",
-      "price": 1760,
-      "url": "https://books.rakuten.co.jp/rk/79a1d43cefcb3337b3e2363c5f00a07e/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1658/2000018091658.jpg?_ex=600x600",
-      "caption": "勉強・ダイエット・貯金・目標達成…は習慣化が10割\n仕事、ダイエット、健康管理、勉強、目標達成…すべて成功のカギは「習慣化」にあります。\nしかし間違った習慣を身につけてしまったらその代償は大きくなってしまいます。\n何をどう習慣化すればいいか、そのために重要になるのが「エビデンス」です。\n・もし「A」をしたら「B」をすると、あらかじめ決めておく\n・選択肢は必ず「3つ」用意しておく\n・常にポジティブな言葉を使うーつらさに対する耐性が高まる\n・52分間作業して、17分休憩するー生産性が高まるetc.\n本書は、ハーバード、スタンフォード、オックスフォード…などの研究機関において証明されたテクニックを112個紹介。\n見開き図解入りでわかりやすい。気になったテクニックからはじめられ、情報収集のためにも役立ち、また読みものとしても楽しめる一冊です。\n※カバー画像が異なる場合があります。\n",
-      "salesDate": "2025年07月02日",
-      "series": "",
-      "reviewAverage": 3.68,
-      "reviewCount": 395,
-      "genreId": "101905090",
-      "isbn": "4524815633410",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
-        "author": "",
-        "isbn": "",
-        "score": 170,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 17
-      },
-      "ranking": {
-        "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
-        "author": "",
-        "isbn": "",
-        "score": 170,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 7
-      }
-    },
-    {
       "id": "4310000936589",
       "title": "ソン・シギョンの本当に美味しい韓国グルメガイド　ＳＵＮＧ　ＳＩ　ＫＹＵＮＧ’ｓ　Ｄｅｅｐ　Ｋｏｒｅａ",
       "author": "ソン・シギョン",
@@ -507,7 +455,7 @@
           }
         ],
         "source": "combined",
-        "rank": 8
+        "rank": 7
       }
     },
     {
@@ -555,7 +503,7 @@
           }
         ],
         "source": "combined",
-        "rank": 9
+        "rank": 8
       }
     },
     {
@@ -602,7 +550,7 @@
           }
         ],
         "source": "combined",
-        "rank": 10
+        "rank": 9
       }
     },
     {
@@ -649,7 +597,7 @@
           }
         ],
         "source": "combined",
-        "rank": 11
+        "rank": 10
       }
     },
     {
@@ -687,16 +635,16 @@
         "title": "春までのセンセイ",
         "author": "",
         "isbn": "",
-        "score": 162,
+        "score": 161,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 18
+            "rank": 19
           }
         ],
         "source": "combined",
-        "rank": 12
+        "rank": 11
       }
     },
     {
@@ -742,7 +690,7 @@
           }
         ],
         "source": "combined",
-        "rank": 13,
+        "rank": 12,
         "originalTitle": ""
       }
     },
@@ -789,7 +737,7 @@
           }
         ],
         "source": "combined",
-        "rank": 14,
+        "rank": 13,
         "originalTitle": ""
       }
     },
@@ -836,7 +784,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15,
+        "rank": 14,
         "originalTitle": ""
       }
     },
@@ -883,7 +831,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16,
+        "rank": 15,
         "originalTitle": ""
       }
     },
@@ -930,7 +878,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17,
+        "rank": 16,
         "originalTitle": ""
       }
     },
@@ -977,7 +925,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18,
+        "rank": 17,
         "originalTitle": ""
       }
     }
@@ -1000,7 +948,6 @@
     ],
     "sf": [],
     "business": [
-      "4524815633410",
       "4310000701877",
       "7225000866451"
     ],
@@ -1050,7 +997,7 @@
       "complete": true
     },
     "business": {
-      "matched": 3,
+      "matched": 2,
       "complete": true
     },
     "humanities": {

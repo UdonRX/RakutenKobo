@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-10-17T21:20:09.820Z",
+  "updatedAt": "2026-10-18T05:31:15.226Z",
   "candidateCount": 37,
-  "baseMatched": 17,
-  "matched": 19,
-  "addedMatches": 2,
+  "baseMatched": 15,
+  "matched": 18,
+  "addedMatches": 3,
   "unavailable": [],
   "snapshots": {
     "kinokuniya": {
@@ -17,7 +17,7 @@
       "attribution": "紀伊國屋書店調べ",
       "sourceUrl": "https://www.kinokuniya.co.jp/disp/CKnRankingPageCList.jsp?dispNo=107002001001&vTp=m",
       "periodLabel": "マンスリー",
-      "updatedAt": "2026-10-17",
+      "updatedAt": "2026-10-18",
       "live": true,
       "items": [
         {
@@ -27,10 +27,16 @@
           "rank": 1
         },
         {
+          "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
+          "author": "",
+          "isbn": "",
+          "rank": 2
+        },
+        {
           "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
           "author": "",
           "isbn": "",
-          "rank": 6
+          "rank": 7
         },
         {
           "title": "未だ本能寺にあり",
@@ -48,31 +54,31 @@
           "title": "ソン・シギョンの本当に美味しい韓国グルメガイド - ＳＵＮＧ ＳＩ ＫＹＵＮＧ’ｓ Ｄｅｅｐ Ｋｏｒｅ 講談社ＭＯＯＫ",
           "author": "",
           "isbn": "",
-          "rank": 12
+          "rank": 13
         },
         {
           "title": "イン・ザ・メガチャーチ",
           "author": "",
           "isbn": "",
-          "rank": 14
-        },
-        {
-          "title": "なぜ日本が世界に必要なのか 文春新書",
-          "author": "",
-          "isbn": "",
-          "rank": 16
+          "rank": 15
         },
         {
           "title": "命の燃やし方",
           "author": "",
           "isbn": "",
-          "rank": 17
+          "rank": 16
+        },
+        {
+          "title": "なぜ日本が世界に必要なのか 文春新書",
+          "author": "",
+          "isbn": "",
+          "rank": 18
         },
         {
           "title": "春までのセンセイ",
           "author": "",
           "isbn": "",
-          "rank": 19
+          "rank": 20
         }
       ]
     },
@@ -82,7 +88,7 @@
       "attribution": "トーハン調べ",
       "sourceUrl": "https://www.tohan.jp/bestsellers/2026_09_monthly/",
       "periodLabel": "月間",
-      "updatedAt": "2026-10-17",
+      "updatedAt": "2026-10-18",
       "live": true,
       "items": [
         {
@@ -90,12 +96,6 @@
           "author": "",
           "isbn": "",
           "rank": 2
-        },
-        {
-          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-          "author": "",
-          "isbn": "",
-          "rank": 4
         },
         {
           "title": "イン･ザ･メガチャーチ",
@@ -190,7 +190,7 @@
       "matchMeta": {
         "title": "イン・ザ・メガチャーチ",
         "author": "朝井リョウ",
-        "score": 136,
+        "score": 132,
         "sources": [
           {
             "source": "tohan",
@@ -200,7 +200,7 @@
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 14
+            "rank": 15
           }
         ],
         "source": "combined",
@@ -211,12 +211,12 @@
         "title": "イン・ザ・メガチャーチ",
         "author": "",
         "isbn": "",
-        "score": 340,
+        "score": 339,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 14
+            "rank": 15
           },
           {
             "source": "tohan",
@@ -245,30 +245,30 @@
       "isbn": "4380000407898",
       "salesType": 0,
       "matchMeta": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-        "author": "林真理子",
-        "score": 94,
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 幻冬舎新書",
+        "author": "",
+        "score": 102,
         "sources": [
           {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 2
           }
         ],
         "source": "combined",
-        "rank": 9,
-        "originalTitle": ""
+        "rank": 6,
+        "originalTitle": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書"
       },
       "ranking": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
         "author": "",
         "isbn": "",
-        "score": 176,
+        "score": 178,
         "sources": [
           {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 2
           }
         ],
         "source": "combined",
@@ -294,28 +294,28 @@
       "matchMeta": {
         "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
         "author": "",
-        "score": 86,
+        "score": 82,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 6
+            "rank": 7
           }
         ],
         "source": "combined",
-        "rank": 13,
+        "rank": 14,
         "originalTitle": ""
       },
       "ranking": {
         "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
         "author": "",
         "isbn": "",
-        "score": 174,
+        "score": 173,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 6
+            "rank": 7
           }
         ],
         "source": "combined",
@@ -464,53 +464,6 @@
       }
     },
     {
-      "id": "4310000936589",
-      "title": "ソン・シギョンの本当に美味しい韓国グルメガイド　ＳＵＮＧ　ＳＩ　ＫＹＵＮＧ’ｓ　Ｄｅｅｐ　Ｋｏｒｅａ",
-      "author": "ソン・シギョン",
-      "publisher": "講談社",
-      "price": 2200,
-      "url": "https://books.rakuten.co.jp/rk/4374061cc5783b7593a3e194d7cabec4/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1514/2000021871514.jpg?_ex=600x600",
-      "caption": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。\n韓国の国民的人気歌手で、食通としても知られるソン・シギョン。\n自身のYouTubeチャンネルで人気を集めるグルメコンテンツ「モグルテンデ」が、待望の一冊に。\nソウルを中心に、ソン・シギョン自らが選んだ“本当においしい店”123店を厳選して紹介。\n韓国で撮り下ろした写真やロングインタビューも収録。\n観光客向けの定番店ではなく、「韓国で本当に美味しいものを食べたい」という人へ。\nソン・シギョンだからこそ案内できる、これまでにない韓国グルメガイドです。\n※この商品は紙の書籍のページを画像にした電子書籍です。文字だけを拡大することはできませんので、タブレットサイズの端末での閲読を推奨します。また、文字列のハイライトや検索、辞書の参照、引用などの機能も使用できません。\n",
-      "salesDate": "2026年10月01日",
-      "series": "ソン・シギョンの本当に美味しい韓国グルメガイド　ＳＵＮＧ　ＳＩ　ＫＹＵＮＧ’ｓ　Ｄｅｅｐ　Ｋｏｒｅａ",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101911",
-      "isbn": "4310000936589",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ソン・シギョンの本当に美味しい韓国グルメガイド - SUNG SI KYUNG’s Deep Kore 講談社MOOK",
-        "author": "",
-        "score": 62,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 12
-          }
-        ],
-        "source": "combined",
-        "rank": 22,
-        "originalTitle": "ソン・シギョンの本当に美味しい韓国グルメガイド - ＳＵＮＧ　ＳＩ　ＫＹＵＮＧ’ｓ　Ｄｅｅｐ　Ｋｏｒｅ 講談社ＭＯＯＫ"
-      },
-      "ranking": {
-        "title": "ソン・シギョンの本当に美味しい韓国グルメガイド - ＳＵＮＧ ＳＩ ＫＹＵＮＧ’ｓ Ｄｅｅｐ Ｋｏｒｅ 講談社ＭＯＯＫ",
-        "author": "",
-        "isbn": "",
-        "score": 168,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 12
-          }
-        ],
-        "source": "combined",
-        "rank": 8
-      }
-    },
-    {
       "id": "9781505942323",
       "title": "How to Start a Crown Agents for Overseas Governments and Administrations Business (Beginners Guide)",
       "author": "Leclair Jaquelyn",
@@ -554,54 +507,54 @@
           }
         ],
         "source": "combined",
-        "rank": 9
+        "rank": 8
       }
     },
     {
-      "id": "4390000016508",
-      "title": "なぜ日本が世界に必要なのか",
-      "author": "エマニュエル・トッド",
-      "publisher": "文藝春秋",
-      "price": 1100,
-      "url": "https://books.rakuten.co.jp/rk/d3380ef6b5d6352fb44783bb5e41c377/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5838/2000021745838.jpg?_ex=600x600",
-      "caption": "現代最高の知識人による唯一無二の日本論\n「自然人」らしさ、ユーモア、独自の言語が日本の強みだ！ーー現代最高の知識人による、最も今日的で画期的な「日本文明論＝地政学」。\n　世界の行く末は、第二次大戦の敗戦国である日独の選択にかかっている。対米追従を深めるドイツに対し、日本はどうするのか？\n　歴史的に「悪い選択」をしてきたドイツとは反対に、日本は「良い選択」をするだろうと歴史家として予測している。日本人の方がドイツ人よりもユーモアセンスがあるからだ。ユーモアセンスは、ドイツでは完全に破壊されてしまった。厳格なルター主義が、「人類の自然な能力」を根絶してしまったのだ。多くの戦争の原因となった「過剰な生真面目さ」がドイツを支配しているが、日本はそうではない。\n　日本には「この世の美しさと喜び」に幸せを感じる「自然人らしさ」が生き続けている。この点は、ドイツーー偉大な哲学者、物理学者、数学者を誇るが、硬直的で人間味に欠け、あまりに暗いドイツーーと大きく異なる。\n「自然人」はドイツでは死滅した。それゆえにこの国はナチズムを生みだしたが、日本には「自然な人間」「人間らしい人間」が今も存在している。だからこそ、日本人は戦争を拒否できると私は信じる。\n　もし日本がワシントンの圧力に抵抗するなら、その抵抗自体が世界の平和にもたらす利益は測り知れない。米国に対する日本の独立は「平和」に貢献するだろうーー「日本の対米自立」を世界が求めている。\n",
-      "salesDate": "2026年09月17日",
-      "series": "",
-      "reviewAverage": 3.5,
-      "reviewCount": 3,
-      "genreId": "101907009/101907005090",
-      "isbn": "4390000016508",
+      "id": "4310000936589",
+      "title": "ソン・シギョンの本当に美味しい韓国グルメガイド　ＳＵＮＧ　ＳＩ　ＫＹＵＮＧ’ｓ　Ｄｅｅｐ　Ｋｏｒｅａ",
+      "author": "ソン・シギョン",
+      "publisher": "講談社",
+      "price": 2200,
+      "url": "https://books.rakuten.co.jp/rk/4374061cc5783b7593a3e194d7cabec4/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1514/2000021871514.jpg?_ex=600x600",
+      "caption": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。\n韓国の国民的人気歌手で、食通としても知られるソン・シギョン。\n自身のYouTubeチャンネルで人気を集めるグルメコンテンツ「モグルテンデ」が、待望の一冊に。\nソウルを中心に、ソン・シギョン自らが選んだ“本当においしい店”123店を厳選して紹介。\n韓国で撮り下ろした写真やロングインタビューも収録。\n観光客向けの定番店ではなく、「韓国で本当に美味しいものを食べたい」という人へ。\nソン・シギョンだからこそ案内できる、これまでにない韓国グルメガイドです。\n※この商品は紙の書籍のページを画像にした電子書籍です。文字だけを拡大することはできませんので、タブレットサイズの端末での閲読を推奨します。また、文字列のハイライトや検索、辞書の参照、引用などの機能も使用できません。\n",
+      "salesDate": "2026年10月01日",
+      "series": "ソン・シギョンの本当に美味しい韓国グルメガイド　ＳＵＮＧ　ＳＩ　ＫＹＵＮＧ’ｓ　Ｄｅｅｐ　Ｋｏｒｅａ",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101911",
+      "isbn": "4310000936589",
       "salesType": 0,
       "matchMeta": {
-        "title": "なぜ日本が世界に必要なのか 文春新書",
+        "title": "ソン・シギョンの本当に美味しい韓国グルメガイド - SUNG SI KYUNG’s Deep Kore 講談社MOOK",
         "author": "",
-        "score": 46,
+        "score": 58,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 16
+            "rank": 13
           }
         ],
         "source": "combined",
-        "rank": 24,
-        "originalTitle": ""
+        "rank": 23,
+        "originalTitle": "ソン・シギョンの本当に美味しい韓国グルメガイド - ＳＵＮＧ　ＳＩ　ＫＹＵＮＧ’ｓ　Ｄｅｅｐ　Ｋｏｒｅ 講談社ＭＯＯＫ"
       },
       "ranking": {
-        "title": "なぜ日本が世界に必要なのか 文春新書",
+        "title": "ソン・シギョンの本当に美味しい韓国グルメガイド - ＳＵＮＧ ＳＩ ＫＹＵＮＧ’ｓ Ｄｅｅｐ Ｋｏｒｅ 講談社ＭＯＯＫ",
         "author": "",
         "isbn": "",
-        "score": 164,
+        "score": 167,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 16
+            "rank": 13
           }
         ],
         "source": "combined",
-        "rank": 10
+        "rank": 9
       }
     },
     {
@@ -623,28 +576,75 @@
       "matchMeta": {
         "title": "命の燃やし方",
         "author": "",
-        "score": 42,
+        "score": 46,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 17
+            "rank": 16
           }
         ],
         "source": "combined",
-        "rank": 25,
+        "rank": 24,
         "originalTitle": ""
       },
       "ranking": {
         "title": "命の燃やし方",
         "author": "",
         "isbn": "",
-        "score": 163,
+        "score": 164,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 17
+            "rank": 16
+          }
+        ],
+        "source": "combined",
+        "rank": 10
+      }
+    },
+    {
+      "id": "4390000016508",
+      "title": "なぜ日本が世界に必要なのか",
+      "author": "エマニュエル・トッド",
+      "publisher": "文藝春秋",
+      "price": 1100,
+      "url": "https://books.rakuten.co.jp/rk/d3380ef6b5d6352fb44783bb5e41c377/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5838/2000021745838.jpg?_ex=600x600",
+      "caption": "現代最高の知識人による唯一無二の日本論\n「自然人」らしさ、ユーモア、独自の言語が日本の強みだ！ーー現代最高の知識人による、最も今日的で画期的な「日本文明論＝地政学」。\n　世界の行く末は、第二次大戦の敗戦国である日独の選択にかかっている。対米追従を深めるドイツに対し、日本はどうするのか？\n　歴史的に「悪い選択」をしてきたドイツとは反対に、日本は「良い選択」をするだろうと歴史家として予測している。日本人の方がドイツ人よりもユーモアセンスがあるからだ。ユーモアセンスは、ドイツでは完全に破壊されてしまった。厳格なルター主義が、「人類の自然な能力」を根絶してしまったのだ。多くの戦争の原因となった「過剰な生真面目さ」がドイツを支配しているが、日本はそうではない。\n　日本には「この世の美しさと喜び」に幸せを感じる「自然人らしさ」が生き続けている。この点は、ドイツーー偉大な哲学者、物理学者、数学者を誇るが、硬直的で人間味に欠け、あまりに暗いドイツーーと大きく異なる。\n「自然人」はドイツでは死滅した。それゆえにこの国はナチズムを生みだしたが、日本には「自然な人間」「人間らしい人間」が今も存在している。だからこそ、日本人は戦争を拒否できると私は信じる。\n　もし日本がワシントンの圧力に抵抗するなら、その抵抗自体が世界の平和にもたらす利益は測り知れない。米国に対する日本の独立は「平和」に貢献するだろうーー「日本の対米自立」を世界が求めている。\n",
+      "salesDate": "2026年09月17日",
+      "series": "",
+      "reviewAverage": 3.5,
+      "reviewCount": 3,
+      "genreId": "101907009/101907005090",
+      "isbn": "4390000016508",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "なぜ日本が世界に必要なのか 文春新書",
+        "author": "",
+        "isbn": "",
+        "score": 162,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 18
+          }
+        ],
+        "source": "combined",
+        "rank": 26
+      },
+      "ranking": {
+        "title": "なぜ日本が世界に必要なのか 文春新書",
+        "author": "",
+        "isbn": "",
+        "score": 162,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 18
           }
         ],
         "source": "combined",
@@ -670,28 +670,28 @@
       "matchMeta": {
         "title": "春までのセンセイ",
         "author": "",
-        "score": 34,
+        "score": 30,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 19
+            "rank": 20
           }
         ],
         "source": "combined",
-        "rank": 27,
+        "rank": 28,
         "originalTitle": ""
       },
       "ranking": {
         "title": "春までのセンセイ",
         "author": "",
         "isbn": "",
-        "score": 161,
+        "score": 160,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 19
+            "rank": 20
           }
         ],
         "source": "combined",
@@ -887,53 +887,6 @@
       }
     },
     {
-      "id": "4390000015358",
-      "title": "青天",
-      "author": "若林正恭",
-      "publisher": "文藝春秋",
-      "price": 1900,
-      "url": "https://books.rakuten.co.jp/rk/a6fc1b8794af3eafb7f064fac9c68dfa/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0144/2000019330144.jpg?_ex=600x600",
-      "caption": "オードリー・若林正恭、初小説！\n人にぶつかっていないと、自分が生きているかどうかよくわからなくなるーー\n総大三高の「アリ」こと中村昴が所属するアメフト部は、万年２回戦どまり。相手校の練習を隠し撮りして迎えた高３の引退大会では、強豪・遼西学園に打ち破れた。引退後、みなが受験に向かうなか、勉強にも気持ちが入らず、不良になる覚悟もないまま宙ぶらりんの日々を過ごす。自分自身の不甲斐なさにもがき続けるなかで、アリは再びアメフトと向き合う決意を固める。\n青春の苦みと悦びに満ちた、著者渾身の初小説。\n",
-      "salesDate": "2026年02月20日",
-      "series": "",
-      "reviewAverage": 3.98,
-      "reviewCount": 635,
-      "genreId": "101901",
-      "isbn": "4390000015358",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "青天",
-        "author": "若林正恭",
-        "score": 78,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 15,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "青天",
-        "author": "若林正恭",
-        "score": 78,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 17,
-        "originalTitle": ""
-      }
-    },
-    {
       "id": "7225000866451",
       "title": "悩みの本──あなたが本気で生きている証",
       "author": "高橋佳子",
@@ -976,7 +929,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18,
+        "rank": 17,
         "originalTitle": ""
       }
     },
@@ -1023,7 +976,7 @@
           }
         ],
         "source": "combined",
-        "rank": 19,
+        "rank": 18,
         "originalTitle": ""
       }
     }
@@ -1037,8 +990,7 @@
       "4320000867368",
       "4320000865495",
       "4320000865494",
-      "4310000858457",
-      "4390000015358"
+      "4310000858457"
     ],
     "mystery": [
       "4320000935695",
@@ -1054,8 +1006,8 @@
     "humanities": [
       "4380000407898",
       "4390000014247",
-      "4390000016508",
       "4310000701877",
+      "4390000016508",
       "4320000867368",
       "7225000866451"
     ],
@@ -1085,7 +1037,7 @@
   },
   "genreStatus": {
     "fiction": {
-      "matched": 9,
+      "matched": 8,
       "complete": true
     },
     "mystery": {

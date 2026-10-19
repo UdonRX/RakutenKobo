@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-10-19T05:43:12.396Z",
-  "candidateCount": 38,
-  "baseMatched": 18,
-  "matched": 18,
-  "addedMatches": 0,
+  "updatedAt": "2026-10-19T14:20:13.742Z",
+  "candidateCount": 37,
+  "baseMatched": 16,
+  "matched": 19,
+  "addedMatches": 3,
   "unavailable": [],
   "snapshots": {
     "kinokuniya": {
@@ -92,63 +92,91 @@
       "id": "tohan",
       "label": "トーハン",
       "attribution": "トーハン調べ",
-      "sourceUrl": "https://www.tohan.jp/bestsellers/",
-      "periodLabel": "2026年6月期（確認済み最新月間スナップショット）",
-      "updatedAt": "2026-06",
-      "live": false,
+      "sourceUrl": "https://www.tohan.jp/bestsellers/2026_09_monthly/",
+      "periodLabel": "月間",
+      "updatedAt": "2026-10-19",
+      "live": true,
       "items": [
         {
-          "title": "GOAT Summer 2026",
+          "title": "パンどろぼうとさすらいラーメン",
           "author": "",
-          "isbn": "",
-          "rank": 1
-        },
-        {
-          "title": "ファイア・ドーム 上",
-          "author": "辻村深月",
           "isbn": "",
           "rank": 2
         },
         {
-          "title": "ファイア・ドーム 下",
-          "author": "辻村深月",
+          "title": "イン･ザ･メガチャーチ",
+          "author": "",
           "isbn": "",
-          "rank": 3
+          "rank": 6
         },
         {
-          "title": "多類婚姻譚",
-          "author": "凪良ゆう",
-          "isbn": "",
-          "rank": 5
-        },
-        {
-          "title": "イン・ザ・メガチャーチ",
-          "author": "朝井リョウ",
-          "isbn": "",
-          "rank": 7
-        },
-        {
-          "title": "青天",
-          "author": "若林正恭",
-          "isbn": "",
-          "rank": 8
-        },
-        {
-          "title": "悩みの本──あなたが本気で生きている証",
-          "author": "高橋佳子",
-          "isbn": "",
-          "rank": 9
-        },
-        {
-          "title": "NHK大河ドラマ・ガイド 豊臣兄弟! 後編",
+          "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
           "author": "",
           "isbn": "",
           "rank": 10
+        },
+        {
+          "title": "FOR OVERSEAS",
+          "author": "",
+          "isbn": "",
+          "rank": 12
         }
       ]
     }
   },
   "items": [
+    {
+      "id": "4335396900320",
+      "title": "パンどろぼうとさすらいラーメン",
+      "author": "柴田　ケイコ",
+      "publisher": "KADOKAWA",
+      "price": 1650,
+      "url": "https://books.rakuten.co.jp/rk/ced96eda0a863fdeae0a78fb0bf25801/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2405/2000021682405.jpg?_ex=600x600",
+      "caption": "とっても寒い“ぶるぶるじま”にやってきたパンどろぼう。できたてのパンをふるまおうとパン作りをはじめますが、窯の扉をあけようとした、その瞬間・・・＼＼＼ボフーーーン／／／パンが作れずこまっているところへさっそうと現れたのは、いったい、誰ーーー？ほかほかのパンとあつあつのラーメンが織りなす、熱血ハートフルストーリー開幕！「パンどろぼう」シリーズ待望の第8弾！\n",
+      "salesDate": "2026年09月16日",
+      "series": "パンどろぼう",
+      "reviewAverage": 4,
+      "reviewCount": 5,
+      "genreId": "101916",
+      "isbn": "4335396900320",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "パンどろぼうとさすらいラーメン",
+        "author": "",
+        "score": 106,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 1
+          }
+        ],
+        "source": "combined",
+        "rank": 4,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "パンどろぼうとさすらいラーメン",
+        "author": "",
+        "isbn": "",
+        "score": 357,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 1
+          },
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 2
+          }
+        ],
+        "source": "combined",
+        "rank": 1
+      }
+    },
     {
       "id": "4660629612104",
       "title": "イン・ザ・メガチャーチ",
@@ -187,9 +215,9 @@
       },
       "ranking": {
         "title": "イン・ザ・メガチャーチ",
-        "author": "朝井リョウ",
+        "author": "",
         "isbn": "",
-        "score": 337,
+        "score": 338,
         "sources": [
           {
             "source": "kinokuniya",
@@ -199,152 +227,11 @@
           {
             "source": "tohan",
             "label": "トーハン",
-            "rank": 7
-          }
-        ],
-        "source": "combined",
-        "rank": 1
-      }
-    },
-    {
-      "id": "4335396900320",
-      "title": "パンどろぼうとさすらいラーメン",
-      "author": "柴田　ケイコ",
-      "publisher": "KADOKAWA",
-      "price": 1650,
-      "url": "https://books.rakuten.co.jp/rk/ced96eda0a863fdeae0a78fb0bf25801/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2405/2000021682405.jpg?_ex=600x600",
-      "caption": "とっても寒い“ぶるぶるじま”にやってきたパンどろぼう。できたてのパンをふるまおうとパン作りをはじめますが、窯の扉をあけようとした、その瞬間・・・＼＼＼ボフーーーン／／／パンが作れずこまっているところへさっそうと現れたのは、いったい、誰ーーー？ほかほかのパンとあつあつのラーメンが織りなす、熱血ハートフルストーリー開幕！「パンどろぼう」シリーズ待望の第8弾！\n",
-      "salesDate": "2026年09月16日",
-      "series": "パンどろぼう",
-      "reviewAverage": 4,
-      "reviewCount": 5,
-      "genreId": "101916",
-      "isbn": "4335396900320",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "パンどろぼうとさすらいラーメン",
-        "author": "",
-        "score": 106,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 1
-          }
-        ],
-        "source": "combined",
-        "rank": 4,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "パンどろぼうとさすらいラーメン",
-        "author": "",
-        "isbn": "",
-        "score": 179,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 1
+            "rank": 6
           }
         ],
         "source": "combined",
         "rank": 2
-      }
-    },
-    {
-      "id": "4320000867368",
-      "title": "GOAT Summer 2026",
-      "author": "宮島未奈/尾崎世界観/山内マリコ/梨/麻布競馬場",
-      "publisher": "小学館",
-      "price": 506,
-      "url": "https://books.rakuten.co.jp/rk/f5b51183e72e30a7a80fcb62bd0705ba/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9590/2000020809590.jpg?_ex=600x600",
-      "caption": "大ヒット！話題沸騰の新文芸誌、第4号！\n〇特集「食」\n【小説】\n宮島未奈 尾崎世界観 山内マリコ 市川沙央 梨 麻布競馬場 山口未桜 前川知大 小田雅久仁 佐久間由衣 芦沢央 上條一輝 真下みこと 方丈貴恵 青柳碧人 中西智佐乃 三木三奈 村雲菜月\n【エッセイ】\n角田光代 酒徒 吉川トリコ\n【わたしの偏食 エッセイ】\n伊藤亜和 井上咲楽 けんた食堂 ジェーン・スー 絶対に終電を逃さない女 生湯葉シホ 福徳秀介 穂村弘 吉田恵里香 ヨシダナギ\n【食日記】\nでか美ちゃん\n【対談】\n山極壽一×平野紗季子\n藤原辰史×小林エリカ\n【自炊レッスン】\n山口祐加×ダ・ヴィンチ・恐山\n【私のGOAT本】\n宇多丸 宮部みゆき 山崎怜奈 米澤穂信\n【文学賞】\n第1回GO-mono長編文学賞 受賞作発表\n選考委員長:加藤シゲアキ\n【連載】\n藤ヶ谷太輔\n【ゴートアム短歌賞】\n俵万智×岸田繁\n【出せなかった手紙】\n荒井良二\n【ゴートくんがゆく！】\n印刷博物館編　インタビュー:京極夏彦館長\n【特集】『ファイア・ドーム』（辻村深月）\n他豪華企画多数！\n（底本　2026年6月発売作品）\n※底本綴じ込み付録の「ゴートくんのおべんとうしおり」は、電子書籍には含まれておりません。あらかじめご了承ください。\n※本電子書籍に掲載されている二次元バーコードは、端末の機種やアプリの仕様によっては読み取れない場合があります。その際はURLからアクセスしてください。\n※この作品はカラーが含まれます。\n",
-      "salesDate": "2026年06月10日",
-      "series": "GOAT",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101907015004/101907015001/101901002",
-      "isbn": "4320000867368",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "GOAT Summer 2026",
-        "author": "",
-        "score": 106,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 1
-          }
-        ],
-        "source": "combined",
-        "rank": 3,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "GOAT Summer 2026",
-        "author": "",
-        "isbn": "",
-        "score": 179,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 1
-          }
-        ],
-        "source": "combined",
-        "rank": 3
-      }
-    },
-    {
-      "id": "4320000865495",
-      "title": "ファイア・ドーム 上",
-      "author": "辻村深月",
-      "publisher": "小学館",
-      "price": 1881,
-      "url": "https://books.rakuten.co.jp/rk/22c26517c9353107819b56539afa6896/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1853/2000020771853.jpg?_ex=600x600",
-      "caption": "人はなぜ大きな事件に魅了されてしまうのか。\n噂は、軽薄な娯楽だ。\n25年前、平穏だったはずの地方都市は、百貨店受付嬢誘拐殺人事件の発生、その報道により揺り動かされ、「噂」という大量の炎が、加害者のみならず被害者にも降り注ぎ、燃えさかった。ようやく静けさを取り戻したかに見える町に燻り続ける因縁が、いま新たな事件を呼び起こすーー。\n「もう言われてるよ！　どうせ、親が殺したんだろうって！」ーー本文より\n",
-      "salesDate": "2026年06月05日",
-      "series": "ファイア・ドーム",
-      "reviewAverage": 4.57,
-      "reviewCount": 502,
-      "genreId": "101901/101902",
-      "isbn": "4320000865495",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ファイア・ドーム 上",
-        "author": "辻村深月",
-        "score": 102,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 2
-          }
-        ],
-        "source": "combined",
-        "rank": 5,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "ファイア・ドーム 上",
-        "author": "辻村深月",
-        "isbn": "",
-        "score": 178,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 2
-          }
-        ],
-        "source": "combined",
-        "rank": 4
       }
     },
     {
@@ -391,101 +278,7 @@
           }
         ],
         "source": "combined",
-        "rank": 5
-      }
-    },
-    {
-      "id": "4320000865494",
-      "title": "ファイア・ドーム 下",
-      "author": "辻村深月",
-      "publisher": "小学館",
-      "price": 1881,
-      "url": "https://books.rakuten.co.jp/rk/0cf87d9a77c93fe8a0124e6398a0aa4b/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1763/2000020771763.jpg?_ex=600x600",
-      "caption": "お前の家は、人殺しだ。\n真実を知っても、人は忘れていく。\n25年前の夏、この町には炎が降り注いだ。百貨店受付嬢誘拐殺人事件という、身近で突然起こった全国レベルのニュースを、誰もがいつまでも終わらせたくなかった。傷ついた人をさらに傷つけてしまった土地に、事件の火の粉は、まだ残っている。夏の日、写生遠足の帰りに姿を消した少年は無事に帰ってくるのか？　25年前の事件には、「まだ明かされていない」事実が本当にあるのか？\n「病気なんかで、死ねると思うな」ーー本文より\n",
-      "salesDate": "2026年06月05日",
-      "series": "ファイア・ドーム",
-      "reviewAverage": 4.61,
-      "reviewCount": 692,
-      "genreId": "101901/101902",
-      "isbn": "4320000865494",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ファイア・ドーム 下",
-        "author": "辻村深月",
-        "score": 98,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 3
-          }
-        ],
-        "source": "combined",
-        "rank": 7,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "ファイア・ドーム 下",
-        "author": "辻村深月",
-        "isbn": "",
-        "score": 177,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 3
-          }
-        ],
-        "source": "combined",
-        "rank": 6
-      }
-    },
-    {
-      "id": "4310000858457",
-      "title": "多類婚姻譚",
-      "author": "凪良ゆう",
-      "publisher": "講談社",
-      "price": 2090,
-      "url": "https://books.rakuten.co.jp/rk/35543b7edf2e30ee99d978d6e6e59bdd/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9189/2000020649189.jpg?_ex=600x600",
-      "caption": "一緒に生きる。わかりあえないあなたと。\n一番近くにいる他人ーこいびとー。どうして結婚はこんなに難しくなってしまったのだろう。\n『流浪の月』『汝、星のごとく』で二度の本屋大賞を受賞した著者が描く、今そこにある愛のかたち。\nセクシュアリティ/ジェンダー、金銭感覚、世代間格差、成育環境……\nあらゆる価値観の対立の中で現代を生きるわたしたちの祈りと叫び。\n【凪良ゆう　コメント】\n「文芸書としては『星を編む』から２年半、ようやく新刊をお届けできます。\n今作は結婚について。\n婚姻譚と銘打ちながらも、婚姻への道のりがはてしなく遠い!!　これは果たして婚姻譚と言えるのか、と担当さん達と首をかしげる場面もありました。\n読んでくださった方たちと”現代の結婚”について語り合ってみたいです。」\n【収録作　紹介】\n「Thank you for your understanding」\n家族の期待に応え、ついに恋人と帰省する決意を固めた華。\n「Beautiful Dreamer」\n結婚したい。ありふれた夢のはずなのに、東京ではこんなにも遠い。\n「小鳥たち」\n離婚して、実家の書店を継いだ一葉。そこに偶然、初恋の人がやって来てーー。\n「Position Talk」\n入籍を目前にした男女。性差を越え、個としてわかり合える日は来るのか。\n「C'est la vie」\n仕事も恋も、魂を分けあった二人。だが、夢のような時間にはいつか終わりが来る。\n",
-      "salesDate": "2026年05月26日",
-      "series": "多類婚姻譚",
-      "reviewAverage": 4.24,
-      "reviewCount": 655,
-      "genreId": "101901",
-      "isbn": "4310000858457",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "多類婚姻譚",
-        "author": "凪良ゆう",
-        "score": 90,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 5
-          }
-        ],
-        "source": "combined",
-        "rank": 11,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "多類婚姻譚",
-        "author": "凪良ゆう",
-        "isbn": "",
-        "score": 175,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 5
-          }
-        ],
-        "source": "combined",
-        "rank": 7
+        "rank": 3
       }
     },
     {
@@ -532,54 +325,7 @@
           }
         ],
         "source": "combined",
-        "rank": 8
-      }
-    },
-    {
-      "id": "4390000015358",
-      "title": "青天",
-      "author": "若林正恭",
-      "publisher": "文藝春秋",
-      "price": 1900,
-      "url": "https://books.rakuten.co.jp/rk/a6fc1b8794af3eafb7f064fac9c68dfa/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0144/2000019330144.jpg?_ex=600x600",
-      "caption": "オードリー・若林正恭、初小説！\n人にぶつかっていないと、自分が生きているかどうかよくわからなくなるーー\n総大三高の「アリ」こと中村昴が所属するアメフト部は、万年２回戦どまり。相手校の練習を隠し撮りして迎えた高３の引退大会では、強豪・遼西学園に打ち破れた。引退後、みなが受験に向かうなか、勉強にも気持ちが入らず、不良になる覚悟もないまま宙ぶらりんの日々を過ごす。自分自身の不甲斐なさにもがき続けるなかで、アリは再びアメフトと向き合う決意を固める。\n青春の苦みと悦びに満ちた、著者渾身の初小説。\n",
-      "salesDate": "2026年02月20日",
-      "series": "",
-      "reviewAverage": 3.98,
-      "reviewCount": 635,
-      "genreId": "101901",
-      "isbn": "4390000015358",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "青天",
-        "author": "若林正恭",
-        "score": 78,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 15,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "青天",
-        "author": "若林正恭",
-        "isbn": "",
-        "score": 172,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 9
+        "rank": 4
       }
     },
     {
@@ -626,54 +372,7 @@
           }
         ],
         "source": "combined",
-        "rank": 10
-      }
-    },
-    {
-      "id": "7225000866451",
-      "title": "悩みの本──あなたが本気で生きている証",
-      "author": "高橋佳子",
-      "publisher": "三宝出版",
-      "price": 1601,
-      "url": "https://books.rakuten.co.jp/rk/e51209b1a73e3e77aedbb241d2881782/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5897/2000020795897.jpg?_ex=600x600",
-      "caption": "人は皆、大なり小なり「悩み」をもっています。\n仕事、人間関係、家庭、健康、将来……。\nあなたは今、何に悩んでいるでしょうか？　その悩みが「早くなくなればいい」「早く解決してスッキリしたい」と思っているかもしれません。\nしかし、実は、「悩み」は、「あなたが本気で生きている証」です。\n本気で生きているからこそ、大切にしたい人やものがあるからこそ、悩む。\n本書は、そうした悩みを単に解決するのではなく、悩みの奥にある意味を見つめ直す本です。\n具体的には、以下の具体的な悩みをテーマに、10の章で構成されています。\n１．就職・転職の壁\n２．仕事での失敗\n３．職場の人間関係\n４．職場での評価\n５．夫婦関係の危機\n６．事業承継の問題\n７．後悔の連鎖\n８．運命への絶望\n９．病の不安\n10．死の恐怖\nこれらは多くの人が人生で直面する悩みです。本書はこれらを通して、なぜ悩みが生まれるのか、その奥にどんな意味があるのか、そこからどう新たな人生を始めることができるのかを見つめてゆきます。\nまた、実際に様々な悩みを経験した人が、どのようにその悩みに向き合い、どのように人生を変えていったのかという具体例も紹介されています。\n本書は、ただ悩みを解決するためのハウツー本ではありません。また、抽象的な人生論でもありません。悩みを通して人生そのものを読み直す本、想像もしなかった新たな人生の扉を開くための本です。\n本を読み終えたとき、きっと、「この悩みには意味があるのかもしれない」「そうか！この考え方いいな、好きだな」と感じていただけると思います。そこからあなたの新しい人生の旅路が始まります。\n",
-      "salesDate": "2026年06月06日",
-      "series": "悩みの本──あなたが本気で生きている証",
-      "reviewAverage": 3,
-      "reviewCount": 1,
-      "genreId": "101907004090/101907002002/101905016001",
-      "isbn": "7225000866451",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "悩みの本──あなたが本気で生きている証",
-        "author": "高橋佳子",
-        "score": 74,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 17,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "悩みの本──あなたが本気で生きている証",
-        "author": "高橋佳子",
-        "isbn": "",
-        "score": 171,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 11
+        "rank": 5
       }
     },
     {
@@ -720,42 +419,27 @@
           }
         ],
         "source": "combined",
-        "rank": 12
+        "rank": 6
       }
     },
     {
-      "id": "4479234030000",
-      "title": "豊臣兄弟！　後編",
-      "author": "八津弘幸/ＮＨＫドラマ制作班",
-      "publisher": "NHK出版",
-      "price": 1540,
-      "url": "https://books.rakuten.co.jp/rk/03955594478a34569322faf481fd73c8/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0762/2000020710762.jpg?_ex=600x600",
-      "caption": "兄弟の絆で天下を狙え！　2026年大河ドラマ「豊臣兄弟！」完全ガイド第2弾！\n仲野太賀主演・2026年大河ドラマ「豊臣兄弟！」。\nドラマをもっと楽しむためのガイドブック「後編」が登場！\n時は戦国乱世。時の戦国大名・織田信長に仕官して大出世を目指す兄の誘いに巻き込まれた小一郎は、知恵と勇気、そして持ち前の「調整力」を生かしながら、目の前に立ちはだかるハードミッションを兄との絶妙なコンビネーションで次々とクリアしていく。やがて小一郎は兄とともに、万民が笑って暮らせる太平の世を作るという夢を抱き始めーー。\n弟・秀長の視点で戦国時代をダイナミックに描く、夢と希望の下克上サクセスストーリー！\n＊電子書籍版ではプレゼントページほか、一部収録していないコンテンツがございます。あらかじめご了承ください。\n全3冊でお届けするドラマ・ガイドの第２弾「後編」では、主演・仲野太賀×吉岡里帆の撮り下ろし対談をはじめ、豪華出演者インタビューや物語中盤までのあらすじを掲載。さらに、タイトルバック徹底分析やマンガで読む秀長の生涯、豊臣しつもん箱、作家・今村翔吾さんに聞く戦国の兄弟たち特集、「本能寺の変」のヒミツに迫る歴史解説企画など充実の内容。美麗グラビア満載でお届けする、家族みんなで読めるフルカラー・ドラマガイド！　\n",
-      "salesDate": "2026年05月29日",
-      "series": "ＮＨＫ大河ドラマ・ガイド",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101913002",
-      "isbn": "4479234030000",
+      "id": "4524815633410",
+      "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
+      "author": "堀田 秀吾",
+      "publisher": "SBクリエイティブ",
+      "price": 1760,
+      "url": "https://books.rakuten.co.jp/rk/79a1d43cefcb3337b3e2363c5f00a07e/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1658/2000018091658.jpg?_ex=600x600",
+      "caption": "勉強・ダイエット・貯金・目標達成…は習慣化が10割\n仕事、ダイエット、健康管理、勉強、目標達成…すべて成功のカギは「習慣化」にあります。\nしかし間違った習慣を身につけてしまったらその代償は大きくなってしまいます。\n何をどう習慣化すればいいか、そのために重要になるのが「エビデンス」です。\n・もし「A」をしたら「B」をすると、あらかじめ決めておく\n・選択肢は必ず「3つ」用意しておく\n・常にポジティブな言葉を使うーつらさに対する耐性が高まる\n・52分間作業して、17分休憩するー生産性が高まるetc.\n本書は、ハーバード、スタンフォード、オックスフォード…などの研究機関において証明されたテクニックを112個紹介。\n見開き図解入りでわかりやすい。気になったテクニックからはじめられ、情報収集のためにも役立ち、また読みものとしても楽しめる一冊です。\n※カバー画像が異なる場合があります。\n",
+      "salesDate": "2025年07月02日",
+      "series": "",
+      "reviewAverage": 3.68,
+      "reviewCount": 395,
+      "genreId": "101905090",
+      "isbn": "4524815633410",
       "salesType": 0,
       "matchMeta": {
-        "title": "NHK大河ドラマ・ガイド 豊臣兄弟! 後編",
-        "author": "",
-        "score": 70,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 19,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "NHK大河ドラマ・ガイド 豊臣兄弟! 後編",
+        "title": "ハーバード、スタンフォード、オックスフォード... 科学的に証明された すごい習慣大百科",
         "author": "",
         "isbn": "",
         "score": 170,
@@ -767,7 +451,70 @@
           }
         ],
         "source": "combined",
-        "rank": 13
+        "rank": 17,
+        "originalTitle": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科"
+      },
+      "ranking": {
+        "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
+        "author": "",
+        "isbn": "",
+        "score": 170,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 7
+      }
+    },
+    {
+      "id": "9781505942323",
+      "title": "How to Start a Crown Agents for Overseas Governments and Administrations Business (Beginners Guide)",
+      "author": "Leclair Jaquelyn",
+      "publisher": "SamEnrico",
+      "price": 2515,
+      "url": "https://books.rakuten.co.jp/rk/da3f192a66453cb193c43421103700ab/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5952/2000020915952.jpg?_ex=600x600",
+      "caption": "This publication, published by SamEnrico, covers How to Start a Crown Agents for Overseas Governments and Administrations Business (Beginners Guide)\n",
+      "salesDate": "2015年12月20日",
+      "series": "",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101970003007",
+      "isbn": "9781505942323",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "FOR OVERSEAS",
+        "author": "",
+        "isbn": "",
+        "score": 168,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 12
+          }
+        ],
+        "source": "combined",
+        "rank": 21
+      },
+      "ranking": {
+        "title": "FOR OVERSEAS",
+        "author": "",
+        "isbn": "",
+        "score": 168,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 12
+          }
+        ],
+        "source": "combined",
+        "rank": 8
       }
     },
     {
@@ -814,7 +561,7 @@
           }
         ],
         "source": "combined",
-        "rank": 14
+        "rank": 9
       }
     },
     {
@@ -861,7 +608,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15
+        "rank": 10
       }
     },
     {
@@ -908,7 +655,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16
+        "rank": 11
       }
     },
     {
@@ -930,7 +677,8 @@
       "matchMeta": {
         "title": "春までのセンセイ",
         "author": "",
-        "score": 18,
+        "isbn": "",
+        "score": 157,
         "sources": [
           {
             "source": "kinokuniya",
@@ -939,8 +687,7 @@
           }
         ],
         "source": "combined",
-        "rank": 31,
-        "originalTitle": ""
+        "rank": 31
       },
       "ranking": {
         "title": "春までのセンセイ",
@@ -955,7 +702,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17
+        "rank": 12
       }
     },
     {
@@ -1002,40 +749,321 @@
           }
         ],
         "source": "combined",
-        "rank": 18
+        "rank": 13
+      }
+    },
+    {
+      "id": "4320000867368",
+      "title": "GOAT Summer 2026",
+      "author": "宮島未奈/尾崎世界観/山内マリコ/梨/麻布競馬場",
+      "publisher": "小学館",
+      "price": 506,
+      "url": "https://books.rakuten.co.jp/rk/f5b51183e72e30a7a80fcb62bd0705ba/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9590/2000020809590.jpg?_ex=600x600",
+      "caption": "大ヒット！話題沸騰の新文芸誌、第4号！\n〇特集「食」\n【小説】\n宮島未奈 尾崎世界観 山内マリコ 市川沙央 梨 麻布競馬場 山口未桜 前川知大 小田雅久仁 佐久間由衣 芦沢央 上條一輝 真下みこと 方丈貴恵 青柳碧人 中西智佐乃 三木三奈 村雲菜月\n【エッセイ】\n角田光代 酒徒 吉川トリコ\n【わたしの偏食 エッセイ】\n伊藤亜和 井上咲楽 けんた食堂 ジェーン・スー 絶対に終電を逃さない女 生湯葉シホ 福徳秀介 穂村弘 吉田恵里香 ヨシダナギ\n【食日記】\nでか美ちゃん\n【対談】\n山極壽一×平野紗季子\n藤原辰史×小林エリカ\n【自炊レッスン】\n山口祐加×ダ・ヴィンチ・恐山\n【私のGOAT本】\n宇多丸 宮部みゆき 山崎怜奈 米澤穂信\n【文学賞】\n第1回GO-mono長編文学賞 受賞作発表\n選考委員長:加藤シゲアキ\n【連載】\n藤ヶ谷太輔\n【ゴートアム短歌賞】\n俵万智×岸田繁\n【出せなかった手紙】\n荒井良二\n【ゴートくんがゆく！】\n印刷博物館編　インタビュー:京極夏彦館長\n【特集】『ファイア・ドーム』（辻村深月）\n他豪華企画多数！\n（底本　2026年6月発売作品）\n※底本綴じ込み付録の「ゴートくんのおべんとうしおり」は、電子書籍には含まれておりません。あらかじめご了承ください。\n※本電子書籍に掲載されている二次元バーコードは、端末の機種やアプリの仕様によっては読み取れない場合があります。その際はURLからアクセスしてください。\n※この作品はカラーが含まれます。\n",
+      "salesDate": "2026年06月10日",
+      "series": "GOAT",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101907015004/101907015001/101901002",
+      "isbn": "4320000867368",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "GOAT Summer 2026",
+        "author": "",
+        "score": 106,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 1
+          }
+        ],
+        "source": "combined",
+        "rank": 3,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "GOAT Summer 2026",
+        "author": "",
+        "score": 106,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 1
+          }
+        ],
+        "source": "combined",
+        "rank": 14,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "4320000865495",
+      "title": "ファイア・ドーム 上",
+      "author": "辻村深月",
+      "publisher": "小学館",
+      "price": 1881,
+      "url": "https://books.rakuten.co.jp/rk/22c26517c9353107819b56539afa6896/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1853/2000020771853.jpg?_ex=600x600",
+      "caption": "人はなぜ大きな事件に魅了されてしまうのか。\n噂は、軽薄な娯楽だ。\n25年前、平穏だったはずの地方都市は、百貨店受付嬢誘拐殺人事件の発生、その報道により揺り動かされ、「噂」という大量の炎が、加害者のみならず被害者にも降り注ぎ、燃えさかった。ようやく静けさを取り戻したかに見える町に燻り続ける因縁が、いま新たな事件を呼び起こすーー。\n「もう言われてるよ！　どうせ、親が殺したんだろうって！」ーー本文より\n",
+      "salesDate": "2026年06月05日",
+      "series": "ファイア・ドーム",
+      "reviewAverage": 4.57,
+      "reviewCount": 502,
+      "genreId": "101901/101902",
+      "isbn": "4320000865495",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ファイア・ドーム 上",
+        "author": "辻村深月",
+        "score": 102,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 2
+          }
+        ],
+        "source": "combined",
+        "rank": 5,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "ファイア・ドーム 上",
+        "author": "辻村深月",
+        "score": 102,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 2
+          }
+        ],
+        "source": "combined",
+        "rank": 15,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "4310000858457",
+      "title": "多類婚姻譚",
+      "author": "凪良ゆう",
+      "publisher": "講談社",
+      "price": 2090,
+      "url": "https://books.rakuten.co.jp/rk/35543b7edf2e30ee99d978d6e6e59bdd/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9189/2000020649189.jpg?_ex=600x600",
+      "caption": "一緒に生きる。わかりあえないあなたと。\n一番近くにいる他人ーこいびとー。どうして結婚はこんなに難しくなってしまったのだろう。\n『流浪の月』『汝、星のごとく』で二度の本屋大賞を受賞した著者が描く、今そこにある愛のかたち。\nセクシュアリティ/ジェンダー、金銭感覚、世代間格差、成育環境……\nあらゆる価値観の対立の中で現代を生きるわたしたちの祈りと叫び。\n【凪良ゆう　コメント】\n「文芸書としては『星を編む』から２年半、ようやく新刊をお届けできます。\n今作は結婚について。\n婚姻譚と銘打ちながらも、婚姻への道のりがはてしなく遠い!!　これは果たして婚姻譚と言えるのか、と担当さん達と首をかしげる場面もありました。\n読んでくださった方たちと”現代の結婚”について語り合ってみたいです。」\n【収録作　紹介】\n「Thank you for your understanding」\n家族の期待に応え、ついに恋人と帰省する決意を固めた華。\n「Beautiful Dreamer」\n結婚したい。ありふれた夢のはずなのに、東京ではこんなにも遠い。\n「小鳥たち」\n離婚して、実家の書店を継いだ一葉。そこに偶然、初恋の人がやって来てーー。\n「Position Talk」\n入籍を目前にした男女。性差を越え、個としてわかり合える日は来るのか。\n「C'est la vie」\n仕事も恋も、魂を分けあった二人。だが、夢のような時間にはいつか終わりが来る。\n",
+      "salesDate": "2026年05月26日",
+      "series": "多類婚姻譚",
+      "reviewAverage": 4.24,
+      "reviewCount": 655,
+      "genreId": "101901",
+      "isbn": "4310000858457",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "多類婚姻譚",
+        "author": "凪良ゆう",
+        "score": 90,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
+        "rank": 11,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "多類婚姻譚",
+        "author": "凪良ゆう",
+        "score": 90,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
+        "rank": 16,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "4390000015358",
+      "title": "青天",
+      "author": "若林正恭",
+      "publisher": "文藝春秋",
+      "price": 1900,
+      "url": "https://books.rakuten.co.jp/rk/a6fc1b8794af3eafb7f064fac9c68dfa/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0144/2000019330144.jpg?_ex=600x600",
+      "caption": "オードリー・若林正恭、初小説！\n人にぶつかっていないと、自分が生きているかどうかよくわからなくなるーー\n総大三高の「アリ」こと中村昴が所属するアメフト部は、万年２回戦どまり。相手校の練習を隠し撮りして迎えた高３の引退大会では、強豪・遼西学園に打ち破れた。引退後、みなが受験に向かうなか、勉強にも気持ちが入らず、不良になる覚悟もないまま宙ぶらりんの日々を過ごす。自分自身の不甲斐なさにもがき続けるなかで、アリは再びアメフトと向き合う決意を固める。\n青春の苦みと悦びに満ちた、著者渾身の初小説。\n",
+      "salesDate": "2026年02月20日",
+      "series": "",
+      "reviewAverage": 3.98,
+      "reviewCount": 635,
+      "genreId": "101901",
+      "isbn": "4390000015358",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "青天",
+        "author": "若林正恭",
+        "score": 78,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 15,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "青天",
+        "author": "若林正恭",
+        "score": 78,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 17,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "7225000866451",
+      "title": "悩みの本──あなたが本気で生きている証",
+      "author": "高橋佳子",
+      "publisher": "三宝出版",
+      "price": 1601,
+      "url": "https://books.rakuten.co.jp/rk/e51209b1a73e3e77aedbb241d2881782/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5897/2000020795897.jpg?_ex=600x600",
+      "caption": "人は皆、大なり小なり「悩み」をもっています。\n仕事、人間関係、家庭、健康、将来……。\nあなたは今、何に悩んでいるでしょうか？　その悩みが「早くなくなればいい」「早く解決してスッキリしたい」と思っているかもしれません。\nしかし、実は、「悩み」は、「あなたが本気で生きている証」です。\n本気で生きているからこそ、大切にしたい人やものがあるからこそ、悩む。\n本書は、そうした悩みを単に解決するのではなく、悩みの奥にある意味を見つめ直す本です。\n具体的には、以下の具体的な悩みをテーマに、10の章で構成されています。\n１．就職・転職の壁\n２．仕事での失敗\n３．職場の人間関係\n４．職場での評価\n５．夫婦関係の危機\n６．事業承継の問題\n７．後悔の連鎖\n８．運命への絶望\n９．病の不安\n10．死の恐怖\nこれらは多くの人が人生で直面する悩みです。本書はこれらを通して、なぜ悩みが生まれるのか、その奥にどんな意味があるのか、そこからどう新たな人生を始めることができるのかを見つめてゆきます。\nまた、実際に様々な悩みを経験した人が、どのようにその悩みに向き合い、どのように人生を変えていったのかという具体例も紹介されています。\n本書は、ただ悩みを解決するためのハウツー本ではありません。また、抽象的な人生論でもありません。悩みを通して人生そのものを読み直す本、想像もしなかった新たな人生の扉を開くための本です。\n本を読み終えたとき、きっと、「この悩みには意味があるのかもしれない」「そうか！この考え方いいな、好きだな」と感じていただけると思います。そこからあなたの新しい人生の旅路が始まります。\n",
+      "salesDate": "2026年06月06日",
+      "series": "悩みの本──あなたが本気で生きている証",
+      "reviewAverage": 3,
+      "reviewCount": 1,
+      "genreId": "101907004090/101907002002/101905016001",
+      "isbn": "7225000866451",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "悩みの本──あなたが本気で生きている証",
+        "author": "高橋佳子",
+        "score": 74,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 17,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "悩みの本──あなたが本気で生きている証",
+        "author": "高橋佳子",
+        "score": 74,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 18,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "4479234030000",
+      "title": "豊臣兄弟！　後編",
+      "author": "八津弘幸/ＮＨＫドラマ制作班",
+      "publisher": "NHK出版",
+      "price": 1540,
+      "url": "https://books.rakuten.co.jp/rk/03955594478a34569322faf481fd73c8/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0762/2000020710762.jpg?_ex=600x600",
+      "caption": "兄弟の絆で天下を狙え！　2026年大河ドラマ「豊臣兄弟！」完全ガイド第2弾！\n仲野太賀主演・2026年大河ドラマ「豊臣兄弟！」。\nドラマをもっと楽しむためのガイドブック「後編」が登場！\n時は戦国乱世。時の戦国大名・織田信長に仕官して大出世を目指す兄の誘いに巻き込まれた小一郎は、知恵と勇気、そして持ち前の「調整力」を生かしながら、目の前に立ちはだかるハードミッションを兄との絶妙なコンビネーションで次々とクリアしていく。やがて小一郎は兄とともに、万民が笑って暮らせる太平の世を作るという夢を抱き始めーー。\n弟・秀長の視点で戦国時代をダイナミックに描く、夢と希望の下克上サクセスストーリー！\n＊電子書籍版ではプレゼントページほか、一部収録していないコンテンツがございます。あらかじめご了承ください。\n全3冊でお届けするドラマ・ガイドの第２弾「後編」では、主演・仲野太賀×吉岡里帆の撮り下ろし対談をはじめ、豪華出演者インタビューや物語中盤までのあらすじを掲載。さらに、タイトルバック徹底分析やマンガで読む秀長の生涯、豊臣しつもん箱、作家・今村翔吾さんに聞く戦国の兄弟たち特集、「本能寺の変」のヒミツに迫る歴史解説企画など充実の内容。美麗グラビア満載でお届けする、家族みんなで読めるフルカラー・ドラマガイド！　\n",
+      "salesDate": "2026年05月29日",
+      "series": "ＮＨＫ大河ドラマ・ガイド",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101913002",
+      "isbn": "4479234030000",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "NHK大河ドラマ・ガイド 豊臣兄弟! 後編",
+        "author": "",
+        "score": 70,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 19,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "NHK大河ドラマ・ガイド 豊臣兄弟! 後編",
+        "author": "",
+        "score": 70,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 19,
+        "originalTitle": ""
       }
     }
   ],
   "byGenre": {
     "fiction": [
       "4660629612104",
+      "4380000408000",
+      "4320000935695",
+      "6681316776900",
       "4320000867368",
       "4320000865495",
-      "4320000865494",
       "4310000858457",
-      "4380000408000",
-      "4390000015358",
-      "4320000935695",
-      "6681316776900"
+      "4390000015358"
     ],
     "mystery": [
-      "4320000865495",
-      "4320000865494",
-      "4320000935695"
+      "4320000935695",
+      "4320000865495"
     ],
     "sf": [],
     "business": [
-      "7225000866451",
-      "4310000701877"
+      "4524815633410",
+      "4310000701877",
+      "7225000866451"
     ],
     "humanities": [
-      "4320000867368",
       "4380000407898",
       "4390000014247",
-      "7225000866451",
       "4310000701877",
       "4390000016508",
-      "4910000858569"
+      "4910000858569",
+      "4320000867368",
+      "7225000866451"
     ],
     "nonfiction": [
       "4390000014247"
@@ -1063,11 +1091,11 @@
   },
   "genreStatus": {
     "fiction": {
-      "matched": 9,
+      "matched": 8,
       "complete": true
     },
     "mystery": {
-      "matched": 3,
+      "matched": 2,
       "complete": true
     },
     "sf": {
@@ -1075,7 +1103,7 @@
       "complete": true
     },
     "business": {
-      "matched": 2,
+      "matched": 3,
       "complete": true
     },
     "humanities": {

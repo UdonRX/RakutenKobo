@@ -4,10 +4,10 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-10-20T05:42:11.426Z",
+  "updatedAt": "2026-10-20T12:32:53.093Z",
   "candidateCount": 38,
-  "baseMatched": 15,
-  "matched": 17,
+  "baseMatched": 17,
+  "matched": 19,
   "addedMatches": 2,
   "unavailable": [],
   "snapshots": {
@@ -108,6 +108,12 @@
           "author": "",
           "isbn": "",
           "rank": 6
+        },
+        {
+          "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
+          "author": "",
+          "isbn": "",
+          "rank": 10
         },
         {
           "title": "FOR OVERSEAS",
@@ -417,6 +423,53 @@
       }
     },
     {
+      "id": "4524815633410",
+      "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
+      "author": "堀田 秀吾",
+      "publisher": "SBクリエイティブ",
+      "price": 1760,
+      "url": "https://books.rakuten.co.jp/rk/79a1d43cefcb3337b3e2363c5f00a07e/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1658/2000018091658.jpg?_ex=600x600",
+      "caption": "勉強・ダイエット・貯金・目標達成…は習慣化が10割\n仕事、ダイエット、健康管理、勉強、目標達成…すべて成功のカギは「習慣化」にあります。\nしかし間違った習慣を身につけてしまったらその代償は大きくなってしまいます。\n何をどう習慣化すればいいか、そのために重要になるのが「エビデンス」です。\n・もし「A」をしたら「B」をすると、あらかじめ決めておく\n・選択肢は必ず「3つ」用意しておく\n・常にポジティブな言葉を使うーつらさに対する耐性が高まる\n・52分間作業して、17分休憩するー生産性が高まるetc.\n本書は、ハーバード、スタンフォード、オックスフォード…などの研究機関において証明されたテクニックを112個紹介。\n見開き図解入りでわかりやすい。気になったテクニックからはじめられ、情報収集のためにも役立ち、また読みものとしても楽しめる一冊です。\n※カバー画像が異なる場合があります。\n",
+      "salesDate": "2025年07月02日",
+      "series": "",
+      "reviewAverage": 3.68,
+      "reviewCount": 395,
+      "genreId": "101905090",
+      "isbn": "4524815633410",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
+        "author": "",
+        "isbn": "",
+        "score": 170,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 17
+      },
+      "ranking": {
+        "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
+        "author": "",
+        "isbn": "",
+        "score": 170,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 7
+      }
+    },
+    {
       "id": "9781505942323",
       "title": "How to Start a Crown Agents for Overseas Governments and Administrations Business (Beginners Guide)",
       "author": "Leclair Jaquelyn",
@@ -445,7 +498,8 @@
           }
         ],
         "source": "combined",
-        "rank": 21
+        "rank": 21,
+        "originalTitle": "FOR OVERSEAS"
       },
       "ranking": {
         "title": "FOR OVERSEAS",
@@ -460,7 +514,7 @@
           }
         ],
         "source": "combined",
-        "rank": 7
+        "rank": 8
       }
     },
     {
@@ -507,7 +561,7 @@
           }
         ],
         "source": "combined",
-        "rank": 8
+        "rank": 9
       }
     },
     {
@@ -529,8 +583,7 @@
       "matchMeta": {
         "title": "命の燃やし方",
         "author": "",
-        "isbn": "",
-        "score": 163,
+        "score": 42,
         "sources": [
           {
             "source": "kinokuniya",
@@ -540,7 +593,7 @@
         ],
         "source": "combined",
         "rank": 26,
-        "originalTitle": "命の燃やし方"
+        "originalTitle": ""
       },
       "ranking": {
         "title": "命の燃やし方",
@@ -555,7 +608,7 @@
           }
         ],
         "source": "combined",
-        "rank": 9
+        "rank": 10
       }
     },
     {
@@ -602,7 +655,7 @@
           }
         ],
         "source": "combined",
-        "rank": 10
+        "rank": 11
       }
     },
     {
@@ -649,7 +702,7 @@
           }
         ],
         "source": "combined",
-        "rank": 11
+        "rank": 12
       }
     },
     {
@@ -696,7 +749,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12
+        "rank": 13
       }
     },
     {
@@ -742,7 +795,54 @@
           }
         ],
         "source": "combined",
-        "rank": 13,
+        "rank": 14,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "4320000865495",
+      "title": "ファイア・ドーム 上",
+      "author": "辻村深月",
+      "publisher": "小学館",
+      "price": 1881,
+      "url": "https://books.rakuten.co.jp/rk/22c26517c9353107819b56539afa6896/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1853/2000020771853.jpg?_ex=600x600",
+      "caption": "人はなぜ大きな事件に魅了されてしまうのか。\n噂は、軽薄な娯楽だ。\n25年前、平穏だったはずの地方都市は、百貨店受付嬢誘拐殺人事件の発生、その報道により揺り動かされ、「噂」という大量の炎が、加害者のみならず被害者にも降り注ぎ、燃えさかった。ようやく静けさを取り戻したかに見える町に燻り続ける因縁が、いま新たな事件を呼び起こすーー。\n「もう言われてるよ！　どうせ、親が殺したんだろうって！」ーー本文より\n",
+      "salesDate": "2026年06月05日",
+      "series": "ファイア・ドーム",
+      "reviewAverage": 4.57,
+      "reviewCount": 502,
+      "genreId": "101901/101902",
+      "isbn": "4320000865495",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ファイア・ドーム 上",
+        "author": "辻村深月",
+        "score": 102,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 2
+          }
+        ],
+        "source": "combined",
+        "rank": 5,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "ファイア・ドーム 上",
+        "author": "辻村深月",
+        "score": 102,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 2
+          }
+        ],
+        "source": "combined",
+        "rank": 15,
         "originalTitle": ""
       }
     },
@@ -789,7 +889,7 @@
           }
         ],
         "source": "combined",
-        "rank": 14,
+        "rank": 16,
         "originalTitle": ""
       }
     },
@@ -836,7 +936,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15,
+        "rank": 17,
         "originalTitle": ""
       }
     },
@@ -883,7 +983,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16,
+        "rank": 18,
         "originalTitle": ""
       }
     },
@@ -930,7 +1030,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17,
+        "rank": 19,
         "originalTitle": ""
       }
     }
@@ -942,15 +1042,18 @@
       "4320000935695",
       "4320000935691",
       "4320000867368",
+      "4320000865495",
       "4320000865494",
       "4310000858457"
     ],
     "mystery": [
       "4320000935695",
+      "4320000865495",
       "4320000865494"
     ],
     "sf": [],
     "business": [
+      "4524815633410",
       "4310000701877",
       "7225000866451"
     ],
@@ -989,11 +1092,11 @@
   },
   "genreStatus": {
     "fiction": {
-      "matched": 7,
+      "matched": 8,
       "complete": true
     },
     "mystery": {
-      "matched": 2,
+      "matched": 3,
       "complete": true
     },
     "sf": {
@@ -1001,7 +1104,7 @@
       "complete": true
     },
     "business": {
-      "matched": 2,
+      "matched": 3,
       "complete": true
     },
     "humanities": {

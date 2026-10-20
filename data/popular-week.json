@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-10-20T17:51:01.819Z",
+  "updatedAt": "2026-10-20T22:12:03.133Z",
   "candidateCount": 82,
-  "baseMatched": 36,
-  "matched": 46,
-  "addedMatches": 10,
+  "baseMatched": 33,
+  "matched": 48,
+  "addedMatches": 15,
   "unavailable": [
     "rakuten"
   ],
@@ -290,6 +290,12 @@
           "rank": 6
         },
         {
+          "title": "私のカントリー NO.125",
+          "author": "",
+          "isbn": "",
+          "rank": 8
+        },
+        {
           "title": "anan No.2514 Special Edition",
           "author": "",
           "isbn": "",
@@ -313,39 +319,34 @@
       "live": true,
       "items": [
         {
-          "title": "園芸家12カ月",
-          "author": "カレル・チャペック/小松太郎",
-          "rank": 4
+          "title": "ONE PIECE　116",
+          "author": "尾田 栄一郎",
+          "rank": 1
         },
         {
           "title": "暁のヨナ 48",
           "author": "草凪 みずほ",
-          "rank": 9
+          "rank": 7
         },
         {
-          "title": "ホタルの嫁入り（13）",
-          "author": "橘 オレコ",
+          "title": "名探偵コナン（109）",
+          "author": "青山 剛昌",
           "rank": 12
         },
         {
-          "title": "神の国日本の食と霊性 神々と繋がり身魂を磨く最高の叡智",
-          "author": "森井啓二",
-          "rank": 13
-        },
-        {
-          "title": "汝、星のごとく",
-          "author": "凪良 ゆう",
-          "rank": 15
+          "title": "キングダム 81",
+          "author": "原 泰久",
+          "rank": 14
         },
         {
           "title": "SPY×FAMILY 18",
           "author": "遠藤 達哉",
-          "rank": 16
+          "rank": 15
         },
         {
-          "title": "ちいかわ　なんか小さくてかわいいやつ（8）",
-          "author": "ナガノ",
-          "rank": 24
+          "title": "汝、星のごとく",
+          "author": "凪良 ゆう",
+          "rank": 23
         }
       ]
     }
@@ -370,22 +371,28 @@
       "matchMeta": {
         "title": "パンどろぼうとさすらいラーメン",
         "author": "柴田 ケイコ",
-        "score": 120,
+        "isbn": "",
+        "score": 513,
         "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 24
+          },
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
             "rank": 1
           },
           {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 24
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 2
           }
         ],
         "source": "combined",
-        "rank": 6,
-        "originalTitle": ""
+        "rank": 2,
+        "originalTitle": "パンどろぼうとさすらいラーメン"
       },
       "ranking": {
         "title": "パンどろぼうとさすらいラーメン",
@@ -489,12 +496,12 @@
       "matchMeta": {
         "title": "汝、星のごとく",
         "author": "凪良 ゆう",
-        "score": 144,
+        "score": 112,
         "sources": [
           {
             "source": "rakuten",
             "label": "楽天ブックス",
-            "rank": 15
+            "rank": 23
           },
           {
             "source": "kinokuniya",
@@ -510,7 +517,7 @@
         "title": "汝、星のごとく",
         "author": "凪良 ゆう",
         "isbn": "",
-        "score": 341,
+        "score": 333,
         "sources": [
           {
             "source": "kinokuniya",
@@ -520,7 +527,7 @@
           {
             "source": "rakuten",
             "label": "楽天ブックス",
-            "rank": 15
+            "rank": 23
           }
         ],
         "source": "combined",
@@ -528,56 +535,46 @@
       }
     },
     {
-      "id": "1230008888051",
-      "title": "神の国日本の食と霊性　神々と繋がり身魂を磨く最高の叡智",
-      "author": "森井啓二",
-      "publisher": "株式会社きれい・ねっと",
-      "price": 1760,
-      "url": "https://books.rakuten.co.jp/rk/1f57b169e2ea30e29e1302b4f6ac9972/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3297/2000017353297.jpg?_ex=600x600",
-      "caption": "「清らかな食」が魂を磨く──神々とつながる日本の食文化の叡智を解き明かす一冊\n▼もくじ\n第１章 食事は神事\n・御食事は御神事\n・清浄な心身を創る「聖なる賜物」\n・霊人と霊食\n・食事は神聖な護摩焚き\n・地球上で唯一「調理」をする生き物\n・霊性進化を加速させる行動\n・言葉を超えた真言「いただきます」\n・「当たり前」という心の枠を外す\n・食材という「命」\n・喫茶喫飯を実践する\n・食材と心が融合する三徳六味\n・美しい波動を料理に移す心構え\n第２章 霊性を高める食\n・自分の心と身体の声を聴く\n・声を聴いてはならない部位\n・動物たちの食\n・肉食と植物食\n・日本人の腸と肉食\n・傾腸ー腸からのお便りを大切に\n・大自然の一部である野菜の力\n・健康寿命に影響を与える酵素\n・食事の基本はよく噛むこと\n・食べ物を消化する時間\n・人と共存共進化する腸内細菌\n・繋がり合う脳と腸と微生物\n・「アーユルヴェーダ」の知恵\n・霊性を最大限に引き出す浄化食\n・何のために長生きするのか？\n第３章 日本の食と霊性\n・風土に合った食生活\n・旬の食材を味わう\n・自然界と人とを繋ぐ旬の食材\n・瑞穂の国のお米の力\n・稲の不思議\n・醤油 日本を代表する発酵調味料\n・味噌 百薬の毒を消すもの\n・塩 鉱物界由来のミネラル源\n・酢 病気の治療にも用いられる調味料\n・砂糖 本物の糖を選ぶことが肝心\n・油 適切な摂取が大切\n・大豆 和食の土台となる食材\n・漬物 保存性の高い魅力的な食材\n・梅干 健康に必須の食材\n・海藻 日本人に適した優れた食材\n・鰹節 世界一硬い食品\n・水 物質世界における万物の母体\n・日本茶 日本人に合う大切な飲み物\n・米麹甘酒 栄養が詰まった「飲む点滴」\n・日本酒 神様への尊い捧げもの\n第４章 霊性進化の危機\n・現代型栄養失調に陥る人々\n・肉 現代社会の食肉事情を知る\n・加工肉 人の舌を狂わせる魅力\n・牛乳 伝統食と現代食の象徴\n・清涼飲料水 甘さの中に危険が潜む\n・アルコール飲料 惟神の道を歩む人の足枷\n・多用されるレトルト食品と冷凍食品\n・消費者の意識が問われる食品添加物\n・出来るだけ避けたい添加物\n・遺伝子組み換え食品とゲノム編集食品\n・農薬と化学肥料に依存する日本\n・情報過多が生んだ偏食傾向\n第５章 神と共にあるために\n・食の節制で五感と欲望を制御する\n・断食 神と共に過ごす時間\n・不食とは自然に起こるもの\nおわりに 美しい食が美しい世界を創る\n",
-      "salesDate": "2025年03月28日",
-      "series": "",
-      "reviewAverage": 4.67,
-      "reviewCount": 3,
-      "genreId": "101909006/101909004/101907002002/101914",
-      "isbn": "1230008888051",
+      "id": "9782331056031",
+      "title": "One Piece édition originale - Chapitre 116",
+      "author": "Eiichiro Oda",
+      "publisher": "Glénat Manga",
+      "price": 110,
+      "url": "https://books.rakuten.co.jp/rk/2a84f0cc18e03a1b9c896c01d88d9fa1/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9368/2000020559368.jpg?_ex=600x600",
+      "caption": "Les aventures de Luffy à la poursuite du One Piece continuent !\n",
+      "salesDate": "2022年06月15日",
+      "series": "One Piece Chapitres",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101970004011",
+      "isbn": "9782331056031",
       "salesType": 0,
       "matchMeta": {
-        "title": "神の国日本の食と霊性 神々と繋がり身魂を磨く最高の叡智",
-        "author": "森井啓二",
-        "score": 144,
+        "title": "ONE PIECE 116",
+        "author": "尾田 栄一郎",
+        "score": 106,
         "sources": [
           {
             "source": "rakuten",
             "label": "楽天ブックス",
-            "rank": 13
-          },
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 6
+            "rank": 1
           }
         ],
         "source": "combined",
-        "rank": 4,
-        "originalTitle": ""
+        "rank": 7,
+        "originalTitle": "ONE PIECE　116"
       },
       "ranking": {
-        "title": "神の国日本の食と霊性 神々と繋がり身魂を磨く最高の叡智",
-        "author": "森井 啓二",
+        "title": "ONE PIECE　116",
+        "author": "尾田 栄一郎",
         "isbn": "",
-        "score": 341,
+        "score": 179,
         "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 6
-          },
           {
             "source": "rakuten",
             "label": "楽天ブックス",
-            "rank": 13
+            "rank": 1
           }
         ],
         "source": "combined",
@@ -612,7 +609,7 @@
           }
         ],
         "source": "combined",
-        "rank": 9,
+        "rank": 8,
         "originalTitle": ""
       },
       "ranking": {
@@ -659,7 +656,7 @@
           }
         ],
         "source": "combined",
-        "rank": 14,
+        "rank": 13,
         "originalTitle": "汝、星のごとく (講談社文庫 な 101-1)"
       },
       "ranking": {
@@ -676,53 +673,6 @@
         ],
         "source": "combined",
         "rank": 6
-      }
-    },
-    {
-      "id": "1230007481703",
-      "title": "神の国日本の美しい神社　神々と共に歩む最高の人生",
-      "author": "森井啓二",
-      "publisher": "株式会社きれい・ねっと",
-      "price": 1408,
-      "url": "https://books.rakuten.co.jp/rk/67c6d7bfbf1b399cb66b9cbf2d1d949f/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5529/2000014775529.jpg?_ex=600x600",
-      "caption": "誰もが訪れ自然に手を合わせる不思議な空間神社 あなたはその秘密を知っていますか？\n▼もくじ\n序章 神社の真の目的 神様の天意と愛を合わせる\n・稀有なる聖地、神社\n・地球規模での見本となる資質\n・神社が設立された真の目的\n・惟神の道を正しく歩むために\n第1章 知られざる神社の心得 心神の秘密を解き明かす\n・日本は素晴らしい神の国\n・神社と人の身体\n・人生を美しくするための秘訣\n・宇宙照応・天地照応\n・人が地上に降りてくる理由\n・神との合一への特別チケット\n・「心」とは神様からの贈り物\n・意味が多重に込められた漢字\n・宇宙の霊的周期\n・霊的進化に応じた神々との繋がり\n・神社の正式な参拝とは\n・五大元素を体験する\n第2章 神社参拝への道 内的探求と照応した参拝\n・神社参拝の秘訣\n・神聖な場所への門、鳥居\n・「地」のエネルギーを意識する\n・真我に響くアファーメーション\n・神へと向かう意志を強める\n・光の道、参道\n・心の静寂を深めていく道\n・参道と生命エネルギーの経路\n・自然の中で氣を感じる\n・禊の場である手水舎\n・心身を清らかにする水\n・思いと言葉と行為の清浄化\n・生命エネルギーと欲の正しい使い方\n・健全で規則正しい生き方\n・生命体として存在する龍\n・わずかに残る煩悩を祓う神門\n・「神使」としての動物たち\n・狛犬は真我に向かう関門の門番\n・神を敬い感謝する拝殿\n・注連縄は「神氣」の象徴\n第3章 神社参拝の秘訣 人の力と神々の恩頼が融合する世界\n・真我を呼び起こす鈴の音\n・御賽銭の深い意味\n・二拝二拍手一拝は新しい作法\n・神と真我との統合意識の目覚め\n・生命エネルギーを利用するムドラ\n・「守・破・離」の「守」\n・「今」の自分を省みる\n・願いを叶えるために\n・美しい祈り\n・願い事が叶うメカニズム\n・物質世界での困難の真相\n・心の穢れが起こす天変地異\n・神社の本当の御利益\n・「薫習」と「薫陶」\n・最も神氣を体感できる御神事\n・日本語の言霊の根源\n・祝詞を美しく音読する\n・神からの閃きの象徴、紙垂\n・御神木は鎮守の森のシンボル\n・知的生命体として植物を尊重する\n・神紋に秘められたエネルギー\n・真我を思い起こすお神札・お守り\n・神意を伺うおみくじ\n・願いの実現を加速させる絵馬\n・燈籠は真我の導きの灯り\n・長者の万灯より貧者の一灯\n・御神酒は神様への尊い捧げもの\n・神と共に食事をいただく\n第4章 神社参拝を進化させる 宇宙に遍満する完全な純粋意識を知る\n・心と神社を照応させる\n・神社参拝を進化させる\n・ケガレとハレの仕組み\n・美しく広がる真我の光\n・感謝と喜びを味わうお祭り\n・御奉仕は優れた霊性修行\n・お祭りは能動的に楽しむもの\n・隠された沈黙の本当の力\n・神社の御祭神の歴史\n・変容していく「神様の定義」\n・心神の性質に照応する神々\n・さまざまな場所、さまざまな名前\n・人が神を把握する手掛かり\n・創造主のさまざまな表現型\n・魂の中にも存在する三種の神器\n・愛と天意と合わせる\nおわりに\n巻末資料\n◎ 瞑想のすすめ\n◎ 祝詞\n",
-      "salesDate": "2024年03月28日",
-      "series": "",
-      "reviewAverage": 4.25,
-      "reviewCount": 5,
-      "genreId": "101909006/101909004/101907002002/101911",
-      "isbn": "1230007481703",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "神の国日本の美しい神社 神々と共に歩む最高の人生",
-        "author": "森井 啓二",
-        "score": 98,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 3
-          }
-        ],
-        "source": "combined",
-        "rank": 18,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "神の国日本の美しい神社 神々と共に歩む最高の人生",
-        "author": "森井 啓二",
-        "isbn": "",
-        "score": 177,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 3
-          }
-        ],
-        "source": "combined",
-        "rank": 7
       }
     },
     {
@@ -753,7 +703,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15,
+        "rank": 14,
         "originalTitle": ""
       },
       "ranking": {
@@ -769,54 +719,54 @@
           }
         ],
         "source": "combined",
-        "rank": 8
+        "rank": 7
       }
     },
     {
-      "id": "4910000106227",
-      "title": "園芸家12カ月　新装版",
-      "author": "カレル・チャペック",
-      "publisher": "中央公論新社",
-      "price": 880,
-      "url": "https://books.rakuten.co.jp/rk/9fa70133451d3e6287db2fb2de747450/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7998/2000008827998.jpg?_ex=600x600",
-      "caption": "われわれ園芸家は未来に生きているのだーー。草花をこよなく愛したチェコの作家、カレル・チャペックが描く、園芸愛好家の幸福な熱狂に満ちた一年。その軽妙な筆致で世界中の読者を魅了し続ける名エッセイを、著者生誕130年を記念し、新装版として刊行。\n〈新装版解説〉阿部賢一\n",
-      "salesDate": "2020年08月21日",
-      "series": "園芸家12カ月　新装版",
-      "reviewAverage": 4.08,
-      "reviewCount": 18,
-      "genreId": "101909005001/101907015004/101901002",
-      "isbn": "4910000106227",
+      "id": "1230007481703",
+      "title": "神の国日本の美しい神社　神々と共に歩む最高の人生",
+      "author": "森井啓二",
+      "publisher": "株式会社きれい・ねっと",
+      "price": 1408,
+      "url": "https://books.rakuten.co.jp/rk/67c6d7bfbf1b399cb66b9cbf2d1d949f/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5529/2000014775529.jpg?_ex=600x600",
+      "caption": "誰もが訪れ自然に手を合わせる不思議な空間神社 あなたはその秘密を知っていますか？\n▼もくじ\n序章 神社の真の目的 神様の天意と愛を合わせる\n・稀有なる聖地、神社\n・地球規模での見本となる資質\n・神社が設立された真の目的\n・惟神の道を正しく歩むために\n第1章 知られざる神社の心得 心神の秘密を解き明かす\n・日本は素晴らしい神の国\n・神社と人の身体\n・人生を美しくするための秘訣\n・宇宙照応・天地照応\n・人が地上に降りてくる理由\n・神との合一への特別チケット\n・「心」とは神様からの贈り物\n・意味が多重に込められた漢字\n・宇宙の霊的周期\n・霊的進化に応じた神々との繋がり\n・神社の正式な参拝とは\n・五大元素を体験する\n第2章 神社参拝への道 内的探求と照応した参拝\n・神社参拝の秘訣\n・神聖な場所への門、鳥居\n・「地」のエネルギーを意識する\n・真我に響くアファーメーション\n・神へと向かう意志を強める\n・光の道、参道\n・心の静寂を深めていく道\n・参道と生命エネルギーの経路\n・自然の中で氣を感じる\n・禊の場である手水舎\n・心身を清らかにする水\n・思いと言葉と行為の清浄化\n・生命エネルギーと欲の正しい使い方\n・健全で規則正しい生き方\n・生命体として存在する龍\n・わずかに残る煩悩を祓う神門\n・「神使」としての動物たち\n・狛犬は真我に向かう関門の門番\n・神を敬い感謝する拝殿\n・注連縄は「神氣」の象徴\n第3章 神社参拝の秘訣 人の力と神々の恩頼が融合する世界\n・真我を呼び起こす鈴の音\n・御賽銭の深い意味\n・二拝二拍手一拝は新しい作法\n・神と真我との統合意識の目覚め\n・生命エネルギーを利用するムドラ\n・「守・破・離」の「守」\n・「今」の自分を省みる\n・願いを叶えるために\n・美しい祈り\n・願い事が叶うメカニズム\n・物質世界での困難の真相\n・心の穢れが起こす天変地異\n・神社の本当の御利益\n・「薫習」と「薫陶」\n・最も神氣を体感できる御神事\n・日本語の言霊の根源\n・祝詞を美しく音読する\n・神からの閃きの象徴、紙垂\n・御神木は鎮守の森のシンボル\n・知的生命体として植物を尊重する\n・神紋に秘められたエネルギー\n・真我を思い起こすお神札・お守り\n・神意を伺うおみくじ\n・願いの実現を加速させる絵馬\n・燈籠は真我の導きの灯り\n・長者の万灯より貧者の一灯\n・御神酒は神様への尊い捧げもの\n・神と共に食事をいただく\n第4章 神社参拝を進化させる 宇宙に遍満する完全な純粋意識を知る\n・心と神社を照応させる\n・神社参拝を進化させる\n・ケガレとハレの仕組み\n・美しく広がる真我の光\n・感謝と喜びを味わうお祭り\n・御奉仕は優れた霊性修行\n・お祭りは能動的に楽しむもの\n・隠された沈黙の本当の力\n・神社の御祭神の歴史\n・変容していく「神様の定義」\n・心神の性質に照応する神々\n・さまざまな場所、さまざまな名前\n・人が神を把握する手掛かり\n・創造主のさまざまな表現型\n・魂の中にも存在する三種の神器\n・愛と天意と合わせる\nおわりに\n巻末資料\n◎ 瞑想のすすめ\n◎ 祝詞\n",
+      "salesDate": "2024年03月28日",
+      "series": "",
+      "reviewAverage": 4.25,
+      "reviewCount": 5,
+      "genreId": "101909006/101909004/101907002002/101911",
+      "isbn": "1230007481703",
       "salesType": 0,
       "matchMeta": {
-        "title": "園芸家12カ月",
-        "author": "カレル・チャペック/小松太郎",
-        "score": 94,
+        "title": "神の国日本の美しい神社 神々と共に歩む最高の人生",
+        "author": "森井 啓二",
+        "score": 98,
         "sources": [
           {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 4
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 3
           }
         ],
         "source": "combined",
-        "rank": 20,
+        "rank": 17,
         "originalTitle": ""
       },
       "ranking": {
-        "title": "園芸家12カ月",
-        "author": "カレル・チャペック/小松太郎",
+        "title": "神の国日本の美しい神社 神々と共に歩む最高の人生",
+        "author": "森井 啓二",
         "isbn": "",
-        "score": 176,
+        "score": 177,
         "sources": [
           {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 4
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 3
           }
         ],
         "source": "combined",
-        "rank": 9
+        "rank": 8
       }
     },
     {
@@ -847,7 +797,7 @@
           }
         ],
         "source": "combined",
-        "rank": 21,
+        "rank": 20,
         "originalTitle": ""
       },
       "ranking": {
@@ -863,7 +813,7 @@
           }
         ],
         "source": "combined",
-        "rank": 10
+        "rank": 9
       }
     },
     {
@@ -894,7 +844,7 @@
           }
         ],
         "source": "combined",
-        "rank": 25,
+        "rank": 24,
         "originalTitle": "ようこそ実力至上主義の教室へ 3年生編5 (MF文庫J)"
       },
       "ranking": {
@@ -907,6 +857,53 @@
             "source": "amazon",
             "label": "Amazon",
             "rank": 5
+          }
+        ],
+        "source": "combined",
+        "rank": 10
+      }
+    },
+    {
+      "id": "1230008888051",
+      "title": "神の国日本の食と霊性　神々と繋がり身魂を磨く最高の叡智",
+      "author": "森井啓二",
+      "publisher": "株式会社きれい・ねっと",
+      "price": 1760,
+      "url": "https://books.rakuten.co.jp/rk/1f57b169e2ea30e29e1302b4f6ac9972/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3297/2000017353297.jpg?_ex=600x600",
+      "caption": "「清らかな食」が魂を磨く──神々とつながる日本の食文化の叡智を解き明かす一冊\n▼もくじ\n第１章 食事は神事\n・御食事は御神事\n・清浄な心身を創る「聖なる賜物」\n・霊人と霊食\n・食事は神聖な護摩焚き\n・地球上で唯一「調理」をする生き物\n・霊性進化を加速させる行動\n・言葉を超えた真言「いただきます」\n・「当たり前」という心の枠を外す\n・食材という「命」\n・喫茶喫飯を実践する\n・食材と心が融合する三徳六味\n・美しい波動を料理に移す心構え\n第２章 霊性を高める食\n・自分の心と身体の声を聴く\n・声を聴いてはならない部位\n・動物たちの食\n・肉食と植物食\n・日本人の腸と肉食\n・傾腸ー腸からのお便りを大切に\n・大自然の一部である野菜の力\n・健康寿命に影響を与える酵素\n・食事の基本はよく噛むこと\n・食べ物を消化する時間\n・人と共存共進化する腸内細菌\n・繋がり合う脳と腸と微生物\n・「アーユルヴェーダ」の知恵\n・霊性を最大限に引き出す浄化食\n・何のために長生きするのか？\n第３章 日本の食と霊性\n・風土に合った食生活\n・旬の食材を味わう\n・自然界と人とを繋ぐ旬の食材\n・瑞穂の国のお米の力\n・稲の不思議\n・醤油 日本を代表する発酵調味料\n・味噌 百薬の毒を消すもの\n・塩 鉱物界由来のミネラル源\n・酢 病気の治療にも用いられる調味料\n・砂糖 本物の糖を選ぶことが肝心\n・油 適切な摂取が大切\n・大豆 和食の土台となる食材\n・漬物 保存性の高い魅力的な食材\n・梅干 健康に必須の食材\n・海藻 日本人に適した優れた食材\n・鰹節 世界一硬い食品\n・水 物質世界における万物の母体\n・日本茶 日本人に合う大切な飲み物\n・米麹甘酒 栄養が詰まった「飲む点滴」\n・日本酒 神様への尊い捧げもの\n第４章 霊性進化の危機\n・現代型栄養失調に陥る人々\n・肉 現代社会の食肉事情を知る\n・加工肉 人の舌を狂わせる魅力\n・牛乳 伝統食と現代食の象徴\n・清涼飲料水 甘さの中に危険が潜む\n・アルコール飲料 惟神の道を歩む人の足枷\n・多用されるレトルト食品と冷凍食品\n・消費者の意識が問われる食品添加物\n・出来るだけ避けたい添加物\n・遺伝子組み換え食品とゲノム編集食品\n・農薬と化学肥料に依存する日本\n・情報過多が生んだ偏食傾向\n第５章 神と共にあるために\n・食の節制で五感と欲望を制御する\n・断食 神と共に過ごす時間\n・不食とは自然に起こるもの\nおわりに 美しい食が美しい世界を創る\n",
+      "salesDate": "2025年03月28日",
+      "series": "",
+      "reviewAverage": 4.67,
+      "reviewCount": 3,
+      "genreId": "101909006/101909004/101907002002/101914",
+      "isbn": "1230008888051",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "神の国日本の食と霊性 神々と繋がり身魂を磨く最高の叡智",
+        "author": "森井 啓二",
+        "isbn": "",
+        "score": 174,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 6
+          }
+        ],
+        "source": "combined",
+        "rank": 20
+      },
+      "ranking": {
+        "title": "神の国日本の食と霊性 神々と繋がり身魂を磨く最高の叡智",
+        "author": "森井 啓二",
+        "isbn": "",
+        "score": 174,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 6
           }
         ],
         "source": "combined",
@@ -1008,6 +1005,53 @@
       }
     },
     {
+      "id": "4890000067516",
+      "title": "暁のヨナ 48",
+      "author": "草凪みずほ",
+      "publisher": "白泉社",
+      "price": 638,
+      "url": "https://books.rakuten.co.jp/rk/a45f35cfe9393ad3bd22ec0ce77b58e7/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9495/2000022099495.jpg?_ex=600x600",
+      "caption": "崩れた緋龍城から無事、外へと脱出したヨナたち。闇に覆われた高華国・四龍の運命はいかに。そしてヨナはハクと再会できるのか──。激動の大河ファンタジーロマン堂々完結！\n",
+      "salesDate": "2026年10月20日",
+      "series": "暁のヨナ",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904011012",
+      "isbn": "4890000067516",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "暁のヨナ 48",
+        "author": "草凪 みずほ",
+        "score": 82,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 7
+          }
+        ],
+        "source": "combined",
+        "rank": 32,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "暁のヨナ 48",
+        "author": "草凪 みずほ",
+        "isbn": "",
+        "score": 173,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 7
+          }
+        ],
+        "source": "combined",
+        "rank": 14
+      }
+    },
+    {
       "id": "6681318198950",
       "title": "0秒前の彼女",
       "author": "今村昌弘",
@@ -1051,97 +1095,50 @@
           }
         ],
         "source": "combined",
-        "rank": 14
-      }
-    },
-    {
-      "id": "4620000615075",
-      "title": "ブラッディダイスの殺人　上",
-      "author": "Ｍ Ｗ クレイヴン",
-      "publisher": "早川書房",
-      "price": 1210,
-      "url": "https://books.rakuten.co.jp/rk/91ea3c43631d345d8bb867055aba005f/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9728/2000021429728.jpg?_ex=600x600",
-      "caption": "ポーとティリーが再びタッグを組む！　シリーズ累計30万部の最新作！\n英国全土で連続狙撃事件が発生。犠牲者は17人にのぼるも犯人の手がかりはなく、ポーとティリーは国家犯罪対策庁に呼び戻されるが\n",
-      "salesDate": "2026年08月19日",
-      "series": "ワシントン・ポー",
-      "reviewAverage": 4.38,
-      "reviewCount": 26,
-      "genreId": "101902",
-      "isbn": "4620000615075",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ブラッディダイスの殺人 上",
-        "author": "M・W・クレイヴン",
-        "score": 74,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 39,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "ブラッディダイスの殺人 上",
-        "author": "M・W・クレイヴン",
-        "isbn": "",
-        "score": 171,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
         "rank": 15
       }
     },
     {
-      "id": "4890000067516",
-      "title": "暁のヨナ 48",
-      "author": "草凪みずほ",
-      "publisher": "白泉社",
-      "price": 638,
-      "url": "https://books.rakuten.co.jp/rk/a45f35cfe9393ad3bd22ec0ce77b58e7/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9495/2000022099495.jpg?_ex=600x600",
-      "caption": "崩れた緋龍城から無事、外へと脱出したヨナたち。闇に覆われた高華国・四龍の運命はいかに。そしてヨナはハクと再会できるのか──。激動の大河ファンタジーロマン堂々完結！\n",
-      "salesDate": "2026年10月20日",
-      "series": "暁のヨナ",
+      "id": "7275000939912",
+      "title": "私のカントリー NO.125",
+      "author": "",
+      "publisher": "主婦と生活社",
+      "price": 1650,
+      "url": "https://books.rakuten.co.jp/rk/8cbb70c801d23927acbcfb7a10b5d82b/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9134/2000021929134.jpg?_ex=600x600",
+      "caption": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。\n※電子版は「創刊35周年記念スペシャルプレゼント」への応募ができません。また、3大付録はございません。\nご希望の方は紙版をお求めください。\n《巻頭特集》アンティークと暮らす日々\nカントリーアンティークを教えてくれた「デボー39」と天沼寿子さんのこと\nPart 1｜アンティークインテリア\nPart 2｜アンティークコレクション\nPart 3｜【特別対談】人気漫画家・稚野鳥子さん × 新條まゆさん「私たち、フランスアンティークが大好きです！」\n《特集》「好き」を形にする手仕事の喜び\nPart 1｜青柳啓子さんと佐藤貴予美さんが語る手作り\nPart 2｜Moon Rabbitが生み出す童話の世界\nPart 3｜毛塚千代さんの裂き布＆切りっぱなし\n〈植物を手作りでより美しく〉暮らしにボタニカルの魔法を\n〈日本のカントリーを旅する〉「赤毛のアン」を愛するすべての人へ\n〈シックな草花が調和して心を満たす場所へ〉秋を紡ぐ手作りの庭\n〈日・英・仏のカントリークリスマス〉灯りと飾りに聖夜の願いをこめて\n連載｜ターシャ・テューダー 幸せの秘密\n連載｜憧れキッチンのヒント\n新連載｜アンティークと、これからと。／イギリスアンティークで茶藝を楽しむ\n連載｜春夏秋冬、草花とともに。\n連載｜今、住みたい家のかたち\n連載｜わが愛しのアメリカンカントリー\n連載｜憧れのコッツウォルズへ\n〈創刊35周年特別ツアー〉HIS Presents 木蓮さんと行くフランス9日間の旅\n《ご来場ありがとうございました♪》私のカントリーフェスタ 2026 PLAYBACK！\n《次回は初めての東京開催です！》私のカントリーフェスタ 2027 TOKYO\n",
+      "salesDate": "2026年10月05日",
+      "series": "私のカントリー",
       "reviewAverage": 0,
       "reviewCount": 0,
-      "genreId": "101904011012",
-      "isbn": "4890000067516",
+      "genreId": "101950011",
+      "isbn": "7275000939912",
       "salesType": 0,
       "matchMeta": {
-        "title": "暁のヨナ 48",
-        "author": "草凪 みずほ",
-        "score": 74,
+        "title": "私のカントリー NO.125",
+        "author": "",
+        "isbn": "",
+        "score": 172,
         "sources": [
           {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 9
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 8
           }
         ],
         "source": "combined",
-        "rank": 41,
-        "originalTitle": ""
+        "rank": 30
       },
       "ranking": {
-        "title": "暁のヨナ 48",
-        "author": "草凪 みずほ",
+        "title": "私のカントリー NO.125",
+        "author": "",
         "isbn": "",
-        "score": 171,
+        "score": 172,
         "sources": [
           {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 9
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 8
           }
         ],
         "source": "combined",
@@ -1196,6 +1193,53 @@
       }
     },
     {
+      "id": "4620000615075",
+      "title": "ブラッディダイスの殺人　上",
+      "author": "Ｍ Ｗ クレイヴン",
+      "publisher": "早川書房",
+      "price": 1210,
+      "url": "https://books.rakuten.co.jp/rk/91ea3c43631d345d8bb867055aba005f/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9728/2000021429728.jpg?_ex=600x600",
+      "caption": "ポーとティリーが再びタッグを組む！　シリーズ累計30万部の最新作！\n英国全土で連続狙撃事件が発生。犠牲者は17人にのぼるも犯人の手がかりはなく、ポーとティリーは国家犯罪対策庁に呼び戻されるが\n",
+      "salesDate": "2026年08月19日",
+      "series": "ワシントン・ポー",
+      "reviewAverage": 4.38,
+      "reviewCount": 26,
+      "genreId": "101902",
+      "isbn": "4620000615075",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ブラッディダイスの殺人 上",
+        "author": "M・W・クレイヴン",
+        "isbn": "",
+        "score": 171,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 32
+      },
+      "ranking": {
+        "title": "ブラッディダイスの殺人 上",
+        "author": "M・W・クレイヴン",
+        "isbn": "",
+        "score": 171,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 18
+      }
+    },
+    {
       "id": "1230008189752",
       "title": "心を浄化する奇跡の方法　言霊を活かした美しく豊かな人生",
       "author": "森井啓二",
@@ -1239,7 +1283,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18
+        "rank": 19
       }
     },
     {
@@ -1286,7 +1330,7 @@
           }
         ],
         "source": "combined",
-        "rank": 19
+        "rank": 20
       }
     },
     {
@@ -1333,7 +1377,7 @@
           }
         ],
         "source": "combined",
-        "rank": 20
+        "rank": 21
       }
     },
     {
@@ -1365,8 +1409,7 @@
           }
         ],
         "source": "combined",
-        "rank": 38,
-        "originalTitle": "anan No.2514 Special Edition"
+        "rank": 38
       },
       "ranking": {
         "title": "anan No.2514 Special Edition",
@@ -1378,53 +1421,6 @@
             "source": "tohan",
             "label": "トーハン",
             "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 21
-      }
-    },
-    {
-      "id": "4380000408000",
-      "title": "未だ本能寺にあり",
-      "author": "今村翔吾",
-      "publisher": "幻冬舎",
-      "price": 2299,
-      "url": "https://books.rakuten.co.jp/rk/60f1dc9e00eb35a8a668b28e59a84d1f/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5047/2000021595047.jpg?_ex=600x600",
-      "caption": "魔王の首を探せ。\n織田信長はどこへ消えたのか？\n羽柴秀吉、信長を刺した明智兵、使用人の少女、阿弥陀寺の僧……。\n「あの日」を巡る8人の証言が集まる時、\n400年、誰も見たことのない“答え″が、導き出される。\n天正十年、本能寺の変が勃発。天下の主を失った日ノ本は混沌に陥った。そんな中、羽柴家家臣・駒井八右衛門は、秀吉からある密命を授かる。上様を探せーー。\n逆賊・明智光秀を討った秀吉は、今や織田の後継と目されていた。だが、信長の遺骸は見つからずにいる。もし他者が先んじて遺骸を探し出し弔えば、その座が奪われかねない。まして信長が生きているとなれば、秀吉が描き始めた天下への絵図も霧散することになる。\n一度見聞きした物事は忘れない異能を武器に、八右衛門は消えた天下人の行方を追う。織田方、明智方、そして影の目撃者……。関係者たちが語る「あの日」の真実とは？\n日本史上最大の謎に挑む、超大作歴史ミステリー。\n",
-      "salesDate": "2026年09月29日",
-      "series": "",
-      "reviewAverage": 5,
-      "reviewCount": 7,
-      "genreId": "101901001001",
-      "isbn": "4380000408000",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "未だ本能寺にあり",
-        "author": "",
-        "score": 66,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 11
-          }
-        ],
-        "source": "combined",
-        "rank": 50,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "未だ本能寺にあり",
-        "author": "",
-        "isbn": "",
-        "score": 169,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 11
           }
         ],
         "source": "combined",
@@ -1479,24 +1475,71 @@
       }
     },
     {
-      "id": "4320000938428",
-      "title": "ホタルの嫁入り（１３）",
-      "author": "橘オレコ",
-      "publisher": "小学館",
-      "price": 759,
-      "url": "https://books.rakuten.co.jp/rk/17ab0520130e3b1dbfa13dbfc73929cf/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3960/2000021903960.jpg?_ex=600x600",
-      "caption": "堂々完結！殺し屋と令嬢。その恋の代償は…\n出会いの地・天女島にて、ようやく手にした二人だけの日々を過ごす紗都子と進平。\n「私、あなたとずっと生きたいです」\nその切なる願いとは裏腹に、彼女の身体は日に日に衰弱していく。\n紗都子との何気ない明日を夢見た夜。\n進平は、横たわる彼女のか細い手を、そっと包み込み、二人は眠りにつく。\nそして、朝が訪れるーー\n殺し屋と令嬢。\n結ばれるはずのなかった二人の命がけの嫁入り譚、ここに堂々完結。\n",
-      "salesDate": "2026年10月19日",
-      "series": "ホタルの嫁入り",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904090",
-      "isbn": "4320000938428",
+      "id": "4380000408000",
+      "title": "未だ本能寺にあり",
+      "author": "今村翔吾",
+      "publisher": "幻冬舎",
+      "price": 2299,
+      "url": "https://books.rakuten.co.jp/rk/60f1dc9e00eb35a8a668b28e59a84d1f/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5047/2000021595047.jpg?_ex=600x600",
+      "caption": "魔王の首を探せ。\n織田信長はどこへ消えたのか？\n羽柴秀吉、信長を刺した明智兵、使用人の少女、阿弥陀寺の僧……。\n「あの日」を巡る8人の証言が集まる時、\n400年、誰も見たことのない“答え″が、導き出される。\n天正十年、本能寺の変が勃発。天下の主を失った日ノ本は混沌に陥った。そんな中、羽柴家家臣・駒井八右衛門は、秀吉からある密命を授かる。上様を探せーー。\n逆賊・明智光秀を討った秀吉は、今や織田の後継と目されていた。だが、信長の遺骸は見つからずにいる。もし他者が先んじて遺骸を探し出し弔えば、その座が奪われかねない。まして信長が生きているとなれば、秀吉が描き始めた天下への絵図も霧散することになる。\n一度見聞きした物事は忘れない異能を武器に、八右衛門は消えた天下人の行方を追う。織田方、明智方、そして影の目撃者……。関係者たちが語る「あの日」の真実とは？\n日本史上最大の謎に挑む、超大作歴史ミステリー。\n",
+      "salesDate": "2026年09月29日",
+      "series": "",
+      "reviewAverage": 5,
+      "reviewCount": 7,
+      "genreId": "101901001001",
+      "isbn": "4380000408000",
       "salesType": 0,
       "matchMeta": {
-        "title": "ホタルの嫁入り(13)",
-        "author": "橘 オレコ",
+        "title": "未だ本能寺にあり",
+        "author": "",
+        "score": 66,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 11
+          }
+        ],
+        "source": "combined",
+        "rank": 50,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "未だ本能寺にあり",
+        "author": "",
+        "isbn": "",
+        "score": 169,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 11
+          }
+        ],
+        "source": "combined",
+        "rank": 24
+      }
+    },
+    {
+      "id": "4320000937482",
+      "title": "名探偵コナン（１０９）",
+      "author": "青山剛昌",
+      "publisher": "小学館",
+      "price": 583,
+      "url": "https://books.rakuten.co.jp/rk/3d4ab47857a63c738ff32de18230740a/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1781/2000021881781.jpg?_ex=600x600",
+      "caption": "風の女神・萩原千速を導く松田の魔法…\nコナン達と神奈川県警が遭遇した泥温泉の殺人事件！\n鍵を握るのは、かつて松田が千速に見せた、とある“魔法”!?\n一方、浪速ハルカス以来の平次と和葉はなぜかぎこちなく…\n脱出ゲームには警視庁交通部カップルが大集合!?\nそして、フサエ・ブランドの店で少年探偵団が出会った相手は…\n",
+      "salesDate": "2026年10月16日",
+      "series": "名探偵コナン",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904001008",
+      "isbn": "4320000937482",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "名探偵コナン(109)",
+        "author": "青山 剛昌",
         "score": 62,
         "sources": [
           {
@@ -1507,11 +1550,11 @@
         ],
         "source": "combined",
         "rank": 52,
-        "originalTitle": "ホタルの嫁入り（13）"
+        "originalTitle": "名探偵コナン（109）"
       },
       "ranking": {
-        "title": "ホタルの嫁入り（13）",
-        "author": "橘 オレコ",
+        "title": "名探偵コナン（109）",
+        "author": "青山 剛昌",
         "isbn": "",
         "score": 168,
         "sources": [
@@ -1522,7 +1565,7 @@
           }
         ],
         "source": "combined",
-        "rank": 24
+        "rank": 25
       }
     },
     {
@@ -1570,7 +1613,7 @@
           }
         ],
         "source": "combined",
-        "rank": 25
+        "rank": 26
       }
     },
     {
@@ -1602,8 +1645,7 @@
           }
         ],
         "source": "combined",
-        "rank": 46,
-        "originalTitle": "すみっコぐらし おもいでアルバム"
+        "rank": 46
       },
       "ranking": {
         "title": "すみっコぐらし おもいでアルバム",
@@ -1618,54 +1660,54 @@
           }
         ],
         "source": "combined",
-        "rank": 26
+        "rank": 27
       }
     },
     {
-      "id": "4910000951029",
-      "title": "陰陽師に人生めちゃくちゃにされたけど金運が爆上がりした話",
-      "author": "コヤッキー",
-      "publisher": "扶桑社",
-      "price": 1760,
-      "url": "https://books.rakuten.co.jp/rk/bf988a601e003fde9d6c67487437195c/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0327/2000022130327.jpg?_ex=600x600",
-      "caption": "チャンネル登録者数250万人超え\n都市伝説YouTuberのコヤッキーの実体験録。\n金運を上げたい人、必読の書です\n都市伝説テラーのコヤッキーさんが書き下ろす、初の「都市伝説×スピリチュアル」本。\nある陰陽師との出会いによって金運が爆上がりし、信じられないような幸運のあと「好転反応」で殺されかけた実体験がこの本で明かされます。\nコヤッキーさんの成功の裏にある、陰陽師最強の呪術とはどんなものなのか、ぜひ確かめてみてください。\nそのほか、この世にはびこる怪しい引き寄せの法則の検証、都市伝説から読み解く「引き寄せの法則」の正体など、コヤッキーさんならではの視点で語られる新感覚スピリチュアル本。\n［CONTENS］\nPrologue 最悪の「呪い」が、最強の「引き寄せ」に変わるまで\nTeller1　ある陰陽師との出会いがすごすぎた\nTeller2　地獄みたいな「好転反応」に殺されかけた\nTeller3 引き寄せの法則Lie or True\nTeller4　絶対に夢を叶えたいあなたへ\nEpilogue\nスペシャル対談　堀井雄二さん（ゲームデザイナー）／角由紀子さん（オカルト系編集者）\n※この電子版はカラー部分が含まれておりますので、カラー表示できる端末でご覧ください。また、電子版では書き込みはできません。\n",
-      "salesDate": "2026年10月15日",
-      "series": "陰陽師に人生めちゃくちゃにされたけど金運が爆上がりした話",
+      "id": "4972000169889",
+      "title": "キングダム 81",
+      "author": "原泰久",
+      "publisher": "集英社",
+      "price": 770,
+      "url": "https://books.rakuten.co.jp/rk/5bfbf7021b1739ab807e21db73e2acdc/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9287/2000021999287.jpg?_ex=600x600",
+      "caption": "ヤングジャンプコミックスDIGITAL「キングダム」81巻、11月18日配信スタート!!　※配信日は変更になることがあります。ご了承ください。\n",
+      "salesDate": "2026年11月18日",
+      "series": "キングダム",
       "reviewAverage": 0,
       "reviewCount": 0,
-      "genreId": "101909013",
-      "isbn": "4910000951029",
-      "salesType": 0,
+      "genreId": "101904002006",
+      "isbn": "4972000169889",
+      "salesType": 1,
       "matchMeta": {
-        "title": "陰陽師に人生めちゃくちゃにされたけど金運が爆上がりした話",
-        "author": "コヤッキー",
-        "score": 50,
+        "title": "キングダム 81",
+        "author": "原 泰久",
+        "score": 54,
         "sources": [
           {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 15
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 14
           }
         ],
         "source": "combined",
-        "rank": 60,
+        "rank": 57,
         "originalTitle": ""
       },
       "ranking": {
-        "title": "陰陽師に人生めちゃくちゃにされたけど金運が爆上がりした話",
-        "author": "コヤッキー",
+        "title": "キングダム 81",
+        "author": "原 泰久",
         "isbn": "",
-        "score": 165,
+        "score": 166,
         "sources": [
           {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 15
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 14
           }
         ],
         "source": "combined",
-        "rank": 27
+        "rank": 28
       }
     },
     {
@@ -1696,7 +1738,7 @@
           }
         ],
         "source": "combined",
-        "rank": 59,
+        "rank": 61,
         "originalTitle": ""
       },
       "ranking": {
@@ -1712,7 +1754,7 @@
           }
         ],
         "source": "combined",
-        "rank": 28
+        "rank": 29
       }
     },
     {
@@ -1734,32 +1776,126 @@
       "matchMeta": {
         "title": "SPY×FAMILY 18",
         "author": "遠藤 達哉",
-        "score": 46,
+        "score": 50,
         "sources": [
           {
             "source": "rakuten",
             "label": "楽天ブックス",
-            "rank": 16
+            "rank": 15
           }
         ],
         "source": "combined",
-        "rank": 61,
+        "rank": 60,
         "originalTitle": ""
       },
       "ranking": {
         "title": "SPY×FAMILY 18",
         "author": "遠藤 達哉",
         "isbn": "",
-        "score": 164,
+        "score": 165,
         "sources": [
           {
             "source": "rakuten",
             "label": "楽天ブックス",
+            "rank": 15
+          }
+        ],
+        "source": "combined",
+        "rank": 30
+      }
+    },
+    {
+      "id": "4910000951029",
+      "title": "陰陽師に人生めちゃくちゃにされたけど金運が爆上がりした話",
+      "author": "コヤッキー",
+      "publisher": "扶桑社",
+      "price": 1760,
+      "url": "https://books.rakuten.co.jp/rk/bf988a601e003fde9d6c67487437195c/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0327/2000022130327.jpg?_ex=600x600",
+      "caption": "チャンネル登録者数250万人超え\n都市伝説YouTuberのコヤッキーの実体験録。\n金運を上げたい人、必読の書です\n都市伝説テラーのコヤッキーさんが書き下ろす、初の「都市伝説×スピリチュアル」本。\nある陰陽師との出会いによって金運が爆上がりし、信じられないような幸運のあと「好転反応」で殺されかけた実体験がこの本で明かされます。\nコヤッキーさんの成功の裏にある、陰陽師最強の呪術とはどんなものなのか、ぜひ確かめてみてください。\nそのほか、この世にはびこる怪しい引き寄せの法則の検証、都市伝説から読み解く「引き寄せの法則」の正体など、コヤッキーさんならではの視点で語られる新感覚スピリチュアル本。\n［CONTENS］\nPrologue 最悪の「呪い」が、最強の「引き寄せ」に変わるまで\nTeller1　ある陰陽師との出会いがすごすぎた\nTeller2　地獄みたいな「好転反応」に殺されかけた\nTeller3 引き寄せの法則Lie or True\nTeller4　絶対に夢を叶えたいあなたへ\nEpilogue\nスペシャル対談　堀井雄二さん（ゲームデザイナー）／角由紀子さん（オカルト系編集者）\n※この電子版はカラー部分が含まれておりますので、カラー表示できる端末でご覧ください。また、電子版では書き込みはできません。\n",
+      "salesDate": "2026年10月15日",
+      "series": "陰陽師に人生めちゃくちゃにされたけど金運が爆上がりした話",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101909013",
+      "isbn": "4910000951029",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "陰陽師に人生めちゃくちゃにされたけど金運が爆上がりした話",
+        "author": "コヤッキー",
+        "score": 50,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 15
+          }
+        ],
+        "source": "combined",
+        "rank": 62,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "陰陽師に人生めちゃくちゃにされたけど金運が爆上がりした話",
+        "author": "コヤッキー",
+        "isbn": "",
+        "score": 165,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 15
+          }
+        ],
+        "source": "combined",
+        "rank": 31
+      }
+    },
+    {
+      "id": "4310000701877",
+      "title": "命の燃やし方",
+      "author": "鈴木大飛",
+      "publisher": "講談社",
+      "price": 1485,
+      "url": "https://books.rakuten.co.jp/rk/bea5649a02103e659365e8b720c3170e/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6445/2000018336445.jpg?_ex=600x600",
+      "caption": "「読むだけで終わらせず、読んだ人の人生を変えたい」\n彼の切実な願いが行間にまで迸り、現代の“聖書”とも言うべき熱量であなたの命に火を灯す一冊\n3冊目となる新刊は、前作『アイドル2.0』を発売した2022年8月以来、3年ぶりとなる。誰よりも自分の人生と向き合い、本気で命を燃やしてきた鈴木大飛が27年間で学んだ全てをこの一冊に込める。\n「読むだけで終わらせず、読んだ人の人生を変えたい」\n彼の切実な願いが行間にまで迸り、現代の“聖書”とも言うべき熱量であなたの命に火を灯す一冊となっている。\n※電子版には発売記念イベントの応募用紙は入っておりません。\n",
+      "salesDate": "2025年08月26日",
+      "series": "命の燃やし方",
+      "reviewAverage": 4.07,
+      "reviewCount": 98,
+      "genreId": "101907014/101907001004/101906090/101905016001",
+      "isbn": "4310000701877",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "命の燃やし方",
+        "author": "鈴木 大飛",
+        "score": 46,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
             "rank": 16
           }
         ],
         "source": "combined",
-        "rank": 29
+        "rank": 65,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "命の燃やし方",
+        "author": "鈴木 大飛",
+        "isbn": "",
+        "score": 164,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 16
+          }
+        ],
+        "source": "combined",
+        "rank": 32
       }
     },
     {
@@ -1790,7 +1926,7 @@
           }
         ],
         "source": "combined",
-        "rank": 62,
+        "rank": 64,
         "originalTitle": "脳のゴミは「息」で捨てなさい - １日１分で細胞から若返る「毒出し呼吸」の魔法"
       },
       "ranking": {
@@ -1806,55 +1942,7 @@
           }
         ],
         "source": "combined",
-        "rank": 30
-      }
-    },
-    {
-      "id": "4310000701877",
-      "title": "命の燃やし方",
-      "author": "鈴木大飛",
-      "publisher": "講談社",
-      "price": 1485,
-      "url": "https://books.rakuten.co.jp/rk/bea5649a02103e659365e8b720c3170e/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6445/2000018336445.jpg?_ex=600x600",
-      "caption": "「読むだけで終わらせず、読んだ人の人生を変えたい」\n彼の切実な願いが行間にまで迸り、現代の“聖書”とも言うべき熱量であなたの命に火を灯す一冊\n3冊目となる新刊は、前作『アイドル2.0』を発売した2022年8月以来、3年ぶりとなる。誰よりも自分の人生と向き合い、本気で命を燃やしてきた鈴木大飛が27年間で学んだ全てをこの一冊に込める。\n「読むだけで終わらせず、読んだ人の人生を変えたい」\n彼の切実な願いが行間にまで迸り、現代の“聖書”とも言うべき熱量であなたの命に火を灯す一冊となっている。\n※電子版には発売記念イベントの応募用紙は入っておりません。\n",
-      "salesDate": "2025年08月26日",
-      "series": "命の燃やし方",
-      "reviewAverage": 4.07,
-      "reviewCount": 98,
-      "genreId": "101907014/101907001004/101906090/101905016001",
-      "isbn": "4310000701877",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "命の燃やし方",
-        "author": "鈴木 大飛",
-        "isbn": "",
-        "score": 164,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 16
-          }
-        ],
-        "source": "combined",
-        "rank": 52,
-        "originalTitle": "命の燃やし方"
-      },
-      "ranking": {
-        "title": "命の燃やし方",
-        "author": "鈴木 大飛",
-        "isbn": "",
-        "score": 164,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 16
-          }
-        ],
-        "source": "combined",
-        "rank": 31
+        "rank": 33
       }
     },
     {
@@ -1885,7 +1973,7 @@
           }
         ],
         "source": "combined",
-        "rank": 68,
+        "rank": 70,
         "originalTitle": "自分とか、ないから。　教養としての東洋哲学"
       },
       "ranking": {
@@ -1901,7 +1989,7 @@
           }
         ],
         "source": "combined",
-        "rank": 32
+        "rank": 34
       }
     },
     {
@@ -1923,8 +2011,7 @@
       "matchMeta": {
         "title": "探偵小石は戻らない",
         "author": "",
-        "isbn": "",
-        "score": 161,
+        "score": 34,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1933,7 +2020,8 @@
           }
         ],
         "source": "combined",
-        "rank": 60
+        "rank": 73,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "探偵小石は戻らない",
@@ -1948,7 +2036,7 @@
           }
         ],
         "source": "combined",
-        "rank": 33
+        "rank": 35
       }
     },
     {
@@ -1980,7 +2068,8 @@
           }
         ],
         "source": "combined",
-        "rank": 61
+        "rank": 62,
+        "originalTitle": "ちいかわ お友だちとのつき合いかた"
       },
       "ranking": {
         "title": "ちいかわ お友だちとのつき合いかた",
@@ -1995,7 +2084,7 @@
           }
         ],
         "source": "combined",
-        "rank": 34
+        "rank": 36
       }
     },
     {
@@ -2015,9 +2104,10 @@
       "isbn": "4524815638200",
       "salesType": 0,
       "matchMeta": {
-        "title": "【令和8年度】 いちばんやさしい ITパスポート 絶対合格の教科書+出る順問題集",
+        "title": "【令和８年度】 いちばんやさしい ITパスポート 絶対合格の教科書＋出る順問題集",
         "author": "高橋 京介",
-        "score": 26,
+        "isbn": "",
+        "score": 159,
         "sources": [
           {
             "source": "amazon",
@@ -2026,8 +2116,7 @@
           }
         ],
         "source": "combined",
-        "rank": 78,
-        "originalTitle": "【令和８年度】 いちばんやさしい ITパスポート 絶対合格の教科書＋出る順問題集"
+        "rank": 64
       },
       "ranking": {
         "title": "【令和８年度】 いちばんやさしい ITパスポート 絶対合格の教科書＋出る順問題集",
@@ -2042,54 +2131,7 @@
           }
         ],
         "source": "combined",
-        "rank": 35
-      }
-    },
-    {
-      "id": "4310000751786",
-      "title": "ちいかわ　なんか小さくてかわいいやつ（８）",
-      "author": "ナガノ",
-      "publisher": "講談社",
-      "price": 1485,
-      "url": "https://books.rakuten.co.jp/rk/396b75b7caae390a930a67b1846f5572/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8415/2000019148415.jpg?_ex=600x600",
-      "caption": "累計４００万部突破＆テレビアニメ好評放送中！　大人気「ちいかわ」の待望の最新コミックス第８巻！\nなんか小さくてかわいいやつ、すなわち「ちいかわ」！\n",
-      "salesDate": "2025年11月21日",
-      "series": "ちいかわ　なんか小さくてかわいいやつ",
-      "reviewAverage": 4.48,
-      "reviewCount": 25,
-      "genreId": "101904002004",
-      "isbn": "4310000751786",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ちいかわ なんか小さくてかわいいやつ(8)",
-        "author": "ナガノ",
-        "score": 14,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 24
-          }
-        ],
-        "source": "combined",
-        "rank": 85,
-        "originalTitle": "ちいかわ　なんか小さくてかわいいやつ（8）"
-      },
-      "ranking": {
-        "title": "ちいかわ　なんか小さくてかわいいやつ（8）",
-        "author": "ナガノ",
-        "isbn": "",
-        "score": 156,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 24
-          }
-        ],
-        "source": "combined",
-        "rank": 36
+        "rank": 37
       }
     },
     {
@@ -2111,8 +2153,7 @@
       "matchMeta": {
         "title": "パンどろぼう",
         "author": "",
-        "isbn": "",
-        "score": 154,
+        "score": 6,
         "sources": [
           {
             "source": "kinokuniya",
@@ -2121,7 +2162,8 @@
           }
         ],
         "source": "combined",
-        "rank": 74
+        "rank": 92,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "パンどろぼう",
@@ -2136,7 +2178,7 @@
           }
         ],
         "source": "combined",
-        "rank": 37
+        "rank": 38
       }
     },
     {
@@ -2183,53 +2225,6 @@
           }
         ],
         "source": "combined",
-        "rank": 38
-      }
-    },
-    {
-      "id": "4694295412710",
-      "title": "経営者になれ",
-      "author": "山地章夫",
-      "publisher": "クロスメディア・パブリッシング（インプレス）",
-      "price": 1760,
-      "url": "https://books.rakuten.co.jp/rk/fef8c249ef8c366db71df6b1c4bc3bf9/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0105/2000022150105.jpg?_ex=600x600",
-      "caption": "仕事をこなす毎日から、会社の大切な判断に関わる働き方へ。ヤマチユナイテッドの山地章夫が、今いる会社、今の役割の中で経営者感覚を育てる方法を紹介します。\nAIの活用が広がる中で、自ら問いを立て、判断し、周囲と協力して結果に責任を持つ力が求められています。本書では、経営者へと近づく成長過程をA型・B型・C型の3段階で整理。日々の仕事で取り組める20の実践と、起業も含めて経営に関わる7つの道を示します。\n顧客や数字に目を向け、改善を考え、仲間と成果をつくる。若手・中堅社員が自分の仕事の可能性を広げるために、そして経営者が次の担い手を育てるために役立つ考え方をまとめた一冊です。\n",
-      "salesDate": "2026年10月16日",
-      "series": "",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101905016003/101905016001/101905007002",
-      "isbn": "4694295412710",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "経営者になれ",
-        "author": "",
-        "score": 5,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 28
-          }
-        ],
-        "source": "combined",
-        "rank": 98,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "経営者になれ",
-        "author": "",
-        "isbn": "",
-        "score": 152,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 28
-          }
-        ],
-        "source": "combined",
         "rank": 39
       }
     },
@@ -2252,7 +2247,8 @@
       "matchMeta": {
         "title": "【改訂版】本当の自由を手に入れる お金の大学",
         "author": "両＠リベ大学長",
-        "score": 5,
+        "isbn": "",
+        "score": 152,
         "sources": [
           {
             "source": "amazon",
@@ -2261,8 +2257,8 @@
           }
         ],
         "source": "combined",
-        "rank": 102,
-        "originalTitle": ""
+        "rank": 77,
+        "originalTitle": "【改訂版】本当の自由を手に入れる お金の大学"
       },
       "ranking": {
         "title": "【改訂版】本当の自由を手に入れる お金の大学",
@@ -2278,6 +2274,53 @@
         ],
         "source": "combined",
         "rank": 40
+      }
+    },
+    {
+      "id": "4694295412710",
+      "title": "経営者になれ",
+      "author": "山地章夫",
+      "publisher": "クロスメディア・パブリッシング（インプレス）",
+      "price": 1760,
+      "url": "https://books.rakuten.co.jp/rk/fef8c249ef8c366db71df6b1c4bc3bf9/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0105/2000022150105.jpg?_ex=600x600",
+      "caption": "仕事をこなす毎日から、会社の大切な判断に関わる働き方へ。ヤマチユナイテッドの山地章夫が、今いる会社、今の役割の中で経営者感覚を育てる方法を紹介します。\nAIの活用が広がる中で、自ら問いを立て、判断し、周囲と協力して結果に責任を持つ力が求められています。本書では、経営者へと近づく成長過程をA型・B型・C型の3段階で整理。日々の仕事で取り組める20の実践と、起業も含めて経営に関わる7つの道を示します。\n顧客や数字に目を向け、改善を考え、仲間と成果をつくる。若手・中堅社員が自分の仕事の可能性を広げるために、そして経営者が次の担い手を育てるために役立つ考え方をまとめた一冊です。\n",
+      "salesDate": "2026年10月16日",
+      "series": "",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101905016003/101905016001/101905007002",
+      "isbn": "4694295412710",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "経営者になれ",
+        "author": "",
+        "isbn": "",
+        "score": 152,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 28
+          }
+        ],
+        "source": "combined",
+        "rank": 78
+      },
+      "ranking": {
+        "title": "経営者になれ",
+        "author": "",
+        "isbn": "",
+        "score": 152,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 28
+          }
+        ],
+        "source": "combined",
+        "rank": 41
       }
     },
     {
@@ -2299,7 +2342,8 @@
       "matchMeta": {
         "title": "東大生が日本を100人の島に例えたら 面白いほど経済がわかった! (サンクチュアリ出版)",
         "author": "ムギタロー",
-        "score": 5,
+        "isbn": "",
+        "score": 151,
         "sources": [
           {
             "source": "amazon",
@@ -2308,8 +2352,7 @@
           }
         ],
         "source": "combined",
-        "rank": 103,
-        "originalTitle": ""
+        "rank": 79
       },
       "ranking": {
         "title": "東大生が日本を100人の島に例えたら 面白いほど経済がわかった! (サンクチュアリ出版)",
@@ -2324,7 +2367,7 @@
           }
         ],
         "source": "combined",
-        "rank": 41
+        "rank": 42
       }
     },
     {
@@ -2356,8 +2399,7 @@
           }
         ],
         "source": "combined",
-        "rank": 80,
-        "originalTitle": "凍りつく夏"
+        "rank": 80
       },
       "ranking": {
         "title": "凍りつく夏",
@@ -2372,7 +2414,7 @@
           }
         ],
         "source": "combined",
-        "rank": 42
+        "rank": 43
       }
     },
     {
@@ -2403,7 +2445,7 @@
           }
         ],
         "source": "combined",
-        "rank": 104,
+        "rank": 105,
         "originalTitle": "幽冥の岸 十二国記 (新潮文庫 お 37-66)"
       },
       "ranking": {
@@ -2419,7 +2461,7 @@
           }
         ],
         "source": "combined",
-        "rank": 43
+        "rank": 44
       }
     },
     {
@@ -2450,7 +2492,7 @@
           }
         ],
         "source": "combined",
-        "rank": 7,
+        "rank": 6,
         "originalTitle": ""
       },
       "ranking": {
@@ -2465,7 +2507,54 @@
           }
         ],
         "source": "combined",
-        "rank": 44,
+        "rank": 45,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "4310000890409",
+      "title": "楽園",
+      "author": "夕木春央",
+      "publisher": "講談社",
+      "price": 1980,
+      "url": "https://books.rakuten.co.jp/rk/1a1c684dcee83b98b4d0187187c813d0/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1651/2000021221651.jpg?_ex=600x600",
+      "caption": "殺人犯にならなければ脱出できない。\n『方舟』『十戒』の著者が仕掛ける“禁忌の驚き”\n亡き両親から不動産を譲り受けた康之は、失踪した賃借人・海原の遺留品整理の際に、群馬の山奥の謎の物件の存在を知る。そこは、切り立った岩壁に囲まれた、「楽園」と呼ばれる奇妙な場所だった。恋人の沙織と一緒にそこを訪ね、探索をはじめた康之たちは、すぐに六人の“住人”に拿捕された。脱出のための条件はーー\n「誰か一人を殺さなければならない」\n『方舟』\n第19回オリコン上半期”本”ランキング　文庫ランキングTOP10 第1位\n週刊文春ミステリーベスト10　第1位　（「週刊文春」2022年12月8日号）国内部門\nMRC大賞2022　第1位\n『方舟』＋『十戒』の累計発行部数が100万部突破。\nーー夕木春央が描く、極限のクローズド・サークル。\n",
+      "salesDate": "2026年07月22日",
+      "series": "楽園",
+      "reviewAverage": 4.16,
+      "reviewCount": 509,
+      "genreId": "101902",
+      "isbn": "4310000890409",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "楽園",
+        "author": "夕木春央",
+        "score": 94,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
+          }
+        ],
+        "source": "combined",
+        "rank": 18,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "楽園",
+        "author": "夕木春央",
+        "score": 94,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
+          }
+        ],
+        "source": "combined",
+        "rank": 46,
         "originalTitle": ""
       }
     },
@@ -2497,7 +2586,7 @@
           }
         ],
         "source": "combined",
-        "rank": 22,
+        "rank": 21,
         "originalTitle": ""
       },
       "ranking": {
@@ -2512,7 +2601,7 @@
           }
         ],
         "source": "combined",
-        "rank": 45,
+        "rank": 47,
         "originalTitle": ""
       }
     },
@@ -2559,7 +2648,7 @@
           }
         ],
         "source": "combined",
-        "rank": 46,
+        "rank": 48,
         "originalTitle": ""
       }
     }
@@ -2567,11 +2656,10 @@
   "byGenre": {
     "fiction": [
       "4310000683989",
-      "4910000106227",
       "4910000909001",
       "4390000005636",
-      "4380000408000",
       "4310000886199",
+      "4380000408000",
       "4335254300320",
       "4320000935695",
       "4320000941381",
@@ -2584,28 +2672,28 @@
       "4620000615075",
       "4620000615076",
       "4320000935695",
-      "4320000941381"
+      "4320000941381",
+      "4310000890409"
     ],
     "sf": [],
     "business": [
       "4310000701877",
       "8910126773560",
       "4524815638200",
-      "4694295412710",
       "4910000566481",
+      "4694295412710",
       "8910124728746"
     ],
     "humanities": [
       "4380000407898",
-      "1230008888051",
-      "1230007481703",
       "4380000408073",
-      "4910000106227",
+      "1230007481703",
+      "1230008888051",
       "4390000014247",
       "1230008189752",
       "4470887680000",
-      "4331671700320",
-      "4310000701877"
+      "4310000701877",
+      "4331671700320"
     ],
     "nonfiction": [
       "1230008888051",
@@ -2621,10 +2709,9 @@
     ],
     "life": [
       "4380000407898",
-      "1230008888051",
       "9784651022659",
       "1230007481703",
-      "4910000106227",
+      "1230008888051",
       "1230008189752",
       "4910000951029",
       "4331671700320"
@@ -2645,25 +2732,23 @@
       "4334992300310",
       "4339134200300"
     ],
-    "essay": [
-      "4910000106227"
-    ],
+    "essay": [],
     "comic": [
       "4310000779045",
       "4890000067516",
-      "4320000938428",
+      "4320000937482",
       "7275000947797",
-      "4972000169895",
-      "4310000751786"
+      "4972000169889",
+      "4972000169895"
     ]
   },
   "genreStatus": {
     "fiction": {
-      "matched": 11,
+      "matched": 10,
       "complete": true
     },
     "mystery": {
-      "matched": 6,
+      "matched": 7,
       "complete": true
     },
     "sf": {
@@ -2675,7 +2760,7 @@
       "complete": true
     },
     "humanities": {
-      "matched": 10,
+      "matched": 9,
       "complete": true
     },
     "nonfiction": {
@@ -2691,7 +2776,7 @@
       "complete": true
     },
     "life": {
-      "matched": 8,
+      "matched": 7,
       "complete": true
     },
     "health": {
@@ -2715,7 +2800,7 @@
       "complete": true
     },
     "essay": {
-      "matched": 1,
+      "matched": 0,
       "complete": true
     },
     "comic": {

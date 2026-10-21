@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-10-21T05:38:54.094Z",
+  "updatedAt": "2026-10-21T12:41:09.143Z",
   "candidateCount": 38,
   "baseMatched": 18,
-  "matched": 21,
-  "addedMatches": 3,
+  "matched": 20,
+  "addedMatches": 2,
   "unavailable": [],
   "snapshots": {
     "kinokuniya": {
@@ -122,12 +122,6 @@
           "rank": 6
         },
         {
-          "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
-          "author": "",
-          "isbn": "",
-          "rank": 10
-        },
-        {
           "title": "FOR OVERSEAS",
           "author": "",
           "isbn": "",
@@ -207,24 +201,23 @@
       "salesType": 0,
       "matchMeta": {
         "title": "イン・ザ・メガチャーチ",
-        "author": "",
-        "isbn": "",
-        "score": 336,
+        "author": "朝井リョウ",
+        "score": 120,
         "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 7
+          },
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
             "rank": 18
-          },
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 6
           }
         ],
         "source": "combined",
-        "rank": 5,
-        "originalTitle": "イン・ザ・メガチャーチ"
+        "rank": 2,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "イン・ザ・メガチャーチ",
@@ -436,54 +429,6 @@
       }
     },
     {
-      "id": "4524815633410",
-      "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
-      "author": "堀田 秀吾",
-      "publisher": "SBクリエイティブ",
-      "price": 1760,
-      "url": "https://books.rakuten.co.jp/rk/79a1d43cefcb3337b3e2363c5f00a07e/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1658/2000018091658.jpg?_ex=600x600",
-      "caption": "勉強・ダイエット・貯金・目標達成…は習慣化が10割\n仕事、ダイエット、健康管理、勉強、目標達成…すべて成功のカギは「習慣化」にあります。\nしかし間違った習慣を身につけてしまったらその代償は大きくなってしまいます。\n何をどう習慣化すればいいか、そのために重要になるのが「エビデンス」です。\n・もし「A」をしたら「B」をすると、あらかじめ決めておく\n・選択肢は必ず「3つ」用意しておく\n・常にポジティブな言葉を使うーつらさに対する耐性が高まる\n・52分間作業して、17分休憩するー生産性が高まるetc.\n本書は、ハーバード、スタンフォード、オックスフォード…などの研究機関において証明されたテクニックを112個紹介。\n見開き図解入りでわかりやすい。気になったテクニックからはじめられ、情報収集のためにも役立ち、また読みものとしても楽しめる一冊です。\n※カバー画像が異なる場合があります。\n",
-      "salesDate": "2025年07月02日",
-      "series": "",
-      "reviewAverage": 3.68,
-      "reviewCount": 395,
-      "genreId": "101905090",
-      "isbn": "4524815633410",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ハーバード、スタンフォード、オックスフォード... 科学的に証明された すごい習慣大百科",
-        "author": "",
-        "isbn": "",
-        "score": 170,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 17,
-        "originalTitle": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科"
-      },
-      "ranking": {
-        "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
-        "author": "",
-        "isbn": "",
-        "score": 170,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 7
-      }
-    },
-    {
       "id": "9781505942323",
       "title": "How to Start a Crown Agents for Overseas Governments and Administrations Business (Beginners Guide)",
       "author": "Leclair Jaquelyn",
@@ -527,7 +472,7 @@
           }
         ],
         "source": "combined",
-        "rank": 8
+        "rank": 7
       }
     },
     {
@@ -574,7 +519,7 @@
           }
         ],
         "source": "combined",
-        "rank": 9
+        "rank": 8
       }
     },
     {
@@ -621,7 +566,7 @@
           }
         ],
         "source": "combined",
-        "rank": 10
+        "rank": 9
       }
     },
     {
@@ -668,7 +613,7 @@
           }
         ],
         "source": "combined",
-        "rank": 11
+        "rank": 10
       }
     },
     {
@@ -690,7 +635,8 @@
       "matchMeta": {
         "title": "きずもの",
         "author": "",
-        "score": 22,
+        "isbn": "",
+        "score": 158,
         "sources": [
           {
             "source": "kinokuniya",
@@ -699,8 +645,7 @@
           }
         ],
         "source": "combined",
-        "rank": 30,
-        "originalTitle": ""
+        "rank": 30
       },
       "ranking": {
         "title": "きずもの",
@@ -715,7 +660,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12
+        "rank": 11
       }
     },
     {
@@ -762,7 +707,7 @@
           }
         ],
         "source": "combined",
-        "rank": 13
+        "rank": 12
       }
     },
     {
@@ -809,7 +754,7 @@
           }
         ],
         "source": "combined",
-        "rank": 14
+        "rank": 13
       }
     },
     {
@@ -856,7 +801,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15
+        "rank": 14
       }
     },
     {
@@ -902,7 +847,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16,
+        "rank": 15,
         "originalTitle": ""
       }
     },
@@ -918,7 +863,7 @@
       "salesDate": "2026年06月05日",
       "series": "ファイア・ドーム",
       "reviewAverage": 4.57,
-      "reviewCount": 502,
+      "reviewCount": 503,
       "genreId": "101901/101902",
       "isbn": "4320000865495",
       "salesType": 0,
@@ -949,54 +894,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17,
-        "originalTitle": ""
-      }
-    },
-    {
-      "id": "4320000865494",
-      "title": "ファイア・ドーム 下",
-      "author": "辻村深月",
-      "publisher": "小学館",
-      "price": 1881,
-      "url": "https://books.rakuten.co.jp/rk/0cf87d9a77c93fe8a0124e6398a0aa4b/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1763/2000020771763.jpg?_ex=600x600",
-      "caption": "お前の家は、人殺しだ。\n真実を知っても、人は忘れていく。\n25年前の夏、この町には炎が降り注いだ。百貨店受付嬢誘拐殺人事件という、身近で突然起こった全国レベルのニュースを、誰もがいつまでも終わらせたくなかった。傷ついた人をさらに傷つけてしまった土地に、事件の火の粉は、まだ残っている。夏の日、写生遠足の帰りに姿を消した少年は無事に帰ってくるのか？　25年前の事件には、「まだ明かされていない」事実が本当にあるのか？\n「病気なんかで、死ねると思うな」ーー本文より\n",
-      "salesDate": "2026年06月05日",
-      "series": "ファイア・ドーム",
-      "reviewAverage": 4.61,
-      "reviewCount": 692,
-      "genreId": "101901/101902",
-      "isbn": "4320000865494",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ファイア・ドーム 下",
-        "author": "辻村深月",
-        "score": 98,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 3
-          }
-        ],
-        "source": "combined",
-        "rank": 7,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "ファイア・ドーム 下",
-        "author": "辻村深月",
-        "score": 98,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 3
-          }
-        ],
-        "source": "combined",
-        "rank": 18,
+        "rank": 16,
         "originalTitle": ""
       }
     },
@@ -1043,7 +941,54 @@
           }
         ],
         "source": "combined",
-        "rank": 19,
+        "rank": 17,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "4390000015358",
+      "title": "青天",
+      "author": "若林正恭",
+      "publisher": "文藝春秋",
+      "price": 1900,
+      "url": "https://books.rakuten.co.jp/rk/a6fc1b8794af3eafb7f064fac9c68dfa/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0144/2000019330144.jpg?_ex=600x600",
+      "caption": "オードリー・若林正恭、初小説！\n人にぶつかっていないと、自分が生きているかどうかよくわからなくなるーー\n総大三高の「アリ」こと中村昴が所属するアメフト部は、万年２回戦どまり。相手校の練習を隠し撮りして迎えた高３の引退大会では、強豪・遼西学園に打ち破れた。引退後、みなが受験に向かうなか、勉強にも気持ちが入らず、不良になる覚悟もないまま宙ぶらりんの日々を過ごす。自分自身の不甲斐なさにもがき続けるなかで、アリは再びアメフトと向き合う決意を固める。\n青春の苦みと悦びに満ちた、著者渾身の初小説。\n",
+      "salesDate": "2026年02月20日",
+      "series": "",
+      "reviewAverage": 3.98,
+      "reviewCount": 635,
+      "genreId": "101901",
+      "isbn": "4390000015358",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "青天",
+        "author": "若林正恭",
+        "score": 78,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 15,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "青天",
+        "author": "若林正恭",
+        "score": 78,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 18,
         "originalTitle": ""
       }
     },
@@ -1090,7 +1035,7 @@
           }
         ],
         "source": "combined",
-        "rank": 20,
+        "rank": 19,
         "originalTitle": ""
       }
     },
@@ -1137,7 +1082,7 @@
           }
         ],
         "source": "combined",
-        "rank": 21,
+        "rank": 20,
         "originalTitle": ""
       }
     }
@@ -1150,17 +1095,15 @@
       "4320000935691",
       "4320000867368",
       "4320000865495",
-      "4320000865494",
-      "4310000858457"
+      "4310000858457",
+      "4390000015358"
     ],
     "mystery": [
       "4320000935695",
-      "4320000865495",
-      "4320000865494"
+      "4320000865495"
     ],
     "sf": [],
     "business": [
-      "4524815633410",
       "4310000701877",
       "7225000954165",
       "7225000944897",
@@ -1205,7 +1148,7 @@
       "complete": true
     },
     "mystery": {
-      "matched": 3,
+      "matched": 2,
       "complete": true
     },
     "sf": {
@@ -1213,7 +1156,7 @@
       "complete": true
     },
     "business": {
-      "matched": 5,
+      "matched": 4,
       "complete": true
     },
     "humanities": {

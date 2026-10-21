@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-10-21T17:55:28.949Z",
+  "updatedAt": "2026-10-21T22:14:15.397Z",
   "candidateCount": 38,
-  "baseMatched": 19,
+  "baseMatched": 18,
   "matched": 21,
-  "addedMatches": 2,
+  "addedMatches": 3,
   "unavailable": [],
   "snapshots": {
     "kinokuniya": {
@@ -451,7 +451,7 @@
       "isbn": "4524815633410",
       "salesType": 0,
       "matchMeta": {
-        "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
+        "title": "ハーバード、スタンフォード、オックスフォード... 科学的に証明された すごい習慣大百科",
         "author": "",
         "isbn": "",
         "score": 170,
@@ -463,7 +463,8 @@
           }
         ],
         "source": "combined",
-        "rank": 17
+        "rank": 17,
+        "originalTitle": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科"
       },
       "ranking": {
         "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
@@ -510,7 +511,8 @@
           }
         ],
         "source": "combined",
-        "rank": 21
+        "rank": 21,
+        "originalTitle": "FOR OVERSEAS"
       },
       "ranking": {
         "title": "FOR OVERSEAS",
@@ -735,7 +737,8 @@
       "matchMeta": {
         "title": "継体天皇 - 六世紀に現れた世襲王権の「始祖王」 中公新書",
         "author": "",
-        "score": 5,
+        "isbn": "",
+        "score": 153,
         "sources": [
           {
             "source": "kinokuniya",
@@ -744,8 +747,7 @@
           }
         ],
         "source": "combined",
-        "rank": 35,
-        "originalTitle": ""
+        "rank": 35
       },
       "ranking": {
         "title": "継体天皇 - 六世紀に現れた世襲王権の「始祖王」 中公新書",

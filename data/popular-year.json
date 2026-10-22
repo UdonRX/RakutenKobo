@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "year",
-  "updatedAt": "2026-10-22T18:04:21.185Z",
+  "updatedAt": "2026-10-22T22:10:50.155Z",
   "candidateCount": 10,
-  "baseMatched": 6,
+  "baseMatched": 8,
   "matched": 8,
-  "addedMatches": 2,
+  "addedMatches": 0,
   "unavailable": [],
   "snapshots": {
     "tohan": {
@@ -138,8 +138,7 @@
       "matchMeta": {
         "title": "変な地図",
         "author": "雨穴",
-        "isbn": "",
-        "score": 178,
+        "score": 102,
         "sources": [
           {
             "source": "tohan",
@@ -149,7 +148,7 @@
         ],
         "source": "combined",
         "rank": 2,
-        "originalTitle": "変な地図"
+        "originalTitle": ""
       },
       "ranking": {
         "title": "変な地図",
@@ -280,8 +279,7 @@
       "matchMeta": {
         "title": "暁星",
         "author": "湊かなえ",
-        "isbn": "",
-        "score": 173,
+        "score": 82,
         "sources": [
           {
             "source": "tohan",
@@ -291,7 +289,7 @@
         ],
         "source": "combined",
         "rank": 7,
-        "originalTitle": "暁星"
+        "originalTitle": ""
       },
       "ranking": {
         "title": "暁星",

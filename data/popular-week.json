@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-10-22T12:42:46.479Z",
-  "candidateCount": 76,
-  "baseMatched": 33,
-  "matched": 39,
-  "addedMatches": 6,
+  "updatedAt": "2026-10-22T18:04:04.251Z",
+  "candidateCount": 82,
+  "baseMatched": 35,
+  "matched": 45,
+  "addedMatches": 10,
   "unavailable": [
     "rakuten"
   ],
@@ -296,9 +296,117 @@
           "rank": 10
         }
       ]
+    },
+    "rakuten": {
+      "id": "rakuten",
+      "label": "楽天ブックス",
+      "attribution": "楽天ブックス",
+      "sourceUrl": "https://books.rakuten.co.jp/",
+      "periodLabel": "売れ筋順",
+      "updatedAt": "2026-10-22",
+      "live": true,
+      "items": [
+        {
+          "title": "ONE PIECE 116",
+          "author": "尾田 栄一郎",
+          "rank": 1
+        },
+        {
+          "title": "秘密にしたい魅惑のスイーツレシピ",
+          "author": "小林啓吾",
+          "rank": 5
+        },
+        {
+          "title": "Leaf Autumn 2026",
+          "author": "芦沢 央/一穂 ミチ/小田 雅久仁/佐藤 究/宮島 未奈",
+          "rank": 6
+        },
+        {
+          "title": "anan No.2516 Special Edition",
+          "author": "",
+          "rank": 8
+        },
+        {
+          "title": "暁のヨナ 48",
+          "author": "草凪 みずほ",
+          "rank": 16
+        },
+        {
+          "title": "キングダム 81",
+          "author": "原 泰久",
+          "rank": 20
+        },
+        {
+          "title": "名探偵コナン（109）",
+          "author": "青山 剛昌",
+          "rank": 23
+        },
+        {
+          "title": "SPY×FAMILY 18",
+          "author": "遠藤 達哉",
+          "rank": 24
+        }
+      ]
     }
   },
   "items": [
+    {
+      "id": "9784651022659",
+      "title": "秘密にしたい魅惑のスイーツレシピ",
+      "author": "小林啓吾",
+      "publisher": "ワン・パブリッシング",
+      "price": 1760,
+      "url": "https://books.rakuten.co.jp/rk/285f41d64eb63bf9b9ab0274532131f1/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6697/2000022186697.jpg?_ex=600x600",
+      "caption": "創業190年の老舗「榮玉堂」八代目・小林啓吾さんが提案する、“おうちで楽しむプロの味”をテーマにしたお菓子レシピ集。使うのは、スーパーで手に入る身近な食材と、家庭にある道具だけ。特別な材料や難しい工程は一切なし。それでいて、ひと口食べれば「お店みたい！」と驚くような仕上がりを目指せる作り方を紹介。和菓子・洋菓子の垣根を越えて、お菓子づくりをもっと自由に、もっと身近に楽しめる一冊です。\n",
+      "salesDate": "2026年10月20日",
+      "series": "",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101909010",
+      "isbn": "9784651022659",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "秘密にしたい魅惑のスイーツレシピ",
+        "author": "小林啓吾",
+        "score": 196,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 5
+          },
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 1
+          }
+        ],
+        "source": "combined",
+        "rank": 1,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "秘密にしたい魅惑のスイーツレシピ",
+        "author": "小林啓吾",
+        "isbn": "",
+        "score": 354,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 1
+          },
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
+        "rank": 1
+      }
+    },
     {
       "id": "4380000407898",
       "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
@@ -310,8 +418,8 @@
       "caption": "70代は頭も体もまだ大丈夫。\nそれなりに蓄えもできている。\nでもこれまでと全く同じことをしていたらダメ。\nできないことは諦め、楽しいことを大事にし、人生の新しいステージに立とう。\n同じ年代とばかりつるまず、ダイエットはしない。\n嫌われずに自慢話をするテクニック、お金にキレイな人と思われるおごり方ーー。\n72歳の人気作家が本音で語る「健康」「おしゃれ」「仕事」「お金」「人間関係」「趣味」。\n確実に近づく「その日」を見つめ、今の1分1秒を楽しんで生きるための、痛快・人生論。\n",
       "salesDate": "2026年05月27日",
       "series": "",
-      "reviewAverage": 3.53,
-      "reviewCount": 73,
+      "reviewAverage": 3.51,
+      "reviewCount": 75,
       "genreId": "101907010004/101909",
       "isbn": "4380000407898",
       "salesType": 0,
@@ -332,7 +440,7 @@
           }
         ],
         "source": "combined",
-        "rank": 1,
+        "rank": 2,
         "originalTitle": ""
       },
       "ranking": {
@@ -353,7 +461,64 @@
           }
         ],
         "source": "combined",
-        "rank": 1
+        "rank": 2
+      }
+    },
+    {
+      "id": "6681318746430",
+      "title": "Leaf Autumn 2026",
+      "author": "芦沢央/一穂ミチ/小田雅久仁/佐藤究/宮島未奈",
+      "publisher": "双葉社",
+      "price": 880,
+      "url": "https://books.rakuten.co.jp/rk/b177deef2840311e8356d49fac3950f9/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7488/2000022137488.jpg?_ex=600x600",
+      "caption": "2028年双葉社創業80周年記念カウントダウン企画\n〜「Leaf」　物語の一葉が、心の幹に〜\nすべて読切の小説や、対談・エッセイなどオリジナル企画を贅沢に詰め込んだ新文芸誌、第１号！　各界の異才が結集した奇跡の一冊。\n第1号から5号にわたって、計「80」名の創作者が登場予定。\n価格は「880円（税込）」！\n○第1号テーマ「街、あるいは何処かで」\n小説界のレジェンドから今をときめく新鋭まで、実在の街や場所、もしくは架空の場を舞台に描く、綺羅星のごとく並ぶ作品群でお届けします。\n［小説］\n赤川次郎・朝井まかて・芦沢央・いしいしんじ・一穂ミチ・小田雅久仁・神永学・木爾チレン・佐藤究・澤村伊智・渋谷龍太（SUPER BEAVER）・染井為人・松下龍之介・宮島未奈\n［エッセイ］伊坂幸太郎\n［コミックエッセイ］小指\n［対談］藤野千夜×志村貴子\n",
+      "salesDate": "2026年10月21日",
+      "series": "Leaf",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101901",
+      "isbn": "6681318746430",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "Leaf Autumn 2026",
+        "author": "芦沢 央/一穂 ミチ/小田 雅久仁/佐藤 究/宮島 未奈",
+        "score": 160,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 6
+          },
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 4,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "Leaf Autumn 2026",
+        "author": "芦沢央",
+        "isbn": "",
+        "score": 345,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 9
+          },
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 6
+          }
+        ],
+        "source": "combined",
+        "rank": 3
       }
     },
     {
@@ -384,7 +549,7 @@
           }
         ],
         "source": "combined",
-        "rank": 5,
+        "rank": 10,
         "originalTitle": ""
       },
       "ranking": {
@@ -400,54 +565,54 @@
           }
         ],
         "source": "combined",
-        "rank": 2
+        "rank": 4
       }
     },
     {
-      "id": "9784651022659",
-      "title": "秘密にしたい魅惑のスイーツレシピ",
-      "author": "小林啓吾",
-      "publisher": "ワン・パブリッシング",
-      "price": 1760,
-      "url": "https://books.rakuten.co.jp/rk/285f41d64eb63bf9b9ab0274532131f1/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6697/2000022186697.jpg?_ex=600x600",
-      "caption": "創業190年の老舗「榮玉堂」八代目・小林啓吾さんが提案する、“おうちで楽しむプロの味”をテーマにしたお菓子レシピ集。使うのは、スーパーで手に入る身近な食材と、家庭にある道具だけ。特別な材料や難しい工程は一切なし。それでいて、ひと口食べれば「お店みたい！」と驚くような仕上がりを目指せる作り方を紹介。和菓子・洋菓子の垣根を越えて、お菓子づくりをもっと自由に、もっと身近に楽しめる一冊です。\n",
-      "salesDate": "2026年10月20日",
-      "series": "",
+      "id": "9782331056031",
+      "title": "One Piece édition originale - Chapitre 116",
+      "author": "Eiichiro Oda",
+      "publisher": "Glénat Manga",
+      "price": 110,
+      "url": "https://books.rakuten.co.jp/rk/2a84f0cc18e03a1b9c896c01d88d9fa1/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9368/2000020559368.jpg?_ex=600x600",
+      "caption": "Les aventures de Luffy à la poursuite du One Piece continuent !\n",
+      "salesDate": "2022年06月15日",
+      "series": "One Piece Chapitres",
       "reviewAverage": 0,
       "reviewCount": 0,
-      "genreId": "101909010",
-      "isbn": "9784651022659",
+      "genreId": "101970004011",
+      "isbn": "9782331056031",
       "salesType": 0,
       "matchMeta": {
-        "title": "秘密にしたい魅惑のスイーツレシピ",
-        "author": "小林啓吾",
+        "title": "ONE PIECE 116",
+        "author": "尾田 栄一郎",
         "score": 106,
         "sources": [
           {
-            "source": "amazon",
-            "label": "Amazon",
+            "source": "rakuten",
+            "label": "楽天ブックス",
             "rank": 1
           }
         ],
         "source": "combined",
-        "rank": 6,
+        "rank": 11,
         "originalTitle": ""
       },
       "ranking": {
-        "title": "秘密にしたい魅惑のスイーツレシピ",
-        "author": "小林啓吾",
+        "title": "ONE PIECE 116",
+        "author": "尾田 栄一郎",
         "isbn": "",
         "score": 179,
         "sources": [
           {
-            "source": "amazon",
-            "label": "Amazon",
+            "source": "rakuten",
+            "label": "楽天ブックス",
             "rank": 1
           }
         ],
         "source": "combined",
-        "rank": 3
+        "rank": 5
       }
     },
     {
@@ -478,7 +643,7 @@
           }
         ],
         "source": "combined",
-        "rank": 11,
+        "rank": 17,
         "originalTitle": ""
       },
       "ranking": {
@@ -494,7 +659,7 @@
           }
         ],
         "source": "combined",
-        "rank": 4
+        "rank": 6
       }
     },
     {
@@ -525,7 +690,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12,
+        "rank": 19,
         "originalTitle": ""
       },
       "ranking": {
@@ -541,54 +706,7 @@
           }
         ],
         "source": "combined",
-        "rank": 5
-      }
-    },
-    {
-      "id": "4310000890409",
-      "title": "楽園",
-      "author": "夕木春央",
-      "publisher": "講談社",
-      "price": 1980,
-      "url": "https://books.rakuten.co.jp/rk/1a1c684dcee83b98b4d0187187c813d0/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1651/2000021221651.jpg?_ex=600x600",
-      "caption": "殺人犯にならなければ脱出できない。\n『方舟』『十戒』の著者が仕掛ける“禁忌の驚き”\n亡き両親から不動産を譲り受けた康之は、失踪した賃借人・海原の遺留品整理の際に、群馬の山奥の謎の物件の存在を知る。そこは、切り立った岩壁に囲まれた、「楽園」と呼ばれる奇妙な場所だった。恋人の沙織と一緒にそこを訪ね、探索をはじめた康之たちは、すぐに六人の“住人”に拿捕された。脱出のための条件はーー\n「誰か一人を殺さなければならない」\n『方舟』\n第19回オリコン上半期”本”ランキング　文庫ランキングTOP10 第1位\n週刊文春ミステリーベスト10　第1位　（「週刊文春」2022年12月8日号）国内部門\nMRC大賞2022　第1位\n『方舟』＋『十戒』の累計発行部数が100万部突破。\nーー夕木春央が描く、極限のクローズド・サークル。\n",
-      "salesDate": "2026年07月22日",
-      "series": "楽園",
-      "reviewAverage": 4.16,
-      "reviewCount": 509,
-      "genreId": "101902",
-      "isbn": "4310000890409",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "楽園",
-        "author": "夕木春央",
-        "score": 94,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
-          }
-        ],
-        "source": "combined",
-        "rank": 14,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "楽園",
-        "author": "夕木春央",
-        "isbn": "",
-        "score": 176,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
-          }
-        ],
-        "source": "combined",
-        "rank": 6
+        "rank": 7
       }
     },
     {
@@ -603,7 +721,7 @@
       "salesDate": "2025年07月15日",
       "series": "汝、星のごとく",
       "reviewAverage": 4.39,
-      "reviewCount": 1651,
+      "reviewCount": 1672,
       "genreId": "101901",
       "isbn": "4310000683989",
       "salesType": 0,
@@ -619,7 +737,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15,
+        "rank": 22,
         "originalTitle": ""
       },
       "ranking": {
@@ -635,97 +753,51 @@
           }
         ],
         "source": "combined",
-        "rank": 7
-      }
-    },
-    {
-      "id": "4910000909001",
-      "title": "シャーロック・ホームズの凱旋",
-      "author": "森見登美彦",
-      "publisher": "中央公論新社",
-      "price": 1210,
-      "url": "https://books.rakuten.co.jp/rk/8782db66778c3698bdfbb4e8ea454fae/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4690/2000021504690.jpg?_ex=600x600",
-      "caption": "「天から与えられた才能はどこへ消えた？」\n舞台はヴィクトリア朝京都。\n洛中洛外に名を轟かせた名探偵ホームズが……\nまさかの大スランプ！？\n【文庫限定音声特典】「登美彦氏、ヴィクトリア朝京都を語る」（QRコードを収録）\n-----\nこの手記は脱出不可能の迷宮と化した舞台裏からの報告書である。\nいつの間にか迷いこんだその舞台裏において、私たちはかつて経験したことのない「非探偵小説的な冒険」を強いられることになったわけだが、世の人々がその冒険について知ることはなかった。スランプに陥ってからというもの、シャーロック・ホームズは世間的には死んだも同然であり、それはこの私、ジョン・Ｈ・ワトソンにしても同様だったからである。\nシャーロック・ホームズの沈黙は、ジョン・Ｈ・ワトソンの沈黙でもあった。\n-----（本文より）\n謎が謎を呼ぶ痛快無比な森見劇場、ついに開幕！\n目次\nプロローグ\n第一章　ジェイムズ・モリアーティの彷徨\n第二章　アイリーン・アドラーの挑戦\n第三章　レイチェル・マスグレーヴの失踪\n第四章　メアリ・モースタンの決意\n第五章　シャーロック・ホームズの凱旋\nエピローグ\n",
-      "salesDate": "2026年08月21日",
-      "series": "シャーロック・ホームズの凱旋",
-      "reviewAverage": 3.19,
-      "reviewCount": 28,
-      "genreId": "101901006",
-      "isbn": "4910000909001",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "シャーロック・ホームズの凱旋",
-        "author": "森見登美彦",
-        "score": 90,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 5
-          }
-        ],
-        "source": "combined",
-        "rank": 17,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "シャーロック・ホームズの凱旋",
-        "author": "森見登美彦",
-        "isbn": "",
-        "score": 175,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 5
-          }
-        ],
-        "source": "combined",
         "rank": 8
       }
     },
     {
-      "id": "9784059239659",
-      "title": "地球の歩き方 スター・ウォーズ",
-      "author": "",
-      "publisher": "地球の歩き方",
-      "price": 2750,
-      "url": "https://books.rakuten.co.jp/rk/40558a21970c38b8891b35aee564d356/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9941/2000020489941.jpg?_ex=600x600",
-      "caption": "銀河の果てまで旅するように、物語の舞台を歩く……。\n『スター・ウォーズ』の世界を「地球の歩き方」ならではの旅行ガイドスタイルでひもとく、スペシャルブックが登場！\nもしあなたが『スター・ウォーズ』の世界を訪れることになっても、本書があれば安心。劇場公開作品を中心に、ストーリーの流れや主要キャラクターの魅力を、心に残る名シーンとともにしっかりおさらいできます。さらに、モデルプランや旅のテクニックなど、ファン心をくすぐるコンテンツも充実。\n作品世界をより深く理解し、楽しむための情報を厳選して収録した、ファン必携の永久保存版です。\n※予告なく一部内容が変更される可能性もあります。予めご了承ください。\n※電子版では、紙のガイドブックと内容が一部異なります。掲載されない写真や図版、収録されないページがある場合があります。あらかじめご了承下さい。\n",
-      "salesDate": "2026年07月29日",
-      "series": "",
-      "reviewAverage": 4,
-      "reviewCount": 5,
-      "genreId": "101911",
-      "isbn": "9784059239659",
+      "id": "4310000890409",
+      "title": "楽園",
+      "author": "夕木春央",
+      "publisher": "講談社",
+      "price": 1980,
+      "url": "https://books.rakuten.co.jp/rk/1a1c684dcee83b98b4d0187187c813d0/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1651/2000021221651.jpg?_ex=600x600",
+      "caption": "殺人犯にならなければ脱出できない。\n『方舟』『十戒』の著者が仕掛ける“禁忌の驚き”\n亡き両親から不動産を譲り受けた康之は、失踪した賃借人・海原の遺留品整理の際に、群馬の山奥の謎の物件の存在を知る。そこは、切り立った岩壁に囲まれた、「楽園」と呼ばれる奇妙な場所だった。恋人の沙織と一緒にそこを訪ね、探索をはじめた康之たちは、すぐに六人の“住人”に拿捕された。脱出のための条件はーー\n「誰か一人を殺さなければならない」\n『方舟』\n第19回オリコン上半期”本”ランキング　文庫ランキングTOP10 第1位\n週刊文春ミステリーベスト10　第1位　（「週刊文春」2022年12月8日号）国内部門\nMRC大賞2022　第1位\n『方舟』＋『十戒』の累計発行部数が100万部突破。\nーー夕木春央が描く、極限のクローズド・サークル。\n",
+      "salesDate": "2026年07月22日",
+      "series": "楽園",
+      "reviewAverage": 4.16,
+      "reviewCount": 518,
+      "genreId": "101902",
+      "isbn": "4310000890409",
       "salesType": 0,
       "matchMeta": {
-        "title": "地球の歩き方 スター・ウォーズ",
-        "author": "地球の歩き方編集室",
-        "score": 90,
+        "title": "楽園",
+        "author": "夕木春央",
+        "isbn": "",
+        "score": 176,
         "sources": [
           {
             "source": "tohan",
             "label": "トーハン",
-            "rank": 5
+            "rank": 4
           }
         ],
         "source": "combined",
         "rank": 18,
-        "originalTitle": ""
+        "originalTitle": "楽園"
       },
       "ranking": {
-        "title": "地球の歩き方 スター・ウォーズ",
-        "author": "地球の歩き方編集室",
+        "title": "楽園",
+        "author": "夕木春央",
         "isbn": "",
-        "score": 175,
+        "score": 176,
         "sources": [
           {
             "source": "tohan",
             "label": "トーハン",
-            "rank": 5
+            "rank": 4
           }
         ],
         "source": "combined",
@@ -760,7 +832,7 @@
           }
         ],
         "source": "combined",
-        "rank": 19,
+        "rank": 25,
         "originalTitle": "誰も教えてくれなかった　本当のお金の守り方"
       },
       "ranking": {
@@ -777,6 +849,53 @@
         ],
         "source": "combined",
         "rank": 10
+      }
+    },
+    {
+      "id": "4910000909001",
+      "title": "シャーロック・ホームズの凱旋",
+      "author": "森見登美彦",
+      "publisher": "中央公論新社",
+      "price": 1210,
+      "url": "https://books.rakuten.co.jp/rk/8782db66778c3698bdfbb4e8ea454fae/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4690/2000021504690.jpg?_ex=600x600",
+      "caption": "「天から与えられた才能はどこへ消えた？」\n舞台はヴィクトリア朝京都。\n洛中洛外に名を轟かせた名探偵ホームズが……\nまさかの大スランプ！？\n【文庫限定音声特典】「登美彦氏、ヴィクトリア朝京都を語る」（QRコードを収録）\n-----\nこの手記は脱出不可能の迷宮と化した舞台裏からの報告書である。\nいつの間にか迷いこんだその舞台裏において、私たちはかつて経験したことのない「非探偵小説的な冒険」を強いられることになったわけだが、世の人々がその冒険について知ることはなかった。スランプに陥ってからというもの、シャーロック・ホームズは世間的には死んだも同然であり、それはこの私、ジョン・Ｈ・ワトソンにしても同様だったからである。\nシャーロック・ホームズの沈黙は、ジョン・Ｈ・ワトソンの沈黙でもあった。\n-----（本文より）\n謎が謎を呼ぶ痛快無比な森見劇場、ついに開幕！\n目次\nプロローグ\n第一章　ジェイムズ・モリアーティの彷徨\n第二章　アイリーン・アドラーの挑戦\n第三章　レイチェル・マスグレーヴの失踪\n第四章　メアリ・モースタンの決意\n第五章　シャーロック・ホームズの凱旋\nエピローグ\n",
+      "salesDate": "2026年08月21日",
+      "series": "シャーロック・ホームズの凱旋",
+      "reviewAverage": 3.16,
+      "reviewCount": 34,
+      "genreId": "101901006",
+      "isbn": "4910000909001",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "シャーロック・ホームズの凱旋",
+        "author": "森見登美彦",
+        "score": 90,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
+        "rank": 23,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "シャーロック・ホームズの凱旋",
+        "author": "森見登美彦",
+        "isbn": "",
+        "score": 175,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
+        "rank": 11
       }
     },
     {
@@ -807,7 +926,7 @@
           }
         ],
         "source": "combined",
-        "rank": 20,
+        "rank": 26,
         "originalTitle": "汝、星のごとく (講談社文庫 な 101-1)"
       },
       "ranking": {
@@ -823,7 +942,54 @@
           }
         ],
         "source": "combined",
-        "rank": 11
+        "rank": 12
+      }
+    },
+    {
+      "id": "9784059239659",
+      "title": "地球の歩き方 スター・ウォーズ",
+      "author": "",
+      "publisher": "地球の歩き方",
+      "price": 2750,
+      "url": "https://books.rakuten.co.jp/rk/40558a21970c38b8891b35aee564d356/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9941/2000020489941.jpg?_ex=600x600",
+      "caption": "銀河の果てまで旅するように、物語の舞台を歩く……。\n『スター・ウォーズ』の世界を「地球の歩き方」ならではの旅行ガイドスタイルでひもとく、スペシャルブックが登場！\nもしあなたが『スター・ウォーズ』の世界を訪れることになっても、本書があれば安心。劇場公開作品を中心に、ストーリーの流れや主要キャラクターの魅力を、心に残る名シーンとともにしっかりおさらいできます。さらに、モデルプランや旅のテクニックなど、ファン心をくすぐるコンテンツも充実。\n作品世界をより深く理解し、楽しむための情報を厳選して収録した、ファン必携の永久保存版です。\n※予告なく一部内容が変更される可能性もあります。予めご了承ください。\n※電子版では、紙のガイドブックと内容が一部異なります。掲載されない写真や図版、収録されないページがある場合があります。あらかじめご了承下さい。\n",
+      "salesDate": "2026年07月29日",
+      "series": "",
+      "reviewAverage": 4,
+      "reviewCount": 5,
+      "genreId": "101911",
+      "isbn": "9784059239659",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "地球の歩き方 スター・ウォーズ",
+        "author": "地球の歩き方編集室",
+        "isbn": "",
+        "score": 175,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
+        "rank": 22
+      },
+      "ranking": {
+        "title": "地球の歩き方 スター・ウォーズ",
+        "author": "地球の歩き方編集室",
+        "isbn": "",
+        "score": 175,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
+        "rank": 13
       }
     },
     {
@@ -838,7 +1004,7 @@
       "salesDate": "2020年04月24日",
       "series": "",
       "reviewAverage": 4.45,
-      "reviewCount": 2757,
+      "reviewCount": 2762,
       "genreId": "101901/101902",
       "isbn": "4390000005636",
       "salesType": 0,
@@ -854,7 +1020,7 @@
           }
         ],
         "source": "combined",
-        "rank": 25,
+        "rank": 31,
         "originalTitle": ""
       },
       "ranking": {
@@ -870,7 +1036,54 @@
           }
         ],
         "source": "combined",
-        "rank": 12
+        "rank": 14
+      }
+    },
+    {
+      "id": "6681318734680",
+      "title": "anan No.2516 Special Edition",
+      "author": "anan編集部",
+      "publisher": "マガジンハウス",
+      "price": 810,
+      "url": "https://books.rakuten.co.jp/rk/8f12796def4b3536b495986ca013f601/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5081/2000022155081.jpg?_ex=600x600",
+      "caption": "※『特別付録：グローグー我らの道シール』は付属しておりません。\n※『両観音 The Book of the Clan of Two』は掲載されておりません。\n※『anan No.2516』『anan No.2516増刊』は表紙のみが異なり、そのほかの内容はすべて同一です。\n※『anan No.2516 Special Edition』は表紙・裏表紙・一部内容が異なります。\n※電子版では、紙の雑誌と内容が一部異なる場合や、掲載されないページや特別付録が含まれない場合がございます。\n※本雑誌はカラーページを含みます。お使いの端末によっては、一部読みづらい場合がございます。\n道枝駿佑（なにわ男子） 大人への逃避行（エスケープ）。\n“好き”をとことん極める旅へ! 秋の推し旅2026\n沖縄 ローカル“粉もの”食べつくし旅。\n奈良 近代建築を愛でる旅。\n大阪 たくろうと巡る! お笑い&芸人メシに浸る旅。\n例えば炎が、“なにわラグジュアリー”なOMO7大阪の魅力をレポート!\nローカルに愛される味と魅力を深掘り。おいしい! 楽しい! ご当地チェーン。\nマンダロリアンとグローグー、銀河を駆け抜ける二人の物語。\n芳根京子 本田響矢 ふたり、うららかに。\n爽やかな風に誘われて、波が煌めく港町へ。小芝風花が旅する、リゾナーレ下関。\n好きに出合う旅上手のトラベルアドレス。坂口涼太郎／宇賀なつみ／上西星来／石井輝明（CITY）／田形千紘\nCLOSE UP KO1KEYZ 夢への扉が開くとき。\n",
+      "salesDate": "2026年10月21日",
+      "series": "anan",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101950020",
+      "isbn": "6681318734680",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "anan No.2516 Special Edition",
+        "author": "",
+        "score": 78,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 37,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "anan No.2516 Special Edition",
+        "author": "",
+        "isbn": "",
+        "score": 172,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 15
       }
     },
     {
@@ -901,7 +1114,7 @@
           }
         ],
         "source": "combined",
-        "rank": 30,
+        "rank": 38,
         "originalTitle": ""
       },
       "ranking": {
@@ -917,7 +1130,7 @@
           }
         ],
         "source": "combined",
-        "rank": 13
+        "rank": 16
       }
     },
     {
@@ -948,7 +1161,7 @@
           }
         ],
         "source": "combined",
-        "rank": 31,
+        "rank": 39,
         "originalTitle": "ようこそ実力至上主義の教室へ 3年生編5 (MF文庫J)"
       },
       "ranking": {
@@ -964,54 +1177,7 @@
           }
         ],
         "source": "combined",
-        "rank": 14
-      }
-    },
-    {
-      "id": "6681318746430",
-      "title": "Leaf Autumn 2026",
-      "author": "芦沢央/一穂ミチ/小田雅久仁/佐藤究/宮島未奈",
-      "publisher": "双葉社",
-      "price": 880,
-      "url": "https://books.rakuten.co.jp/rk/b177deef2840311e8356d49fac3950f9/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7488/2000022137488.jpg?_ex=600x600",
-      "caption": "2028年双葉社創業80周年記念カウントダウン企画\n〜「Leaf」　物語の一葉が、心の幹に〜\nすべて読切の小説や、対談・エッセイなどオリジナル企画を贅沢に詰め込んだ新文芸誌、第１号！　各界の異才が結集した奇跡の一冊。\n第1号から5号にわたって、計「80」名の創作者が登場予定。\n価格は「880円（税込）」！\n○第1号テーマ「街、あるいは何処かで」\n小説界のレジェンドから今をときめく新鋭まで、実在の街や場所、もしくは架空の場を舞台に描く、綺羅星のごとく並ぶ作品群でお届けします。\n［小説］\n赤川次郎・朝井まかて・芦沢央・いしいしんじ・一穂ミチ・小田雅久仁・神永学・木爾チレン・佐藤究・澤村伊智・渋谷龍太（SUPER BEAVER）・染井為人・松下龍之介・宮島未奈\n［エッセイ］伊坂幸太郎\n［コミックエッセイ］小指\n［対談］藤野千夜×志村貴子\n",
-      "salesDate": "2026年10月21日",
-      "series": "Leaf",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101901",
-      "isbn": "6681318746430",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "Leaf Autumn 2026",
-        "author": "芦沢央",
-        "score": 74,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 35,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "Leaf Autumn 2026",
-        "author": "芦沢央",
-        "isbn": "",
-        "score": 171,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 15
+        "rank": 17
       }
     },
     {
@@ -1026,15 +1192,14 @@
       "salesDate": "2026年08月19日",
       "series": "ワシントン・ポー",
       "reviewAverage": 4.38,
-      "reviewCount": 26,
+      "reviewCount": 28,
       "genreId": "101902",
       "isbn": "4620000615075",
       "salesType": 0,
       "matchMeta": {
         "title": "ブラッディダイスの殺人 上",
         "author": "M・W・クレイヴン",
-        "isbn": "",
-        "score": 171,
+        "score": 74,
         "sources": [
           {
             "source": "maruzen",
@@ -1043,8 +1208,8 @@
           }
         ],
         "source": "combined",
-        "rank": 33,
-        "originalTitle": "ブラッディダイスの殺人 上"
+        "rank": 40,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "ブラッディダイスの殺人 上",
@@ -1056,100 +1221,6 @@
             "source": "maruzen",
             "label": "丸善ジュンク堂",
             "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 16
-      }
-    },
-    {
-      "id": "4480000838415",
-      "title": "けんぐゎい",
-      "author": "朝倉かすみ",
-      "publisher": "光文社",
-      "price": 1980,
-      "url": "https://books.rakuten.co.jp/rk/7249a640151339f4ab53ef18f6bba0b0/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8537/2000020238537.jpg?_ex=600x600",
-      "caption": "利発だが酷い痘痕の姉ふゆ。逆上せ癖で縹緻よしの妹りよ。幼くして父を亡くし、ふゆは手習師匠の手伝いに、りよは船宿の下女奉公に出された。師匠の養子で禍々しいほどに歪んだ性癖をもつ宗三郎から手籠めにされたふゆは懐妊するが、現人神と崇められる女医者と出逢い、彼女の人生は大きく変わっていく。自我に目覚めた主人公が、女の生と向き合う、時代小説の新しい扉！　第175回直木賞受賞作！\n",
-      "salesDate": "2026年04月22日",
-      "series": "けんぐゎい",
-      "reviewAverage": 3.4,
-      "reviewCount": 148,
-      "genreId": "101901001001",
-      "isbn": "4480000838415",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "けんぐゎい",
-        "author": "朝倉かすみ",
-        "score": 70,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 37,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "けんぐゎい",
-        "author": "朝倉かすみ",
-        "isbn": "",
-        "score": 170,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 17
-      }
-    },
-    {
-      "id": "4620000615076",
-      "title": "ブラッディダイスの殺人　下",
-      "author": "Ｍ Ｗ クレイヴン",
-      "publisher": "早川書房",
-      "price": 1210,
-      "url": "https://books.rakuten.co.jp/rk/eea149cbab90347eb70bdd38623e4df0/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9727/2000021429727.jpg?_ex=600x600",
-      "caption": "ポーとティリーが再びタッグを組む！　シリーズ累計30万部の最新作！\n英国全土で連続狙撃事件が発生。犠牲者は17人にのぼるも犯人の手がかりはなく、ポーとティリーは国家犯罪対策庁に呼び戻されるが\n",
-      "salesDate": "2026年08月19日",
-      "series": "ワシントン・ポー",
-      "reviewAverage": 4.6,
-      "reviewCount": 42,
-      "genreId": "101902",
-      "isbn": "4620000615076",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ブラッディダイスの殺人 下",
-        "author": "M・W・クレイヴン",
-        "score": 70,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 36,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "ブラッディダイスの殺人 下",
-        "author": "M・W・クレイヴン",
-        "isbn": "",
-        "score": 170,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 10
           }
         ],
         "source": "combined",
@@ -1184,7 +1255,7 @@
           }
         ],
         "source": "combined",
-        "rank": 38,
+        "rank": 47,
         "originalTitle": "すみっコぐらし　おもいでアルバム"
       },
       "ranking": {
@@ -1201,6 +1272,100 @@
         ],
         "source": "combined",
         "rank": 19
+      }
+    },
+    {
+      "id": "4620000615076",
+      "title": "ブラッディダイスの殺人　下",
+      "author": "Ｍ Ｗ クレイヴン",
+      "publisher": "早川書房",
+      "price": 1210,
+      "url": "https://books.rakuten.co.jp/rk/eea149cbab90347eb70bdd38623e4df0/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9727/2000021429727.jpg?_ex=600x600",
+      "caption": "ポーとティリーが再びタッグを組む！　シリーズ累計30万部の最新作！\n英国全土で連続狙撃事件が発生。犠牲者は17人にのぼるも犯人の手がかりはなく、ポーとティリーは国家犯罪対策庁に呼び戻されるが\n",
+      "salesDate": "2026年08月19日",
+      "series": "ワシントン・ポー",
+      "reviewAverage": 4.56,
+      "reviewCount": 45,
+      "genreId": "101902",
+      "isbn": "4620000615076",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ブラッディダイスの殺人 下",
+        "author": "M・W・クレイヴン",
+        "score": 70,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 44,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "ブラッディダイスの殺人 下",
+        "author": "M・W・クレイヴン",
+        "isbn": "",
+        "score": 170,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 20
+      }
+    },
+    {
+      "id": "4480000838415",
+      "title": "けんぐゎい",
+      "author": "朝倉かすみ",
+      "publisher": "光文社",
+      "price": 1980,
+      "url": "https://books.rakuten.co.jp/rk/7249a640151339f4ab53ef18f6bba0b0/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8537/2000020238537.jpg?_ex=600x600",
+      "caption": "利発だが酷い痘痕の姉ふゆ。逆上せ癖で縹緻よしの妹りよ。幼くして父を亡くし、ふゆは手習師匠の手伝いに、りよは船宿の下女奉公に出された。師匠の養子で禍々しいほどに歪んだ性癖をもつ宗三郎から手籠めにされたふゆは懐妊するが、現人神と崇められる女医者と出逢い、彼女の人生は大きく変わっていく。自我に目覚めた主人公が、女の生と向き合う、時代小説の新しい扉！　第175回直木賞受賞作！\n",
+      "salesDate": "2026年04月22日",
+      "series": "けんぐゎい",
+      "reviewAverage": 3.41,
+      "reviewCount": 157,
+      "genreId": "101901001001",
+      "isbn": "4480000838415",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "けんぐゎい",
+        "author": "朝倉かすみ",
+        "score": 70,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 45,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "けんぐゎい",
+        "author": "朝倉かすみ",
+        "isbn": "",
+        "score": 170,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 21
       }
     },
     {
@@ -1231,7 +1396,7 @@
           }
         ],
         "source": "combined",
-        "rank": 39,
+        "rank": 48,
         "originalTitle": ""
       },
       "ranking": {
@@ -1247,7 +1412,7 @@
           }
         ],
         "source": "combined",
-        "rank": 20
+        "rank": 22
       }
     },
     {
@@ -1267,10 +1432,9 @@
       "isbn": "6681318198950",
       "salesType": 0,
       "matchMeta": {
-        "title": "０秒前の彼女",
+        "title": "0秒前の彼女",
         "author": "",
-        "isbn": "",
-        "score": 169,
+        "score": 66,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1279,7 +1443,8 @@
           }
         ],
         "source": "combined",
-        "rank": 40
+        "rank": 50,
+        "originalTitle": "０秒前の彼女"
       },
       "ranking": {
         "title": "０秒前の彼女",
@@ -1294,7 +1459,7 @@
           }
         ],
         "source": "combined",
-        "rank": 21
+        "rank": 23
       }
     },
     {
@@ -1308,16 +1473,15 @@
       "caption": "二つの戦争、そして戦後国際秩序の行方は\nロシアによるウクライナ侵攻とイスラエルによるパレスチナへの非人道的な攻撃。目まぐるしく国際情勢が変化するなか、この二つの戦争に向き合い、プーチンとネタニヤフに逮捕状を出した国際刑事裁判所（ICC）。日本人として初めてそのトップに就任した著者は、ほどなくしてプーチンから逆指名手配を受けることにもなった。さらにはトランプ大統領の大統領令による経済制裁の脅威にさらされるなど、世界規模の戦争犯罪に向き合ってきた国際刑事裁判所はいま、存続の危機にある。\n第二次世界大戦後にホロコーストに向き合ったニュルンベルク裁判、日本の戦争責任を裁いた東京裁判。二つの軍事法廷裁判にルーツをもち、国際平和秩序を守ろうと奮闘してきた国際刑事裁判所とはいかなる機関か。二つの戦争という異例の事態にどう向き合ったのか。「世界の警察」アメリカが過去のものになりつつある戦後国際秩序の行方とはーー。\n「世界で起きていることが日本では起きないとは限らない」。「力による支配」がむき出しになりつつある今こそ「法の支配」による安全保障が必要だ。\n「ウクライナ戦争の勃発で完全に覚醒した」と語る赤根さんが、その奮闘を通じて未来への責任を語りかける。\n※本書電子書籍版は刊行後の国際情勢の変化を鑑み、２０２５年１０月に記述の一部を更新しました。\n",
       "salesDate": "2025年06月20日",
       "series": "",
-      "reviewAverage": 4.26,
-      "reviewCount": 61,
+      "reviewAverage": 4.31,
+      "reviewCount": 66,
       "genreId": "101907009/101907005003/101914",
       "isbn": "4390000014247",
       "salesType": 0,
       "matchMeta": {
         "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
         "author": "",
-        "isbn": "",
-        "score": 167,
+        "score": 58,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1326,7 +1490,8 @@
           }
         ],
         "source": "combined",
-        "rank": 43
+        "rank": 53,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
@@ -1341,7 +1506,7 @@
           }
         ],
         "source": "combined",
-        "rank": 22
+        "rank": 24
       }
     },
     {
@@ -1355,15 +1520,16 @@
       "caption": "魔王の首を探せ。\n織田信長はどこへ消えたのか？\n羽柴秀吉、信長を刺した明智兵、使用人の少女、阿弥陀寺の僧……。\n「あの日」を巡る8人の証言が集まる時、\n400年、誰も見たことのない“答え″が、導き出される。\n天正十年、本能寺の変が勃発。天下の主を失った日ノ本は混沌に陥った。そんな中、羽柴家家臣・駒井八右衛門は、秀吉からある密命を授かる。上様を探せーー。\n逆賊・明智光秀を討った秀吉は、今や織田の後継と目されていた。だが、信長の遺骸は見つからずにいる。もし他者が先んじて遺骸を探し出し弔えば、その座が奪われかねない。まして信長が生きているとなれば、秀吉が描き始めた天下への絵図も霧散することになる。\n一度見聞きした物事は忘れない異能を武器に、八右衛門は消えた天下人の行方を追う。織田方、明智方、そして影の目撃者……。関係者たちが語る「あの日」の真実とは？\n日本史上最大の謎に挑む、超大作歴史ミステリー。\n",
       "salesDate": "2026年09月29日",
       "series": "",
-      "reviewAverage": 5,
-      "reviewCount": 7,
+      "reviewAverage": 4.9,
+      "reviewCount": 12,
       "genreId": "101901001001",
       "isbn": "4380000408000",
       "salesType": 0,
       "matchMeta": {
         "title": "未だ本能寺にあり",
         "author": "",
-        "score": 54,
+        "isbn": "",
+        "score": 166,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1372,8 +1538,7 @@
           }
         ],
         "source": "combined",
-        "rank": 44,
-        "originalTitle": ""
+        "rank": 47
       },
       "ranking": {
         "title": "未だ本能寺にあり",
@@ -1388,7 +1553,7 @@
           }
         ],
         "source": "combined",
-        "rank": 23
+        "rank": 25
       }
     },
     {
@@ -1403,7 +1568,7 @@
       "salesDate": "2024年04月23日",
       "series": "",
       "reviewAverage": 4,
-      "reviewCount": 743,
+      "reviewCount": 747,
       "genreId": "101908008002/101905010",
       "isbn": "8910126773560",
       "salesType": 0,
@@ -1419,7 +1584,7 @@
           }
         ],
         "source": "combined",
-        "rank": 47,
+        "rank": 59,
         "originalTitle": ""
       },
       "ranking": {
@@ -1435,7 +1600,7 @@
           }
         ],
         "source": "combined",
-        "rank": 24
+        "rank": 26
       }
     },
     {
@@ -1466,7 +1631,7 @@
           }
         ],
         "source": "combined",
-        "rank": 49,
+        "rank": 62,
         "originalTitle": "【令和８年度】 いちばんやさしい ITパスポート 絶対合格の教科書＋出る順問題集"
       },
       "ranking": {
@@ -1482,7 +1647,54 @@
           }
         ],
         "source": "combined",
-        "rank": 25
+        "rank": 27
+      }
+    },
+    {
+      "id": "4890000067516",
+      "title": "暁のヨナ 48",
+      "author": "草凪みずほ",
+      "publisher": "白泉社",
+      "price": 638,
+      "url": "https://books.rakuten.co.jp/rk/a45f35cfe9393ad3bd22ec0ce77b58e7/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9495/2000022099495.jpg?_ex=600x600",
+      "caption": "崩れた緋龍城から無事、外へと脱出したヨナたち。闇に覆われた高華国・四龍の運命はいかに。そしてヨナはハクと再会できるのか──。激動の大河ファンタジーロマン堂々完結！\n",
+      "salesDate": "2026年10月20日",
+      "series": "暁のヨナ",
+      "reviewAverage": 5,
+      "reviewCount": 1,
+      "genreId": "101904011012",
+      "isbn": "4890000067516",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "暁のヨナ 48",
+        "author": "草凪 みずほ",
+        "score": 46,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 16
+          }
+        ],
+        "source": "combined",
+        "rank": 60,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "暁のヨナ 48",
+        "author": "草凪 みずほ",
+        "isbn": "",
+        "score": 164,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 16
+          }
+        ],
+        "source": "combined",
+        "rank": 28
       }
     },
     {
@@ -1502,10 +1714,9 @@
       "isbn": "4470887680000",
       "salesType": 0,
       "matchMeta": {
-        "title": "寝ながらヘーゲル ＮＨＫ出版新書",
+        "title": "寝ながらヘーゲル NHK出版新書",
         "author": "",
-        "isbn": "",
-        "score": 164,
+        "score": 46,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1514,7 +1725,8 @@
           }
         ],
         "source": "combined",
-        "rank": 49
+        "rank": 61,
+        "originalTitle": "寝ながらヘーゲル ＮＨＫ出版新書"
       },
       "ranking": {
         "title": "寝ながらヘーゲル ＮＨＫ出版新書",
@@ -1529,7 +1741,7 @@
           }
         ],
         "source": "combined",
-        "rank": 26
+        "rank": 29
       }
     },
     {
@@ -1560,7 +1772,7 @@
           }
         ],
         "source": "combined",
-        "rank": 50,
+        "rank": 64,
         "originalTitle": ""
       },
       "ranking": {
@@ -1576,7 +1788,7 @@
           }
         ],
         "source": "combined",
-        "rank": 27
+        "rank": 30
       }
     },
     {
@@ -1590,8 +1802,8 @@
       "caption": "☆2023年本屋大賞受賞作　シリーズ最新作☆\n第20回本屋大賞受賞作『汝、星のごとく』続編\n花火のように煌めいて、\n届かぬ星を見上げて、\n海のように見守って、\nいつでもそこには愛があった。\nああ、そうか。\nわたしたちは幸せだった\nのかもしれないね。\n『汝、星のごとく』で語りきれなかった愛の物語\n「春に翔ぶ」ーー瀬戸内の島で出会った櫂と暁海。二人を支える教師・北原が秘めた過去。彼が病院で話しかけられた教え子の菜々が抱えていた問題とは？\n「星を編む」ーー才能という名の星を輝かせるために、魂を燃やす編集者たちの物語。漫画原作者・作家となった櫂を担当した編集者二人が繋いだもの。\n「波を渡る」ーー花火のように煌めく時間を経て、愛の果てにも暁海の人生は続いていく。『汝、星のごとく』の先に描かれる、繋がる未来と新たな愛の形。\n",
       "salesDate": "2026年07月15日",
       "series": "汝、星のごとく",
-      "reviewAverage": 4.52,
-      "reviewCount": 191,
+      "reviewAverage": 4.51,
+      "reviewCount": 200,
       "genreId": "101901",
       "isbn": "4310000886199",
       "salesType": 0,
@@ -1607,7 +1819,7 @@
           }
         ],
         "source": "combined",
-        "rank": 52,
+        "rank": 67,
         "originalTitle": "星を編む (講談社文庫 な 101-3)"
       },
       "ranking": {
@@ -1623,7 +1835,7 @@
           }
         ],
         "source": "combined",
-        "rank": 28
+        "rank": 31
       }
     },
     {
@@ -1654,7 +1866,7 @@
           }
         ],
         "source": "combined",
-        "rank": 56,
+        "rank": 73,
         "originalTitle": ""
       },
       "ranking": {
@@ -1670,7 +1882,54 @@
           }
         ],
         "source": "combined",
-        "rank": 29
+        "rank": 32
+      }
+    },
+    {
+      "id": "4972000169889",
+      "title": "キングダム 81",
+      "author": "原泰久",
+      "publisher": "集英社",
+      "price": 770,
+      "url": "https://books.rakuten.co.jp/rk/5bfbf7021b1739ab807e21db73e2acdc/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9287/2000021999287.jpg?_ex=600x600",
+      "caption": "ヤングジャンプコミックスDIGITAL「キングダム」81巻、11月18日配信スタート!!　※配信日は変更になることがあります。ご了承ください。\n",
+      "salesDate": "2026年11月18日",
+      "series": "キングダム",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904002006",
+      "isbn": "4972000169889",
+      "salesType": 1,
+      "matchMeta": {
+        "title": "キングダム 81",
+        "author": "原 泰久",
+        "score": 30,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 20
+          }
+        ],
+        "source": "combined",
+        "rank": 71,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "キングダム 81",
+        "author": "原 泰久",
+        "isbn": "",
+        "score": 160,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 20
+          }
+        ],
+        "source": "combined",
+        "rank": 33
       }
     },
     {
@@ -1701,7 +1960,7 @@
           }
         ],
         "source": "combined",
-        "rank": 58,
+        "rank": 76,
         "originalTitle": "生きて行く私 (角川文庫)"
       },
       "ranking": {
@@ -1717,7 +1976,7 @@
           }
         ],
         "source": "combined",
-        "rank": 30
+        "rank": 34
       }
     },
     {
@@ -1739,7 +1998,8 @@
       "matchMeta": {
         "title": "中学英語をもう一度ひとつひとつわかりやすく。改訂版",
         "author": "山田暢彦",
-        "score": 22,
+        "isbn": "",
+        "score": 158,
         "sources": [
           {
             "source": "amazon",
@@ -1748,8 +2008,8 @@
           }
         ],
         "source": "combined",
-        "rank": 60,
-        "originalTitle": ""
+        "rank": 63,
+        "originalTitle": "中学英語をもう一度ひとつひとつわかりやすく。改訂版"
       },
       "ranking": {
         "title": "中学英語をもう一度ひとつひとつわかりやすく。改訂版",
@@ -1764,7 +2024,54 @@
           }
         ],
         "source": "combined",
-        "rank": 31
+        "rank": 35
+      }
+    },
+    {
+      "id": "4320000937482",
+      "title": "名探偵コナン（１０９）",
+      "author": "青山剛昌",
+      "publisher": "小学館",
+      "price": 583,
+      "url": "https://books.rakuten.co.jp/rk/3d4ab47857a63c738ff32de18230740a/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1781/2000021881781.jpg?_ex=600x600",
+      "caption": "風の女神・萩原千速を導く松田の魔法…\nコナン達と神奈川県警が遭遇した泥温泉の殺人事件！\n鍵を握るのは、かつて松田が千速に見せた、とある“魔法”!?\n一方、浪速ハルカス以来の平次と和葉はなぜかぎこちなく…\n脱出ゲームには警視庁交通部カップルが大集合!?\nそして、フサエ・ブランドの店で少年探偵団が出会った相手は…\n",
+      "salesDate": "2026年10月16日",
+      "series": "名探偵コナン",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904001008",
+      "isbn": "4320000937482",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "名探偵コナン(109)",
+        "author": "青山 剛昌",
+        "score": 18,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 23
+          }
+        ],
+        "source": "combined",
+        "rank": 80,
+        "originalTitle": "名探偵コナン（109）"
+      },
+      "ranking": {
+        "title": "名探偵コナン（109）",
+        "author": "青山 剛昌",
+        "isbn": "",
+        "score": 157,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 23
+          }
+        ],
+        "source": "combined",
+        "rank": 36
       }
     },
     {
@@ -1786,7 +2093,8 @@
       "matchMeta": {
         "title": "これが本当のSPI3だ! 2028年度版 【主要3方式〈テストセンター・ペーパーテスト・WEBテスティング〉対応】 (本当の就職テストシリーズ)",
         "author": "SPIノートの会",
-        "score": 18,
+        "isbn": "",
+        "score": 157,
         "sources": [
           {
             "source": "amazon",
@@ -1795,8 +2103,7 @@
           }
         ],
         "source": "combined",
-        "rank": 62,
-        "originalTitle": ""
+        "rank": 65
       },
       "ranking": {
         "title": "これが本当のSPI3だ! 2028年度版 【主要3方式〈テストセンター・ペーパーテスト・WEBテスティング〉対応】 (本当の就職テストシリーズ)",
@@ -1811,7 +2118,54 @@
           }
         ],
         "source": "combined",
-        "rank": 32
+        "rank": 37
+      }
+    },
+    {
+      "id": "4972000169895",
+      "title": "SPY×FAMILY 18",
+      "author": "遠藤達哉",
+      "publisher": "集英社",
+      "price": 616,
+      "url": "https://books.rakuten.co.jp/rk/9ff88217c98330579739ae763ab036e2/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9312/2000021999312.jpg?_ex=600x600",
+      "caption": "ジャンプコミックスDIGITAL「SPY×FAMILY」18巻、11月4日配信スタート!!　※配信日は変更になることがあります。ご了承ください。\n",
+      "salesDate": "2026年11月04日",
+      "series": "SPY×FAMILY",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101904001007",
+      "isbn": "4972000169895",
+      "salesType": 1,
+      "matchMeta": {
+        "title": "SPY×FAMILY 18",
+        "author": "遠藤 達哉",
+        "score": 14,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 24
+          }
+        ],
+        "source": "combined",
+        "rank": 83,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "SPY×FAMILY 18",
+        "author": "遠藤 達哉",
+        "isbn": "",
+        "score": 156,
+        "sources": [
+          {
+            "source": "rakuten",
+            "label": "楽天ブックス",
+            "rank": 24
+          }
+        ],
+        "source": "combined",
+        "rank": 38
       }
     },
     {
@@ -1825,15 +2179,16 @@
       "caption": "「読むだけで終わらせず、読んだ人の人生を変えたい」\n彼の切実な願いが行間にまで迸り、現代の“聖書”とも言うべき熱量であなたの命に火を灯す一冊\n3冊目となる新刊は、前作『アイドル2.0』を発売した2022年8月以来、3年ぶりとなる。誰よりも自分の人生と向き合い、本気で命を燃やしてきた鈴木大飛が27年間で学んだ全てをこの一冊に込める。\n「読むだけで終わらせず、読んだ人の人生を変えたい」\n彼の切実な願いが行間にまで迸り、現代の“聖書”とも言うべき熱量であなたの命に火を灯す一冊となっている。\n※電子版には発売記念イベントの応募用紙は入っておりません。\n",
       "salesDate": "2025年08月26日",
       "series": "命の燃やし方",
-      "reviewAverage": 4.07,
-      "reviewCount": 98,
+      "reviewAverage": 4.08,
+      "reviewCount": 99,
       "genreId": "101907014/101907001004/101906090/101905016001",
       "isbn": "4310000701877",
       "salesType": 0,
       "matchMeta": {
         "title": "命の燃やし方",
         "author": "鈴木 大飛",
-        "score": 14,
+        "isbn": "",
+        "score": 156,
         "sources": [
           {
             "source": "amazon",
@@ -1842,8 +2197,8 @@
           }
         ],
         "source": "combined",
-        "rank": 64,
-        "originalTitle": ""
+        "rank": 68,
+        "originalTitle": "命の燃やし方"
       },
       "ranking": {
         "title": "命の燃やし方",
@@ -1858,7 +2213,7 @@
           }
         ],
         "source": "combined",
-        "rank": 33
+        "rank": 39
       }
     },
     {
@@ -1872,15 +2227,16 @@
       "caption": "★85万部突破のベストセラー！(2026年8月時点)\n★2025年・年間ベストセラー4位！（ビジネス書単行本／日販調べ）\nバスケットボール日本代表：河村勇輝選手\n→ダ・ヴィンチ「2023年一番心に残った本」として紹介（2024年1月号）\n格闘家・YA-MAN選手\n→インスタグラムにて紹介\nサッカー選手：旗手怜央選手\n→欧州フットボール日記「試合前に手に取る大切な本」として紹介\n亀梨和也さん\n→ダ・ヴィンチ（2017年6月号）で紹介\nなど超一流のアスリート、俳優、経営者などから愛され続けるロングセラー\n不安と生きるか。\n理想に死ぬか。\n外国の文明を学ぼうと、\n死罪を覚悟で黒船に乗り込もうとした。\n幽閉の処分となると小さな塾「松下村塾」を開き、\n高杉晋作や伊藤博文など、\n後の大臣や大学創設者になる面々を育てた。\nこの本はそんな風に\n誰よりも遠くを見据えながら、\n幕末を熱く駆け抜けた\n天才思想家・吉田松陰が残した言葉を、\n現代人にもわかりやすく、理解しやすく変換した人生哲学書である。\n吉田松陰の言葉が\n世代を超えてこんなにも心に響くのは\n彼の言葉が日本史上類を見ないほど\nシンプルで、力強く、そしてやさしさに満ちているからだろう。\n困難にぶつかった時、\n自信を失いそうな時、\nプレッシャーに押し潰されそうな時、\nきっとこの本が現状を打破する勇気をくれるはずだ。\n",
       "salesDate": "2014年02月17日",
       "series": "",
-      "reviewAverage": 3.91,
-      "reviewCount": 381,
+      "reviewAverage": 3.9,
+      "reviewCount": 382,
       "genreId": "101907002002",
       "isbn": "8910120537764",
       "salesType": 0,
       "matchMeta": {
         "title": "覚悟の磨き方 超訳 吉田松陰 (サンクチュアリ出版)",
         "author": "池田貴将",
-        "score": 6,
+        "isbn": "",
+        "score": 154,
         "sources": [
           {
             "source": "amazon",
@@ -1889,8 +2245,8 @@
           }
         ],
         "source": "combined",
-        "rank": 68,
-        "originalTitle": ""
+        "rank": 73,
+        "originalTitle": "覚悟の磨き方 超訳 吉田松陰 (サンクチュアリ出版)"
       },
       "ranking": {
         "title": "覚悟の磨き方 超訳 吉田松陰 (サンクチュアリ出版)",
@@ -1905,7 +2261,7 @@
           }
         ],
         "source": "combined",
-        "rank": 34
+        "rank": 40
       }
     },
     {
@@ -1937,7 +2293,7 @@
           }
         ],
         "source": "combined",
-        "rank": 68
+        "rank": 74
       },
       "ranking": {
         "title": "脳のゴミは「息」で捨てなさい - １日１分で細胞から若返る「毒出し呼吸」の魔法",
@@ -1952,54 +2308,7 @@
           }
         ],
         "source": "combined",
-        "rank": 35
-      }
-    },
-    {
-      "id": "4320000941381",
-      "title": "凍りつく夏",
-      "author": "伏尾美紀",
-      "publisher": "小学館",
-      "price": 1782,
-      "url": "https://books.rakuten.co.jp/rk/f8276c25d8243bb58fc84055508a4c19/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5905/2000021955905.jpg?_ex=600x600",
-      "caption": "刑事たちの執念が、衝撃の真実を呼び覚ます！\n広大な土地に消えゆく子どもたち。\n刑事たちの執念が、極北の夏の真実を呼び覚ます。\n札幌の住宅街で少年と思しき白骨死体が見つかった。北海道警察はその身元を探るうち、行き場を失った子どもたちと、そばで目撃される制服警官の存在にたどりつく。捜査に加わる一課の志藤翔は、次第に運命を感じ始めていた。かつて独自に調べていた中学の同級生失踪事件が、にわかに浮かび上がってきたからだ。俺は、このために警察官になった──。あの夏に決着をつけるため、志藤は「怪物」と対峙する。\n凍てつく大地に眠る残酷な真実と、圧巻の人間ドラマ。\n異例の文学賞三冠達成『百年の時効』を超える衝撃作！\n",
-      "salesDate": "2026年10月15日",
-      "series": "凍りつく夏",
-      "reviewAverage": 4,
-      "reviewCount": 1,
-      "genreId": "101901/101902",
-      "isbn": "4320000941381",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "凍りつく夏",
-        "author": "",
-        "score": 5,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 28
-          }
-        ],
-        "source": "combined",
-        "rank": 70,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "凍りつく夏",
-        "author": "",
-        "isbn": "",
-        "score": 152,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 28
-          }
-        ],
-        "source": "combined",
-        "rank": 36
+        "rank": 41
       }
     },
     {
@@ -2030,7 +2339,7 @@
           }
         ],
         "source": "combined",
-        "rank": 71,
+        "rank": 96,
         "originalTitle": ""
       },
       "ranking": {
@@ -2046,7 +2355,54 @@
           }
         ],
         "source": "combined",
-        "rank": 37
+        "rank": 42
+      }
+    },
+    {
+      "id": "4320000941381",
+      "title": "凍りつく夏",
+      "author": "伏尾美紀",
+      "publisher": "小学館",
+      "price": 1782,
+      "url": "https://books.rakuten.co.jp/rk/f8276c25d8243bb58fc84055508a4c19/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5905/2000021955905.jpg?_ex=600x600",
+      "caption": "刑事たちの執念が、衝撃の真実を呼び覚ます！\n広大な土地に消えゆく子どもたち。\n刑事たちの執念が、極北の夏の真実を呼び覚ます。\n札幌の住宅街で少年と思しき白骨死体が見つかった。北海道警察はその身元を探るうち、行き場を失った子どもたちと、そばで目撃される制服警官の存在にたどりつく。捜査に加わる一課の志藤翔は、次第に運命を感じ始めていた。かつて独自に調べていた中学の同級生失踪事件が、にわかに浮かび上がってきたからだ。俺は、このために警察官になった──。あの夏に決着をつけるため、志藤は「怪物」と対峙する。\n凍てつく大地に眠る残酷な真実と、圧巻の人間ドラマ。\n異例の文学賞三冠達成『百年の時効』を超える衝撃作！\n",
+      "salesDate": "2026年10月15日",
+      "series": "凍りつく夏",
+      "reviewAverage": 4,
+      "reviewCount": 1,
+      "genreId": "101901/101902",
+      "isbn": "4320000941381",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "凍りつく夏",
+        "author": "",
+        "isbn": "",
+        "score": 152,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 28
+          }
+        ],
+        "source": "combined",
+        "rank": 78
+      },
+      "ranking": {
+        "title": "凍りつく夏",
+        "author": "",
+        "isbn": "",
+        "score": 152,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 28
+          }
+        ],
+        "source": "combined",
+        "rank": 43
       }
     },
     {
@@ -2078,7 +2434,8 @@
           }
         ],
         "source": "combined",
-        "rank": 74
+        "rank": 80,
+        "originalTitle": "東大生が日本を100人の島に例えたら 面白いほど経済がわかった! (サンクチュアリ出版)"
       },
       "ranking": {
         "title": "東大生が日本を100人の島に例えたら 面白いほど経済がわかった! (サンクチュアリ出版)",
@@ -2093,7 +2450,7 @@
           }
         ],
         "source": "combined",
-        "rank": 38
+        "rank": 44
       }
     },
     {
@@ -2124,7 +2481,7 @@
           }
         ],
         "source": "combined",
-        "rank": 76,
+        "rank": 101,
         "originalTitle": ""
       },
       "ranking": {
@@ -2140,17 +2497,17 @@
           }
         ],
         "source": "combined",
-        "rank": 39
+        "rank": 45
       }
     }
   ],
   "byGenre": {
     "fiction": [
+      "6681318746430",
       "4310000683989",
       "4910000909001",
       "4390000005636",
       "4335254300320",
-      "6681318746430",
       "4480000838415",
       "4380000408000",
       "4310000886199",
@@ -2198,8 +2555,8 @@
       "4524815638200"
     ],
     "life": [
-      "4380000407898",
       "9784651022659",
+      "4380000407898",
       "1230007481703",
       "1230008888051",
       "4910000951029",
@@ -2225,7 +2582,11 @@
     ],
     "comic": [
       "4310000779045",
-      "7275000947797"
+      "7275000947797",
+      "4890000067516",
+      "4972000169889",
+      "4320000937482",
+      "4972000169895"
     ]
   },
   "genreStatus": {
@@ -2290,7 +2651,7 @@
       "complete": true
     },
     "comic": {
-      "matched": 2,
+      "matched": 6,
       "complete": true
     }
   }

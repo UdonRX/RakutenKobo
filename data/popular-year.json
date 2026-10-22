@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "year",
-  "updatedAt": "2026-10-22T12:43:04.126Z",
+  "updatedAt": "2026-10-22T18:04:21.185Z",
   "candidateCount": 10,
-  "baseMatched": 7,
-  "matched": 7,
-  "addedMatches": 0,
+  "baseMatched": 6,
+  "matched": 8,
+  "addedMatches": 2,
   "unavailable": [],
   "snapshots": {
     "tohan": {
@@ -45,6 +45,12 @@
           "rank": 4
         },
         {
+          "title": "暁星",
+          "author": "湊かなえ",
+          "isbn": "",
+          "rank": 7
+        },
+        {
           "title": "大河の一滴 最終章",
           "author": "五木寛之",
           "isbn": "",
@@ -71,14 +77,14 @@
       "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
       "author": "堀田 秀吾",
       "publisher": "SBクリエイティブ",
-      "price": 1760,
+      "price": 880,
       "url": "https://books.rakuten.co.jp/rk/79a1d43cefcb3337b3e2363c5f00a07e/",
       "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1658/2000018091658.jpg?_ex=600x600",
       "caption": "勉強・ダイエット・貯金・目標達成…は習慣化が10割\n仕事、ダイエット、健康管理、勉強、目標達成…すべて成功のカギは「習慣化」にあります。\nしかし間違った習慣を身につけてしまったらその代償は大きくなってしまいます。\n何をどう習慣化すればいいか、そのために重要になるのが「エビデンス」です。\n・もし「A」をしたら「B」をすると、あらかじめ決めておく\n・選択肢は必ず「3つ」用意しておく\n・常にポジティブな言葉を使うーつらさに対する耐性が高まる\n・52分間作業して、17分休憩するー生産性が高まるetc.\n本書は、ハーバード、スタンフォード、オックスフォード…などの研究機関において証明されたテクニックを112個紹介。\n見開き図解入りでわかりやすい。気になったテクニックからはじめられ、情報収集のためにも役立ち、また読みものとしても楽しめる一冊です。\n※カバー画像が異なる場合があります。\n",
       "salesDate": "2025年07月02日",
       "series": "",
-      "reviewAverage": 3.68,
-      "reviewCount": 395,
+      "reviewAverage": 3.69,
+      "reviewCount": 401,
       "genreId": "101905090",
       "isbn": "4524815633410",
       "salesType": 0,
@@ -125,14 +131,15 @@
       "salesDate": "2025年10月31日",
       "series": "変な地図",
       "reviewAverage": 3.84,
-      "reviewCount": 658,
+      "reviewCount": 660,
       "genreId": "101902",
       "isbn": "6681297998470",
       "salesType": 0,
       "matchMeta": {
         "title": "変な地図",
         "author": "雨穴",
-        "score": 102,
+        "isbn": "",
+        "score": 178,
         "sources": [
           {
             "source": "tohan",
@@ -142,7 +149,7 @@
         ],
         "source": "combined",
         "rank": 2,
-        "originalTitle": ""
+        "originalTitle": "変な地図"
       },
       "ranking": {
         "title": "変な地図",
@@ -171,8 +178,8 @@
       "caption": "☆2026年本屋大賞受賞☆\n【第9回未来屋小説大賞】\n【第2回あの本、読みました？大賞】\n沈みゆく列島で、“界隈”は沸騰するーー。\nあるアイドルグループの運営に参画することになった、家族と離れて暮らす男。内向的で繊細な気質ゆえ積み重なる心労を癒やしたい大学生。仲間と楽しく舞台俳優を応援していたが、とある報道で状況が一変する女。ファンダム経済を仕掛ける側、のめり込む側、かつてのめり込んでいた側ーー世代も立場も異なる３つの視点から、人の心を動かす“物語”の功罪を炙り出す。\n「神がいないこの国で人を操るには、“物語”を使うのが一番いいんですよ」\n",
       "salesDate": "2025年09月03日",
       "series": "",
-      "reviewAverage": 4.28,
-      "reviewCount": 3673,
+      "reviewAverage": 4.27,
+      "reviewCount": 3689,
       "genreId": "101901",
       "isbn": "4660629612104",
       "salesType": 0,
@@ -219,7 +226,7 @@
       "salesDate": "2025年12月01日",
       "series": "「成瀬」シリーズ",
       "reviewAverage": 4.54,
-      "reviewCount": 1587,
+      "reviewCount": 1594,
       "genreId": "101901",
       "isbn": "4340008064751",
       "salesType": 0,
@@ -252,6 +259,54 @@
         ],
         "source": "combined",
         "rank": 4
+      }
+    },
+    {
+      "id": "6681299179860",
+      "title": "暁星",
+      "author": "湊かなえ",
+      "publisher": "双葉社",
+      "price": 1980,
+      "url": "https://books.rakuten.co.jp/rk/eb8de6a46aa935d48709dbfee116c7d2/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4762/2000019204762.jpg?_ex=600x600",
+      "caption": "「ただ、星を守りたかっただけーー」　\n現役の文部科学大臣で文壇の大御所作家でもある清水義之が全国高校生総合文化祭の式典の最中、舞台袖から飛び出してきた男に刺されて死亡する事件がおきた。逮捕された男の名前は永瀬暁、37歳。永瀬は逮捕されたのち、週刊誌に手記を発表しはじめる。そこには、清水が深く関わっているとされる新興宗教に対する恨みが綴られていた。また、式典に出席していた作家は、永瀬の事件を小説として描く。ノンフィクションとフィクション、ふたつの物語が合わさったとき見える景色とは!?\n",
+      "salesDate": "2025年11月27日",
+      "series": "暁星",
+      "reviewAverage": 4.17,
+      "reviewCount": 1246,
+      "genreId": "101902",
+      "isbn": "6681299179860",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "暁星",
+        "author": "湊かなえ",
+        "isbn": "",
+        "score": 173,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 7
+          }
+        ],
+        "source": "combined",
+        "rank": 7,
+        "originalTitle": "暁星"
+      },
+      "ranking": {
+        "title": "暁星",
+        "author": "湊かなえ",
+        "isbn": "",
+        "score": 173,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 7
+          }
+        ],
+        "source": "combined",
+        "rank": 5
       }
     },
     {
@@ -298,7 +353,7 @@
           }
         ],
         "source": "combined",
-        "rank": 5
+        "rank": 6
       }
     },
     {
@@ -345,7 +400,7 @@
           }
         ],
         "source": "combined",
-        "rank": 6
+        "rank": 7
       }
     },
     {
@@ -392,7 +447,7 @@
           }
         ],
         "source": "combined",
-        "rank": 7
+        "rank": 8
       }
     }
   ],
@@ -402,7 +457,8 @@
       "4340008064751"
     ],
     "mystery": [
-      "6681297998470"
+      "6681297998470",
+      "6681299179860"
     ],
     "sf": [],
     "business": [
@@ -433,7 +489,7 @@
       "complete": true
     },
     "mystery": {
-      "matched": 1,
+      "matched": 2,
       "complete": true
     },
     "sf": {

@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "year",
-  "updatedAt": "2026-10-23T05:44:21.165Z",
-  "candidateCount": 10,
-  "baseMatched": 8,
-  "matched": 8,
-  "addedMatches": 0,
+  "updatedAt": "2026-10-23T12:26:35.437Z",
+  "candidateCount": 13,
+  "baseMatched": 7,
+  "matched": 9,
+  "addedMatches": 2,
   "unavailable": [],
   "snapshots": {
     "tohan": {
@@ -16,57 +16,63 @@
       "label": "トーハン",
       "attribution": "トーハン調べ",
       "sourceUrl": "https://www.tohan.jp/bestsellers/2026_firsthalf_total/",
-      "periodLabel": "2026年上半期（最新の年次集計）",
-      "updatedAt": "2026-06-01",
-      "live": false,
+      "periodLabel": "年次",
+      "updatedAt": "2026-10-23",
+      "live": true,
       "items": [
         {
-          "title": "科学的に証明された すごい習慣大百科",
-          "author": "堀田秀吾",
+          "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
+          "author": "",
           "isbn": "",
           "rank": 1
         },
         {
           "title": "変な地図",
-          "author": "雨穴",
+          "author": "",
           "isbn": "",
           "rank": 2
         },
         {
-          "title": "イン・ザ・メガチャーチ",
-          "author": "朝井リョウ",
+          "title": "イン･ザ･メガチャーチ",
+          "author": "",
           "isbn": "",
           "rank": 3
         },
         {
           "title": "成瀬は都を駆け抜ける",
-          "author": "宮島未奈",
+          "author": "",
           "isbn": "",
           "rank": 4
         },
         {
           "title": "暁星",
-          "author": "湊かなえ",
+          "author": "",
           "isbn": "",
           "rank": 7
         },
         {
           "title": "大河の一滴 最終章",
-          "author": "五木寛之",
+          "author": "",
           "isbn": "",
           "rank": 8
         },
         {
           "title": "不滅なるものへの挑戦 霊性の時代を拓くために",
-          "author": "大川隆法",
+          "author": "",
           "isbn": "",
           "rank": 9
         },
         {
           "title": "棺桶まで歩こう",
-          "author": "萬田緑平",
+          "author": "",
           "isbn": "",
           "rank": 10
+        },
+        {
+          "title": "FOR OVERSEAS",
+          "author": "",
+          "isbn": "",
+          "rank": 12
         }
       ]
     }
@@ -104,8 +110,8 @@
         "originalTitle": ""
       },
       "ranking": {
-        "title": "科学的に証明された すごい習慣大百科",
-        "author": "堀田秀吾",
+        "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
+        "author": "",
         "isbn": "",
         "score": 179,
         "sources": [
@@ -137,8 +143,9 @@
       "salesType": 0,
       "matchMeta": {
         "title": "変な地図",
-        "author": "雨穴",
-        "score": 102,
+        "author": "",
+        "isbn": "",
+        "score": 178,
         "sources": [
           {
             "source": "tohan",
@@ -147,12 +154,11 @@
           }
         ],
         "source": "combined",
-        "rank": 2,
-        "originalTitle": ""
+        "rank": 2
       },
       "ranking": {
         "title": "変な地図",
-        "author": "雨穴",
+        "author": "",
         "isbn": "",
         "score": 178,
         "sources": [
@@ -198,8 +204,8 @@
         "originalTitle": ""
       },
       "ranking": {
-        "title": "イン・ザ・メガチャーチ",
-        "author": "朝井リョウ",
+        "title": "イン･ザ･メガチャーチ",
+        "author": "",
         "isbn": "",
         "score": 177,
         "sources": [
@@ -246,7 +252,7 @@
       },
       "ranking": {
         "title": "成瀬は都を駆け抜ける",
-        "author": "宮島未奈",
+        "author": "",
         "isbn": "",
         "score": 176,
         "sources": [
@@ -293,7 +299,7 @@
       },
       "ranking": {
         "title": "暁星",
-        "author": "湊かなえ",
+        "author": "",
         "isbn": "",
         "score": 173,
         "sources": [
@@ -340,7 +346,7 @@
       },
       "ranking": {
         "title": "大河の一滴 最終章",
-        "author": "五木寛之",
+        "author": "",
         "isbn": "",
         "score": 172,
         "sources": [
@@ -387,7 +393,7 @@
       },
       "ranking": {
         "title": "不滅なるものへの挑戦 霊性の時代を拓くために",
-        "author": "大川隆法",
+        "author": "",
         "isbn": "",
         "score": 171,
         "sources": [
@@ -434,7 +440,7 @@
       },
       "ranking": {
         "title": "棺桶まで歩こう",
-        "author": "萬田緑平",
+        "author": "",
         "isbn": "",
         "score": 170,
         "sources": [
@@ -446,6 +452,54 @@
         ],
         "source": "combined",
         "rank": 8
+      }
+    },
+    {
+      "id": "9781505942323",
+      "title": "How to Start a Crown Agents for Overseas Governments and Administrations Business (Beginners Guide)",
+      "author": "Leclair Jaquelyn",
+      "publisher": "SamEnrico",
+      "price": 2515,
+      "url": "https://books.rakuten.co.jp/rk/da3f192a66453cb193c43421103700ab/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5952/2000020915952.jpg?_ex=600x600",
+      "caption": "This publication, published by SamEnrico, covers How to Start a Crown Agents for Overseas Governments and Administrations Business (Beginners Guide)\n",
+      "salesDate": "2015年12月20日",
+      "series": "",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101970003007",
+      "isbn": "9781505942323",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "FOR OVERSEAS",
+        "author": "",
+        "isbn": "",
+        "score": 168,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 12
+          }
+        ],
+        "source": "combined",
+        "rank": 12,
+        "originalTitle": "FOR OVERSEAS"
+      },
+      "ranking": {
+        "title": "FOR OVERSEAS",
+        "author": "",
+        "isbn": "",
+        "score": 168,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 12
+          }
+        ],
+        "source": "combined",
+        "rank": 9
       }
     }
   ],

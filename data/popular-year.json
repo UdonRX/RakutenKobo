@@ -4,7 +4,7 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "year",
-  "updatedAt": "2026-10-23T12:26:35.437Z",
+  "updatedAt": "2026-10-23T17:46:20.150Z",
   "candidateCount": 13,
   "baseMatched": 7,
   "matched": 9,
@@ -143,9 +143,8 @@
       "salesType": 0,
       "matchMeta": {
         "title": "変な地図",
-        "author": "",
-        "isbn": "",
-        "score": 178,
+        "author": "雨穴",
+        "score": 102,
         "sources": [
           {
             "source": "tohan",
@@ -154,7 +153,8 @@
           }
         ],
         "source": "combined",
-        "rank": 2
+        "rank": 2,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "変な地図",
@@ -425,8 +425,9 @@
       "salesType": 0,
       "matchMeta": {
         "title": "棺桶まで歩こう",
-        "author": "萬田緑平",
-        "score": 70,
+        "author": "",
+        "isbn": "",
+        "score": 170,
         "sources": [
           {
             "source": "tohan",
@@ -436,7 +437,7 @@
         ],
         "source": "combined",
         "rank": 10,
-        "originalTitle": ""
+        "originalTitle": "棺桶まで歩こう"
       },
       "ranking": {
         "title": "棺桶まで歩こう",
@@ -483,8 +484,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12,
-        "originalTitle": "FOR OVERSEAS"
+        "rank": 12
       },
       "ranking": {
         "title": "FOR OVERSEAS",

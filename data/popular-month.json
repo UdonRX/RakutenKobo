@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-10-22T22:10:47.676Z",
+  "updatedAt": "2026-10-23T05:44:16.960Z",
   "candidateCount": 38,
-  "baseMatched": 19,
+  "baseMatched": 18,
   "matched": 21,
-  "addedMatches": 2,
+  "addedMatches": 3,
   "unavailable": [],
   "snapshots": {
     "kinokuniya": {
@@ -17,7 +17,7 @@
       "attribution": "紀伊國屋書店調べ",
       "sourceUrl": "https://www.kinokuniya.co.jp/disp/CKnRankingPageCList.jsp?dispNo=107002001001&vTp=m",
       "periodLabel": "マンスリー",
-      "updatedAt": "2026-10-22",
+      "updatedAt": "2026-10-23",
       "live": true,
       "items": [
         {
@@ -30,13 +30,13 @@
           "title": "未だ本能寺にあり",
           "author": "",
           "isbn": "",
-          "rank": 7
+          "rank": 6
         },
         {
           "title": "探偵小石は戻らない",
           "author": "",
           "isbn": "",
-          "rank": 8
+          "rank": 7
         },
         {
           "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
@@ -45,19 +45,13 @@
           "rank": 10
         },
         {
-          "title": "ソン・シギョンの本当に美味しい韓国グルメガイド - ＳＵＮＧ ＳＩ ＫＹＵＮＧ’ｓ Ｄｅｅｐ Ｋｏｒｅ 講談社ＭＯＯＫ",
-          "author": "",
-          "isbn": "",
-          "rank": 12
-        },
-        {
           "title": "命の燃やし方",
           "author": "",
           "isbn": "",
           "rank": 17
         },
         {
-          "title": "イン・ザ・メガチャーチ",
+          "title": "汝、星のごとく",
           "author": "",
           "isbn": "",
           "rank": 18
@@ -69,19 +63,25 @@
           "rank": 20
         },
         {
-          "title": "なぜ日本が世界に必要なのか 文春新書",
+          "title": "イン・ザ・メガチャーチ",
           "author": "",
           "isbn": "",
           "rank": 22
         },
         {
-          "title": "汝、星のごとく",
+          "title": "なぜ日本が世界に必要なのか 文春新書",
           "author": "",
           "isbn": "",
-          "rank": 24
+          "rank": 23
         },
         {
           "title": "誰も教えてくれなかった 本当のお金の守り方",
+          "author": "",
+          "isbn": "",
+          "rank": 25
+        },
+        {
+          "title": "最強の仕組み「整頓の科学」",
           "author": "",
           "isbn": "",
           "rank": 27
@@ -186,33 +186,34 @@
       "matchMeta": {
         "title": "イン・ザ・メガチャーチ",
         "author": "朝井リョウ",
-        "score": 120,
+        "isbn": "",
+        "score": 331,
         "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 22
+          },
           {
             "source": "tohan",
             "label": "トーハン",
             "rank": 7
-          },
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 18
           }
         ],
         "source": "combined",
         "rank": 2,
-        "originalTitle": ""
+        "originalTitle": "イン・ザ・メガチャーチ"
       },
       "ranking": {
         "title": "イン・ザ・メガチャーチ",
         "author": "朝井リョウ",
         "isbn": "",
-        "score": 335,
+        "score": 331,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 18
+            "rank": 22
           },
           {
             "source": "tohan",
@@ -337,8 +338,7 @@
       "matchMeta": {
         "title": "ファイア・ドーム 上",
         "author": "辻村深月",
-        "isbn": "",
-        "score": 178,
+        "score": 102,
         "sources": [
           {
             "source": "tohan",
@@ -347,8 +347,8 @@
           }
         ],
         "source": "combined",
-        "rank": 6,
-        "originalTitle": "ファイア・ドーム 上"
+        "rank": 5,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "ファイア・ドーム 上",
@@ -526,79 +526,32 @@
       "matchMeta": {
         "title": "未だ本能寺にあり",
         "author": "",
-        "score": 82,
+        "score": 86,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 7
+            "rank": 6
           }
         ],
         "source": "combined",
-        "rank": 14,
+        "rank": 13,
         "originalTitle": ""
       },
       "ranking": {
         "title": "未だ本能寺にあり",
         "author": "",
         "isbn": "",
-        "score": 173,
+        "score": 174,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 7
+            "rank": 6
           }
         ],
         "source": "combined",
         "rank": 8
-      }
-    },
-    {
-      "id": "4390000015358",
-      "title": "青天",
-      "author": "若林正恭",
-      "publisher": "文藝春秋",
-      "price": 1900,
-      "url": "https://books.rakuten.co.jp/rk/a6fc1b8794af3eafb7f064fac9c68dfa/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0144/2000019330144.jpg?_ex=600x600",
-      "caption": "オードリー・若林正恭、初小説！\n人にぶつかっていないと、自分が生きているかどうかよくわからなくなるーー\n総大三高の「アリ」こと中村昴が所属するアメフト部は、万年２回戦どまり。相手校の練習を隠し撮りして迎えた高３の引退大会では、強豪・遼西学園に打ち破れた。引退後、みなが受験に向かうなか、勉強にも気持ちが入らず、不良になる覚悟もないまま宙ぶらりんの日々を過ごす。自分自身の不甲斐なさにもがき続けるなかで、アリは再びアメフトと向き合う決意を固める。\n青春の苦みと悦びに満ちた、著者渾身の初小説。\n",
-      "salesDate": "2026年02月20日",
-      "series": "",
-      "reviewAverage": 3.98,
-      "reviewCount": 640,
-      "genreId": "101901",
-      "isbn": "4390000015358",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "青天",
-        "author": "若林正恭",
-        "score": 78,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 15,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "青天",
-        "author": "若林正恭",
-        "isbn": "",
-        "score": 172,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 9
       }
     },
     {
@@ -620,27 +573,75 @@
       "matchMeta": {
         "title": "探偵小石は戻らない",
         "author": "",
-        "score": 78,
+        "score": 82,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 8
+            "rank": 7
           }
         ],
         "source": "combined",
-        "rank": 16,
+        "rank": 14,
         "originalTitle": ""
       },
       "ranking": {
         "title": "探偵小石は戻らない",
         "author": "",
         "isbn": "",
-        "score": 172,
+        "score": 173,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
+            "rank": 7
+          }
+        ],
+        "source": "combined",
+        "rank": 9
+      }
+    },
+    {
+      "id": "4390000015358",
+      "title": "青天",
+      "author": "若林正恭",
+      "publisher": "文藝春秋",
+      "price": 1900,
+      "url": "https://books.rakuten.co.jp/rk/a6fc1b8794af3eafb7f064fac9c68dfa/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0144/2000019330144.jpg?_ex=600x600",
+      "caption": "オードリー・若林正恭、初小説！\n人にぶつかっていないと、自分が生きているかどうかよくわからなくなるーー\n総大三高の「アリ」こと中村昴が所属するアメフト部は、万年２回戦どまり。相手校の練習を隠し撮りして迎えた高３の引退大会では、強豪・遼西学園に打ち破れた。引退後、みなが受験に向かうなか、勉強にも気持ちが入らず、不良になる覚悟もないまま宙ぶらりんの日々を過ごす。自分自身の不甲斐なさにもがき続けるなかで、アリは再びアメフトと向き合う決意を固める。\n青春の苦みと悦びに満ちた、著者渾身の初小説。\n",
+      "salesDate": "2026年02月20日",
+      "series": "",
+      "reviewAverage": 3.98,
+      "reviewCount": 640,
+      "genreId": "101901",
+      "isbn": "4390000015358",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "青天",
+        "author": "若林正恭",
+        "isbn": "",
+        "score": 172,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 16,
+        "originalTitle": "青天"
+      },
+      "ranking": {
+        "title": "青天",
+        "author": "若林正恭",
+        "isbn": "",
+        "score": 172,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
             "rank": 8
           }
         ],
@@ -696,53 +697,6 @@
       }
     },
     {
-      "id": "4479234030000",
-      "title": "豊臣兄弟！　後編",
-      "author": "八津弘幸/ＮＨＫドラマ制作班",
-      "publisher": "NHK出版",
-      "price": 1540,
-      "url": "https://books.rakuten.co.jp/rk/03955594478a34569322faf481fd73c8/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0762/2000020710762.jpg?_ex=600x600",
-      "caption": "兄弟の絆で天下を狙え！　2026年大河ドラマ「豊臣兄弟！」完全ガイド第2弾！\n仲野太賀主演・2026年大河ドラマ「豊臣兄弟！」。\nドラマをもっと楽しむためのガイドブック「後編」が登場！\n時は戦国乱世。時の戦国大名・織田信長に仕官して大出世を目指す兄の誘いに巻き込まれた小一郎は、知恵と勇気、そして持ち前の「調整力」を生かしながら、目の前に立ちはだかるハードミッションを兄との絶妙なコンビネーションで次々とクリアしていく。やがて小一郎は兄とともに、万民が笑って暮らせる太平の世を作るという夢を抱き始めーー。\n弟・秀長の視点で戦国時代をダイナミックに描く、夢と希望の下克上サクセスストーリー！\n＊電子書籍版ではプレゼントページほか、一部収録していないコンテンツがございます。あらかじめご了承ください。\n全3冊でお届けするドラマ・ガイドの第２弾「後編」では、主演・仲野太賀×吉岡里帆の撮り下ろし対談をはじめ、豪華出演者インタビューや物語中盤までのあらすじを掲載。さらに、タイトルバック徹底分析やマンガで読む秀長の生涯、豊臣しつもん箱、作家・今村翔吾さんに聞く戦国の兄弟たち特集、「本能寺の変」のヒミツに迫る歴史解説企画など充実の内容。美麗グラビア満載でお届けする、家族みんなで読めるフルカラー・ドラマガイド！　\n",
-      "salesDate": "2026年05月29日",
-      "series": "ＮＨＫ大河ドラマ・ガイド",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101913002",
-      "isbn": "4479234030000",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "NHK大河ドラマ・ガイド 豊臣兄弟! 後編",
-        "author": "",
-        "score": 70,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 19,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "NHK大河ドラマ・ガイド 豊臣兄弟! 後編",
-        "author": "",
-        "isbn": "",
-        "score": 170,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 12
-      }
-    },
-    {
       "id": "4390000014247",
       "title": "戦争犯罪と闘う　国際刑事裁判所は屈しない",
       "author": "赤根智子",
@@ -786,54 +740,54 @@
           }
         ],
         "source": "combined",
-        "rank": 13
+        "rank": 12
       }
     },
     {
-      "id": "4310000936589",
-      "title": "ソン・シギョンの本当に美味しい韓国グルメガイド　ＳＵＮＧ　ＳＩ　ＫＹＵＮＧ’ｓ　Ｄｅｅｐ　Ｋｏｒｅａ",
-      "author": "ソン・シギョン",
-      "publisher": "講談社",
-      "price": 2200,
-      "url": "https://books.rakuten.co.jp/rk/4374061cc5783b7593a3e194d7cabec4/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1514/2000021871514.jpg?_ex=600x600",
-      "caption": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。\n韓国の国民的人気歌手で、食通としても知られるソン・シギョン。\n自身のYouTubeチャンネルで人気を集めるグルメコンテンツ「モグルテンデ」が、待望の一冊に。\nソウルを中心に、ソン・シギョン自らが選んだ“本当においしい店”123店を厳選して紹介。\n韓国で撮り下ろした写真やロングインタビューも収録。\n観光客向けの定番店ではなく、「韓国で本当に美味しいものを食べたい」という人へ。\nソン・シギョンだからこそ案内できる、これまでにない韓国グルメガイドです。\n※この商品は紙の書籍のページを画像にした電子書籍です。文字だけを拡大することはできませんので、タブレットサイズの端末での閲読を推奨します。また、文字列のハイライトや検索、辞書の参照、引用などの機能も使用できません。\n",
-      "salesDate": "2026年10月01日",
-      "series": "ソン・シギョンの本当に美味しい韓国グルメガイド　ＳＵＮＧ　ＳＩ　ＫＹＵＮＧ’ｓ　Ｄｅｅｐ　Ｋｏｒｅａ",
+      "id": "4479234030000",
+      "title": "豊臣兄弟！　後編",
+      "author": "八津弘幸/ＮＨＫドラマ制作班",
+      "publisher": "NHK出版",
+      "price": 1540,
+      "url": "https://books.rakuten.co.jp/rk/03955594478a34569322faf481fd73c8/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0762/2000020710762.jpg?_ex=600x600",
+      "caption": "兄弟の絆で天下を狙え！　2026年大河ドラマ「豊臣兄弟！」完全ガイド第2弾！\n仲野太賀主演・2026年大河ドラマ「豊臣兄弟！」。\nドラマをもっと楽しむためのガイドブック「後編」が登場！\n時は戦国乱世。時の戦国大名・織田信長に仕官して大出世を目指す兄の誘いに巻き込まれた小一郎は、知恵と勇気、そして持ち前の「調整力」を生かしながら、目の前に立ちはだかるハードミッションを兄との絶妙なコンビネーションで次々とクリアしていく。やがて小一郎は兄とともに、万民が笑って暮らせる太平の世を作るという夢を抱き始めーー。\n弟・秀長の視点で戦国時代をダイナミックに描く、夢と希望の下克上サクセスストーリー！\n＊電子書籍版ではプレゼントページほか、一部収録していないコンテンツがございます。あらかじめご了承ください。\n全3冊でお届けするドラマ・ガイドの第２弾「後編」では、主演・仲野太賀×吉岡里帆の撮り下ろし対談をはじめ、豪華出演者インタビューや物語中盤までのあらすじを掲載。さらに、タイトルバック徹底分析やマンガで読む秀長の生涯、豊臣しつもん箱、作家・今村翔吾さんに聞く戦国の兄弟たち特集、「本能寺の変」のヒミツに迫る歴史解説企画など充実の内容。美麗グラビア満載でお届けする、家族みんなで読めるフルカラー・ドラマガイド！　\n",
+      "salesDate": "2026年05月29日",
+      "series": "ＮＨＫ大河ドラマ・ガイド",
       "reviewAverage": 0,
       "reviewCount": 0,
-      "genreId": "101911",
-      "isbn": "4310000936589",
+      "genreId": "101913002",
+      "isbn": "4479234030000",
       "salesType": 0,
       "matchMeta": {
-        "title": "ソン・シギョンの本当に美味しい韓国グルメガイド - SUNG SI KYUNG’s Deep Kore 講談社MOOK",
-        "author": "",
-        "score": 62,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 12
-          }
-        ],
-        "source": "combined",
-        "rank": 22,
-        "originalTitle": "ソン・シギョンの本当に美味しい韓国グルメガイド - ＳＵＮＧ　ＳＩ　ＫＹＵＮＧ’ｓ　Ｄｅｅｐ　Ｋｏｒｅ 講談社ＭＯＯＫ"
-      },
-      "ranking": {
-        "title": "ソン・シギョンの本当に美味しい韓国グルメガイド - ＳＵＮＧ ＳＩ ＫＹＵＮＧ’ｓ Ｄｅｅｐ Ｋｏｒｅ 講談社ＭＯＯＫ",
+        "title": "NHK大河ドラマ・ガイド 豊臣兄弟! 後編",
         "author": "",
         "isbn": "",
-        "score": 168,
+        "score": 170,
         "sources": [
           {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 12
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 10
           }
         ],
         "source": "combined",
-        "rank": 14
+        "rank": 20
+      },
+      "ranking": {
+        "title": "NHK大河ドラマ・ガイド 豊臣兄弟! 後編",
+        "author": "",
+        "isbn": "",
+        "score": 170,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 13
       }
     },
     {
@@ -880,6 +834,53 @@
           }
         ],
         "source": "combined",
+        "rank": 14
+      }
+    },
+    {
+      "id": "4310000683989",
+      "title": "汝、星のごとく【電子限定特典付き】",
+      "author": "凪良ゆう",
+      "publisher": "講談社",
+      "price": 990,
+      "url": "https://books.rakuten.co.jp/rk/c078773e2356341c99cfa0309dc414dd/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1001/2000018151001.jpg?_ex=600x600",
+      "caption": "第20回本屋大賞受賞作！\nシリーズ累計100万部突破！\nあなたと生きる、その痛みごと。\n著者2度目の本屋大賞を受賞した『汝、星のごとく』が3年の時を経てついに文庫化！同じ空の下であの星を見上げよう。そして、また出会おう。あまりに切ない運命を、繊細な心理描写で描いた著者最高傑作。\n風光明媚な瀬戸内の島で育った暁海(あきみ)と母の恋愛に振り回され転校してきた櫂(かい)。ともに心に孤独と欠落を抱えた二人が恋に落ちるのに時間はかからなかった。ときにすれ違い、ぶつかり、成長していく。生きることの自由さと不自由さを描き続けた著者がおくる、あまりに切ない愛の物語【2023年本屋大賞受賞作】\n☆2023年本屋大賞受賞作☆\n【第168回直木賞候補作】\n【第44回吉川英治文学新人賞候補作】\n【2022王様のブランチBOOK大賞】\n【キノベス!2023 第1位】\n【第10回高校生直木賞候補作】\n【ダ・ヴィンチ BOOK OF THE YEAR 2022 第３位】\n【今月の絶対はずさない！ プラチナ本 選出（「ダ・ヴィンチ」12月号）】\n【第２回 本屋が選ぶ大人の恋愛小説大賞 ノミネート】\n【未来屋小説大賞 第２位】\n【ミヤボン2022 大賞受賞】\n【Apple Books 2022年 今年のベストブック（フィクション部門）】\nなどなど、賞＆ノミネート＆ランクイン多数！\n※電子版には特典として、続編『星を編む』の試し読み増量版と著者作品リストを収録しています。\n",
+      "salesDate": "2025年07月15日",
+      "series": "汝、星のごとく",
+      "reviewAverage": 4.39,
+      "reviewCount": 1672,
+      "genreId": "101901",
+      "isbn": "4310000683989",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "汝、星のごとく",
+        "author": "",
+        "score": 38,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 18
+          }
+        ],
+        "source": "combined",
+        "rank": 27,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "汝、星のごとく",
+        "author": "",
+        "isbn": "",
+        "score": 162,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 18
+          }
+        ],
+        "source": "combined",
         "rank": 15
       }
     },
@@ -902,8 +903,7 @@
       "matchMeta": {
         "title": "きずもの",
         "author": "",
-        "isbn": "",
-        "score": 160,
+        "score": 30,
         "sources": [
           {
             "source": "kinokuniya",
@@ -912,8 +912,8 @@
           }
         ],
         "source": "combined",
-        "rank": 28,
-        "originalTitle": "きずもの"
+        "rank": 29,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "きずもの",
@@ -950,79 +950,32 @@
       "matchMeta": {
         "title": "なぜ日本が世界に必要なのか 文春新書",
         "author": "",
-        "score": 22,
+        "score": 18,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 22
+            "rank": 23
           }
         ],
         "source": "combined",
-        "rank": 30,
+        "rank": 31,
         "originalTitle": ""
       },
       "ranking": {
         "title": "なぜ日本が世界に必要なのか 文春新書",
         "author": "",
         "isbn": "",
-        "score": 158,
+        "score": 157,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 22
+            "rank": 23
           }
         ],
         "source": "combined",
         "rank": 17
-      }
-    },
-    {
-      "id": "4310000683989",
-      "title": "汝、星のごとく【電子限定特典付き】",
-      "author": "凪良ゆう",
-      "publisher": "講談社",
-      "price": 990,
-      "url": "https://books.rakuten.co.jp/rk/c078773e2356341c99cfa0309dc414dd/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1001/2000018151001.jpg?_ex=600x600",
-      "caption": "第20回本屋大賞受賞作！\nシリーズ累計100万部突破！\nあなたと生きる、その痛みごと。\n著者2度目の本屋大賞を受賞した『汝、星のごとく』が3年の時を経てついに文庫化！同じ空の下であの星を見上げよう。そして、また出会おう。あまりに切ない運命を、繊細な心理描写で描いた著者最高傑作。\n風光明媚な瀬戸内の島で育った暁海(あきみ)と母の恋愛に振り回され転校してきた櫂(かい)。ともに心に孤独と欠落を抱えた二人が恋に落ちるのに時間はかからなかった。ときにすれ違い、ぶつかり、成長していく。生きることの自由さと不自由さを描き続けた著者がおくる、あまりに切ない愛の物語【2023年本屋大賞受賞作】\n☆2023年本屋大賞受賞作☆\n【第168回直木賞候補作】\n【第44回吉川英治文学新人賞候補作】\n【2022王様のブランチBOOK大賞】\n【キノベス!2023 第1位】\n【第10回高校生直木賞候補作】\n【ダ・ヴィンチ BOOK OF THE YEAR 2022 第３位】\n【今月の絶対はずさない！ プラチナ本 選出（「ダ・ヴィンチ」12月号）】\n【第２回 本屋が選ぶ大人の恋愛小説大賞 ノミネート】\n【未来屋小説大賞 第２位】\n【ミヤボン2022 大賞受賞】\n【Apple Books 2022年 今年のベストブック（フィクション部門）】\nなどなど、賞＆ノミネート＆ランクイン多数！\n※電子版には特典として、続編『星を編む』の試し読み増量版と著者作品リストを収録しています。\n",
-      "salesDate": "2025年07月15日",
-      "series": "汝、星のごとく",
-      "reviewAverage": 4.39,
-      "reviewCount": 1672,
-      "genreId": "101901",
-      "isbn": "4310000683989",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "汝、星のごとく",
-        "author": "",
-        "score": 14,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 24
-          }
-        ],
-        "source": "combined",
-        "rank": 32,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "汝、星のごとく",
-        "author": "",
-        "isbn": "",
-        "score": 156,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 24
-          }
-        ],
-        "source": "combined",
-        "rank": 18
       }
     },
     {
@@ -1044,20 +997,67 @@
       "matchMeta": {
         "title": "誰も教えてくれなかった 本当のお金の守り方",
         "author": "",
+        "score": 10,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 25
+          }
+        ],
+        "source": "combined",
+        "rank": 33,
+        "originalTitle": "誰も教えてくれなかった　本当のお金の守り方"
+      },
+      "ranking": {
+        "title": "誰も教えてくれなかった 本当のお金の守り方",
+        "author": "",
+        "isbn": "",
+        "score": 155,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 25
+          }
+        ],
+        "source": "combined",
+        "rank": 18
+      }
+    },
+    {
+      "id": "7225000944897",
+      "title": "最強の仕組み「整頓の科学」",
+      "author": "小山昇",
+      "publisher": "あさ出版",
+      "price": 1870,
+      "url": "https://books.rakuten.co.jp/rk/5fbd2d9b897c33cf9f6d806d3da377a4/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3206/2000022023206.jpg?_ex=600x600",
+      "caption": "「ものや情報を探す」「確認する」「やり直しをする」を減らす、会社の整頓術\n整頓が行き届くとーー\n・備品や商品の置き方が、きれいに揃う。\n・置き場所、置く向き、量が常に揃う。\n・仕事の手順（プロセス）ややり方が、揃う。\n・社員同士の考え方（価値観）が、同じ方向に揃う。\n・お客様に提供するサービスの質が、均一に揃う。\n・成果を出すための時間の使い方が、組織全体で揃う。\n働き方のＤＸや生成ＡＩの活用が進む今、\nアナログとＡＩ・デジタルを戦略的に使い分けながら、\n仕事の手順や情報、時間の使い方そのものを整えることが重要になっています。\n社内の情報や仕事の進め方がバラバラなままでは、\nせっかくのツールも十分に活かせません。\n本書でいう「整頓」とは、\n単なる片づけではなく、物の位置や向き、量だけでなく、\n仕事の手順、やり方、考え方、質、行動、時間、情報までを「揃える」ことです。\n基準を明確にすることで、\n「探す」「迷う」「確認する」「やり直す」といった無駄を減らし、\n異常にも気づきやすくなります。\n仕事のルーティン化や情報共有、組織づくり、時間管理、ものの置き方、チェックの仕組みまで、\n会社全体を「揃える」ための具体策を解説します。\n社内から迷う時間や無駄な動きが減り、会社の生産性が高まる！\n■目次\n・第１章　なぜ整頓が最強の仕組みなのか\n・第２章　情報を整頓する\n・第３章　組織を整頓し人を活かす\n・第４章　コミュニケーションを整頓する\n・第５章　ものの「捨て方」を仕組み化する\n・第６章　ものの「置き方」を仕組み化する\n・第７章　基準を決めてチェックする\n■著者　小山昇（こやま・のぼる）\n株式会社武蔵野代表取締役社長\n1948年山梨県生まれ。\n東京経済大学卒業後、1976年に日本サービスマーチャンダイザー（現・武蔵野）に入社。\n一時期、独立して自身の会社を経営していたが、\n1987年に株式会社武蔵野に復帰し、\n1989年より社長に就任。\n赤字続きだった武蔵野を売上70億円（社長就任時の10倍）を超える優良企業に育てる。\n2001年から同社の経営の仕組みを紹介する「経営サポート事業」を展開。\n現在、700社超の会員企業をサポートし、400社が過去最高益となっているほか、\n全国の経営者向けに年間240回以上の講演・セミナーを開催している。\n1999年度「電子メッセージング協議会会長賞」、\n2001年度「経済産業大臣賞」、\n2004年度、経済産業省が推進する「IT経営百選最優秀賞」をそれぞれ受賞。\n2000年度、2010年度には中小企業部門では日本で初めて「日本経営品質賞」を2回受賞。\n2023年「DX認定制度」認定。\n2025年・2026年、健康経営への取り組みが評価され、健康経営優良法人「ホワイト500」に認定。\n『経営者のための生成AI組織的活用の教科書』『1%の社長しか知らない銀行とお金の話』\n『人が輝く経営のすごい仕組み』『生成AIでわかった経営者のための人財定着術』（いずれもあさ出版）、\n『会社を絶対潰さない 組織の強化書』（KADOKAWA）、\n『「儲かる会社」の心理的安全性』（SBクリエイティブ）、\n『改訂4版 仕事ができる人の心得』（CCCメディアハウス）など著書多数。\n",
+      "salesDate": "2026年10月07日",
+      "series": "最強の仕組み「整頓の科学」",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101905016001/101905007002/101905007001",
+      "isbn": "7225000944897",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "最強の仕組み「整頓の科学」",
+        "author": "",
         "score": 5,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 28
+            "rank": 27
           }
         ],
         "source": "combined",
-        "rank": 36,
-        "originalTitle": "誰も教えてくれなかった　本当のお金の守り方"
+        "rank": 35,
+        "originalTitle": ""
       },
       "ranking": {
-        "title": "誰も教えてくれなかった 本当のお金の守り方",
+        "title": "最強の仕組み「整頓の科学」",
         "author": "",
         "isbn": "",
         "score": 153,
@@ -1175,10 +1175,10 @@
       "4320000865494",
       "4310000858457",
       "4380000408000",
-      "4390000015358",
       "4320000935695",
-      "4320000935691",
-      "4310000683989"
+      "4390000015358",
+      "4310000683989",
+      "4320000935691"
     ],
     "mystery": [
       "4320000865495",
@@ -1190,6 +1190,7 @@
       "7225000866451",
       "4310000701877",
       "7225000954165",
+      "7225000944897",
       "8910126773560"
     ],
     "humanities": [
@@ -1213,9 +1214,7 @@
     ],
     "health": [],
     "hobby": [],
-    "travel": [
-      "4310000936589"
-    ],
+    "travel": [],
     "language": [
       "4310000701877"
     ],
@@ -1241,7 +1240,7 @@
       "complete": true
     },
     "business": {
-      "matched": 4,
+      "matched": 5,
       "complete": true
     },
     "humanities": {
@@ -1273,7 +1272,7 @@
       "complete": true
     },
     "travel": {
-      "matched": 1,
+      "matched": 0,
       "complete": true
     },
     "language": {

@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-10-24T16:33:47.361Z",
+  "updatedAt": "2026-10-24T21:30:09.446Z",
   "candidateCount": 77,
-  "baseMatched": 34,
-  "matched": 38,
-  "addedMatches": 4,
+  "baseMatched": 33,
+  "matched": 40,
+  "addedMatches": 7,
   "unavailable": [
     "rakuten"
   ],
@@ -113,10 +113,10 @@
           "rank": 22
         },
         {
-          "title": "寝ながらヘーゲル (NHK出版新書 768)",
-          "author": "斎藤 幸平",
+          "title": "覚悟の磨き方 超訳 吉田松陰 (サンクチュアリ出版)",
+          "author": "池田貴将",
           "isbn": "",
-          "rank": 29
+          "rank": 30
         }
       ]
     },
@@ -213,6 +213,12 @@
           "rank": 16
         },
         {
+          "title": "寝ながらヘーゲル ＮＨＫ出版新書",
+          "author": "",
+          "isbn": "",
+          "rank": 17
+        },
+        {
           "title": "フロムヴィレッジ",
           "author": "",
           "isbn": "",
@@ -264,6 +270,12 @@
           "author": "",
           "isbn": "",
           "rank": 8
+        },
+        {
+          "title": "anan No.2514 Special Edition",
+          "author": "",
+          "isbn": "",
+          "rank": 10
         },
         {
           "title": "FOR OVERSEAS",
@@ -403,7 +415,8 @@
       "matchMeta": {
         "title": "ようこそ実力至上主義の教室へ 3年生編5",
         "author": "衣笠彰梧",
-        "score": 106,
+        "isbn": "",
+        "score": 179,
         "sources": [
           {
             "source": "amazon",
@@ -412,7 +425,7 @@
           }
         ],
         "source": "combined",
-        "rank": 7,
+        "rank": 6,
         "originalTitle": "ようこそ実力至上主義の教室へ 3年生編5 (MF文庫J)"
       },
       "ranking": {
@@ -479,53 +492,6 @@
       }
     },
     {
-      "id": "4340008067051",
-      "title": "プレゼント（新潮文庫）",
-      "author": "伊坂幸太郎/江國香織/恩田陸/梨木香歩/町田そのこ/宮部みゆき/米澤穂信",
-      "publisher": "新潮社",
-      "price": 825,
-      "url": "https://books.rakuten.co.jp/rk/e8a60fd88eb63075a76e50e52cf98712/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8962/2000020598962.jpg?_ex=600x600",
-      "caption": "これはこれまで小説を愛してきてくれた人へ、そしてこれから小説の世界に一歩踏み出す人へ贈るプレゼント。何気なく読んだ物語が、ふと目にした一行が、意外な言葉ひとつが、人生を大きく変えるかもしれない。現代を代表する７人の作家が「夏」をテーマに書き下ろした、驚きと切なさ、怖さと美しさ、何よりとびきりの面白さを詰め込んだ奇跡の一冊。さぁ、あなたの人生に小説という選択肢を。\n",
-      "salesDate": "2026年06月24日",
-      "series": "",
-      "reviewAverage": 3.87,
-      "reviewCount": 451,
-      "genreId": "101901",
-      "isbn": "4340008067051",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "プレゼント",
-        "author": "伊坂幸太郎",
-        "score": 98,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 3
-          }
-        ],
-        "source": "combined",
-        "rank": 11,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "プレゼント",
-        "author": "伊坂幸太郎",
-        "isbn": "",
-        "score": 177,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 3
-          }
-        ],
-        "source": "combined",
-        "rank": 5
-      }
-    },
-    {
       "id": "4310000683989",
       "title": "汝、星のごとく【電子限定特典付き】",
       "author": "凪良ゆう",
@@ -569,7 +535,7 @@
           }
         ],
         "source": "combined",
-        "rank": 6
+        "rank": 5
       }
     },
     {
@@ -612,6 +578,53 @@
           {
             "source": "amazon",
             "label": "Amazon",
+            "rank": 3
+          }
+        ],
+        "source": "combined",
+        "rank": 6
+      }
+    },
+    {
+      "id": "4340008067051",
+      "title": "プレゼント（新潮文庫）",
+      "author": "伊坂幸太郎/江國香織/恩田陸/梨木香歩/町田そのこ/宮部みゆき/米澤穂信",
+      "publisher": "新潮社",
+      "price": 825,
+      "url": "https://books.rakuten.co.jp/rk/e8a60fd88eb63075a76e50e52cf98712/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8962/2000020598962.jpg?_ex=600x600",
+      "caption": "これはこれまで小説を愛してきてくれた人へ、そしてこれから小説の世界に一歩踏み出す人へ贈るプレゼント。何気なく読んだ物語が、ふと目にした一行が、意外な言葉ひとつが、人生を大きく変えるかもしれない。現代を代表する７人の作家が「夏」をテーマに書き下ろした、驚きと切なさ、怖さと美しさ、何よりとびきりの面白さを詰め込んだ奇跡の一冊。さぁ、あなたの人生に小説という選択肢を。\n",
+      "salesDate": "2026年06月24日",
+      "series": "",
+      "reviewAverage": 3.87,
+      "reviewCount": 451,
+      "genreId": "101901",
+      "isbn": "4340008067051",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "プレゼント",
+        "author": "伊坂幸太郎",
+        "isbn": "",
+        "score": 177,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 3
+          }
+        ],
+        "source": "combined",
+        "rank": 12
+      },
+      "ranking": {
+        "title": "プレゼント",
+        "author": "伊坂幸太郎",
+        "isbn": "",
+        "score": 177,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
             "rank": 3
           }
         ],
@@ -855,53 +868,6 @@
       }
     },
     {
-      "id": "7225000954165",
-      "title": "誰も教えてくれなかった 本当のお金の守り方",
-      "author": "中城裕貴",
-      "publisher": "あさ出版",
-      "price": 1815,
-      "url": "https://books.rakuten.co.jp/rk/3b034acc7a6831aa8e381d9b93b1426e/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3948/2000022213948.jpg?_ex=600x600",
-      "caption": "あなたの節約や節税の方法、実は間違っているかもしれません！\n副業・パート・フリーランスが「知らなかった」で\n損をしないための知識とテクニックが満載\n・貯金していれば、お金は減らないは、ウソ・ホント？\n・現金払いがいちばん安心でおトクは、ウソ・ホント？\n・火災保険は火事のときだけ使うものは、ウソ・ホント？\n近年、物価上昇や経済環境の変化により、\n多くの方が家計の負担を軽減するために副業やパート、\nフリーランスとして働くようになっています。\nしかし、その収入を本当に「守り、増やし、残す」ための\n正しい知識を持っておらず、間違った節約術や節税対策に頼り、\n結果的に損をしてしまうケースも少なくなくありません。\n本書では、\n副業ビジネスをしている方やパート、フリーランスの方を対象に、\n「賢くお金を守り、残すための実践的なノウハウ」をまとめています。\n一般的な「節約」や「投資」の話にとどまらず、\n「合法的に税金や社会保険料を抑える方法」\n「国の制度を最大限に活用する具体的な戦略」\n「すぐにできる生活での工夫」など、\n「知らないと損をするお金の真実」を分かりやすく解説します。\n「知らないことで損をする」状態から脱却し、\n将来の資産形成に向けて一歩を踏み出すきっかけとなる１冊です。\n■目次\n●第１章　知らないうちに損をしている!? 貯金と投資のウソ・ホント\n●第２章　個人事業主と確定申告で、手取りを守る\n●第３章　保険と補償をフル活用して、出費を取り戻す\n●第４章　買い方・支払い方・借り方を変えて、家計を強くする\n●第５章　家族と法人の力で、お金が残る仕組みをつくる\n■著者　中城裕貴（なかじょうゆうき）\n1984年、奈良県生駒市生まれの大阪育ち。\nIT専門学校を卒業後、システムエンジニアとして働き、\nフリーランス＆ネットビジネスで独立。\n資産4000億円超えの日本大富豪からの教えをもとに法人経営を始める。\n現在は、IT経営者として「未来に何が起こるのか」を読み解き、\n多くの日本人を救うために活動中。\nメルマガ読者数は６万人超え、ビジネスパートナーとともに運営している\nYouTubeは登録者数６万人に達し、有料コミュニティには総勢2300名が参加。\nオンラインウェビナーを開催すれば平均500名を動員する実績をもつ。\n昨今のインターネットの発達やSNSの流行により小手先の節約術や節税術が蔓延。\nそんな中で本当の意味でお金を守り残す方法を発信し、\n年間30万円、50万円、100万円とお金を守り残す生徒を輩出。\nまた、お金を守り残すだけでなく、そこから始まる資産構築を世の中に伝え続けるパイオニア。\n著書に『才能・学歴・貯金・知識何もなくてもお金を生み出せちゃう方法教えます』\n（SBクリエイティブ）がある。\n",
-      "salesDate": "2026年10月21日",
-      "series": "誰も教えてくれなかった 本当のお金の守り方",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101905017004/101905016001/101905013/101905006/101905005",
-      "isbn": "7225000954165",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "誰も教えてくれなかった 本当のお金の守り方",
-        "author": "",
-        "score": 82,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 7
-          }
-        ],
-        "source": "combined",
-        "rank": 27,
-        "originalTitle": "誰も教えてくれなかった　本当のお金の守り方"
-      },
-      "ranking": {
-        "title": "誰も教えてくれなかった 本当のお金の守り方",
-        "author": "",
-        "isbn": "",
-        "score": 173,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 7
-          }
-        ],
-        "source": "combined",
-        "rank": 13
-      }
-    },
-    {
       "id": "4390000005636",
       "title": "容疑者Xの献身",
       "author": "東野圭吾",
@@ -941,6 +907,53 @@
           {
             "source": "maruzen",
             "label": "丸善ジュンク堂",
+            "rank": 7
+          }
+        ],
+        "source": "combined",
+        "rank": 13
+      }
+    },
+    {
+      "id": "7225000954165",
+      "title": "誰も教えてくれなかった 本当のお金の守り方",
+      "author": "中城裕貴",
+      "publisher": "あさ出版",
+      "price": 1815,
+      "url": "https://books.rakuten.co.jp/rk/3b034acc7a6831aa8e381d9b93b1426e/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3948/2000022213948.jpg?_ex=600x600",
+      "caption": "あなたの節約や節税の方法、実は間違っているかもしれません！\n副業・パート・フリーランスが「知らなかった」で\n損をしないための知識とテクニックが満載\n・貯金していれば、お金は減らないは、ウソ・ホント？\n・現金払いがいちばん安心でおトクは、ウソ・ホント？\n・火災保険は火事のときだけ使うものは、ウソ・ホント？\n近年、物価上昇や経済環境の変化により、\n多くの方が家計の負担を軽減するために副業やパート、\nフリーランスとして働くようになっています。\nしかし、その収入を本当に「守り、増やし、残す」ための\n正しい知識を持っておらず、間違った節約術や節税対策に頼り、\n結果的に損をしてしまうケースも少なくなくありません。\n本書では、\n副業ビジネスをしている方やパート、フリーランスの方を対象に、\n「賢くお金を守り、残すための実践的なノウハウ」をまとめています。\n一般的な「節約」や「投資」の話にとどまらず、\n「合法的に税金や社会保険料を抑える方法」\n「国の制度を最大限に活用する具体的な戦略」\n「すぐにできる生活での工夫」など、\n「知らないと損をするお金の真実」を分かりやすく解説します。\n「知らないことで損をする」状態から脱却し、\n将来の資産形成に向けて一歩を踏み出すきっかけとなる１冊です。\n■目次\n●第１章　知らないうちに損をしている!? 貯金と投資のウソ・ホント\n●第２章　個人事業主と確定申告で、手取りを守る\n●第３章　保険と補償をフル活用して、出費を取り戻す\n●第４章　買い方・支払い方・借り方を変えて、家計を強くする\n●第５章　家族と法人の力で、お金が残る仕組みをつくる\n■著者　中城裕貴（なかじょうゆうき）\n1984年、奈良県生駒市生まれの大阪育ち。\nIT専門学校を卒業後、システムエンジニアとして働き、\nフリーランス＆ネットビジネスで独立。\n資産4000億円超えの日本大富豪からの教えをもとに法人経営を始める。\n現在は、IT経営者として「未来に何が起こるのか」を読み解き、\n多くの日本人を救うために活動中。\nメルマガ読者数は６万人超え、ビジネスパートナーとともに運営している\nYouTubeは登録者数６万人に達し、有料コミュニティには総勢2300名が参加。\nオンラインウェビナーを開催すれば平均500名を動員する実績をもつ。\n昨今のインターネットの発達やSNSの流行により小手先の節約術や節税術が蔓延。\nそんな中で本当の意味でお金を守り残す方法を発信し、\n年間30万円、50万円、100万円とお金を守り残す生徒を輩出。\nまた、お金を守り残すだけでなく、そこから始まる資産構築を世の中に伝え続けるパイオニア。\n著書に『才能・学歴・貯金・知識何もなくてもお金を生み出せちゃう方法教えます』\n（SBクリエイティブ）がある。\n",
+      "salesDate": "2026年10月21日",
+      "series": "誰も教えてくれなかった 本当のお金の守り方",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101905017004/101905016001/101905013/101905006/101905005",
+      "isbn": "7225000954165",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "誰も教えてくれなかった 本当のお金の守り方",
+        "author": "",
+        "score": 82,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 7
+          }
+        ],
+        "source": "combined",
+        "rank": 27,
+        "originalTitle": "誰も教えてくれなかった　本当のお金の守り方"
+      },
+      "ranking": {
+        "title": "誰も教えてくれなかった 本当のお金の守り方",
+        "author": "",
+        "isbn": "",
+        "score": 173,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
             "rank": 7
           }
         ],
@@ -1024,8 +1037,7 @@
           }
         ],
         "source": "combined",
-        "rank": 30,
-        "originalTitle": "私のカントリー NO.125"
+        "rank": 30
       },
       "ranking": {
         "title": "私のカントリー NO.125",
@@ -1041,53 +1053,6 @@
         ],
         "source": "combined",
         "rank": 16
-      }
-    },
-    {
-      "id": "4620000615075",
-      "title": "ブラッディダイスの殺人　上",
-      "author": "Ｍ Ｗ クレイヴン",
-      "publisher": "早川書房",
-      "price": 1210,
-      "url": "https://books.rakuten.co.jp/rk/91ea3c43631d345d8bb867055aba005f/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9728/2000021429728.jpg?_ex=600x600",
-      "caption": "ポーとティリーが再びタッグを組む！　シリーズ累計30万部の最新作！\n英国全土で連続狙撃事件が発生。犠牲者は17人にのぼるも犯人の手がかりはなく、ポーとティリーは国家犯罪対策庁に呼び戻されるが\n",
-      "salesDate": "2026年08月19日",
-      "series": "ワシントン・ポー",
-      "reviewAverage": 4.38,
-      "reviewCount": 28,
-      "genreId": "101902",
-      "isbn": "4620000615075",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ブラッディダイスの殺人 上",
-        "author": "M・W・クレイヴン",
-        "score": 74,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 33,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "ブラッディダイスの殺人 上",
-        "author": "M・W・クレイヴン",
-        "isbn": "",
-        "score": 171,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 17
       }
     },
     {
@@ -1134,6 +1099,53 @@
           }
         ],
         "source": "combined",
+        "rank": 17
+      }
+    },
+    {
+      "id": "4620000615075",
+      "title": "ブラッディダイスの殺人　上",
+      "author": "Ｍ Ｗ クレイヴン",
+      "publisher": "早川書房",
+      "price": 1210,
+      "url": "https://books.rakuten.co.jp/rk/91ea3c43631d345d8bb867055aba005f/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9728/2000021429728.jpg?_ex=600x600",
+      "caption": "ポーとティリーが再びタッグを組む！　シリーズ累計30万部の最新作！\n英国全土で連続狙撃事件が発生。犠牲者は17人にのぼるも犯人の手がかりはなく、ポーとティリーは国家犯罪対策庁に呼び戻されるが\n",
+      "salesDate": "2026年08月19日",
+      "series": "ワシントン・ポー",
+      "reviewAverage": 4.38,
+      "reviewCount": 28,
+      "genreId": "101902",
+      "isbn": "4620000615075",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ブラッディダイスの殺人 上",
+        "author": "M・W・クレイヴン",
+        "score": 74,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 33,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "ブラッディダイスの殺人 上",
+        "author": "M・W・クレイヴン",
+        "isbn": "",
+        "score": 171,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
         "rank": 18
       }
     },
@@ -1156,7 +1168,8 @@
       "matchMeta": {
         "title": "ブラッディダイスの殺人 下",
         "author": "M・W・クレイヴン",
-        "score": 70,
+        "isbn": "",
+        "score": 170,
         "sources": [
           {
             "source": "maruzen",
@@ -1165,8 +1178,7 @@
           }
         ],
         "source": "combined",
-        "rank": 37,
-        "originalTitle": ""
+        "rank": 36
       },
       "ranking": {
         "title": "ブラッディダイスの殺人 下",
@@ -1182,6 +1194,53 @@
         ],
         "source": "combined",
         "rank": 19
+      }
+    },
+    {
+      "id": "6681317745260",
+      "title": "anan No.2514 Special Edition",
+      "author": "anan編集部",
+      "publisher": "マガジンハウス",
+      "price": 880,
+      "url": "https://books.rakuten.co.jp/rk/e7b4a8d256cd3ae1be86ae1ec5c93bf7/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0747/2000021990747.jpg?_ex=600x600",
+      "caption": "※『anan No.2514』『anan No.2514増刊』『anan No.2514 Special Edition』は表紙・一部内容が異なります。\n※『anan No.2514増刊』のみ裏表紙も異なります。\n※電子版では、紙の雑誌と内容が一部異なる場合や、掲載されないページや特別付録が含まれない場合がございます。\n※本雑誌はカラーページを含みます。お使いの端末によっては、一部読みづらい場合がございます。\nK（&TEAM） 王子の甘美なご自愛。feat. 小田切ヒロ\n最上の愛とご褒美を。上質なご自愛。\n上坂あゆ美・鵜飼ヨシキが考える 現代における、上質なご自愛論。\n何も考えない、没頭時間。編み物で、自分と向き合う。\n暮らしに彩りを添えて。頑張る自分に贈りたい、お花の処方箋。\nとろける、なめらか 目もよろこぶ、ご馳走パフェ。\nいつでもどこでも、ふわふわ&もこもこチャージ! スターバックス「パンプキン スープチーノ(R)」で、#ご自愛スープ。\n一日の終わりに、癒しの時間を。感触を愛でるスキンケア。\n自分らしさを表現する、大人の世界へ。ご褒美ジュエリーを迎えよう。\n上質な空間で自分だけの特別な時間を。ソロご自愛スポット\nMrs. GREEN APPLE 無垢と諦念。\n“テニプリ”と生きた時代を愛するすべての仲間に贈る物語。『新テニスの王子様 U-17 WORLD CUP 決勝メンバー決定戦』\n移動すること自体を楽しむ。週末船旅のススメ。\n仕事帰りに立ち寄れる、心をほぐす夜の寄り道案内。\n中島健人のKENTREND 番外編 #SB19\n",
+      "salesDate": "2026年10月07日",
+      "series": "anan",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101950020",
+      "isbn": "6681317745260",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "anan No.2514 Special Edition",
+        "author": "",
+        "isbn": "",
+        "score": 170,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 38
+      },
+      "ranking": {
+        "title": "anan No.2514 Special Edition",
+        "author": "",
+        "isbn": "",
+        "score": 170,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 20
       }
     },
     {
@@ -1228,7 +1287,7 @@
           }
         ],
         "source": "combined",
-        "rank": 20
+        "rank": 21
       }
     },
     {
@@ -1276,7 +1335,7 @@
           }
         ],
         "source": "combined",
-        "rank": 21
+        "rank": 22
       }
     },
     {
@@ -1323,7 +1382,7 @@
           }
         ],
         "source": "combined",
-        "rank": 22
+        "rank": 23
       }
     },
     {
@@ -1370,7 +1429,7 @@
           }
         ],
         "source": "combined",
-        "rank": 23
+        "rank": 24
       }
     },
     {
@@ -1417,7 +1476,7 @@
           }
         ],
         "source": "combined",
-        "rank": 24
+        "rank": 25
       }
     },
     {
@@ -1464,7 +1523,7 @@
           }
         ],
         "source": "combined",
-        "rank": 25
+        "rank": 26
       }
     },
     {
@@ -1486,8 +1545,7 @@
       "matchMeta": {
         "title": "地図で学ぶ「深読み」世界史",
         "author": "伊藤 敏",
-        "isbn": "",
-        "score": 164,
+        "score": 46,
         "sources": [
           {
             "source": "amazon",
@@ -1496,7 +1554,8 @@
           }
         ],
         "source": "combined",
-        "rank": 50
+        "rank": 50,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "地図で学ぶ「深読み」世界史",
@@ -1511,7 +1570,54 @@
           }
         ],
         "source": "combined",
-        "rank": 26
+        "rank": 27
+      }
+    },
+    {
+      "id": "4470887680000",
+      "title": "寝ながらヘーゲル",
+      "author": "斎藤幸平",
+      "publisher": "NHK出版",
+      "price": 1133,
+      "url": "https://books.rakuten.co.jp/rk/0d1b142854743e87a1558a7c026d4c6e/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4586/2000022054586.jpg?_ex=600x600",
+      "caption": "『精神現象学』って、そういう本だったのか！\nSNSの時代、承認欲求は暴走し、対立は終わらず、社会分断は広がり続けるーーその根底にある仕組みを、ヘーゲルは主著『精神現象学』で、まるで現代を予言するかのように鮮やかに描き出していた。のちにマルクス思想誕生のきっかけとなり、近現代思想を方向づけることになったこの名著を、マルクス解説で話題を呼んだ著者がやさしく読み解く。承認、自由、共同体をめぐるヘーゲルの洞察をたどれば、難解な古典が驚くほど現代的な書物であることがわかり、いま私たちの社会で何が起きているのかが見えてくる。分断の時代に希望を取り戻すための一冊。\n",
+      "salesDate": "2026年10月13日",
+      "series": "ＮＨＫ出版新書",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101907002002",
+      "isbn": "4470887680000",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "寝ながらヘーゲル NHK出版新書",
+        "author": "",
+        "score": 42,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 17
+          }
+        ],
+        "source": "combined",
+        "rank": 51,
+        "originalTitle": "寝ながらヘーゲル ＮＨＫ出版新書"
+      },
+      "ranking": {
+        "title": "寝ながらヘーゲル ＮＨＫ出版新書",
+        "author": "",
+        "isbn": "",
+        "score": 163,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 17
+          }
+        ],
+        "source": "combined",
+        "rank": 28
       }
     },
     {
@@ -1558,54 +1664,7 @@
           }
         ],
         "source": "combined",
-        "rank": 27
-      }
-    },
-    {
-      "id": "4480000944629",
-      "title": "フロムヴィレッジ",
-      "author": "誉田哲也",
-      "publisher": "光文社",
-      "price": 2200,
-      "url": "https://books.rakuten.co.jp/rk/75470200f9a43c36908e338026f07666/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1303/2000022021303.jpg?_ex=600x600",
-      "caption": "都内で発生した轢死事件。被害男性が香川県在住であることから、警視庁捜査一課殺人班十一係主任・姫川玲子は四国へ飛ぶことに。被害者は神社を営む旧家・十河家の縁戚者であり、玲子は二つの家系に横たわる世代を超えた暗い因縁を掴む。一方、魚住久江巡査部長らが捜査を続ける東京の捜査本部では、被害者が生前、遺伝子検査機関と連絡を取っていたことが判明しーー。圧倒的面白さで新境地を切り拓く〈姫川玲子シリーズ〉第11弾！\n",
-      "salesDate": "2026年10月21日",
-      "series": "警部補　姫川玲子",
-      "reviewAverage": 0,
-      "reviewCount": 1,
-      "genreId": "101901/101902",
-      "isbn": "4480000944629",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "フロムヴィレッジ",
-        "author": "",
-        "score": 30,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 20
-          }
-        ],
-        "source": "combined",
-        "rank": 56,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "フロムヴィレッジ",
-        "author": "",
-        "isbn": "",
-        "score": 160,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 20
-          }
-        ],
-        "source": "combined",
-        "rank": 28
+        "rank": 29
       }
     },
     {
@@ -1652,7 +1711,54 @@
           }
         ],
         "source": "combined",
-        "rank": 29
+        "rank": 30
+      }
+    },
+    {
+      "id": "4480000944629",
+      "title": "フロムヴィレッジ",
+      "author": "誉田哲也",
+      "publisher": "光文社",
+      "price": 2200,
+      "url": "https://books.rakuten.co.jp/rk/75470200f9a43c36908e338026f07666/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1303/2000022021303.jpg?_ex=600x600",
+      "caption": "都内で発生した轢死事件。被害男性が香川県在住であることから、警視庁捜査一課殺人班十一係主任・姫川玲子は四国へ飛ぶことに。被害者は神社を営む旧家・十河家の縁戚者であり、玲子は二つの家系に横たわる世代を超えた暗い因縁を掴む。一方、魚住久江巡査部長らが捜査を続ける東京の捜査本部では、被害者が生前、遺伝子検査機関と連絡を取っていたことが判明しーー。圧倒的面白さで新境地を切り拓く〈姫川玲子シリーズ〉第11弾！\n",
+      "salesDate": "2026年10月21日",
+      "series": "警部補　姫川玲子",
+      "reviewAverage": 0,
+      "reviewCount": 1,
+      "genreId": "101901/101902",
+      "isbn": "4480000944629",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "フロムヴィレッジ",
+        "author": "",
+        "score": 30,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 20
+          }
+        ],
+        "source": "combined",
+        "rank": 56,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "フロムヴィレッジ",
+        "author": "",
+        "isbn": "",
+        "score": 160,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 20
+          }
+        ],
+        "source": "combined",
+        "rank": 31
       }
     },
     {
@@ -1699,54 +1805,7 @@
           }
         ],
         "source": "combined",
-        "rank": 30
-      }
-    },
-    {
-      "id": "4380000408000",
-      "title": "未だ本能寺にあり",
-      "author": "今村翔吾",
-      "publisher": "幻冬舎",
-      "price": 2299,
-      "url": "https://books.rakuten.co.jp/rk/60f1dc9e00eb35a8a668b28e59a84d1f/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5047/2000021595047.jpg?_ex=600x600",
-      "caption": "魔王の首を探せ。\n織田信長はどこへ消えたのか？\n羽柴秀吉、信長を刺した明智兵、使用人の少女、阿弥陀寺の僧……。\n「あの日」を巡る8人の証言が集まる時、\n400年、誰も見たことのない“答え″が、導き出される。\n天正十年、本能寺の変が勃発。天下の主を失った日ノ本は混沌に陥った。そんな中、羽柴家家臣・駒井八右衛門は、秀吉からある密命を授かる。上様を探せーー。\n逆賊・明智光秀を討った秀吉は、今や織田の後継と目されていた。だが、信長の遺骸は見つからずにいる。もし他者が先んじて遺骸を探し出し弔えば、その座が奪われかねない。まして信長が生きているとなれば、秀吉が描き始めた天下への絵図も霧散することになる。\n一度見聞きした物事は忘れない異能を武器に、八右衛門は消えた天下人の行方を追う。織田方、明智方、そして影の目撃者……。関係者たちが語る「あの日」の真実とは？\n日本史上最大の謎に挑む、超大作歴史ミステリー。\n",
-      "salesDate": "2026年09月29日",
-      "series": "",
-      "reviewAverage": 4.9,
-      "reviewCount": 12,
-      "genreId": "101901001001",
-      "isbn": "4380000408000",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "未だ本能寺にあり",
-        "author": "",
-        "score": 22,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 22
-          }
-        ],
-        "source": "combined",
-        "rank": 60,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "未だ本能寺にあり",
-        "author": "",
-        "isbn": "",
-        "score": 158,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 22
-          }
-        ],
-        "source": "combined",
-        "rank": 31
+        "rank": 32
       }
     },
     {
@@ -1793,7 +1852,54 @@
           }
         ],
         "source": "combined",
-        "rank": 32
+        "rank": 33
+      }
+    },
+    {
+      "id": "4380000408000",
+      "title": "未だ本能寺にあり",
+      "author": "今村翔吾",
+      "publisher": "幻冬舎",
+      "price": 2299,
+      "url": "https://books.rakuten.co.jp/rk/60f1dc9e00eb35a8a668b28e59a84d1f/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5047/2000021595047.jpg?_ex=600x600",
+      "caption": "魔王の首を探せ。\n織田信長はどこへ消えたのか？\n羽柴秀吉、信長を刺した明智兵、使用人の少女、阿弥陀寺の僧……。\n「あの日」を巡る8人の証言が集まる時、\n400年、誰も見たことのない“答え″が、導き出される。\n天正十年、本能寺の変が勃発。天下の主を失った日ノ本は混沌に陥った。そんな中、羽柴家家臣・駒井八右衛門は、秀吉からある密命を授かる。上様を探せーー。\n逆賊・明智光秀を討った秀吉は、今や織田の後継と目されていた。だが、信長の遺骸は見つからずにいる。もし他者が先んじて遺骸を探し出し弔えば、その座が奪われかねない。まして信長が生きているとなれば、秀吉が描き始めた天下への絵図も霧散することになる。\n一度見聞きした物事は忘れない異能を武器に、八右衛門は消えた天下人の行方を追う。織田方、明智方、そして影の目撃者……。関係者たちが語る「あの日」の真実とは？\n日本史上最大の謎に挑む、超大作歴史ミステリー。\n",
+      "salesDate": "2026年09月29日",
+      "series": "",
+      "reviewAverage": 4.9,
+      "reviewCount": 12,
+      "genreId": "101901001001",
+      "isbn": "4380000408000",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "未だ本能寺にあり",
+        "author": "",
+        "score": 22,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 22
+          }
+        ],
+        "source": "combined",
+        "rank": 60,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "未だ本能寺にあり",
+        "author": "",
+        "isbn": "",
+        "score": 158,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 22
+          }
+        ],
+        "source": "combined",
+        "rank": 34
       }
     },
     {
@@ -1840,54 +1946,54 @@
           }
         ],
         "source": "combined",
-        "rank": 33
+        "rank": 35
       }
     },
     {
-      "id": "4470887680000",
-      "title": "寝ながらヘーゲル",
-      "author": "斎藤幸平",
-      "publisher": "NHK出版",
-      "price": 1133,
-      "url": "https://books.rakuten.co.jp/rk/0d1b142854743e87a1558a7c026d4c6e/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4586/2000022054586.jpg?_ex=600x600",
-      "caption": "『精神現象学』って、そういう本だったのか！\nSNSの時代、承認欲求は暴走し、対立は終わらず、社会分断は広がり続けるーーその根底にある仕組みを、ヘーゲルは主著『精神現象学』で、まるで現代を予言するかのように鮮やかに描き出していた。のちにマルクス思想誕生のきっかけとなり、近現代思想を方向づけることになったこの名著を、マルクス解説で話題を呼んだ著者がやさしく読み解く。承認、自由、共同体をめぐるヘーゲルの洞察をたどれば、難解な古典が驚くほど現代的な書物であることがわかり、いま私たちの社会で何が起きているのかが見えてくる。分断の時代に希望を取り戻すための一冊。\n",
-      "salesDate": "2026年10月13日",
-      "series": "ＮＨＫ出版新書",
-      "reviewAverage": 0,
-      "reviewCount": 0,
+      "id": "8910120537764",
+      "title": "覚悟の磨き方 超訳 吉田松陰",
+      "author": "池田貴将",
+      "publisher": "サンクチュアリ出版",
+      "price": 1650,
+      "url": "https://books.rakuten.co.jp/rk/b34b03152bf839e9a38924a752ad1113/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2061/2000005302061.jpg?_ex=600x600",
+      "caption": "★85万部突破のベストセラー！(2026年8月時点)\n★2025年・年間ベストセラー4位！（ビジネス書単行本／日販調べ）\nバスケットボール日本代表：河村勇輝選手\n→ダ・ヴィンチ「2023年一番心に残った本」として紹介（2024年1月号）\n格闘家・YA-MAN選手\n→インスタグラムにて紹介\nサッカー選手：旗手怜央選手\n→欧州フットボール日記「試合前に手に取る大切な本」として紹介\n亀梨和也さん\n→ダ・ヴィンチ（2017年6月号）で紹介\nなど超一流のアスリート、俳優、経営者などから愛され続けるロングセラー\n不安と生きるか。\n理想に死ぬか。\n外国の文明を学ぼうと、\n死罪を覚悟で黒船に乗り込もうとした。\n幽閉の処分となると小さな塾「松下村塾」を開き、\n高杉晋作や伊藤博文など、\n後の大臣や大学創設者になる面々を育てた。\nこの本はそんな風に\n誰よりも遠くを見据えながら、\n幕末を熱く駆け抜けた\n天才思想家・吉田松陰が残した言葉を、\n現代人にもわかりやすく、理解しやすく変換した人生哲学書である。\n吉田松陰の言葉が\n世代を超えてこんなにも心に響くのは\n彼の言葉が日本史上類を見ないほど\nシンプルで、力強く、そしてやさしさに満ちているからだろう。\n困難にぶつかった時、\n自信を失いそうな時、\nプレッシャーに押し潰されそうな時、\nきっとこの本が現状を打破する勇気をくれるはずだ。\n",
+      "salesDate": "2014年02月17日",
+      "series": "",
+      "reviewAverage": 3.9,
+      "reviewCount": 382,
       "genreId": "101907002002",
-      "isbn": "4470887680000",
+      "isbn": "8910120537764",
       "salesType": 0,
       "matchMeta": {
-        "title": "寝ながらヘーゲル",
-        "author": "斎藤 幸平",
+        "title": "覚悟の磨き方 超訳 吉田松陰 (サンクチュアリ出版)",
+        "author": "池田貴将",
         "score": 5,
         "sources": [
           {
             "source": "amazon",
             "label": "Amazon",
-            "rank": 29
+            "rank": 30
           }
         ],
         "source": "combined",
-        "rank": 75,
-        "originalTitle": "寝ながらヘーゲル (NHK出版新書 768)"
+        "rank": 76,
+        "originalTitle": ""
       },
       "ranking": {
-        "title": "寝ながらヘーゲル (NHK出版新書 768)",
-        "author": "斎藤 幸平",
+        "title": "覚悟の磨き方 超訳 吉田松陰 (サンクチュアリ出版)",
+        "author": "池田貴将",
         "isbn": "",
-        "score": 151,
+        "score": 150,
         "sources": [
           {
             "source": "amazon",
             "label": "Amazon",
-            "rank": 29
+            "rank": 30
           }
         ],
         "source": "combined",
-        "rank": 34
+        "rank": 36
       }
     },
     {
@@ -1933,7 +2039,7 @@
           }
         ],
         "source": "combined",
-        "rank": 35,
+        "rank": 37,
         "originalTitle": ""
       }
     },
@@ -1980,7 +2086,7 @@
           }
         ],
         "source": "combined",
-        "rank": 36,
+        "rank": 38,
         "originalTitle": ""
       }
     },
@@ -2027,7 +2133,7 @@
           }
         ],
         "source": "combined",
-        "rank": 37,
+        "rank": 39,
         "originalTitle": ""
       }
     },
@@ -2074,23 +2180,23 @@
           }
         ],
         "source": "combined",
-        "rank": 38,
+        "rank": 40,
         "originalTitle": ""
       }
     }
   ],
   "byGenre": {
     "fiction": [
-      "4340008067051",
       "4310000683989",
+      "4340008067051",
       "4910000909001",
       "9784059242451",
       "4390000005636",
       "4335254300320",
       "6681318746430",
       "4332254800300",
-      "4480000944629",
       "4310000886199",
+      "4480000944629",
       "4380000408000",
       "4480000838415"
     ],
@@ -2115,7 +2221,8 @@
       "1230007481703",
       "4390000014247",
       "4410000009566",
-      "4470887680000"
+      "4470887680000",
+      "8910120537764"
     ],
     "nonfiction": [
       "4390000014247"
@@ -2175,7 +2282,7 @@
       "complete": true
     },
     "humanities": {
-      "matched": 6,
+      "matched": 7,
       "complete": true
     },
     "nonfiction": {

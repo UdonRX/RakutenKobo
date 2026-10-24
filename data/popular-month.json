@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-10-24T16:34:01.996Z",
+  "updatedAt": "2026-10-24T21:30:26.065Z",
   "candidateCount": 38,
-  "baseMatched": 21,
-  "matched": 23,
-  "addedMatches": 2,
+  "baseMatched": 17,
+  "matched": 21,
+  "addedMatches": 4,
   "unavailable": [],
   "snapshots": {
     "kinokuniya": {
@@ -25,12 +25,6 @@
           "author": "",
           "isbn": "",
           "rank": 1
-        },
-        {
-          "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
-          "author": "",
-          "isbn": "",
-          "rank": 3
         },
         {
           "title": "未だ本能寺にあり",
@@ -120,6 +114,12 @@
           "author": "",
           "isbn": "",
           "rank": 2
+        },
+        {
+          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+          "author": "",
+          "isbn": "",
+          "rank": 4
         },
         {
           "title": "イン･ザ･メガチャーチ",
@@ -269,30 +269,30 @@
       "isbn": "4380000407898",
       "salesType": 0,
       "matchMeta": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 幻冬舎新書",
-        "author": "",
-        "score": 98,
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "author": "林真理子",
+        "score": 94,
         "sources": [
           {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 3
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
           }
         ],
         "source": "combined",
-        "rank": 8,
-        "originalTitle": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書"
+        "rank": 9,
+        "originalTitle": ""
       },
       "ranking": {
-        "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
         "author": "",
         "isbn": "",
-        "score": 177,
+        "score": 176,
         "sources": [
           {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 3
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
           }
         ],
         "source": "combined",
@@ -563,7 +563,8 @@
           }
         ],
         "source": "combined",
-        "rank": 21
+        "rank": 21,
+        "originalTitle": "FOR OVERSEAS"
       },
       "ranking": {
         "title": "FOR OVERSEAS",
@@ -694,7 +695,8 @@
       "matchMeta": {
         "title": "きずもの",
         "author": "",
-        "score": 30,
+        "isbn": "",
+        "score": 160,
         "sources": [
           {
             "source": "kinokuniya",
@@ -704,7 +706,7 @@
         ],
         "source": "combined",
         "rank": 29,
-        "originalTitle": ""
+        "originalTitle": "きずもの"
       },
       "ranking": {
         "title": "きずもの",
@@ -835,17 +837,17 @@
       "matchMeta": {
         "title": "継体天皇 - 六世紀に現れた世襲王権の「始祖王」 中公新書",
         "author": "",
-        "score": 5,
+        "isbn": "",
+        "score": 152,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 29
+            "rank": 28
           }
         ],
         "source": "combined",
-        "rank": 37,
-        "originalTitle": ""
+        "rank": 37
       },
       "ranking": {
         "title": "継体天皇 - 六世紀に現れた世襲王権の「始祖王」 中公新書",
@@ -1005,53 +1007,6 @@
       }
     },
     {
-      "id": "4320000865494",
-      "title": "ファイア・ドーム 下",
-      "author": "辻村深月",
-      "publisher": "小学館",
-      "price": 1881,
-      "url": "https://books.rakuten.co.jp/rk/0cf87d9a77c93fe8a0124e6398a0aa4b/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1763/2000020771763.jpg?_ex=600x600",
-      "caption": "お前の家は、人殺しだ。\n真実を知っても、人は忘れていく。\n25年前の夏、この町には炎が降り注いだ。百貨店受付嬢誘拐殺人事件という、身近で突然起こった全国レベルのニュースを、誰もがいつまでも終わらせたくなかった。傷ついた人をさらに傷つけてしまった土地に、事件の火の粉は、まだ残っている。夏の日、写生遠足の帰りに姿を消した少年は無事に帰ってくるのか？　25年前の事件には、「まだ明かされていない」事実が本当にあるのか？\n「病気なんかで、死ねると思うな」ーー本文より\n",
-      "salesDate": "2026年06月05日",
-      "series": "ファイア・ドーム",
-      "reviewAverage": 4.61,
-      "reviewCount": 707,
-      "genreId": "101901/101902",
-      "isbn": "4320000865494",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ファイア・ドーム 下",
-        "author": "辻村深月",
-        "score": 98,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 3
-          }
-        ],
-        "source": "combined",
-        "rank": 7,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "ファイア・ドーム 下",
-        "author": "辻村深月",
-        "score": 98,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 3
-          }
-        ],
-        "source": "combined",
-        "rank": 19,
-        "originalTitle": ""
-      }
-    },
-    {
       "id": "4310000858457",
       "title": "多類婚姻譚",
       "author": "凪良ゆう",
@@ -1094,54 +1049,7 @@
           }
         ],
         "source": "combined",
-        "rank": 20,
-        "originalTitle": ""
-      }
-    },
-    {
-      "id": "4390000015358",
-      "title": "青天",
-      "author": "若林正恭",
-      "publisher": "文藝春秋",
-      "price": 1900,
-      "url": "https://books.rakuten.co.jp/rk/a6fc1b8794af3eafb7f064fac9c68dfa/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0144/2000019330144.jpg?_ex=600x600",
-      "caption": "オードリー・若林正恭、初小説！\n人にぶつかっていないと、自分が生きているかどうかよくわからなくなるーー\n総大三高の「アリ」こと中村昴が所属するアメフト部は、万年２回戦どまり。相手校の練習を隠し撮りして迎えた高３の引退大会では、強豪・遼西学園に打ち破れた。引退後、みなが受験に向かうなか、勉強にも気持ちが入らず、不良になる覚悟もないまま宙ぶらりんの日々を過ごす。自分自身の不甲斐なさにもがき続けるなかで、アリは再びアメフトと向き合う決意を固める。\n青春の苦みと悦びに満ちた、著者渾身の初小説。\n",
-      "salesDate": "2026年02月20日",
-      "series": "",
-      "reviewAverage": 3.98,
-      "reviewCount": 640,
-      "genreId": "101901",
-      "isbn": "4390000015358",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "青天",
-        "author": "若林正恭",
-        "score": 78,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 15,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "青天",
-        "author": "若林正恭",
-        "score": 78,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 21,
+        "rank": 19,
         "originalTitle": ""
       }
     },
@@ -1188,7 +1096,7 @@
           }
         ],
         "source": "combined",
-        "rank": 22,
+        "rank": 20,
         "originalTitle": ""
       }
     },
@@ -1235,7 +1143,7 @@
           }
         ],
         "source": "combined",
-        "rank": 23,
+        "rank": 21,
         "originalTitle": ""
       }
     }
@@ -1249,14 +1157,11 @@
       "4320000935691",
       "4320000867368",
       "4320000865495",
-      "4320000865494",
-      "4310000858457",
-      "4390000015358"
+      "4310000858457"
     ],
     "mystery": [
       "4320000935695",
-      "4320000865495",
-      "4320000865494"
+      "4320000865495"
     ],
     "sf": [],
     "business": [
@@ -1301,11 +1206,11 @@
   },
   "genreStatus": {
     "fiction": {
-      "matched": 10,
+      "matched": 8,
       "complete": true
     },
     "mystery": {
-      "matched": 3,
+      "matched": 2,
       "complete": true
     },
     "sf": {

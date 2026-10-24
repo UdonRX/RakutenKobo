@@ -4,7 +4,7 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-10-24T11:56:58.363Z",
+  "updatedAt": "2026-10-24T16:34:01.996Z",
   "candidateCount": 38,
   "baseMatched": 21,
   "matched": 23,
@@ -25,6 +25,12 @@
           "author": "",
           "isbn": "",
           "rank": 1
+        },
+        {
+          "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
+          "author": "",
+          "isbn": "",
+          "rank": 3
         },
         {
           "title": "未だ本能寺にあり",
@@ -114,12 +120,6 @@
           "author": "",
           "isbn": "",
           "rank": 2
-        },
-        {
-          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-          "author": "",
-          "isbn": "",
-          "rank": 4
         },
         {
           "title": "イン･ザ･メガチャーチ",
@@ -269,30 +269,30 @@
       "isbn": "4380000407898",
       "salesType": 0,
       "matchMeta": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-        "author": "林真理子",
-        "score": 94,
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 幻冬舎新書",
+        "author": "",
+        "score": 98,
         "sources": [
           {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 3
           }
         ],
         "source": "combined",
-        "rank": 9,
-        "originalTitle": ""
+        "rank": 8,
+        "originalTitle": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書"
       },
       "ranking": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
         "author": "",
         "isbn": "",
-        "score": 176,
+        "score": 177,
         "sources": [
           {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 3
           }
         ],
         "source": "combined",
@@ -457,7 +457,7 @@
       "isbn": "4524815633410",
       "salesType": 0,
       "matchMeta": {
-        "title": "ハーバード、スタンフォード、オックスフォード... 科学的に証明された すごい習慣大百科",
+        "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
         "author": "",
         "isbn": "",
         "score": 170,
@@ -469,8 +469,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17,
-        "originalTitle": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科"
+        "rank": 17
       },
       "ranking": {
         "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",

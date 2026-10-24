@@ -4,22 +4,22 @@
   "attribution": "Amazon.co.jp",
   "sourceUrl": "https://www.amazon.co.jp/gp/bestsellers/books",
   "periodLabel": "現在のベストセラー",
-  "updatedAt": "2026-10-23T23:51:44.485Z",
+  "updatedAt": "2026-10-24T23:13:16.105Z",
   "live": false,
   "items": [
     {
       "rank": 1,
+      "title": "それでも私は、お菓子作りのある人生を諦めない。",
+      "author": "misa",
+      "asin": "4043303114",
+      "url": "https://www.amazon.co.jp/dp/4043303114"
+    },
+    {
+      "rank": 2,
       "title": "ようこそ実力至上主義の教室へ 3年生編5 (MF文庫J)",
       "author": "衣笠彰梧",
       "asin": "B0H34WZ7XN",
       "url": "https://www.amazon.co.jp/dp/B0H34WZ7XN"
-    },
-    {
-      "rank": 2,
-      "title": "秘密にしたい魅惑のスイーツレシピ",
-      "author": "小林啓吾",
-      "asin": "4651205941",
-      "url": "https://www.amazon.co.jp/dp/4651205941"
     },
     {
       "rank": 3,
@@ -37,185 +37,185 @@
     },
     {
       "rank": 5,
+      "title": "秘密にしたい魅惑のスイーツレシピ",
+      "author": "小林啓吾",
+      "asin": "4651205941",
+      "url": "https://www.amazon.co.jp/dp/4651205941"
+    },
+    {
+      "rank": 6,
       "title": "最終回は気づかないうちに終わっていく",
       "author": "栗田 雅俊",
       "asin": "4054070973",
       "url": "https://www.amazon.co.jp/dp/4054070973"
     },
     {
-      "rank": 6,
-      "title": "誰もが不安なこの世界で",
-      "author": "小野マッチスタイル邪兄",
-      "asin": "4434387200",
-      "url": "https://www.amazon.co.jp/dp/4434387200"
-    },
-    {
       "rank": 7,
-      "title": "STAGE navi(ステージナビ)vol.117★表紙:吉田仁人（M！LK） (NIKKO MOOK)",
-      "author": "産経新聞出版",
-      "asin": "481915365X",
-      "url": "https://www.amazon.co.jp/dp/481915365X"
-    },
-    {
-      "rank": 8,
-      "title": "僕らはさよならを結ぶ",
-      "author": "てっちゃん",
-      "asin": "4041176603",
-      "url": "https://www.amazon.co.jp/dp/4041176603"
-    },
-    {
-      "rank": 9,
-      "title": "Leaf Autumn 2026",
-      "author": "芦沢央",
-      "asin": "4575249335",
-      "url": "https://www.amazon.co.jp/dp/4575249335"
-    },
-    {
-      "rank": 10,
-      "title": "日本映画navi vol.126★表紙:橋本将生",
-      "author": "産経新聞出版",
-      "asin": "4819153633",
-      "url": "https://www.amazon.co.jp/dp/4819153633"
-    },
-    {
-      "rank": 11,
-      "title": "ドラゴンボールスーパーダイバーズ 2nd ANNIVERSARY SUPER GUIDE (Vジャンプブックス(書籍))",
-      "author": "Vジャンプ編集部",
-      "asin": "4087798445",
-      "url": "https://www.amazon.co.jp/dp/4087798445"
-    },
-    {
-      "rank": 12,
       "title": "神の国日本の美しい神社 神々と共に歩む最高の人生",
       "author": "森井 啓二",
       "asin": "4434336754",
       "url": "https://www.amazon.co.jp/dp/4434336754"
     },
     {
-      "rank": 13,
-      "title": "第27回 業界最高権威 TRYラーメン大賞 2026-2027 (講談社MOOK)",
-      "author": "講談社BECK",
-      "asin": "4065425344",
-      "url": "https://www.amazon.co.jp/dp/4065425344"
+      "rank": 8,
+      "title": "「設定」が変われば人生が変わる ライフシフトジャーナル",
+      "author": "市居 愛",
+      "asin": "4799333747",
+      "url": "https://www.amazon.co.jp/dp/4799333747"
     },
     {
-      "rank": 14,
-      "title": "生きて行く私 (角川文庫)",
-      "author": "宇野 千代",
-      "asin": "4041086027",
-      "url": "https://www.amazon.co.jp/dp/4041086027"
+      "rank": 9,
+      "title": "北欧こじらせ日記 ふたり暮らし編（ダウンロード特典：「マルチに使えるイラストシートデータ」）",
+      "author": "週末北欧部chika",
+      "asin": "4418265147",
+      "url": "https://www.amazon.co.jp/dp/4418265147"
     },
     {
-      "rank": 15,
-      "title": "これが本当のSPI3だ! 2028年度版 【主要3方式〈テストセンター・ペーパーテスト・WEBテスティング〉対応】 (本当の就職テストシリーズ)",
-      "author": "SPIノートの会",
-      "asin": "4065415888",
-      "url": "https://www.amazon.co.jp/dp/4065415888"
-    },
-    {
-      "rank": 16,
-      "title": "地図で学ぶ「深読み」世界史",
-      "author": "伊藤 敏",
-      "asin": "4478122946",
-      "url": "https://www.amazon.co.jp/dp/4478122946"
-    },
-    {
-      "rank": 17,
-      "title": "自分とか、ないから。教養としての東洋哲学 (サンクチュアリ出版)",
-      "author": "しんめいP",
-      "asin": "4801401279",
-      "url": "https://www.amazon.co.jp/dp/4801401279"
-    },
-    {
-      "rank": 18,
-      "title": "真夜中のほん ねこ",
-      "author": "「スピン/spin」編集部",
-      "asin": "4309619215",
-      "url": "https://www.amazon.co.jp/dp/4309619215"
-    },
-    {
-      "rank": 19,
-      "title": "日向坂46金村美玖2nd写真集 機微",
-      "author": "金村 美玖",
-      "asin": "4065459966",
-      "url": "https://www.amazon.co.jp/dp/4065459966"
-    },
-    {
-      "rank": 20,
-      "title": "星を編む (講談社文庫 な 101-3)",
-      "author": "凪良 ゆう",
-      "asin": "4065443113",
-      "url": "https://www.amazon.co.jp/dp/4065443113"
-    },
-    {
-      "rank": 21,
-      "title": "ファイナルファンタジー レゾナンス 公式コンプリートガイド+設定資料集 (SE-MOOK)",
-      "author": "スクウェア・エニックス",
-      "asin": "4301007830",
-      "url": "https://www.amazon.co.jp/dp/4301007830"
-    },
-    {
-      "rank": 22,
-      "title": "【令和８年度】 いちばんやさしい ITパスポート 絶対合格の教科書＋出る順問題集",
-      "author": "高橋 京介",
-      "asin": "4815638209",
-      "url": "https://www.amazon.co.jp/dp/4815638209"
-    },
-    {
-      "rank": 23,
-      "title": "公式TOEIC Listening & Reading 問題集 13",
-      "author": "ETS",
-      "asin": "4906033806",
-      "url": "https://www.amazon.co.jp/dp/4906033806"
-    },
-    {
-      "rank": 24,
-      "title": "BARFOUT! バァフアウト! 2026年12月号 DECEMBER 2026 VOLUME 375 KAITO",
-      "author": "ブラウンズブックス",
-      "asin": "4344955102",
-      "url": "https://www.amazon.co.jp/dp/4344955102"
-    },
-    {
-      "rank": 25,
-      "title": "STAR WARS マンダロリアンとグローグー いっぱい貼れる！ マルチなふせんセット BOOK (宝島社ブランドムック)",
-      "author": "宝島社",
-      "asin": "4299083547",
-      "url": "https://www.amazon.co.jp/dp/4299083547"
-    },
-    {
-      "rank": 26,
-      "title": "2026-2027年版 みんなが欲しかった！ FPの教科書3級【CBT模擬試験プログラムつき/動画＆アプリ・赤シートつき/学科・実技対応/ファイナンシャルプランナー3級試験対策】(TAC出版)",
-      "author": "滝澤 ななみ",
-      "asin": "4300120811",
-      "url": "https://www.amazon.co.jp/dp/4300120811"
-    },
-    {
-      "rank": 27,
-      "title": "文具女子博2026 パーフェクトガイド (ぴあMOOK)",
-      "author": "ぴあ",
-      "asin": "4835651375",
-      "url": "https://www.amazon.co.jp/dp/4835651375"
-    },
-    {
-      "rank": 28,
+      "rank": 10,
       "title": "2027年中学入試用 サピックス重大ニュース",
       "author": "サピックス小学部",
       "asin": "4863463537",
       "url": "https://www.amazon.co.jp/dp/4863463537"
     },
     {
-      "rank": 29,
-      "title": "寝ながらヘーゲル (NHK出版新書 768)",
-      "author": "斎藤 幸平",
-      "asin": "4140887680",
-      "url": "https://www.amazon.co.jp/dp/4140887680"
+      "rank": 11,
+      "title": "Leaf Autumn 2026",
+      "author": "芦沢央",
+      "asin": "4575249335",
+      "url": "https://www.amazon.co.jp/dp/4575249335"
     },
     {
-      "rank": 30,
+      "rank": 12,
+      "title": "走るより運動になる「歩き方」",
+      "author": "久道 勝也",
+      "asin": "4763143263",
+      "url": "https://www.amazon.co.jp/dp/4763143263"
+    },
+    {
+      "rank": 13,
+      "title": "五分後の世界 (幻冬舎文庫 む 1-1)",
+      "author": "村上 龍",
+      "asin": "4877284443",
+      "url": "https://www.amazon.co.jp/dp/4877284443"
+    },
+    {
+      "rank": 14,
+      "title": "星を編む (講談社文庫 な 101-3)",
+      "author": "凪良 ゆう",
+      "asin": "4065443113",
+      "url": "https://www.amazon.co.jp/dp/4065443113"
+    },
+    {
+      "rank": 15,
+      "title": "生きて行く私 (角川文庫)",
+      "author": "宇野 千代",
+      "asin": "4041086027",
+      "url": "https://www.amazon.co.jp/dp/4041086027"
+    },
+    {
+      "rank": 16,
+      "title": "僕らはさよならを結ぶ",
+      "author": "てっちゃん",
+      "asin": "4041176603",
+      "url": "https://www.amazon.co.jp/dp/4041176603"
+    },
+    {
+      "rank": 17,
+      "title": "あなたの部屋は、あなた自身です。 「人生」と「空間」の相関法則",
+      "author": "舛田 光洋",
+      "asin": "4763142909",
+      "url": "https://www.amazon.co.jp/dp/4763142909"
+    },
+    {
+      "rank": 18,
+      "title": "人間の性 (幻冬舎新書 814)",
+      "author": "佐藤 優",
+      "asin": "4344988183",
+      "url": "https://www.amazon.co.jp/dp/4344988183"
+    },
+    {
+      "rank": 19,
+      "title": "第27回 業界最高権威 TRYラーメン大賞 2026-2027 (講談社MOOK)",
+      "author": "講談社BECK",
+      "asin": "4065425344",
+      "url": "https://www.amazon.co.jp/dp/4065425344"
+    },
+    {
+      "rank": 20,
+      "title": "誰もが不安なこの世界で",
+      "author": "小野マッチスタイル邪兄",
+      "asin": "4434387200",
+      "url": "https://www.amazon.co.jp/dp/4434387200"
+    },
+    {
+      "rank": 21,
+      "title": "子は親を救うために「心の病」になる (ちくま文庫)",
+      "author": "高橋 和巳",
+      "asin": "4480431586",
+      "url": "https://www.amazon.co.jp/dp/4480431586"
+    },
+    {
+      "rank": 22,
+      "title": "文具女子博2026 パーフェクトガイド (ぴあMOOK)",
+      "author": "ぴあ",
+      "asin": "4835651375",
+      "url": "https://www.amazon.co.jp/dp/4835651375"
+    },
+    {
+      "rank": 23,
+      "title": "STAGE navi(ステージナビ)vol.117★表紙:吉田仁人（M！LK） (NIKKO MOOK)",
+      "author": "産経新聞出版",
+      "asin": "481915365X",
+      "url": "https://www.amazon.co.jp/dp/481915365X"
+    },
+    {
+      "rank": 24,
+      "title": "自分の思いを言葉にする こどもアウトプット図鑑 (サンクチュアリ出版)",
+      "author": "樺沢紫苑",
+      "asin": "4801401538",
+      "url": "https://www.amazon.co.jp/dp/4801401538"
+    },
+    {
+      "rank": 25,
       "title": "覚悟の磨き方 超訳 吉田松陰 (サンクチュアリ出版)",
       "author": "池田貴将",
       "asin": "4861139929",
       "url": "https://www.amazon.co.jp/dp/4861139929"
+    },
+    {
+      "rank": 26,
+      "title": "ドラゴンボールスーパーダイバーズ 2nd ANNIVERSARY SUPER GUIDE (Vジャンプブックス(書籍))",
+      "author": "Vジャンプ編集部",
+      "asin": "4087798445",
+      "url": "https://www.amazon.co.jp/dp/4087798445"
+    },
+    {
+      "rank": 27,
+      "title": "【令和８年度】 いちばんやさしい ITパスポート 絶対合格の教科書＋出る順問題集",
+      "author": "高橋 京介",
+      "asin": "4815638209",
+      "url": "https://www.amazon.co.jp/dp/4815638209"
+    },
+    {
+      "rank": 28,
+      "title": "ファイナルファンタジー レゾナンス 公式コンプリートガイド+設定資料集 (SE-MOOK)",
+      "author": "スクウェア・エニックス",
+      "asin": "4301007830",
+      "url": "https://www.amazon.co.jp/dp/4301007830"
+    },
+    {
+      "rank": 29,
+      "title": "公式TOEIC Listening & Reading 問題集 13",
+      "author": "ETS",
+      "asin": "4906033806",
+      "url": "https://www.amazon.co.jp/dp/4906033806"
+    },
+    {
+      "rank": 30,
+      "title": "自分とか、ないから。教養としての東洋哲学 (サンクチュアリ出版)",
+      "author": "しんめいP",
+      "asin": "4801401279",
+      "url": "https://www.amazon.co.jp/dp/4801401279"
     }
   ]
 }

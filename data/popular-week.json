@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-10-25T17:07:18.876Z",
+  "updatedAt": "2026-10-25T21:37:41.508Z",
   "candidateCount": 78,
-  "baseMatched": 33,
-  "matched": 43,
-  "addedMatches": 10,
+  "baseMatched": 34,
+  "matched": 42,
+  "addedMatches": 8,
   "unavailable": [
     "rakuten"
   ],
@@ -290,10 +290,10 @@
           "rank": 6
         },
         {
-          "title": "anan No.2514 Special Edition",
+          "title": "私のカントリー NO.125",
           "author": "",
           "isbn": "",
-          "rank": 10
+          "rank": 8
         },
         {
           "title": "FOR OVERSEAS",
@@ -324,22 +324,17 @@
       "matchMeta": {
         "title": "パンどろぼうとさすらいラーメン",
         "author": "",
-        "isbn": "",
-        "score": 353,
+        "score": 90,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
             "rank": 5
-          },
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 2
           }
         ],
         "source": "combined",
-        "rank": 2
+        "rank": 19,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "パンどろぼうとさすらいラーメン",
@@ -767,7 +762,8 @@
       "matchMeta": {
         "title": "最終回は気づかないうちに終わっていく",
         "author": "栗田 雅俊",
-        "score": 86,
+        "isbn": "",
+        "score": 174,
         "sources": [
           {
             "source": "amazon",
@@ -776,8 +772,7 @@
           }
         ],
         "source": "combined",
-        "rank": 24,
-        "originalTitle": ""
+        "rank": 20
       },
       "ranking": {
         "title": "最終回は気づかないうちに終わっていく",
@@ -843,53 +838,6 @@
       }
     },
     {
-      "id": "4335254300320",
-      "title": "海辺のエール",
-      "author": "青山　美智子",
-      "publisher": "KADOKAWA",
-      "price": 2310,
-      "url": "https://books.rakuten.co.jp/rk/fb6c8adb24193179bba4b3bbe83c9e88/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5926/2000021955926.jpg?_ex=600x600",
-      "caption": "江ノ電の小さな駅、十六夜駅。鎌倉駅からほど近く、閑静な住宅街にあるその駅には、一人の駅員と一羽の九官鳥「ハッチ」がいた。乗客たちの声を聞き、また別の乗客にその言葉を放つハッチは駅の人気者だ。十六夜駅には、日々、様々な挫折や苦悩を抱えた人々が訪れる。人生の折り返し地点で将来に不安を抱くフリーランスの男性、恋人との手痛い失恋に打ちひしがれる女性、怪我で休みを余儀なくされたバスケットボール選手、50代の今も現役でストリップの舞台に立つ踊り子、周囲に馴染めずピアノが生きるよりどころとなっている女子高校生……。そんな彼らに届くハッチの“言葉”は、誰がどんな想いで発したのか分からないまま、前を向くきっかけをくれる。生きづらさを抱えたすべての人にエールを贈る、感動の物語！\n",
-      "salesDate": "2026年10月19日",
-      "series": "海辺のエール",
-      "reviewAverage": 4.5,
-      "reviewCount": 2,
-      "genreId": "101901001",
-      "isbn": "4335254300320",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "海辺のエール",
-        "author": "",
-        "score": 82,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 7
-          }
-        ],
-        "source": "combined",
-        "rank": 27,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "海辺のエール",
-        "author": "",
-        "isbn": "",
-        "score": 173,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 7
-          }
-        ],
-        "source": "combined",
-        "rank": 12
-      }
-    },
-    {
       "id": "4390000005636",
       "title": "容疑者Xの献身",
       "author": "東野圭吾",
@@ -933,6 +881,53 @@
           }
         ],
         "source": "combined",
+        "rank": 12
+      }
+    },
+    {
+      "id": "4335254300320",
+      "title": "海辺のエール",
+      "author": "青山　美智子",
+      "publisher": "KADOKAWA",
+      "price": 2310,
+      "url": "https://books.rakuten.co.jp/rk/fb6c8adb24193179bba4b3bbe83c9e88/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5926/2000021955926.jpg?_ex=600x600",
+      "caption": "江ノ電の小さな駅、十六夜駅。鎌倉駅からほど近く、閑静な住宅街にあるその駅には、一人の駅員と一羽の九官鳥「ハッチ」がいた。乗客たちの声を聞き、また別の乗客にその言葉を放つハッチは駅の人気者だ。十六夜駅には、日々、様々な挫折や苦悩を抱えた人々が訪れる。人生の折り返し地点で将来に不安を抱くフリーランスの男性、恋人との手痛い失恋に打ちひしがれる女性、怪我で休みを余儀なくされたバスケットボール選手、50代の今も現役でストリップの舞台に立つ踊り子、周囲に馴染めずピアノが生きるよりどころとなっている女子高校生……。そんな彼らに届くハッチの“言葉”は、誰がどんな想いで発したのか分からないまま、前を向くきっかけをくれる。生きづらさを抱えたすべての人にエールを贈る、感動の物語！\n",
+      "salesDate": "2026年10月19日",
+      "series": "海辺のエール",
+      "reviewAverage": 4.5,
+      "reviewCount": 2,
+      "genreId": "101901001",
+      "isbn": "4335254300320",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "海辺のエール",
+        "author": "",
+        "score": 82,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 7
+          }
+        ],
+        "source": "combined",
+        "rank": 27,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "海辺のエール",
+        "author": "",
+        "isbn": "",
+        "score": 173,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 7
+          }
+        ],
+        "source": "combined",
         "rank": 13
       }
     },
@@ -955,8 +950,7 @@
       "matchMeta": {
         "title": "神の国日本の美しい神社 神々と共に歩む最高の人生",
         "author": "森井 啓二",
-        "isbn": "",
-        "score": 173,
+        "score": 82,
         "sources": [
           {
             "source": "amazon",
@@ -965,8 +959,8 @@
           }
         ],
         "source": "combined",
-        "rank": 24,
-        "originalTitle": "神の国日本の美しい神社 神々と共に歩む最高の人生"
+        "rank": 28,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "神の国日本の美しい神社 神々と共に歩む最高の人生",
@@ -982,6 +976,53 @@
         ],
         "source": "combined",
         "rank": 14
+      }
+    },
+    {
+      "id": "7275000939912",
+      "title": "私のカントリー NO.125",
+      "author": "",
+      "publisher": "主婦と生活社",
+      "price": 1650,
+      "url": "https://books.rakuten.co.jp/rk/8cbb70c801d23927acbcfb7a10b5d82b/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9134/2000021929134.jpg?_ex=600x600",
+      "caption": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。\n※電子版は「創刊35周年記念スペシャルプレゼント」への応募ができません。また、3大付録はございません。\nご希望の方は紙版をお求めください。\n《巻頭特集》アンティークと暮らす日々\nカントリーアンティークを教えてくれた「デボー39」と天沼寿子さんのこと\nPart 1｜アンティークインテリア\nPart 2｜アンティークコレクション\nPart 3｜【特別対談】人気漫画家・稚野鳥子さん × 新條まゆさん「私たち、フランスアンティークが大好きです！」\n《特集》「好き」を形にする手仕事の喜び\nPart 1｜青柳啓子さんと佐藤貴予美さんが語る手作り\nPart 2｜Moon Rabbitが生み出す童話の世界\nPart 3｜毛塚千代さんの裂き布＆切りっぱなし\n〈植物を手作りでより美しく〉暮らしにボタニカルの魔法を\n〈日本のカントリーを旅する〉「赤毛のアン」を愛するすべての人へ\n〈シックな草花が調和して心を満たす場所へ〉秋を紡ぐ手作りの庭\n〈日・英・仏のカントリークリスマス〉灯りと飾りに聖夜の願いをこめて\n連載｜ターシャ・テューダー 幸せの秘密\n連載｜憧れキッチンのヒント\n新連載｜アンティークと、これからと。／イギリスアンティークで茶藝を楽しむ\n連載｜春夏秋冬、草花とともに。\n連載｜今、住みたい家のかたち\n連載｜わが愛しのアメリカンカントリー\n連載｜憧れのコッツウォルズへ\n〈創刊35周年特別ツアー〉HIS Presents 木蓮さんと行くフランス9日間の旅\n《ご来場ありがとうございました♪》私のカントリーフェスタ 2026 PLAYBACK！\n《次回は初めての東京開催です！》私のカントリーフェスタ 2027 TOKYO\n",
+      "salesDate": "2026年10月05日",
+      "series": "私のカントリー",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101950011",
+      "isbn": "7275000939912",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "私のカントリー NO.125",
+        "author": "",
+        "isbn": "",
+        "score": 172,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 30
+      },
+      "ranking": {
+        "title": "私のカントリー NO.125",
+        "author": "",
+        "isbn": "",
+        "score": 172,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 15
       }
     },
     {
@@ -1028,7 +1069,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15
+        "rank": 16
       }
     },
     {
@@ -1050,8 +1091,7 @@
       "matchMeta": {
         "title": "ブラッディダイスの殺人 下",
         "author": "M・W・クレイヴン",
-        "isbn": "",
-        "score": 170,
+        "score": 70,
         "sources": [
           {
             "source": "maruzen",
@@ -1061,7 +1101,7 @@
         ],
         "source": "combined",
         "rank": 37,
-        "originalTitle": "ブラッディダイスの殺人 下"
+        "originalTitle": ""
       },
       "ranking": {
         "title": "ブラッディダイスの殺人 下",
@@ -1072,53 +1112,6 @@
           {
             "source": "maruzen",
             "label": "丸善ジュンク堂",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 16
-      }
-    },
-    {
-      "id": "6681317745260",
-      "title": "anan No.2514 Special Edition",
-      "author": "anan編集部",
-      "publisher": "マガジンハウス",
-      "price": 880,
-      "url": "https://books.rakuten.co.jp/rk/e7b4a8d256cd3ae1be86ae1ec5c93bf7/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0747/2000021990747.jpg?_ex=600x600",
-      "caption": "※『anan No.2514』『anan No.2514増刊』『anan No.2514 Special Edition』は表紙・一部内容が異なります。\n※『anan No.2514増刊』のみ裏表紙も異なります。\n※電子版では、紙の雑誌と内容が一部異なる場合や、掲載されないページや特別付録が含まれない場合がございます。\n※本雑誌はカラーページを含みます。お使いの端末によっては、一部読みづらい場合がございます。\nK（&TEAM） 王子の甘美なご自愛。feat. 小田切ヒロ\n最上の愛とご褒美を。上質なご自愛。\n上坂あゆ美・鵜飼ヨシキが考える 現代における、上質なご自愛論。\n何も考えない、没頭時間。編み物で、自分と向き合う。\n暮らしに彩りを添えて。頑張る自分に贈りたい、お花の処方箋。\nとろける、なめらか 目もよろこぶ、ご馳走パフェ。\nいつでもどこでも、ふわふわ&もこもこチャージ! スターバックス「パンプキン スープチーノ(R)」で、#ご自愛スープ。\n一日の終わりに、癒しの時間を。感触を愛でるスキンケア。\n自分らしさを表現する、大人の世界へ。ご褒美ジュエリーを迎えよう。\n上質な空間で自分だけの特別な時間を。ソロご自愛スポット\nMrs. GREEN APPLE 無垢と諦念。\n“テニプリ”と生きた時代を愛するすべての仲間に贈る物語。『新テニスの王子様 U-17 WORLD CUP 決勝メンバー決定戦』\n移動すること自体を楽しむ。週末船旅のススメ。\n仕事帰りに立ち寄れる、心をほぐす夜の寄り道案内。\n中島健人のKENTREND 番外編 #SB19\n",
-      "salesDate": "2026年10月07日",
-      "series": "anan",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101950020",
-      "isbn": "6681317745260",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "anan No.2514 Special Edition",
-        "author": "",
-        "isbn": "",
-        "score": 170,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 38
-      },
-      "ranking": {
-        "title": "anan No.2514 Special Edition",
-        "author": "",
-        "isbn": "",
-        "score": 170,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
             "rank": 10
           }
         ],
@@ -1192,7 +1185,8 @@
       "matchMeta": {
         "title": "Leaf Autumn 2026",
         "author": "芦沢央",
-        "score": 66,
+        "isbn": "",
+        "score": 169,
         "sources": [
           {
             "source": "amazon",
@@ -1201,8 +1195,8 @@
           }
         ],
         "source": "combined",
-        "rank": 42,
-        "originalTitle": ""
+        "rank": 39,
+        "originalTitle": "Leaf Autumn 2026"
       },
       "ranking": {
         "title": "Leaf Autumn 2026",
@@ -1333,8 +1327,7 @@
       "matchMeta": {
         "title": "フロムヴィレッジ",
         "author": "",
-        "isbn": "",
-        "score": 167,
+        "score": 58,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1343,8 +1336,8 @@
           }
         ],
         "source": "combined",
-        "rank": 45,
-        "originalTitle": "フロムヴィレッジ"
+        "rank": 44,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "フロムヴィレッジ",
@@ -1522,8 +1515,7 @@
       "matchMeta": {
         "title": "憂鬱な恋の忘れ方",
         "author": "",
-        "isbn": "",
-        "score": 164,
+        "score": 46,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1532,7 +1524,8 @@
           }
         ],
         "source": "combined",
-        "rank": 52
+        "rank": 50,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "憂鬱な恋の忘れ方",
@@ -1548,53 +1541,6 @@
         ],
         "source": "combined",
         "rank": 26
-      }
-    },
-    {
-      "id": "4470887680000",
-      "title": "寝ながらヘーゲル",
-      "author": "斎藤幸平",
-      "publisher": "NHK出版",
-      "price": 1133,
-      "url": "https://books.rakuten.co.jp/rk/0d1b142854743e87a1558a7c026d4c6e/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4586/2000022054586.jpg?_ex=600x600",
-      "caption": "『精神現象学』って、そういう本だったのか！\nSNSの時代、承認欲求は暴走し、対立は終わらず、社会分断は広がり続けるーーその根底にある仕組みを、ヘーゲルは主著『精神現象学』で、まるで現代を予言するかのように鮮やかに描き出していた。のちにマルクス思想誕生のきっかけとなり、近現代思想を方向づけることになったこの名著を、マルクス解説で話題を呼んだ著者がやさしく読み解く。承認、自由、共同体をめぐるヘーゲルの洞察をたどれば、難解な古典が驚くほど現代的な書物であることがわかり、いま私たちの社会で何が起きているのかが見えてくる。分断の時代に希望を取り戻すための一冊。\n",
-      "salesDate": "2026年10月13日",
-      "series": "ＮＨＫ出版新書",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101907002002",
-      "isbn": "4470887680000",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "寝ながらヘーゲル NHK出版新書",
-        "author": "",
-        "score": 42,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 17
-          }
-        ],
-        "source": "combined",
-        "rank": 52,
-        "originalTitle": "寝ながらヘーゲル ＮＨＫ出版新書"
-      },
-      "ranking": {
-        "title": "寝ながらヘーゲル ＮＨＫ出版新書",
-        "author": "",
-        "isbn": "",
-        "score": 163,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 17
-          }
-        ],
-        "source": "combined",
-        "rank": 27
       }
     },
     {
@@ -1637,6 +1583,53 @@
           {
             "source": "amazon",
             "label": "Amazon",
+            "rank": 17
+          }
+        ],
+        "source": "combined",
+        "rank": 27
+      }
+    },
+    {
+      "id": "4470887680000",
+      "title": "寝ながらヘーゲル",
+      "author": "斎藤幸平",
+      "publisher": "NHK出版",
+      "price": 1133,
+      "url": "https://books.rakuten.co.jp/rk/0d1b142854743e87a1558a7c026d4c6e/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4586/2000022054586.jpg?_ex=600x600",
+      "caption": "『精神現象学』って、そういう本だったのか！\nSNSの時代、承認欲求は暴走し、対立は終わらず、社会分断は広がり続けるーーその根底にある仕組みを、ヘーゲルは主著『精神現象学』で、まるで現代を予言するかのように鮮やかに描き出していた。のちにマルクス思想誕生のきっかけとなり、近現代思想を方向づけることになったこの名著を、マルクス解説で話題を呼んだ著者がやさしく読み解く。承認、自由、共同体をめぐるヘーゲルの洞察をたどれば、難解な古典が驚くほど現代的な書物であることがわかり、いま私たちの社会で何が起きているのかが見えてくる。分断の時代に希望を取り戻すための一冊。\n",
+      "salesDate": "2026年10月13日",
+      "series": "ＮＨＫ出版新書",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101907002002",
+      "isbn": "4470887680000",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "寝ながらヘーゲル NHK出版新書",
+        "author": "",
+        "score": 42,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 17
+          }
+        ],
+        "source": "combined",
+        "rank": 52,
+        "originalTitle": "寝ながらヘーゲル ＮＨＫ出版新書"
+      },
+      "ranking": {
+        "title": "寝ながらヘーゲル ＮＨＫ出版新書",
+        "author": "",
+        "isbn": "",
+        "score": 163,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
             "rank": 17
           }
         ],
@@ -1757,7 +1750,8 @@
       "matchMeta": {
         "title": "子は親を救うために「心の病」になる",
         "author": "高橋 和巳",
-        "score": 26,
+        "isbn": "",
+        "score": 159,
         "sources": [
           {
             "source": "amazon",
@@ -1851,7 +1845,8 @@
       "matchMeta": {
         "title": "初恋をしまう日",
         "author": "",
-        "score": 18,
+        "isbn": "",
+        "score": 157,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1860,8 +1855,8 @@
           }
         ],
         "source": "combined",
-        "rank": 63,
-        "originalTitle": ""
+        "rank": 65,
+        "originalTitle": "初恋をしまう日"
       },
       "ranking": {
         "title": "初恋をしまう日",
@@ -2133,8 +2128,7 @@
       "matchMeta": {
         "title": "自分とか、ないから。教養としての東洋哲学 (サンクチュアリ出版)",
         "author": "しんめいP",
-        "isbn": "",
-        "score": 150,
+        "score": 5,
         "sources": [
           {
             "source": "amazon",
@@ -2143,7 +2137,8 @@
           }
         ],
         "source": "combined",
-        "rank": 77
+        "rank": 77,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "自分とか、ないから。教養としての東洋哲学 (サンクチュアリ出版)",
@@ -2256,53 +2251,6 @@
       }
     },
     {
-      "id": "9784059239659",
-      "title": "地球の歩き方 スター・ウォーズ",
-      "author": "",
-      "publisher": "地球の歩き方",
-      "price": 2750,
-      "url": "https://books.rakuten.co.jp/rk/40558a21970c38b8891b35aee564d356/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9941/2000020489941.jpg?_ex=600x600",
-      "caption": "銀河の果てまで旅するように、物語の舞台を歩く……。\n『スター・ウォーズ』の世界を「地球の歩き方」ならではの旅行ガイドスタイルでひもとく、スペシャルブックが登場！\nもしあなたが『スター・ウォーズ』の世界を訪れることになっても、本書があれば安心。劇場公開作品を中心に、ストーリーの流れや主要キャラクターの魅力を、心に残る名シーンとともにしっかりおさらいできます。さらに、モデルプランや旅のテクニックなど、ファン心をくすぐるコンテンツも充実。\n作品世界をより深く理解し、楽しむための情報を厳選して収録した、ファン必携の永久保存版です。\n※予告なく一部内容が変更される可能性もあります。予めご了承ください。\n※電子版では、紙のガイドブックと内容が一部異なります。掲載されない写真や図版、収録されないページがある場合があります。あらかじめご了承下さい。\n",
-      "salesDate": "2026年07月29日",
-      "series": "",
-      "reviewAverage": 4,
-      "reviewCount": 5,
-      "genreId": "101911",
-      "isbn": "9784059239659",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "地球の歩き方 スター・ウォーズ",
-        "author": "地球の歩き方編集室",
-        "score": 90,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 5
-          }
-        ],
-        "source": "combined",
-        "rank": 18,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "地球の歩き方 スター・ウォーズ",
-        "author": "地球の歩き方編集室",
-        "score": 90,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 5
-          }
-        ],
-        "source": "combined",
-        "rank": 42,
-        "originalTitle": ""
-      }
-    },
-    {
       "id": "4480000838415",
       "title": "けんぐゎい",
       "author": "朝倉かすみ",
@@ -2345,7 +2293,7 @@
           }
         ],
         "source": "combined",
-        "rank": 43,
+        "rank": 42,
         "originalTitle": ""
       }
     }
@@ -2355,8 +2303,8 @@
       "4310000683989",
       "4910000909001",
       "9784059242451",
-      "4335254300320",
       "4390000005636",
+      "4335254300320",
       "6681318746430",
       "4480000944629",
       "4310000886199",
@@ -2418,8 +2366,7 @@
       "7328131882900"
     ],
     "travel": [
-      "1230007481703",
-      "9784059239659"
+      "1230007481703"
     ],
     "language": [
       "6681311679960"
@@ -2480,7 +2427,7 @@
       "complete": true
     },
     "travel": {
-      "matched": 2,
+      "matched": 1,
       "complete": true
     },
     "language": {

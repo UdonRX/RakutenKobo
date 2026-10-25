@@ -4,7 +4,7 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-10-25T05:39:16.708Z",
+  "updatedAt": "2026-10-25T12:20:13.602Z",
   "candidateCount": 38,
   "baseMatched": 18,
   "matched": 21,
@@ -165,8 +165,7 @@
           }
         ],
         "source": "combined",
-        "rank": 1,
-        "originalTitle": "パンどろぼうとさすらいラーメン"
+        "rank": 1
       },
       "ranking": {
         "title": "パンどろぼうとさすらいラーメン",
@@ -451,7 +450,7 @@
       "isbn": "4524815633410",
       "salesType": 0,
       "matchMeta": {
-        "title": "ハーバード、スタンフォード、オックスフォード... 科学的に証明された すごい習慣大百科",
+        "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
         "author": "",
         "isbn": "",
         "score": 170,
@@ -463,8 +462,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18,
-        "originalTitle": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科"
+        "rank": 18
       },
       "ranking": {
         "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
@@ -558,8 +556,7 @@
           }
         ],
         "source": "combined",
-        "rank": 21,
-        "originalTitle": "FOR OVERSEAS"
+        "rank": 21
       },
       "ranking": {
         "title": "FOR OVERSEAS",
@@ -918,7 +915,7 @@
       "salesDate": "2026年06月05日",
       "series": "ファイア・ドーム",
       "reviewAverage": 4.61,
-      "reviewCount": 707,
+      "reviewCount": 708,
       "genreId": "101901/101902",
       "isbn": "4320000865494",
       "salesType": 0,

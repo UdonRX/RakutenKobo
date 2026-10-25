@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-10-25T12:20:13.602Z",
+  "updatedAt": "2026-10-25T17:07:36.319Z",
   "candidateCount": 38,
-  "baseMatched": 18,
-  "matched": 21,
-  "addedMatches": 3,
+  "baseMatched": 16,
+  "matched": 20,
+  "addedMatches": 4,
   "unavailable": [],
   "snapshots": {
     "kinokuniya": {
@@ -25,12 +25,6 @@
           "author": "",
           "isbn": "",
           "rank": 1
-        },
-        {
-          "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
-          "author": "",
-          "isbn": "",
-          "rank": 3
         },
         {
           "title": "未だ本能寺にあり",
@@ -110,6 +104,18 @@
           "rank": 2
         },
         {
+          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+          "author": "",
+          "isbn": "",
+          "rank": 4
+        },
+        {
+          "title": "ポケモン公式ぜんこく図鑑 1996-2026",
+          "author": "",
+          "isbn": "",
+          "rank": 5
+        },
+        {
           "title": "イン･ザ･メガチャーチ",
           "author": "",
           "isbn": "",
@@ -150,22 +156,17 @@
       "matchMeta": {
         "title": "パンどろぼうとさすらいラーメン",
         "author": "",
-        "isbn": "",
-        "score": 357,
+        "score": 106,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
             "rank": 1
-          },
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 2
           }
         ],
         "source": "combined",
-        "rank": 1
+        "rank": 4,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "パンどろぼうとさすらいラーメン",
@@ -262,30 +263,30 @@
       "isbn": "4380000407898",
       "salesType": 0,
       "matchMeta": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 幻冬舎新書",
-        "author": "",
-        "score": 98,
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "author": "林真理子",
+        "score": 94,
         "sources": [
           {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 3
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
           }
         ],
         "source": "combined",
-        "rank": 8,
-        "originalTitle": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書"
+        "rank": 9,
+        "originalTitle": ""
       },
       "ranking": {
-        "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
         "author": "",
         "isbn": "",
-        "score": 177,
+        "score": 176,
         "sources": [
           {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 3
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
           }
         ],
         "source": "combined",
@@ -340,6 +341,53 @@
       }
     },
     {
+      "id": "6474824017178",
+      "title": "ポケモン公式ぜんこく図鑑 1996-2026",
+      "author": "元宮秀介＆ワンナップ/株式会社ポケモン/株式会社ゲームフリーク",
+      "publisher": "オーバーラップ",
+      "price": 2750,
+      "url": "https://books.rakuten.co.jp/rk/5313e9a05ff73a0f9ef3111a74961ba5/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5708/2000022205708.jpg?_ex=600x600",
+      "caption": "1996年〜2026年の『ポケットモンスター』シリーズに登場する、1025匹のポケモンを進化の流れがよくわかる誌面構成で掲載した決定版「ポケモンぜんこく図鑑」だ。目当てのポケモンを探しやすい50音順索引・図鑑No順リストも掲載。電子版では、ポケモン用語を解説したコラム索引を追加！\n",
+      "salesDate": "2026年11月01日",
+      "series": "ポケモン公式ぜんこく図鑑 1996-2026",
+      "reviewAverage": 4.5,
+      "reviewCount": 2,
+      "genreId": "101913004001/101910007002",
+      "isbn": "6474824017178",
+      "salesType": 1,
+      "matchMeta": {
+        "title": "ポケモン公式ぜんこく図鑑 1996-2026",
+        "author": "",
+        "isbn": "",
+        "score": 175,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
+        "rank": 11
+      },
+      "ranking": {
+        "title": "ポケモン公式ぜんこく図鑑 1996-2026",
+        "author": "",
+        "isbn": "",
+        "score": 175,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
+        "rank": 5
+      }
+    },
+    {
       "id": "4320000935695",
       "title": "探偵小石は戻らない",
       "author": "森バジル",
@@ -383,7 +431,7 @@
           }
         ],
         "source": "combined",
-        "rank": 5
+        "rank": 6
       }
     },
     {
@@ -430,7 +478,7 @@
           }
         ],
         "source": "combined",
-        "rank": 6
+        "rank": 7
       }
     },
     {
@@ -477,7 +525,7 @@
           }
         ],
         "source": "combined",
-        "rank": 7
+        "rank": 8
       }
     },
     {
@@ -524,7 +572,7 @@
           }
         ],
         "source": "combined",
-        "rank": 8
+        "rank": 9
       }
     },
     {
@@ -571,7 +619,7 @@
           }
         ],
         "source": "combined",
-        "rank": 9
+        "rank": 10
       }
     },
     {
@@ -618,7 +666,7 @@
           }
         ],
         "source": "combined",
-        "rank": 10
+        "rank": 11
       }
     },
     {
@@ -665,7 +713,7 @@
           }
         ],
         "source": "combined",
-        "rank": 11
+        "rank": 12
       }
     },
     {
@@ -687,7 +735,8 @@
       "matchMeta": {
         "title": "きずもの",
         "author": "",
-        "score": 30,
+        "isbn": "",
+        "score": 160,
         "sources": [
           {
             "source": "kinokuniya",
@@ -696,8 +745,7 @@
           }
         ],
         "source": "combined",
-        "rank": 29,
-        "originalTitle": ""
+        "rank": 29
       },
       "ranking": {
         "title": "きずもの",
@@ -712,7 +760,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12
+        "rank": 13
       }
     },
     {
@@ -759,7 +807,7 @@
           }
         ],
         "source": "combined",
-        "rank": 13
+        "rank": 14
       }
     },
     {
@@ -806,7 +854,7 @@
           }
         ],
         "source": "combined",
-        "rank": 14
+        "rank": 15
       }
     },
     {
@@ -849,53 +897,6 @@
             "source": "tohan",
             "label": "トーハン",
             "rank": 1
-          }
-        ],
-        "source": "combined",
-        "rank": 15,
-        "originalTitle": ""
-      }
-    },
-    {
-      "id": "4320000865495",
-      "title": "ファイア・ドーム 上",
-      "author": "辻村深月",
-      "publisher": "小学館",
-      "price": 1881,
-      "url": "https://books.rakuten.co.jp/rk/22c26517c9353107819b56539afa6896/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1853/2000020771853.jpg?_ex=600x600",
-      "caption": "人はなぜ大きな事件に魅了されてしまうのか。\n噂は、軽薄な娯楽だ。\n25年前、平穏だったはずの地方都市は、百貨店受付嬢誘拐殺人事件の発生、その報道により揺り動かされ、「噂」という大量の炎が、加害者のみならず被害者にも降り注ぎ、燃えさかった。ようやく静けさを取り戻したかに見える町に燻り続ける因縁が、いま新たな事件を呼び起こすーー。\n「もう言われてるよ！　どうせ、親が殺したんだろうって！」ーー本文より\n",
-      "salesDate": "2026年06月05日",
-      "series": "ファイア・ドーム",
-      "reviewAverage": 4.56,
-      "reviewCount": 516,
-      "genreId": "101901/101902",
-      "isbn": "4320000865495",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ファイア・ドーム 上",
-        "author": "辻村深月",
-        "score": 102,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 2
-          }
-        ],
-        "source": "combined",
-        "rank": 5,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "ファイア・ドーム 上",
-        "author": "辻村深月",
-        "score": 102,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 2
           }
         ],
         "source": "combined",
@@ -998,53 +999,6 @@
       }
     },
     {
-      "id": "4390000015358",
-      "title": "青天",
-      "author": "若林正恭",
-      "publisher": "文藝春秋",
-      "price": 1900,
-      "url": "https://books.rakuten.co.jp/rk/a6fc1b8794af3eafb7f064fac9c68dfa/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0144/2000019330144.jpg?_ex=600x600",
-      "caption": "オードリー・若林正恭、初小説！\n人にぶつかっていないと、自分が生きているかどうかよくわからなくなるーー\n総大三高の「アリ」こと中村昴が所属するアメフト部は、万年２回戦どまり。相手校の練習を隠し撮りして迎えた高３の引退大会では、強豪・遼西学園に打ち破れた。引退後、みなが受験に向かうなか、勉強にも気持ちが入らず、不良になる覚悟もないまま宙ぶらりんの日々を過ごす。自分自身の不甲斐なさにもがき続けるなかで、アリは再びアメフトと向き合う決意を固める。\n青春の苦みと悦びに満ちた、著者渾身の初小説。\n",
-      "salesDate": "2026年02月20日",
-      "series": "",
-      "reviewAverage": 3.98,
-      "reviewCount": 640,
-      "genreId": "101901",
-      "isbn": "4390000015358",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "青天",
-        "author": "若林正恭",
-        "score": 78,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 15,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "青天",
-        "author": "若林正恭",
-        "score": 78,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 19,
-        "originalTitle": ""
-      }
-    },
-    {
       "id": "7225000866451",
       "title": "悩みの本──あなたが本気で生きている証",
       "author": "高橋佳子",
@@ -1087,7 +1041,7 @@
           }
         ],
         "source": "combined",
-        "rank": 20,
+        "rank": 19,
         "originalTitle": ""
       }
     },
@@ -1134,7 +1088,7 @@
           }
         ],
         "source": "combined",
-        "rank": 21,
+        "rank": 20,
         "originalTitle": ""
       }
     }
@@ -1147,14 +1101,11 @@
       "4310000683989",
       "4320000935691",
       "4320000867368",
-      "4320000865495",
       "4320000865494",
-      "4310000858457",
-      "4390000015358"
+      "4310000858457"
     ],
     "mystery": [
       "4320000935695",
-      "4320000865495",
       "4320000865494"
     ],
     "sf": [],
@@ -1181,7 +1132,9 @@
       "4380000407898"
     ],
     "health": [],
-    "hobby": [],
+    "hobby": [
+      "6474824017178"
+    ],
     "travel": [
       "4310000936589"
     ],
@@ -1198,11 +1151,11 @@
   },
   "genreStatus": {
     "fiction": {
-      "matched": 10,
+      "matched": 8,
       "complete": true
     },
     "mystery": {
-      "matched": 3,
+      "matched": 2,
       "complete": true
     },
     "sf": {
@@ -1238,7 +1191,7 @@
       "complete": true
     },
     "hobby": {
-      "matched": 0,
+      "matched": 1,
       "complete": true
     },
     "travel": {

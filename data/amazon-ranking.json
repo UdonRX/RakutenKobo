@@ -4,7 +4,7 @@
   "attribution": "Amazon.co.jp",
   "sourceUrl": "https://www.amazon.co.jp/gp/bestsellers/books",
   "periodLabel": "現在のベストセラー",
-  "updatedAt": "2026-10-24T23:13:16.105Z",
+  "updatedAt": "2026-10-25T23:16:35.172Z",
   "live": false,
   "items": [
     {
@@ -23,24 +23,24 @@
     },
     {
       "rank": 3,
-      "title": "小説 薬屋のひとりごと 亡妃の秘宝",
-      "author": "日向夏",
-      "asin": "4074643952",
-      "url": "https://www.amazon.co.jp/dp/4074643952"
-    },
-    {
-      "rank": 4,
       "title": "汝、星のごとく (講談社文庫 な 101-1)",
       "author": "凪良 ゆう",
       "asin": "4065401887",
       "url": "https://www.amazon.co.jp/dp/4065401887"
     },
     {
+      "rank": 4,
+      "title": "小説 薬屋のひとりごと 亡妃の秘宝",
+      "author": "日向夏",
+      "asin": "4074643952",
+      "url": "https://www.amazon.co.jp/dp/4074643952"
+    },
+    {
       "rank": 5,
-      "title": "秘密にしたい魅惑のスイーツレシピ",
-      "author": "小林啓吾",
-      "asin": "4651205941",
-      "url": "https://www.amazon.co.jp/dp/4651205941"
+      "title": "手紙屋 蛍雪篇 ～私の受験勉強を変えた十通の手紙～ ジュニア版",
+      "author": "喜多川泰",
+      "asin": "4799333232",
+      "url": "https://www.amazon.co.jp/dp/4799333232"
     },
     {
       "rank": 6,
@@ -51,10 +51,10 @@
     },
     {
       "rank": 7,
-      "title": "神の国日本の美しい神社 神々と共に歩む最高の人生",
-      "author": "森井 啓二",
-      "asin": "4434336754",
-      "url": "https://www.amazon.co.jp/dp/4434336754"
+      "title": "秘密にしたい魅惑のスイーツレシピ",
+      "author": "小林啓吾",
+      "asin": "4651205941",
+      "url": "https://www.amazon.co.jp/dp/4651205941"
     },
     {
       "rank": 8,
@@ -65,129 +65,129 @@
     },
     {
       "rank": 9,
-      "title": "北欧こじらせ日記 ふたり暮らし編（ダウンロード特典：「マルチに使えるイラストシートデータ」）",
-      "author": "週末北欧部chika",
-      "asin": "4418265147",
-      "url": "https://www.amazon.co.jp/dp/4418265147"
-    },
-    {
-      "rank": 10,
-      "title": "2027年中学入試用 サピックス重大ニュース",
-      "author": "サピックス小学部",
-      "asin": "4863463537",
-      "url": "https://www.amazon.co.jp/dp/4863463537"
-    },
-    {
-      "rank": 11,
-      "title": "Leaf Autumn 2026",
-      "author": "芦沢央",
-      "asin": "4575249335",
-      "url": "https://www.amazon.co.jp/dp/4575249335"
-    },
-    {
-      "rank": 12,
-      "title": "走るより運動になる「歩き方」",
-      "author": "久道 勝也",
-      "asin": "4763143263",
-      "url": "https://www.amazon.co.jp/dp/4763143263"
-    },
-    {
-      "rank": 13,
-      "title": "五分後の世界 (幻冬舎文庫 む 1-1)",
-      "author": "村上 龍",
-      "asin": "4877284443",
-      "url": "https://www.amazon.co.jp/dp/4877284443"
-    },
-    {
-      "rank": 14,
       "title": "星を編む (講談社文庫 な 101-3)",
       "author": "凪良 ゆう",
       "asin": "4065443113",
       "url": "https://www.amazon.co.jp/dp/4065443113"
     },
     {
-      "rank": 15,
+      "rank": 10,
+      "title": "神の国日本の美しい神社 神々と共に歩む最高の人生",
+      "author": "森井 啓二",
+      "asin": "4434336754",
+      "url": "https://www.amazon.co.jp/dp/4434336754"
+    },
+    {
+      "rank": 11,
+      "title": "2027年中学入試用 サピックス重大ニュース",
+      "author": "サピックス小学部",
+      "asin": "4863463537",
+      "url": "https://www.amazon.co.jp/dp/4863463537"
+    },
+    {
+      "rank": 12,
+      "title": "公式TOEIC Listening & Reading 問題集 13",
+      "author": "ETS",
+      "asin": "4906033806",
+      "url": "https://www.amazon.co.jp/dp/4906033806"
+    },
+    {
+      "rank": 13,
       "title": "生きて行く私 (角川文庫)",
       "author": "宇野 千代",
       "asin": "4041086027",
       "url": "https://www.amazon.co.jp/dp/4041086027"
     },
     {
-      "rank": 16,
-      "title": "僕らはさよならを結ぶ",
-      "author": "てっちゃん",
-      "asin": "4041176603",
-      "url": "https://www.amazon.co.jp/dp/4041176603"
-    },
-    {
-      "rank": 17,
-      "title": "あなたの部屋は、あなた自身です。 「人生」と「空間」の相関法則",
-      "author": "舛田 光洋",
-      "asin": "4763142909",
-      "url": "https://www.amazon.co.jp/dp/4763142909"
-    },
-    {
-      "rank": 18,
-      "title": "人間の性 (幻冬舎新書 814)",
-      "author": "佐藤 優",
-      "asin": "4344988183",
-      "url": "https://www.amazon.co.jp/dp/4344988183"
-    },
-    {
-      "rank": 19,
-      "title": "第27回 業界最高権威 TRYラーメン大賞 2026-2027 (講談社MOOK)",
-      "author": "講談社BECK",
-      "asin": "4065425344",
-      "url": "https://www.amazon.co.jp/dp/4065425344"
-    },
-    {
-      "rank": 20,
-      "title": "誰もが不安なこの世界で",
-      "author": "小野マッチスタイル邪兄",
-      "asin": "4434387200",
-      "url": "https://www.amazon.co.jp/dp/4434387200"
-    },
-    {
-      "rank": 21,
-      "title": "子は親を救うために「心の病」になる (ちくま文庫)",
-      "author": "高橋 和巳",
-      "asin": "4480431586",
-      "url": "https://www.amazon.co.jp/dp/4480431586"
-    },
-    {
-      "rank": 22,
-      "title": "文具女子博2026 パーフェクトガイド (ぴあMOOK)",
-      "author": "ぴあ",
-      "asin": "4835651375",
-      "url": "https://www.amazon.co.jp/dp/4835651375"
-    },
-    {
-      "rank": 23,
-      "title": "STAGE navi(ステージナビ)vol.117★表紙:吉田仁人（M！LK） (NIKKO MOOK)",
-      "author": "産経新聞出版",
-      "asin": "481915365X",
-      "url": "https://www.amazon.co.jp/dp/481915365X"
-    },
-    {
-      "rank": 24,
+      "rank": 14,
       "title": "自分の思いを言葉にする こどもアウトプット図鑑 (サンクチュアリ出版)",
       "author": "樺沢紫苑",
       "asin": "4801401538",
       "url": "https://www.amazon.co.jp/dp/4801401538"
     },
     {
-      "rank": 25,
+      "rank": 15,
+      "title": "あなたの部屋は、あなた自身です。 「人生」と「空間」の相関法則",
+      "author": "舛田 光洋",
+      "asin": "4763142909",
+      "url": "https://www.amazon.co.jp/dp/4763142909"
+    },
+    {
+      "rank": 16,
+      "title": "スター・ウォーズ／マンダロリアン公式ビジュアルガイド",
+      "author": "パブロ・ヒダルゴ",
+      "asin": "4418264175",
+      "url": "https://www.amazon.co.jp/dp/4418264175"
+    },
+    {
+      "rank": 17,
+      "title": "自分とか、ないから。教養としての東洋哲学 (サンクチュアリ出版)",
+      "author": "しんめいP",
+      "asin": "4801401279",
+      "url": "https://www.amazon.co.jp/dp/4801401279"
+    },
+    {
+      "rank": 18,
+      "title": "走るより運動になる「歩き方」",
+      "author": "久道 勝也",
+      "asin": "4763143263",
+      "url": "https://www.amazon.co.jp/dp/4763143263"
+    },
+    {
+      "rank": 19,
+      "title": "文具女子博2026 パーフェクトガイド (ぴあMOOK)",
+      "author": "ぴあ",
+      "asin": "4835651375",
+      "url": "https://www.amazon.co.jp/dp/4835651375"
+    },
+    {
+      "rank": 20,
+      "title": "人間の性 (幻冬舎新書 814)",
+      "author": "佐藤 優",
+      "asin": "4344988183",
+      "url": "https://www.amazon.co.jp/dp/4344988183"
+    },
+    {
+      "rank": 21,
+      "title": "2026-2027年版 みんなが欲しかった！ FPの教科書3級【CBT模擬試験プログラムつき/動画＆アプリ・赤シートつき/学科・実技対応/ファイナンシャルプランナー3級試験対策】(TAC出版)",
+      "author": "滝澤 ななみ",
+      "asin": "4300120811",
+      "url": "https://www.amazon.co.jp/dp/4300120811"
+    },
+    {
+      "rank": 22,
+      "title": "これが本当のSPI3だ! 2028年度版 【主要3方式〈テストセンター・ペーパーテスト・WEBテスティング〉対応】 (本当の就職テストシリーズ)",
+      "author": "SPIノートの会",
+      "asin": "4065415888",
+      "url": "https://www.amazon.co.jp/dp/4065415888"
+    },
+    {
+      "rank": 23,
       "title": "覚悟の磨き方 超訳 吉田松陰 (サンクチュアリ出版)",
       "author": "池田貴将",
       "asin": "4861139929",
       "url": "https://www.amazon.co.jp/dp/4861139929"
     },
     {
+      "rank": 24,
+      "title": "Leaf Autumn 2026",
+      "author": "芦沢央",
+      "asin": "4575249335",
+      "url": "https://www.amazon.co.jp/dp/4575249335"
+    },
+    {
+      "rank": 25,
+      "title": "［増補改訂版］TOEIC L&R TEST 出る単特急 金のフレーズ (TOEIC TEST 特急シリーズ)",
+      "author": "TEX加藤",
+      "asin": "4023324647",
+      "url": "https://www.amazon.co.jp/dp/4023324647"
+    },
+    {
       "rank": 26,
-      "title": "ドラゴンボールスーパーダイバーズ 2nd ANNIVERSARY SUPER GUIDE (Vジャンプブックス(書籍))",
-      "author": "Vジャンプ編集部",
-      "asin": "4087798445",
-      "url": "https://www.amazon.co.jp/dp/4087798445"
+      "title": "僕らはさよならを結ぶ",
+      "author": "てっちゃん",
+      "asin": "4041176603",
+      "url": "https://www.amazon.co.jp/dp/4041176603"
     },
     {
       "rank": 27,
@@ -198,24 +198,24 @@
     },
     {
       "rank": 28,
+      "title": "北欧こじらせ日記 ふたり暮らし編（ダウンロード特典：「マルチに使えるイラストシートデータ」）",
+      "author": "週末北欧部chika",
+      "asin": "4418265147",
+      "url": "https://www.amazon.co.jp/dp/4418265147"
+    },
+    {
+      "rank": 29,
+      "title": "ちいかわ お友だちとのつき合いかた",
+      "author": "ナガノ",
+      "asin": "4049152444",
+      "url": "https://www.amazon.co.jp/dp/4049152444"
+    },
+    {
+      "rank": 30,
       "title": "ファイナルファンタジー レゾナンス 公式コンプリートガイド+設定資料集 (SE-MOOK)",
       "author": "スクウェア・エニックス",
       "asin": "4301007830",
       "url": "https://www.amazon.co.jp/dp/4301007830"
-    },
-    {
-      "rank": 29,
-      "title": "公式TOEIC Listening & Reading 問題集 13",
-      "author": "ETS",
-      "asin": "4906033806",
-      "url": "https://www.amazon.co.jp/dp/4906033806"
-    },
-    {
-      "rank": 30,
-      "title": "自分とか、ないから。教養としての東洋哲学 (サンクチュアリ出版)",
-      "author": "しんめいP",
-      "asin": "4801401279",
-      "url": "https://www.amazon.co.jp/dp/4801401279"
     }
   ]
 }

@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-10-25T21:37:58.956Z",
+  "updatedAt": "2026-10-26T05:39:15.326Z",
   "candidateCount": 38,
   "baseMatched": 18,
-  "matched": 22,
-  "addedMatches": 4,
+  "matched": 21,
+  "addedMatches": 3,
   "unavailable": [],
   "snapshots": {
     "kinokuniya": {
@@ -17,7 +17,7 @@
       "attribution": "紀伊國屋書店調べ",
       "sourceUrl": "https://www.kinokuniya.co.jp/disp/CKnRankingPageCList.jsp?dispNo=107002001001&vTp=m",
       "periodLabel": "マンスリー",
-      "updatedAt": "2026-10-25",
+      "updatedAt": "2026-10-26",
       "live": true,
       "items": [
         {
@@ -45,13 +45,13 @@
           "rank": 6
         },
         {
-          "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
+          "title": "汝、星のごとく",
           "author": "",
           "isbn": "",
-          "rank": 10
+          "rank": 9
         },
         {
-          "title": "汝、星のごとく",
+          "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
           "author": "",
           "isbn": "",
           "rank": 12
@@ -63,25 +63,25 @@
           "rank": 13
         },
         {
-          "title": "命の燃やし方",
+          "title": "きずもの",
           "author": "",
           "isbn": "",
           "rank": 19
         },
         {
-          "title": "きずもの",
+          "title": "命の燃やし方",
           "author": "",
           "isbn": "",
           "rank": 20
         },
         {
-          "title": "イン・ザ・メガチャーチ",
+          "title": "人間の性 幻冬舎新書",
           "author": "",
           "isbn": "",
           "rank": 23
         },
         {
-          "title": "人間の性 幻冬舎新書",
+          "title": "イン・ザ・メガチャーチ",
           "author": "",
           "isbn": "",
           "rank": 24
@@ -90,7 +90,13 @@
           "title": "誰も教えてくれなかった 本当のお金の守り方",
           "author": "",
           "isbn": "",
-          "rank": 25
+          "rank": 26
+        },
+        {
+          "title": "パンどろぼう",
+          "author": "",
+          "isbn": "",
+          "rank": 28
         }
       ]
     },
@@ -100,7 +106,7 @@
       "attribution": "トーハン調べ",
       "sourceUrl": "https://www.tohan.jp/bestsellers/2026_09_monthly/",
       "periodLabel": "月間",
-      "updatedAt": "2026-10-25",
+      "updatedAt": "2026-10-26",
       "live": true,
       "items": [
         {
@@ -208,7 +214,7 @@
       "matchMeta": {
         "title": "イン・ザ・メガチャーチ",
         "author": "朝井リョウ",
-        "score": 100,
+        "score": 96,
         "sources": [
           {
             "source": "tohan",
@@ -218,7 +224,7 @@
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 23
+            "rank": 24
           }
         ],
         "source": "combined",
@@ -229,12 +235,12 @@
         "title": "イン・ザ・メガチャーチ",
         "author": "",
         "isbn": "",
-        "score": 331,
+        "score": 330,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 23
+            "rank": 24
           },
           {
             "source": "tohan",
@@ -312,8 +318,7 @@
       "matchMeta": {
         "title": "未だ本能寺にあり",
         "author": "",
-        "isbn": "",
-        "score": 175,
+        "score": 90,
         "sources": [
           {
             "source": "kinokuniya",
@@ -322,8 +327,8 @@
           }
         ],
         "source": "combined",
-        "rank": 10,
-        "originalTitle": "未だ本能寺にあり"
+        "rank": 12,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "未だ本能寺にあり",
@@ -370,7 +375,8 @@
           }
         ],
         "source": "combined",
-        "rank": 11
+        "rank": 11,
+        "originalTitle": "ポケモン公式ぜんこく図鑑 1996-2026"
       },
       "ranking": {
         "title": "ポケモン公式ぜんこく図鑑 1996-2026",
@@ -436,46 +442,46 @@
       }
     },
     {
-      "id": "4390000014247",
-      "title": "戦争犯罪と闘う　国際刑事裁判所は屈しない",
-      "author": "赤根智子",
-      "publisher": "文藝春秋",
-      "price": 1000,
-      "url": "https://books.rakuten.co.jp/rk/ed83c0d4161a37adb64937f2dc843815/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5761/2000017995761.jpg?_ex=600x600",
-      "caption": "二つの戦争、そして戦後国際秩序の行方は\nロシアによるウクライナ侵攻とイスラエルによるパレスチナへの非人道的な攻撃。目まぐるしく国際情勢が変化するなか、この二つの戦争に向き合い、プーチンとネタニヤフに逮捕状を出した国際刑事裁判所（ICC）。日本人として初めてそのトップに就任した著者は、ほどなくしてプーチンから逆指名手配を受けることにもなった。さらにはトランプ大統領の大統領令による経済制裁の脅威にさらされるなど、世界規模の戦争犯罪に向き合ってきた国際刑事裁判所はいま、存続の危機にある。\n第二次世界大戦後にホロコーストに向き合ったニュルンベルク裁判、日本の戦争責任を裁いた東京裁判。二つの軍事法廷裁判にルーツをもち、国際平和秩序を守ろうと奮闘してきた国際刑事裁判所とはいかなる機関か。二つの戦争という異例の事態にどう向き合ったのか。「世界の警察」アメリカが過去のものになりつつある戦後国際秩序の行方とはーー。\n「世界で起きていることが日本では起きないとは限らない」。「力による支配」がむき出しになりつつある今こそ「法の支配」による安全保障が必要だ。\n「ウクライナ戦争の勃発で完全に覚醒した」と語る赤根さんが、その奮闘を通じて未来への責任を語りかける。\n※本書電子書籍版は刊行後の国際情勢の変化を鑑み、２０２５年１０月に記述の一部を更新しました。\n",
-      "salesDate": "2025年06月20日",
-      "series": "",
-      "reviewAverage": 4.31,
-      "reviewCount": 66,
-      "genreId": "101907009/101907005003/101914",
-      "isbn": "4390000014247",
+      "id": "4310000683989",
+      "title": "汝、星のごとく【電子限定特典付き】",
+      "author": "凪良ゆう",
+      "publisher": "講談社",
+      "price": 990,
+      "url": "https://books.rakuten.co.jp/rk/c078773e2356341c99cfa0309dc414dd/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1001/2000018151001.jpg?_ex=600x600",
+      "caption": "第20回本屋大賞受賞作！\nシリーズ累計100万部突破！\nあなたと生きる、その痛みごと。\n著者2度目の本屋大賞を受賞した『汝、星のごとく』が3年の時を経てついに文庫化！同じ空の下であの星を見上げよう。そして、また出会おう。あまりに切ない運命を、繊細な心理描写で描いた著者最高傑作。\n風光明媚な瀬戸内の島で育った暁海(あきみ)と母の恋愛に振り回され転校してきた櫂(かい)。ともに心に孤独と欠落を抱えた二人が恋に落ちるのに時間はかからなかった。ときにすれ違い、ぶつかり、成長していく。生きることの自由さと不自由さを描き続けた著者がおくる、あまりに切ない愛の物語【2023年本屋大賞受賞作】\n☆2023年本屋大賞受賞作☆\n【第168回直木賞候補作】\n【第44回吉川英治文学新人賞候補作】\n【2022王様のブランチBOOK大賞】\n【キノベス!2023 第1位】\n【第10回高校生直木賞候補作】\n【ダ・ヴィンチ BOOK OF THE YEAR 2022 第３位】\n【今月の絶対はずさない！ プラチナ本 選出（「ダ・ヴィンチ」12月号）】\n【第２回 本屋が選ぶ大人の恋愛小説大賞 ノミネート】\n【未来屋小説大賞 第２位】\n【ミヤボン2022 大賞受賞】\n【Apple Books 2022年 今年のベストブック（フィクション部門）】\nなどなど、賞＆ノミネート＆ランクイン多数！\n※電子版には特典として、続編『星を編む』の試し読み増量版と著者作品リストを収録しています。\n",
+      "salesDate": "2025年07月15日",
+      "series": "汝、星のごとく",
+      "reviewAverage": 4.39,
+      "reviewCount": 1672,
+      "genreId": "101901",
+      "isbn": "4310000683989",
       "salesType": 0,
       "matchMeta": {
-        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
+        "title": "汝、星のごとく",
         "author": "",
-        "score": 66,
+        "score": 74,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 11
+            "rank": 9
           }
         ],
         "source": "combined",
-        "rank": 21,
+        "rank": 18,
         "originalTitle": ""
       },
       "ranking": {
-        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
+        "title": "汝、星のごとく",
         "author": "",
         "isbn": "",
-        "score": 170,
+        "score": 171,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 10
+            "rank": 9
           }
         ],
         "source": "combined",
@@ -499,7 +505,7 @@
       "isbn": "4524815633410",
       "salesType": 0,
       "matchMeta": {
-        "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
+        "title": "ハーバード、スタンフォード、オックスフォード... 科学的に証明された すごい習慣大百科",
         "author": "",
         "isbn": "",
         "score": 170,
@@ -511,7 +517,8 @@
           }
         ],
         "source": "combined",
-        "rank": 18
+        "rank": 17,
+        "originalTitle": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科"
       },
       "ranking": {
         "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
@@ -530,23 +537,23 @@
       }
     },
     {
-      "id": "4310000683989",
-      "title": "汝、星のごとく【電子限定特典付き】",
-      "author": "凪良ゆう",
-      "publisher": "講談社",
-      "price": 990,
-      "url": "https://books.rakuten.co.jp/rk/c078773e2356341c99cfa0309dc414dd/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1001/2000018151001.jpg?_ex=600x600",
-      "caption": "第20回本屋大賞受賞作！\nシリーズ累計100万部突破！\nあなたと生きる、その痛みごと。\n著者2度目の本屋大賞を受賞した『汝、星のごとく』が3年の時を経てついに文庫化！同じ空の下であの星を見上げよう。そして、また出会おう。あまりに切ない運命を、繊細な心理描写で描いた著者最高傑作。\n風光明媚な瀬戸内の島で育った暁海(あきみ)と母の恋愛に振り回され転校してきた櫂(かい)。ともに心に孤独と欠落を抱えた二人が恋に落ちるのに時間はかからなかった。ときにすれ違い、ぶつかり、成長していく。生きることの自由さと不自由さを描き続けた著者がおくる、あまりに切ない愛の物語【2023年本屋大賞受賞作】\n☆2023年本屋大賞受賞作☆\n【第168回直木賞候補作】\n【第44回吉川英治文学新人賞候補作】\n【2022王様のブランチBOOK大賞】\n【キノベス!2023 第1位】\n【第10回高校生直木賞候補作】\n【ダ・ヴィンチ BOOK OF THE YEAR 2022 第３位】\n【今月の絶対はずさない！ プラチナ本 選出（「ダ・ヴィンチ」12月号）】\n【第２回 本屋が選ぶ大人の恋愛小説大賞 ノミネート】\n【未来屋小説大賞 第２位】\n【ミヤボン2022 大賞受賞】\n【Apple Books 2022年 今年のベストブック（フィクション部門）】\nなどなど、賞＆ノミネート＆ランクイン多数！\n※電子版には特典として、続編『星を編む』の試し読み増量版と著者作品リストを収録しています。\n",
-      "salesDate": "2025年07月15日",
-      "series": "汝、星のごとく",
-      "reviewAverage": 4.39,
-      "reviewCount": 1672,
-      "genreId": "101901",
-      "isbn": "4310000683989",
+      "id": "4390000014247",
+      "title": "戦争犯罪と闘う　国際刑事裁判所は屈しない",
+      "author": "赤根智子",
+      "publisher": "文藝春秋",
+      "price": 1000,
+      "url": "https://books.rakuten.co.jp/rk/ed83c0d4161a37adb64937f2dc843815/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5761/2000017995761.jpg?_ex=600x600",
+      "caption": "二つの戦争、そして戦後国際秩序の行方は\nロシアによるウクライナ侵攻とイスラエルによるパレスチナへの非人道的な攻撃。目まぐるしく国際情勢が変化するなか、この二つの戦争に向き合い、プーチンとネタニヤフに逮捕状を出した国際刑事裁判所（ICC）。日本人として初めてそのトップに就任した著者は、ほどなくしてプーチンから逆指名手配を受けることにもなった。さらにはトランプ大統領の大統領令による経済制裁の脅威にさらされるなど、世界規模の戦争犯罪に向き合ってきた国際刑事裁判所はいま、存続の危機にある。\n第二次世界大戦後にホロコーストに向き合ったニュルンベルク裁判、日本の戦争責任を裁いた東京裁判。二つの軍事法廷裁判にルーツをもち、国際平和秩序を守ろうと奮闘してきた国際刑事裁判所とはいかなる機関か。二つの戦争という異例の事態にどう向き合ったのか。「世界の警察」アメリカが過去のものになりつつある戦後国際秩序の行方とはーー。\n「世界で起きていることが日本では起きないとは限らない」。「力による支配」がむき出しになりつつある今こそ「法の支配」による安全保障が必要だ。\n「ウクライナ戦争の勃発で完全に覚醒した」と語る赤根さんが、その奮闘を通じて未来への責任を語りかける。\n※本書電子書籍版は刊行後の国際情勢の変化を鑑み、２０２５年１０月に記述の一部を更新しました。\n",
+      "salesDate": "2025年06月20日",
+      "series": "",
+      "reviewAverage": 4.31,
+      "reviewCount": 66,
+      "genreId": "101907009/101907005003/101914",
+      "isbn": "4390000014247",
       "salesType": 0,
       "matchMeta": {
-        "title": "汝、星のごとく",
+        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
         "author": "",
         "score": 62,
         "sources": [
@@ -561,7 +568,7 @@
         "originalTitle": ""
       },
       "ranking": {
-        "title": "汝、星のごとく",
+        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
         "author": "",
         "isbn": "",
         "score": 168,
@@ -672,53 +679,6 @@
       }
     },
     {
-      "id": "4310000701877",
-      "title": "命の燃やし方",
-      "author": "鈴木大飛",
-      "publisher": "講談社",
-      "price": 1485,
-      "url": "https://books.rakuten.co.jp/rk/bea5649a02103e659365e8b720c3170e/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6445/2000018336445.jpg?_ex=600x600",
-      "caption": "「読むだけで終わらせず、読んだ人の人生を変えたい」\n彼の切実な願いが行間にまで迸り、現代の“聖書”とも言うべき熱量であなたの命に火を灯す一冊\n3冊目となる新刊は、前作『アイドル2.0』を発売した2022年8月以来、3年ぶりとなる。誰よりも自分の人生と向き合い、本気で命を燃やしてきた鈴木大飛が27年間で学んだ全てをこの一冊に込める。\n「読むだけで終わらせず、読んだ人の人生を変えたい」\n彼の切実な願いが行間にまで迸り、現代の“聖書”とも言うべき熱量であなたの命に火を灯す一冊となっている。\n※電子版には発売記念イベントの応募用紙は入っておりません。\n",
-      "salesDate": "2025年08月26日",
-      "series": "命の燃やし方",
-      "reviewAverage": 4.08,
-      "reviewCount": 99,
-      "genreId": "101907014/101907001004/101906090/101905016001",
-      "isbn": "4310000701877",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "命の燃やし方",
-        "author": "",
-        "score": 34,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 19
-          }
-        ],
-        "source": "combined",
-        "rank": 28,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "命の燃やし方",
-        "author": "",
-        "isbn": "",
-        "score": 161,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 19
-          }
-        ],
-        "source": "combined",
-        "rank": 12
-      }
-    },
-    {
       "id": "4320000935691",
       "title": "きずもの",
       "author": "西加奈子",
@@ -737,6 +697,53 @@
       "matchMeta": {
         "title": "きずもの",
         "author": "",
+        "score": 34,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 19
+          }
+        ],
+        "source": "combined",
+        "rank": 28,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "きずもの",
+        "author": "",
+        "isbn": "",
+        "score": 161,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 19
+          }
+        ],
+        "source": "combined",
+        "rank": 12
+      }
+    },
+    {
+      "id": "4310000701877",
+      "title": "命の燃やし方",
+      "author": "鈴木大飛",
+      "publisher": "講談社",
+      "price": 1485,
+      "url": "https://books.rakuten.co.jp/rk/bea5649a02103e659365e8b720c3170e/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6445/2000018336445.jpg?_ex=600x600",
+      "caption": "「読むだけで終わらせず、読んだ人の人生を変えたい」\n彼の切実な願いが行間にまで迸り、現代の“聖書”とも言うべき熱量であなたの命に火を灯す一冊\n3冊目となる新刊は、前作『アイドル2.0』を発売した2022年8月以来、3年ぶりとなる。誰よりも自分の人生と向き合い、本気で命を燃やしてきた鈴木大飛が27年間で学んだ全てをこの一冊に込める。\n「読むだけで終わらせず、読んだ人の人生を変えたい」\n彼の切実な願いが行間にまで迸り、現代の“聖書”とも言うべき熱量であなたの命に火を灯す一冊となっている。\n※電子版には発売記念イベントの応募用紙は入っておりません。\n",
+      "salesDate": "2025年08月26日",
+      "series": "命の燃やし方",
+      "reviewAverage": 4.08,
+      "reviewCount": 99,
+      "genreId": "101907014/101907001004/101906090/101905016001",
+      "isbn": "4310000701877",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "命の燃やし方",
+        "author": "",
         "score": 30,
         "sources": [
           {
@@ -750,7 +757,7 @@
         "originalTitle": ""
       },
       "ranking": {
-        "title": "きずもの",
+        "title": "命の燃やし方",
         "author": "",
         "isbn": "",
         "score": 160,
@@ -784,12 +791,12 @@
       "matchMeta": {
         "title": "人間の性 幻冬舎新書",
         "author": "",
-        "score": 14,
+        "score": 18,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 24
+            "rank": 23
           }
         ],
         "source": "combined",
@@ -800,12 +807,12 @@
         "title": "人間の性 幻冬舎新書",
         "author": "",
         "isbn": "",
-        "score": 156,
+        "score": 157,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 24
+            "rank": 23
           }
         ],
         "source": "combined",
@@ -831,32 +838,79 @@
       "matchMeta": {
         "title": "誰も教えてくれなかった 本当のお金の守り方",
         "author": "",
-        "score": 10,
+        "score": 6,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 25
+            "rank": 26
           }
         ],
         "source": "combined",
-        "rank": 33,
+        "rank": 34,
         "originalTitle": "誰も教えてくれなかった　本当のお金の守り方"
       },
       "ranking": {
         "title": "誰も教えてくれなかった 本当のお金の守り方",
         "author": "",
         "isbn": "",
-        "score": 155,
+        "score": 154,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 25
+            "rank": 26
           }
         ],
         "source": "combined",
         "rank": 15
+      }
+    },
+    {
+      "id": "4339134200300",
+      "title": "パンどろぼう",
+      "author": "柴田　ケイコ",
+      "publisher": "KADOKAWA",
+      "price": 1463,
+      "url": "https://books.rakuten.co.jp/rk/6a01f6eaeee43a16a37d5502ea0b2618/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7049/2000008357049.jpg?_ex=600x600",
+      "caption": "まちのパンやから　サササッととびだす　ひとつのかげ。パンがパンをかついで　にげていきます。「おれはパンどろぼう。おいしいパンをさがしもとめる　おおどろぼうさ」パンに包まれた、その正体とはーー!?お茶目で憎めないパンどろぼうが、今日も事件をまきおこす！＼パンどろぼうの魅力にハマる人続出！／パンどろぼうくんの表情が最高です（笑）。子どもが絶対笑います。ーー年中クラスの保育士絵本でこんなに笑ったのははじめて！　親子でパンどろぼうのファンになりました。ーー３歳男の子のママおいしそうなパンがいっぱい。パン屋にしのびこむシーンでは、「ここにいた！」と娘と大盛り上がり！ーー４歳女の子のママ怒濤のシュールとインパクト、最後はほっこり。パンどろぼうくんの魅力にくぎづけです。ーー児童書売り場の書店員\n",
+      "salesDate": "2020年04月16日",
+      "series": "パンどろぼう",
+      "reviewAverage": 4.35,
+      "reviewCount": 134,
+      "genreId": "101916",
+      "isbn": "4339134200300",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "パンどろぼう",
+        "author": "",
+        "score": 5,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 28
+          }
+        ],
+        "source": "combined",
+        "rank": 36,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "パンどろぼう",
+        "author": "",
+        "isbn": "",
+        "score": 152,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 28
+          }
+        ],
+        "source": "combined",
+        "rank": 16
       }
     },
     {
@@ -902,7 +956,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16,
+        "rank": 17,
         "originalTitle": ""
       }
     },
@@ -949,7 +1003,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17,
+        "rank": 18,
         "originalTitle": ""
       }
     },
@@ -996,7 +1050,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18,
+        "rank": 19,
         "originalTitle": ""
       }
     },
@@ -1040,53 +1094,6 @@
             "source": "tohan",
             "label": "トーハン",
             "rank": 5
-          }
-        ],
-        "source": "combined",
-        "rank": 19,
-        "originalTitle": ""
-      }
-    },
-    {
-      "id": "4390000015358",
-      "title": "青天",
-      "author": "若林正恭",
-      "publisher": "文藝春秋",
-      "price": 1900,
-      "url": "https://books.rakuten.co.jp/rk/a6fc1b8794af3eafb7f064fac9c68dfa/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0144/2000019330144.jpg?_ex=600x600",
-      "caption": "オードリー・若林正恭、初小説！\n人にぶつかっていないと、自分が生きているかどうかよくわからなくなるーー\n総大三高の「アリ」こと中村昴が所属するアメフト部は、万年２回戦どまり。相手校の練習を隠し撮りして迎えた高３の引退大会では、強豪・遼西学園に打ち破れた。引退後、みなが受験に向かうなか、勉強にも気持ちが入らず、不良になる覚悟もないまま宙ぶらりんの日々を過ごす。自分自身の不甲斐なさにもがき続けるなかで、アリは再びアメフトと向き合う決意を固める。\n青春の苦みと悦びに満ちた、著者渾身の初小説。\n",
-      "salesDate": "2026年02月20日",
-      "series": "",
-      "reviewAverage": 3.98,
-      "reviewCount": 640,
-      "genreId": "101901",
-      "isbn": "4390000015358",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "青天",
-        "author": "若林正恭",
-        "score": 78,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 15,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "青天",
-        "author": "若林正恭",
-        "score": 78,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 8
           }
         ],
         "source": "combined",
@@ -1140,53 +1147,6 @@
         "rank": 21,
         "originalTitle": ""
       }
-    },
-    {
-      "id": "4479234030000",
-      "title": "豊臣兄弟！　後編",
-      "author": "八津弘幸/ＮＨＫドラマ制作班",
-      "publisher": "NHK出版",
-      "price": 1540,
-      "url": "https://books.rakuten.co.jp/rk/03955594478a34569322faf481fd73c8/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0762/2000020710762.jpg?_ex=600x600",
-      "caption": "兄弟の絆で天下を狙え！　2026年大河ドラマ「豊臣兄弟！」完全ガイド第2弾！\n仲野太賀主演・2026年大河ドラマ「豊臣兄弟！」。\nドラマをもっと楽しむためのガイドブック「後編」が登場！\n時は戦国乱世。時の戦国大名・織田信長に仕官して大出世を目指す兄の誘いに巻き込まれた小一郎は、知恵と勇気、そして持ち前の「調整力」を生かしながら、目の前に立ちはだかるハードミッションを兄との絶妙なコンビネーションで次々とクリアしていく。やがて小一郎は兄とともに、万民が笑って暮らせる太平の世を作るという夢を抱き始めーー。\n弟・秀長の視点で戦国時代をダイナミックに描く、夢と希望の下克上サクセスストーリー！\n＊電子書籍版ではプレゼントページほか、一部収録していないコンテンツがございます。あらかじめご了承ください。\n全3冊でお届けするドラマ・ガイドの第２弾「後編」では、主演・仲野太賀×吉岡里帆の撮り下ろし対談をはじめ、豪華出演者インタビューや物語中盤までのあらすじを掲載。さらに、タイトルバック徹底分析やマンガで読む秀長の生涯、豊臣しつもん箱、作家・今村翔吾さんに聞く戦国の兄弟たち特集、「本能寺の変」のヒミツに迫る歴史解説企画など充実の内容。美麗グラビア満載でお届けする、家族みんなで読めるフルカラー・ドラマガイド！　\n",
-      "salesDate": "2026年05月29日",
-      "series": "ＮＨＫ大河ドラマ・ガイド",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101913002",
-      "isbn": "4479234030000",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "NHK大河ドラマ・ガイド 豊臣兄弟! 後編",
-        "author": "",
-        "score": 70,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 19,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "NHK大河ドラマ・ガイド 豊臣兄弟! 後編",
-        "author": "",
-        "score": 70,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 22,
-        "originalTitle": ""
-      }
     }
   ],
   "byGenre": {
@@ -1199,8 +1159,7 @@
       "4320000867368",
       "4320000865495",
       "4320000865494",
-      "4310000858457",
-      "4390000015358"
+      "4310000858457"
     ],
     "mystery": [
       "4320000935695",
@@ -1241,7 +1200,8 @@
       "4310000701877"
     ],
     "children": [
-      "4335396900320"
+      "4335396900320",
+      "4339134200300"
     ],
     "essay": [
       "4320000867368"
@@ -1250,7 +1210,7 @@
   },
   "genreStatus": {
     "fiction": {
-      "matched": 10,
+      "matched": 9,
       "complete": true
     },
     "mystery": {
@@ -1302,7 +1262,7 @@
       "complete": true
     },
     "children": {
-      "matched": 1,
+      "matched": 2,
       "complete": true
     },
     "essay": {

@@ -4,10 +4,10 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-10-26T14:08:04.343Z",
+  "updatedAt": "2026-10-26T23:12:13.026Z",
   "candidateCount": 38,
-  "baseMatched": 19,
-  "matched": 23,
+  "baseMatched": 18,
+  "matched": 22,
   "addedMatches": 4,
   "unavailable": [],
   "snapshots": {
@@ -25,12 +25,6 @@
           "author": "",
           "isbn": "",
           "rank": 1
-        },
-        {
-          "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
-          "author": "",
-          "isbn": "",
-          "rank": 3
         },
         {
           "title": "未だ本能寺にあり",
@@ -114,6 +108,12 @@
           "author": "",
           "isbn": "",
           "rank": 2
+        },
+        {
+          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+          "author": "",
+          "isbn": "",
+          "rank": 4
         },
         {
           "title": "ポケモン公式ぜんこく図鑑 1996-2026",
@@ -269,30 +269,30 @@
       "isbn": "4380000407898",
       "salesType": 0,
       "matchMeta": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 幻冬舎新書",
-        "author": "",
-        "score": 98,
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "author": "林真理子",
+        "score": 94,
         "sources": [
           {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 3
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
           }
         ],
         "source": "combined",
-        "rank": 8,
-        "originalTitle": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書"
+        "rank": 9,
+        "originalTitle": ""
       },
       "ranking": {
-        "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
         "author": "",
         "isbn": "",
-        "score": 177,
+        "score": 176,
         "sources": [
           {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 3
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
           }
         ],
         "source": "combined",
@@ -412,7 +412,8 @@
       "matchMeta": {
         "title": "探偵小石は戻らない",
         "author": "",
-        "score": 86,
+        "isbn": "",
+        "score": 174,
         "sources": [
           {
             "source": "kinokuniya",
@@ -421,8 +422,7 @@
           }
         ],
         "source": "combined",
-        "rank": 13,
-        "originalTitle": ""
+        "rank": 12
       },
       "ranking": {
         "title": "探偵小石は戻らない",
@@ -611,8 +611,7 @@
           }
         ],
         "source": "combined",
-        "rank": 21,
-        "originalTitle": "FOR OVERSEAS"
+        "rank": 21
       },
       "ranking": {
         "title": "FOR OVERSEAS",
@@ -790,8 +789,7 @@
       "matchMeta": {
         "title": "人間の性 幻冬舎新書",
         "author": "",
-        "isbn": "",
-        "score": 157,
+        "score": 18,
         "sources": [
           {
             "source": "kinokuniya",
@@ -800,7 +798,8 @@
           }
         ],
         "source": "combined",
-        "rank": 32
+        "rank": 32,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "人間の性 幻冬舎新書",
@@ -1101,53 +1100,6 @@
       }
     },
     {
-      "id": "4390000015358",
-      "title": "青天",
-      "author": "若林正恭",
-      "publisher": "文藝春秋",
-      "price": 1900,
-      "url": "https://books.rakuten.co.jp/rk/a6fc1b8794af3eafb7f064fac9c68dfa/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0144/2000019330144.jpg?_ex=600x600",
-      "caption": "オードリー・若林正恭、初小説！\n人にぶつかっていないと、自分が生きているかどうかよくわからなくなるーー\n総大三高の「アリ」こと中村昴が所属するアメフト部は、万年２回戦どまり。相手校の練習を隠し撮りして迎えた高３の引退大会では、強豪・遼西学園に打ち破れた。引退後、みなが受験に向かうなか、勉強にも気持ちが入らず、不良になる覚悟もないまま宙ぶらりんの日々を過ごす。自分自身の不甲斐なさにもがき続けるなかで、アリは再びアメフトと向き合う決意を固める。\n青春の苦みと悦びに満ちた、著者渾身の初小説。\n",
-      "salesDate": "2026年02月20日",
-      "series": "",
-      "reviewAverage": 3.98,
-      "reviewCount": 640,
-      "genreId": "101901",
-      "isbn": "4390000015358",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "青天",
-        "author": "若林正恭",
-        "score": 78,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 15,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "青天",
-        "author": "若林正恭",
-        "score": 78,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 21,
-        "originalTitle": ""
-      }
-    },
-    {
       "id": "7225000866451",
       "title": "悩みの本──あなたが本気で生きている証",
       "author": "高橋佳子",
@@ -1190,7 +1142,7 @@
           }
         ],
         "source": "combined",
-        "rank": 22,
+        "rank": 21,
         "originalTitle": ""
       }
     },
@@ -1237,7 +1189,7 @@
           }
         ],
         "source": "combined",
-        "rank": 23,
+        "rank": 22,
         "originalTitle": ""
       }
     }
@@ -1252,8 +1204,7 @@
       "4320000867368",
       "4320000865495",
       "4320000865494",
-      "4310000858457",
-      "4390000015358"
+      "4310000858457"
     ],
     "mystery": [
       "4320000935695",
@@ -1304,7 +1255,7 @@
   },
   "genreStatus": {
     "fiction": {
-      "matched": 10,
+      "matched": 9,
       "complete": true
     },
     "mystery": {

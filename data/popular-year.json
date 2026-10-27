@@ -4,7 +4,7 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "year",
-  "updatedAt": "2026-10-27T18:34:03.783Z",
+  "updatedAt": "2026-10-27T22:53:45.438Z",
   "candidateCount": 13,
   "baseMatched": 6,
   "matched": 8,
@@ -89,10 +89,9 @@
       "isbn": "4524815633410",
       "salesType": 0,
       "matchMeta": {
-        "title": "ハーバード、スタンフォード、オックスフォード... 科学的に証明された すごい習慣大百科",
-        "author": "",
-        "isbn": "",
-        "score": 179,
+        "title": "科学的に証明された すごい習慣大百科",
+        "author": "堀田秀吾",
+        "score": 106,
         "sources": [
           {
             "source": "tohan",
@@ -102,7 +101,7 @@
         ],
         "source": "combined",
         "rank": 1,
-        "originalTitle": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科"
+        "originalTitle": ""
       },
       "ranking": {
         "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
@@ -138,8 +137,9 @@
       "salesType": 0,
       "matchMeta": {
         "title": "変な地図",
-        "author": "雨穴",
-        "score": 102,
+        "author": "",
+        "isbn": "",
+        "score": 178,
         "sources": [
           {
             "source": "tohan",
@@ -149,7 +149,7 @@
         ],
         "source": "combined",
         "rank": 2,
-        "originalTitle": ""
+        "originalTitle": "変な地図"
       },
       "ranking": {
         "title": "変な地図",

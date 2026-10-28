@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-10-27T22:53:41.603Z",
+  "updatedAt": "2026-10-28T06:35:08.685Z",
   "candidateCount": 38,
-  "baseMatched": 16,
-  "matched": 20,
-  "addedMatches": 4,
+  "baseMatched": 19,
+  "matched": 22,
+  "addedMatches": 3,
   "unavailable": [],
   "snapshots": {
     "kinokuniya": {
@@ -17,14 +17,14 @@
       "attribution": "紀伊國屋書店調べ",
       "sourceUrl": "https://www.kinokuniya.co.jp/disp/CKnRankingPageCList.jsp?dispNo=107002001001&vTp=m",
       "periodLabel": "マンスリー",
-      "updatedAt": "2026-10-27",
+      "updatedAt": "2026-10-28",
       "live": true,
       "items": [
         {
           "title": "パンどろぼうとさすらいラーメン",
           "author": "",
           "isbn": "",
-          "rank": 1
+          "rank": 2
         },
         {
           "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
@@ -54,7 +54,7 @@
           "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
           "author": "",
           "isbn": "",
-          "rank": 13
+          "rank": 14
         },
         {
           "title": "きずもの",
@@ -72,7 +72,7 @@
           "title": "人間の性 幻冬舎新書",
           "author": "",
           "isbn": "",
-          "rank": 23
+          "rank": 22
         },
         {
           "title": "誰も教えてくれなかった 本当のお金の守り方",
@@ -84,13 +84,19 @@
           "title": "パンどろぼう",
           "author": "",
           "isbn": "",
-          "rank": 27
+          "rank": 28
         },
         {
           "title": "イン・ザ・メガチャーチ",
           "author": "",
           "isbn": "",
-          "rank": 28
+          "rank": 29
+        },
+        {
+          "title": "寝ながらヘーゲル ＮＨＫ出版新書",
+          "author": "",
+          "isbn": "",
+          "rank": 30
         }
       ]
     },
@@ -100,7 +106,7 @@
       "attribution": "トーハン調べ",
       "sourceUrl": "https://www.tohan.jp/bestsellers/2026_09_monthly/",
       "periodLabel": "月間",
-      "updatedAt": "2026-10-27",
+      "updatedAt": "2026-10-28",
       "live": true,
       "items": [
         {
@@ -156,28 +162,28 @@
       "matchMeta": {
         "title": "パンどろぼうとさすらいラーメン",
         "author": "",
-        "score": 106,
+        "score": 102,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 1
+            "rank": 2
           }
         ],
         "source": "combined",
-        "rank": 4,
+        "rank": 6,
         "originalTitle": ""
       },
       "ranking": {
         "title": "パンどろぼうとさすらいラーメン",
         "author": "",
         "isbn": "",
-        "score": 357,
+        "score": 356,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 1
+            "rank": 2
           },
           {
             "source": "tohan",
@@ -218,7 +224,7 @@
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 28
+            "rank": 29
           }
         ],
         "source": "combined",
@@ -229,12 +235,12 @@
         "title": "イン・ザ・メガチャーチ",
         "author": "",
         "isbn": "",
-        "score": 326,
+        "score": 325,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 28
+            "rank": 29
           },
           {
             "source": "tohan",
@@ -369,7 +375,8 @@
           }
         ],
         "source": "combined",
-        "rank": 11
+        "rank": 11,
+        "originalTitle": "ポケモン公式ぜんこく図鑑 1996-2026"
       },
       "ranking": {
         "title": "ポケモン公式ぜんこく図鑑 1996-2026",
@@ -510,7 +517,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17
+        "rank": 18
       },
       "ranking": {
         "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
@@ -594,28 +601,28 @@
       "matchMeta": {
         "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
         "author": "",
-        "score": 58,
+        "score": 54,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 13
+            "rank": 14
           }
         ],
         "source": "combined",
-        "rank": 23,
+        "rank": 24,
         "originalTitle": ""
       },
       "ranking": {
         "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
         "author": "",
         "isbn": "",
-        "score": 167,
+        "score": 166,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 13
+            "rank": 14
           }
         ],
         "source": "combined",
@@ -688,8 +695,7 @@
       "matchMeta": {
         "title": "命の燃やし方",
         "author": "",
-        "isbn": "",
-        "score": 159,
+        "score": 26,
         "sources": [
           {
             "source": "kinokuniya",
@@ -699,7 +705,7 @@
         ],
         "source": "combined",
         "rank": 30,
-        "originalTitle": "命の燃やし方"
+        "originalTitle": ""
       },
       "ranking": {
         "title": "命の燃やし方",
@@ -736,28 +742,28 @@
       "matchMeta": {
         "title": "人間の性 幻冬舎新書",
         "author": "",
-        "score": 18,
+        "score": 22,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 23
+            "rank": 22
           }
         ],
         "source": "combined",
-        "rank": 32,
+        "rank": 31,
         "originalTitle": ""
       },
       "ranking": {
         "title": "人間の性 幻冬舎新書",
         "author": "",
         "isbn": "",
-        "score": 157,
+        "score": 158,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 23
+            "rank": 22
           }
         ],
         "source": "combined",
@@ -835,27 +841,74 @@
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 27
+            "rank": 28
           }
         ],
         "source": "combined",
-        "rank": 36,
+        "rank": 37,
         "originalTitle": ""
       },
       "ranking": {
         "title": "パンどろぼう",
         "author": "",
         "isbn": "",
-        "score": 153,
+        "score": 152,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 27
+            "rank": 28
           }
         ],
         "source": "combined",
         "rank": 15
+      }
+    },
+    {
+      "id": "4470887680000",
+      "title": "寝ながらヘーゲル",
+      "author": "斎藤幸平",
+      "publisher": "NHK出版",
+      "price": 1133,
+      "url": "https://books.rakuten.co.jp/rk/0d1b142854743e87a1558a7c026d4c6e/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4586/2000022054586.jpg?_ex=600x600",
+      "caption": "『精神現象学』って、そういう本だったのか！\nSNSの時代、承認欲求は暴走し、対立は終わらず、社会分断は広がり続けるーーその根底にある仕組みを、ヘーゲルは主著『精神現象学』で、まるで現代を予言するかのように鮮やかに描き出していた。のちにマルクス思想誕生のきっかけとなり、近現代思想を方向づけることになったこの名著を、マルクス解説で話題を呼んだ著者がやさしく読み解く。承認、自由、共同体をめぐるヘーゲルの洞察をたどれば、難解な古典が驚くほど現代的な書物であることがわかり、いま私たちの社会で何が起きているのかが見えてくる。分断の時代に希望を取り戻すための一冊。\n",
+      "salesDate": "2026年10月13日",
+      "series": "ＮＨＫ出版新書",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101907002002",
+      "isbn": "4470887680000",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "寝ながらヘーゲル NHK出版新書",
+        "author": "",
+        "score": 5,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 30
+          }
+        ],
+        "source": "combined",
+        "rank": 38,
+        "originalTitle": "寝ながらヘーゲル ＮＨＫ出版新書"
+      },
+      "ranking": {
+        "title": "寝ながらヘーゲル ＮＨＫ出版新書",
+        "author": "",
+        "isbn": "",
+        "score": 150,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 30
+          }
+        ],
+        "source": "combined",
+        "rank": 16
       }
     },
     {
@@ -901,7 +954,54 @@
           }
         ],
         "source": "combined",
-        "rank": 16,
+        "rank": 17,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "4320000865495",
+      "title": "ファイア・ドーム 上",
+      "author": "辻村深月",
+      "publisher": "小学館",
+      "price": 1881,
+      "url": "https://books.rakuten.co.jp/rk/22c26517c9353107819b56539afa6896/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1853/2000020771853.jpg?_ex=600x600",
+      "caption": "人はなぜ大きな事件に魅了されてしまうのか。\n噂は、軽薄な娯楽だ。\n25年前、平穏だったはずの地方都市は、百貨店受付嬢誘拐殺人事件の発生、その報道により揺り動かされ、「噂」という大量の炎が、加害者のみならず被害者にも降り注ぎ、燃えさかった。ようやく静けさを取り戻したかに見える町に燻り続ける因縁が、いま新たな事件を呼び起こすーー。\n「もう言われてるよ！　どうせ、親が殺したんだろうって！」ーー本文より\n",
+      "salesDate": "2026年06月05日",
+      "series": "ファイア・ドーム",
+      "reviewAverage": 4.56,
+      "reviewCount": 516,
+      "genreId": "101901/101902",
+      "isbn": "4320000865495",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ファイア・ドーム 上",
+        "author": "辻村深月",
+        "score": 102,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 2
+          }
+        ],
+        "source": "combined",
+        "rank": 5,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "ファイア・ドーム 上",
+        "author": "辻村深月",
+        "score": 102,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 2
+          }
+        ],
+        "source": "combined",
+        "rank": 18,
         "originalTitle": ""
       }
     },
@@ -948,7 +1048,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17,
+        "rank": 19,
         "originalTitle": ""
       }
     },
@@ -995,7 +1095,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18,
+        "rank": 20,
         "originalTitle": ""
       }
     },
@@ -1042,7 +1142,7 @@
           }
         ],
         "source": "combined",
-        "rank": 19,
+        "rank": 21,
         "originalTitle": ""
       }
     },
@@ -1089,7 +1189,7 @@
           }
         ],
         "source": "combined",
-        "rank": 20,
+        "rank": 22,
         "originalTitle": ""
       }
     }
@@ -1102,11 +1202,13 @@
       "4310000683989",
       "4320000935691",
       "4320000867368",
+      "4320000865495",
       "4320000865494",
       "4310000858457"
     ],
     "mystery": [
       "4320000935695",
+      "4320000865495",
       "4320000865494"
     ],
     "sf": [],
@@ -1121,6 +1223,7 @@
       "4390000014247",
       "4310000701877",
       "4380000408012",
+      "4470887680000",
       "4320000867368",
       "7225000866451"
     ],
@@ -1151,11 +1254,11 @@
   },
   "genreStatus": {
     "fiction": {
-      "matched": 8,
+      "matched": 9,
       "complete": true
     },
     "mystery": {
-      "matched": 2,
+      "matched": 3,
       "complete": true
     },
     "sf": {
@@ -1167,7 +1270,7 @@
       "complete": true
     },
     "humanities": {
-      "matched": 6,
+      "matched": 7,
       "complete": true
     },
     "nonfiction": {

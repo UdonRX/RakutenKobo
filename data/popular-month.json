@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-10-28T06:35:08.685Z",
+  "updatedAt": "2026-10-28T13:46:47.557Z",
   "candidateCount": 38,
   "baseMatched": 19,
-  "matched": 22,
-  "addedMatches": 3,
+  "matched": 23,
+  "addedMatches": 4,
   "unavailable": [],
   "snapshots": {
     "kinokuniya": {
@@ -25,12 +25,6 @@
           "author": "",
           "isbn": "",
           "rank": 2
-        },
-        {
-          "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
-          "author": "",
-          "isbn": "",
-          "rank": 3
         },
         {
           "title": "未だ本能寺にあり",
@@ -55,6 +49,12 @@
           "author": "",
           "isbn": "",
           "rank": 14
+        },
+        {
+          "title": "ソン・シギョンの本当に美味しい韓国グルメガイド - ＳＵＮＧ ＳＩ ＫＹＵＮＧ’ｓ Ｄｅｅｐ Ｋｏｒｅ 講談社ＭＯＯＫ",
+          "author": "",
+          "isbn": "",
+          "rank": 15
         },
         {
           "title": "きずもの",
@@ -114,6 +114,12 @@
           "author": "",
           "isbn": "",
           "rank": 2
+        },
+        {
+          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+          "author": "",
+          "isbn": "",
+          "rank": 4
         },
         {
           "title": "ポケモン公式ぜんこく図鑑 1996-2026",
@@ -269,30 +275,30 @@
       "isbn": "4380000407898",
       "salesType": 0,
       "matchMeta": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 幻冬舎新書",
-        "author": "",
-        "score": 98,
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "author": "林真理子",
+        "score": 94,
         "sources": [
           {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 3
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
           }
         ],
         "source": "combined",
-        "rank": 8,
-        "originalTitle": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書"
+        "rank": 9,
+        "originalTitle": ""
       },
       "ranking": {
-        "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
         "author": "",
         "isbn": "",
-        "score": 177,
+        "score": 176,
         "sources": [
           {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 3
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
           }
         ],
         "source": "combined",
@@ -375,8 +381,7 @@
           }
         ],
         "source": "combined",
-        "rank": 11,
-        "originalTitle": "ポケモン公式ぜんこく図鑑 1996-2026"
+        "rank": 11
       },
       "ranking": {
         "title": "ポケモン公式ぜんこく図鑑 1996-2026",
@@ -505,7 +510,7 @@
       "isbn": "4524815633410",
       "salesType": 0,
       "matchMeta": {
-        "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
+        "title": "ハーバード、スタンフォード、オックスフォード... 科学的に証明された すごい習慣大百科",
         "author": "",
         "isbn": "",
         "score": 170,
@@ -517,7 +522,8 @@
           }
         ],
         "source": "combined",
-        "rank": 18
+        "rank": 18,
+        "originalTitle": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科"
       },
       "ranking": {
         "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
@@ -630,6 +636,53 @@
       }
     },
     {
+      "id": "4310000936589",
+      "title": "ソン・シギョンの本当に美味しい韓国グルメガイド　ＳＵＮＧ　ＳＩ　ＫＹＵＮＧ’ｓ　Ｄｅｅｐ　Ｋｏｒｅａ",
+      "author": "ソン・シギョン",
+      "publisher": "講談社",
+      "price": 2200,
+      "url": "https://books.rakuten.co.jp/rk/4374061cc5783b7593a3e194d7cabec4/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1514/2000021871514.jpg?_ex=600x600",
+      "caption": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。\n韓国の国民的人気歌手で、食通としても知られるソン・シギョン。\n自身のYouTubeチャンネルで人気を集めるグルメコンテンツ「モグルテンデ」が、待望の一冊に。\nソウルを中心に、ソン・シギョン自らが選んだ“本当においしい店”123店を厳選して紹介。\n韓国で撮り下ろした写真やロングインタビューも収録。\n観光客向けの定番店ではなく、「韓国で本当に美味しいものを食べたい」という人へ。\nソン・シギョンだからこそ案内できる、これまでにない韓国グルメガイドです。\n※この商品は紙の書籍のページを画像にした電子書籍です。文字だけを拡大することはできませんので、タブレットサイズの端末での閲読を推奨します。また、文字列のハイライトや検索、辞書の参照、引用などの機能も使用できません。\n",
+      "salesDate": "2026年10月01日",
+      "series": "ソン・シギョンの本当に美味しい韓国グルメガイド　ＳＵＮＧ　ＳＩ　ＫＹＵＮＧ’ｓ　Ｄｅｅｐ　Ｋｏｒｅａ",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101911",
+      "isbn": "4310000936589",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ソン・シギョンの本当に美味しい韓国グルメガイド - SUNG SI KYUNG’s Deep Kore 講談社MOOK",
+        "author": "",
+        "score": 50,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 15
+          }
+        ],
+        "source": "combined",
+        "rank": 25,
+        "originalTitle": "ソン・シギョンの本当に美味しい韓国グルメガイド - ＳＵＮＧ　ＳＩ　ＫＹＵＮＧ’ｓ　Ｄｅｅｐ　Ｋｏｒｅ 講談社ＭＯＯＫ"
+      },
+      "ranking": {
+        "title": "ソン・シギョンの本当に美味しい韓国グルメガイド - ＳＵＮＧ ＳＩ ＫＹＵＮＧ’ｓ Ｄｅｅｐ Ｋｏｒｅ 講談社ＭＯＯＫ",
+        "author": "",
+        "isbn": "",
+        "score": 165,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 15
+          }
+        ],
+        "source": "combined",
+        "rank": 11
+      }
+    },
+    {
       "id": "4320000935691",
       "title": "きずもの",
       "author": "西加奈子",
@@ -648,7 +701,8 @@
       "matchMeta": {
         "title": "きずもの",
         "author": "",
-        "score": 46,
+        "isbn": "",
+        "score": 164,
         "sources": [
           {
             "source": "kinokuniya",
@@ -657,8 +711,7 @@
           }
         ],
         "source": "combined",
-        "rank": 26,
-        "originalTitle": ""
+        "rank": 26
       },
       "ranking": {
         "title": "きずもの",
@@ -673,7 +726,7 @@
           }
         ],
         "source": "combined",
-        "rank": 11
+        "rank": 12
       }
     },
     {
@@ -720,7 +773,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12
+        "rank": 13
       }
     },
     {
@@ -767,7 +820,7 @@
           }
         ],
         "source": "combined",
-        "rank": 13
+        "rank": 14
       }
     },
     {
@@ -814,7 +867,7 @@
           }
         ],
         "source": "combined",
-        "rank": 14
+        "rank": 15
       }
     },
     {
@@ -861,7 +914,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15
+        "rank": 16
       }
     },
     {
@@ -908,7 +961,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16
+        "rank": 17
       }
     },
     {
@@ -954,7 +1007,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17,
+        "rank": 18,
         "originalTitle": ""
       }
     },
@@ -1001,7 +1054,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18,
+        "rank": 19,
         "originalTitle": ""
       }
     },
@@ -1048,7 +1101,7 @@
           }
         ],
         "source": "combined",
-        "rank": 19,
+        "rank": 20,
         "originalTitle": ""
       }
     },
@@ -1095,7 +1148,7 @@
           }
         ],
         "source": "combined",
-        "rank": 20,
+        "rank": 21,
         "originalTitle": ""
       }
     },
@@ -1142,7 +1195,7 @@
           }
         ],
         "source": "combined",
-        "rank": 21,
+        "rank": 22,
         "originalTitle": ""
       }
     },
@@ -1189,7 +1242,7 @@
           }
         ],
         "source": "combined",
-        "rank": 22,
+        "rank": 23,
         "originalTitle": ""
       }
     }
@@ -1239,7 +1292,9 @@
     "hobby": [
       "6474824017178"
     ],
-    "travel": [],
+    "travel": [
+      "4310000936589"
+    ],
     "language": [
       "4310000701877"
     ],
@@ -1298,7 +1353,7 @@
       "complete": true
     },
     "travel": {
-      "matched": 0,
+      "matched": 1,
       "complete": true
     },
     "language": {

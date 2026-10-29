@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "year",
-  "updatedAt": "2026-10-29T13:59:35.367Z",
+  "updatedAt": "2026-10-29T23:12:43.427Z",
   "candidateCount": 13,
-  "baseMatched": 5,
+  "baseMatched": 8,
   "matched": 9,
-  "addedMatches": 4,
+  "addedMatches": 1,
   "unavailable": [],
   "snapshots": {
     "tohan": {
@@ -90,7 +90,7 @@
       "salesDate": "2025年07月02日",
       "series": "",
       "reviewAverage": 3.69,
-      "reviewCount": 401,
+      "reviewCount": 408,
       "genreId": "101905090",
       "isbn": "4524815633410",
       "salesType": 0,
@@ -137,15 +137,14 @@
       "salesDate": "2025年10月31日",
       "series": "変な地図",
       "reviewAverage": 3.84,
-      "reviewCount": 660,
+      "reviewCount": 666,
       "genreId": "101902",
       "isbn": "6681297998470",
       "salesType": 0,
       "matchMeta": {
         "title": "変な地図",
-        "author": "",
-        "isbn": "",
-        "score": 178,
+        "author": "雨穴",
+        "score": 102,
         "sources": [
           {
             "source": "tohan",
@@ -155,7 +154,7 @@
         ],
         "source": "combined",
         "rank": 2,
-        "originalTitle": "変な地図"
+        "originalTitle": ""
       },
       "ranking": {
         "title": "変な地図",
@@ -232,7 +231,7 @@
       "salesDate": "2025年12月01日",
       "series": "「成瀬」シリーズ",
       "reviewAverage": 4.54,
-      "reviewCount": 1594,
+      "reviewCount": 1617,
       "genreId": "101901",
       "isbn": "4340008064751",
       "salesType": 0,
@@ -332,9 +331,8 @@
       "salesType": 0,
       "matchMeta": {
         "title": "大河の一滴 最終章",
-        "author": "",
-        "isbn": "",
-        "score": 172,
+        "author": "五木寛之",
+        "score": 78,
         "sources": [
           {
             "source": "tohan",
@@ -344,7 +342,7 @@
         ],
         "source": "combined",
         "rank": 8,
-        "originalTitle": "大河の一滴 最終章"
+        "originalTitle": ""
       },
       "ranking": {
         "title": "大河の一滴 最終章",
@@ -380,9 +378,8 @@
       "salesType": 0,
       "matchMeta": {
         "title": "不滅なるものへの挑戦 霊性の時代を拓くために",
-        "author": "",
-        "isbn": "",
-        "score": 171,
+        "author": "大川隆法",
+        "score": 74,
         "sources": [
           {
             "source": "tohan",
@@ -392,7 +389,7 @@
         ],
         "source": "combined",
         "rank": 9,
-        "originalTitle": "不滅なるものへの挑戦 霊性の時代を拓くために"
+        "originalTitle": ""
       },
       "ranking": {
         "title": "不滅なるものへの挑戦 霊性の時代を拓くために",
@@ -421,8 +418,8 @@
       "caption": "歩けるうちは、人は死なない\n長生きしたくないという高齢者が増えている。\n不健康寿命が延び、ムダな延命治療によるつらく苦しい最期は恐ろしいと感じるからだ。\n著者は2000人以上を看取った元外科医の緩和ケア医。\n「歩けるうちは死にません」「抗がん剤をやめた方が長く生きる」「病院で体力の限界まで生かされるから苦しい」「認知症は長生きしたい人にとって勝ち組の証」「ひとり暮らしは、むしろ楽に死ねる」など「延命より満足を、治療より尊厳を」という選択を提唱。\n医療との向き合い方を変えることで、家で人生を終えるという幸せが味わえるようになる!\n2000人の幸せな最期を支えた「在宅」緩和ケア医が提言\n病院に頼りすぎない“生ききる力”とは?\n",
       "salesDate": "2025年11月27日",
       "series": "",
-      "reviewAverage": 3.96,
-      "reviewCount": 56,
+      "reviewAverage": 3.98,
+      "reviewCount": 59,
       "genreId": "101908008002/101907007",
       "isbn": "4380000407704",
       "salesType": 0,
@@ -486,8 +483,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12,
-        "originalTitle": "FOR OVERSEAS"
+        "rank": 12
       },
       "ranking": {
         "title": "FOR OVERSEAS",

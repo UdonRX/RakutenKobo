@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-10-29T06:42:48.149Z",
-  "candidateCount": 81,
-  "baseMatched": 36,
-  "matched": 50,
-  "addedMatches": 14,
+  "updatedAt": "2026-10-29T13:59:19.400Z",
+  "candidateCount": 75,
+  "baseMatched": 31,
+  "matched": 41,
+  "addedMatches": 10,
   "unavailable": [
     "rakuten"
   ],
@@ -119,12 +119,6 @@
           "rank": 22
         },
         {
-          "title": "覚悟の磨き方 超訳 吉田松陰 (サンクチュアリ出版)",
-          "author": "池田貴将",
-          "isbn": "",
-          "rank": 23
-        },
-        {
           "title": "Leaf Autumn 2026",
           "author": "芦沢央",
           "isbn": "",
@@ -141,6 +135,12 @@
           "author": "ナガノ",
           "isbn": "",
           "rank": 29
+        },
+        {
+          "title": "ファイナルファンタジー レゾナンス 公式コンプリートガイド+設定資料集 (SE-MOOK)",
+          "author": "スクウェア・エニックス",
+          "isbn": "",
+          "rank": 30
         }
       ]
     },
@@ -249,12 +249,6 @@
           "rank": 18
         },
         {
-          "title": "寝ながらヘーゲル ＮＨＫ出版新書",
-          "author": "",
-          "isbn": "",
-          "rank": 19
-        },
-        {
           "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
           "author": "",
           "isbn": "",
@@ -306,63 +300,6 @@
           "author": "",
           "isbn": "",
           "rank": 9
-        },
-        {
-          "title": "FOR OVERSEAS",
-          "author": "",
-          "isbn": "",
-          "rank": 12
-        }
-      ]
-    },
-    "rakuten": {
-      "id": "rakuten",
-      "label": "楽天ブックス",
-      "attribution": "楽天ブックス",
-      "sourceUrl": "https://books.rakuten.co.jp/",
-      "periodLabel": "売れ筋順",
-      "updatedAt": "2026-10-29",
-      "live": true,
-      "items": [
-        {
-          "title": "ONE PIECE 116",
-          "author": "尾田 栄一郎",
-          "rank": 2
-        },
-        {
-          "title": "SPY×FAMILY 18",
-          "author": "遠藤 達哉",
-          "rank": 7
-        },
-        {
-          "title": "最終回は気づかないうちに終わっていく",
-          "author": "栗田 雅俊/関戸 貴美子/早坂 尚樹/ニシワキ タダシ",
-          "rank": 10
-        },
-        {
-          "title": "キングダム 81",
-          "author": "原 泰久",
-          "rank": 11
-        },
-        {
-          "title": "鬼の花嫁　11",
-          "author": "富樫じゅん/クレハ",
-          "rank": 15
-        },
-        {
-          "title": "とある魔術の禁書目録外伝 とある科学の超電磁砲（21）",
-          "author": "鎌池　和馬/冬川　基/はいむら　きよたか",
-          "rank": 21
-        },
-        {
-          "title": "小説 薬屋のひとりごと 亡妃の秘宝",
-          "author": "日向夏",
-          "rank": 27
-        },
-        {
-          "title": "からだの厚みを薄くする",
-          "author": "土屋元明/こしいみほ",
-          "rank": 29
         }
       ]
     }
@@ -379,8 +316,8 @@
       "caption": "とっても寒い“ぶるぶるじま”にやってきたパンどろぼう。できたてのパンをふるまおうとパン作りをはじめますが、窯の扉をあけようとした、その瞬間・・・＼＼＼ボフーーーン／／／パンが作れずこまっているところへさっそうと現れたのは、いったい、誰ーーー？ほかほかのパンとあつあつのラーメンが織りなす、熱血ハートフルストーリー開幕！「パンどろぼう」シリーズ待望の第8弾！\n",
       "salesDate": "2026年09月16日",
       "series": "パンどろぼう",
-      "reviewAverage": 4,
-      "reviewCount": 5,
+      "reviewAverage": 4.17,
+      "reviewCount": 7,
       "genreId": "101916",
       "isbn": "4335396900320",
       "salesType": 0,
@@ -396,7 +333,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18,
+        "rank": 13,
         "originalTitle": ""
       },
       "ranking": {
@@ -478,120 +415,6 @@
       }
     },
     {
-      "id": "9784059242451",
-      "title": "最終回は気づかないうちに終わっていく",
-      "author": "栗田雅俊/関戸貴美子/早坂尚樹",
-      "publisher": "Gakken",
-      "price": 1760,
-      "url": "https://books.rakuten.co.jp/rk/7b90788b0d1d356abcff97c1d87aa726/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6062/2000021676062.jpg?_ex=600x600",
-      "caption": "「今日からシャンプー自分でやる」と子どもが言う。\n（そっか）昨日のが最後のお手伝いだったんだ。 ー（本文より）\n家族の今日を、やさしい言葉と絵でつむいだ作品集です。\n● 家族は、愛おしくて、せつない。\n家族の毎日のほとんどはなんでもない日。\nけれどそれは永遠じゃない。私たちは同じところにはいられない。\nだからなんでもない今日は、やがて戻りたくてたまらない瞬間になる。\n本書は、そんな家族の今日を描いた絵と言葉の本です。\n● あなたの物語が、きっと見つかる。\n子育ての日々、親子の距離、パートナーとの時間、実家への思いー\nさまざまな家族の情景を描いた全20編を収録。\nシンプルな絵と言葉が、あなたの記憶を呼び起こします。\n読み終えた時には、描かれた物語が、自分自身の物語になっているはずです。\n● 今日という一日が、少し好きになる。\n描かれているのは、特別な出来事ではありません。\n家に帰る。ご飯をつくる。髪を洗う。忙しさのなかで見過ごしそうな場面ばかり。\nけれど、本を閉じたあとには、そんないつもの景色が少し違って見えるはずです。\n育児をがんばろうと思える。「ただいま」と言いたくなる。久しぶりに実家へ連絡したくなる。本書は、そんな気持ちを胸にそっと灯してくれます。\nまた、読む年齢や立場、その日の気持ちによって心に残る言葉が少しずつ変わります。\n何度でも読み返したくなる一冊です。\n● “泣ける”と話題の絵と言葉\n文章やデザインは、SNSで56万人がいいねした話題作、花王「家族と愛とメリット」シリーズのクリエイターが集結。書籍として新構築しました。\n◇ ◇もくじ◇ ◇\n◇春\n・遠くまで行ってほしいし、ずっと近くにいてほしい。\n・最終回は 気づかないうちに 終わっていく。\n・世界を楽しむ人と 暮らしている。\n・実家のお風呂には あと何回 入れるのだろう。\n・LOVEと呼ぶのは照れくさい。LIKEだと何かが足りない。\n◇夏\n・はじめてを 何度もくれて ありがとう。\n・家族は変わりながら つづいていく。\n・ひとりのほうが 家族を感じる。\n・夏休みが 休みだった頃が なつかしい。\n・家族って 呼びたい人がいる。\n◇秋\n・この帰り道を きっときみは 忘れてしまう。\n・本日はお風呂 やめておこう と思いました。\n・そばにいるために、そばにいすぎない。\n・家族と 退屈は けっこう遠い。\n・私はまいにち わたしに帰る。\n◇冬\n・子どもが育つのか。わたしが育つのか。\n・子育てが終わり 思い出がはじまる。\n・言葉が減ったぶん あなたを考えている。\n・君があきらめないから 私も君をあきらめない。\n・育つことは 知らない世界も 育つこと。\n",
-      "salesDate": "2026年10月20日",
-      "series": "",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101907015004/101901002",
-      "isbn": "9784059242451",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "最終回は気づかないうちに終わっていく",
-        "author": "栗田 雅俊/関戸 貴美子/早坂 尚樹/ニシワキ タダシ",
-        "score": 156,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 10
-          },
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 6
-          }
-        ],
-        "source": "combined",
-        "rank": 2,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "最終回は気づかないうちに終わっていく",
-        "author": "栗田 雅俊",
-        "isbn": "",
-        "score": 344,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 6
-          },
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 3
-      }
-    },
-    {
-      "id": "4444643950003",
-      "title": "小説 薬屋のひとりごと 亡妃の秘宝",
-      "author": "日向夏",
-      "publisher": "主婦の友社",
-      "price": 946,
-      "url": "https://books.rakuten.co.jp/rk/91419cf2e5aa3ce9810d3d56162e1d49/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5709/2000022205709.jpg?_ex=600x600",
-      "caption": "全世界シリーズ累計5,700万部突破「薬屋のひとりごと」待望の新刊！ 日向夏による新作エピソードが映画、そして小説へーー\n「宦官の真似事が終わった以上、お前は皇弟として動け」\n皇帝から壬氏(ジンシ)にとある命が下された。\nそれは、5年前に後宮で命を落とした妃の「故郷へ帰りたい」という最期の願いを叶えること。\n妃の遺体とともに南の地へ旅立った壬氏と猫猫(マオマオ)が辿り着いたのは、活気あふれる水上都市。\n未知の薬や植物に興味を惹かれる猫猫だったが、\nその地では水賊が暴れまわり、不穏な空気が漂っていた。\n「何も起こらないといいがーー」。\n壬氏の嫌な予感は的中し、妃の葬儀当日に起きた大事件をきっかけに、想像を超える事態へと発展していくーー。\n妃の遺体に隠された秘密。\n水上都市に眠る財宝。\nそして、物語の鍵を握る少年ーー。\n全世界シリーズ累計5,700万部を誇る人気小説『薬屋のひとりごと』の日向夏による完全新作オリジナルストーリーが、小説、漫画、映画に同時展開！\n『小説 薬屋のひとりごと 亡妃の秘宝』は、劇場版には入りきらなかったエピソードも収録。小説ならではの表現で物語の世界を深く描き出しています。劇場版のキャラクター原案を担当したしのとうこのキャラクターデザインイラストや制作メモも。\n『劇場版 薬屋のひとりごと 亡妃の秘宝』は、2026年12月11日(金)から公開。\n日向夏（ヒュウガナツ）：福岡県在住。2012年『薬屋のひとりごと』にてデビュー。主な著書に『不死王の息子』『トネリコの王』（共にヒーロー文庫）、『繰り巫女あやかし夜噺』、『なぞとき遺跡発掘部』、『迷探偵の条件』、『神さま学校の落ちこぼれ』、『聖女に嘘は通じない』など。\n",
-      "salesDate": "2026年12月09日",
-      "series": "小説 薬屋のひとりごと 亡妃の秘宝",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101903090",
-      "isbn": "4444643950003",
-      "salesType": 1,
-      "matchMeta": {
-        "title": "小説 薬屋のひとりごと 亡妃の秘宝",
-        "author": "日向夏",
-        "score": 99,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 27
-          },
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 4
-          }
-        ],
-        "source": "combined",
-        "rank": 5,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "小説 薬屋のひとりごと 亡妃の秘宝",
-        "author": "日向夏",
-        "isbn": "",
-        "score": 329,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 4
-          },
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 27
-          }
-        ],
-        "source": "combined",
-        "rank": 4
-      }
-    },
-    {
       "id": "4339134200300",
       "title": "パンどろぼう",
       "author": "柴田　ケイコ",
@@ -603,7 +426,7 @@
       "salesDate": "2020年04月16日",
       "series": "パンどろぼう",
       "reviewAverage": 4.35,
-      "reviewCount": 134,
+      "reviewCount": 136,
       "genreId": "101916",
       "isbn": "4339134200300",
       "salesType": 0,
@@ -625,8 +448,7 @@
           }
         ],
         "source": "combined",
-        "rank": 7,
-        "originalTitle": "パンどろぼう"
+        "rank": 5
       },
       "ranking": {
         "title": "パンどろぼう",
@@ -646,7 +468,7 @@
           }
         ],
         "source": "combined",
-        "rank": 5
+        "rank": 3
       }
     },
     {
@@ -661,7 +483,7 @@
       "salesDate": "2025年07月15日",
       "series": "汝、星のごとく",
       "reviewAverage": 4.39,
-      "reviewCount": 1672,
+      "reviewCount": 1755,
       "genreId": "101901",
       "isbn": "4310000683989",
       "salesType": 0,
@@ -677,7 +499,7 @@
           }
         ],
         "source": "combined",
-        "rank": 14,
+        "rank": 10,
         "originalTitle": ""
       },
       "ranking": {
@@ -693,54 +515,7 @@
           }
         ],
         "source": "combined",
-        "rank": 6
-      }
-    },
-    {
-      "id": "9782331056031",
-      "title": "One Piece édition originale - Chapitre 116",
-      "author": "Eiichiro Oda",
-      "publisher": "Glénat Manga",
-      "price": 110,
-      "url": "https://books.rakuten.co.jp/rk/2a84f0cc18e03a1b9c896c01d88d9fa1/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9368/2000020559368.jpg?_ex=600x600",
-      "caption": "Les aventures de Luffy à la poursuite du One Piece continuent !\n",
-      "salesDate": "2022年06月15日",
-      "series": "One Piece Chapitres",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101970004011",
-      "isbn": "9782331056031",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ONE PIECE 116",
-        "author": "尾田 栄一郎",
-        "score": 102,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 2
-          }
-        ],
-        "source": "combined",
-        "rank": 13,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "ONE PIECE 116",
-        "author": "尾田 栄一郎",
-        "isbn": "",
-        "score": 178,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 2
-          }
-        ],
-        "source": "combined",
-        "rank": 7
+        "rank": 4
       }
     },
     {
@@ -771,7 +546,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15,
+        "rank": 11,
         "originalTitle": "ようこそ実力至上主義の教室へ 3年生編5 (MF文庫J)"
       },
       "ranking": {
@@ -787,54 +562,7 @@
           }
         ],
         "source": "combined",
-        "rank": 8
-      }
-    },
-    {
-      "id": "4340008067051",
-      "title": "プレゼント（新潮文庫）",
-      "author": "伊坂幸太郎/江國香織/恩田陸/梨木香歩/町田そのこ/宮部みゆき/米澤穂信",
-      "publisher": "新潮社",
-      "price": 825,
-      "url": "https://books.rakuten.co.jp/rk/e8a60fd88eb63075a76e50e52cf98712/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8962/2000020598962.jpg?_ex=600x600",
-      "caption": "これはこれまで小説を愛してきてくれた人へ、そしてこれから小説の世界に一歩踏み出す人へ贈るプレゼント。何気なく読んだ物語が、ふと目にした一行が、意外な言葉ひとつが、人生を大きく変えるかもしれない。現代を代表する７人の作家が「夏」をテーマに書き下ろした、驚きと切なさ、怖さと美しさ、何よりとびきりの面白さを詰め込んだ奇跡の一冊。さぁ、あなたの人生に小説という選択肢を。\n",
-      "salesDate": "2026年06月24日",
-      "series": "",
-      "reviewAverage": 3.87,
-      "reviewCount": 451,
-      "genreId": "101901",
-      "isbn": "4340008067051",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "プレゼント",
-        "author": "伊坂幸太郎",
-        "score": 98,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 3
-          }
-        ],
-        "source": "combined",
-        "rank": 16,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "プレゼント",
-        "author": "伊坂幸太郎",
-        "isbn": "",
-        "score": 177,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 3
-          }
-        ],
-        "source": "combined",
-        "rank": 9
+        "rank": 5
       }
     },
     {
@@ -865,7 +593,7 @@
           }
         ],
         "source": "combined",
-        "rank": 19,
+        "rank": 14,
         "originalTitle": "汝、星のごとく (講談社文庫 な 101-1)"
       },
       "ranking": {
@@ -881,7 +609,101 @@
           }
         ],
         "source": "combined",
-        "rank": 10
+        "rank": 6
+      }
+    },
+    {
+      "id": "4340008067051",
+      "title": "プレゼント（新潮文庫）",
+      "author": "伊坂幸太郎/江國香織/恩田陸/梨木香歩/町田そのこ/宮部みゆき/米澤穂信",
+      "publisher": "新潮社",
+      "price": 825,
+      "url": "https://books.rakuten.co.jp/rk/e8a60fd88eb63075a76e50e52cf98712/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8962/2000020598962.jpg?_ex=600x600",
+      "caption": "これはこれまで小説を愛してきてくれた人へ、そしてこれから小説の世界に一歩踏み出す人へ贈るプレゼント。何気なく読んだ物語が、ふと目にした一行が、意外な言葉ひとつが、人生を大きく変えるかもしれない。現代を代表する７人の作家が「夏」をテーマに書き下ろした、驚きと切なさ、怖さと美しさ、何よりとびきりの面白さを詰め込んだ奇跡の一冊。さぁ、あなたの人生に小説という選択肢を。\n",
+      "salesDate": "2026年06月24日",
+      "series": "",
+      "reviewAverage": 3.87,
+      "reviewCount": 451,
+      "genreId": "101901",
+      "isbn": "4340008067051",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "プレゼント",
+        "author": "伊坂幸太郎",
+        "isbn": "",
+        "score": 177,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 3
+          }
+        ],
+        "source": "combined",
+        "rank": 15
+      },
+      "ranking": {
+        "title": "プレゼント",
+        "author": "伊坂幸太郎",
+        "isbn": "",
+        "score": 177,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 3
+          }
+        ],
+        "source": "combined",
+        "rank": 7
+      }
+    },
+    {
+      "id": "4444643950003",
+      "title": "小説 薬屋のひとりごと 亡妃の秘宝",
+      "author": "日向夏",
+      "publisher": "主婦の友社",
+      "price": 946,
+      "url": "https://books.rakuten.co.jp/rk/91419cf2e5aa3ce9810d3d56162e1d49/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5709/2000022205709.jpg?_ex=600x600",
+      "caption": "全世界シリーズ累計5,700万部突破「薬屋のひとりごと」待望の新刊！ 日向夏による新作エピソードが映画、そして小説へーー\n「宦官の真似事が終わった以上、お前は皇弟として動け」\n皇帝から壬氏(ジンシ)にとある命が下された。\nそれは、5年前に後宮で命を落とした妃の「故郷へ帰りたい」という最期の願いを叶えること。\n妃の遺体とともに南の地へ旅立った壬氏と猫猫(マオマオ)が辿り着いたのは、活気あふれる水上都市。\n未知の薬や植物に興味を惹かれる猫猫だったが、\nその地では水賊が暴れまわり、不穏な空気が漂っていた。\n「何も起こらないといいがーー」。\n壬氏の嫌な予感は的中し、妃の葬儀当日に起きた大事件をきっかけに、想像を超える事態へと発展していくーー。\n妃の遺体に隠された秘密。\n水上都市に眠る財宝。\nそして、物語の鍵を握る少年ーー。\n全世界シリーズ累計5,700万部を誇る人気小説『薬屋のひとりごと』の日向夏による完全新作オリジナルストーリーが、小説、漫画、映画に同時展開！\n『小説 薬屋のひとりごと 亡妃の秘宝』は、劇場版には入りきらなかったエピソードも収録。小説ならではの表現で物語の世界を深く描き出しています。劇場版のキャラクター原案を担当したしのとうこのキャラクターデザインイラストや制作メモも。\n『劇場版 薬屋のひとりごと 亡妃の秘宝』は、2026年12月11日(金)から公開。\n日向夏（ヒュウガナツ）：福岡県在住。2012年『薬屋のひとりごと』にてデビュー。主な著書に『不死王の息子』『トネリコの王』（共にヒーロー文庫）、『繰り巫女あやかし夜噺』、『なぞとき遺跡発掘部』、『迷探偵の条件』、『神さま学校の落ちこぼれ』、『聖女に嘘は通じない』など。\n",
+      "salesDate": "2026年12月09日",
+      "series": "小説 薬屋のひとりごと 亡妃の秘宝",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101903090",
+      "isbn": "4444643950003",
+      "salesType": 1,
+      "matchMeta": {
+        "title": "小説 薬屋のひとりごと 亡妃の秘宝",
+        "author": "日向夏",
+        "score": 94,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 4
+          }
+        ],
+        "source": "combined",
+        "rank": 17,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "小説 薬屋のひとりごと 亡妃の秘宝",
+        "author": "日向夏",
+        "isbn": "",
+        "score": 176,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 4
+          }
+        ],
+        "source": "combined",
+        "rank": 8
       }
     },
     {
@@ -912,7 +734,7 @@
           }
         ],
         "source": "combined",
-        "rank": 23,
+        "rank": 18,
         "originalTitle": ""
       },
       "ranking": {
@@ -928,7 +750,7 @@
           }
         ],
         "source": "combined",
-        "rank": 11
+        "rank": 9
       }
     },
     {
@@ -959,7 +781,7 @@
           }
         ],
         "source": "combined",
-        "rank": 27,
+        "rank": 21,
         "originalTitle": "手紙屋 蛍雪篇 ～私の受験勉強を変えた十通の手紙～ ジュニア版"
       },
       "ranking": {
@@ -975,7 +797,55 @@
           }
         ],
         "source": "combined",
-        "rank": 12
+        "rank": 10
+      }
+    },
+    {
+      "id": "9784059242451",
+      "title": "最終回は気づかないうちに終わっていく",
+      "author": "栗田雅俊/関戸貴美子/早坂尚樹",
+      "publisher": "Gakken",
+      "price": 1760,
+      "url": "https://books.rakuten.co.jp/rk/7b90788b0d1d356abcff97c1d87aa726/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6062/2000021676062.jpg?_ex=600x600",
+      "caption": "「今日からシャンプー自分でやる」と子どもが言う。\n（そっか）昨日のが最後のお手伝いだったんだ。 ー（本文より）\n家族の今日を、やさしい言葉と絵でつむいだ作品集です。\n● 家族は、愛おしくて、せつない。\n家族の毎日のほとんどはなんでもない日。\nけれどそれは永遠じゃない。私たちは同じところにはいられない。\nだからなんでもない今日は、やがて戻りたくてたまらない瞬間になる。\n本書は、そんな家族の今日を描いた絵と言葉の本です。\n● あなたの物語が、きっと見つかる。\n子育ての日々、親子の距離、パートナーとの時間、実家への思いー\nさまざまな家族の情景を描いた全20編を収録。\nシンプルな絵と言葉が、あなたの記憶を呼び起こします。\n読み終えた時には、描かれた物語が、自分自身の物語になっているはずです。\n● 今日という一日が、少し好きになる。\n描かれているのは、特別な出来事ではありません。\n家に帰る。ご飯をつくる。髪を洗う。忙しさのなかで見過ごしそうな場面ばかり。\nけれど、本を閉じたあとには、そんないつもの景色が少し違って見えるはずです。\n育児をがんばろうと思える。「ただいま」と言いたくなる。久しぶりに実家へ連絡したくなる。本書は、そんな気持ちを胸にそっと灯してくれます。\nまた、読む年齢や立場、その日の気持ちによって心に残る言葉が少しずつ変わります。\n何度でも読み返したくなる一冊です。\n● “泣ける”と話題の絵と言葉\n文章やデザインは、SNSで56万人がいいねした話題作、花王「家族と愛とメリット」シリーズのクリエイターが集結。書籍として新構築しました。\n◇ ◇もくじ◇ ◇\n◇春\n・遠くまで行ってほしいし、ずっと近くにいてほしい。\n・最終回は 気づかないうちに 終わっていく。\n・世界を楽しむ人と 暮らしている。\n・実家のお風呂には あと何回 入れるのだろう。\n・LOVEと呼ぶのは照れくさい。LIKEだと何かが足りない。\n◇夏\n・はじめてを 何度もくれて ありがとう。\n・家族は変わりながら つづいていく。\n・ひとりのほうが 家族を感じる。\n・夏休みが 休みだった頃が なつかしい。\n・家族って 呼びたい人がいる。\n◇秋\n・この帰り道を きっときみは 忘れてしまう。\n・本日はお風呂 やめておこう と思いました。\n・そばにいるために、そばにいすぎない。\n・家族と 退屈は けっこう遠い。\n・私はまいにち わたしに帰る。\n◇冬\n・子どもが育つのか。わたしが育つのか。\n・子育てが終わり 思い出がはじまる。\n・言葉が減ったぶん あなたを考えている。\n・君があきらめないから 私も君をあきらめない。\n・育つことは 知らない世界も 育つこと。\n",
+      "salesDate": "2026年10月20日",
+      "series": "",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101907015004/101901002",
+      "isbn": "9784059242451",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "最終回は気づかないうちに終わっていく",
+        "author": "栗田 雅俊",
+        "isbn": "",
+        "score": 174,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 6
+          }
+        ],
+        "source": "combined",
+        "rank": 23,
+        "originalTitle": "最終回は気づかないうちに終わっていく"
+      },
+      "ranking": {
+        "title": "最終回は気づかないうちに終わっていく",
+        "author": "栗田 雅俊",
+        "isbn": "",
+        "score": 174,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 6
+          }
+        ],
+        "source": "combined",
+        "rank": 11
       }
     },
     {
@@ -1006,7 +876,7 @@
           }
         ],
         "source": "combined",
-        "rank": 35,
+        "rank": 28,
         "originalTitle": ""
       },
       "ranking": {
@@ -1022,7 +892,7 @@
           }
         ],
         "source": "combined",
-        "rank": 13
+        "rank": 12
       }
     },
     {
@@ -1053,7 +923,7 @@
           }
         ],
         "source": "combined",
-        "rank": 36,
+        "rank": 29,
         "originalTitle": ""
       },
       "ranking": {
@@ -1069,7 +939,7 @@
           }
         ],
         "source": "combined",
-        "rank": 14
+        "rank": 13
       }
     },
     {
@@ -1084,14 +954,15 @@
       "salesDate": "2020年04月24日",
       "series": "",
       "reviewAverage": 4.45,
-      "reviewCount": 2762,
+      "reviewCount": 2783,
       "genreId": "101901/101902",
       "isbn": "4390000005636",
       "salesType": 0,
       "matchMeta": {
         "title": "容疑者Xの献身",
         "author": "東野圭吾",
-        "score": 82,
+        "isbn": "",
+        "score": 173,
         "sources": [
           {
             "source": "maruzen",
@@ -1100,8 +971,7 @@
           }
         ],
         "source": "combined",
-        "rank": 32,
-        "originalTitle": ""
+        "rank": 28
       },
       "ranking": {
         "title": "容疑者Xの献身",
@@ -1116,54 +986,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15
-      }
-    },
-    {
-      "id": "4972000169895",
-      "title": "SPY×FAMILY 18",
-      "author": "遠藤達哉",
-      "publisher": "集英社",
-      "price": 616,
-      "url": "https://books.rakuten.co.jp/rk/9ff88217c98330579739ae763ab036e2/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9312/2000021999312.jpg?_ex=600x600",
-      "caption": "TVドラマ『恋の5ヵ年計画』の生放送特番をスタジオ観覧することになったヨルとロイド。ロイドへの好意を自覚したヨルの変化に動揺するユーリは、デートを妨害しようとスタジオに駆け付けるが、放送開始と共に3人は想定外の事態に巻き込まれ…!?\n",
-      "salesDate": "2026年11月04日",
-      "series": "SPY×FAMILY",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904001007",
-      "isbn": "4972000169895",
-      "salesType": 1,
-      "matchMeta": {
-        "title": "SPY×FAMILY 18",
-        "author": "遠藤 達哉",
-        "score": 82,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 7
-          }
-        ],
-        "source": "combined",
-        "rank": 34,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "SPY×FAMILY 18",
-        "author": "遠藤 達哉",
-        "isbn": "",
-        "score": 173,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 7
-          }
-        ],
-        "source": "combined",
-        "rank": 16
+        "rank": 14
       }
     },
     {
@@ -1194,7 +1017,7 @@
           }
         ],
         "source": "combined",
-        "rank": 41,
+        "rank": 33,
         "originalTitle": ""
       },
       "ranking": {
@@ -1210,7 +1033,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17
+        "rank": 15
       }
     },
     {
@@ -1242,7 +1065,7 @@
           }
         ],
         "source": "combined",
-        "rank": 35
+        "rank": 33
       },
       "ranking": {
         "title": "NHK大河ドラマ･ガイド 豊臣兄弟! 完結編",
@@ -1257,7 +1080,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18
+        "rank": 16
       }
     },
     {
@@ -1271,8 +1094,8 @@
       "caption": "☆2023年本屋大賞受賞作　シリーズ最新作☆\n第20回本屋大賞受賞作『汝、星のごとく』続編\n花火のように煌めいて、\n届かぬ星を見上げて、\n海のように見守って、\nいつでもそこには愛があった。\nああ、そうか。\nわたしたちは幸せだった\nのかもしれないね。\n『汝、星のごとく』で語りきれなかった愛の物語\n「春に翔ぶ」ーー瀬戸内の島で出会った櫂と暁海。二人を支える教師・北原が秘めた過去。彼が病院で話しかけられた教え子の菜々が抱えていた問題とは？\n「星を編む」ーー才能という名の星を輝かせるために、魂を燃やす編集者たちの物語。漫画原作者・作家となった櫂を担当した編集者二人が繋いだもの。\n「波を渡る」ーー花火のように煌めく時間を経て、愛の果てにも暁海の人生は続いていく。『汝、星のごとく』の先に描かれる、繋がる未来と新たな愛の形。\n",
       "salesDate": "2026年07月15日",
       "series": "汝、星のごとく",
-      "reviewAverage": 4.51,
-      "reviewCount": 200,
+      "reviewAverage": 4.49,
+      "reviewCount": 234,
       "genreId": "101901",
       "isbn": "4310000886199",
       "salesType": 0,
@@ -1288,7 +1111,7 @@
           }
         ],
         "source": "combined",
-        "rank": 46,
+        "rank": 37,
         "originalTitle": "星を編む (講談社文庫 な 101-3)"
       },
       "ranking": {
@@ -1304,7 +1127,7 @@
           }
         ],
         "source": "combined",
-        "rank": 19
+        "rank": 17
       }
     },
     {
@@ -1335,7 +1158,7 @@
           }
         ],
         "source": "combined",
-        "rank": 42,
+        "rank": 34,
         "originalTitle": ""
       },
       "ranking": {
@@ -1351,7 +1174,7 @@
           }
         ],
         "source": "combined",
-        "rank": 20
+        "rank": 18
       }
     },
     {
@@ -1382,7 +1205,7 @@
           }
         ],
         "source": "combined",
-        "rank": 47,
+        "rank": 38,
         "originalTitle": ""
       },
       "ranking": {
@@ -1398,54 +1221,7 @@
           }
         ],
         "source": "combined",
-        "rank": 21
-      }
-    },
-    {
-      "id": "4334530000320",
-      "title": "その「違和感」、大正解です　運気の波を読みチャンスに変える！",
-      "author": "秦　明日香",
-      "publisher": "KADOKAWA",
-      "price": 2090,
-      "url": "https://books.rakuten.co.jp/rk/5405c75775763ff2b48456ddcbeabee8/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0496/2000021790496.jpg?_ex=600x600",
-      "caption": "著名人など総鑑定数3万人超え！借金1000万＆余命宣告から年商8000万へ大逆転した著者が教える、 九星気学 × 宇宙の真理が導き出した最強の法則！「本来の自分」に戻り、最速で豊かになる方法です。「頑張っているのに報われない」「本当は嫌なのに断れない」……。そのモヤモヤ、実はあなたの人生を劇的に好転させる最高のサインです！虐待、離婚、1000万円の借金、がん宣告、極貧生活……。幾度ものどん底を経験した著者を救ったのは、自分の中に湧き上がる小さな「違和感」でした。 これまでの時代は、「我慢する」「周囲に合わせる」といった外側の正解に従う生き方が評価されてきました。しかし、2028年に向けて社会のシステムや価値観は崩れ、これまでの当たり前が通用しなくなっていきます。これからの激変する時代を軽やかに生き抜く唯一の羅針盤、それがあなたの身体が発する「違和感（違和感力）」です。本書では、東洋の智慧「九星気学」をベースに、自分の本質や才能の活かし方、お金の思い込み（前提）を書き換える「逆張り金運アップ術」、日常で使える３０の処方箋や開運アクション、恵方参りまでを徹底解説！「自分以外の誰か」になろうとする必要はありません。あなたの中に眠る最強のセンサーを呼び覚まし、本来の主役の座へと戻りましょう！【コンテンツ】第1章 大変革期・2028年に備えて「違和感力」を磨く第2章 どん底から脱出！「違和感」で人生を激変させる第3章 九星気学で紐解く「本来の自分」と「違和感のサイン」第4章 お金の「違和感」を解消し、最短で豊かさを循環させる第5章 人生を激変させる！「違和感」を幸運に変える実践ワーク\n",
-      "salesDate": "2026年10月02日",
-      "series": "その「違和感」、大正解です　運気の波を読みチャンスに変える！",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101910010/101909",
-      "isbn": "4334530000320",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "その「違和感」、大正解です 運気の波を読みチャンスに変える!",
-        "author": "",
-        "score": 70,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 49,
-        "originalTitle": "その「違和感」、大正解です　運気の波を読みチャンスに変える！"
-      },
-      "ranking": {
-        "title": "その「違和感」、大正解です 運気の波を読みチャンスに変える！",
-        "author": "",
-        "isbn": "",
-        "score": 170,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 22
+        "rank": 19
       }
     },
     {
@@ -1476,7 +1252,7 @@
           }
         ],
         "source": "combined",
-        "rank": 50,
+        "rank": 41,
         "originalTitle": ""
       },
       "ranking": {
@@ -1492,54 +1268,54 @@
           }
         ],
         "source": "combined",
-        "rank": 23
+        "rank": 20
       }
     },
     {
-      "id": "4972000169889",
-      "title": "キングダム 81",
-      "author": "原泰久",
-      "publisher": "集英社",
-      "price": 770,
-      "url": "https://books.rakuten.co.jp/rk/5bfbf7021b1739ab807e21db73e2acdc/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9287/2000021999287.jpg?_ex=600x600",
-      "caption": "ヤングジャンプコミックスDIGITAL「キングダム」81巻、11月18日配信スタート!!　※配信日は変更になることがあります。ご了承ください。\n",
-      "salesDate": "2026年11月18日",
-      "series": "キングダム",
+      "id": "4334530000320",
+      "title": "その「違和感」、大正解です　運気の波を読みチャンスに変える！",
+      "author": "秦　明日香",
+      "publisher": "KADOKAWA",
+      "price": 2090,
+      "url": "https://books.rakuten.co.jp/rk/5405c75775763ff2b48456ddcbeabee8/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0496/2000021790496.jpg?_ex=600x600",
+      "caption": "著名人など総鑑定数3万人超え！借金1000万＆余命宣告から年商8000万へ大逆転した著者が教える、 九星気学 × 宇宙の真理が導き出した最強の法則！「本来の自分」に戻り、最速で豊かになる方法です。「頑張っているのに報われない」「本当は嫌なのに断れない」……。そのモヤモヤ、実はあなたの人生を劇的に好転させる最高のサインです！虐待、離婚、1000万円の借金、がん宣告、極貧生活……。幾度ものどん底を経験した著者を救ったのは、自分の中に湧き上がる小さな「違和感」でした。 これまでの時代は、「我慢する」「周囲に合わせる」といった外側の正解に従う生き方が評価されてきました。しかし、2028年に向けて社会のシステムや価値観は崩れ、これまでの当たり前が通用しなくなっていきます。これからの激変する時代を軽やかに生き抜く唯一の羅針盤、それがあなたの身体が発する「違和感（違和感力）」です。本書では、東洋の智慧「九星気学」をベースに、自分の本質や才能の活かし方、お金の思い込み（前提）を書き換える「逆張り金運アップ術」、日常で使える３０の処方箋や開運アクション、恵方参りまでを徹底解説！「自分以外の誰か」になろうとする必要はありません。あなたの中に眠る最強のセンサーを呼び覚まし、本来の主役の座へと戻りましょう！【コンテンツ】第1章 大変革期・2028年に備えて「違和感力」を磨く第2章 どん底から脱出！「違和感」で人生を激変させる第3章 九星気学で紐解く「本来の自分」と「違和感のサイン」第4章 お金の「違和感」を解消し、最短で豊かさを循環させる第5章 人生を激変させる！「違和感」を幸運に変える実践ワーク\n",
+      "salesDate": "2026年10月02日",
+      "series": "その「違和感」、大正解です　運気の波を読みチャンスに変える！",
       "reviewAverage": 0,
       "reviewCount": 0,
-      "genreId": "101904002006",
-      "isbn": "4972000169889",
-      "salesType": 1,
+      "genreId": "101910010/101909",
+      "isbn": "4334530000320",
+      "salesType": 0,
       "matchMeta": {
-        "title": "キングダム 81",
-        "author": "原 泰久",
-        "score": 66,
+        "title": "その「違和感」、大正解です 運気の波を読みチャンスに変える！",
+        "author": "",
+        "isbn": "",
+        "score": 170,
         "sources": [
           {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 11
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 10
           }
         ],
         "source": "combined",
-        "rank": 51,
-        "originalTitle": ""
+        "rank": 39
       },
       "ranking": {
-        "title": "キングダム 81",
-        "author": "原 泰久",
+        "title": "その「違和感」、大正解です 運気の波を読みチャンスに変える！",
+        "author": "",
         "isbn": "",
-        "score": 169,
+        "score": 170,
         "sources": [
           {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 11
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 10
           }
         ],
         "source": "combined",
-        "rank": 24
+        "rank": 21
       }
     },
     {
@@ -1553,16 +1329,15 @@
       "caption": "江ノ電の小さな駅、十六夜駅。鎌倉駅からほど近く、閑静な住宅街にあるその駅には、一人の駅員と一羽の九官鳥「ハッチ」がいた。乗客たちの声を聞き、また別の乗客にその言葉を放つハッチは駅の人気者だ。十六夜駅には、日々、様々な挫折や苦悩を抱えた人々が訪れる。人生の折り返し地点で将来に不安を抱くフリーランスの男性、恋人との手痛い失恋に打ちひしがれる女性、怪我で休みを余儀なくされたバスケットボール選手、50代の今も現役でストリップの舞台に立つ踊り子、周囲に馴染めずピアノが生きるよりどころとなっている女子高校生……。そんな彼らに届くハッチの“言葉”は、誰がどんな想いで発したのか分からないまま、前を向くきっかけをくれる。生きづらさを抱えたすべての人にエールを贈る、感動の物語！\n",
       "salesDate": "2026年10月19日",
       "series": "海辺のエール",
-      "reviewAverage": 4.5,
-      "reviewCount": 2,
+      "reviewAverage": 4.44,
+      "reviewCount": 10,
       "genreId": "101901001",
       "isbn": "4335254300320",
       "salesType": 0,
       "matchMeta": {
         "title": "海辺のエール",
         "author": "",
-        "isbn": "",
-        "score": 169,
+        "score": 66,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1571,7 +1346,8 @@
           }
         ],
         "source": "combined",
-        "rank": 43
+        "rank": 42,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "海辺のエール",
@@ -1586,101 +1362,7 @@
           }
         ],
         "source": "combined",
-        "rank": 25
-      }
-    },
-    {
-      "id": "9781505942323",
-      "title": "How to Start a Crown Agents for Overseas Governments and Administrations Business (Beginners Guide)",
-      "author": "Leclair Jaquelyn",
-      "publisher": "SamEnrico",
-      "price": 2515,
-      "url": "https://books.rakuten.co.jp/rk/da3f192a66453cb193c43421103700ab/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5952/2000020915952.jpg?_ex=600x600",
-      "caption": "This publication, published by SamEnrico, covers How to Start a Crown Agents for Overseas Governments and Administrations Business (Beginners Guide)\n",
-      "salesDate": "2015年12月20日",
-      "series": "",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101970003007",
-      "isbn": "9781505942323",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "FOR OVERSEAS",
-        "author": "",
-        "isbn": "",
-        "score": 168,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 12
-          }
-        ],
-        "source": "combined",
-        "rank": 46
-      },
-      "ranking": {
-        "title": "FOR OVERSEAS",
-        "author": "",
-        "isbn": "",
-        "score": 168,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 12
-          }
-        ],
-        "source": "combined",
-        "rank": 26
-      }
-    },
-    {
-      "id": "4332254800300",
-      "title": "生きて行く私",
-      "author": "宇野　千代",
-      "publisher": "KADOKAWA",
-      "price": 803,
-      "url": "https://books.rakuten.co.jp/rk/57ee814194de3067a25639b09853eeb5/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9474/2000003109474.jpg?_ex=600x600",
-      "caption": "山口県岩国の生家と父母、小学校代用教員の時の恋と初体験、いとことの結婚、新聞懸賞小説の入選、尾崎士郎との出会いと同棲、東郷青児、北原武夫とつづく愛の遍歴……数えて百歳。感動を呼ぶ大河自伝。\n",
-      "salesDate": "2015年05月21日",
-      "series": "",
-      "reviewAverage": 4.07,
-      "reviewCount": 35,
-      "genreId": "101901001",
-      "isbn": "4332254800300",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "生きて行く私",
-        "author": "宇野 千代",
-        "score": 58,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 13
-          }
-        ],
-        "source": "combined",
-        "rank": 57,
-        "originalTitle": "生きて行く私 (角川文庫)"
-      },
-      "ranking": {
-        "title": "生きて行く私 (角川文庫)",
-        "author": "宇野 千代",
-        "isbn": "",
-        "score": 167,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 13
-          }
-        ],
-        "source": "combined",
-        "rank": 27
+        "rank": 22
       }
     },
     {
@@ -1711,7 +1393,7 @@
           }
         ],
         "source": "combined",
-        "rank": 56,
+        "rank": 44,
         "originalTitle": "魔導具師ダリヤはうつむかない 〈１５〉 - 今日から自由な職人ライフ ＭＦブックス"
       },
       "ranking": {
@@ -1727,7 +1409,54 @@
           }
         ],
         "source": "combined",
-        "rank": 28
+        "rank": 23
+      }
+    },
+    {
+      "id": "4332254800300",
+      "title": "生きて行く私",
+      "author": "宇野　千代",
+      "publisher": "KADOKAWA",
+      "price": 803,
+      "url": "https://books.rakuten.co.jp/rk/57ee814194de3067a25639b09853eeb5/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9474/2000003109474.jpg?_ex=600x600",
+      "caption": "山口県岩国の生家と父母、小学校代用教員の時の恋と初体験、いとことの結婚、新聞懸賞小説の入選、尾崎士郎との出会いと同棲、東郷青児、北原武夫とつづく愛の遍歴……数えて百歳。感動を呼ぶ大河自伝。\n",
+      "salesDate": "2015年05月21日",
+      "series": "",
+      "reviewAverage": 3.97,
+      "reviewCount": 37,
+      "genreId": "101901001",
+      "isbn": "4332254800300",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "生きて行く私",
+        "author": "宇野 千代",
+        "score": 58,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 13
+          }
+        ],
+        "source": "combined",
+        "rank": 45,
+        "originalTitle": "生きて行く私 (角川文庫)"
+      },
+      "ranking": {
+        "title": "生きて行く私 (角川文庫)",
+        "author": "宇野 千代",
+        "isbn": "",
+        "score": 167,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 13
+          }
+        ],
+        "source": "combined",
+        "rank": 24
       }
     },
     {
@@ -1758,7 +1487,7 @@
           }
         ],
         "source": "combined",
-        "rank": 60,
+        "rank": 47,
         "originalTitle": ""
       },
       "ranking": {
@@ -1774,54 +1503,7 @@
           }
         ],
         "source": "combined",
-        "rank": 29
-      }
-    },
-    {
-      "id": "4910000314258",
-      "title": "noicomi鬼の花嫁11巻",
-      "author": "富樫じゅん/クレハ",
-      "publisher": "スターツ出版",
-      "price": 143,
-      "url": "https://books.rakuten.co.jp/rk/988c53baefec315ca03b2e9392a610a2/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8298/2000012228298.jpg?_ex=600x600",
-      "caption": "【シリーズ累計750万部突破！アニメ化＆実写映画化！！あやかし×溺愛×シンデレラストーリーの大人気小説、待望のコミカライズ】\n「見つけた　俺だけの花嫁をーー」\nあやかしと人間が共生する日本。優れた能力と美しい容貌を持つあやかしたちは、時に人間の女性たちの中から〈花嫁〉と呼ばれる運命の存在を見出す。そして花嫁は、あやかしに繁栄をもたらす代わりに、あやかしからの絶対の愛を得るという。妖狐の〈花嫁〉である妹を持つ柚子は、妹と比べられ、家族から愛されない日々を送っていた。我慢の糸が切れたある日、夜の街をさまよう柚子を、ある男が見出す。見たこともないほど美しいその人は、柚子を「俺の花嫁」と言い!?「黙って抱かれていろ」冷徹と呼ばれる最強のあやかしに、ドロドロに愛されて・・・!?運命の出逢いから始まる和風あやかしシンデレラストーリー、ついに開幕！(この作品は電子コミック誌noicomi vol.83に収録されています。重複購入にご注意ください)\n",
-      "salesDate": "2023年02月10日",
-      "series": "noicomi鬼の花嫁",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904",
-      "isbn": "4910000314258",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "鬼の花嫁 11",
-        "author": "富樫じゅん/クレハ",
-        "score": 50,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 15
-          }
-        ],
-        "source": "combined",
-        "rank": 61,
-        "originalTitle": "鬼の花嫁　11"
-      },
-      "ranking": {
-        "title": "鬼の花嫁　11",
-        "author": "富樫じゅん/クレハ",
-        "isbn": "",
-        "score": 165,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 15
-          }
-        ],
-        "source": "combined",
-        "rank": 30
+        "rank": 25
       }
     },
     {
@@ -1852,7 +1534,7 @@
           }
         ],
         "source": "combined",
-        "rank": 63,
+        "rank": 49,
         "originalTitle": ""
       },
       "ranking": {
@@ -1868,7 +1550,7 @@
           }
         ],
         "source": "combined",
-        "rank": 31
+        "rank": 26
       }
     },
     {
@@ -1899,7 +1581,7 @@
           }
         ],
         "source": "combined",
-        "rank": 67,
+        "rank": 51,
         "originalTitle": ""
       },
       "ranking": {
@@ -1915,7 +1597,7 @@
           }
         ],
         "source": "combined",
-        "rank": 32
+        "rank": 27
       }
     },
     {
@@ -1937,8 +1619,7 @@
       "matchMeta": {
         "title": "自分とか、ないから。教養としての東洋哲学 (サンクチュアリ出版)",
         "author": "しんめいP",
-        "isbn": "",
-        "score": 163,
+        "score": 42,
         "sources": [
           {
             "source": "amazon",
@@ -1947,7 +1628,8 @@
           }
         ],
         "source": "combined",
-        "rank": 56
+        "rank": 52,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "自分とか、ないから。教養としての東洋哲学 (サンクチュアリ出版)",
@@ -1962,7 +1644,54 @@
           }
         ],
         "source": "combined",
-        "rank": 33
+        "rank": 28
+      }
+    },
+    {
+      "id": "4704763143266",
+      "title": "走るより運動になる「歩き方」",
+      "author": "久道勝也",
+      "publisher": "サンマーク出版",
+      "price": 1650,
+      "url": "https://books.rakuten.co.jp/rk/1a68b6d7376a346fb60de03e872d26b8/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0583/2000021650583.jpg?_ex=600x600",
+      "caption": "通勤・散歩・通学・買い物・旅行……\nいつもの歩行が、「最高の運動」に変わる！\n走るのが苦手でも、ジム通いが続かなくても大丈夫。\nもっともっと効果の高い運動方法があります。それが「歩く」こと。\n著者は、日本初の「足と歩行の総合病院」を設立した足の専門医・久道勝也医師。\n２０万人の足を診てきた歩行医学の第一人者が、\nついに科学的な歩行メソッドを解き明かしました。\n「走る」は勢いや反発を利用した「跳躍の連続」。\n一方、「歩く」は常にどちらかの足１本で体を支えて、\n２００以上もの筋肉を０.０１秒単位で精密に操り続ける「制御の連続」なのです。\nこれほど高度で複雑な動きでありながら、\n多くの人は歩くことを「ただの移動」で済ませてしまっています。\nだからこそ、歩き方の質を上げれば、走るよりも劇的に体を変えることができます。\nでは、どうすれば質を上げられるか。\n足の動かし方？ 手の振り方？ 違います。\n実は歩き方で最も重要なのは、「お腹」なのです。\n本書の方法で姿勢を正すと、自然にお腹に力が入ります。むしろ、抜くことができません。\nその状態のまま、歩き続けること。それが質の高い歩き方です。\n最初はロボットみたいにカチコチになる人が続出します。\nでも、すぐに慣れます。\nそうなれば、もう通勤・買い物・子供のお迎えなど、\nいつもの歩行がすべて「最高の運動」に変わります。\n【目次より】\n●「歩き方」を見れば「寿命」がわかる\n●靴底でわかる「間違った歩き方」\n●壁に立つだけでわかる、あなたの「一生歩ける度」\n●体の軸をつくる「寝たままお腹スイッチ」\n●現代人は座りすぎでお腹が「変形」している\n●「１日１万歩」の嘘\n●転ばない力をつける「足指じゃんけん」「タオルギャザー」\n●歩き方は「お腹」で決まる\n●全身が勝手に鍛えられる「お腹歩き」\n●フォームに迷ったら、「後ろに５歩」歩く\n●歩行は最高の「脳トレ」\n●いつもの家事を運動に変える方法\n●靴を買う前・履く前にできる４つのチェック\n●足は「外に出た脳」\n●重心コントロールの要「荷物の持ち方」\n●慣れない「ジョギング」「パワーウォーク」は怪我の元\nなど\n",
+      "salesDate": "2026年09月10日",
+      "series": "",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101908008002/101905010",
+      "isbn": "4704763143266",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "走るより運動になる「歩き方」",
+        "author": "久道 勝也",
+        "score": 38,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 18
+          }
+        ],
+        "source": "combined",
+        "rank": 54,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "走るより運動になる「歩き方」",
+        "author": "久道 勝也",
+        "isbn": "",
+        "score": 162,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 18
+          }
+        ],
+        "source": "combined",
+        "rank": 29
       }
     },
     {
@@ -1993,7 +1722,7 @@
           }
         ],
         "source": "combined",
-        "rank": 70,
+        "rank": 53,
         "originalTitle": ""
       },
       "ranking": {
@@ -2009,102 +1738,7 @@
           }
         ],
         "source": "combined",
-        "rank": 34
-      }
-    },
-    {
-      "id": "4704763143266",
-      "title": "走るより運動になる「歩き方」",
-      "author": "久道勝也",
-      "publisher": "サンマーク出版",
-      "price": 1650,
-      "url": "https://books.rakuten.co.jp/rk/1a68b6d7376a346fb60de03e872d26b8/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0583/2000021650583.jpg?_ex=600x600",
-      "caption": "通勤・散歩・通学・買い物・旅行……\nいつもの歩行が、「最高の運動」に変わる！\n走るのが苦手でも、ジム通いが続かなくても大丈夫。\nもっともっと効果の高い運動方法があります。それが「歩く」こと。\n著者は、日本初の「足と歩行の総合病院」を設立した足の専門医・久道勝也医師。\n２０万人の足を診てきた歩行医学の第一人者が、\nついに科学的な歩行メソッドを解き明かしました。\n「走る」は勢いや反発を利用した「跳躍の連続」。\n一方、「歩く」は常にどちらかの足１本で体を支えて、\n２００以上もの筋肉を０.０１秒単位で精密に操り続ける「制御の連続」なのです。\nこれほど高度で複雑な動きでありながら、\n多くの人は歩くことを「ただの移動」で済ませてしまっています。\nだからこそ、歩き方の質を上げれば、走るよりも劇的に体を変えることができます。\nでは、どうすれば質を上げられるか。\n足の動かし方？ 手の振り方？ 違います。\n実は歩き方で最も重要なのは、「お腹」なのです。\n本書の方法で姿勢を正すと、自然にお腹に力が入ります。むしろ、抜くことができません。\nその状態のまま、歩き続けること。それが質の高い歩き方です。\n最初はロボットみたいにカチコチになる人が続出します。\nでも、すぐに慣れます。\nそうなれば、もう通勤・買い物・子供のお迎えなど、\nいつもの歩行がすべて「最高の運動」に変わります。\n【目次より】\n●「歩き方」を見れば「寿命」がわかる\n●靴底でわかる「間違った歩き方」\n●壁に立つだけでわかる、あなたの「一生歩ける度」\n●体の軸をつくる「寝たままお腹スイッチ」\n●現代人は座りすぎでお腹が「変形」している\n●「１日１万歩」の嘘\n●転ばない力をつける「足指じゃんけん」「タオルギャザー」\n●歩き方は「お腹」で決まる\n●全身が勝手に鍛えられる「お腹歩き」\n●フォームに迷ったら、「後ろに５歩」歩く\n●歩行は最高の「脳トレ」\n●いつもの家事を運動に変える方法\n●靴を買う前・履く前にできる４つのチェック\n●足は「外に出た脳」\n●重心コントロールの要「荷物の持ち方」\n●慣れない「ジョギング」「パワーウォーク」は怪我の元\nなど\n",
-      "salesDate": "2026年09月10日",
-      "series": "",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101908008002/101905010",
-      "isbn": "4704763143266",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "走るより運動になる「歩き方」",
-        "author": "久道 勝也",
-        "isbn": "",
-        "score": 162,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 18
-          }
-        ],
-        "source": "combined",
-        "rank": 58,
-        "originalTitle": "走るより運動になる「歩き方」"
-      },
-      "ranking": {
-        "title": "走るより運動になる「歩き方」",
-        "author": "久道 勝也",
-        "isbn": "",
-        "score": 162,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 18
-          }
-        ],
-        "source": "combined",
-        "rank": 35
-      }
-    },
-    {
-      "id": "4470887680000",
-      "title": "寝ながらヘーゲル",
-      "author": "斎藤幸平",
-      "publisher": "NHK出版",
-      "price": 1133,
-      "url": "https://books.rakuten.co.jp/rk/0d1b142854743e87a1558a7c026d4c6e/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4586/2000022054586.jpg?_ex=600x600",
-      "caption": "『精神現象学』って、そういう本だったのか！\nSNSの時代、承認欲求は暴走し、対立は終わらず、社会分断は広がり続けるーーその根底にある仕組みを、ヘーゲルは主著『精神現象学』で、まるで現代を予言するかのように鮮やかに描き出していた。のちにマルクス思想誕生のきっかけとなり、近現代思想を方向づけることになったこの名著を、マルクス解説で話題を呼んだ著者がやさしく読み解く。承認、自由、共同体をめぐるヘーゲルの洞察をたどれば、難解な古典が驚くほど現代的な書物であることがわかり、いま私たちの社会で何が起きているのかが見えてくる。分断の時代に希望を取り戻すための一冊。\n",
-      "salesDate": "2026年10月13日",
-      "series": "ＮＨＫ出版新書",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101907002002",
-      "isbn": "4470887680000",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "寝ながらヘーゲル ＮＨＫ出版新書",
-        "author": "",
-        "isbn": "",
-        "score": 161,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 19
-          }
-        ],
-        "source": "combined",
-        "rank": 61
-      },
-      "ranking": {
-        "title": "寝ながらヘーゲル ＮＨＫ出版新書",
-        "author": "",
-        "isbn": "",
-        "score": 161,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 19
-          }
-        ],
-        "source": "combined",
-        "rank": 36
+        "rank": 30
       }
     },
     {
@@ -2124,10 +1758,9 @@
       "isbn": "4380000408012",
       "salesType": 0,
       "matchMeta": {
-        "title": "人間の性 (幻冬舎新書 814)",
+        "title": "人間の性",
         "author": "佐藤 優",
-        "isbn": "",
-        "score": 160,
+        "score": 30,
         "sources": [
           {
             "source": "amazon",
@@ -2136,7 +1769,8 @@
           }
         ],
         "source": "combined",
-        "rank": 62
+        "rank": 57,
+        "originalTitle": "人間の性 (幻冬舎新書 814)"
       },
       "ranking": {
         "title": "人間の性 (幻冬舎新書 814)",
@@ -2151,54 +1785,7 @@
           }
         ],
         "source": "combined",
-        "rank": 37
-      }
-    },
-    {
-      "id": "4336405300320",
-      "title": "とある魔術の禁書目録外伝　とある科学の超電磁砲（２１）",
-      "author": "鎌池　和馬/冬川　基/はいむら　きよたか",
-      "publisher": "KADOKAWA",
-      "price": 968,
-      "url": "https://books.rakuten.co.jp/rk/4b05905cdbc73358880bc03f5b27f4e1/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9214/2000022099214.jpg?_ex=600x600",
-      "caption": "亡き姉の未練を晴らすまで、常盤台中学への復讐に燃える沙淡扇は止まらない。このまま計画が進めば、無辜の数万人が犠牲になってしまう。潔斎雪紫は意を決して、沙の説得を試みる。一方、雪紫の姿が見えないことに気づいた御坂美琴は学友たちの協力を得て寮を抜け出し、彼女を探しに向かうが……。\n",
-      "salesDate": "2026年10月27日",
-      "series": "とある科学の超電磁砲",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101904002047",
-      "isbn": "4336405300320",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "とある魔術の禁書目録外伝 とある科学の超電磁砲(21)",
-        "author": "鎌池　和馬/冬川　基/はいむら　きよたか",
-        "score": 26,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 21
-          }
-        ],
-        "source": "combined",
-        "rank": 77,
-        "originalTitle": "とある魔術の禁書目録外伝 とある科学の超電磁砲（21）"
-      },
-      "ranking": {
-        "title": "とある魔術の禁書目録外伝 とある科学の超電磁砲（21）",
-        "author": "鎌池　和馬/冬川　基/はいむら　きよたか",
-        "isbn": "",
-        "score": 159,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 21
-          }
-        ],
-        "source": "combined",
-        "rank": 38
+        "rank": 31
       }
     },
     {
@@ -2220,8 +1807,7 @@
       "matchMeta": {
         "title": "これが本当のSPI3だ! 2028年度版 【主要3方式〈テストセンター・ペーパーテスト・WEBテスティング〉対応】 (本当の就職テストシリーズ)",
         "author": "SPIノートの会",
-        "isbn": "",
-        "score": 158,
+        "score": 22,
         "sources": [
           {
             "source": "amazon",
@@ -2230,7 +1816,8 @@
           }
         ],
         "source": "combined",
-        "rank": 66
+        "rank": 61,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "これが本当のSPI3だ! 2028年度版 【主要3方式〈テストセンター・ペーパーテスト・WEBテスティング〉対応】 (本当の就職テストシリーズ)",
@@ -2245,7 +1832,7 @@
           }
         ],
         "source": "combined",
-        "rank": 39
+        "rank": 32
       }
     },
     {
@@ -2277,7 +1864,7 @@
           }
         ],
         "source": "combined",
-        "rank": 67
+        "rank": 62
       },
       "ranking": {
         "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
@@ -2292,54 +1879,7 @@
           }
         ],
         "source": "combined",
-        "rank": 40
-      }
-    },
-    {
-      "id": "8910120537764",
-      "title": "覚悟の磨き方 超訳 吉田松陰",
-      "author": "池田貴将",
-      "publisher": "サンクチュアリ出版",
-      "price": 1650,
-      "url": "https://books.rakuten.co.jp/rk/b34b03152bf839e9a38924a752ad1113/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2061/2000005302061.jpg?_ex=600x600",
-      "caption": "★85万部突破のベストセラー！(2026年8月時点)\n★2025年・年間ベストセラー4位！（ビジネス書単行本／日販調べ）\nバスケットボール日本代表：河村勇輝選手\n→ダ・ヴィンチ「2023年一番心に残った本」として紹介（2024年1月号）\n格闘家・YA-MAN選手\n→インスタグラムにて紹介\nサッカー選手：旗手怜央選手\n→欧州フットボール日記「試合前に手に取る大切な本」として紹介\n亀梨和也さん\n→ダ・ヴィンチ（2017年6月号）で紹介\nなど超一流のアスリート、俳優、経営者などから愛され続けるロングセラー\n不安と生きるか。\n理想に死ぬか。\n外国の文明を学ぼうと、\n死罪を覚悟で黒船に乗り込もうとした。\n幽閉の処分となると小さな塾「松下村塾」を開き、\n高杉晋作や伊藤博文など、\n後の大臣や大学創設者になる面々を育てた。\nこの本はそんな風に\n誰よりも遠くを見据えながら、\n幕末を熱く駆け抜けた\n天才思想家・吉田松陰が残した言葉を、\n現代人にもわかりやすく、理解しやすく変換した人生哲学書である。\n吉田松陰の言葉が\n世代を超えてこんなにも心に響くのは\n彼の言葉が日本史上類を見ないほど\nシンプルで、力強く、そしてやさしさに満ちているからだろう。\n困難にぶつかった時、\n自信を失いそうな時、\nプレッシャーに押し潰されそうな時、\nきっとこの本が現状を打破する勇気をくれるはずだ。\n",
-      "salesDate": "2014年02月17日",
-      "series": "",
-      "reviewAverage": 3.9,
-      "reviewCount": 382,
-      "genreId": "101907002002",
-      "isbn": "8910120537764",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "覚悟の磨き方 超訳 吉田松陰 (サンクチュアリ出版)",
-        "author": "池田貴将",
-        "isbn": "",
-        "score": 157,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 23
-          }
-        ],
-        "source": "combined",
-        "rank": 68
-      },
-      "ranking": {
-        "title": "覚悟の磨き方 超訳 吉田松陰 (サンクチュアリ出版)",
-        "author": "池田貴将",
-        "isbn": "",
-        "score": 157,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 23
-          }
-        ],
-        "source": "combined",
-        "rank": 41
+        "rank": 33
       }
     },
     {
@@ -2370,7 +1910,7 @@
           }
         ],
         "source": "combined",
-        "rank": 88,
+        "rank": 65,
         "originalTitle": ""
       },
       "ranking": {
@@ -2386,7 +1926,7 @@
           }
         ],
         "source": "combined",
-        "rank": 42
+        "rank": 34
       }
     },
     {
@@ -2408,8 +1948,7 @@
       "matchMeta": {
         "title": "経営者になれ",
         "author": "",
-        "isbn": "",
-        "score": 155,
+        "score": 10,
         "sources": [
           {
             "source": "kinokuniya",
@@ -2418,8 +1957,8 @@
           }
         ],
         "source": "combined",
-        "rank": 72,
-        "originalTitle": "経営者になれ"
+        "rank": 66,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "経営者になれ",
@@ -2434,7 +1973,7 @@
           }
         ],
         "source": "combined",
-        "rank": 43
+        "rank": 35
       }
     },
     {
@@ -2466,7 +2005,7 @@
           }
         ],
         "source": "combined",
-        "rank": 74
+        "rank": 69
       },
       "ranking": {
         "title": "【令和８年度】 いちばんやさしい ITパスポート 絶対合格の教科書＋出る順問題集",
@@ -2481,54 +2020,7 @@
           }
         ],
         "source": "combined",
-        "rank": 44
-      }
-    },
-    {
-      "id": "4704763142085",
-      "title": "からだの厚みを薄くする",
-      "author": "土屋元明",
-      "publisher": "サンマーク出版",
-      "price": 1540,
-      "url": "https://books.rakuten.co.jp/rk/eaa0429a053f39e8934c2769ea0cd52a/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2670/2000020982670.jpg?_ex=600x600",
-      "caption": "いらぬ貫禄をつくる「厚み」を解消して\nマイナス７歳の横姿を目指そう！\n日本初！？　「厚み」解消本。\n何気なく撮られた写真に、小さく落ち込んだことはありませんか？\n太ったわけじゃないのに、\n好きな服が似合わなくなった。写真に撮られるのが憂うつ。\nーーその悩みは、年を重ねるうちに育ってきた「厚み」のせい。\n本書は、理学療法士として、からだの筋肉や骨に精通し、\n機能と姿勢の専門家である土屋元明先生が、\n医学的・科学的根拠に基づいて「厚み」の原因を突き止め、\nその解消法をお伝えする、日本ではじめての「厚み解消本」です。\n「厚み」の正体とは、「厚見え」と「脂肪浸潤」の２つ。\n姿勢から始まる厚みは、最終的には見た目の問題だけでなく、\n将来の筋力低下も招く、「早期に解決したいこと」とのこと。\nでも、原因がわかれば、解消できます。\n本書では、最初に厚みが気になり始める「ファースト厚み」として\nふけ山うなじ\n布団背中\n地滑り胸\n貫禄肩\nの４つを取り上げ、\n「厚みのリスクチェック」「横断マッサージ」「キープできる筋力をつける」\nのステップで、厚みを解消していきます。\n理学療法士・土屋元明先生が医学的・科学的根拠に基づいて解明した、\n日本ではじめての「厚み解消本」。\nこしいみほさんの楽しい漫画とともに、セルフケアをご紹介します。\n【目次より】\n・「厚く見えるワケ」は２つもあった！\n・若い頃より太っても痩せても、「厚み」に悩む人がいる\n・「厚見え」は普段の姿勢がまねいている！\n・「滑走不全」が肉塊のモト\n・滑走不全を改善するセルフケアで厚みが解消するワケ\n・筋肉の質が落ちると、脂肪が入り込む\n・筋肉の曲がり角は40歳！？\n・厚みと皮下脂肪はほぼ無関係！？\n・40代から、脂肪浸潤は誰でも起こりやすくなる\n",
-      "salesDate": "2026年07月01日",
-      "series": "",
-      "reviewAverage": 3,
-      "reviewCount": 2,
-      "genreId": "101909014",
-      "isbn": "4704763142085",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "からだの厚みを薄くする",
-        "author": "土屋元明/こしいみほ",
-        "score": 5,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 29
-          }
-        ],
-        "source": "combined",
-        "rank": 95,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "からだの厚みを薄くする",
-        "author": "土屋元明/こしいみほ",
-        "isbn": "",
-        "score": 151,
-        "sources": [
-          {
-            "source": "rakuten",
-            "label": "楽天ブックス",
-            "rank": 29
-          }
-        ],
-        "source": "combined",
-        "rank": 45
+        "rank": 36
       }
     },
     {
@@ -2560,8 +2052,7 @@
           }
         ],
         "source": "combined",
-        "rank": 77,
-        "originalTitle": "ちいかわ お友だちとのつき合いかた"
+        "rank": 72
       },
       "ranking": {
         "title": "ちいかわ お友だちとのつき合いかた",
@@ -2576,7 +2067,55 @@
           }
         ],
         "source": "combined",
-        "rank": 46
+        "rank": 37
+      }
+    },
+    {
+      "id": "7328131882900",
+      "title": "ファイナルファンタジー レゾナンス 公式コンプリートガイド＋設定資料集",
+      "author": "株式会社スクウェア・エニックス",
+      "publisher": "スクウェア・エニックス",
+      "price": 2860,
+      "url": "https://books.rakuten.co.jp/rk/17f5df453b59305687a1340273af1aa8/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5116/2000022155116.jpg?_ex=600x600",
+      "caption": "※この商品はPCモニター、タブレットなど大きいディスプレイでの閲覧を推奨しています。※\n主人公たちの技やビジョンの育て方を解説し、ストーリー進行チャートと各フィールド・町・ダンジョンのマップガイドも網羅。パーティ＆ビジョンのおすすめ編成や、行く手を阻む強敵の攻略法、弱点が一目でわかるエネミーデータなど、冒険の手助けとなる情報でエンディングまで徹底サポート！　キャラクターの立ち絵や未公開設定を掲載した設定資料に加え、開発チームへの特別インタビューも収録！\n(C) SQUARE ENIX\n",
+      "salesDate": "2026年10月22日",
+      "series": "",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101913004/101910007",
+      "isbn": "7328131882900",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ファイナルファンタジー レゾナンス 公式コンプリートガイド+設定資料集 (SE-MOOK)",
+        "author": "スクウェア・エニックス",
+        "isbn": "",
+        "score": 150,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 30
+          }
+        ],
+        "source": "combined",
+        "rank": 74,
+        "originalTitle": "ファイナルファンタジー レゾナンス 公式コンプリートガイド+設定資料集 (SE-MOOK)"
+      },
+      "ranking": {
+        "title": "ファイナルファンタジー レゾナンス 公式コンプリートガイド+設定資料集 (SE-MOOK)",
+        "author": "スクウェア・エニックス",
+        "isbn": "",
+        "score": 150,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 30
+          }
+        ],
+        "source": "combined",
+        "rank": 38
       }
     },
     {
@@ -2607,7 +2146,7 @@
           }
         ],
         "source": "combined",
-        "rank": 7,
+        "rank": 5,
         "originalTitle": ""
       },
       "ranking": {
@@ -2622,54 +2161,7 @@
           }
         ],
         "source": "combined",
-        "rank": 47,
-        "originalTitle": ""
-      }
-    },
-    {
-      "id": "4310000890409",
-      "title": "楽園",
-      "author": "夕木春央",
-      "publisher": "講談社",
-      "price": 1980,
-      "url": "https://books.rakuten.co.jp/rk/1a1c684dcee83b98b4d0187187c813d0/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1651/2000021221651.jpg?_ex=600x600",
-      "caption": "殺人犯にならなければ脱出できない。\n『方舟』『十戒』の著者が仕掛ける“禁忌の驚き”\n亡き両親から不動産を譲り受けた康之は、失踪した賃借人・海原の遺留品整理の際に、群馬の山奥の謎の物件の存在を知る。そこは、切り立った岩壁に囲まれた、「楽園」と呼ばれる奇妙な場所だった。恋人の沙織と一緒にそこを訪ね、探索をはじめた康之たちは、すぐに六人の“住人”に拿捕された。脱出のための条件はーー\n「誰か一人を殺さなければならない」\n『方舟』\n第19回オリコン上半期”本”ランキング　文庫ランキングTOP10 第1位\n週刊文春ミステリーベスト10　第1位　（「週刊文春」2022年12月8日号）国内部門\nMRC大賞2022　第1位\n『方舟』＋『十戒』の累計発行部数が100万部突破。\nーー夕木春央が描く、極限のクローズド・サークル。\n",
-      "salesDate": "2026年07月22日",
-      "series": "楽園",
-      "reviewAverage": 4.16,
-      "reviewCount": 518,
-      "genreId": "101902",
-      "isbn": "4310000890409",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "楽園",
-        "author": "夕木春央",
-        "score": 94,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
-          }
-        ],
-        "source": "combined",
-        "rank": 20,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "楽園",
-        "author": "夕木春央",
-        "score": 94,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
-          }
-        ],
-        "source": "combined",
-        "rank": 48,
+        "rank": 39,
         "originalTitle": ""
       }
     },
@@ -2701,7 +2193,7 @@
           }
         ],
         "source": "combined",
-        "rank": 24,
+        "rank": 19,
         "originalTitle": ""
       },
       "ranking": {
@@ -2716,7 +2208,7 @@
           }
         ],
         "source": "combined",
-        "rank": 49,
+        "rank": 40,
         "originalTitle": ""
       }
     },
@@ -2748,7 +2240,7 @@
           }
         ],
         "source": "combined",
-        "rank": 48,
+        "rank": 39,
         "originalTitle": ""
       },
       "ranking": {
@@ -2763,18 +2255,18 @@
           }
         ],
         "source": "combined",
-        "rank": 50,
+        "rank": 41,
         "originalTitle": ""
       }
     }
   ],
   "byGenre": {
     "fiction": [
-      "9784059242451",
       "4310000683989",
       "4340008067051",
       "4910000909001",
       "4910000884732",
+      "9784059242451",
       "4380000408030",
       "4390000005636",
       "4310000886199",
@@ -2789,8 +2281,7 @@
       "4390000005636",
       "4620000615075",
       "4620000615076",
-      "4480000944629",
-      "4310000890409"
+      "4480000944629"
     ],
     "sf": [],
     "business": [
@@ -2808,10 +2299,8 @@
       "4380000407898",
       "9784059242451",
       "1230007481703",
-      "4470887680000",
       "4380000408012",
-      "4390000014247",
-      "8910120537764"
+      "4390000014247"
     ],
     "nonfiction": [
       "4390000014247"
@@ -2828,14 +2317,14 @@
       "4380000407898",
       "9784651022659",
       "4910000958752",
-      "4334530000320",
       "1230007481703",
-      "4704763142085"
+      "4334530000320"
     ],
     "health": [],
     "hobby": [
       "4910000958752",
-      "4334530000320"
+      "4334530000320",
+      "7328131882900"
     ],
     "travel": [
       "1230007481703",
@@ -2853,11 +2342,7 @@
       "6681318746430"
     ],
     "comic": [
-      "4310000779045",
-      "4972000169895",
-      "4972000169889",
-      "4910000314258",
-      "4336405300320"
+      "4310000779045"
     ]
   },
   "genreStatus": {
@@ -2866,7 +2351,7 @@
       "complete": true
     },
     "mystery": {
-      "matched": 5,
+      "matched": 4,
       "complete": true
     },
     "sf": {
@@ -2878,7 +2363,7 @@
       "complete": true
     },
     "humanities": {
-      "matched": 7,
+      "matched": 5,
       "complete": true
     },
     "nonfiction": {
@@ -2894,7 +2379,7 @@
       "complete": true
     },
     "life": {
-      "matched": 6,
+      "matched": 5,
       "complete": true
     },
     "health": {
@@ -2902,7 +2387,7 @@
       "complete": true
     },
     "hobby": {
-      "matched": 2,
+      "matched": 3,
       "complete": true
     },
     "travel": {
@@ -2922,7 +2407,7 @@
       "complete": true
     },
     "comic": {
-      "matched": 5,
+      "matched": 1,
       "complete": true
     }
   }

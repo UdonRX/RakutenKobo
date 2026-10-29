@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-10-29T06:43:01.280Z",
+  "updatedAt": "2026-10-29T13:59:31.451Z",
   "candidateCount": 39,
-  "baseMatched": 20,
-  "matched": 23,
-  "addedMatches": 3,
+  "baseMatched": 18,
+  "matched": 22,
+  "addedMatches": 4,
   "unavailable": [],
   "snapshots": {
     "kinokuniya": {
@@ -25,6 +25,12 @@
           "author": "",
           "isbn": "",
           "rank": 2
+        },
+        {
+          "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
+          "author": "",
+          "isbn": "",
+          "rank": 3
         },
         {
           "title": "未だ本能寺にあり",
@@ -110,12 +116,6 @@
           "rank": 2
         },
         {
-          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-          "author": "",
-          "isbn": "",
-          "rank": 4
-        },
-        {
           "title": "ポケモン公式ぜんこく図鑑 1996-2026",
           "author": "",
           "isbn": "",
@@ -154,8 +154,8 @@
       "caption": "とっても寒い“ぶるぶるじま”にやってきたパンどろぼう。できたてのパンをふるまおうとパン作りをはじめますが、窯の扉をあけようとした、その瞬間・・・＼＼＼ボフーーーン／／／パンが作れずこまっているところへさっそうと現れたのは、いったい、誰ーーー？ほかほかのパンとあつあつのラーメンが織りなす、熱血ハートフルストーリー開幕！「パンどろぼう」シリーズ待望の第8弾！\n",
       "salesDate": "2026年09月16日",
       "series": "パンどろぼう",
-      "reviewAverage": 4,
-      "reviewCount": 5,
+      "reviewAverage": 4.17,
+      "reviewCount": 7,
       "genreId": "101916",
       "isbn": "4335396900320",
       "salesType": 0,
@@ -212,30 +212,30 @@
       "isbn": "4380000407898",
       "salesType": 0,
       "matchMeta": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-        "author": "林真理子",
-        "score": 94,
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 幻冬舎新書",
+        "author": "",
+        "score": 98,
         "sources": [
           {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 3
           }
         ],
         "source": "combined",
-        "rank": 8,
-        "originalTitle": ""
+        "rank": 7,
+        "originalTitle": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書"
       },
       "ranking": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
         "author": "",
         "isbn": "",
-        "score": 176,
+        "score": 177,
         "sources": [
           {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 3
           }
         ],
         "source": "combined",
@@ -338,53 +338,6 @@
       }
     },
     {
-      "id": "4660629612104",
-      "title": "イン・ザ・メガチャーチ",
-      "author": "朝井リョウ",
-      "publisher": "日経BP",
-      "price": 2200,
-      "url": "https://books.rakuten.co.jp/rk/d3fd58a999d73fbaaf1de480b1d262ba/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3254/2000018463254.jpg?_ex=600x600",
-      "caption": "☆2026年本屋大賞受賞☆\n【第9回未来屋小説大賞】\n【第2回あの本、読みました？大賞】\n沈みゆく列島で、“界隈”は沸騰するーー。\nあるアイドルグループの運営に参画することになった、家族と離れて暮らす男。内向的で繊細な気質ゆえ積み重なる心労を癒やしたい大学生。仲間と楽しく舞台俳優を応援していたが、とある報道で状況が一変する女。ファンダム経済を仕掛ける側、のめり込む側、かつてのめり込んでいた側ーー世代も立場も異なる３つの視点から、人の心を動かす“物語”の功罪を炙り出す。\n「神がいないこの国で人を操るには、“物語”を使うのが一番いいんですよ」\n",
-      "salesDate": "2025年09月03日",
-      "series": "",
-      "reviewAverage": 4.27,
-      "reviewCount": 3689,
-      "genreId": "101901",
-      "isbn": "4660629612104",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "イン・ザ・メガチャーチ",
-        "author": "朝井リョウ",
-        "score": 82,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 7
-          }
-        ],
-        "source": "combined",
-        "rank": 13,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "イン･ザ･メガチャーチ",
-        "author": "",
-        "isbn": "",
-        "score": 174,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 6
-          }
-        ],
-        "source": "combined",
-        "rank": 5
-      }
-    },
-    {
       "id": "4320000935695",
       "title": "探偵小石は戻らない",
       "author": "森バジル",
@@ -428,6 +381,54 @@
           }
         ],
         "source": "combined",
+        "rank": 5
+      }
+    },
+    {
+      "id": "4660629612104",
+      "title": "イン・ザ・メガチャーチ",
+      "author": "朝井リョウ",
+      "publisher": "日経BP",
+      "price": 2200,
+      "url": "https://books.rakuten.co.jp/rk/d3fd58a999d73fbaaf1de480b1d262ba/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3254/2000018463254.jpg?_ex=600x600",
+      "caption": "☆2026年本屋大賞受賞☆\n【第9回未来屋小説大賞】\n【第2回あの本、読みました？大賞】\n沈みゆく列島で、“界隈”は沸騰するーー。\nあるアイドルグループの運営に参画することになった、家族と離れて暮らす男。内向的で繊細な気質ゆえ積み重なる心労を癒やしたい大学生。仲間と楽しく舞台俳優を応援していたが、とある報道で状況が一変する女。ファンダム経済を仕掛ける側、のめり込む側、かつてのめり込んでいた側ーー世代も立場も異なる３つの視点から、人の心を動かす“物語”の功罪を炙り出す。\n「神がいないこの国で人を操るには、“物語”を使うのが一番いいんですよ」\n",
+      "salesDate": "2025年09月03日",
+      "series": "",
+      "reviewAverage": 4.28,
+      "reviewCount": 3747,
+      "genreId": "101901",
+      "isbn": "4660629612104",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "イン・ザ・メガチャーチ",
+        "author": "",
+        "isbn": "",
+        "score": 174,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 6
+          }
+        ],
+        "source": "combined",
+        "rank": 12,
+        "originalTitle": "イン･ザ･メガチャーチ"
+      },
+      "ranking": {
+        "title": "イン･ザ･メガチャーチ",
+        "author": "",
+        "isbn": "",
+        "score": 174,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 6
+          }
+        ],
+        "source": "combined",
         "rank": 6
       }
     },
@@ -443,7 +444,7 @@
       "salesDate": "2025年07月15日",
       "series": "汝、星のごとく",
       "reviewAverage": 4.39,
-      "reviewCount": 1672,
+      "reviewCount": 1755,
       "genreId": "101901",
       "isbn": "4310000683989",
       "salesType": 0,
@@ -867,7 +868,7 @@
       "salesDate": "2020年04月16日",
       "series": "パンどろぼう",
       "reviewAverage": 4.35,
-      "reviewCount": 134,
+      "reviewCount": 136,
       "genreId": "101916",
       "isbn": "4339134200300",
       "salesType": 0,
@@ -950,53 +951,6 @@
       }
     },
     {
-      "id": "4320000867368",
-      "title": "GOAT Summer 2026",
-      "author": "宮島未奈/尾崎世界観/山内マリコ/梨/麻布競馬場",
-      "publisher": "小学館",
-      "price": 506,
-      "url": "https://books.rakuten.co.jp/rk/f5b51183e72e30a7a80fcb62bd0705ba/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9590/2000020809590.jpg?_ex=600x600",
-      "caption": "大ヒット！話題沸騰の新文芸誌、第4号！\n〇特集「食」\n【小説】\n宮島未奈 尾崎世界観 山内マリコ 市川沙央 梨 麻布競馬場 山口未桜 前川知大 小田雅久仁 佐久間由衣 芦沢央 上條一輝 真下みこと 方丈貴恵 青柳碧人 中西智佐乃 三木三奈 村雲菜月\n【エッセイ】\n角田光代 酒徒 吉川トリコ\n【わたしの偏食 エッセイ】\n伊藤亜和 井上咲楽 けんた食堂 ジェーン・スー 絶対に終電を逃さない女 生湯葉シホ 福徳秀介 穂村弘 吉田恵里香 ヨシダナギ\n【食日記】\nでか美ちゃん\n【対談】\n山極壽一×平野紗季子\n藤原辰史×小林エリカ\n【自炊レッスン】\n山口祐加×ダ・ヴィンチ・恐山\n【私のGOAT本】\n宇多丸 宮部みゆき 山崎怜奈 米澤穂信\n【文学賞】\n第1回GO-mono長編文学賞 受賞作発表\n選考委員長:加藤シゲアキ\n【連載】\n藤ヶ谷太輔\n【ゴートアム短歌賞】\n俵万智×岸田繁\n【出せなかった手紙】\n荒井良二\n【ゴートくんがゆく！】\n印刷博物館編　インタビュー:京極夏彦館長\n【特集】『ファイア・ドーム』（辻村深月）\n他豪華企画多数！\n（底本　2026年6月発売作品）\n※底本綴じ込み付録の「ゴートくんのおべんとうしおり」は、電子書籍には含まれておりません。あらかじめご了承ください。\n※本電子書籍に掲載されている二次元バーコードは、端末の機種やアプリの仕様によっては読み取れない場合があります。その際はURLからアクセスしてください。\n※この作品はカラーが含まれます。\n",
-      "salesDate": "2026年06月10日",
-      "series": "GOAT",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101907015004/101907015001/101901002",
-      "isbn": "4320000867368",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "GOAT Summer 2026",
-        "author": "",
-        "score": 106,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 1
-          }
-        ],
-        "source": "combined",
-        "rank": 2,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "GOAT Summer 2026",
-        "author": "",
-        "score": 106,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 1
-          }
-        ],
-        "source": "combined",
-        "rank": 18,
-        "originalTitle": ""
-      }
-    },
-    {
       "id": "4320000865495",
       "title": "ファイア・ドーム 上",
       "author": "辻村深月",
@@ -1008,7 +962,7 @@
       "salesDate": "2026年06月05日",
       "series": "ファイア・ドーム",
       "reviewAverage": 4.56,
-      "reviewCount": 516,
+      "reviewCount": 543,
       "genreId": "101901/101902",
       "isbn": "4320000865495",
       "salesType": 0,
@@ -1039,7 +993,7 @@
           }
         ],
         "source": "combined",
-        "rank": 19,
+        "rank": 18,
         "originalTitle": ""
       }
     },
@@ -1054,8 +1008,8 @@
       "caption": "お前の家は、人殺しだ。\n真実を知っても、人は忘れていく。\n25年前の夏、この町には炎が降り注いだ。百貨店受付嬢誘拐殺人事件という、身近で突然起こった全国レベルのニュースを、誰もがいつまでも終わらせたくなかった。傷ついた人をさらに傷つけてしまった土地に、事件の火の粉は、まだ残っている。夏の日、写生遠足の帰りに姿を消した少年は無事に帰ってくるのか？　25年前の事件には、「まだ明かされていない」事実が本当にあるのか？\n「病気なんかで、死ねると思うな」ーー本文より\n",
       "salesDate": "2026年06月05日",
       "series": "ファイア・ドーム",
-      "reviewAverage": 4.61,
-      "reviewCount": 708,
+      "reviewAverage": 4.6,
+      "reviewCount": 749,
       "genreId": "101901/101902",
       "isbn": "4320000865494",
       "salesType": 0,
@@ -1086,7 +1040,7 @@
           }
         ],
         "source": "combined",
-        "rank": 20,
+        "rank": 19,
         "originalTitle": ""
       }
     },
@@ -1101,8 +1055,8 @@
       "caption": "一緒に生きる。わかりあえないあなたと。\n一番近くにいる他人ーこいびとー。どうして結婚はこんなに難しくなってしまったのだろう。\n『流浪の月』『汝、星のごとく』で二度の本屋大賞を受賞した著者が描く、今そこにある愛のかたち。\nセクシュアリティ/ジェンダー、金銭感覚、世代間格差、成育環境……\nあらゆる価値観の対立の中で現代を生きるわたしたちの祈りと叫び。\n【凪良ゆう　コメント】\n「文芸書としては『星を編む』から２年半、ようやく新刊をお届けできます。\n今作は結婚について。\n婚姻譚と銘打ちながらも、婚姻への道のりがはてしなく遠い!!　これは果たして婚姻譚と言えるのか、と担当さん達と首をかしげる場面もありました。\n読んでくださった方たちと”現代の結婚”について語り合ってみたいです。」\n【収録作　紹介】\n「Thank you for your understanding」\n家族の期待に応え、ついに恋人と帰省する決意を固めた華。\n「Beautiful Dreamer」\n結婚したい。ありふれた夢のはずなのに、東京ではこんなにも遠い。\n「小鳥たち」\n離婚して、実家の書店を継いだ一葉。そこに偶然、初恋の人がやって来てーー。\n「Position Talk」\n入籍を目前にした男女。性差を越え、個としてわかり合える日は来るのか。\n「C'est la vie」\n仕事も恋も、魂を分けあった二人。だが、夢のような時間にはいつか終わりが来る。\n",
       "salesDate": "2026年05月26日",
       "series": "多類婚姻譚",
-      "reviewAverage": 4.23,
-      "reviewCount": 665,
+      "reviewAverage": 4.24,
+      "reviewCount": 699,
       "genreId": "101901",
       "isbn": "4310000858457",
       "salesType": 0,
@@ -1133,7 +1087,7 @@
           }
         ],
         "source": "combined",
-        "rank": 21,
+        "rank": 20,
         "originalTitle": ""
       }
     },
@@ -1180,7 +1134,7 @@
           }
         ],
         "source": "combined",
-        "rank": 22,
+        "rank": 21,
         "originalTitle": ""
       }
     },
@@ -1227,7 +1181,7 @@
           }
         ],
         "source": "combined",
-        "rank": 23,
+        "rank": 22,
         "originalTitle": ""
       }
     }
@@ -1235,11 +1189,10 @@
   "byGenre": {
     "fiction": [
       "4380000408000",
-      "4660629612104",
       "4320000935695",
+      "4660629612104",
       "4310000683989",
       "4320000935691",
-      "4320000867368",
       "4320000865495",
       "4320000865494",
       "4310000858457"
@@ -1262,7 +1215,6 @@
       "4310000701877",
       "4380000408012",
       "4470887680000",
-      "4320000867368",
       "7225000866451"
     ],
     "nonfiction": [
@@ -1287,14 +1239,12 @@
       "4335396900320",
       "4339134200300"
     ],
-    "essay": [
-      "4320000867368"
-    ],
+    "essay": [],
     "comic": []
   },
   "genreStatus": {
     "fiction": {
-      "matched": 9,
+      "matched": 8,
       "complete": true
     },
     "mystery": {
@@ -1310,7 +1260,7 @@
       "complete": true
     },
     "humanities": {
-      "matched": 7,
+      "matched": 6,
       "complete": true
     },
     "nonfiction": {
@@ -1350,7 +1300,7 @@
       "complete": true
     },
     "essay": {
-      "matched": 1,
+      "matched": 0,
       "complete": true
     },
     "comic": {

@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-10-30T06:39:22.534Z",
+  "updatedAt": "2026-10-30T13:46:04.638Z",
   "candidateCount": 76,
   "baseMatched": 36,
-  "matched": 38,
-  "addedMatches": 2,
+  "matched": 40,
+  "addedMatches": 4,
   "unavailable": [
     "rakuten"
   ],
@@ -152,6 +152,12 @@
           "author": "東野圭吾",
           "isbn": "",
           "rank": 7
+        },
+        {
+          "title": "ブラッディダイスの殺人 上",
+          "author": "M・W・クレイヴン",
+          "isbn": "",
+          "rank": 9
         },
         {
           "title": "ブラッディダイスの殺人 下",
@@ -543,53 +549,6 @@
       }
     },
     {
-      "id": "4380000408073",
-      "title": "プレゼント",
-      "author": "吉本ばなな",
-      "publisher": "幻冬舎",
-      "price": 1672,
-      "url": "https://books.rakuten.co.jp/rk/6947b33c00d73dec9729b86b6e37f6c4/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1785/2000022051785.jpg?_ex=600x600",
-      "caption": "私の言葉はどこまであなたの孤独に届くのだろう。\n発表された「note」史上トップクラスの売り上げを叩き出した話題作。\n書き下ろし原稿「覚悟の味」が加わり、完結。\n「それでも、どうしても向いていないことというのはある。私にとってそれは、人の死を願うこと。それだけはどうしてもできない。命というものが好きだからだ。」（本文より）\n",
-      "salesDate": "2026年11月05日",
-      "series": "",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101907005003/101913",
-      "isbn": "4380000408073",
-      "salesType": 1,
-      "matchMeta": {
-        "title": "プレゼント",
-        "author": "伊坂幸太郎",
-        "score": 98,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 3
-          }
-        ],
-        "source": "combined",
-        "rank": 11,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "プレゼント",
-        "author": "伊坂幸太郎",
-        "isbn": "",
-        "score": 177,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 3
-          }
-        ],
-        "source": "combined",
-        "rank": 6
-      }
-    },
-    {
       "id": "4310000779045",
       "title": "汝、星のごとく（３）",
       "author": "凪良ゆう/古里こう",
@@ -629,6 +588,54 @@
           {
             "source": "amazon",
             "label": "Amazon",
+            "rank": 3
+          }
+        ],
+        "source": "combined",
+        "rank": 6
+      }
+    },
+    {
+      "id": "4340008067051",
+      "title": "プレゼント（新潮文庫）",
+      "author": "伊坂幸太郎/江國香織/恩田陸/梨木香歩/町田そのこ/宮部みゆき/米澤穂信",
+      "publisher": "新潮社",
+      "price": 825,
+      "url": "https://books.rakuten.co.jp/rk/e8a60fd88eb63075a76e50e52cf98712/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8962/2000020598962.jpg?_ex=600x600",
+      "caption": "これはこれまで小説を愛してきてくれた人へ、そしてこれから小説の世界に一歩踏み出す人へ贈るプレゼント。何気なく読んだ物語が、ふと目にした一行が、意外な言葉ひとつが、人生を大きく変えるかもしれない。現代を代表する７人の作家が「夏」をテーマに書き下ろした、驚きと切なさ、怖さと美しさ、何よりとびきりの面白さを詰め込んだ奇跡の一冊。さぁ、あなたの人生に小説という選択肢を。\n",
+      "salesDate": "2026年06月24日",
+      "series": "",
+      "reviewAverage": 3.86,
+      "reviewCount": 475,
+      "genreId": "101901",
+      "isbn": "4340008067051",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "プレゼント",
+        "author": "伊坂幸太郎",
+        "isbn": "",
+        "score": 177,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 3
+          }
+        ],
+        "source": "combined",
+        "rank": 13,
+        "originalTitle": "プレゼント"
+      },
+      "ranking": {
+        "title": "プレゼント",
+        "author": "伊坂幸太郎",
+        "isbn": "",
+        "score": 177,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
             "rank": 3
           }
         ],
@@ -841,7 +848,7 @@
       "isbn": "4479234040000",
       "salesType": 0,
       "matchMeta": {
-        "title": "NHK大河ドラマ･ガイド 豊臣兄弟! 完結編",
+        "title": "NHK大河ドラマ・ガイド 豊臣兄弟! 完結編",
         "author": "",
         "isbn": "",
         "score": 172,
@@ -853,7 +860,8 @@
           }
         ],
         "source": "combined",
-        "rank": 31
+        "rank": 31,
+        "originalTitle": "NHK大河ドラマ･ガイド 豊臣兄弟! 完結編"
       },
       "ranking": {
         "title": "NHK大河ドラマ･ガイド 豊臣兄弟! 完結編",
@@ -919,46 +927,46 @@
       }
     },
     {
-      "id": "4620000615076",
-      "title": "ブラッディダイスの殺人　下",
+      "id": "4620000615075",
+      "title": "ブラッディダイスの殺人　上",
       "author": "Ｍ Ｗ クレイヴン",
       "publisher": "早川書房",
       "price": 1210,
-      "url": "https://books.rakuten.co.jp/rk/eea149cbab90347eb70bdd38623e4df0/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9727/2000021429727.jpg?_ex=600x600",
+      "url": "https://books.rakuten.co.jp/rk/91ea3c43631d345d8bb867055aba005f/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9728/2000021429728.jpg?_ex=600x600",
       "caption": "ポーとティリーが再びタッグを組む！　シリーズ累計30万部の最新作！\n英国全土で連続狙撃事件が発生。犠牲者は17人にのぼるも犯人の手がかりはなく、ポーとティリーは国家犯罪対策庁に呼び戻されるが\n",
       "salesDate": "2026年08月19日",
       "series": "ワシントン・ポー",
-      "reviewAverage": 4.56,
-      "reviewCount": 52,
+      "reviewAverage": 4.33,
+      "reviewCount": 33,
       "genreId": "101902",
-      "isbn": "4620000615076",
+      "isbn": "4620000615075",
       "salesType": 0,
       "matchMeta": {
-        "title": "ブラッディダイスの殺人 下",
+        "title": "ブラッディダイスの殺人 上",
         "author": "M・W・クレイヴン",
-        "score": 70,
+        "score": 74,
         "sources": [
           {
             "source": "maruzen",
             "label": "丸善ジュンク堂",
-            "rank": 10
+            "rank": 9
           }
         ],
         "source": "combined",
-        "rank": 36,
+        "rank": 33,
         "originalTitle": ""
       },
       "ranking": {
-        "title": "ブラッディダイスの殺人 下",
+        "title": "ブラッディダイスの殺人 上",
         "author": "M・W・クレイヴン",
         "isbn": "",
-        "score": 170,
+        "score": 171,
         "sources": [
           {
             "source": "maruzen",
             "label": "丸善ジュンク堂",
-            "rank": 10
+            "rank": 9
           }
         ],
         "source": "combined",
@@ -1013,6 +1021,53 @@
       }
     },
     {
+      "id": "4620000615076",
+      "title": "ブラッディダイスの殺人　下",
+      "author": "Ｍ Ｗ クレイヴン",
+      "publisher": "早川書房",
+      "price": 1210,
+      "url": "https://books.rakuten.co.jp/rk/eea149cbab90347eb70bdd38623e4df0/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9727/2000021429727.jpg?_ex=600x600",
+      "caption": "ポーとティリーが再びタッグを組む！　シリーズ累計30万部の最新作！\n英国全土で連続狙撃事件が発生。犠牲者は17人にのぼるも犯人の手がかりはなく、ポーとティリーは国家犯罪対策庁に呼び戻されるが\n",
+      "salesDate": "2026年08月19日",
+      "series": "ワシントン・ポー",
+      "reviewAverage": 4.56,
+      "reviewCount": 52,
+      "genreId": "101902",
+      "isbn": "4620000615076",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ブラッディダイスの殺人 下",
+        "author": "M・W・クレイヴン",
+        "score": 70,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 36,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "ブラッディダイスの殺人 下",
+        "author": "M・W・クレイヴン",
+        "isbn": "",
+        "score": 170,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 16
+      }
+    },
+    {
       "id": "4336594000320",
       "title": "ようこそ実力至上主義の教室へ　３年生編５",
       "author": "衣笠彰梧/トモセシュンサク",
@@ -1056,7 +1111,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16
+        "rank": 17
       }
     },
     {
@@ -1103,7 +1158,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17
+        "rank": 18
       }
     },
     {
@@ -1147,53 +1202,6 @@
             "source": "tohan",
             "label": "トーハン",
             "rank": 12
-          }
-        ],
-        "source": "combined",
-        "rank": 18
-      }
-    },
-    {
-      "id": "4335254300320",
-      "title": "海辺のエール",
-      "author": "青山　美智子",
-      "publisher": "KADOKAWA",
-      "price": 2310,
-      "url": "https://books.rakuten.co.jp/rk/fb6c8adb24193179bba4b3bbe83c9e88/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5926/2000021955926.jpg?_ex=600x600",
-      "caption": "江ノ電の小さな駅、十六夜駅。鎌倉駅からほど近く、閑静な住宅街にあるその駅には、一人の駅員と一羽の九官鳥「ハッチ」がいた。乗客たちの声を聞き、また別の乗客にその言葉を放つハッチは駅の人気者だ。十六夜駅には、日々、様々な挫折や苦悩を抱えた人々が訪れる。人生の折り返し地点で将来に不安を抱くフリーランスの男性、恋人との手痛い失恋に打ちひしがれる女性、怪我で休みを余儀なくされたバスケットボール選手、50代の今も現役でストリップの舞台に立つ踊り子、周囲に馴染めずピアノが生きるよりどころとなっている女子高校生……。そんな彼らに届くハッチの“言葉”は、誰がどんな想いで発したのか分からないまま、前を向くきっかけをくれる。生きづらさを抱えたすべての人にエールを贈る、感動の物語！\n",
-      "salesDate": "2026年10月19日",
-      "series": "海辺のエール",
-      "reviewAverage": 4.44,
-      "reviewCount": 10,
-      "genreId": "101901001",
-      "isbn": "4335254300320",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "海辺のエール",
-        "author": "",
-        "score": 58,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 13
-          }
-        ],
-        "source": "combined",
-        "rank": 43,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "海辺のエール",
-        "author": "",
-        "isbn": "",
-        "score": 167,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 13
           }
         ],
         "source": "combined",
@@ -1248,6 +1256,53 @@
       }
     },
     {
+      "id": "4335254300320",
+      "title": "海辺のエール",
+      "author": "青山　美智子",
+      "publisher": "KADOKAWA",
+      "price": 2310,
+      "url": "https://books.rakuten.co.jp/rk/fb6c8adb24193179bba4b3bbe83c9e88/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5926/2000021955926.jpg?_ex=600x600",
+      "caption": "江ノ電の小さな駅、十六夜駅。鎌倉駅からほど近く、閑静な住宅街にあるその駅には、一人の駅員と一羽の九官鳥「ハッチ」がいた。乗客たちの声を聞き、また別の乗客にその言葉を放つハッチは駅の人気者だ。十六夜駅には、日々、様々な挫折や苦悩を抱えた人々が訪れる。人生の折り返し地点で将来に不安を抱くフリーランスの男性、恋人との手痛い失恋に打ちひしがれる女性、怪我で休みを余儀なくされたバスケットボール選手、50代の今も現役でストリップの舞台に立つ踊り子、周囲に馴染めずピアノが生きるよりどころとなっている女子高校生……。そんな彼らに届くハッチの“言葉”は、誰がどんな想いで発したのか分からないまま、前を向くきっかけをくれる。生きづらさを抱えたすべての人にエールを贈る、感動の物語！\n",
+      "salesDate": "2026年10月19日",
+      "series": "海辺のエール",
+      "reviewAverage": 4.44,
+      "reviewCount": 10,
+      "genreId": "101901001",
+      "isbn": "4335254300320",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "海辺のエール",
+        "author": "",
+        "score": 58,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 13
+          }
+        ],
+        "source": "combined",
+        "rank": 43,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "海辺のエール",
+        "author": "",
+        "isbn": "",
+        "score": 167,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 13
+          }
+        ],
+        "source": "combined",
+        "rank": 21
+      }
+    },
+    {
       "id": "4910000884732",
       "title": "手紙屋 蛍雪篇 〜私の受験勉強を変えた十通の手紙〜 ジュニア版",
       "author": "喜多川泰",
@@ -1291,7 +1346,7 @@
           }
         ],
         "source": "combined",
-        "rank": 21
+        "rank": 22
       }
     },
     {
@@ -1338,7 +1393,7 @@
           }
         ],
         "source": "combined",
-        "rank": 22
+        "rank": 23
       }
     },
     {
@@ -1385,7 +1440,7 @@
           }
         ],
         "source": "combined",
-        "rank": 23
+        "rank": 24
       }
     },
     {
@@ -1432,7 +1487,7 @@
           }
         ],
         "source": "combined",
-        "rank": 24
+        "rank": 25
       }
     },
     {
@@ -1479,7 +1534,7 @@
           }
         ],
         "source": "combined",
-        "rank": 25
+        "rank": 26
       }
     },
     {
@@ -1526,7 +1581,7 @@
           }
         ],
         "source": "combined",
-        "rank": 26
+        "rank": 27
       }
     },
     {
@@ -1573,7 +1628,7 @@
           }
         ],
         "source": "combined",
-        "rank": 27
+        "rank": 28
       }
     },
     {
@@ -1620,7 +1675,7 @@
           }
         ],
         "source": "combined",
-        "rank": 28
+        "rank": 29
       }
     },
     {
@@ -1667,7 +1722,7 @@
           }
         ],
         "source": "combined",
-        "rank": 29
+        "rank": 30
       }
     },
     {
@@ -1714,7 +1769,7 @@
           }
         ],
         "source": "combined",
-        "rank": 30
+        "rank": 31
       }
     },
     {
@@ -1761,7 +1816,7 @@
           }
         ],
         "source": "combined",
-        "rank": 31
+        "rank": 32
       }
     },
     {
@@ -1808,7 +1863,7 @@
           }
         ],
         "source": "combined",
-        "rank": 32
+        "rank": 33
       }
     },
     {
@@ -1852,53 +1907,6 @@
             "source": "amazon",
             "label": "Amazon",
             "rank": 28
-          }
-        ],
-        "source": "combined",
-        "rank": 33
-      }
-    },
-    {
-      "id": "9784059200208",
-      "title": "中学英語をもう一度ひとつひとつわかりやすく。改訂版",
-      "author": "山田暢彦",
-      "publisher": "Gakken",
-      "price": 2750,
-      "url": "https://books.rakuten.co.jp/rk/9cb800a28b693c02bc3c7c425c8b23c9/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0886/2000010850886.jpg?_ex=600x600",
-      "caption": "大人気参考書「ひとつひとつわかりやすく」3冊を再構成した中学英語学び直し本。やさしい解説と豊富な練習問題で，英文法の知識と英語の感覚が同時に身につく。大人向けの追加情報や音声学習コンテンツも充実。全英文収録の音読CD2枚つき。スマホ再生対応\n※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字列のハイライトや検索、辞書の参照、引用などの機能が使用できません。\n",
-      "salesDate": "2022年03月08日",
-      "series": "",
-      "reviewAverage": 4.38,
-      "reviewCount": 14,
-      "genreId": "101906001009",
-      "isbn": "9784059200208",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "中学英語をもう一度ひとつひとつわかりやすく。改訂版",
-        "author": "山田暢彦",
-        "score": 5,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 30
-          }
-        ],
-        "source": "combined",
-        "rank": 77,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "中学英語をもう一度ひとつひとつわかりやすく。改訂版",
-        "author": "山田暢彦",
-        "isbn": "",
-        "score": 150,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 30
           }
         ],
         "source": "combined",
@@ -1953,6 +1961,54 @@
       }
     },
     {
+      "id": "9784059200208",
+      "title": "中学英語をもう一度ひとつひとつわかりやすく。改訂版",
+      "author": "山田暢彦",
+      "publisher": "Gakken",
+      "price": 2750,
+      "url": "https://books.rakuten.co.jp/rk/9cb800a28b693c02bc3c7c425c8b23c9/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0886/2000010850886.jpg?_ex=600x600",
+      "caption": "大人気参考書「ひとつひとつわかりやすく」3冊を再構成した中学英語学び直し本。やさしい解説と豊富な練習問題で，英文法の知識と英語の感覚が同時に身につく。大人向けの追加情報や音声学習コンテンツも充実。全英文収録の音読CD2枚つき。スマホ再生対応\n※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字列のハイライトや検索、辞書の参照、引用などの機能が使用できません。\n",
+      "salesDate": "2022年03月08日",
+      "series": "",
+      "reviewAverage": 4.38,
+      "reviewCount": 14,
+      "genreId": "101906001009",
+      "isbn": "9784059200208",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "中学英語をもう一度ひとつひとつわかりやすく。改訂版",
+        "author": "山田暢彦",
+        "isbn": "",
+        "score": 150,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 30
+          }
+        ],
+        "source": "combined",
+        "rank": 75,
+        "originalTitle": "中学英語をもう一度ひとつひとつわかりやすく。改訂版"
+      },
+      "ranking": {
+        "title": "中学英語をもう一度ひとつひとつわかりやすく。改訂版",
+        "author": "山田暢彦",
+        "isbn": "",
+        "score": 150,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 30
+          }
+        ],
+        "source": "combined",
+        "rank": 36
+      }
+    },
+    {
       "id": "6681311679960",
       "title": "つかめ！理科ダマン 12 最強ロボット決戦！編",
       "author": "シン・テフン/ナ・スンフン/呉華順",
@@ -1995,7 +2051,54 @@
           }
         ],
         "source": "combined",
-        "rank": 36,
+        "rank": 37,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "4310000890409",
+      "title": "楽園",
+      "author": "夕木春央",
+      "publisher": "講談社",
+      "price": 1980,
+      "url": "https://books.rakuten.co.jp/rk/1a1c684dcee83b98b4d0187187c813d0/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1651/2000021221651.jpg?_ex=600x600",
+      "caption": "殺人犯にならなければ脱出できない。\n『方舟』『十戒』の著者が仕掛ける“禁忌の驚き”\n亡き両親から不動産を譲り受けた康之は、失踪した賃借人・海原の遺留品整理の際に、群馬の山奥の謎の物件の存在を知る。そこは、切り立った岩壁に囲まれた、「楽園」と呼ばれる奇妙な場所だった。恋人の沙織と一緒にそこを訪ね、探索をはじめた康之たちは、すぐに六人の“住人”に拿捕された。脱出のための条件はーー\n「誰か一人を殺さなければならない」\n『方舟』\n第19回オリコン上半期”本”ランキング　文庫ランキングTOP10 第1位\n週刊文春ミステリーベスト10　第1位　（「週刊文春」2022年12月8日号）国内部門\nMRC大賞2022　第1位\n『方舟』＋『十戒』の累計発行部数が100万部突破。\nーー夕木春央が描く、極限のクローズド・サークル。\n",
+      "salesDate": "2026年07月22日",
+      "series": "楽園",
+      "reviewAverage": 4.16,
+      "reviewCount": 557,
+      "genreId": "101902",
+      "isbn": "4310000890409",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "楽園",
+        "author": "夕木春央",
+        "score": 94,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
+          }
+        ],
+        "source": "combined",
+        "rank": 14,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "楽園",
+        "author": "夕木春央",
+        "score": 94,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
+          }
+        ],
+        "source": "combined",
+        "rank": 38,
         "originalTitle": ""
       }
     },
@@ -2042,7 +2145,7 @@
           }
         ],
         "source": "combined",
-        "rank": 37,
+        "rank": 39,
         "originalTitle": ""
       }
     },
@@ -2089,7 +2192,7 @@
           }
         ],
         "source": "combined",
-        "rank": 38,
+        "rank": 40,
         "originalTitle": ""
       }
     }
@@ -2098,11 +2201,12 @@
     "fiction": [
       "9784059242451",
       "4310000683989",
+      "4340008067051",
       "4910000909001",
       "4390000005636",
       "4380000408030",
-      "4335254300320",
       "4332254800300",
+      "4335254300320",
       "4910000884732",
       "4310000886199",
       "4480000944629",
@@ -2111,8 +2215,10 @@
     ],
     "mystery": [
       "4390000005636",
+      "4620000615075",
       "4620000615076",
-      "4480000944629"
+      "4480000944629",
+      "4310000890409"
     ],
     "sf": [],
     "business": [
@@ -2125,7 +2231,6 @@
     "humanities": [
       "4380000407898",
       "9784059242451",
-      "4380000408073",
       "4470887680000",
       "8910120537764",
       "4390000014247",
@@ -2170,11 +2275,11 @@
   },
   "genreStatus": {
     "fiction": {
-      "matched": 12,
+      "matched": 13,
       "complete": true
     },
     "mystery": {
-      "matched": 3,
+      "matched": 5,
       "complete": true
     },
     "sf": {
@@ -2186,7 +2291,7 @@
       "complete": true
     },
     "humanities": {
-      "matched": 7,
+      "matched": 6,
       "complete": true
     },
     "nonfiction": {

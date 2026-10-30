@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-10-30T06:39:36.205Z",
+  "updatedAt": "2026-10-30T13:46:19.048Z",
   "candidateCount": 39,
-  "baseMatched": 19,
+  "baseMatched": 20,
   "matched": 23,
-  "addedMatches": 4,
+  "addedMatches": 3,
   "unavailable": [],
   "snapshots": {
     "kinokuniya": {
@@ -25,12 +25,6 @@
           "author": "",
           "isbn": "",
           "rank": 2
-        },
-        {
-          "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
-          "author": "",
-          "isbn": "",
-          "rank": 3
         },
         {
           "title": "汝、星のごとく",
@@ -114,6 +108,12 @@
           "author": "",
           "isbn": "",
           "rank": 2
+        },
+        {
+          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+          "author": "",
+          "isbn": "",
+          "rank": 4
         },
         {
           "title": "ポケモン公式ぜんこく図鑑 1996-2026",
@@ -212,30 +212,30 @@
       "isbn": "4380000407898",
       "salesType": 0,
       "matchMeta": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 幻冬舎新書",
-        "author": "",
-        "score": 98,
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "author": "林真理子",
+        "score": 94,
         "sources": [
           {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 3
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
           }
         ],
         "source": "combined",
-        "rank": 7,
-        "originalTitle": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書"
+        "rank": 8,
+        "originalTitle": ""
       },
       "ranking": {
-        "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
         "author": "",
         "isbn": "",
-        "score": 177,
+        "score": 176,
         "sources": [
           {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 3
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
           }
         ],
         "source": "combined",
@@ -318,7 +318,8 @@
           }
         ],
         "source": "combined",
-        "rank": 10
+        "rank": 10,
+        "originalTitle": "ポケモン公式ぜんこく図鑑 1996-2026"
       },
       "ranking": {
         "title": "ポケモン公式ぜんこく図鑑 1996-2026",
@@ -402,8 +403,7 @@
       "matchMeta": {
         "title": "探偵小石は戻らない",
         "author": "",
-        "isbn": "",
-        "score": 174,
+        "score": 86,
         "sources": [
           {
             "source": "kinokuniya",
@@ -412,8 +412,8 @@
           }
         ],
         "source": "combined",
-        "rank": 11,
-        "originalTitle": "探偵小石は戻らない"
+        "rank": 12,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "探偵小石は戻らない",

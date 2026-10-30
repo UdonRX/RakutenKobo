@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-10-30T13:46:04.638Z",
+  "updatedAt": "2026-10-30T22:49:27.189Z",
   "candidateCount": 76,
-  "baseMatched": 36,
-  "matched": 40,
-  "addedMatches": 4,
+  "baseMatched": 32,
+  "matched": 39,
+  "addedMatches": 7,
   "unavailable": [
     "rakuten"
   ],
@@ -549,6 +549,53 @@
       }
     },
     {
+      "id": "4380000408073",
+      "title": "プレゼント",
+      "author": "吉本ばなな",
+      "publisher": "幻冬舎",
+      "price": 1672,
+      "url": "https://books.rakuten.co.jp/rk/6947b33c00d73dec9729b86b6e37f6c4/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1785/2000022051785.jpg?_ex=600x600",
+      "caption": "私の言葉はどこまであなたの孤独に届くのだろう。\n発表された「note」史上トップクラスの売り上げを叩き出した話題作。\n書き下ろし原稿「覚悟の味」が加わり、完結。\n「それでも、どうしても向いていないことというのはある。私にとってそれは、人の死を願うこと。それだけはどうしてもできない。命というものが好きだからだ。」（本文より）\n",
+      "salesDate": "2026年11月05日",
+      "series": "",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101907005003/101913",
+      "isbn": "4380000408073",
+      "salesType": 1,
+      "matchMeta": {
+        "title": "プレゼント",
+        "author": "伊坂幸太郎",
+        "score": 98,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 3
+          }
+        ],
+        "source": "combined",
+        "rank": 11,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "プレゼント",
+        "author": "伊坂幸太郎",
+        "isbn": "",
+        "score": 177,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 3
+          }
+        ],
+        "source": "combined",
+        "rank": 6
+      }
+    },
+    {
       "id": "4310000779045",
       "title": "汝、星のごとく（３）",
       "author": "凪良ゆう/古里こう",
@@ -588,54 +635,6 @@
           {
             "source": "amazon",
             "label": "Amazon",
-            "rank": 3
-          }
-        ],
-        "source": "combined",
-        "rank": 6
-      }
-    },
-    {
-      "id": "4340008067051",
-      "title": "プレゼント（新潮文庫）",
-      "author": "伊坂幸太郎/江國香織/恩田陸/梨木香歩/町田そのこ/宮部みゆき/米澤穂信",
-      "publisher": "新潮社",
-      "price": 825,
-      "url": "https://books.rakuten.co.jp/rk/e8a60fd88eb63075a76e50e52cf98712/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8962/2000020598962.jpg?_ex=600x600",
-      "caption": "これはこれまで小説を愛してきてくれた人へ、そしてこれから小説の世界に一歩踏み出す人へ贈るプレゼント。何気なく読んだ物語が、ふと目にした一行が、意外な言葉ひとつが、人生を大きく変えるかもしれない。現代を代表する７人の作家が「夏」をテーマに書き下ろした、驚きと切なさ、怖さと美しさ、何よりとびきりの面白さを詰め込んだ奇跡の一冊。さぁ、あなたの人生に小説という選択肢を。\n",
-      "salesDate": "2026年06月24日",
-      "series": "",
-      "reviewAverage": 3.86,
-      "reviewCount": 475,
-      "genreId": "101901",
-      "isbn": "4340008067051",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "プレゼント",
-        "author": "伊坂幸太郎",
-        "isbn": "",
-        "score": 177,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 3
-          }
-        ],
-        "source": "combined",
-        "rank": 13,
-        "originalTitle": "プレゼント"
-      },
-      "ranking": {
-        "title": "プレゼント",
-        "author": "伊坂幸太郎",
-        "isbn": "",
-        "score": 177,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
             "rank": 3
           }
         ],
@@ -848,7 +847,7 @@
       "isbn": "4479234040000",
       "salesType": 0,
       "matchMeta": {
-        "title": "NHK大河ドラマ・ガイド 豊臣兄弟! 完結編",
+        "title": "NHK大河ドラマ･ガイド 豊臣兄弟! 完結編",
         "author": "",
         "isbn": "",
         "score": 172,
@@ -860,8 +859,7 @@
           }
         ],
         "source": "combined",
-        "rank": 31,
-        "originalTitle": "NHK大河ドラマ･ガイド 豊臣兄弟! 完結編"
+        "rank": 31
       },
       "ranking": {
         "title": "NHK大河ドラマ･ガイド 豊臣兄弟! 完結編",
@@ -974,53 +972,6 @@
       }
     },
     {
-      "id": "4334530000320",
-      "title": "その「違和感」、大正解です　運気の波を読みチャンスに変える！",
-      "author": "秦　明日香",
-      "publisher": "KADOKAWA",
-      "price": 2090,
-      "url": "https://books.rakuten.co.jp/rk/5405c75775763ff2b48456ddcbeabee8/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0496/2000021790496.jpg?_ex=600x600",
-      "caption": "著名人など総鑑定数3万人超え！借金1000万＆余命宣告から年商8000万へ大逆転した著者が教える、 九星気学 × 宇宙の真理が導き出した最強の法則！「本来の自分」に戻り、最速で豊かになる方法です。「頑張っているのに報われない」「本当は嫌なのに断れない」……。そのモヤモヤ、実はあなたの人生を劇的に好転させる最高のサインです！虐待、離婚、1000万円の借金、がん宣告、極貧生活……。幾度ものどん底を経験した著者を救ったのは、自分の中に湧き上がる小さな「違和感」でした。 これまでの時代は、「我慢する」「周囲に合わせる」といった外側の正解に従う生き方が評価されてきました。しかし、2028年に向けて社会のシステムや価値観は崩れ、これまでの当たり前が通用しなくなっていきます。これからの激変する時代を軽やかに生き抜く唯一の羅針盤、それがあなたの身体が発する「違和感（違和感力）」です。本書では、東洋の智慧「九星気学」をベースに、自分の本質や才能の活かし方、お金の思い込み（前提）を書き換える「逆張り金運アップ術」、日常で使える３０の処方箋や開運アクション、恵方参りまでを徹底解説！「自分以外の誰か」になろうとする必要はありません。あなたの中に眠る最強のセンサーを呼び覚まし、本来の主役の座へと戻りましょう！【コンテンツ】第1章 大変革期・2028年に備えて「違和感力」を磨く第2章 どん底から脱出！「違和感」で人生を激変させる第3章 九星気学で紐解く「本来の自分」と「違和感のサイン」第4章 お金の「違和感」を解消し、最短で豊かさを循環させる第5章 人生を激変させる！「違和感」を幸運に変える実践ワーク\n",
-      "salesDate": "2026年10月02日",
-      "series": "その「違和感」、大正解です　運気の波を読みチャンスに変える！",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101910010/101909",
-      "isbn": "4334530000320",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "その「違和感」、大正解です 運気の波を読みチャンスに変える!",
-        "author": "",
-        "score": 70,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 38,
-        "originalTitle": "その「違和感」、大正解です　運気の波を読みチャンスに変える！"
-      },
-      "ranking": {
-        "title": "その「違和感」、大正解です 運気の波を読みチャンスに変える！",
-        "author": "",
-        "isbn": "",
-        "score": 170,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 15
-      }
-    },
-    {
       "id": "4620000615076",
       "title": "ブラッディダイスの殺人　下",
       "author": "Ｍ Ｗ クレイヴン",
@@ -1060,6 +1011,53 @@
           {
             "source": "maruzen",
             "label": "丸善ジュンク堂",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 15
+      }
+    },
+    {
+      "id": "4334530000320",
+      "title": "その「違和感」、大正解です　運気の波を読みチャンスに変える！",
+      "author": "秦　明日香",
+      "publisher": "KADOKAWA",
+      "price": 2090,
+      "url": "https://books.rakuten.co.jp/rk/5405c75775763ff2b48456ddcbeabee8/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0496/2000021790496.jpg?_ex=600x600",
+      "caption": "著名人など総鑑定数3万人超え！借金1000万＆余命宣告から年商8000万へ大逆転した著者が教える、 九星気学 × 宇宙の真理が導き出した最強の法則！「本来の自分」に戻り、最速で豊かになる方法です。「頑張っているのに報われない」「本当は嫌なのに断れない」……。そのモヤモヤ、実はあなたの人生を劇的に好転させる最高のサインです！虐待、離婚、1000万円の借金、がん宣告、極貧生活……。幾度ものどん底を経験した著者を救ったのは、自分の中に湧き上がる小さな「違和感」でした。 これまでの時代は、「我慢する」「周囲に合わせる」といった外側の正解に従う生き方が評価されてきました。しかし、2028年に向けて社会のシステムや価値観は崩れ、これまでの当たり前が通用しなくなっていきます。これからの激変する時代を軽やかに生き抜く唯一の羅針盤、それがあなたの身体が発する「違和感（違和感力）」です。本書では、東洋の智慧「九星気学」をベースに、自分の本質や才能の活かし方、お金の思い込み（前提）を書き換える「逆張り金運アップ術」、日常で使える３０の処方箋や開運アクション、恵方参りまでを徹底解説！「自分以外の誰か」になろうとする必要はありません。あなたの中に眠る最強のセンサーを呼び覚まし、本来の主役の座へと戻りましょう！【コンテンツ】第1章 大変革期・2028年に備えて「違和感力」を磨く第2章 どん底から脱出！「違和感」で人生を激変させる第3章 九星気学で紐解く「本来の自分」と「違和感のサイン」第4章 お金の「違和感」を解消し、最短で豊かさを循環させる第5章 人生を激変させる！「違和感」を幸運に変える実践ワーク\n",
+      "salesDate": "2026年10月02日",
+      "series": "その「違和感」、大正解です　運気の波を読みチャンスに変える！",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101910010/101909",
+      "isbn": "4334530000320",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "その「違和感」、大正解です 運気の波を読みチャンスに変える!",
+        "author": "",
+        "score": 70,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 38,
+        "originalTitle": "その「違和感」、大正解です　運気の波を読みチャンスに変える！"
+      },
+      "ranking": {
+        "title": "その「違和感」、大正解です 運気の波を読みチャンスに変える！",
+        "author": "",
+        "isbn": "",
+        "score": 170,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
             "rank": 10
           }
         ],
@@ -1190,7 +1188,8 @@
           }
         ],
         "source": "combined",
-        "rank": 42
+        "rank": 42,
+        "originalTitle": "FOR OVERSEAS"
       },
       "ranking": {
         "title": "FOR OVERSEAS",
@@ -1206,53 +1205,6 @@
         ],
         "source": "combined",
         "rank": 19
-      }
-    },
-    {
-      "id": "4332254800300",
-      "title": "生きて行く私",
-      "author": "宇野　千代",
-      "publisher": "KADOKAWA",
-      "price": 803,
-      "url": "https://books.rakuten.co.jp/rk/57ee814194de3067a25639b09853eeb5/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9474/2000003109474.jpg?_ex=600x600",
-      "caption": "山口県岩国の生家と父母、小学校代用教員の時の恋と初体験、いとことの結婚、新聞懸賞小説の入選、尾崎士郎との出会いと同棲、東郷青児、北原武夫とつづく愛の遍歴……数えて百歳。感動を呼ぶ大河自伝。\n",
-      "salesDate": "2015年05月21日",
-      "series": "",
-      "reviewAverage": 3.97,
-      "reviewCount": 37,
-      "genreId": "101901001",
-      "isbn": "4332254800300",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "生きて行く私",
-        "author": "宇野 千代",
-        "score": 58,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 13
-          }
-        ],
-        "source": "combined",
-        "rank": 44,
-        "originalTitle": "生きて行く私 (角川文庫)"
-      },
-      "ranking": {
-        "title": "生きて行く私 (角川文庫)",
-        "author": "宇野 千代",
-        "isbn": "",
-        "score": 167,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 13
-          }
-        ],
-        "source": "combined",
-        "rank": 20
       }
     },
     {
@@ -1299,6 +1251,53 @@
           }
         ],
         "source": "combined",
+        "rank": 20
+      }
+    },
+    {
+      "id": "4332254800300",
+      "title": "生きて行く私",
+      "author": "宇野　千代",
+      "publisher": "KADOKAWA",
+      "price": 803,
+      "url": "https://books.rakuten.co.jp/rk/57ee814194de3067a25639b09853eeb5/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9474/2000003109474.jpg?_ex=600x600",
+      "caption": "山口県岩国の生家と父母、小学校代用教員の時の恋と初体験、いとことの結婚、新聞懸賞小説の入選、尾崎士郎との出会いと同棲、東郷青児、北原武夫とつづく愛の遍歴……数えて百歳。感動を呼ぶ大河自伝。\n",
+      "salesDate": "2015年05月21日",
+      "series": "",
+      "reviewAverage": 3.97,
+      "reviewCount": 37,
+      "genreId": "101901001",
+      "isbn": "4332254800300",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "生きて行く私",
+        "author": "宇野 千代",
+        "score": 58,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 13
+          }
+        ],
+        "source": "combined",
+        "rank": 44,
+        "originalTitle": "生きて行く私 (角川文庫)"
+      },
+      "ranking": {
+        "title": "生きて行く私 (角川文庫)",
+        "author": "宇野 千代",
+        "isbn": "",
+        "score": 167,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 13
+          }
+        ],
+        "source": "combined",
         "rank": 21
       }
     },
@@ -1319,9 +1318,10 @@
       "isbn": "4910000884732",
       "salesType": 0,
       "matchMeta": {
-        "title": "手紙屋 蛍雪篇 ~私の受験勉強を変えた十通の手紙~ ジュニア版",
+        "title": "手紙屋 蛍雪篇 ～私の受験勉強を変えた十通の手紙～ ジュニア版",
         "author": "喜多川泰",
-        "score": 54,
+        "isbn": "",
+        "score": 166,
         "sources": [
           {
             "source": "amazon",
@@ -1330,8 +1330,7 @@
           }
         ],
         "source": "combined",
-        "rank": 46,
-        "originalTitle": "手紙屋 蛍雪篇 ～私の受験勉強を変えた十通の手紙～ ジュニア版"
+        "rank": 46
       },
       "ranking": {
         "title": "手紙屋 蛍雪篇 ～私の受験勉強を変えた十通の手紙～ ジュニア版",
@@ -1679,53 +1678,6 @@
       }
     },
     {
-      "id": "4470887680000",
-      "title": "寝ながらヘーゲル",
-      "author": "斎藤幸平",
-      "publisher": "NHK出版",
-      "price": 1133,
-      "url": "https://books.rakuten.co.jp/rk/0d1b142854743e87a1558a7c026d4c6e/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4586/2000022054586.jpg?_ex=600x600",
-      "caption": "『精神現象学』って、そういう本だったのか！\nSNSの時代、承認欲求は暴走し、対立は終わらず、社会分断は広がり続けるーーその根底にある仕組みを、ヘーゲルは主著『精神現象学』で、まるで現代を予言するかのように鮮やかに描き出していた。のちにマルクス思想誕生のきっかけとなり、近現代思想を方向づけることになったこの名著を、マルクス解説で話題を呼んだ著者がやさしく読み解く。承認、自由、共同体をめぐるヘーゲルの洞察をたどれば、難解な古典が驚くほど現代的な書物であることがわかり、いま私たちの社会で何が起きているのかが見えてくる。分断の時代に希望を取り戻すための一冊。\n",
-      "salesDate": "2026年10月13日",
-      "series": "ＮＨＫ出版新書",
-      "reviewAverage": 4,
-      "reviewCount": 2,
-      "genreId": "101907002002",
-      "isbn": "4470887680000",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "寝ながらヘーゲル NHK出版新書",
-        "author": "",
-        "score": 22,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 22
-          }
-        ],
-        "source": "combined",
-        "rank": 60,
-        "originalTitle": "寝ながらヘーゲル ＮＨＫ出版新書"
-      },
-      "ranking": {
-        "title": "寝ながらヘーゲル ＮＨＫ出版新書",
-        "author": "",
-        "isbn": "",
-        "score": 158,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 22
-          }
-        ],
-        "source": "combined",
-        "rank": 30
-      }
-    },
-    {
       "id": "7224000858488",
       "title": "10日でできる！ 英検準2級 二次試験・面接 完全予想問題 新装改訂版（音声DL付）",
       "author": "旺文社",
@@ -1765,6 +1717,53 @@
           {
             "source": "amazon",
             "label": "Amazon",
+            "rank": 22
+          }
+        ],
+        "source": "combined",
+        "rank": 30
+      }
+    },
+    {
+      "id": "4470887680000",
+      "title": "寝ながらヘーゲル",
+      "author": "斎藤幸平",
+      "publisher": "NHK出版",
+      "price": 1133,
+      "url": "https://books.rakuten.co.jp/rk/0d1b142854743e87a1558a7c026d4c6e/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4586/2000022054586.jpg?_ex=600x600",
+      "caption": "『精神現象学』って、そういう本だったのか！\nSNSの時代、承認欲求は暴走し、対立は終わらず、社会分断は広がり続けるーーその根底にある仕組みを、ヘーゲルは主著『精神現象学』で、まるで現代を予言するかのように鮮やかに描き出していた。のちにマルクス思想誕生のきっかけとなり、近現代思想を方向づけることになったこの名著を、マルクス解説で話題を呼んだ著者がやさしく読み解く。承認、自由、共同体をめぐるヘーゲルの洞察をたどれば、難解な古典が驚くほど現代的な書物であることがわかり、いま私たちの社会で何が起きているのかが見えてくる。分断の時代に希望を取り戻すための一冊。\n",
+      "salesDate": "2026年10月13日",
+      "series": "ＮＨＫ出版新書",
+      "reviewAverage": 4,
+      "reviewCount": 2,
+      "genreId": "101907002002",
+      "isbn": "4470887680000",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "寝ながらヘーゲル NHK出版新書",
+        "author": "",
+        "score": 22,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 22
+          }
+        ],
+        "source": "combined",
+        "rank": 60,
+        "originalTitle": "寝ながらヘーゲル ＮＨＫ出版新書"
+      },
+      "ranking": {
+        "title": "寝ながらヘーゲル ＮＨＫ出版新書",
+        "author": "",
+        "isbn": "",
+        "score": 158,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
             "rank": 22
           }
         ],
@@ -1838,7 +1837,8 @@
       "matchMeta": {
         "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
         "author": "",
-        "score": 6,
+        "isbn": "",
+        "score": 154,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1847,8 +1847,7 @@
           }
         ],
         "source": "combined",
-        "rank": 68,
-        "originalTitle": ""
+        "rank": 68
       },
       "ranking": {
         "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
@@ -1885,7 +1884,8 @@
       "matchMeta": {
         "title": "自分とか、ないから。教養としての東洋哲学 (サンクチュアリ出版)",
         "author": "しんめいP",
-        "score": 5,
+        "isbn": "",
+        "score": 152,
         "sources": [
           {
             "source": "amazon",
@@ -1894,8 +1894,7 @@
           }
         ],
         "source": "combined",
-        "rank": 75,
-        "originalTitle": ""
+        "rank": 72
       },
       "ranking": {
         "title": "自分とか、ないから。教養としての東洋哲学 (サンクチュアリ出版)",
@@ -1911,53 +1910,6 @@
         ],
         "source": "combined",
         "rank": 34
-      }
-    },
-    {
-      "id": "4380000408012",
-      "title": "人間の性",
-      "author": "佐藤優",
-      "publisher": "幻冬舎",
-      "price": 1024,
-      "url": "https://books.rakuten.co.jp/rk/662ac08062ba3b408e362d7c0f933abc/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0997/2000021660997.jpg?_ex=600x600",
-      "caption": "正義感を振りかざすと、痛い目に遭う\n人間の“抗えない本質”を理解すれば、ムダな苦労をせずに済む!\n「なぜ悪いやつが成功し、正直者がバカを見るのか?」そう思うことはないだろうか。それは人間の本質が基本的に“悪”であり、社会の構造もそれに基づいて作られているから。そんな悪意に満ちた世の中であっても、人間の根っこにある本性を熟知すれば、余計なストレスを溜め込むことなく、自分なりに満足のゆく人生を送ることは可能だ。本書は外交官として国益に邁進しながらも国策捜査の標的となり、512日間も東京拘置所の独房に収監された著者が、極限の体験、人間観察、そして何千冊もの書物を通して到達した、渾身の人間論である。\n・“悪”の自覚がない善意の人が最も危うい\n・人間は基本的に悪いやつである\n・嫉妬は「正義」の顔をして現れる\n・窮地に陥れば、たやすく裏切ってしまうのが人間\n・人間の愛情や恩義は、利害が絡むとあっけなく断ち切られる\n・なぜ「自分の心に嘘をつく」だけは、絶対にしないほうがいいのか\n・蛇のように賢く、鳩のように素直であれ\n",
-      "salesDate": "2026年09月28日",
-      "series": "",
-      "reviewAverage": 4,
-      "reviewCount": 4,
-      "genreId": "101907002002",
-      "isbn": "4380000408012",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "人間の性 幻冬舎新書",
-        "author": "",
-        "score": 5,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 30
-          }
-        ],
-        "source": "combined",
-        "rank": 73,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "人間の性 幻冬舎新書",
-        "author": "",
-        "isbn": "",
-        "score": 150,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 30
-          }
-        ],
-        "source": "combined",
-        "rank": 35
       }
     },
     {
@@ -2001,6 +1953,53 @@
           {
             "source": "amazon",
             "label": "Amazon",
+            "rank": 30
+          }
+        ],
+        "source": "combined",
+        "rank": 35
+      }
+    },
+    {
+      "id": "4380000408012",
+      "title": "人間の性",
+      "author": "佐藤優",
+      "publisher": "幻冬舎",
+      "price": 1024,
+      "url": "https://books.rakuten.co.jp/rk/662ac08062ba3b408e362d7c0f933abc/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0997/2000021660997.jpg?_ex=600x600",
+      "caption": "正義感を振りかざすと、痛い目に遭う\n人間の“抗えない本質”を理解すれば、ムダな苦労をせずに済む!\n「なぜ悪いやつが成功し、正直者がバカを見るのか?」そう思うことはないだろうか。それは人間の本質が基本的に“悪”であり、社会の構造もそれに基づいて作られているから。そんな悪意に満ちた世の中であっても、人間の根っこにある本性を熟知すれば、余計なストレスを溜め込むことなく、自分なりに満足のゆく人生を送ることは可能だ。本書は外交官として国益に邁進しながらも国策捜査の標的となり、512日間も東京拘置所の独房に収監された著者が、極限の体験、人間観察、そして何千冊もの書物を通して到達した、渾身の人間論である。\n・“悪”の自覚がない善意の人が最も危うい\n・人間は基本的に悪いやつである\n・嫉妬は「正義」の顔をして現れる\n・窮地に陥れば、たやすく裏切ってしまうのが人間\n・人間の愛情や恩義は、利害が絡むとあっけなく断ち切られる\n・なぜ「自分の心に嘘をつく」だけは、絶対にしないほうがいいのか\n・蛇のように賢く、鳩のように素直であれ\n",
+      "salesDate": "2026年09月28日",
+      "series": "",
+      "reviewAverage": 4,
+      "reviewCount": 4,
+      "genreId": "101907002002",
+      "isbn": "4380000408012",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "人間の性 幻冬舎新書",
+        "author": "",
+        "isbn": "",
+        "score": 150,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 30
+          }
+        ],
+        "source": "combined",
+        "rank": 76
+      },
+      "ranking": {
+        "title": "人間の性 幻冬舎新書",
+        "author": "",
+        "isbn": "",
+        "score": 150,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
             "rank": 30
           }
         ],
@@ -2056,53 +2055,6 @@
       }
     },
     {
-      "id": "4310000890409",
-      "title": "楽園",
-      "author": "夕木春央",
-      "publisher": "講談社",
-      "price": 1980,
-      "url": "https://books.rakuten.co.jp/rk/1a1c684dcee83b98b4d0187187c813d0/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1651/2000021221651.jpg?_ex=600x600",
-      "caption": "殺人犯にならなければ脱出できない。\n『方舟』『十戒』の著者が仕掛ける“禁忌の驚き”\n亡き両親から不動産を譲り受けた康之は、失踪した賃借人・海原の遺留品整理の際に、群馬の山奥の謎の物件の存在を知る。そこは、切り立った岩壁に囲まれた、「楽園」と呼ばれる奇妙な場所だった。恋人の沙織と一緒にそこを訪ね、探索をはじめた康之たちは、すぐに六人の“住人”に拿捕された。脱出のための条件はーー\n「誰か一人を殺さなければならない」\n『方舟』\n第19回オリコン上半期”本”ランキング　文庫ランキングTOP10 第1位\n週刊文春ミステリーベスト10　第1位　（「週刊文春」2022年12月8日号）国内部門\nMRC大賞2022　第1位\n『方舟』＋『十戒』の累計発行部数が100万部突破。\nーー夕木春央が描く、極限のクローズド・サークル。\n",
-      "salesDate": "2026年07月22日",
-      "series": "楽園",
-      "reviewAverage": 4.16,
-      "reviewCount": 557,
-      "genreId": "101902",
-      "isbn": "4310000890409",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "楽園",
-        "author": "夕木春央",
-        "score": 94,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
-          }
-        ],
-        "source": "combined",
-        "rank": 14,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "楽園",
-        "author": "夕木春央",
-        "score": 94,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
-          }
-        ],
-        "source": "combined",
-        "rank": 38,
-        "originalTitle": ""
-      }
-    },
-    {
       "id": "9784059239659",
       "title": "地球の歩き方 スター・ウォーズ",
       "author": "",
@@ -2145,7 +2097,7 @@
           }
         ],
         "source": "combined",
-        "rank": 39,
+        "rank": 38,
         "originalTitle": ""
       }
     },
@@ -2192,7 +2144,7 @@
           }
         ],
         "source": "combined",
-        "rank": 40,
+        "rank": 39,
         "originalTitle": ""
       }
     }
@@ -2201,12 +2153,11 @@
     "fiction": [
       "9784059242451",
       "4310000683989",
-      "4340008067051",
       "4910000909001",
       "4390000005636",
       "4380000408030",
-      "4332254800300",
       "4335254300320",
+      "4332254800300",
       "4910000884732",
       "4310000886199",
       "4480000944629",
@@ -2217,8 +2168,7 @@
       "4390000005636",
       "4620000615075",
       "4620000615076",
-      "4480000944629",
-      "4310000890409"
+      "4480000944629"
     ],
     "sf": [],
     "business": [
@@ -2231,6 +2181,7 @@
     "humanities": [
       "4380000407898",
       "9784059242451",
+      "4380000408073",
       "4470887680000",
       "8910120537764",
       "4390000014247",
@@ -2275,11 +2226,11 @@
   },
   "genreStatus": {
     "fiction": {
-      "matched": 13,
+      "matched": 12,
       "complete": true
     },
     "mystery": {
-      "matched": 5,
+      "matched": 4,
       "complete": true
     },
     "sf": {
@@ -2291,7 +2242,7 @@
       "complete": true
     },
     "humanities": {
-      "matched": 6,
+      "matched": 7,
       "complete": true
     },
     "nonfiction": {

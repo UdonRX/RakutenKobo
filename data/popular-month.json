@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-10-30T13:46:19.048Z",
+  "updatedAt": "2026-10-30T22:49:40.112Z",
   "candidateCount": 39,
-  "baseMatched": 20,
+  "baseMatched": 19,
   "matched": 23,
-  "addedMatches": 3,
+  "addedMatches": 4,
   "unavailable": [],
   "snapshots": {
     "kinokuniya": {
@@ -25,6 +25,12 @@
           "author": "",
           "isbn": "",
           "rank": 2
+        },
+        {
+          "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
+          "author": "",
+          "isbn": "",
+          "rank": 3
         },
         {
           "title": "汝、星のごとく",
@@ -108,12 +114,6 @@
           "author": "",
           "isbn": "",
           "rank": 2
-        },
-        {
-          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-          "author": "",
-          "isbn": "",
-          "rank": 4
         },
         {
           "title": "ポケモン公式ぜんこく図鑑 1996-2026",
@@ -212,30 +212,30 @@
       "isbn": "4380000407898",
       "salesType": 0,
       "matchMeta": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-        "author": "林真理子",
-        "score": 94,
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 幻冬舎新書",
+        "author": "",
+        "score": 98,
         "sources": [
           {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 3
           }
         ],
         "source": "combined",
-        "rank": 8,
-        "originalTitle": ""
+        "rank": 7,
+        "originalTitle": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書"
       },
       "ranking": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
         "author": "",
         "isbn": "",
-        "score": 176,
+        "score": 177,
         "sources": [
           {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 3
           }
         ],
         "source": "combined",
@@ -403,7 +403,8 @@
       "matchMeta": {
         "title": "探偵小石は戻らない",
         "author": "",
-        "score": 86,
+        "isbn": "",
+        "score": 174,
         "sources": [
           {
             "source": "kinokuniya",
@@ -412,8 +413,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12,
-        "originalTitle": ""
+        "rank": 11
       },
       "ranking": {
         "title": "探偵小石は戻らない",
@@ -601,7 +601,8 @@
           }
         ],
         "source": "combined",
-        "rank": 22
+        "rank": 22,
+        "originalTitle": "FOR OVERSEAS"
       },
       "ranking": {
         "title": "FOR OVERSEAS",

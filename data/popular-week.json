@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-10-30T22:49:27.189Z",
-  "candidateCount": 76,
-  "baseMatched": 32,
-  "matched": 39,
-  "addedMatches": 7,
+  "updatedAt": "2026-10-31T06:29:13.453Z",
+  "candidateCount": 77,
+  "baseMatched": 35,
+  "matched": 38,
+  "addedMatches": 3,
   "unavailable": [
     "rakuten"
   ],
@@ -19,7 +19,7 @@
       "attribution": "Amazon.co.jp",
       "sourceUrl": "https://www.amazon.co.jp/gp/bestsellers/books",
       "periodLabel": "現在のベストセラー",
-      "updatedAt": "2026-10-30T00:58:55.783Z",
+      "updatedAt": "2026-10-31T00:47:17.324Z",
       "live": false,
       "items": [
         {
@@ -41,8 +41,26 @@
           "rank": 4
         },
         {
+          "title": "自分とか、ないから。教養としての東洋哲学 (サンクチュアリ出版)",
+          "author": "しんめいP",
+          "isbn": "",
+          "rank": 5
+        },
+        {
+          "title": "買わない生活",
+          "author": "稲垣 えみ子",
+          "isbn": "",
+          "rank": 6
+        },
+        {
           "title": "これが本当のSPI3だ! 2028年度版 【主要3方式〈テストセンター・ペーパーテスト・WEBテスティング〉対応】 (本当の就職テストシリーズ)",
           "author": "SPIノートの会",
+          "isbn": "",
+          "rank": 7
+        },
+        {
+          "title": "生きて行く私 (角川文庫)",
+          "author": "宇野 千代",
           "isbn": "",
           "rank": 8
         },
@@ -50,73 +68,61 @@
           "title": "ようこそ実力至上主義の教室へ 3年生編5 (MF文庫J)",
           "author": "衣笠彰梧",
           "isbn": "",
-          "rank": 10
-        },
-        {
-          "title": "買わない生活",
-          "author": "稲垣 えみ子",
-          "isbn": "",
           "rank": 11
-        },
-        {
-          "title": "生きて行く私 (角川文庫)",
-          "author": "宇野 千代",
-          "isbn": "",
-          "rank": 13
-        },
-        {
-          "title": "手紙屋 蛍雪篇 ～私の受験勉強を変えた十通の手紙～ ジュニア版",
-          "author": "喜多川泰",
-          "isbn": "",
-          "rank": 14
-        },
-        {
-          "title": "秘密にしたい魅惑のスイーツレシピ",
-          "author": "小林啓吾",
-          "isbn": "",
-          "rank": 15
-        },
-        {
-          "title": "星を編む (講談社文庫 な 101-3)",
-          "author": "凪良 ゆう",
-          "isbn": "",
-          "rank": 16
-        },
-        {
-          "title": "【令和８年度】 いちばんやさしい ITパスポート 絶対合格の教科書＋出る順問題集",
-          "author": "高橋 京介",
-          "isbn": "",
-          "rank": 17
-        },
-        {
-          "title": "7日でできる！ 英検3級 二次試験・面接 完全予想問題 新装改訂版",
-          "author": "旺文社",
-          "isbn": "",
-          "rank": 18
-        },
-        {
-          "title": "10日でできる！ 英検準2級 二次試験・面接 完全予想問題 新装改訂版",
-          "author": "旺文社",
-          "isbn": "",
-          "rank": 22
         },
         {
           "title": "覚悟の磨き方 超訳 吉田松陰 (サンクチュアリ出版)",
           "author": "池田貴将",
           "isbn": "",
-          "rank": 24
+          "rank": 16
         },
         {
-          "title": "自分とか、ないから。教養としての東洋哲学 (サンクチュアリ出版)",
-          "author": "しんめいP",
+          "title": "お気楽領主の楽しい領地防衛 9 (ガルドコミックス)",
+          "author": "青色まろ",
           "isbn": "",
-          "rank": 28
+          "rank": 17
         },
         {
-          "title": "中学英語をもう一度ひとつひとつわかりやすく。改訂版",
-          "author": "山田暢彦",
+          "title": "星を編む (講談社文庫 な 101-3)",
+          "author": "凪良 ゆう",
           "isbn": "",
-          "rank": 30
+          "rank": 18
+        },
+        {
+          "title": "秘密にしたい魅惑のスイーツレシピ",
+          "author": "小林啓吾",
+          "isbn": "",
+          "rank": 19
+        },
+        {
+          "title": "手紙屋 蛍雪篇 ～私の受験勉強を変えた十通の手紙～ ジュニア版",
+          "author": "喜多川泰",
+          "isbn": "",
+          "rank": 22
+        },
+        {
+          "title": "10日でできる！ 英検準2級 二次試験・面接 完全予想問題 新装改訂版",
+          "author": "旺文社",
+          "isbn": "",
+          "rank": 23
+        },
+        {
+          "title": "【令和８年度】 いちばんやさしい ITパスポート 絶対合格の教科書＋出る順問題集",
+          "author": "高橋 京介",
+          "isbn": "",
+          "rank": 25
+        },
+        {
+          "title": "7日でできる！ 英検3級 二次試験・面接 完全予想問題 新装改訂版",
+          "author": "旺文社",
+          "isbn": "",
+          "rank": 26
+        },
+        {
+          "title": "商人・預言者・指導者・王 リーダーは本当に歴史を動かすのか",
+          "author": "ジャレド・ダイアモンド",
+          "isbn": "",
+          "rank": 27
         }
       ]
     },
@@ -173,80 +179,68 @@
       "attribution": "紀伊國屋書店調べ",
       "sourceUrl": "https://www.kinokuniya.co.jp/disp/CKnRankingPageCList.jsp?dispNo=107002001001&vTp=w",
       "periodLabel": "ウィークリー",
-      "updatedAt": "2026-10-30",
+      "updatedAt": "2026-10-31",
       "live": true,
       "items": [
         {
-          "title": "汝、星のごとく",
+          "title": "パンどろぼうとさすらいラーメン",
           "author": "",
           "isbn": "",
           "rank": 2
         },
         {
-          "title": "パンどろぼうとさすらいラーメン",
-          "author": "",
-          "isbn": "",
-          "rank": 3
-        },
-        {
           "title": "憂鬱な恋の忘れ方",
           "author": "",
           "isbn": "",
-          "rank": 9
-        },
-        {
-          "title": "その「違和感」、大正解です 運気の波を読みチャンスに変える！",
-          "author": "",
-          "isbn": "",
-          "rank": 10
+          "rank": 8
         },
         {
           "title": "海辺のエール",
           "author": "",
           "isbn": "",
-          "rank": 13
-        },
-        {
-          "title": "魔導具師ダリヤはうつむかない 〈１５〉 - 今日から自由な職人ライフ ＭＦブックス",
-          "author": "",
-          "isbn": "",
-          "rank": 15
-        },
-        {
-          "title": "フロムヴィレッジ",
-          "author": "",
-          "isbn": "",
-          "rank": 20
-        },
-        {
-          "title": "初恋をしまう日",
-          "author": "",
-          "isbn": "",
-          "rank": 21
+          "rank": 11
         },
         {
           "title": "寝ながらヘーゲル ＮＨＫ出版新書",
           "author": "",
           "isbn": "",
-          "rank": 22
+          "rank": 15
         },
         {
           "title": "パンどろぼう",
           "author": "",
           "isbn": "",
-          "rank": 25
+          "rank": 16
         },
         {
-          "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
+          "title": "フロムヴィレッジ",
           "author": "",
           "isbn": "",
-          "rank": 26
+          "rank": 21
         },
         {
           "title": "人間の性 幻冬舎新書",
           "author": "",
           "isbn": "",
-          "rank": 30
+          "rank": 25
+        },
+        {
+          "title": "魔導具師ダリヤはうつむかない 〈１５〉 - 今日から自由な職人ライフ ＭＦブックス",
+          "author": "",
+          "isbn": "",
+          "rank": 27
+        },
+        {
+          "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
+          "author": "",
+          "isbn": "",
+          "rank": 28
+        },
+        {
+          "title": "初恋をしまう日",
+          "author": "",
+          "isbn": "",
+          "rank": 29
         }
       ]
     },
@@ -256,7 +250,7 @@
       "attribution": "トーハン調べ",
       "sourceUrl": "https://www.tohan.jp/bestsellers/2026_1020_weekly/",
       "periodLabel": "週間",
-      "updatedAt": "2026-10-30",
+      "updatedAt": "2026-10-31",
       "live": true,
       "items": [
         {
@@ -312,28 +306,28 @@
       "matchMeta": {
         "title": "パンどろぼうとさすらいラーメン",
         "author": "",
-        "score": 98,
+        "score": 102,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 3
+            "rank": 2
           }
         ],
         "source": "combined",
-        "rank": 12,
+        "rank": 8,
         "originalTitle": ""
       },
       "ranking": {
         "title": "パンどろぼうとさすらいラーメン",
         "author": "",
         "isbn": "",
-        "score": 356,
+        "score": 357,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 3
+            "rank": 2
           },
           {
             "source": "tohan",
@@ -421,28 +415,28 @@
       "matchMeta": {
         "title": "パンどろぼう",
         "author": "",
-        "score": 10,
+        "score": 46,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 25
+            "rank": 16
           }
         ],
         "source": "combined",
-        "rank": 66,
+        "rank": 50,
         "originalTitle": ""
       },
       "ranking": {
         "title": "パンどろぼう",
         "author": "",
         "isbn": "",
-        "score": 326,
+        "score": 335,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 25
+            "rank": 16
           },
           {
             "source": "tohan",
@@ -482,7 +476,7 @@
           }
         ],
         "source": "combined",
-        "rank": 6,
+        "rank": 5,
         "originalTitle": ""
       },
       "ranking": {
@@ -519,29 +513,29 @@
       "salesType": 0,
       "matchMeta": {
         "title": "汝、星のごとく",
-        "author": "",
-        "score": 102,
+        "author": "凪良 ゆう",
+        "score": 98,
         "sources": [
           {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 2
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 3
           }
         ],
         "source": "combined",
-        "rank": 9,
-        "originalTitle": ""
+        "rank": 12,
+        "originalTitle": "汝、星のごとく (講談社文庫 な 101-1)"
       },
       "ranking": {
-        "title": "汝、星のごとく",
-        "author": "",
+        "title": "汝、星のごとく (講談社文庫 な 101-1)",
+        "author": "凪良 ゆう",
         "isbn": "",
-        "score": 178,
+        "score": 177,
         "sources": [
           {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 2
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 3
           }
         ],
         "source": "combined",
@@ -576,7 +570,7 @@
           }
         ],
         "source": "combined",
-        "rank": 11,
+        "rank": 10,
         "originalTitle": ""
       },
       "ranking": {
@@ -593,53 +587,6 @@
         ],
         "source": "combined",
         "rank": 6
-      }
-    },
-    {
-      "id": "4310000779045",
-      "title": "汝、星のごとく（３）",
-      "author": "凪良ゆう/古里こう",
-      "publisher": "講談社",
-      "price": 792,
-      "url": "https://books.rakuten.co.jp/rk/53b069e006973118af2e818a16801db0/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2574/2000019452574.jpg?_ex=600x600",
-      "caption": "「わたしは愛する男のために人生を誤りたい」\n毎月、借金の返済として暁海が櫂に送る四万円。\nふたりをつなぐものがそれだけになっても、\n互いを想う気持ちは消えないまま…。\nそれぞれを取り巻く環境に縛られ、\n自らの人生を生きる難しさに打ちのめされそうになる中、\n暁海は北原先生から「ぼくと結婚しませんか」と提案されてーー。\n「まともな人間なんてものは幻想だ」\n生きることの自由さと不自由さを描き続けてきた\n凪良ゆう最高傑作、待望のコミカライズ最終巻。\n",
-      "salesDate": "2026年01月13日",
-      "series": "汝、星のごとく",
-      "reviewAverage": 5,
-      "reviewCount": 4,
-      "genreId": "101904011005",
-      "isbn": "4310000779045",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "汝、星のごとく",
-        "author": "凪良 ゆう",
-        "score": 98,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 3
-          }
-        ],
-        "source": "combined",
-        "rank": 13,
-        "originalTitle": "汝、星のごとく (講談社文庫 な 101-1)"
-      },
-      "ranking": {
-        "title": "汝、星のごとく (講談社文庫 な 101-1)",
-        "author": "凪良 ゆう",
-        "isbn": "",
-        "score": 177,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 3
-          }
-        ],
-        "source": "combined",
-        "rank": 7
       }
     },
     {
@@ -670,7 +617,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16,
+        "rank": 15,
         "originalTitle": ""
       },
       "ranking": {
@@ -686,7 +633,7 @@
           }
         ],
         "source": "combined",
-        "rank": 8
+        "rank": 7
       }
     },
     {
@@ -717,7 +664,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17,
+        "rank": 16,
         "originalTitle": ""
       },
       "ranking": {
@@ -733,7 +680,101 @@
           }
         ],
         "source": "combined",
+        "rank": 8
+      }
+    },
+    {
+      "id": "8910126773560",
+      "title": "自分とか、ないから。　教養としての東洋哲学",
+      "author": "しんめいP",
+      "publisher": "サンクチュアリ出版",
+      "price": 1650,
+      "url": "https://books.rakuten.co.jp/rk/3e7a28858e2234d6887364847e57ec0c/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2213/2000015032213.jpg?_ex=600x600",
+      "caption": "ぶっ飛んでいるのに、なぜか論理的。\n生きづらさがマシになる（かもしれない）\nそれが、東洋哲学。\n「自分が本当にやりたいことってなんだろう？」\n「そもそも、本当の自分ってなんだろう？」\nそんな全・自分迷子に贈る、衝撃の哲学本がここに誕生。\nすべての答えは、「東洋哲学」にあった！！\nnoteで話題になった\n『東洋哲学本50冊よんだら「本当の自分」とかどうでもよくなった話』待望の書籍化！\n本書の著者・しんめいPさんは、東大卒のニート。\n新卒で大手IT企業→地方で教育事業→フリーランス→お笑い芸人\nと、自分探しをし続けた結果、虚無感から「無職」に。\n５年間、布団に引きこもっていたが\n「東洋哲学」に出会い、衝撃を受ける。\nーーーーーーーーーーーー\n（以下、本文より）\n東洋哲学にふれていると、\n「ふとんに入ってるくらい、何の問題もない」と思えてくるのだ。\n人生は、ムズくない。本当はシンプル。\n難しくしているのは自分なのだ。\nそんなことを教えてくれる。\nそして、ふとんに入ったまま、この本を書くことになったのだ。\n東洋哲学は、とにかく楽になるための哲学だ。\n無職だろうが、離婚してようが、ふとんにいようが、\nめちゃくちゃ楽になれる、ヤバい哲学である。\nこの本では、そんな東洋哲学の哲学者７人を紹介しながら、\n彼らの哲学を知って、実際にぼくがどう楽になったかを語っていく。\nーーーーーーーーーーーー\n〜コンテンツ例〜\nブッダ「自分なんてない」\n龍樹「全部、空」\n老子「ありのままが最強」\n荘子「この世は夢」\n達磨「言葉はいらねえ」\n親鸞「他力本願でOK」\n空海「欲あってよし」\n哲学の本なのに、\nなぜかクスリと笑えて、不思議と心が楽になる。\n「自分探し」まさかの答えを、体感せよ。\n",
+      "salesDate": "2024年04月23日",
+      "series": "",
+      "reviewAverage": 3.99,
+      "reviewCount": 755,
+      "genreId": "101908008002/101905010",
+      "isbn": "8910126773560",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "自分とか、ないから。教養としての東洋哲学 (サンクチュアリ出版)",
+        "author": "しんめいP",
+        "score": 90,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
+        "rank": 19,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "自分とか、ないから。教養としての東洋哲学 (サンクチュアリ出版)",
+        "author": "しんめいP",
+        "isbn": "",
+        "score": 175,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
         "rank": 9
+      }
+    },
+    {
+      "id": "4650483601001",
+      "title": "買わない生活",
+      "author": "稲垣えみ子",
+      "publisher": "東洋経済新報社",
+      "price": 1980,
+      "url": "https://books.rakuten.co.jp/rk/47aedad72c0e32a7a99aca0b3535c596/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2413/2000021192413.jpg?_ex=600x600",
+      "caption": "決して「節約」でも「我慢」でもありません\n「買わない」ことで人生に必要なすべてが手に入ります！\n不安の時代を生き抜く「最強ライフスタイル」\n大人気連載、待望の書籍化！\n【主な内容】\n【主要目次】\n１　「１００円飯」がフレンチより幸せという革命　\n２　「買わない生活」と「キラキラ」の悩ましい関係　　\n３　コスメよ永遠にさようなら\n４　「町がわが家」という脳内革命　　　\n５　光熱費ほぼゼロで生きる\n６　お金が健康を遠ざける\n７　「ポイ活」をやめたら「お得」なことばかり　　　\n８　「もらって暮らす」という最強の生き方　　　\n９　お金という一神教を脱出する方法　　　\n１０　エコライフという貴族生活　　　\n１１　どんな人も確実に「お金持ち」になれる方法　　　\n１２　「お金を使わない私」が「お金を稼ぐ」意味\n",
+      "salesDate": "2026年07月29日",
+      "series": "",
+      "reviewAverage": 4.24,
+      "reviewCount": 27,
+      "genreId": "101905017004/101905016001",
+      "isbn": "4650483601001",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "買わない生活",
+        "author": "稲垣 えみ子",
+        "score": 86,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 6
+          }
+        ],
+        "source": "combined",
+        "rank": 23,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "買わない生活",
+        "author": "稲垣 えみ子",
+        "isbn": "",
+        "score": 174,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 6
+          }
+        ],
+        "source": "combined",
+        "rank": 10
       }
     },
     {
@@ -764,7 +805,7 @@
           }
         ],
         "source": "combined",
-        "rank": 25,
+        "rank": 24,
         "originalTitle": ""
       },
       "ranking": {
@@ -780,7 +821,7 @@
           }
         ],
         "source": "combined",
-        "rank": 10
+        "rank": 11
       }
     },
     {
@@ -802,6 +843,53 @@
       "matchMeta": {
         "title": "これが本当のSPI3だ! 2028年度版 【主要3方式〈テストセンター・ペーパーテスト・WEBテスティング〉対応】 (本当の就職テストシリーズ)",
         "author": "SPIノートの会",
+        "score": 82,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 7
+          }
+        ],
+        "source": "combined",
+        "rank": 27,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "これが本当のSPI3だ! 2028年度版 【主要3方式〈テストセンター・ペーパーテスト・WEBテスティング〉対応】 (本当の就職テストシリーズ)",
+        "author": "SPIノートの会",
+        "isbn": "",
+        "score": 173,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 7
+          }
+        ],
+        "source": "combined",
+        "rank": 12
+      }
+    },
+    {
+      "id": "4332254800300",
+      "title": "生きて行く私",
+      "author": "宇野　千代",
+      "publisher": "KADOKAWA",
+      "price": 803,
+      "url": "https://books.rakuten.co.jp/rk/57ee814194de3067a25639b09853eeb5/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9474/2000003109474.jpg?_ex=600x600",
+      "caption": "山口県岩国の生家と父母、小学校代用教員の時の恋と初体験、いとことの結婚、新聞懸賞小説の入選、尾崎士郎との出会いと同棲、東郷青児、北原武夫とつづく愛の遍歴……数えて百歳。感動を呼ぶ大河自伝。\n",
+      "salesDate": "2015年05月21日",
+      "series": "",
+      "reviewAverage": 3.97,
+      "reviewCount": 37,
+      "genreId": "101901001",
+      "isbn": "4332254800300",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "生きて行く私",
+        "author": "宇野 千代",
         "score": 78,
         "sources": [
           {
@@ -811,12 +899,12 @@
           }
         ],
         "source": "combined",
-        "rank": 32,
-        "originalTitle": ""
+        "rank": 31,
+        "originalTitle": "生きて行く私 (角川文庫)"
       },
       "ranking": {
-        "title": "これが本当のSPI3だ! 2028年度版 【主要3方式〈テストセンター・ペーパーテスト・WEBテスティング〉対応】 (本当の就職テストシリーズ)",
-        "author": "SPIノートの会",
+        "title": "生きて行く私 (角川文庫)",
+        "author": "宇野 千代",
         "isbn": "",
         "score": 172,
         "sources": [
@@ -827,7 +915,54 @@
           }
         ],
         "source": "combined",
-        "rank": 11
+        "rank": 13
+      }
+    },
+    {
+      "id": "4380000408030",
+      "title": "憂鬱な恋の忘れ方",
+      "author": "カツセマサヒコ",
+      "publisher": "幻冬舎",
+      "price": 1777,
+      "url": "https://books.rakuten.co.jp/rk/05572ca6f36d38dfa4c0650841802777/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7904/2000022037904.jpg?_ex=600x600",
+      "caption": "朝陽が昇る前に、あの人は部屋を出る。\n彼女を知りたい。\nでも、全部を知ったら、この恋は──\n『明け方の若者たち』の著者が描く、\n“一生モノ”の失恋小説。\n就職活動が終わり、時間を持て余していた大学四年生の橘ユウスケは、インターン先で働く青羽ユウコに声を掛けられる。「ユウコとユウスケで二人ともユウだから、きみのこと、ユウくんって呼んでいい？」余裕の笑みから始まった人生最大の片想いは、失恋の形で幕を下ろす。社会人になり、仕事や新たな恋に邁進する橘だったが、新宿の紀伊國屋書店前で当時の上司と再会し、ユウコのSNSアカウントを知るーー。\nもう一度。いや、何度だって、あの人と。\n",
+      "salesDate": "2026年10月21日",
+      "series": "",
+      "reviewAverage": 5,
+      "reviewCount": 1,
+      "genreId": "101901003",
+      "isbn": "4380000408030",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "憂鬱な恋の忘れ方",
+        "author": "",
+        "score": 78,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 30,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "憂鬱な恋の忘れ方",
+        "author": "",
+        "isbn": "",
+        "score": 172,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 14
       }
     },
     {
@@ -874,54 +1009,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12
-      }
-    },
-    {
-      "id": "4380000408030",
-      "title": "憂鬱な恋の忘れ方",
-      "author": "カツセマサヒコ",
-      "publisher": "幻冬舎",
-      "price": 1777,
-      "url": "https://books.rakuten.co.jp/rk/05572ca6f36d38dfa4c0650841802777/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7904/2000022037904.jpg?_ex=600x600",
-      "caption": "朝陽が昇る前に、あの人は部屋を出る。\n彼女を知りたい。\nでも、全部を知ったら、この恋は──\n『明け方の若者たち』の著者が描く、\n“一生モノ”の失恋小説。\n就職活動が終わり、時間を持て余していた大学四年生の橘ユウスケは、インターン先で働く青羽ユウコに声を掛けられる。「ユウコとユウスケで二人ともユウだから、きみのこと、ユウくんって呼んでいい？」余裕の笑みから始まった人生最大の片想いは、失恋の形で幕を下ろす。社会人になり、仕事や新たな恋に邁進する橘だったが、新宿の紀伊國屋書店前で当時の上司と再会し、ユウコのSNSアカウントを知るーー。\nもう一度。いや、何度だって、あの人と。\n",
-      "salesDate": "2026年10月21日",
-      "series": "",
-      "reviewAverage": 5,
-      "reviewCount": 1,
-      "genreId": "101901003",
-      "isbn": "4380000408030",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "憂鬱な恋の忘れ方",
-        "author": "",
-        "score": 74,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 35,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "憂鬱な恋の忘れ方",
-        "author": "",
-        "isbn": "",
-        "score": 171,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 13
+        "rank": 15
       }
     },
     {
@@ -952,7 +1040,7 @@
           }
         ],
         "source": "combined",
-        "rank": 33,
+        "rank": 32,
         "originalTitle": ""
       },
       "ranking": {
@@ -968,7 +1056,7 @@
           }
         ],
         "source": "combined",
-        "rank": 14
+        "rank": 16
       }
     },
     {
@@ -1015,54 +1103,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15
-      }
-    },
-    {
-      "id": "4334530000320",
-      "title": "その「違和感」、大正解です　運気の波を読みチャンスに変える！",
-      "author": "秦　明日香",
-      "publisher": "KADOKAWA",
-      "price": 2090,
-      "url": "https://books.rakuten.co.jp/rk/5405c75775763ff2b48456ddcbeabee8/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0496/2000021790496.jpg?_ex=600x600",
-      "caption": "著名人など総鑑定数3万人超え！借金1000万＆余命宣告から年商8000万へ大逆転した著者が教える、 九星気学 × 宇宙の真理が導き出した最強の法則！「本来の自分」に戻り、最速で豊かになる方法です。「頑張っているのに報われない」「本当は嫌なのに断れない」……。そのモヤモヤ、実はあなたの人生を劇的に好転させる最高のサインです！虐待、離婚、1000万円の借金、がん宣告、極貧生活……。幾度ものどん底を経験した著者を救ったのは、自分の中に湧き上がる小さな「違和感」でした。 これまでの時代は、「我慢する」「周囲に合わせる」といった外側の正解に従う生き方が評価されてきました。しかし、2028年に向けて社会のシステムや価値観は崩れ、これまでの当たり前が通用しなくなっていきます。これからの激変する時代を軽やかに生き抜く唯一の羅針盤、それがあなたの身体が発する「違和感（違和感力）」です。本書では、東洋の智慧「九星気学」をベースに、自分の本質や才能の活かし方、お金の思い込み（前提）を書き換える「逆張り金運アップ術」、日常で使える３０の処方箋や開運アクション、恵方参りまでを徹底解説！「自分以外の誰か」になろうとする必要はありません。あなたの中に眠る最強のセンサーを呼び覚まし、本来の主役の座へと戻りましょう！【コンテンツ】第1章 大変革期・2028年に備えて「違和感力」を磨く第2章 どん底から脱出！「違和感」で人生を激変させる第3章 九星気学で紐解く「本来の自分」と「違和感のサイン」第4章 お金の「違和感」を解消し、最短で豊かさを循環させる第5章 人生を激変させる！「違和感」を幸運に変える実践ワーク\n",
-      "salesDate": "2026年10月02日",
-      "series": "その「違和感」、大正解です　運気の波を読みチャンスに変える！",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101910010/101909",
-      "isbn": "4334530000320",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "その「違和感」、大正解です 運気の波を読みチャンスに変える!",
-        "author": "",
-        "score": 70,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 38,
-        "originalTitle": "その「違和感」、大正解です　運気の波を読みチャンスに変える！"
-      },
-      "ranking": {
-        "title": "その「違和感」、大正解です 運気の波を読みチャンスに変える！",
-        "author": "",
-        "isbn": "",
-        "score": 170,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 16
+        "rank": 17
       }
     },
     {
@@ -1084,53 +1125,6 @@
       "matchMeta": {
         "title": "ようこそ実力至上主義の教室へ 3年生編5",
         "author": "衣笠彰梧",
-        "score": 70,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 39,
-        "originalTitle": "ようこそ実力至上主義の教室へ 3年生編5 (MF文庫J)"
-      },
-      "ranking": {
-        "title": "ようこそ実力至上主義の教室へ 3年生編5 (MF文庫J)",
-        "author": "衣笠彰梧",
-        "isbn": "",
-        "score": 170,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 10
-          }
-        ],
-        "source": "combined",
-        "rank": 17
-      }
-    },
-    {
-      "id": "4650483601001",
-      "title": "買わない生活",
-      "author": "稲垣えみ子",
-      "publisher": "東洋経済新報社",
-      "price": 1980,
-      "url": "https://books.rakuten.co.jp/rk/47aedad72c0e32a7a99aca0b3535c596/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2413/2000021192413.jpg?_ex=600x600",
-      "caption": "決して「節約」でも「我慢」でもありません\n「買わない」ことで人生に必要なすべてが手に入ります！\n不安の時代を生き抜く「最強ライフスタイル」\n大人気連載、待望の書籍化！\n【主な内容】\n【主要目次】\n１　「１００円飯」がフレンチより幸せという革命　\n２　「買わない生活」と「キラキラ」の悩ましい関係　　\n３　コスメよ永遠にさようなら\n４　「町がわが家」という脳内革命　　　\n５　光熱費ほぼゼロで生きる\n６　お金が健康を遠ざける\n７　「ポイ活」をやめたら「お得」なことばかり　　　\n８　「もらって暮らす」という最強の生き方　　　\n９　お金という一神教を脱出する方法　　　\n１０　エコライフという貴族生活　　　\n１１　どんな人も確実に「お金持ち」になれる方法　　　\n１２　「お金を使わない私」が「お金を稼ぐ」意味\n",
-      "salesDate": "2026年07月29日",
-      "series": "",
-      "reviewAverage": 4.24,
-      "reviewCount": 27,
-      "genreId": "101905017004/101905016001",
-      "isbn": "4650483601001",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "買わない生活",
-        "author": "稲垣 えみ子",
         "score": 66,
         "sources": [
           {
@@ -1141,11 +1135,11 @@
         ],
         "source": "combined",
         "rank": 41,
-        "originalTitle": ""
+        "originalTitle": "ようこそ実力至上主義の教室へ 3年生編5 (MF文庫J)"
       },
       "ranking": {
-        "title": "買わない生活",
-        "author": "稲垣 えみ子",
+        "title": "ようこそ実力至上主義の教室へ 3年生編5 (MF文庫J)",
+        "author": "衣笠彰梧",
         "isbn": "",
         "score": 169,
         "sources": [
@@ -1157,6 +1151,53 @@
         ],
         "source": "combined",
         "rank": 18
+      }
+    },
+    {
+      "id": "4335254300320",
+      "title": "海辺のエール",
+      "author": "青山　美智子",
+      "publisher": "KADOKAWA",
+      "price": 2310,
+      "url": "https://books.rakuten.co.jp/rk/fb6c8adb24193179bba4b3bbe83c9e88/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5926/2000021955926.jpg?_ex=600x600",
+      "caption": "江ノ電の小さな駅、十六夜駅。鎌倉駅からほど近く、閑静な住宅街にあるその駅には、一人の駅員と一羽の九官鳥「ハッチ」がいた。乗客たちの声を聞き、また別の乗客にその言葉を放つハッチは駅の人気者だ。十六夜駅には、日々、様々な挫折や苦悩を抱えた人々が訪れる。人生の折り返し地点で将来に不安を抱くフリーランスの男性、恋人との手痛い失恋に打ちひしがれる女性、怪我で休みを余儀なくされたバスケットボール選手、50代の今も現役でストリップの舞台に立つ踊り子、周囲に馴染めずピアノが生きるよりどころとなっている女子高校生……。そんな彼らに届くハッチの“言葉”は、誰がどんな想いで発したのか分からないまま、前を向くきっかけをくれる。生きづらさを抱えたすべての人にエールを贈る、感動の物語！\n",
+      "salesDate": "2026年10月19日",
+      "series": "海辺のエール",
+      "reviewAverage": 4.44,
+      "reviewCount": 10,
+      "genreId": "101901001",
+      "isbn": "4335254300320",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "海辺のエール",
+        "author": "",
+        "isbn": "",
+        "score": 169,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 11
+          }
+        ],
+        "source": "combined",
+        "rank": 39
+      },
+      "ranking": {
+        "title": "海辺のエール",
+        "author": "",
+        "isbn": "",
+        "score": 169,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 11
+          }
+        ],
+        "source": "combined",
+        "rank": 19
       }
     },
     {
@@ -1188,8 +1229,7 @@
           }
         ],
         "source": "combined",
-        "rank": 42,
-        "originalTitle": "FOR OVERSEAS"
+        "rank": 43
       },
       "ranking": {
         "title": "FOR OVERSEAS",
@@ -1204,524 +1244,7 @@
           }
         ],
         "source": "combined",
-        "rank": 19
-      }
-    },
-    {
-      "id": "4335254300320",
-      "title": "海辺のエール",
-      "author": "青山　美智子",
-      "publisher": "KADOKAWA",
-      "price": 2310,
-      "url": "https://books.rakuten.co.jp/rk/fb6c8adb24193179bba4b3bbe83c9e88/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5926/2000021955926.jpg?_ex=600x600",
-      "caption": "江ノ電の小さな駅、十六夜駅。鎌倉駅からほど近く、閑静な住宅街にあるその駅には、一人の駅員と一羽の九官鳥「ハッチ」がいた。乗客たちの声を聞き、また別の乗客にその言葉を放つハッチは駅の人気者だ。十六夜駅には、日々、様々な挫折や苦悩を抱えた人々が訪れる。人生の折り返し地点で将来に不安を抱くフリーランスの男性、恋人との手痛い失恋に打ちひしがれる女性、怪我で休みを余儀なくされたバスケットボール選手、50代の今も現役でストリップの舞台に立つ踊り子、周囲に馴染めずピアノが生きるよりどころとなっている女子高校生……。そんな彼らに届くハッチの“言葉”は、誰がどんな想いで発したのか分からないまま、前を向くきっかけをくれる。生きづらさを抱えたすべての人にエールを贈る、感動の物語！\n",
-      "salesDate": "2026年10月19日",
-      "series": "海辺のエール",
-      "reviewAverage": 4.44,
-      "reviewCount": 10,
-      "genreId": "101901001",
-      "isbn": "4335254300320",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "海辺のエール",
-        "author": "",
-        "score": 58,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 13
-          }
-        ],
-        "source": "combined",
-        "rank": 43,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "海辺のエール",
-        "author": "",
-        "isbn": "",
-        "score": 167,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 13
-          }
-        ],
-        "source": "combined",
         "rank": 20
-      }
-    },
-    {
-      "id": "4332254800300",
-      "title": "生きて行く私",
-      "author": "宇野　千代",
-      "publisher": "KADOKAWA",
-      "price": 803,
-      "url": "https://books.rakuten.co.jp/rk/57ee814194de3067a25639b09853eeb5/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9474/2000003109474.jpg?_ex=600x600",
-      "caption": "山口県岩国の生家と父母、小学校代用教員の時の恋と初体験、いとことの結婚、新聞懸賞小説の入選、尾崎士郎との出会いと同棲、東郷青児、北原武夫とつづく愛の遍歴……数えて百歳。感動を呼ぶ大河自伝。\n",
-      "salesDate": "2015年05月21日",
-      "series": "",
-      "reviewAverage": 3.97,
-      "reviewCount": 37,
-      "genreId": "101901001",
-      "isbn": "4332254800300",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "生きて行く私",
-        "author": "宇野 千代",
-        "score": 58,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 13
-          }
-        ],
-        "source": "combined",
-        "rank": 44,
-        "originalTitle": "生きて行く私 (角川文庫)"
-      },
-      "ranking": {
-        "title": "生きて行く私 (角川文庫)",
-        "author": "宇野 千代",
-        "isbn": "",
-        "score": 167,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 13
-          }
-        ],
-        "source": "combined",
-        "rank": 21
-      }
-    },
-    {
-      "id": "4910000884732",
-      "title": "手紙屋 蛍雪篇 〜私の受験勉強を変えた十通の手紙〜 ジュニア版",
-      "author": "喜多川泰",
-      "publisher": "ディスカヴァー・トゥエンティワン",
-      "price": 1430,
-      "url": "https://books.rakuten.co.jp/rk/10fdec8a1e6f34078eb5d5b238a5853a/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8392/2000021118392.jpg?_ex=600x600",
-      "caption": "**【「大人でもグッとくる」と大反響！勉強と人生の意味を問う子どもに読ませたい物語】\n★「学識サロン」YouTubeチャンネルで紹介され話題！Amazonランキング３カテゴリー*で１位独占！（2026年8月18日調べ）\n*こどもの冒険読み物／童話・こどもの文学／人文・思想の教育学\n　\n★小学校高学年〜中学生向け\n★学校での読書の時間にもおすすめの1冊**\n★著書累計145万部 喜多川泰のベストセラーが待望のジュニア版になって新登場！\n★勉強の本当の意味とは？ その面白さとは？ そして、夢を実現するために本当に必要なこととは？\n「手紙屋」からの『未来を拓く10の教え』が、自分らしく生きたいあなたの明日を変えてくれる。\n【ジュニア版だけの特別なポイント】\n・ふりがな付きで、小中学生もスラスラ読める！\n・物語を彩る挿絵入り！世界観をより深く味わえます。\n・著者書き下ろしの「あとがき」を収録！これからの未来をつくる読者の皆さまへ向けて、喜多川泰氏が特別なメッセージを書き下ろし。本編の感動がさらに深まる、ここでしか読めない大切な言葉が詰まっています。\n【あらすじ】\n「何のために勉強するんだろう」\n「何のために大学に行くんだろう」\nだれでも一度はそんなふうに思ったことがあるのではないでしょうか？\nこの本の主人公「和花」は、部活と友だち付き合いに明け暮れる高校2年生。\n夏休みを目前にしたある日、進路のことで父親と衝突してしまいます。\n大学に行きたいけれど、成績が上がらない。\n勉強しなきゃと思うけど、やる気になれない……。\nそんな和花に兄の喜太朗が紹介してくれたのが、謎の人物「手紙屋」。\n10通の手紙をやりとりすることで、夢を実現させてくれるというが……。\nモヤモヤした今の気持ちを吹き飛ばしたい一心で怪しみながらも手紙を書き始めた和花。\nしかし、手紙屋から返ってきたのは、これまでの「勉強」のイメージをガラリと変える、驚きのメッセージの数々でした。\n【本書「あとがき」より】\n多くの中高生は、「行きたい高校（または大学）がある。\nだから勉強しなければならない」と考えています。\n「欲しいものがある。だから努力する」という人にとって、\n勉強に意味があったかどうかの判断は、結果がすべてです。\nでも、本当に大切なのは結果ではありません。\nなぜなら挑戦は「結果」のためにやるのではなく、「出会い」のためにするものだからです。\nーー著者・喜多川泰\n【10代の読者から感動の声、続々】\n「勉強の視点が180度変わりました。」（10代・男性）\n「すごく分かりやすい説得力のある言葉があり、心に響きました。」（20代・女性）\n「勉強が嫌いな自分でも勉強をしようと思え、これから先も自分を磨くために頑張ろうと思います。素敵な本に出会えてよかったです。」（10代・女性）\n「登場人物が自分と同年代で、内容がスっと入ってきました。勉強の概念をくつがえされ、ものすごく勉強したい欲が出てきました。」（10代・女性）\n「これからどう生きるか考えるきっかけになりました」（10代男性）\n「この本は私の背中を押してくれました。私は私の言葉に自信を持っていい。本当にありがとうございます。出会えて良かったです。」（10代女性）\n＊本書は、2007年12月に弊社から刊行された『手紙屋 蛍雪篇〜私の受験勉強を変えた十通の手紙〜』をもとに、一部の漢字にふりがなをふり、再編集したものです。\n",
-      "salesDate": "2026年07月24日",
-      "series": "手紙屋 蛍雪篇 〜私の受験勉強を変えた十通の手紙〜 ジュニア版",
-      "reviewAverage": 4.6,
-      "reviewCount": 5,
-      "genreId": "101905016001/101901",
-      "isbn": "4910000884732",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "手紙屋 蛍雪篇 ～私の受験勉強を変えた十通の手紙～ ジュニア版",
-        "author": "喜多川泰",
-        "isbn": "",
-        "score": 166,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 14
-          }
-        ],
-        "source": "combined",
-        "rank": 46
-      },
-      "ranking": {
-        "title": "手紙屋 蛍雪篇 ～私の受験勉強を変えた十通の手紙～ ジュニア版",
-        "author": "喜多川泰",
-        "isbn": "",
-        "score": 166,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 14
-          }
-        ],
-        "source": "combined",
-        "rank": 22
-      }
-    },
-    {
-      "id": "4335763900320",
-      "title": "魔導具師ダリヤはうつむかない　〜今日から自由な職人ライフ〜15",
-      "author": "甘岸久弥/駒田　ハチ/景",
-      "publisher": "KADOKAWA",
-      "price": 1760,
-      "url": "https://books.rakuten.co.jp/rk/0d7e67d17c3a30409f06a4f75fa88d86/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9957/2000022049957.jpg?_ex=600x600",
-      "caption": "魔導具が魔物討伐部隊の力になることを祈り、戦況を見守る魔導具師のダリヤ。ダリヤ達が考案したクラーケンテープによる九頭大蛇の捕縛作戦は功を奏し、絶望の淵にいたヴォルフも笑みを取り戻す。しかし、九頭大蛇は猛攻を受けても抵抗を続け、ヴォルフ達は傷を負い続ける。ただ見ていることしかできない己の無力さに、胸を痛めるダリヤ。だが、ダリヤの魔導具と共に戦う隊員達の姿に背中を押され、彼女は前を向く。運にも人にも恵まれた。いまだ魔導具師としては未熟だ。「それでも自分は魔物討伐部隊の相談役に成れたーーそのことを、心から誇ろう」ダリヤが、命を懸けた九頭大蛇戦の果てに見た景色とはーー？魔導具師ダリヤのものづくりストーリー、積み重ねた努力が実る第十五弾、開幕！\n",
-      "salesDate": "2026年10月23日",
-      "series": "魔導具師ダリヤはうつむかない　〜今日から自由な職人ライフ〜",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101903090",
-      "isbn": "4335763900320",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "魔導具師ダリヤはうつむかない 〈15〉 - 今日から自由な職人ライフ MFブックス",
-        "author": "",
-        "score": 50,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 15
-          }
-        ],
-        "source": "combined",
-        "rank": 47,
-        "originalTitle": "魔導具師ダリヤはうつむかない 〈１５〉 - 今日から自由な職人ライフ ＭＦブックス"
-      },
-      "ranking": {
-        "title": "魔導具師ダリヤはうつむかない 〈１５〉 - 今日から自由な職人ライフ ＭＦブックス",
-        "author": "",
-        "isbn": "",
-        "score": 165,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 15
-          }
-        ],
-        "source": "combined",
-        "rank": 23
-      }
-    },
-    {
-      "id": "9784651022659",
-      "title": "秘密にしたい魅惑のスイーツレシピ",
-      "author": "小林啓吾",
-      "publisher": "ワン・パブリッシング",
-      "price": 1760,
-      "url": "https://books.rakuten.co.jp/rk/285f41d64eb63bf9b9ab0274532131f1/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6697/2000022186697.jpg?_ex=600x600",
-      "caption": "創業190年の老舗「榮玉堂」八代目・小林啓吾さんが提案する、“おうちで楽しむプロの味”をテーマにしたお菓子レシピ集。使うのは、スーパーで手に入る身近な食材と、家庭にある道具だけ。特別な材料や難しい工程は一切なし。それでいて、ひと口食べれば「お店みたい！」と驚くような仕上がりを目指せる作り方を紹介。和菓子・洋菓子の垣根を越えて、お菓子づくりをもっと自由に、もっと身近に楽しめる一冊です。\n",
-      "salesDate": "2026年10月20日",
-      "series": "",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101909010",
-      "isbn": "9784651022659",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "秘密にしたい魅惑のスイーツレシピ",
-        "author": "小林啓吾",
-        "score": 50,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 15
-          }
-        ],
-        "source": "combined",
-        "rank": 48,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "秘密にしたい魅惑のスイーツレシピ",
-        "author": "小林啓吾",
-        "isbn": "",
-        "score": 165,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 15
-          }
-        ],
-        "source": "combined",
-        "rank": 24
-      }
-    },
-    {
-      "id": "4310000886199",
-      "title": "星を編む",
-      "author": "凪良ゆう",
-      "publisher": "講談社",
-      "price": 935,
-      "url": "https://books.rakuten.co.jp/rk/d72dfe5dc4a2317f84b80db364af804e/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7262/2000021157262.jpg?_ex=600x600",
-      "caption": "☆2023年本屋大賞受賞作　シリーズ最新作☆\n第20回本屋大賞受賞作『汝、星のごとく』続編\n花火のように煌めいて、\n届かぬ星を見上げて、\n海のように見守って、\nいつでもそこには愛があった。\nああ、そうか。\nわたしたちは幸せだった\nのかもしれないね。\n『汝、星のごとく』で語りきれなかった愛の物語\n「春に翔ぶ」ーー瀬戸内の島で出会った櫂と暁海。二人を支える教師・北原が秘めた過去。彼が病院で話しかけられた教え子の菜々が抱えていた問題とは？\n「星を編む」ーー才能という名の星を輝かせるために、魂を燃やす編集者たちの物語。漫画原作者・作家となった櫂を担当した編集者二人が繋いだもの。\n「波を渡る」ーー花火のように煌めく時間を経て、愛の果てにも暁海の人生は続いていく。『汝、星のごとく』の先に描かれる、繋がる未来と新たな愛の形。\n",
-      "salesDate": "2026年07月15日",
-      "series": "汝、星のごとく",
-      "reviewAverage": 4.49,
-      "reviewCount": 234,
-      "genreId": "101901",
-      "isbn": "4310000886199",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "星を編む",
-        "author": "凪良 ゆう",
-        "score": 46,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 16
-          }
-        ],
-        "source": "combined",
-        "rank": 50,
-        "originalTitle": "星を編む (講談社文庫 な 101-3)"
-      },
-      "ranking": {
-        "title": "星を編む (講談社文庫 な 101-3)",
-        "author": "凪良 ゆう",
-        "isbn": "",
-        "score": 164,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 16
-          }
-        ],
-        "source": "combined",
-        "rank": 25
-      }
-    },
-    {
-      "id": "4524815638200",
-      "title": "【令和８年度】 いちばんやさしい ITパスポート 絶対合格の教科書＋出る順問題集",
-      "author": "高橋 京介",
-      "publisher": "SBクリエイティブ",
-      "price": 1815,
-      "url": "https://books.rakuten.co.jp/rk/37cfb79b3d0a3cd185134889f03aa9df/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7187/2000019267187.jpg?_ex=600x600",
-      "caption": "圧倒的な高評価で、７年連続・売り上げ　第１位！\n※この電子書籍は固定レイアウト型で配信されております。固定レイアウト型は文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。\n絶大な支持を得ているITパスポート試験対策本の令和8年度（2026年度）最新版です！\n2026年度の最新の傾向と対策を盛り込みました！\n話題の新重要用語「生成AI」関連にもしっかり対応！\n多くの図版を用いた、とことん丁寧な解説と、\n繰り返し何度も出題されている頻出の過去問（257問）を掲載！\nだから、この一冊で合格できます！\n＊＊\n本書は『ITパスポート』試験に、短期間で一発合格するための試験対策本です。\n「試験に合格すること」のみを目的に企画・構成されています。\nITの知識がまったくない、未経験者や学生、新社会人の方々でもスラスラと学習を進めることができるよう、\n初歩の初歩からとことん丁寧に解説しています。\n◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆\n本書の4つの特徴\n◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆\n（1）とことん丁寧な解説\nこれから学ぶ人でも安心して読み進められるよう、豊富なイラストや具体例を用いて、とにかくやさしく解説しています。\n（2）過去問を徹底研究\n過去問を徹底研究し、繰り返し出題されている頻出の過去問（類似問題）のみを厳選して掲載しています。\n（3）効率のよい学習方法を採用\n本書では、暗記が苦手な人、集中力が続かない人でも安心の「効率のよい学習方法」を採用しています。\n（4）万全の読者サポート\n読者専用サイトで、読者の「わからない！」をサポート。疑問・質問に回答します。だから挫折することなく合格できます！\n◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆\n■本書の対象読者\n◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆\n・ITパスポート試験に一発で合格したい人\n・試験勉強を効率よく進めたい人\n・ITの知識がない初心者の方々\n・できるだけラクに合格したい人\n※カバー画像が異なる場合があります。\n",
-      "salesDate": "2025年11月28日",
-      "series": "",
-      "reviewAverage": 4.67,
-      "reviewCount": 5,
-      "genreId": "101912090/101905017004",
-      "isbn": "4524815638200",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "【令和8年度】 いちばんやさしい ITパスポート 絶対合格の教科書+出る順問題集",
-        "author": "高橋 京介",
-        "score": 42,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 17
-          }
-        ],
-        "source": "combined",
-        "rank": 52,
-        "originalTitle": "【令和８年度】 いちばんやさしい ITパスポート 絶対合格の教科書＋出る順問題集"
-      },
-      "ranking": {
-        "title": "【令和８年度】 いちばんやさしい ITパスポート 絶対合格の教科書＋出る順問題集",
-        "author": "高橋 京介",
-        "isbn": "",
-        "score": 163,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 17
-          }
-        ],
-        "source": "combined",
-        "rank": 26
-      }
-    },
-    {
-      "id": "7224000858487",
-      "title": "7日でできる！ 英検3級 二次試験・面接 完全予想問題 新装改訂版（音声DL付）",
-      "author": "旺文社",
-      "publisher": "旺文社",
-      "price": 1320,
-      "url": "https://books.rakuten.co.jp/rk/b86acea7e072373ebfcba867c5c23881/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9444/2000020649444.jpg?_ex=600x600",
-      "caption": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。\n7日で面接試験を攻略！\n一次試験合格から二次試験当日までにやりきれる7回分の予想問題で、面接試験合格を目指す問題集です。\n★動画で面接をリアルに体験！\n面接室内の様子や、試験会場に到着してから会場を出るまでの流れをスマホ・PCで見ることができます。\n★スマホで簡単リスニング！\n「面接試験の流れ」「出題内容」「各Day」「重要語句・構文」の音声をスマホで、またはPCに音声データをダウンロードして聞くことができます。\n★本番さながらのシミュレーションができる！\nフルカラーの問題カード付き。\nまた、ウェブ模試で、CBT形式のスピーキングテストを全問題練習できます。（PCからご利用ください。なお、スコア判定機能はありません）\n※本書の音声は、公式アプリ「英語の友」でお聞きいただけます。詳しくは、公式サイトをご覧ください。\n※本書は、2021年5月に刊行された『7日でできる！ 英検3級二次試験・面接 完全予想問題［改訂版］』のカバーデザインを変更したもので、内容は同じです。\n",
-      "salesDate": "2026年05月28日",
-      "series": "英検二次試験・面接完全予想問題 シリーズ",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101906001002",
-      "isbn": "7224000858487",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "7日でできる! 英検3級 二次試験・面接 完全予想問題 新装改訂版",
-        "author": "旺文社",
-        "score": 38,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 18
-          }
-        ],
-        "source": "combined",
-        "rank": 54,
-        "originalTitle": "7日でできる！ 英検3級 二次試験・面接 完全予想問題 新装改訂版"
-      },
-      "ranking": {
-        "title": "7日でできる！ 英検3級 二次試験・面接 完全予想問題 新装改訂版",
-        "author": "旺文社",
-        "isbn": "",
-        "score": 162,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 18
-          }
-        ],
-        "source": "combined",
-        "rank": 27
-      }
-    },
-    {
-      "id": "4480000944629",
-      "title": "フロムヴィレッジ",
-      "author": "誉田哲也",
-      "publisher": "光文社",
-      "price": 2200,
-      "url": "https://books.rakuten.co.jp/rk/75470200f9a43c36908e338026f07666/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1303/2000022021303.jpg?_ex=600x600",
-      "caption": "都内で発生した轢死事件。被害男性が香川県在住であることから、警視庁捜査一課殺人班十一係主任・姫川玲子は四国へ飛ぶことに。被害者は神社を営む旧家・十河家の縁戚者であり、玲子は二つの家系に横たわる世代を超えた暗い因縁を掴む。一方、魚住久江巡査部長らが捜査を続ける東京の捜査本部では、被害者が生前、遺伝子検査機関と連絡を取っていたことが判明しーー。圧倒的面白さで新境地を切り拓く〈姫川玲子シリーズ〉第11弾！\n",
-      "salesDate": "2026年10月21日",
-      "series": "警部補　姫川玲子",
-      "reviewAverage": 0,
-      "reviewCount": 1,
-      "genreId": "101901/101902",
-      "isbn": "4480000944629",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "フロムヴィレッジ",
-        "author": "",
-        "score": 30,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 20
-          }
-        ],
-        "source": "combined",
-        "rank": 56,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "フロムヴィレッジ",
-        "author": "",
-        "isbn": "",
-        "score": 160,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 20
-          }
-        ],
-        "source": "combined",
-        "rank": 28
-      }
-    },
-    {
-      "id": "4310000948230",
-      "title": "初恋をしまう日",
-      "author": "町田そのこ",
-      "publisher": "講談社",
-      "price": 2255,
-      "url": "https://books.rakuten.co.jp/rk/b74099b6562b340882589b68342399f3/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0755/2000022100755.jpg?_ex=600x600",
-      "caption": "本屋大賞作家・町田そのこ　デビュー10周年！\n「ひとと生きるのは、辛いことよ」\nそう言って渡されたお揃いのリングが、いつまでもわたしの宝物だった。\n兄の犯罪で故郷を追われることになった茜（あかね）と、苛烈な父親を持つ碧生（あお）。二人は惹かれ合うも、現実を変えるにはあまりに幼く無力だった。15年の時が経ち新天地で生活する彼らだが、過去と向き合うときはすぐそこまで来ていた。いつまでも変わらないものと、新たな出会いに恵まれ変化したものを見つめ、かけがえのない初恋に下す決断は。\n",
-      "salesDate": "2026年10月20日",
-      "series": "初恋をしまう日",
-      "reviewAverage": 5,
-      "reviewCount": 3,
-      "genreId": "101901",
-      "isbn": "4310000948230",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "初恋をしまう日",
-        "author": "",
-        "score": 26,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 21
-          }
-        ],
-        "source": "combined",
-        "rank": 58,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "初恋をしまう日",
-        "author": "",
-        "isbn": "",
-        "score": 159,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 21
-          }
-        ],
-        "source": "combined",
-        "rank": 29
-      }
-    },
-    {
-      "id": "7224000858488",
-      "title": "10日でできる！ 英検準2級 二次試験・面接 完全予想問題 新装改訂版（音声DL付）",
-      "author": "旺文社",
-      "publisher": "旺文社",
-      "price": 1540,
-      "url": "https://books.rakuten.co.jp/rk/582b9b0a07713cab8f3e34eb438b8847/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9447/2000020649447.jpg?_ex=600x600",
-      "caption": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。\n10日で面接試験を攻略！\n一次試験合格から二次試験当日までにやりきれる10回分の予想問題で、面接試験合格を目指す問題集です。\n★動画で面接をリアルに体験！\n面接室内の様子や、試験会場に到着してから会場を出るまでの流れをスマホ・PCで見ることができます。\n★スマホで簡単リスニング！\n「面接試験の流れ」「出題内容」「各Day」「重要表現とテーマ別例文」の音声をスマホで、またはPCに音声データをダウンロードして聞くことができます。\n★本番さながらのシミュレーションができる！\nフルカラーの問題カード付き。また、ウェブ模試で、CBT形式のスピーキングテストを練習できます。（PCからご利用ください。なお、スコア判定機能はありません）\n※本書の音声は、公式アプリ「英語の友」でお聞きいただけます。詳しくは、公式サイトをご覧ください。\n※本書は、2021年5月に刊行された『10日でできる！ 英検準2級二次試験・面接 完全予想問題［改訂版］』のカバーデザインを変更したもので、内容は同じです。\n",
-      "salesDate": "2026年05月28日",
-      "series": "英検二次試験・面接完全予想問題 シリーズ",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101906001002",
-      "isbn": "7224000858488",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "10日でできる! 英検準2級 二次試験・面接 完全予想問題 新装改訂版",
-        "author": "旺文社",
-        "score": 22,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 22
-          }
-        ],
-        "source": "combined",
-        "rank": 61,
-        "originalTitle": "10日でできる！ 英検準2級 二次試験・面接 完全予想問題 新装改訂版"
-      },
-      "ranking": {
-        "title": "10日でできる！ 英検準2級 二次試験・面接 完全予想問題 新装改訂版",
-        "author": "旺文社",
-        "isbn": "",
-        "score": 158,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 22
-          }
-        ],
-        "source": "combined",
-        "rank": 30
       }
     },
     {
@@ -1743,32 +1266,32 @@
       "matchMeta": {
         "title": "寝ながらヘーゲル NHK出版新書",
         "author": "",
-        "score": 22,
+        "score": 50,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 22
+            "rank": 15
           }
         ],
         "source": "combined",
-        "rank": 60,
+        "rank": 48,
         "originalTitle": "寝ながらヘーゲル ＮＨＫ出版新書"
       },
       "ranking": {
         "title": "寝ながらヘーゲル ＮＨＫ出版新書",
         "author": "",
         "isbn": "",
-        "score": 158,
+        "score": 165,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 22
+            "rank": 15
           }
         ],
         "source": "combined",
-        "rank": 31
+        "rank": 21
       }
     },
     {
@@ -1790,174 +1313,361 @@
       "matchMeta": {
         "title": "覚悟の磨き方 超訳 吉田松陰 (サンクチュアリ出版)",
         "author": "池田貴将",
-        "score": 14,
+        "score": 46,
         "sources": [
           {
             "source": "amazon",
             "label": "Amazon",
-            "rank": 24
+            "rank": 16
           }
         ],
         "source": "combined",
-        "rank": 65,
+        "rank": 51,
         "originalTitle": ""
       },
       "ranking": {
         "title": "覚悟の磨き方 超訳 吉田松陰 (サンクチュアリ出版)",
         "author": "池田貴将",
         "isbn": "",
-        "score": 156,
+        "score": 164,
         "sources": [
           {
             "source": "amazon",
             "label": "Amazon",
-            "rank": 24
+            "rank": 16
           }
         ],
         "source": "combined",
-        "rank": 32
+        "rank": 22
       }
     },
     {
-      "id": "4390000014247",
-      "title": "戦争犯罪と闘う　国際刑事裁判所は屈しない",
-      "author": "赤根智子",
-      "publisher": "文藝春秋",
-      "price": 1000,
-      "url": "https://books.rakuten.co.jp/rk/ed83c0d4161a37adb64937f2dc843815/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5761/2000017995761.jpg?_ex=600x600",
-      "caption": "二つの戦争、そして戦後国際秩序の行方は\nロシアによるウクライナ侵攻とイスラエルによるパレスチナへの非人道的な攻撃。目まぐるしく国際情勢が変化するなか、この二つの戦争に向き合い、プーチンとネタニヤフに逮捕状を出した国際刑事裁判所（ICC）。日本人として初めてそのトップに就任した著者は、ほどなくしてプーチンから逆指名手配を受けることにもなった。さらにはトランプ大統領の大統領令による経済制裁の脅威にさらされるなど、世界規模の戦争犯罪に向き合ってきた国際刑事裁判所はいま、存続の危機にある。\n第二次世界大戦後にホロコーストに向き合ったニュルンベルク裁判、日本の戦争責任を裁いた東京裁判。二つの軍事法廷裁判にルーツをもち、国際平和秩序を守ろうと奮闘してきた国際刑事裁判所とはいかなる機関か。二つの戦争という異例の事態にどう向き合ったのか。「世界の警察」アメリカが過去のものになりつつある戦後国際秩序の行方とはーー。\n「世界で起きていることが日本では起きないとは限らない」。「力による支配」がむき出しになりつつある今こそ「法の支配」による安全保障が必要だ。\n「ウクライナ戦争の勃発で完全に覚醒した」と語る赤根さんが、その奮闘を通じて未来への責任を語りかける。\n※本書電子書籍版は刊行後の国際情勢の変化を鑑み、２０２５年１０月に記述の一部を更新しました。\n",
-      "salesDate": "2025年06月20日",
-      "series": "",
-      "reviewAverage": 4.28,
-      "reviewCount": 73,
-      "genreId": "101907009/101907005003/101914",
-      "isbn": "4390000014247",
+      "id": "6474824014559",
+      "title": "お気楽領主の楽しい領地防衛 9　〜生産系魔術で名もなき村を最強の城塞都市に〜",
+      "author": "赤池宗",
+      "publisher": "オーバーラップ",
+      "price": 1430,
+      "url": "https://books.rakuten.co.jp/rk/5603eac78fdf3633acd55b7e60d38f48/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4992/2000019424992.jpg?_ex=600x600",
+      "caption": "海洋国家フィエスタ王国からの使者と交流し、船造りに挑んでいたヴァンは、使者の帰国に合わせセアト村へと戻り、再び村造りに励んでいた。そこへやってきたのは久々の再会となる実の兄セスト。イェリネッタ王国との戦でミスを連発し、父ジャルパから叱責され、陛下の訴状を届けに連絡役としてやってきたのだった。再び現れたフィエスタの使者の元へ向かうヴァンに同行することになったセストは、ますます成長しているヴァンを前に、驚きを隠せないでいた。そんなヴァンは、新たにやってきた大型帆船を見学させてもらい、苦労を重ねつつ試作船を完成させることに成功。記念すべき初航海を迎えると、陸地の見える近距離だけの航海で安全に終わるはずが、まさかの大型魔獣と遭遇し、予想外の襲撃を受けてしまう。そしてヴァンとアルテ、ティルとパナメラの四人は海へと投げ出されてしまい──。お気楽領地運営ファンタジー第９巻は、無人島で釣りに狩猟と、楽しい？サバイバル生活開幕！\n",
+      "salesDate": "2025年12月25日",
+      "series": "「お気楽領主の楽しい領地防衛」シリーズ",
+      "reviewAverage": 5,
+      "reviewCount": 1,
+      "genreId": "101903090",
+      "isbn": "6474824014559",
       "salesType": 0,
       "matchMeta": {
-        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
-        "author": "",
+        "title": "お気楽領主の楽しい領地防衛 9",
+        "author": "青色まろ",
+        "score": 42,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 17
+          }
+        ],
+        "source": "combined",
+        "rank": 53,
+        "originalTitle": "お気楽領主の楽しい領地防衛 9 (ガルドコミックス)"
+      },
+      "ranking": {
+        "title": "お気楽領主の楽しい領地防衛 9 (ガルドコミックス)",
+        "author": "青色まろ",
         "isbn": "",
-        "score": 154,
+        "score": 163,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 17
+          }
+        ],
+        "source": "combined",
+        "rank": 23
+      }
+    },
+    {
+      "id": "4310000886199",
+      "title": "星を編む",
+      "author": "凪良ゆう",
+      "publisher": "講談社",
+      "price": 935,
+      "url": "https://books.rakuten.co.jp/rk/d72dfe5dc4a2317f84b80db364af804e/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7262/2000021157262.jpg?_ex=600x600",
+      "caption": "☆2023年本屋大賞受賞作　シリーズ最新作☆\n第20回本屋大賞受賞作『汝、星のごとく』続編\n花火のように煌めいて、\n届かぬ星を見上げて、\n海のように見守って、\nいつでもそこには愛があった。\nああ、そうか。\nわたしたちは幸せだった\nのかもしれないね。\n『汝、星のごとく』で語りきれなかった愛の物語\n「春に翔ぶ」ーー瀬戸内の島で出会った櫂と暁海。二人を支える教師・北原が秘めた過去。彼が病院で話しかけられた教え子の菜々が抱えていた問題とは？\n「星を編む」ーー才能という名の星を輝かせるために、魂を燃やす編集者たちの物語。漫画原作者・作家となった櫂を担当した編集者二人が繋いだもの。\n「波を渡る」ーー花火のように煌めく時間を経て、愛の果てにも暁海の人生は続いていく。『汝、星のごとく』の先に描かれる、繋がる未来と新たな愛の形。\n",
+      "salesDate": "2026年07月15日",
+      "series": "汝、星のごとく",
+      "reviewAverage": 4.49,
+      "reviewCount": 234,
+      "genreId": "101901",
+      "isbn": "4310000886199",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "星を編む",
+        "author": "凪良 ゆう",
+        "score": 38,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 18
+          }
+        ],
+        "source": "combined",
+        "rank": 54,
+        "originalTitle": "星を編む (講談社文庫 な 101-3)"
+      },
+      "ranking": {
+        "title": "星を編む (講談社文庫 な 101-3)",
+        "author": "凪良 ゆう",
+        "isbn": "",
+        "score": 162,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 18
+          }
+        ],
+        "source": "combined",
+        "rank": 24
+      }
+    },
+    {
+      "id": "9784651022659",
+      "title": "秘密にしたい魅惑のスイーツレシピ",
+      "author": "小林啓吾",
+      "publisher": "ワン・パブリッシング",
+      "price": 1760,
+      "url": "https://books.rakuten.co.jp/rk/285f41d64eb63bf9b9ab0274532131f1/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6697/2000022186697.jpg?_ex=600x600",
+      "caption": "創業190年の老舗「榮玉堂」八代目・小林啓吾さんが提案する、“おうちで楽しむプロの味”をテーマにしたお菓子レシピ集。使うのは、スーパーで手に入る身近な食材と、家庭にある道具だけ。特別な材料や難しい工程は一切なし。それでいて、ひと口食べれば「お店みたい！」と驚くような仕上がりを目指せる作り方を紹介。和菓子・洋菓子の垣根を越えて、お菓子づくりをもっと自由に、もっと身近に楽しめる一冊です。\n",
+      "salesDate": "2026年10月20日",
+      "series": "",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101909010",
+      "isbn": "9784651022659",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "秘密にしたい魅惑のスイーツレシピ",
+        "author": "小林啓吾",
+        "score": 34,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 19
+          }
+        ],
+        "source": "combined",
+        "rank": 56,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "秘密にしたい魅惑のスイーツレシピ",
+        "author": "小林啓吾",
+        "isbn": "",
+        "score": 161,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 19
+          }
+        ],
+        "source": "combined",
+        "rank": 25
+      }
+    },
+    {
+      "id": "4480000944629",
+      "title": "フロムヴィレッジ",
+      "author": "誉田哲也",
+      "publisher": "光文社",
+      "price": 2200,
+      "url": "https://books.rakuten.co.jp/rk/75470200f9a43c36908e338026f07666/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1303/2000022021303.jpg?_ex=600x600",
+      "caption": "都内で発生した轢死事件。被害男性が香川県在住であることから、警視庁捜査一課殺人班十一係主任・姫川玲子は四国へ飛ぶことに。被害者は神社を営む旧家・十河家の縁戚者であり、玲子は二つの家系に横たわる世代を超えた暗い因縁を掴む。一方、魚住久江巡査部長らが捜査を続ける東京の捜査本部では、被害者が生前、遺伝子検査機関と連絡を取っていたことが判明しーー。圧倒的面白さで新境地を切り拓く〈姫川玲子シリーズ〉第11弾！\n",
+      "salesDate": "2026年10月21日",
+      "series": "警部補　姫川玲子",
+      "reviewAverage": 0,
+      "reviewCount": 1,
+      "genreId": "101901/101902",
+      "isbn": "4480000944629",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "フロムヴィレッジ",
+        "author": "",
+        "score": 26,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 26
+            "rank": 21
           }
         ],
         "source": "combined",
-        "rank": 68
+        "rank": 59,
+        "originalTitle": ""
       },
       "ranking": {
-        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
+        "title": "フロムヴィレッジ",
         "author": "",
         "isbn": "",
-        "score": 154,
+        "score": 159,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 26
+            "rank": 21
           }
         ],
         "source": "combined",
-        "rank": 33
+        "rank": 26
       }
     },
     {
-      "id": "8910126773560",
-      "title": "自分とか、ないから。　教養としての東洋哲学",
-      "author": "しんめいP",
-      "publisher": "サンクチュアリ出版",
-      "price": 1650,
-      "url": "https://books.rakuten.co.jp/rk/3e7a28858e2234d6887364847e57ec0c/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2213/2000015032213.jpg?_ex=600x600",
-      "caption": "ぶっ飛んでいるのに、なぜか論理的。\n生きづらさがマシになる（かもしれない）\nそれが、東洋哲学。\n「自分が本当にやりたいことってなんだろう？」\n「そもそも、本当の自分ってなんだろう？」\nそんな全・自分迷子に贈る、衝撃の哲学本がここに誕生。\nすべての答えは、「東洋哲学」にあった！！\nnoteで話題になった\n『東洋哲学本50冊よんだら「本当の自分」とかどうでもよくなった話』待望の書籍化！\n本書の著者・しんめいPさんは、東大卒のニート。\n新卒で大手IT企業→地方で教育事業→フリーランス→お笑い芸人\nと、自分探しをし続けた結果、虚無感から「無職」に。\n５年間、布団に引きこもっていたが\n「東洋哲学」に出会い、衝撃を受ける。\nーーーーーーーーーーーー\n（以下、本文より）\n東洋哲学にふれていると、\n「ふとんに入ってるくらい、何の問題もない」と思えてくるのだ。\n人生は、ムズくない。本当はシンプル。\n難しくしているのは自分なのだ。\nそんなことを教えてくれる。\nそして、ふとんに入ったまま、この本を書くことになったのだ。\n東洋哲学は、とにかく楽になるための哲学だ。\n無職だろうが、離婚してようが、ふとんにいようが、\nめちゃくちゃ楽になれる、ヤバい哲学である。\nこの本では、そんな東洋哲学の哲学者７人を紹介しながら、\n彼らの哲学を知って、実際にぼくがどう楽になったかを語っていく。\nーーーーーーーーーーーー\n〜コンテンツ例〜\nブッダ「自分なんてない」\n龍樹「全部、空」\n老子「ありのままが最強」\n荘子「この世は夢」\n達磨「言葉はいらねえ」\n親鸞「他力本願でOK」\n空海「欲あってよし」\n哲学の本なのに、\nなぜかクスリと笑えて、不思議と心が楽になる。\n「自分探し」まさかの答えを、体感せよ。\n",
-      "salesDate": "2024年04月23日",
-      "series": "",
-      "reviewAverage": 3.99,
-      "reviewCount": 755,
-      "genreId": "101908008002/101905010",
-      "isbn": "8910126773560",
+      "id": "4910000884732",
+      "title": "手紙屋 蛍雪篇 〜私の受験勉強を変えた十通の手紙〜 ジュニア版",
+      "author": "喜多川泰",
+      "publisher": "ディスカヴァー・トゥエンティワン",
+      "price": 1430,
+      "url": "https://books.rakuten.co.jp/rk/10fdec8a1e6f34078eb5d5b238a5853a/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8392/2000021118392.jpg?_ex=600x600",
+      "caption": "**【「大人でもグッとくる」と大反響！勉強と人生の意味を問う子どもに読ませたい物語】\n★「学識サロン」YouTubeチャンネルで紹介され話題！Amazonランキング３カテゴリー*で１位独占！（2026年8月18日調べ）\n*こどもの冒険読み物／童話・こどもの文学／人文・思想の教育学\n　\n★小学校高学年〜中学生向け\n★学校での読書の時間にもおすすめの1冊**\n★著書累計145万部 喜多川泰のベストセラーが待望のジュニア版になって新登場！\n★勉強の本当の意味とは？ その面白さとは？ そして、夢を実現するために本当に必要なこととは？\n「手紙屋」からの『未来を拓く10の教え』が、自分らしく生きたいあなたの明日を変えてくれる。\n【ジュニア版だけの特別なポイント】\n・ふりがな付きで、小中学生もスラスラ読める！\n・物語を彩る挿絵入り！世界観をより深く味わえます。\n・著者書き下ろしの「あとがき」を収録！これからの未来をつくる読者の皆さまへ向けて、喜多川泰氏が特別なメッセージを書き下ろし。本編の感動がさらに深まる、ここでしか読めない大切な言葉が詰まっています。\n【あらすじ】\n「何のために勉強するんだろう」\n「何のために大学に行くんだろう」\nだれでも一度はそんなふうに思ったことがあるのではないでしょうか？\nこの本の主人公「和花」は、部活と友だち付き合いに明け暮れる高校2年生。\n夏休みを目前にしたある日、進路のことで父親と衝突してしまいます。\n大学に行きたいけれど、成績が上がらない。\n勉強しなきゃと思うけど、やる気になれない……。\nそんな和花に兄の喜太朗が紹介してくれたのが、謎の人物「手紙屋」。\n10通の手紙をやりとりすることで、夢を実現させてくれるというが……。\nモヤモヤした今の気持ちを吹き飛ばしたい一心で怪しみながらも手紙を書き始めた和花。\nしかし、手紙屋から返ってきたのは、これまでの「勉強」のイメージをガラリと変える、驚きのメッセージの数々でした。\n【本書「あとがき」より】\n多くの中高生は、「行きたい高校（または大学）がある。\nだから勉強しなければならない」と考えています。\n「欲しいものがある。だから努力する」という人にとって、\n勉強に意味があったかどうかの判断は、結果がすべてです。\nでも、本当に大切なのは結果ではありません。\nなぜなら挑戦は「結果」のためにやるのではなく、「出会い」のためにするものだからです。\nーー著者・喜多川泰\n【10代の読者から感動の声、続々】\n「勉強の視点が180度変わりました。」（10代・男性）\n「すごく分かりやすい説得力のある言葉があり、心に響きました。」（20代・女性）\n「勉強が嫌いな自分でも勉強をしようと思え、これから先も自分を磨くために頑張ろうと思います。素敵な本に出会えてよかったです。」（10代・女性）\n「登場人物が自分と同年代で、内容がスっと入ってきました。勉強の概念をくつがえされ、ものすごく勉強したい欲が出てきました。」（10代・女性）\n「これからどう生きるか考えるきっかけになりました」（10代男性）\n「この本は私の背中を押してくれました。私は私の言葉に自信を持っていい。本当にありがとうございます。出会えて良かったです。」（10代女性）\n＊本書は、2007年12月に弊社から刊行された『手紙屋 蛍雪篇〜私の受験勉強を変えた十通の手紙〜』をもとに、一部の漢字にふりがなをふり、再編集したものです。\n",
+      "salesDate": "2026年07月24日",
+      "series": "手紙屋 蛍雪篇 〜私の受験勉強を変えた十通の手紙〜 ジュニア版",
+      "reviewAverage": 4.6,
+      "reviewCount": 5,
+      "genreId": "101905016001/101901",
+      "isbn": "4910000884732",
       "salesType": 0,
       "matchMeta": {
-        "title": "自分とか、ないから。教養としての東洋哲学 (サンクチュアリ出版)",
-        "author": "しんめいP",
-        "isbn": "",
-        "score": 152,
+        "title": "手紙屋 蛍雪篇 ~私の受験勉強を変えた十通の手紙~ ジュニア版",
+        "author": "喜多川泰",
+        "score": 22,
         "sources": [
           {
             "source": "amazon",
             "label": "Amazon",
-            "rank": 28
+            "rank": 22
           }
         ],
         "source": "combined",
-        "rank": 72
+        "rank": 62,
+        "originalTitle": "手紙屋 蛍雪篇 ～私の受験勉強を変えた十通の手紙～ ジュニア版"
       },
       "ranking": {
-        "title": "自分とか、ないから。教養としての東洋哲学 (サンクチュアリ出版)",
-        "author": "しんめいP",
+        "title": "手紙屋 蛍雪篇 ～私の受験勉強を変えた十通の手紙～ ジュニア版",
+        "author": "喜多川泰",
         "isbn": "",
-        "score": 152,
+        "score": 158,
         "sources": [
           {
             "source": "amazon",
             "label": "Amazon",
-            "rank": 28
+            "rank": 22
           }
         ],
         "source": "combined",
-        "rank": 34
+        "rank": 27
       }
     },
     {
-      "id": "9784059200208",
-      "title": "中学英語をもう一度ひとつひとつわかりやすく。改訂版",
-      "author": "山田暢彦",
-      "publisher": "Gakken",
-      "price": 2750,
-      "url": "https://books.rakuten.co.jp/rk/9cb800a28b693c02bc3c7c425c8b23c9/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0886/2000010850886.jpg?_ex=600x600",
-      "caption": "大人気参考書「ひとつひとつわかりやすく」3冊を再構成した中学英語学び直し本。やさしい解説と豊富な練習問題で，英文法の知識と英語の感覚が同時に身につく。大人向けの追加情報や音声学習コンテンツも充実。全英文収録の音読CD2枚つき。スマホ再生対応\n※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字列のハイライトや検索、辞書の参照、引用などの機能が使用できません。\n",
-      "salesDate": "2022年03月08日",
-      "series": "",
-      "reviewAverage": 4.38,
-      "reviewCount": 14,
-      "genreId": "101906001009",
-      "isbn": "9784059200208",
+      "id": "7224000858488",
+      "title": "10日でできる！ 英検準2級 二次試験・面接 完全予想問題 新装改訂版（音声DL付）",
+      "author": "旺文社",
+      "publisher": "旺文社",
+      "price": 1540,
+      "url": "https://books.rakuten.co.jp/rk/582b9b0a07713cab8f3e34eb438b8847/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9447/2000020649447.jpg?_ex=600x600",
+      "caption": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。\n10日で面接試験を攻略！\n一次試験合格から二次試験当日までにやりきれる10回分の予想問題で、面接試験合格を目指す問題集です。\n★動画で面接をリアルに体験！\n面接室内の様子や、試験会場に到着してから会場を出るまでの流れをスマホ・PCで見ることができます。\n★スマホで簡単リスニング！\n「面接試験の流れ」「出題内容」「各Day」「重要表現とテーマ別例文」の音声をスマホで、またはPCに音声データをダウンロードして聞くことができます。\n★本番さながらのシミュレーションができる！\nフルカラーの問題カード付き。また、ウェブ模試で、CBT形式のスピーキングテストを練習できます。（PCからご利用ください。なお、スコア判定機能はありません）\n※本書の音声は、公式アプリ「英語の友」でお聞きいただけます。詳しくは、公式サイトをご覧ください。\n※本書は、2021年5月に刊行された『10日でできる！ 英検準2級二次試験・面接 完全予想問題［改訂版］』のカバーデザインを変更したもので、内容は同じです。\n",
+      "salesDate": "2026年05月28日",
+      "series": "英検二次試験・面接完全予想問題 シリーズ",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101906001002",
+      "isbn": "7224000858488",
       "salesType": 0,
       "matchMeta": {
-        "title": "中学英語をもう一度ひとつひとつわかりやすく。改訂版",
-        "author": "山田暢彦",
-        "isbn": "",
-        "score": 150,
+        "title": "10日でできる! 英検準2級 二次試験・面接 完全予想問題 新装改訂版",
+        "author": "旺文社",
+        "score": 18,
         "sources": [
           {
             "source": "amazon",
             "label": "Amazon",
-            "rank": 30
+            "rank": 23
           }
         ],
         "source": "combined",
-        "rank": 75,
-        "originalTitle": "中学英語をもう一度ひとつひとつわかりやすく。改訂版"
+        "rank": 64,
+        "originalTitle": "10日でできる！ 英検準2級 二次試験・面接 完全予想問題 新装改訂版"
       },
       "ranking": {
-        "title": "中学英語をもう一度ひとつひとつわかりやすく。改訂版",
-        "author": "山田暢彦",
+        "title": "10日でできる！ 英検準2級 二次試験・面接 完全予想問題 新装改訂版",
+        "author": "旺文社",
         "isbn": "",
-        "score": 150,
+        "score": 157,
         "sources": [
           {
             "source": "amazon",
             "label": "Amazon",
-            "rank": 30
+            "rank": 23
           }
         ],
         "source": "combined",
-        "rank": 35
+        "rank": 28
+      }
+    },
+    {
+      "id": "4524815638200",
+      "title": "【令和８年度】 いちばんやさしい ITパスポート 絶対合格の教科書＋出る順問題集",
+      "author": "高橋 京介",
+      "publisher": "SBクリエイティブ",
+      "price": 1815,
+      "url": "https://books.rakuten.co.jp/rk/37cfb79b3d0a3cd185134889f03aa9df/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7187/2000019267187.jpg?_ex=600x600",
+      "caption": "圧倒的な高評価で、７年連続・売り上げ　第１位！\n※この電子書籍は固定レイアウト型で配信されております。固定レイアウト型は文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。\n絶大な支持を得ているITパスポート試験対策本の令和8年度（2026年度）最新版です！\n2026年度の最新の傾向と対策を盛り込みました！\n話題の新重要用語「生成AI」関連にもしっかり対応！\n多くの図版を用いた、とことん丁寧な解説と、\n繰り返し何度も出題されている頻出の過去問（257問）を掲載！\nだから、この一冊で合格できます！\n＊＊\n本書は『ITパスポート』試験に、短期間で一発合格するための試験対策本です。\n「試験に合格すること」のみを目的に企画・構成されています。\nITの知識がまったくない、未経験者や学生、新社会人の方々でもスラスラと学習を進めることができるよう、\n初歩の初歩からとことん丁寧に解説しています。\n◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆\n本書の4つの特徴\n◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆\n（1）とことん丁寧な解説\nこれから学ぶ人でも安心して読み進められるよう、豊富なイラストや具体例を用いて、とにかくやさしく解説しています。\n（2）過去問を徹底研究\n過去問を徹底研究し、繰り返し出題されている頻出の過去問（類似問題）のみを厳選して掲載しています。\n（3）効率のよい学習方法を採用\n本書では、暗記が苦手な人、集中力が続かない人でも安心の「効率のよい学習方法」を採用しています。\n（4）万全の読者サポート\n読者専用サイトで、読者の「わからない！」をサポート。疑問・質問に回答します。だから挫折することなく合格できます！\n◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆\n■本書の対象読者\n◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆\n・ITパスポート試験に一発で合格したい人\n・試験勉強を効率よく進めたい人\n・ITの知識がない初心者の方々\n・できるだけラクに合格したい人\n※カバー画像が異なる場合があります。\n",
+      "salesDate": "2025年11月28日",
+      "series": "",
+      "reviewAverage": 4.67,
+      "reviewCount": 5,
+      "genreId": "101912090/101905017004",
+      "isbn": "4524815638200",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "【令和8年度】 いちばんやさしい ITパスポート 絶対合格の教科書+出る順問題集",
+        "author": "高橋 京介",
+        "score": 10,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 25
+          }
+        ],
+        "source": "combined",
+        "rank": 68,
+        "originalTitle": "【令和８年度】 いちばんやさしい ITパスポート 絶対合格の教科書＋出る順問題集"
+      },
+      "ranking": {
+        "title": "【令和８年度】 いちばんやさしい ITパスポート 絶対合格の教科書＋出る順問題集",
+        "author": "高橋 京介",
+        "isbn": "",
+        "score": 155,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 25
+          }
+        ],
+        "source": "combined",
+        "rank": 29
       }
     },
     {
@@ -1979,32 +1689,267 @@
       "matchMeta": {
         "title": "人間の性 幻冬舎新書",
         "author": "",
-        "isbn": "",
-        "score": 150,
+        "score": 10,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 30
+            "rank": 25
           }
         ],
         "source": "combined",
-        "rank": 76
+        "rank": 67,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "人間の性 幻冬舎新書",
         "author": "",
         "isbn": "",
-        "score": 150,
+        "score": 155,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 30
+            "rank": 25
           }
         ],
         "source": "combined",
-        "rank": 36
+        "rank": 30
+      }
+    },
+    {
+      "id": "7224000858487",
+      "title": "7日でできる！ 英検3級 二次試験・面接 完全予想問題 新装改訂版（音声DL付）",
+      "author": "旺文社",
+      "publisher": "旺文社",
+      "price": 1320,
+      "url": "https://books.rakuten.co.jp/rk/b86acea7e072373ebfcba867c5c23881/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9444/2000020649444.jpg?_ex=600x600",
+      "caption": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。\n7日で面接試験を攻略！\n一次試験合格から二次試験当日までにやりきれる7回分の予想問題で、面接試験合格を目指す問題集です。\n★動画で面接をリアルに体験！\n面接室内の様子や、試験会場に到着してから会場を出るまでの流れをスマホ・PCで見ることができます。\n★スマホで簡単リスニング！\n「面接試験の流れ」「出題内容」「各Day」「重要語句・構文」の音声をスマホで、またはPCに音声データをダウンロードして聞くことができます。\n★本番さながらのシミュレーションができる！\nフルカラーの問題カード付き。\nまた、ウェブ模試で、CBT形式のスピーキングテストを全問題練習できます。（PCからご利用ください。なお、スコア判定機能はありません）\n※本書の音声は、公式アプリ「英語の友」でお聞きいただけます。詳しくは、公式サイトをご覧ください。\n※本書は、2021年5月に刊行された『7日でできる！ 英検3級二次試験・面接 完全予想問題［改訂版］』のカバーデザインを変更したもので、内容は同じです。\n",
+      "salesDate": "2026年05月28日",
+      "series": "英検二次試験・面接完全予想問題 シリーズ",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101906001002",
+      "isbn": "7224000858487",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "7日でできる! 英検3級 二次試験・面接 完全予想問題 新装改訂版",
+        "author": "旺文社",
+        "score": 6,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 26
+          }
+        ],
+        "source": "combined",
+        "rank": 70,
+        "originalTitle": "7日でできる！ 英検3級 二次試験・面接 完全予想問題 新装改訂版"
+      },
+      "ranking": {
+        "title": "7日でできる！ 英検3級 二次試験・面接 完全予想問題 新装改訂版",
+        "author": "旺文社",
+        "isbn": "",
+        "score": 154,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 26
+          }
+        ],
+        "source": "combined",
+        "rank": 31
+      }
+    },
+    {
+      "id": "4335763900320",
+      "title": "魔導具師ダリヤはうつむかない　〜今日から自由な職人ライフ〜15",
+      "author": "甘岸久弥/駒田　ハチ/景",
+      "publisher": "KADOKAWA",
+      "price": 1760,
+      "url": "https://books.rakuten.co.jp/rk/0d7e67d17c3a30409f06a4f75fa88d86/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9957/2000022049957.jpg?_ex=600x600",
+      "caption": "魔導具が魔物討伐部隊の力になることを祈り、戦況を見守る魔導具師のダリヤ。ダリヤ達が考案したクラーケンテープによる九頭大蛇の捕縛作戦は功を奏し、絶望の淵にいたヴォルフも笑みを取り戻す。しかし、九頭大蛇は猛攻を受けても抵抗を続け、ヴォルフ達は傷を負い続ける。ただ見ていることしかできない己の無力さに、胸を痛めるダリヤ。だが、ダリヤの魔導具と共に戦う隊員達の姿に背中を押され、彼女は前を向く。運にも人にも恵まれた。いまだ魔導具師としては未熟だ。「それでも自分は魔物討伐部隊の相談役に成れたーーそのことを、心から誇ろう」ダリヤが、命を懸けた九頭大蛇戦の果てに見た景色とはーー？魔導具師ダリヤのものづくりストーリー、積み重ねた努力が実る第十五弾、開幕！\n",
+      "salesDate": "2026年10月23日",
+      "series": "魔導具師ダリヤはうつむかない　〜今日から自由な職人ライフ〜",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101903090",
+      "isbn": "4335763900320",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "魔導具師ダリヤはうつむかない 〈15〉 - 今日から自由な職人ライフ MFブックス",
+        "author": "",
+        "score": 5,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 27
+          }
+        ],
+        "source": "combined",
+        "rank": 71,
+        "originalTitle": "魔導具師ダリヤはうつむかない 〈１５〉 - 今日から自由な職人ライフ ＭＦブックス"
+      },
+      "ranking": {
+        "title": "魔導具師ダリヤはうつむかない 〈１５〉 - 今日から自由な職人ライフ ＭＦブックス",
+        "author": "",
+        "isbn": "",
+        "score": 153,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 27
+          }
+        ],
+        "source": "combined",
+        "rank": 32
+      }
+    },
+    {
+      "id": "4660629611858",
+      "title": "商人・預言者・指導者・王　リーダーは本当に歴史を動かすのか",
+      "author": "ジャレド・ダイアモンド",
+      "publisher": "日経BP",
+      "price": 2970,
+      "url": "https://books.rakuten.co.jp/rk/c4c22280e23f3d92b7adc41e79a86e4d/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0024/2000022220024.jpg?_ex=600x600",
+      "caption": "人類史を変える者の誕生は\n偶然か、必然か。\nジャレド・ダイアモンド博士、最新作！\nヒトラー、ジョブズ、マスク……時代を揺るがす指導者の条件を\n『銃・病原菌・鉄』著者が壮大なスケールで解き明かす。\n・ヒトラーが事故死すれば、アウシュビッツは避けられたか？\n・チンギス・ハンが大帝国を築いたのは、戦略の天才だったからなのか？\n・ユダヤ教の一宗派に過ぎなかったキリスト教は、なぜ世界宗教になれたか？\n・ジョブズ、マスク、ベゾスがいなければ、あの製品は存在しなかったか？\n歴史を変えるリーダーには特別な資質があるのだろうか。\n生まれ落ちた「場所」と「時代」が幸運だっただけなのだろうか。\nどんなときに、たった1人の人間が人類史を動かせるのだろうか。\n大ベストセラー『銃・病原菌・鉄』でヨーロッパが世界を征服した条件を示したダイアモンド博士が企業、宗教、スポーツ、歴史の4分野で人類の謎を壮大なスケールで解き明かす。\n■目次\nプロローグ　リーダーシップ考──ハムレットとチンギス・ハン\n第1部　政界のリーダーたち\n第1章　アフリカのシェークスピア──セレツェ・カーマ\n第2章　『沈黙の春』の強烈なメッセージ\n第3章　最高・最悪のリーダー二二選──伝記的手法の限界\n第4章　自然実験\n第5章　大統領を撃て！（先に癌で死ななければ）\n第2部　ビジネス界のリーダーたち\n第6章　ザクロとコンピュータ\n第7章　CEOの義父が亡くなったら経営に影響するか\n第3部　スポーツ界のリーダーたち\n第8章　スポーツの監督は人生の手本\n第9章　スポーツの監督をクビにするのが博打である理由\n第4部　宗教界のリーダーたち\n第10章　宗教が成功する要因──カリスマ教祖以外に必要なもの\n第11章　なぜキリスト教は世界で最も影響力のある宗教になったのか\nエピローグ　新たな現象への新たなアプローチ\n謝辞\n参考文献\n",
+      "salesDate": "2026年10月22日",
+      "series": "",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101905007002",
+      "isbn": "4660629611858",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "商人・預言者・指導者・王 リーダーは本当に歴史を動かすのか",
+        "author": "ジャレド・ダイアモンド",
+        "score": 5,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 27
+          }
+        ],
+        "source": "combined",
+        "rank": 75,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "商人・預言者・指導者・王 リーダーは本当に歴史を動かすのか",
+        "author": "ジャレド・ダイアモンド",
+        "isbn": "",
+        "score": 153,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 27
+          }
+        ],
+        "source": "combined",
+        "rank": 33
+      }
+    },
+    {
+      "id": "4390000014247",
+      "title": "戦争犯罪と闘う　国際刑事裁判所は屈しない",
+      "author": "赤根智子",
+      "publisher": "文藝春秋",
+      "price": 1000,
+      "url": "https://books.rakuten.co.jp/rk/ed83c0d4161a37adb64937f2dc843815/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5761/2000017995761.jpg?_ex=600x600",
+      "caption": "二つの戦争、そして戦後国際秩序の行方は\nロシアによるウクライナ侵攻とイスラエルによるパレスチナへの非人道的な攻撃。目まぐるしく国際情勢が変化するなか、この二つの戦争に向き合い、プーチンとネタニヤフに逮捕状を出した国際刑事裁判所（ICC）。日本人として初めてそのトップに就任した著者は、ほどなくしてプーチンから逆指名手配を受けることにもなった。さらにはトランプ大統領の大統領令による経済制裁の脅威にさらされるなど、世界規模の戦争犯罪に向き合ってきた国際刑事裁判所はいま、存続の危機にある。\n第二次世界大戦後にホロコーストに向き合ったニュルンベルク裁判、日本の戦争責任を裁いた東京裁判。二つの軍事法廷裁判にルーツをもち、国際平和秩序を守ろうと奮闘してきた国際刑事裁判所とはいかなる機関か。二つの戦争という異例の事態にどう向き合ったのか。「世界の警察」アメリカが過去のものになりつつある戦後国際秩序の行方とはーー。\n「世界で起きていることが日本では起きないとは限らない」。「力による支配」がむき出しになりつつある今こそ「法の支配」による安全保障が必要だ。\n「ウクライナ戦争の勃発で完全に覚醒した」と語る赤根さんが、その奮闘を通じて未来への責任を語りかける。\n※本書電子書籍版は刊行後の国際情勢の変化を鑑み、２０２５年１０月に記述の一部を更新しました。\n",
+      "salesDate": "2025年06月20日",
+      "series": "",
+      "reviewAverage": 4.28,
+      "reviewCount": 73,
+      "genreId": "101907009/101907005003/101914",
+      "isbn": "4390000014247",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
+        "author": "",
+        "score": 5,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 28
+          }
+        ],
+        "source": "combined",
+        "rank": 72,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
+        "author": "",
+        "isbn": "",
+        "score": 152,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 28
+          }
+        ],
+        "source": "combined",
+        "rank": 34
+      }
+    },
+    {
+      "id": "4310000948230",
+      "title": "初恋をしまう日",
+      "author": "町田そのこ",
+      "publisher": "講談社",
+      "price": 2255,
+      "url": "https://books.rakuten.co.jp/rk/b74099b6562b340882589b68342399f3/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0755/2000022100755.jpg?_ex=600x600",
+      "caption": "本屋大賞作家・町田そのこ　デビュー10周年！\n「ひとと生きるのは、辛いことよ」\nそう言って渡されたお揃いのリングが、いつまでもわたしの宝物だった。\n兄の犯罪で故郷を追われることになった茜（あかね）と、苛烈な父親を持つ碧生（あお）。二人は惹かれ合うも、現実を変えるにはあまりに幼く無力だった。15年の時が経ち新天地で生活する彼らだが、過去と向き合うときはすぐそこまで来ていた。いつまでも変わらないものと、新たな出会いに恵まれ変化したものを見つめ、かけがえのない初恋に下す決断は。\n",
+      "salesDate": "2026年10月20日",
+      "series": "初恋をしまう日",
+      "reviewAverage": 5,
+      "reviewCount": 3,
+      "genreId": "101901",
+      "isbn": "4310000948230",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "初恋をしまう日",
+        "author": "",
+        "score": 5,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 29
+          }
+        ],
+        "source": "combined",
+        "rank": 73,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "初恋をしまう日",
+        "author": "",
+        "isbn": "",
+        "score": 151,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 29
+          }
+        ],
+        "source": "combined",
+        "rank": 35
       }
     },
     {
@@ -2035,7 +1980,7 @@
           }
         ],
         "source": "combined",
-        "rank": 4,
+        "rank": 3,
         "originalTitle": ""
       },
       "ranking": {
@@ -2050,7 +1995,7 @@
           }
         ],
         "source": "combined",
-        "rank": 37,
+        "rank": 36,
         "originalTitle": ""
       }
     },
@@ -2082,7 +2027,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18,
+        "rank": 17,
         "originalTitle": ""
       },
       "ranking": {
@@ -2097,7 +2042,7 @@
           }
         ],
         "source": "combined",
-        "rank": 38,
+        "rank": 37,
         "originalTitle": ""
       }
     },
@@ -2144,7 +2089,7 @@
           }
         ],
         "source": "combined",
-        "rank": 39,
+        "rank": 38,
         "originalTitle": ""
       }
     }
@@ -2155,12 +2100,12 @@
       "4310000683989",
       "4910000909001",
       "4390000005636",
+      "4332254800300",
       "4380000408030",
       "4335254300320",
-      "4332254800300",
-      "4910000884732",
       "4310000886199",
       "4480000944629",
+      "4910000884732",
       "4310000948230",
       "4480000838415"
     ],
@@ -2172,11 +2117,12 @@
     ],
     "sf": [],
     "business": [
-      "4310000785781",
+      "8910126773560",
       "4650483601001",
+      "4310000785781",
       "4910000884732",
       "4524815638200",
-      "8910126773560"
+      "4660629611858"
     ],
     "humanities": [
       "4380000407898",
@@ -2184,8 +2130,8 @@
       "4380000408073",
       "4470887680000",
       "8910120537764",
-      "4390000014247",
-      "4380000408012"
+      "4380000408012",
+      "4390000014247"
     ],
     "nonfiction": [
       "4390000014247"
@@ -2199,20 +2145,16 @@
     ],
     "life": [
       "4380000407898",
-      "4334530000320",
       "9784651022659"
     ],
     "health": [],
-    "hobby": [
-      "4334530000320"
-    ],
+    "hobby": [],
     "travel": [
       "9784059239659"
     ],
     "language": [
-      "7224000858487",
       "7224000858488",
-      "9784059200208",
+      "7224000858487",
       "6681311679960"
     ],
     "children": [
@@ -2220,9 +2162,7 @@
       "4339134200300"
     ],
     "essay": [],
-    "comic": [
-      "4310000779045"
-    ]
+    "comic": []
   },
   "genreStatus": {
     "fiction": {
@@ -2238,7 +2178,7 @@
       "complete": true
     },
     "business": {
-      "matched": 5,
+      "matched": 6,
       "complete": true
     },
     "humanities": {
@@ -2258,7 +2198,7 @@
       "complete": true
     },
     "life": {
-      "matched": 3,
+      "matched": 2,
       "complete": true
     },
     "health": {
@@ -2266,7 +2206,7 @@
       "complete": true
     },
     "hobby": {
-      "matched": 1,
+      "matched": 0,
       "complete": true
     },
     "travel": {
@@ -2274,7 +2214,7 @@
       "complete": true
     },
     "language": {
-      "matched": 4,
+      "matched": 3,
       "complete": true
     },
     "children": {
@@ -2286,7 +2226,7 @@
       "complete": true
     },
     "comic": {
-      "matched": 1,
+      "matched": 0,
       "complete": true
     }
   }

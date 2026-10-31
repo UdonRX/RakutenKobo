@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-10-31T13:15:52.948Z",
+  "updatedAt": "2026-10-31T22:02:10.120Z",
   "candidateCount": 39,
-  "baseMatched": 21,
-  "matched": 23,
-  "addedMatches": 2,
+  "baseMatched": 20,
+  "matched": 24,
+  "addedMatches": 4,
   "unavailable": [],
   "snapshots": {
     "kinokuniya": {
@@ -25,12 +25,6 @@
           "author": "",
           "isbn": "",
           "rank": 2
-        },
-        {
-          "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
-          "author": "",
-          "isbn": "",
-          "rank": 3
         },
         {
           "title": "汝、星のごとく",
@@ -122,6 +116,12 @@
           "rank": 2
         },
         {
+          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+          "author": "",
+          "isbn": "",
+          "rank": 4
+        },
+        {
           "title": "ポケモン公式ぜんこく図鑑 1996-2026",
           "author": "",
           "isbn": "",
@@ -138,6 +138,12 @@
           "author": "",
           "isbn": "",
           "rank": 10
+        },
+        {
+          "title": "FOR OVERSEAS",
+          "author": "",
+          "isbn": "",
+          "rank": 12
         }
       ]
     }
@@ -212,30 +218,30 @@
       "isbn": "4380000407898",
       "salesType": 0,
       "matchMeta": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 幻冬舎新書",
-        "author": "",
-        "score": 98,
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "author": "林真理子",
+        "score": 94,
         "sources": [
           {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 3
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
           }
         ],
         "source": "combined",
-        "rank": 7,
-        "originalTitle": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書"
+        "rank": 8,
+        "originalTitle": ""
       },
       "ranking": {
-        "title": "８０代になるとたいていボケるか死ぬ。７０代は神様から与えられた特別な時間 幻冬舎新書",
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
         "author": "",
         "isbn": "",
-        "score": 177,
+        "score": 176,
         "sources": [
           {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 3
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 4
           }
         ],
         "source": "combined",
@@ -304,7 +310,7 @@
       "reviewCount": 2,
       "genreId": "101913004001/101910007002",
       "isbn": "6474824017178",
-      "salesType": 1,
+      "salesType": 0,
       "matchMeta": {
         "title": "ポケモン公式ぜんこく図鑑 1996-2026",
         "author": "",
@@ -621,6 +627,54 @@
       }
     },
     {
+      "id": "9781505942323",
+      "title": "How to Start a Crown Agents for Overseas Governments and Administrations Business (Beginners Guide)",
+      "author": "Leclair Jaquelyn",
+      "publisher": "SamEnrico",
+      "price": 2515,
+      "url": "https://books.rakuten.co.jp/rk/da3f192a66453cb193c43421103700ab/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5952/2000020915952.jpg?_ex=600x600",
+      "caption": "This publication, published by SamEnrico, covers How to Start a Crown Agents for Overseas Governments and Administrations Business (Beginners Guide)\n",
+      "salesDate": "2015年12月20日",
+      "series": "",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101970003007",
+      "isbn": "9781505942323",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "FOR OVERSEAS",
+        "author": "",
+        "isbn": "",
+        "score": 168,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 12
+          }
+        ],
+        "source": "combined",
+        "rank": 22,
+        "originalTitle": "FOR OVERSEAS"
+      },
+      "ranking": {
+        "title": "FOR OVERSEAS",
+        "author": "",
+        "isbn": "",
+        "score": 168,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 12
+          }
+        ],
+        "source": "combined",
+        "rank": 11
+      }
+    },
+    {
       "id": "4320000935691",
       "title": "きずもの",
       "author": "西加奈子",
@@ -639,7 +693,8 @@
       "matchMeta": {
         "title": "きずもの",
         "author": "",
-        "score": 46,
+        "isbn": "",
+        "score": 164,
         "sources": [
           {
             "source": "kinokuniya",
@@ -648,8 +703,7 @@
           }
         ],
         "source": "combined",
-        "rank": 26,
-        "originalTitle": ""
+        "rank": 26
       },
       "ranking": {
         "title": "きずもの",
@@ -664,7 +718,7 @@
           }
         ],
         "source": "combined",
-        "rank": 11
+        "rank": 12
       }
     },
     {
@@ -711,7 +765,7 @@
           }
         ],
         "source": "combined",
-        "rank": 12
+        "rank": 13
       }
     },
     {
@@ -758,7 +812,7 @@
           }
         ],
         "source": "combined",
-        "rank": 13
+        "rank": 14
       }
     },
     {
@@ -805,7 +859,7 @@
           }
         ],
         "source": "combined",
-        "rank": 14
+        "rank": 15
       }
     },
     {
@@ -852,7 +906,7 @@
           }
         ],
         "source": "combined",
-        "rank": 15
+        "rank": 16
       }
     },
     {
@@ -899,7 +953,7 @@
           }
         ],
         "source": "combined",
-        "rank": 16
+        "rank": 17
       }
     },
     {
@@ -946,7 +1000,7 @@
           }
         ],
         "source": "combined",
-        "rank": 17
+        "rank": 18
       }
     },
     {
@@ -992,7 +1046,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18,
+        "rank": 19,
         "originalTitle": ""
       }
     },
@@ -1039,7 +1093,7 @@
           }
         ],
         "source": "combined",
-        "rank": 19,
+        "rank": 20,
         "originalTitle": ""
       }
     },
@@ -1086,7 +1140,7 @@
           }
         ],
         "source": "combined",
-        "rank": 20,
+        "rank": 21,
         "originalTitle": ""
       }
     },
@@ -1133,7 +1187,7 @@
           }
         ],
         "source": "combined",
-        "rank": 21,
+        "rank": 22,
         "originalTitle": ""
       }
     },
@@ -1180,7 +1234,7 @@
           }
         ],
         "source": "combined",
-        "rank": 22,
+        "rank": 23,
         "originalTitle": ""
       }
     },
@@ -1227,7 +1281,7 @@
           }
         ],
         "source": "combined",
-        "rank": 23,
+        "rank": 24,
         "originalTitle": ""
       }
     }

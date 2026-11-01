@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "week",
-  "updatedAt": "2026-11-01T18:17:29.760Z",
+  "updatedAt": "2026-11-01T22:35:56.034Z",
   "candidateCount": 76,
-  "baseMatched": 33,
+  "baseMatched": 32,
   "matched": 38,
-  "addedMatches": 5,
+  "addedMatches": 6,
   "unavailable": [
     "rakuten"
   ],
@@ -63,6 +63,12 @@
           "author": "宇野 千代",
           "isbn": "",
           "rank": 8
+        },
+        {
+          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 (幻冬舎新書 803)",
+          "author": "林真理子",
+          "isbn": "",
+          "rank": 9
         },
         {
           "title": "ようこそ実力至上主義の教室へ 3年生編5 (MF文庫J)",
@@ -142,12 +148,6 @@
           "rank": 3
         },
         {
-          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-          "author": "林真理子",
-          "isbn": "",
-          "rank": 4
-        },
-        {
           "title": "シャーロック・ホームズの凱旋",
           "author": "森見登美彦",
           "isbn": "",
@@ -193,6 +193,12 @@
           "author": "",
           "isbn": "",
           "rank": 4
+        },
+        {
+          "title": "汝、星のごとく",
+          "author": "",
+          "isbn": "",
+          "rank": 5
         },
         {
           "title": "憂鬱な恋の忘れ方",
@@ -252,12 +258,6 @@
           "author": "",
           "isbn": "",
           "rank": 1
-        },
-        {
-          "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-          "author": "",
-          "isbn": "",
-          "rank": 5
         },
         {
           "title": "NHK大河ドラマ･ガイド 豊臣兄弟! 完結編",
@@ -334,63 +334,6 @@
       }
     },
     {
-      "id": "4380000407898",
-      "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-      "author": "林真理子",
-      "publisher": "幻冬舎",
-      "price": 982,
-      "url": "https://books.rakuten.co.jp/rk/1e28fc1db6b83578b06b0919e0a52cd7/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0908/2000020490908.jpg?_ex=600x600",
-      "caption": "70代は頭も体もまだ大丈夫。\nそれなりに蓄えもできている。\nでもこれまでと全く同じことをしていたらダメ。\nできないことは諦め、楽しいことを大事にし、人生の新しいステージに立とう。\n同じ年代とばかりつるまず、ダイエットはしない。\n嫌われずに自慢話をするテクニック、お金にキレイな人と思われるおごり方ーー。\n72歳の人気作家が本音で語る「健康」「おしゃれ」「仕事」「お金」「人間関係」「趣味」。\n確実に近づく「その日」を見つめ、今の1分1秒を楽しんで生きるための、痛快・人生論。\n",
-      "salesDate": "2026年05月27日",
-      "series": "",
-      "reviewAverage": 3.51,
-      "reviewCount": 82,
-      "genreId": "101907010004/101909",
-      "isbn": "4380000407898",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-        "author": "林真理子",
-        "score": 192,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 4
-          },
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 3
-          }
-        ],
-        "source": "combined",
-        "rank": 1,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
-        "author": "林真理子",
-        "isbn": "",
-        "score": 351,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 4
-          },
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 5
-          }
-        ],
-        "source": "combined",
-        "rank": 2
-      }
-    },
-    {
       "id": "4339134200300",
       "title": "パンどろぼう",
       "author": "柴田　ケイコ",
@@ -439,7 +382,7 @@
           }
         ],
         "source": "combined",
-        "rank": 3
+        "rank": 2
       }
     },
     {
@@ -486,54 +429,7 @@
           }
         ],
         "source": "combined",
-        "rank": 4
-      }
-    },
-    {
-      "id": "4310000683989",
-      "title": "汝、星のごとく【電子限定特典付き】",
-      "author": "凪良ゆう",
-      "publisher": "講談社",
-      "price": 990,
-      "url": "https://books.rakuten.co.jp/rk/c078773e2356341c99cfa0309dc414dd/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1001/2000018151001.jpg?_ex=600x600",
-      "caption": "第20回本屋大賞受賞作！\nシリーズ累計100万部突破！\nあなたと生きる、その痛みごと。\n著者2度目の本屋大賞を受賞した『汝、星のごとく』が3年の時を経てついに文庫化！同じ空の下であの星を見上げよう。そして、また出会おう。あまりに切ない運命を、繊細な心理描写で描いた著者最高傑作。\n風光明媚な瀬戸内の島で育った暁海(あきみ)と母の恋愛に振り回され転校してきた櫂(かい)。ともに心に孤独と欠落を抱えた二人が恋に落ちるのに時間はかからなかった。ときにすれ違い、ぶつかり、成長していく。生きることの自由さと不自由さを描き続けた著者がおくる、あまりに切ない愛の物語【2023年本屋大賞受賞作】\n☆2023年本屋大賞受賞作☆\n【第168回直木賞候補作】\n【第44回吉川英治文学新人賞候補作】\n【2022王様のブランチBOOK大賞】\n【キノベス!2023 第1位】\n【第10回高校生直木賞候補作】\n【ダ・ヴィンチ BOOK OF THE YEAR 2022 第３位】\n【今月の絶対はずさない！ プラチナ本 選出（「ダ・ヴィンチ」12月号）】\n【第２回 本屋が選ぶ大人の恋愛小説大賞 ノミネート】\n【未来屋小説大賞 第２位】\n【ミヤボン2022 大賞受賞】\n【Apple Books 2022年 今年のベストブック（フィクション部門）】\nなどなど、賞＆ノミネート＆ランクイン多数！\n※電子版には特典として、続編『星を編む』の試し読み増量版と著者作品リストを収録しています。\n",
-      "salesDate": "2025年07月15日",
-      "series": "汝、星のごとく",
-      "reviewAverage": 4.39,
-      "reviewCount": 1755,
-      "genreId": "101901",
-      "isbn": "4310000683989",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "汝、星のごとく",
-        "author": "凪良 ゆう",
-        "score": 98,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 3
-          }
-        ],
-        "source": "combined",
-        "rank": 13,
-        "originalTitle": "汝、星のごとく (講談社文庫 な 101-1)"
-      },
-      "ranking": {
-        "title": "汝、星のごとく (講談社文庫 な 101-1)",
-        "author": "凪良 ゆう",
-        "isbn": "",
-        "score": 177,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 3
-          }
-        ],
-        "source": "combined",
-        "rank": 5
+        "rank": 3
       }
     },
     {
@@ -577,6 +473,100 @@
             "source": "maruzen",
             "label": "丸善ジュンク堂",
             "rank": 3
+          }
+        ],
+        "source": "combined",
+        "rank": 4
+      }
+    },
+    {
+      "id": "4310000779045",
+      "title": "汝、星のごとく（３）",
+      "author": "凪良ゆう/古里こう",
+      "publisher": "講談社",
+      "price": 792,
+      "url": "https://books.rakuten.co.jp/rk/53b069e006973118af2e818a16801db0/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2574/2000019452574.jpg?_ex=600x600",
+      "caption": "「わたしは愛する男のために人生を誤りたい」\n毎月、借金の返済として暁海が櫂に送る四万円。\nふたりをつなぐものがそれだけになっても、\n互いを想う気持ちは消えないまま…。\nそれぞれを取り巻く環境に縛られ、\n自らの人生を生きる難しさに打ちのめされそうになる中、\n暁海は北原先生から「ぼくと結婚しませんか」と提案されてーー。\n「まともな人間なんてものは幻想だ」\n生きることの自由さと不自由さを描き続けてきた\n凪良ゆう最高傑作、待望のコミカライズ最終巻。\n",
+      "salesDate": "2026年01月13日",
+      "series": "汝、星のごとく",
+      "reviewAverage": 5,
+      "reviewCount": 4,
+      "genreId": "101904011005",
+      "isbn": "4310000779045",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "汝、星のごとく",
+        "author": "凪良 ゆう",
+        "score": 98,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 3
+          }
+        ],
+        "source": "combined",
+        "rank": 13,
+        "originalTitle": "汝、星のごとく (講談社文庫 な 101-1)"
+      },
+      "ranking": {
+        "title": "汝、星のごとく (講談社文庫 な 101-1)",
+        "author": "凪良 ゆう",
+        "isbn": "",
+        "score": 177,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 3
+          }
+        ],
+        "source": "combined",
+        "rank": 5
+      }
+    },
+    {
+      "id": "4920090005232",
+      "title": "トランプ関税　交渉の記録",
+      "author": "赤沢亮正",
+      "publisher": "グッドブックス",
+      "price": 1760,
+      "url": "https://books.rakuten.co.jp/rk/e4f3ee177d4430d184b0a08363778b17/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4977/2000021504977.jpg?_ex=600x600",
+      "caption": "**2025年2月、突然しかけられた巨額の関税措置。\n世界をおおう関税パニックの中で、国益を賭けた交渉はいかにおこなわれたか。\n交渉を担当した赤澤亮正 現・経済産業大臣が赤裸々に綴る交渉の全過程。\n＜目次>**\n序章\n第一章　交渉前夜\n第二次トランプ政権の誕生と米国通商政策の大転換　世界を巻き込んだ関税パニック　すべての自動車に25％の関税を宣言　拝命─胃が１センチせり上がった感覚　国難への全面バックアップ体制　数多くの助けやサポート\n第二章　厳しい船出（２０２５年４月〜５月末）\n２０１９年の交渉との違い　突然のトランプ大統領の登場　初めてお会いしたトランプ大統領　厳しい交渉の幕開け　まったく通じない「関税より投資」\n◆コラム　外交交渉あるある　その1\n２回目の訪米と事務レベル協議\n第三章　Ｇ７カナナスキス・サミット（2025年６月）\n合意への期待と焦燥　他国の動き　カナナスキス前夜　日米首脳会談\n第四章　募る焦燥感と追い込まれる日本（２０２５年６月後半〜７月）\n五里霧中　募る焦燥感と７回目の訪米　「ラトちゃん」との協議　トランプ書簡の舞台裏　選挙期間中の水面下の調整と大阪・関西万博　ベッセント長官へのサプライズ　秘策\n第五章　激動の７月22日、合意の実現\n参院選直後の出国　前夜のサプライズ　石破総理からの指示　トランプ大統領との直接交渉　「ディール成立だ！（You have a deal!）」\n◆コラム　外交交渉あるある　その2\n第六章　合意のポイントー「関税より投資」の成果とは\n合意直後の日本メディアぶら下がりでの発言　合意のポイント　「なぜ共同文書を作成しないのか？」　 投資イニシアティブは「令和の不平等条約？」　日米双方にウィン・ウィンの投資\n◆コラム　外交交渉あるある　その3\n第七章　延長戦と投資ＭＯＵ（２０２５年７月末〜９月４日）\n「延長戦」への突入　合意と違う発表　９回目の訪米　投資に関する了解覚書（ＭＯＵ）　日米間の合意に関する共同声明　署名式に至るドタバタ　ようやく「任務一段落！」\n終章──「国難」を乗り越えて\n◆コラム 外交交渉あるある　その4　まとめ──交渉の秘訣\nあとがき\n日米関税交渉クロノロジー　巻末資料\n著者　赤澤亮正（あかざわ りょうせい）\n衆議院議員、経済産業大臣\n",
+      "salesDate": "2026年08月21日",
+      "series": "",
+      "reviewAverage": 4.4,
+      "reviewCount": 5,
+      "genreId": "101905017004",
+      "isbn": "4920090005232",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "トランプ関税 交渉の記録",
+        "author": "",
+        "score": 94,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 4
+          }
+        ],
+        "source": "combined",
+        "rank": 15,
+        "originalTitle": "トランプ関税　交渉の記録"
+      },
+      "ranking": {
+        "title": "トランプ関税 交渉の記録",
+        "author": "",
+        "isbn": "",
+        "score": 176,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 4
           }
         ],
         "source": "combined",
@@ -631,53 +621,6 @@
       }
     },
     {
-      "id": "4920090005232",
-      "title": "トランプ関税　交渉の記録",
-      "author": "赤沢亮正",
-      "publisher": "グッドブックス",
-      "price": 1760,
-      "url": "https://books.rakuten.co.jp/rk/e4f3ee177d4430d184b0a08363778b17/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4977/2000021504977.jpg?_ex=600x600",
-      "caption": "**2025年2月、突然しかけられた巨額の関税措置。\n世界をおおう関税パニックの中で、国益を賭けた交渉はいかにおこなわれたか。\n交渉を担当した赤澤亮正 現・経済産業大臣が赤裸々に綴る交渉の全過程。\n＜目次>**\n序章\n第一章　交渉前夜\n第二次トランプ政権の誕生と米国通商政策の大転換　世界を巻き込んだ関税パニック　すべての自動車に25％の関税を宣言　拝命─胃が１センチせり上がった感覚　国難への全面バックアップ体制　数多くの助けやサポート\n第二章　厳しい船出（２０２５年４月〜５月末）\n２０１９年の交渉との違い　突然のトランプ大統領の登場　初めてお会いしたトランプ大統領　厳しい交渉の幕開け　まったく通じない「関税より投資」\n◆コラム　外交交渉あるある　その1\n２回目の訪米と事務レベル協議\n第三章　Ｇ７カナナスキス・サミット（2025年６月）\n合意への期待と焦燥　他国の動き　カナナスキス前夜　日米首脳会談\n第四章　募る焦燥感と追い込まれる日本（２０２５年６月後半〜７月）\n五里霧中　募る焦燥感と７回目の訪米　「ラトちゃん」との協議　トランプ書簡の舞台裏　選挙期間中の水面下の調整と大阪・関西万博　ベッセント長官へのサプライズ　秘策\n第五章　激動の７月22日、合意の実現\n参院選直後の出国　前夜のサプライズ　石破総理からの指示　トランプ大統領との直接交渉　「ディール成立だ！（You have a deal!）」\n◆コラム　外交交渉あるある　その2\n第六章　合意のポイントー「関税より投資」の成果とは\n合意直後の日本メディアぶら下がりでの発言　合意のポイント　「なぜ共同文書を作成しないのか？」　 投資イニシアティブは「令和の不平等条約？」　日米双方にウィン・ウィンの投資\n◆コラム　外交交渉あるある　その3\n第七章　延長戦と投資ＭＯＵ（２０２５年７月末〜９月４日）\n「延長戦」への突入　合意と違う発表　９回目の訪米　投資に関する了解覚書（ＭＯＵ）　日米間の合意に関する共同声明　署名式に至るドタバタ　ようやく「任務一段落！」\n終章──「国難」を乗り越えて\n◆コラム 外交交渉あるある　その4　まとめ──交渉の秘訣\nあとがき\n日米関税交渉クロノロジー　巻末資料\n著者　赤澤亮正（あかざわ りょうせい）\n衆議院議員、経済産業大臣\n",
-      "salesDate": "2026年08月21日",
-      "series": "",
-      "reviewAverage": 4.4,
-      "reviewCount": 5,
-      "genreId": "101905017004",
-      "isbn": "4920090005232",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "トランプ関税 交渉の記録",
-        "author": "",
-        "isbn": "",
-        "score": 176,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 4
-          }
-        ],
-        "source": "combined",
-        "rank": 17
-      },
-      "ranking": {
-        "title": "トランプ関税 交渉の記録",
-        "author": "",
-        "isbn": "",
-        "score": 176,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 4
-          }
-        ],
-        "source": "combined",
-        "rank": 8
-      }
-    },
-    {
       "id": "4910000909001",
       "title": "シャーロック・ホームズの凱旋",
       "author": "森見登美彦",
@@ -717,6 +660,53 @@
           {
             "source": "maruzen",
             "label": "丸善ジュンク堂",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
+        "rank": 8
+      }
+    },
+    {
+      "id": "4310000683989",
+      "title": "汝、星のごとく【電子限定特典付き】",
+      "author": "凪良ゆう",
+      "publisher": "講談社",
+      "price": 990,
+      "url": "https://books.rakuten.co.jp/rk/c078773e2356341c99cfa0309dc414dd/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1001/2000018151001.jpg?_ex=600x600",
+      "caption": "第20回本屋大賞受賞作！\nシリーズ累計100万部突破！\nあなたと生きる、その痛みごと。\n著者2度目の本屋大賞を受賞した『汝、星のごとく』が3年の時を経てついに文庫化！同じ空の下であの星を見上げよう。そして、また出会おう。あまりに切ない運命を、繊細な心理描写で描いた著者最高傑作。\n風光明媚な瀬戸内の島で育った暁海(あきみ)と母の恋愛に振り回され転校してきた櫂(かい)。ともに心に孤独と欠落を抱えた二人が恋に落ちるのに時間はかからなかった。ときにすれ違い、ぶつかり、成長していく。生きることの自由さと不自由さを描き続けた著者がおくる、あまりに切ない愛の物語【2023年本屋大賞受賞作】\n☆2023年本屋大賞受賞作☆\n【第168回直木賞候補作】\n【第44回吉川英治文学新人賞候補作】\n【2022王様のブランチBOOK大賞】\n【キノベス!2023 第1位】\n【第10回高校生直木賞候補作】\n【ダ・ヴィンチ BOOK OF THE YEAR 2022 第３位】\n【今月の絶対はずさない！ プラチナ本 選出（「ダ・ヴィンチ」12月号）】\n【第２回 本屋が選ぶ大人の恋愛小説大賞 ノミネート】\n【未来屋小説大賞 第２位】\n【ミヤボン2022 大賞受賞】\n【Apple Books 2022年 今年のベストブック（フィクション部門）】\nなどなど、賞＆ノミネート＆ランクイン多数！\n※電子版には特典として、続編『星を編む』の試し読み増量版と著者作品リストを収録しています。\n",
+      "salesDate": "2025年07月15日",
+      "series": "汝、星のごとく",
+      "reviewAverage": 4.39,
+      "reviewCount": 1755,
+      "genreId": "101901",
+      "isbn": "4310000683989",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "汝、星のごとく",
+        "author": "",
+        "score": 90,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 5
+          }
+        ],
+        "source": "combined",
+        "rank": 19,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "汝、星のごとく",
+        "author": "",
+        "isbn": "",
+        "score": 175,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
             "rank": 5
           }
         ],
@@ -931,7 +921,8 @@
       "matchMeta": {
         "title": "生きて行く私",
         "author": "宇野 千代",
-        "score": 78,
+        "isbn": "",
+        "score": 172,
         "sources": [
           {
             "source": "amazon",
@@ -940,7 +931,7 @@
           }
         ],
         "source": "combined",
-        "rank": 32,
+        "rank": 29,
         "originalTitle": "生きて行く私 (角川文庫)"
       },
       "ranking": {
@@ -976,7 +967,7 @@
       "isbn": "4479234040000",
       "salesType": 0,
       "matchMeta": {
-        "title": "NHK大河ドラマ・ガイド 豊臣兄弟! 完結編",
+        "title": "NHK大河ドラマ･ガイド 豊臣兄弟! 完結編",
         "author": "",
         "isbn": "",
         "score": 172,
@@ -988,8 +979,7 @@
           }
         ],
         "source": "combined",
-        "rank": 32,
-        "originalTitle": "NHK大河ドラマ･ガイド 豊臣兄弟! 完結編"
+        "rank": 32
       },
       "ranking": {
         "title": "NHK大河ドラマ･ガイド 豊臣兄弟! 完結編",
@@ -1005,53 +995,6 @@
         ],
         "source": "combined",
         "rank": 15
-      }
-    },
-    {
-      "id": "4620000615075",
-      "title": "ブラッディダイスの殺人　上",
-      "author": "Ｍ Ｗ クレイヴン",
-      "publisher": "早川書房",
-      "price": 1210,
-      "url": "https://books.rakuten.co.jp/rk/91ea3c43631d345d8bb867055aba005f/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9728/2000021429728.jpg?_ex=600x600",
-      "caption": "ポーとティリーが再びタッグを組む！　シリーズ累計30万部の最新作！\n英国全土で連続狙撃事件が発生。犠牲者は17人にのぼるも犯人の手がかりはなく、ポーとティリーは国家犯罪対策庁に呼び戻されるが\n",
-      "salesDate": "2026年08月19日",
-      "series": "ワシントン・ポー",
-      "reviewAverage": 4.33,
-      "reviewCount": 33,
-      "genreId": "101902",
-      "isbn": "4620000615075",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "ブラッディダイスの殺人 上",
-        "author": "M・W・クレイヴン",
-        "score": 74,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 33,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "ブラッディダイスの殺人 上",
-        "author": "M・W・クレイヴン",
-        "isbn": "",
-        "score": 171,
-        "sources": [
-          {
-            "source": "maruzen",
-            "label": "丸善ジュンク堂",
-            "rank": 9
-          }
-        ],
-        "source": "combined",
-        "rank": 16
       }
     },
     {
@@ -1098,7 +1041,101 @@
           }
         ],
         "source": "combined",
+        "rank": 16
+      }
+    },
+    {
+      "id": "4380000407898",
+      "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+      "author": "林真理子",
+      "publisher": "幻冬舎",
+      "price": 982,
+      "url": "https://books.rakuten.co.jp/rk/1e28fc1db6b83578b06b0919e0a52cd7/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0908/2000020490908.jpg?_ex=600x600",
+      "caption": "70代は頭も体もまだ大丈夫。\nそれなりに蓄えもできている。\nでもこれまでと全く同じことをしていたらダメ。\nできないことは諦め、楽しいことを大事にし、人生の新しいステージに立とう。\n同じ年代とばかりつるまず、ダイエットはしない。\n嫌われずに自慢話をするテクニック、お金にキレイな人と思われるおごり方ーー。\n72歳の人気作家が本音で語る「健康」「おしゃれ」「仕事」「お金」「人間関係」「趣味」。\n確実に近づく「その日」を見つめ、今の1分1秒を楽しんで生きるための、痛快・人生論。\n",
+      "salesDate": "2026年05月27日",
+      "series": "",
+      "reviewAverage": 3.51,
+      "reviewCount": 82,
+      "genreId": "101907010004/101909",
+      "isbn": "4380000407898",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間",
+        "author": "林真理子",
+        "score": 74,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 36,
+        "originalTitle": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 (幻冬舎新書 803)"
+      },
+      "ranking": {
+        "title": "80代になるとたいていボケるか死ぬ。70代は神様から与えられた特別な時間 (幻冬舎新書 803)",
+        "author": "林真理子",
+        "isbn": "",
+        "score": 171,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
         "rank": 17
+      }
+    },
+    {
+      "id": "4620000615075",
+      "title": "ブラッディダイスの殺人　上",
+      "author": "Ｍ Ｗ クレイヴン",
+      "publisher": "早川書房",
+      "price": 1210,
+      "url": "https://books.rakuten.co.jp/rk/91ea3c43631d345d8bb867055aba005f/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9728/2000021429728.jpg?_ex=600x600",
+      "caption": "ポーとティリーが再びタッグを組む！　シリーズ累計30万部の最新作！\n英国全土で連続狙撃事件が発生。犠牲者は17人にのぼるも犯人の手がかりはなく、ポーとティリーは国家犯罪対策庁に呼び戻されるが\n",
+      "salesDate": "2026年08月19日",
+      "series": "ワシントン・ポー",
+      "reviewAverage": 4.33,
+      "reviewCount": 33,
+      "genreId": "101902",
+      "isbn": "4620000615075",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ブラッディダイスの殺人 上",
+        "author": "M・W・クレイヴン",
+        "score": 74,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 33,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "ブラッディダイスの殺人 上",
+        "author": "M・W・クレイヴン",
+        "isbn": "",
+        "score": 171,
+        "sources": [
+          {
+            "source": "maruzen",
+            "label": "丸善ジュンク堂",
+            "rank": 9
+          }
+        ],
+        "source": "combined",
+        "rank": 18
       }
     },
     {
@@ -1145,7 +1182,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18
+        "rank": 19
       }
     },
     {
@@ -1192,7 +1229,7 @@
           }
         ],
         "source": "combined",
-        "rank": 19
+        "rank": 20
       }
     },
     {
@@ -1239,7 +1276,7 @@
           }
         ],
         "source": "combined",
-        "rank": 20
+        "rank": 21
       }
     },
     {
@@ -1286,7 +1323,7 @@
           }
         ],
         "source": "combined",
-        "rank": 21
+        "rank": 22
       }
     },
     {
@@ -1333,7 +1370,7 @@
           }
         ],
         "source": "combined",
-        "rank": 22
+        "rank": 23
       }
     },
     {
@@ -1380,7 +1417,7 @@
           }
         ],
         "source": "combined",
-        "rank": 23
+        "rank": 24
       }
     },
     {
@@ -1402,8 +1439,7 @@
       "matchMeta": {
         "title": "星を編む",
         "author": "凪良 ゆう",
-        "isbn": "",
-        "score": 162,
+        "score": 38,
         "sources": [
           {
             "source": "amazon",
@@ -1412,7 +1448,7 @@
           }
         ],
         "source": "combined",
-        "rank": 54,
+        "rank": 55,
         "originalTitle": "星を編む (講談社文庫 な 101-3)"
       },
       "ranking": {
@@ -1425,53 +1461,6 @@
             "source": "amazon",
             "label": "Amazon",
             "rank": 18
-          }
-        ],
-        "source": "combined",
-        "rank": 24
-      }
-    },
-    {
-      "id": "9784651022659",
-      "title": "秘密にしたい魅惑のスイーツレシピ",
-      "author": "小林啓吾",
-      "publisher": "ワン・パブリッシング",
-      "price": 1760,
-      "url": "https://books.rakuten.co.jp/rk/285f41d64eb63bf9b9ab0274532131f1/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6697/2000022186697.jpg?_ex=600x600",
-      "caption": "創業190年の老舗「榮玉堂」八代目・小林啓吾さんが提案する、“おうちで楽しむプロの味”をテーマにしたお菓子レシピ集。使うのは、スーパーで手に入る身近な食材と、家庭にある道具だけ。特別な材料や難しい工程は一切なし。それでいて、ひと口食べれば「お店みたい！」と驚くような仕上がりを目指せる作り方を紹介。和菓子・洋菓子の垣根を越えて、お菓子づくりをもっと自由に、もっと身近に楽しめる一冊です。\n",
-      "salesDate": "2026年10月20日",
-      "series": "",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101909010",
-      "isbn": "9784651022659",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "秘密にしたい魅惑のスイーツレシピ",
-        "author": "小林啓吾",
-        "score": 34,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 19
-          }
-        ],
-        "source": "combined",
-        "rank": 57,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "秘密にしたい魅惑のスイーツレシピ",
-        "author": "小林啓吾",
-        "isbn": "",
-        "score": 161,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 19
           }
         ],
         "source": "combined",
@@ -1526,6 +1515,53 @@
       }
     },
     {
+      "id": "9784651022659",
+      "title": "秘密にしたい魅惑のスイーツレシピ",
+      "author": "小林啓吾",
+      "publisher": "ワン・パブリッシング",
+      "price": 1760,
+      "url": "https://books.rakuten.co.jp/rk/285f41d64eb63bf9b9ab0274532131f1/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6697/2000022186697.jpg?_ex=600x600",
+      "caption": "創業190年の老舗「榮玉堂」八代目・小林啓吾さんが提案する、“おうちで楽しむプロの味”をテーマにしたお菓子レシピ集。使うのは、スーパーで手に入る身近な食材と、家庭にある道具だけ。特別な材料や難しい工程は一切なし。それでいて、ひと口食べれば「お店みたい！」と驚くような仕上がりを目指せる作り方を紹介。和菓子・洋菓子の垣根を越えて、お菓子づくりをもっと自由に、もっと身近に楽しめる一冊です。\n",
+      "salesDate": "2026年10月20日",
+      "series": "",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101909010",
+      "isbn": "9784651022659",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "秘密にしたい魅惑のスイーツレシピ",
+        "author": "小林啓吾",
+        "score": 34,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 19
+          }
+        ],
+        "source": "combined",
+        "rank": 57,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "秘密にしたい魅惑のスイーツレシピ",
+        "author": "小林啓吾",
+        "isbn": "",
+        "score": 161,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 19
+          }
+        ],
+        "source": "combined",
+        "rank": 27
+      }
+    },
+    {
       "id": "4910000884732",
       "title": "手紙屋 蛍雪篇 〜私の受験勉強を変えた十通の手紙〜 ジュニア版",
       "author": "喜多川泰",
@@ -1542,9 +1578,10 @@
       "isbn": "4910000884732",
       "salesType": 0,
       "matchMeta": {
-        "title": "手紙屋 蛍雪篇 ~私の受験勉強を変えた十通の手紙~ ジュニア版",
+        "title": "手紙屋 蛍雪篇 ～私の受験勉強を変えた十通の手紙～ ジュニア版",
         "author": "喜多川泰",
-        "score": 22,
+        "isbn": "",
+        "score": 158,
         "sources": [
           {
             "source": "amazon",
@@ -1553,8 +1590,7 @@
           }
         ],
         "source": "combined",
-        "rank": 63,
-        "originalTitle": "手紙屋 蛍雪篇 ～私の受験勉強を変えた十通の手紙～ ジュニア版"
+        "rank": 61
       },
       "ranking": {
         "title": "手紙屋 蛍雪篇 ～私の受験勉強を変えた十通の手紙～ ジュニア版",
@@ -1569,7 +1605,7 @@
           }
         ],
         "source": "combined",
-        "rank": 27
+        "rank": 28
       }
     },
     {
@@ -1616,7 +1652,7 @@
           }
         ],
         "source": "combined",
-        "rank": 28
+        "rank": 29
       }
     },
     {
@@ -1663,7 +1699,7 @@
           }
         ],
         "source": "combined",
-        "rank": 29
+        "rank": 30
       }
     },
     {
@@ -1685,8 +1721,7 @@
       "matchMeta": {
         "title": "7日でできる! 英検3級 二次試験・面接 完全予想問題 新装改訂版",
         "author": "旺文社",
-        "isbn": "",
-        "score": 154,
+        "score": 6,
         "sources": [
           {
             "source": "amazon",
@@ -1695,7 +1730,7 @@
           }
         ],
         "source": "combined",
-        "rank": 68,
+        "rank": 70,
         "originalTitle": "7日でできる！ 英検3級 二次試験・面接 完全予想問題 新装改訂版"
       },
       "ranking": {
@@ -1708,53 +1743,6 @@
             "source": "amazon",
             "label": "Amazon",
             "rank": 26
-          }
-        ],
-        "source": "combined",
-        "rank": 30
-      }
-    },
-    {
-      "id": "4660629611858",
-      "title": "商人・預言者・指導者・王　リーダーは本当に歴史を動かすのか",
-      "author": "ジャレド・ダイアモンド",
-      "publisher": "日経BP",
-      "price": 2970,
-      "url": "https://books.rakuten.co.jp/rk/c4c22280e23f3d92b7adc41e79a86e4d/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0024/2000022220024.jpg?_ex=600x600",
-      "caption": "人類史を変える者の誕生は\n偶然か、必然か。\nジャレド・ダイアモンド博士、最新作！\nヒトラー、ジョブズ、マスク……時代を揺るがす指導者の条件を\n『銃・病原菌・鉄』著者が壮大なスケールで解き明かす。\n・ヒトラーが事故死すれば、アウシュビッツは避けられたか？\n・チンギス・ハンが大帝国を築いたのは、戦略の天才だったからなのか？\n・ユダヤ教の一宗派に過ぎなかったキリスト教は、なぜ世界宗教になれたか？\n・ジョブズ、マスク、ベゾスがいなければ、あの製品は存在しなかったか？\n歴史を変えるリーダーには特別な資質があるのだろうか。\n生まれ落ちた「場所」と「時代」が幸運だっただけなのだろうか。\nどんなときに、たった1人の人間が人類史を動かせるのだろうか。\n大ベストセラー『銃・病原菌・鉄』でヨーロッパが世界を征服した条件を示したダイアモンド博士が企業、宗教、スポーツ、歴史の4分野で人類の謎を壮大なスケールで解き明かす。\n■目次\nプロローグ　リーダーシップ考──ハムレットとチンギス・ハン\n第1部　政界のリーダーたち\n第1章　アフリカのシェークスピア──セレツェ・カーマ\n第2章　『沈黙の春』の強烈なメッセージ\n第3章　最高・最悪のリーダー二二選──伝記的手法の限界\n第4章　自然実験\n第5章　大統領を撃て！（先に癌で死ななければ）\n第2部　ビジネス界のリーダーたち\n第6章　ザクロとコンピュータ\n第7章　CEOの義父が亡くなったら経営に影響するか\n第3部　スポーツ界のリーダーたち\n第8章　スポーツの監督は人生の手本\n第9章　スポーツの監督をクビにするのが博打である理由\n第4部　宗教界のリーダーたち\n第10章　宗教が成功する要因──カリスマ教祖以外に必要なもの\n第11章　なぜキリスト教は世界で最も影響力のある宗教になったのか\nエピローグ　新たな現象への新たなアプローチ\n謝辞\n参考文献\n",
-      "salesDate": "2026年10月22日",
-      "series": "",
-      "reviewAverage": 0,
-      "reviewCount": 0,
-      "genreId": "101905007002",
-      "isbn": "4660629611858",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "商人・預言者・指導者・王 リーダーは本当に歴史を動かすのか",
-        "author": "ジャレド・ダイアモンド",
-        "score": 5,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 27
-          }
-        ],
-        "source": "combined",
-        "rank": 74,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "商人・預言者・指導者・王 リーダーは本当に歴史を動かすのか",
-        "author": "ジャレド・ダイアモンド",
-        "isbn": "",
-        "score": 153,
-        "sources": [
-          {
-            "source": "amazon",
-            "label": "Amazon",
-            "rank": 27
           }
         ],
         "source": "combined",
@@ -1809,6 +1797,53 @@
       }
     },
     {
+      "id": "4660629611858",
+      "title": "商人・預言者・指導者・王　リーダーは本当に歴史を動かすのか",
+      "author": "ジャレド・ダイアモンド",
+      "publisher": "日経BP",
+      "price": 2970,
+      "url": "https://books.rakuten.co.jp/rk/c4c22280e23f3d92b7adc41e79a86e4d/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0024/2000022220024.jpg?_ex=600x600",
+      "caption": "人類史を変える者の誕生は\n偶然か、必然か。\nジャレド・ダイアモンド博士、最新作！\nヒトラー、ジョブズ、マスク……時代を揺るがす指導者の条件を\n『銃・病原菌・鉄』著者が壮大なスケールで解き明かす。\n・ヒトラーが事故死すれば、アウシュビッツは避けられたか？\n・チンギス・ハンが大帝国を築いたのは、戦略の天才だったからなのか？\n・ユダヤ教の一宗派に過ぎなかったキリスト教は、なぜ世界宗教になれたか？\n・ジョブズ、マスク、ベゾスがいなければ、あの製品は存在しなかったか？\n歴史を変えるリーダーには特別な資質があるのだろうか。\n生まれ落ちた「場所」と「時代」が幸運だっただけなのだろうか。\nどんなときに、たった1人の人間が人類史を動かせるのだろうか。\n大ベストセラー『銃・病原菌・鉄』でヨーロッパが世界を征服した条件を示したダイアモンド博士が企業、宗教、スポーツ、歴史の4分野で人類の謎を壮大なスケールで解き明かす。\n■目次\nプロローグ　リーダーシップ考──ハムレットとチンギス・ハン\n第1部　政界のリーダーたち\n第1章　アフリカのシェークスピア──セレツェ・カーマ\n第2章　『沈黙の春』の強烈なメッセージ\n第3章　最高・最悪のリーダー二二選──伝記的手法の限界\n第4章　自然実験\n第5章　大統領を撃て！（先に癌で死ななければ）\n第2部　ビジネス界のリーダーたち\n第6章　ザクロとコンピュータ\n第7章　CEOの義父が亡くなったら経営に影響するか\n第3部　スポーツ界のリーダーたち\n第8章　スポーツの監督は人生の手本\n第9章　スポーツの監督をクビにするのが博打である理由\n第4部　宗教界のリーダーたち\n第10章　宗教が成功する要因──カリスマ教祖以外に必要なもの\n第11章　なぜキリスト教は世界で最も影響力のある宗教になったのか\nエピローグ　新たな現象への新たなアプローチ\n謝辞\n参考文献\n",
+      "salesDate": "2026年10月22日",
+      "series": "",
+      "reviewAverage": 0,
+      "reviewCount": 0,
+      "genreId": "101905007002",
+      "isbn": "4660629611858",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "商人・預言者・指導者・王 リーダーは本当に歴史を動かすのか",
+        "author": "ジャレド・ダイアモンド",
+        "isbn": "",
+        "score": 153,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 27
+          }
+        ],
+        "source": "combined",
+        "rank": 70
+      },
+      "ranking": {
+        "title": "商人・預言者・指導者・王 リーダーは本当に歴史を動かすのか",
+        "author": "ジャレド・ダイアモンド",
+        "isbn": "",
+        "score": 153,
+        "sources": [
+          {
+            "source": "amazon",
+            "label": "Amazon",
+            "rank": 27
+          }
+        ],
+        "source": "combined",
+        "rank": 33
+      }
+    },
+    {
       "id": "4480000944629",
       "title": "フロムヴィレッジ",
       "author": "誉田哲也",
@@ -1827,7 +1862,8 @@
       "matchMeta": {
         "title": "フロムヴィレッジ",
         "author": "",
-        "score": 5,
+        "isbn": "",
+        "score": 152,
         "sources": [
           {
             "source": "kinokuniya",
@@ -1836,8 +1872,7 @@
           }
         ],
         "source": "combined",
-        "rank": 72,
-        "originalTitle": ""
+        "rank": 73
       },
       "ranking": {
         "title": "フロムヴィレッジ",
@@ -1852,7 +1887,7 @@
           }
         ],
         "source": "combined",
-        "rank": 33
+        "rank": 34
       }
     },
     {
@@ -1899,7 +1934,7 @@
           }
         ],
         "source": "combined",
-        "rank": 34
+        "rank": 35
       }
     },
     {
@@ -1942,53 +1977,6 @@
             "source": "tohan",
             "label": "トーハン",
             "rank": 1
-          }
-        ],
-        "source": "combined",
-        "rank": 35,
-        "originalTitle": ""
-      }
-    },
-    {
-      "id": "4310000890409",
-      "title": "楽園",
-      "author": "夕木春央",
-      "publisher": "講談社",
-      "price": 1980,
-      "url": "https://books.rakuten.co.jp/rk/1a1c684dcee83b98b4d0187187c813d0/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1651/2000021221651.jpg?_ex=600x600",
-      "caption": "殺人犯にならなければ脱出できない。\n『方舟』『十戒』の著者が仕掛ける“禁忌の驚き”\n亡き両親から不動産を譲り受けた康之は、失踪した賃借人・海原の遺留品整理の際に、群馬の山奥の謎の物件の存在を知る。そこは、切り立った岩壁に囲まれた、「楽園」と呼ばれる奇妙な場所だった。恋人の沙織と一緒にそこを訪ね、探索をはじめた康之たちは、すぐに六人の“住人”に拿捕された。脱出のための条件はーー\n「誰か一人を殺さなければならない」\n『方舟』\n第19回オリコン上半期”本”ランキング　文庫ランキングTOP10 第1位\n週刊文春ミステリーベスト10　第1位　（「週刊文春」2022年12月8日号）国内部門\nMRC大賞2022　第1位\n『方舟』＋『十戒』の累計発行部数が100万部突破。\nーー夕木春央が描く、極限のクローズド・サークル。\n",
-      "salesDate": "2026年07月22日",
-      "series": "楽園",
-      "reviewAverage": 4.16,
-      "reviewCount": 557,
-      "genreId": "101902",
-      "isbn": "4310000890409",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "楽園",
-        "author": "夕木春央",
-        "score": 94,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
-          }
-        ],
-        "source": "combined",
-        "rank": 14,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "楽園",
-        "author": "夕木春央",
-        "score": 94,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 4
           }
         ],
         "source": "combined",
@@ -2094,8 +2082,8 @@
   "byGenre": {
     "fiction": [
       "9784059242451",
-      "4310000683989",
       "4910000909001",
+      "4310000683989",
       "4390000005636",
       "4332254800300",
       "4380000408030",
@@ -2110,8 +2098,7 @@
       "4390000005636",
       "4620000615075",
       "4620000615076",
-      "4480000944629",
-      "4310000890409"
+      "4480000944629"
     ],
     "sf": [],
     "business": [
@@ -2124,9 +2111,9 @@
       "4660629611858"
     ],
     "humanities": [
-      "4380000407898",
       "9784059242451",
       "4380000408073",
+      "4380000407898",
       "8910120537764",
       "4470887680000",
       "4390000014247"
@@ -2160,7 +2147,9 @@
       "4339134200300"
     ],
     "essay": [],
-    "comic": []
+    "comic": [
+      "4310000779045"
+    ]
   },
   "genreStatus": {
     "fiction": {
@@ -2168,7 +2157,7 @@
       "complete": true
     },
     "mystery": {
-      "matched": 5,
+      "matched": 4,
       "complete": true
     },
     "sf": {
@@ -2224,7 +2213,7 @@
       "complete": true
     },
     "comic": {
-      "matched": 0,
+      "matched": 1,
       "complete": true
     }
   }

@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-11-02T07:02:28.289Z",
+  "updatedAt": "2026-11-02T22:08:37.521Z",
   "candidateCount": 39,
   "baseMatched": 21,
-  "matched": 25,
-  "addedMatches": 4,
+  "matched": 24,
+  "addedMatches": 3,
   "unavailable": [],
   "snapshots": {
     "kinokuniya": {
@@ -324,8 +324,7 @@
           }
         ],
         "source": "combined",
-        "rank": 10,
-        "originalTitle": "ポケモン公式ぜんこく図鑑 1996-2026"
+        "rank": 10
       },
       "ranking": {
         "title": "ポケモン公式ぜんこく図鑑 1996-2026",
@@ -548,7 +547,7 @@
       "isbn": "4524815633410",
       "salesType": 0,
       "matchMeta": {
-        "title": "ハーバード、スタンフォード、オックスフォード... 科学的に証明された すごい習慣大百科",
+        "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
         "author": "",
         "isbn": "",
         "score": 170,
@@ -560,8 +559,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18,
-        "originalTitle": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科"
+        "rank": 18
       },
       "ranking": {
         "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
@@ -927,8 +925,7 @@
       "matchMeta": {
         "title": "海辺のエール",
         "author": "",
-        "isbn": "",
-        "score": 153,
+        "score": 5,
         "sources": [
           {
             "source": "kinokuniya",
@@ -937,7 +934,8 @@
           }
         ],
         "source": "combined",
-        "rank": 36
+        "rank": 36,
+        "originalTitle": ""
       },
       "ranking": {
         "title": "海辺のエール",
@@ -1191,53 +1189,6 @@
       }
     },
     {
-      "id": "4390000015358",
-      "title": "青天",
-      "author": "若林正恭",
-      "publisher": "文藝春秋",
-      "price": 1900,
-      "url": "https://books.rakuten.co.jp/rk/a6fc1b8794af3eafb7f064fac9c68dfa/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0144/2000019330144.jpg?_ex=600x600",
-      "caption": "オードリー・若林正恭、初小説！\n人にぶつかっていないと、自分が生きているかどうかよくわからなくなるーー\n総大三高の「アリ」こと中村昴が所属するアメフト部は、万年２回戦どまり。相手校の練習を隠し撮りして迎えた高３の引退大会では、強豪・遼西学園に打ち破れた。引退後、みなが受験に向かうなか、勉強にも気持ちが入らず、不良になる覚悟もないまま宙ぶらりんの日々を過ごす。自分自身の不甲斐なさにもがき続けるなかで、アリは再びアメフトと向き合う決意を固める。\n青春の苦みと悦びに満ちた、著者渾身の初小説。\n",
-      "salesDate": "2026年02月20日",
-      "series": "",
-      "reviewAverage": 3.96,
-      "reviewCount": 654,
-      "genreId": "101901",
-      "isbn": "4390000015358",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "青天",
-        "author": "若林正恭",
-        "score": 78,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 15,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "青天",
-        "author": "若林正恭",
-        "score": 78,
-        "sources": [
-          {
-            "source": "tohan",
-            "label": "トーハン",
-            "rank": 8
-          }
-        ],
-        "source": "combined",
-        "rank": 23,
-        "originalTitle": ""
-      }
-    },
-    {
       "id": "7225000866451",
       "title": "悩みの本──あなたが本気で生きている証",
       "author": "高橋佳子",
@@ -1280,7 +1231,7 @@
           }
         ],
         "source": "combined",
-        "rank": 24,
+        "rank": 23,
         "originalTitle": ""
       }
     },
@@ -1327,7 +1278,7 @@
           }
         ],
         "source": "combined",
-        "rank": 25,
+        "rank": 24,
         "originalTitle": ""
       }
     }
@@ -1343,8 +1294,7 @@
       "4320000867368",
       "4320000865495",
       "4320000865494",
-      "4310000858457",
-      "4390000015358"
+      "4310000858457"
     ],
     "mystery": [
       "4320000935695",
@@ -1396,7 +1346,7 @@
   },
   "genreStatus": {
     "fiction": {
-      "matched": 11,
+      "matched": 10,
       "complete": true
     },
     "mystery": {

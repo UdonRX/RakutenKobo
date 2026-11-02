@@ -4,11 +4,11 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-11-01T22:36:10.158Z",
+  "updatedAt": "2026-11-02T07:02:28.289Z",
   "candidateCount": 39,
   "baseMatched": 21,
-  "matched": 23,
-  "addedMatches": 2,
+  "matched": 25,
+  "addedMatches": 4,
   "unavailable": [],
   "snapshots": {
     "kinokuniya": {
@@ -17,7 +17,7 @@
       "attribution": "紀伊國屋書店調べ",
       "sourceUrl": "https://www.kinokuniya.co.jp/disp/CKnRankingPageCList.jsp?dispNo=107002001001&vTp=m",
       "periodLabel": "マンスリー",
-      "updatedAt": "2026-11-01",
+      "updatedAt": "2026-11-02",
       "live": true,
       "items": [
         {
@@ -36,67 +36,67 @@
           "title": "探偵小石は戻らない",
           "author": "",
           "isbn": "",
-          "rank": 6
+          "rank": 7
         },
         {
           "title": "未だ本能寺にあり",
           "author": "",
           "isbn": "",
-          "rank": 7
+          "rank": 8
         },
         {
           "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
           "author": "",
           "isbn": "",
-          "rank": 11
+          "rank": 10
         },
         {
           "title": "ソン・シギョンの本当に美味しい韓国グルメガイド - ＳＵＮＧ ＳＩ ＫＹＵＮＧ’ｓ Ｄｅｅｐ Ｋｏｒｅ 講談社ＭＯＯＫ",
           "author": "",
           "isbn": "",
-          "rank": 12
+          "rank": 11
         },
         {
           "title": "きずもの",
           "author": "",
           "isbn": "",
-          "rank": 14
-        },
-        {
-          "title": "人間の性 幻冬舎新書",
-          "author": "",
-          "isbn": "",
-          "rank": 18
+          "rank": 13
         },
         {
           "title": "パンどろぼう",
           "author": "",
           "isbn": "",
-          "rank": 24
+          "rank": 20
         },
         {
           "title": "寝ながらヘーゲル ＮＨＫ出版新書",
           "author": "",
           "isbn": "",
-          "rank": 25
+          "rank": 21
         },
         {
-          "title": "命の燃やし方",
+          "title": "人間の性 幻冬舎新書",
           "author": "",
           "isbn": "",
-          "rank": 26
+          "rank": 23
         },
         {
           "title": "誰も教えてくれなかった 本当のお金の守り方",
           "author": "",
           "isbn": "",
-          "rank": 27
+          "rank": 26
         },
         {
           "title": "海辺のエール",
           "author": "",
           "isbn": "",
-          "rank": 29
+          "rank": 27
+        },
+        {
+          "title": "命の燃やし方",
+          "author": "",
+          "isbn": "",
+          "rank": 28
         }
       ]
     },
@@ -106,7 +106,7 @@
       "attribution": "トーハン調べ",
       "sourceUrl": "https://www.tohan.jp/bestsellers/2026_09_monthly/",
       "periodLabel": "月間",
-      "updatedAt": "2026-11-01",
+      "updatedAt": "2026-11-02",
       "live": true,
       "items": [
         {
@@ -132,6 +132,12 @@
           "author": "",
           "isbn": "",
           "rank": 6
+        },
+        {
+          "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
+          "author": "",
+          "isbn": "",
+          "rank": 10
         },
         {
           "title": "FOR OVERSEAS",
@@ -403,28 +409,28 @@
       "matchMeta": {
         "title": "探偵小石は戻らない",
         "author": "",
-        "score": 86,
+        "score": 82,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 6
+            "rank": 7
           }
         ],
         "source": "combined",
-        "rank": 12,
+        "rank": 14,
         "originalTitle": ""
       },
       "ranking": {
         "title": "探偵小石は戻らない",
         "author": "",
         "isbn": "",
-        "score": 174,
+        "score": 173,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 6
+            "rank": 7
           }
         ],
         "source": "combined",
@@ -450,28 +456,28 @@
       "matchMeta": {
         "title": "未だ本能寺にあり",
         "author": "",
-        "score": 82,
+        "score": 78,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 7
+            "rank": 8
           }
         ],
         "source": "combined",
-        "rank": 14,
+        "rank": 16,
         "originalTitle": ""
       },
       "ranking": {
         "title": "未だ本能寺にあり",
         "author": "",
         "isbn": "",
-        "score": 173,
+        "score": 172,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 7
+            "rank": 8
           }
         ],
         "source": "combined",
@@ -497,32 +503,80 @@
       "matchMeta": {
         "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
         "author": "",
-        "score": 66,
+        "score": 70,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 11
+            "rank": 10
           }
         ],
         "source": "combined",
-        "rank": 21,
+        "rank": 20,
         "originalTitle": ""
       },
       "ranking": {
         "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
         "author": "",
         "isbn": "",
-        "score": 169,
+        "score": 170,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 11
+            "rank": 10
           }
         ],
         "source": "combined",
         "rank": 8
+      }
+    },
+    {
+      "id": "4524815633410",
+      "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
+      "author": "堀田 秀吾",
+      "publisher": "SBクリエイティブ",
+      "price": 880,
+      "url": "https://books.rakuten.co.jp/rk/79a1d43cefcb3337b3e2363c5f00a07e/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1658/2000018091658.jpg?_ex=600x600",
+      "caption": "勉強・ダイエット・貯金・目標達成…は習慣化が10割\n仕事、ダイエット、健康管理、勉強、目標達成…すべて成功のカギは「習慣化」にあります。\nしかし間違った習慣を身につけてしまったらその代償は大きくなってしまいます。\n何をどう習慣化すればいいか、そのために重要になるのが「エビデンス」です。\n・もし「A」をしたら「B」をすると、あらかじめ決めておく\n・選択肢は必ず「3つ」用意しておく\n・常にポジティブな言葉を使うーつらさに対する耐性が高まる\n・52分間作業して、17分休憩するー生産性が高まるetc.\n本書は、ハーバード、スタンフォード、オックスフォード…などの研究機関において証明されたテクニックを112個紹介。\n見開き図解入りでわかりやすい。気になったテクニックからはじめられ、情報収集のためにも役立ち、また読みものとしても楽しめる一冊です。\n※カバー画像が異なる場合があります。\n",
+      "salesDate": "2025年07月02日",
+      "series": "",
+      "reviewAverage": 3.69,
+      "reviewCount": 408,
+      "genreId": "101905090",
+      "isbn": "4524815633410",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "ハーバード、スタンフォード、オックスフォード... 科学的に証明された すごい習慣大百科",
+        "author": "",
+        "isbn": "",
+        "score": 170,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 18,
+        "originalTitle": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科"
+      },
+      "ranking": {
+        "title": "ハーバード、スタンフォード、オックスフォード… 科学的に証明された すごい習慣大百科",
+        "author": "",
+        "isbn": "",
+        "score": 170,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 10
+          }
+        ],
+        "source": "combined",
+        "rank": 9
       }
     },
     {
@@ -544,32 +598,32 @@
       "matchMeta": {
         "title": "ソン・シギョンの本当に美味しい韓国グルメガイド - SUNG SI KYUNG’s Deep Kore 講談社MOOK",
         "author": "",
-        "score": 62,
+        "score": 66,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 12
+            "rank": 11
           }
         ],
         "source": "combined",
-        "rank": 22,
+        "rank": 21,
         "originalTitle": "ソン・シギョンの本当に美味しい韓国グルメガイド - ＳＵＮＧ　ＳＩ　ＫＹＵＮＧ’ｓ　Ｄｅｅｐ　Ｋｏｒｅ 講談社ＭＯＯＫ"
       },
       "ranking": {
         "title": "ソン・シギョンの本当に美味しい韓国グルメガイド - ＳＵＮＧ ＳＩ ＫＹＵＮＧ’ｓ Ｄｅｅｐ Ｋｏｒｅ 講談社ＭＯＯＫ",
         "author": "",
         "isbn": "",
-        "score": 168,
+        "score": 169,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 12
+            "rank": 11
           }
         ],
         "source": "combined",
-        "rank": 9
+        "rank": 10
       }
     },
     {
@@ -616,7 +670,7 @@
           }
         ],
         "source": "combined",
-        "rank": 10
+        "rank": 11
       }
     },
     {
@@ -638,75 +692,28 @@
       "matchMeta": {
         "title": "きずもの",
         "author": "",
-        "score": 54,
+        "score": 58,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 14
+            "rank": 13
           }
         ],
         "source": "combined",
-        "rank": 24,
+        "rank": 23,
         "originalTitle": ""
       },
       "ranking": {
         "title": "きずもの",
         "author": "",
         "isbn": "",
-        "score": 166,
+        "score": 167,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 14
-          }
-        ],
-        "source": "combined",
-        "rank": 11
-      }
-    },
-    {
-      "id": "4380000408012",
-      "title": "人間の性",
-      "author": "佐藤優",
-      "publisher": "幻冬舎",
-      "price": 1024,
-      "url": "https://books.rakuten.co.jp/rk/662ac08062ba3b408e362d7c0f933abc/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0997/2000021660997.jpg?_ex=600x600",
-      "caption": "正義感を振りかざすと、痛い目に遭う\n人間の“抗えない本質”を理解すれば、ムダな苦労をせずに済む!\n「なぜ悪いやつが成功し、正直者がバカを見るのか?」そう思うことはないだろうか。それは人間の本質が基本的に“悪”であり、社会の構造もそれに基づいて作られているから。そんな悪意に満ちた世の中であっても、人間の根っこにある本性を熟知すれば、余計なストレスを溜め込むことなく、自分なりに満足のゆく人生を送ることは可能だ。本書は外交官として国益に邁進しながらも国策捜査の標的となり、512日間も東京拘置所の独房に収監された著者が、極限の体験、人間観察、そして何千冊もの書物を通して到達した、渾身の人間論である。\n・“悪”の自覚がない善意の人が最も危うい\n・人間は基本的に悪いやつである\n・嫉妬は「正義」の顔をして現れる\n・窮地に陥れば、たやすく裏切ってしまうのが人間\n・人間の愛情や恩義は、利害が絡むとあっけなく断ち切られる\n・なぜ「自分の心に嘘をつく」だけは、絶対にしないほうがいいのか\n・蛇のように賢く、鳩のように素直であれ\n",
-      "salesDate": "2026年09月28日",
-      "series": "",
-      "reviewAverage": 4,
-      "reviewCount": 4,
-      "genreId": "101907002002",
-      "isbn": "4380000408012",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "人間の性 幻冬舎新書",
-        "author": "",
-        "score": 38,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 18
-          }
-        ],
-        "source": "combined",
-        "rank": 27,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "人間の性 幻冬舎新書",
-        "author": "",
-        "isbn": "",
-        "score": 162,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 18
+            "rank": 13
           }
         ],
         "source": "combined",
@@ -732,28 +739,28 @@
       "matchMeta": {
         "title": "パンどろぼう",
         "author": "",
-        "score": 14,
+        "score": 30,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 24
+            "rank": 20
           }
         ],
         "source": "combined",
-        "rank": 33,
+        "rank": 29,
         "originalTitle": ""
       },
       "ranking": {
         "title": "パンどろぼう",
         "author": "",
         "isbn": "",
-        "score": 156,
+        "score": 160,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 24
+            "rank": 20
           }
         ],
         "source": "combined",
@@ -779,28 +786,28 @@
       "matchMeta": {
         "title": "寝ながらヘーゲル NHK出版新書",
         "author": "",
-        "score": 10,
+        "score": 26,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 25
+            "rank": 21
           }
         ],
         "source": "combined",
-        "rank": 34,
+        "rank": 30,
         "originalTitle": "寝ながらヘーゲル ＮＨＫ出版新書"
       },
       "ranking": {
         "title": "寝ながらヘーゲル ＮＨＫ出版新書",
         "author": "",
         "isbn": "",
-        "score": 155,
+        "score": 159,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 25
+            "rank": 21
           }
         ],
         "source": "combined",
@@ -808,46 +815,46 @@
       }
     },
     {
-      "id": "4310000701877",
-      "title": "命の燃やし方",
-      "author": "鈴木大飛",
-      "publisher": "講談社",
-      "price": 1485,
-      "url": "https://books.rakuten.co.jp/rk/bea5649a02103e659365e8b720c3170e/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6445/2000018336445.jpg?_ex=600x600",
-      "caption": "「読むだけで終わらせず、読んだ人の人生を変えたい」\n彼の切実な願いが行間にまで迸り、現代の“聖書”とも言うべき熱量であなたの命に火を灯す一冊\n3冊目となる新刊は、前作『アイドル2.0』を発売した2022年8月以来、3年ぶりとなる。誰よりも自分の人生と向き合い、本気で命を燃やしてきた鈴木大飛が27年間で学んだ全てをこの一冊に込める。\n「読むだけで終わらせず、読んだ人の人生を変えたい」\n彼の切実な願いが行間にまで迸り、現代の“聖書”とも言うべき熱量であなたの命に火を灯す一冊となっている。\n※電子版には発売記念イベントの応募用紙は入っておりません。\n",
-      "salesDate": "2025年08月26日",
-      "series": "命の燃やし方",
-      "reviewAverage": 4.08,
-      "reviewCount": 100,
-      "genreId": "101907014/101907001004/101906090/101905016001",
-      "isbn": "4310000701877",
+      "id": "4380000408012",
+      "title": "人間の性",
+      "author": "佐藤優",
+      "publisher": "幻冬舎",
+      "price": 1024,
+      "url": "https://books.rakuten.co.jp/rk/662ac08062ba3b408e362d7c0f933abc/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0997/2000021660997.jpg?_ex=600x600",
+      "caption": "正義感を振りかざすと、痛い目に遭う\n人間の“抗えない本質”を理解すれば、ムダな苦労をせずに済む!\n「なぜ悪いやつが成功し、正直者がバカを見るのか?」そう思うことはないだろうか。それは人間の本質が基本的に“悪”であり、社会の構造もそれに基づいて作られているから。そんな悪意に満ちた世の中であっても、人間の根っこにある本性を熟知すれば、余計なストレスを溜め込むことなく、自分なりに満足のゆく人生を送ることは可能だ。本書は外交官として国益に邁進しながらも国策捜査の標的となり、512日間も東京拘置所の独房に収監された著者が、極限の体験、人間観察、そして何千冊もの書物を通して到達した、渾身の人間論である。\n・“悪”の自覚がない善意の人が最も危うい\n・人間は基本的に悪いやつである\n・嫉妬は「正義」の顔をして現れる\n・窮地に陥れば、たやすく裏切ってしまうのが人間\n・人間の愛情や恩義は、利害が絡むとあっけなく断ち切られる\n・なぜ「自分の心に嘘をつく」だけは、絶対にしないほうがいいのか\n・蛇のように賢く、鳩のように素直であれ\n",
+      "salesDate": "2026年09月28日",
+      "series": "",
+      "reviewAverage": 4,
+      "reviewCount": 4,
+      "genreId": "101907002002",
+      "isbn": "4380000408012",
       "salesType": 0,
       "matchMeta": {
-        "title": "命の燃やし方",
+        "title": "人間の性 幻冬舎新書",
         "author": "",
-        "score": 6,
+        "score": 18,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 26
+            "rank": 23
           }
         ],
         "source": "combined",
-        "rank": 35,
+        "rank": 32,
         "originalTitle": ""
       },
       "ranking": {
-        "title": "命の燃やし方",
+        "title": "人間の性 幻冬舎新書",
         "author": "",
         "isbn": "",
-        "score": 154,
+        "score": 157,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 26
+            "rank": 23
           }
         ],
         "source": "combined",
@@ -873,28 +880,28 @@
       "matchMeta": {
         "title": "誰も教えてくれなかった 本当のお金の守り方",
         "author": "",
-        "score": 5,
+        "score": 6,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 27
+            "rank": 26
           }
         ],
         "source": "combined",
-        "rank": 36,
+        "rank": 35,
         "originalTitle": "誰も教えてくれなかった　本当のお金の守り方"
       },
       "ranking": {
         "title": "誰も教えてくれなかった 本当のお金の守り方",
         "author": "",
         "isbn": "",
-        "score": 153,
+        "score": 154,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 27
+            "rank": 26
           }
         ],
         "source": "combined",
@@ -920,32 +927,79 @@
       "matchMeta": {
         "title": "海辺のエール",
         "author": "",
-        "score": 5,
+        "isbn": "",
+        "score": 153,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 29
+            "rank": 27
           }
         ],
         "source": "combined",
-        "rank": 38,
-        "originalTitle": ""
+        "rank": 36
       },
       "ranking": {
         "title": "海辺のエール",
         "author": "",
         "isbn": "",
-        "score": 151,
+        "score": 153,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 29
+            "rank": 27
           }
         ],
         "source": "combined",
         "rank": 17
+      }
+    },
+    {
+      "id": "4310000701877",
+      "title": "命の燃やし方",
+      "author": "鈴木大飛",
+      "publisher": "講談社",
+      "price": 1485,
+      "url": "https://books.rakuten.co.jp/rk/bea5649a02103e659365e8b720c3170e/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6445/2000018336445.jpg?_ex=600x600",
+      "caption": "「読むだけで終わらせず、読んだ人の人生を変えたい」\n彼の切実な願いが行間にまで迸り、現代の“聖書”とも言うべき熱量であなたの命に火を灯す一冊\n3冊目となる新刊は、前作『アイドル2.0』を発売した2022年8月以来、3年ぶりとなる。誰よりも自分の人生と向き合い、本気で命を燃やしてきた鈴木大飛が27年間で学んだ全てをこの一冊に込める。\n「読むだけで終わらせず、読んだ人の人生を変えたい」\n彼の切実な願いが行間にまで迸り、現代の“聖書”とも言うべき熱量であなたの命に火を灯す一冊となっている。\n※電子版には発売記念イベントの応募用紙は入っておりません。\n",
+      "salesDate": "2025年08月26日",
+      "series": "命の燃やし方",
+      "reviewAverage": 4.08,
+      "reviewCount": 100,
+      "genreId": "101907014/101907001004/101906090/101905016001",
+      "isbn": "4310000701877",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "命の燃やし方",
+        "author": "",
+        "score": 5,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 28
+          }
+        ],
+        "source": "combined",
+        "rank": 37,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "命の燃やし方",
+        "author": "",
+        "isbn": "",
+        "score": 152,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 28
+          }
+        ],
+        "source": "combined",
+        "rank": 18
       }
     },
     {
@@ -991,7 +1045,7 @@
           }
         ],
         "source": "combined",
-        "rank": 18,
+        "rank": 19,
         "originalTitle": ""
       }
     },
@@ -1038,7 +1092,7 @@
           }
         ],
         "source": "combined",
-        "rank": 19,
+        "rank": 20,
         "originalTitle": ""
       }
     },
@@ -1085,7 +1139,7 @@
           }
         ],
         "source": "combined",
-        "rank": 20,
+        "rank": 21,
         "originalTitle": ""
       }
     },
@@ -1132,7 +1186,54 @@
           }
         ],
         "source": "combined",
-        "rank": 21,
+        "rank": 22,
+        "originalTitle": ""
+      }
+    },
+    {
+      "id": "4390000015358",
+      "title": "青天",
+      "author": "若林正恭",
+      "publisher": "文藝春秋",
+      "price": 1900,
+      "url": "https://books.rakuten.co.jp/rk/a6fc1b8794af3eafb7f064fac9c68dfa/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0144/2000019330144.jpg?_ex=600x600",
+      "caption": "オードリー・若林正恭、初小説！\n人にぶつかっていないと、自分が生きているかどうかよくわからなくなるーー\n総大三高の「アリ」こと中村昴が所属するアメフト部は、万年２回戦どまり。相手校の練習を隠し撮りして迎えた高３の引退大会では、強豪・遼西学園に打ち破れた。引退後、みなが受験に向かうなか、勉強にも気持ちが入らず、不良になる覚悟もないまま宙ぶらりんの日々を過ごす。自分自身の不甲斐なさにもがき続けるなかで、アリは再びアメフトと向き合う決意を固める。\n青春の苦みと悦びに満ちた、著者渾身の初小説。\n",
+      "salesDate": "2026年02月20日",
+      "series": "",
+      "reviewAverage": 3.96,
+      "reviewCount": 654,
+      "genreId": "101901",
+      "isbn": "4390000015358",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "青天",
+        "author": "若林正恭",
+        "score": 78,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 15,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "青天",
+        "author": "若林正恭",
+        "score": 78,
+        "sources": [
+          {
+            "source": "tohan",
+            "label": "トーハン",
+            "rank": 8
+          }
+        ],
+        "source": "combined",
+        "rank": 23,
         "originalTitle": ""
       }
     },
@@ -1179,7 +1280,7 @@
           }
         ],
         "source": "combined",
-        "rank": 22,
+        "rank": 24,
         "originalTitle": ""
       }
     },
@@ -1226,7 +1327,7 @@
           }
         ],
         "source": "combined",
-        "rank": 23,
+        "rank": 25,
         "originalTitle": ""
       }
     }
@@ -1242,7 +1343,8 @@
       "4320000867368",
       "4320000865495",
       "4320000865494",
-      "4310000858457"
+      "4310000858457",
+      "4390000015358"
     ],
     "mystery": [
       "4320000935695",
@@ -1251,15 +1353,16 @@
     ],
     "sf": [],
     "business": [
-      "4310000701877",
+      "4524815633410",
       "7225000954165",
+      "4310000701877",
       "7225000866451"
     ],
     "humanities": [
       "4380000407898",
       "4390000014247",
-      "4380000408012",
       "4470887680000",
+      "4380000408012",
       "4310000701877",
       "4320000867368",
       "7225000866451"
@@ -1293,7 +1396,7 @@
   },
   "genreStatus": {
     "fiction": {
-      "matched": 10,
+      "matched": 11,
       "complete": true
     },
     "mystery": {
@@ -1305,7 +1408,7 @@
       "complete": true
     },
     "business": {
-      "matched": 3,
+      "matched": 4,
       "complete": true
     },
     "humanities": {

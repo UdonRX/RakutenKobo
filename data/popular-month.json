@@ -4,7 +4,7 @@
   "expandedAllPublishedRanks": true,
   "preserveResolvedMatches": true,
   "period": "month",
-  "updatedAt": "2026-11-02T22:08:37.521Z",
+  "updatedAt": "2026-11-03T07:27:30.304Z",
   "candidateCount": 39,
   "baseMatched": 21,
   "matched": 24,
@@ -17,7 +17,7 @@
       "attribution": "紀伊國屋書店調べ",
       "sourceUrl": "https://www.kinokuniya.co.jp/disp/CKnRankingPageCList.jsp?dispNo=107002001001&vTp=m",
       "periodLabel": "マンスリー",
-      "updatedAt": "2026-11-02",
+      "updatedAt": "2026-11-03",
       "live": true,
       "items": [
         {
@@ -36,13 +36,13 @@
           "title": "探偵小石は戻らない",
           "author": "",
           "isbn": "",
-          "rank": 7
+          "rank": 8
         },
         {
           "title": "未だ本能寺にあり",
           "author": "",
           "isbn": "",
-          "rank": 8
+          "rank": 9
         },
         {
           "title": "戦争犯罪と闘う - 国際刑事裁判所は屈しない 文春新書",
@@ -57,43 +57,43 @@
           "rank": 11
         },
         {
+          "title": "寝ながらヘーゲル ＮＨＫ出版新書",
+          "author": "",
+          "isbn": "",
+          "rank": 14
+        },
+        {
           "title": "きずもの",
           "author": "",
           "isbn": "",
-          "rank": 13
+          "rank": 18
         },
         {
           "title": "パンどろぼう",
           "author": "",
           "isbn": "",
-          "rank": 20
-        },
-        {
-          "title": "寝ながらヘーゲル ＮＨＫ出版新書",
-          "author": "",
-          "isbn": "",
-          "rank": 21
-        },
-        {
-          "title": "人間の性 幻冬舎新書",
-          "author": "",
-          "isbn": "",
-          "rank": 23
-        },
-        {
-          "title": "誰も教えてくれなかった 本当のお金の守り方",
-          "author": "",
-          "isbn": "",
-          "rank": 26
+          "rank": 19
         },
         {
           "title": "海辺のエール",
           "author": "",
           "isbn": "",
-          "rank": 27
+          "rank": 22
+        },
+        {
+          "title": "誰も教えてくれなかった 本当のお金の守り方",
+          "author": "",
+          "isbn": "",
+          "rank": 25
         },
         {
           "title": "命の燃やし方",
+          "author": "",
+          "isbn": "",
+          "rank": 27
+        },
+        {
+          "title": "人間の性 幻冬舎新書",
           "author": "",
           "isbn": "",
           "rank": 28
@@ -106,7 +106,7 @@
       "attribution": "トーハン調べ",
       "sourceUrl": "https://www.tohan.jp/bestsellers/2026_09_monthly/",
       "periodLabel": "月間",
-      "updatedAt": "2026-11-02",
+      "updatedAt": "2026-11-03",
       "live": true,
       "items": [
         {
@@ -408,28 +408,28 @@
       "matchMeta": {
         "title": "探偵小石は戻らない",
         "author": "",
-        "score": 82,
+        "score": 78,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 7
+            "rank": 8
           }
         ],
         "source": "combined",
-        "rank": 14,
+        "rank": 16,
         "originalTitle": ""
       },
       "ranking": {
         "title": "探偵小石は戻らない",
         "author": "",
         "isbn": "",
-        "score": 173,
+        "score": 172,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 7
+            "rank": 8
           }
         ],
         "source": "combined",
@@ -455,28 +455,28 @@
       "matchMeta": {
         "title": "未だ本能寺にあり",
         "author": "",
-        "score": 78,
+        "score": 74,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 8
+            "rank": 9
           }
         ],
         "source": "combined",
-        "rank": 16,
+        "rank": 18,
         "originalTitle": ""
       },
       "ranking": {
         "title": "未だ本能寺にあり",
         "author": "",
         "isbn": "",
-        "score": 172,
+        "score": 171,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 8
+            "rank": 9
           }
         ],
         "source": "combined",
@@ -672,6 +672,53 @@
       }
     },
     {
+      "id": "4470887680000",
+      "title": "寝ながらヘーゲル",
+      "author": "斎藤幸平",
+      "publisher": "NHK出版",
+      "price": 1133,
+      "url": "https://books.rakuten.co.jp/rk/0d1b142854743e87a1558a7c026d4c6e/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4586/2000022054586.jpg?_ex=600x600",
+      "caption": "『精神現象学』って、そういう本だったのか！\nSNSの時代、承認欲求は暴走し、対立は終わらず、社会分断は広がり続けるーーその根底にある仕組みを、ヘーゲルは主著『精神現象学』で、まるで現代を予言するかのように鮮やかに描き出していた。のちにマルクス思想誕生のきっかけとなり、近現代思想を方向づけることになったこの名著を、マルクス解説で話題を呼んだ著者がやさしく読み解く。承認、自由、共同体をめぐるヘーゲルの洞察をたどれば、難解な古典が驚くほど現代的な書物であることがわかり、いま私たちの社会で何が起きているのかが見えてくる。分断の時代に希望を取り戻すための一冊。\n",
+      "salesDate": "2026年10月13日",
+      "series": "ＮＨＫ出版新書",
+      "reviewAverage": 4,
+      "reviewCount": 2,
+      "genreId": "101907002002",
+      "isbn": "4470887680000",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "寝ながらヘーゲル NHK出版新書",
+        "author": "",
+        "score": 54,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 14
+          }
+        ],
+        "source": "combined",
+        "rank": 24,
+        "originalTitle": "寝ながらヘーゲル ＮＨＫ出版新書"
+      },
+      "ranking": {
+        "title": "寝ながらヘーゲル ＮＨＫ出版新書",
+        "author": "",
+        "isbn": "",
+        "score": 166,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 14
+          }
+        ],
+        "source": "combined",
+        "rank": 12
+      }
+    },
+    {
       "id": "4320000935691",
       "title": "きずもの",
       "author": "西加奈子",
@@ -690,32 +737,32 @@
       "matchMeta": {
         "title": "きずもの",
         "author": "",
-        "score": 58,
+        "score": 38,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 13
+            "rank": 18
           }
         ],
         "source": "combined",
-        "rank": 23,
+        "rank": 27,
         "originalTitle": ""
       },
       "ranking": {
         "title": "きずもの",
         "author": "",
         "isbn": "",
-        "score": 167,
+        "score": 162,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 13
+            "rank": 18
           }
         ],
         "source": "combined",
-        "rank": 12
+        "rank": 13
       }
     },
     {
@@ -737,75 +784,28 @@
       "matchMeta": {
         "title": "パンどろぼう",
         "author": "",
-        "score": 30,
+        "score": 34,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 20
+            "rank": 19
           }
         ],
         "source": "combined",
-        "rank": 29,
+        "rank": 28,
         "originalTitle": ""
       },
       "ranking": {
         "title": "パンどろぼう",
         "author": "",
         "isbn": "",
-        "score": 160,
+        "score": 161,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 20
-          }
-        ],
-        "source": "combined",
-        "rank": 13
-      }
-    },
-    {
-      "id": "4470887680000",
-      "title": "寝ながらヘーゲル",
-      "author": "斎藤幸平",
-      "publisher": "NHK出版",
-      "price": 1133,
-      "url": "https://books.rakuten.co.jp/rk/0d1b142854743e87a1558a7c026d4c6e/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4586/2000022054586.jpg?_ex=600x600",
-      "caption": "『精神現象学』って、そういう本だったのか！\nSNSの時代、承認欲求は暴走し、対立は終わらず、社会分断は広がり続けるーーその根底にある仕組みを、ヘーゲルは主著『精神現象学』で、まるで現代を予言するかのように鮮やかに描き出していた。のちにマルクス思想誕生のきっかけとなり、近現代思想を方向づけることになったこの名著を、マルクス解説で話題を呼んだ著者がやさしく読み解く。承認、自由、共同体をめぐるヘーゲルの洞察をたどれば、難解な古典が驚くほど現代的な書物であることがわかり、いま私たちの社会で何が起きているのかが見えてくる。分断の時代に希望を取り戻すための一冊。\n",
-      "salesDate": "2026年10月13日",
-      "series": "ＮＨＫ出版新書",
-      "reviewAverage": 4,
-      "reviewCount": 2,
-      "genreId": "101907002002",
-      "isbn": "4470887680000",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "寝ながらヘーゲル NHK出版新書",
-        "author": "",
-        "score": 26,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 21
-          }
-        ],
-        "source": "combined",
-        "rank": 30,
-        "originalTitle": "寝ながらヘーゲル ＮＨＫ出版新書"
-      },
-      "ranking": {
-        "title": "寝ながらヘーゲル ＮＨＫ出版新書",
-        "author": "",
-        "isbn": "",
-        "score": 159,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 21
+            "rank": 19
           }
         ],
         "source": "combined",
@@ -813,46 +813,46 @@
       }
     },
     {
-      "id": "4380000408012",
-      "title": "人間の性",
-      "author": "佐藤優",
-      "publisher": "幻冬舎",
-      "price": 1024,
-      "url": "https://books.rakuten.co.jp/rk/662ac08062ba3b408e362d7c0f933abc/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0997/2000021660997.jpg?_ex=600x600",
-      "caption": "正義感を振りかざすと、痛い目に遭う\n人間の“抗えない本質”を理解すれば、ムダな苦労をせずに済む!\n「なぜ悪いやつが成功し、正直者がバカを見るのか?」そう思うことはないだろうか。それは人間の本質が基本的に“悪”であり、社会の構造もそれに基づいて作られているから。そんな悪意に満ちた世の中であっても、人間の根っこにある本性を熟知すれば、余計なストレスを溜め込むことなく、自分なりに満足のゆく人生を送ることは可能だ。本書は外交官として国益に邁進しながらも国策捜査の標的となり、512日間も東京拘置所の独房に収監された著者が、極限の体験、人間観察、そして何千冊もの書物を通して到達した、渾身の人間論である。\n・“悪”の自覚がない善意の人が最も危うい\n・人間は基本的に悪いやつである\n・嫉妬は「正義」の顔をして現れる\n・窮地に陥れば、たやすく裏切ってしまうのが人間\n・人間の愛情や恩義は、利害が絡むとあっけなく断ち切られる\n・なぜ「自分の心に嘘をつく」だけは、絶対にしないほうがいいのか\n・蛇のように賢く、鳩のように素直であれ\n",
-      "salesDate": "2026年09月28日",
-      "series": "",
-      "reviewAverage": 4,
-      "reviewCount": 4,
-      "genreId": "101907002002",
-      "isbn": "4380000408012",
+      "id": "4335254300320",
+      "title": "海辺のエール",
+      "author": "青山　美智子",
+      "publisher": "KADOKAWA",
+      "price": 2310,
+      "url": "https://books.rakuten.co.jp/rk/fb6c8adb24193179bba4b3bbe83c9e88/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5926/2000021955926.jpg?_ex=600x600",
+      "caption": "江ノ電の小さな駅、十六夜駅。鎌倉駅からほど近く、閑静な住宅街にあるその駅には、一人の駅員と一羽の九官鳥「ハッチ」がいた。乗客たちの声を聞き、また別の乗客にその言葉を放つハッチは駅の人気者だ。十六夜駅には、日々、様々な挫折や苦悩を抱えた人々が訪れる。人生の折り返し地点で将来に不安を抱くフリーランスの男性、恋人との手痛い失恋に打ちひしがれる女性、怪我で休みを余儀なくされたバスケットボール選手、50代の今も現役でストリップの舞台に立つ踊り子、周囲に馴染めずピアノが生きるよりどころとなっている女子高校生……。そんな彼らに届くハッチの“言葉”は、誰がどんな想いで発したのか分からないまま、前を向くきっかけをくれる。生きづらさを抱えたすべての人にエールを贈る、感動の物語！\n",
+      "salesDate": "2026年10月19日",
+      "series": "海辺のエール",
+      "reviewAverage": 4.44,
+      "reviewCount": 10,
+      "genreId": "101901001",
+      "isbn": "4335254300320",
       "salesType": 0,
       "matchMeta": {
-        "title": "人間の性 幻冬舎新書",
+        "title": "海辺のエール",
         "author": "",
-        "score": 18,
+        "score": 22,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 23
+            "rank": 22
           }
         ],
         "source": "combined",
-        "rank": 32,
+        "rank": 31,
         "originalTitle": ""
       },
       "ranking": {
-        "title": "人間の性 幻冬舎新書",
+        "title": "海辺のエール",
         "author": "",
         "isbn": "",
-        "score": 157,
+        "score": 158,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 23
+            "rank": 22
           }
         ],
         "source": "combined",
@@ -878,79 +878,32 @@
       "matchMeta": {
         "title": "誰も教えてくれなかった 本当のお金の守り方",
         "author": "",
-        "score": 6,
+        "score": 10,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 26
+            "rank": 25
           }
         ],
         "source": "combined",
-        "rank": 35,
+        "rank": 34,
         "originalTitle": "誰も教えてくれなかった　本当のお金の守り方"
       },
       "ranking": {
         "title": "誰も教えてくれなかった 本当のお金の守り方",
         "author": "",
         "isbn": "",
-        "score": 154,
+        "score": 155,
         "sources": [
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
-            "rank": 26
+            "rank": 25
           }
         ],
         "source": "combined",
         "rank": 16
-      }
-    },
-    {
-      "id": "4335254300320",
-      "title": "海辺のエール",
-      "author": "青山　美智子",
-      "publisher": "KADOKAWA",
-      "price": 2310,
-      "url": "https://books.rakuten.co.jp/rk/fb6c8adb24193179bba4b3bbe83c9e88/",
-      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5926/2000021955926.jpg?_ex=600x600",
-      "caption": "江ノ電の小さな駅、十六夜駅。鎌倉駅からほど近く、閑静な住宅街にあるその駅には、一人の駅員と一羽の九官鳥「ハッチ」がいた。乗客たちの声を聞き、また別の乗客にその言葉を放つハッチは駅の人気者だ。十六夜駅には、日々、様々な挫折や苦悩を抱えた人々が訪れる。人生の折り返し地点で将来に不安を抱くフリーランスの男性、恋人との手痛い失恋に打ちひしがれる女性、怪我で休みを余儀なくされたバスケットボール選手、50代の今も現役でストリップの舞台に立つ踊り子、周囲に馴染めずピアノが生きるよりどころとなっている女子高校生……。そんな彼らに届くハッチの“言葉”は、誰がどんな想いで発したのか分からないまま、前を向くきっかけをくれる。生きづらさを抱えたすべての人にエールを贈る、感動の物語！\n",
-      "salesDate": "2026年10月19日",
-      "series": "海辺のエール",
-      "reviewAverage": 4.44,
-      "reviewCount": 10,
-      "genreId": "101901001",
-      "isbn": "4335254300320",
-      "salesType": 0,
-      "matchMeta": {
-        "title": "海辺のエール",
-        "author": "",
-        "score": 5,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 27
-          }
-        ],
-        "source": "combined",
-        "rank": 36,
-        "originalTitle": ""
-      },
-      "ranking": {
-        "title": "海辺のエール",
-        "author": "",
-        "isbn": "",
-        "score": 153,
-        "sources": [
-          {
-            "source": "kinokuniya",
-            "label": "紀伊國屋書店",
-            "rank": 27
-          }
-        ],
-        "source": "combined",
-        "rank": 17
       }
     },
     {
@@ -977,6 +930,53 @@
           {
             "source": "kinokuniya",
             "label": "紀伊國屋書店",
+            "rank": 27
+          }
+        ],
+        "source": "combined",
+        "rank": 36,
+        "originalTitle": ""
+      },
+      "ranking": {
+        "title": "命の燃やし方",
+        "author": "",
+        "isbn": "",
+        "score": 153,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
+            "rank": 27
+          }
+        ],
+        "source": "combined",
+        "rank": 17
+      }
+    },
+    {
+      "id": "4380000408012",
+      "title": "人間の性",
+      "author": "佐藤優",
+      "publisher": "幻冬舎",
+      "price": 1024,
+      "url": "https://books.rakuten.co.jp/rk/662ac08062ba3b408e362d7c0f933abc/",
+      "image": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0997/2000021660997.jpg?_ex=600x600",
+      "caption": "正義感を振りかざすと、痛い目に遭う\n人間の“抗えない本質”を理解すれば、ムダな苦労をせずに済む!\n「なぜ悪いやつが成功し、正直者がバカを見るのか?」そう思うことはないだろうか。それは人間の本質が基本的に“悪”であり、社会の構造もそれに基づいて作られているから。そんな悪意に満ちた世の中であっても、人間の根っこにある本性を熟知すれば、余計なストレスを溜め込むことなく、自分なりに満足のゆく人生を送ることは可能だ。本書は外交官として国益に邁進しながらも国策捜査の標的となり、512日間も東京拘置所の独房に収監された著者が、極限の体験、人間観察、そして何千冊もの書物を通して到達した、渾身の人間論である。\n・“悪”の自覚がない善意の人が最も危うい\n・人間は基本的に悪いやつである\n・嫉妬は「正義」の顔をして現れる\n・窮地に陥れば、たやすく裏切ってしまうのが人間\n・人間の愛情や恩義は、利害が絡むとあっけなく断ち切られる\n・なぜ「自分の心に嘘をつく」だけは、絶対にしないほうがいいのか\n・蛇のように賢く、鳩のように素直であれ\n",
+      "salesDate": "2026年09月28日",
+      "series": "",
+      "reviewAverage": 4,
+      "reviewCount": 4,
+      "genreId": "101907002002",
+      "isbn": "4380000408012",
+      "salesType": 0,
+      "matchMeta": {
+        "title": "人間の性 幻冬舎新書",
+        "author": "",
+        "score": 5,
+        "sources": [
+          {
+            "source": "kinokuniya",
+            "label": "紀伊國屋書店",
             "rank": 28
           }
         ],
@@ -985,7 +985,7 @@
         "originalTitle": ""
       },
       "ranking": {
-        "title": "命の燃やし方",
+        "title": "人間の性 幻冬舎新書",
         "author": "",
         "isbn": "",
         "score": 152,
@@ -1312,8 +1312,8 @@
       "4380000407898",
       "4390000014247",
       "4470887680000",
-      "4380000408012",
       "4310000701877",
+      "4380000408012",
       "4320000867368",
       "7225000866451"
     ],
